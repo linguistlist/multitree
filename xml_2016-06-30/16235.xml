@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Australia</region>
+    <root>
+      <other-codes></other-codes>
+      <node-type>Subgroup</node-type>
+      <geography>Lake Eyre Basin</geography>
+      <start-date nil="true"></start-date>
+      <node-status-id nil="true"></node-status-id>
+      <creator-id type="integer">10740</creator-id>
+      <pri-name>Proto-Karnic</pri-name>
+      <created-by>joe_leif</created-by>
+      <confidence>Y</confidence>
+      <children type="array">
+        <child>
+          <other-codes></other-codes>
+          <node-type>Subgroup</node-type>
+          <geography nil="true"></geography>
+          <start-date nil="true"></start-date>
+          <node-status-id nil="true"></node-status-id>
+          <creator-id type="integer">10740</creator-id>
+          <pri-name>Central-Eastern Karnic</pri-name>
+          <created-by>joe_leif</created-by>
+          <confidence>Y</confidence>
+          <children type="array">
+            <child>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <geography nil="true"></geography>
+              <start-date nil="true"></start-date>
+              <node-status-id nil="true"></node-status-id>
+              <creator-id type="integer">10740</creator-id>
+              <pri-name>Central Karnic</pri-name>
+              <created-by>joe_leif</created-by>
+              <confidence>N</confidence>
+              <children type="array">
+                <child>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <geography nil="true"></geography>
+                  <start-date nil="true"></start-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <pri-name>Diyari</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <confidence>Y</confidence>
+                  <children type="array"/>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <sureness type="integer">0</sureness>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <id type="integer">672808</id>
+                  <end-date nil="true"></end-date>
+                  <created-at type="datetime">2009-11-11T17:29:45-05:00</created-at>
+                  <tree-id type="integer">16235</tree-id>
+                  <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-at type="datetime">2009-11-11T17:29:45-05:00</updated-at>
+                  <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+                  <status nil="true"></status>
+                  <codes>dif</codes>
+                  <alt-names></alt-names>
+                </child>
+                <child>
+                  <other-codes></other-codes>
+                  <node-type>Subgroup</node-type>
+                  <geography nil="true"></geography>
+                  <start-date nil="true"></start-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <pri-name>Yarluyandi-Ngamini</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <confidence>N</confidence>
+                  <children type="array">
+                    <child>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <geography nil="true"></geography>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <pri-name>Yarluyandi</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <confidence>Y</confidence>
+                      <children type="array"/>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments>Ethnologue lists "Yarluyandji" as an alternate name for Ngamini (ISO-639-3 nmv) (http://www.ethnologue.com/show_language.asp?code=nmv).</pub-comments>
+                      <id type="integer">672806</id>
+                      <end-date nil="true"></end-date>
+                      <created-at type="datetime">2009-11-11T17:29:45-05:00</created-at>
+                      <tree-id type="integer">16235</tree-id>
+                      <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2009-11-11T17:29:45-05:00</updated-at>
+                      <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+                      <status nil="true"></status>
+                      <codes>nmv</codes>
+                      <alt-names></alt-names>
+                    </child>
+                    <child>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <geography nil="true"></geography>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <pri-name>Ngamini</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <confidence>Y</confidence>
+                      <children type="array"/>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments></pub-comments>
+                      <id type="integer">672807</id>
+                      <end-date nil="true"></end-date>
+                      <created-at type="datetime">2009-11-11T17:29:45-05:00</created-at>
+                      <tree-id type="integer">16235</tree-id>
+                      <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2009-11-11T17:29:45-05:00</updated-at>
+                      <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+                      <status nil="true"></status>
+                      <codes>nmv</codes>
+                      <alt-names></alt-names>
+                    </child>
+                  </children>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <sureness type="integer">0</sureness>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments>Node not named by author.</pub-comments>
+                  <id type="integer">672805</id>
+                  <end-date nil="true"></end-date>
+                  <created-at type="datetime">2009-11-11T17:29:45-05:00</created-at>
+                  <tree-id type="integer">16235</tree-id>
+                  <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-at type="datetime">2009-11-11T17:29:45-05:00</updated-at>
+                  <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+                  <status nil="true"></status>
+                  <codes>yrng</codes>
+                  <alt-names></alt-names>
+                </child>
+                <child>
+                  <other-codes></other-codes>
+                  <node-type>Subgroup</node-type>
+                  <geography nil="true"></geography>
+                  <start-date nil="true"></start-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <pri-name>Yawarrawarka-Yandruwandha</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <confidence>Y</confidence>
+                  <children type="array">
+                    <child>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <geography nil="true"></geography>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <pri-name>Yawarrawarka</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <confidence>Y</confidence>
+                      <children type="array"/>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments></pub-comments>
+                      <id type="integer">672810</id>
+                      <end-date nil="true"></end-date>
+                      <created-at type="datetime">2009-11-11T17:29:46-05:00</created-at>
+                      <tree-id type="integer">16235</tree-id>
+                      <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2009-11-11T17:29:46-05:00</updated-at>
+                      <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+                      <status nil="true"></status>
+                      <codes>yww</codes>
+                      <alt-names></alt-names>
+                    </child>
+                    <child>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <geography nil="true"></geography>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <pri-name>Yandruwandha</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <confidence>Y</confidence>
+                      <children type="array"/>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments></pub-comments>
+                      <id type="integer">672811</id>
+                      <end-date nil="true"></end-date>
+                      <created-at type="datetime">2009-11-11T17:29:46-05:00</created-at>
+                      <tree-id type="integer">16235</tree-id>
+                      <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2009-11-11T17:29:46-05:00</updated-at>
+                      <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+                      <status nil="true"></status>
+                      <codes>ynd</codes>
+                      <alt-names></alt-names>
+                    </child>
+                  </children>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <sureness type="integer">0</sureness>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments>Node not named by author.</pub-comments>
+                  <id type="integer">672809</id>
+                  <end-date nil="true"></end-date>
+                  <created-at type="datetime">2009-11-11T17:29:45-05:00</created-at>
+                  <tree-id type="integer">16235</tree-id>
+                  <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-at type="datetime">2009-11-11T17:29:46-05:00</updated-at>
+                  <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+                  <status nil="true"></status>
+                  <codes>ywyn</codes>
+                  <alt-names></alt-names>
+                </child>
+                <child>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <geography nil="true"></geography>
+                  <start-date nil="true"></start-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <pri-name>Mithaka</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <confidence>N</confidence>
+                  <children type="array"/>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <sureness type="integer">0</sureness>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <id type="integer">672804</id>
+                  <end-date nil="true"></end-date>
+                  <created-at type="datetime">2009-11-11T17:29:45-05:00</created-at>
+                  <tree-id type="integer">16235</tree-id>
+                  <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-at type="datetime">2009-11-11T17:29:45-05:00</updated-at>
+                  <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+                  <status nil="true"></status>
+                  <codes>0h4</codes>
+                  <alt-names></alt-names>
+                </child>
+              </children>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <is-default type="integer">0</is-default>
+              <pub-comments></pub-comments>
+              <id type="integer">672803</id>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-11-11T17:29:45-05:00</created-at>
+              <tree-id type="integer">16235</tree-id>
+              <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+              <node-type-id type="integer">10000</node-type-id>
+              <deleted-at nil="true"></deleted-at>
+              <updated-at type="datetime">2009-11-11T17:29:45-05:00</updated-at>
+              <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+              <status nil="true"></status>
+              <codes>karn</codes>
+              <alt-names></alt-names>
+            </child>
+            <child>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <geography nil="true"></geography>
+              <start-date nil="true"></start-date>
+              <node-status-id nil="true"></node-status-id>
+              <creator-id type="integer">10740</creator-id>
+              <pri-name>Eastern Karnic</pri-name>
+              <created-by>joe_leif</created-by>
+              <confidence>Y</confidence>
+              <children type="array">
+                <child>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <geography nil="true"></geography>
+                  <start-date nil="true"></start-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <pri-name>Garlali</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <confidence>Y</confidence>
+                  <children type="array"/>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <sureness type="integer">0</sureness>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <id type="integer">672816</id>
+                  <end-date nil="true"></end-date>
+                  <created-at type="datetime">2009-11-11T17:29:46-05:00</created-at>
+                  <tree-id type="integer">16235</tree-id>
+                  <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-at type="datetime">2013-03-05T14:12:46-05:00</updated-at>
+                  <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+                  <status nil="true"></status>
+                  <codes>gll</codes>
+                  <alt-names></alt-names>
+                </child>
+                <child>
+                  <other-codes></other-codes>
+                  <node-type>Subgroup</node-type>
+                  <geography nil="true"></geography>
+                  <start-date nil="true"></start-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <pri-name>Wankumara-Punthamara</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <confidence>N</confidence>
+                  <children type="array">
+                    <child>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <geography nil="true"></geography>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <pri-name>Punthamara</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <confidence>N</confidence>
+                      <children type="array"/>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments>According to Ethnologue, "Punthamara" is a dialect of "Ngura" (ISO 639-3 nbx) (http://www.ethnologue.com/show_language.asp?code=nbx).</pub-comments>
+                      <id type="integer">672815</id>
+                      <end-date nil="true"></end-date>
+                      <created-at type="datetime">2009-11-11T17:29:46-05:00</created-at>
+                      <tree-id type="integer">16235</tree-id>
+                      <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-03-05T14:26:02-05:00</updated-at>
+                      <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+                      <status nil="true"></status>
+                      <codes>xpt</codes>
+                      <alt-names></alt-names>
+                    </child>
+                    <child>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <geography nil="true"></geography>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <pri-name>Wankumara</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <confidence>N</confidence>
+                      <children type="array"/>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments>According to Ethnologue, "Wankumara" is a dialect of "Ngura" (ISO 639-3 nbx) (http://www.ethnologue.com/show_language.asp?code=nbx).</pub-comments>
+                      <id type="integer">672814</id>
+                      <end-date nil="true"></end-date>
+                      <created-at type="datetime">2009-11-11T17:29:46-05:00</created-at>
+                      <tree-id type="integer">16235</tree-id>
+                      <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-03-05T14:27:44-05:00</updated-at>
+                      <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+                      <status nil="true"></status>
+                      <codes>xwk</codes>
+                      <alt-names></alt-names>
+                    </child>
+                  </children>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <sureness type="integer">0</sureness>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments>Node not named by author.</pub-comments>
+                  <id type="integer">672813</id>
+                  <end-date nil="true"></end-date>
+                  <created-at type="datetime">2009-11-11T17:29:46-05:00</created-at>
+                  <tree-id type="integer">16235</tree-id>
+                  <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-at type="datetime">2013-03-05T14:33:01-05:00</updated-at>
+                  <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+                  <status nil="true"></status>
+                  <codes>wapu</codes>
+                  <alt-names></alt-names>
+                </child>
+              </children>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <is-default type="integer">0</is-default>
+              <pub-comments></pub-comments>
+              <id type="integer">672812</id>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-11-11T17:29:46-05:00</created-at>
+              <tree-id type="integer">16235</tree-id>
+              <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+              <node-type-id type="integer">10000</node-type-id>
+              <deleted-at nil="true"></deleted-at>
+              <updated-at type="datetime">2009-11-11T17:29:46-05:00</updated-at>
+              <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+              <status nil="true"></status>
+              <codes>ngra</codes>
+              <alt-names></alt-names>
+            </child>
+          </children>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <is-default type="integer">0</is-default>
+          <pub-comments>Node not named by author.</pub-comments>
+          <id type="integer">672802</id>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-11-11T17:29:45-05:00</created-at>
+          <tree-id type="integer">16235</tree-id>
+          <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+          <node-type-id type="integer">10000</node-type-id>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2009-11-11T17:29:45-05:00</updated-at>
+          <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+          <status nil="true"></status>
+          <codes>cekc</codes>
+          <alt-names></alt-names>
+        </child>
+        <child>
+          <other-codes></other-codes>
+          <node-type>Subgroup</node-type>
+          <geography nil="true"></geography>
+          <start-date nil="true"></start-date>
+          <node-status-id nil="true"></node-status-id>
+          <creator-id type="integer">10740</creator-id>
+          <pri-name>Arbana-Wangka-Jutjuru</pri-name>
+          <created-by>joe_leif</created-by>
+          <confidence>Y</confidence>
+          <children type="array">
+            <child>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <geography nil="true"></geography>
+              <start-date nil="true"></start-date>
+              <node-status-id nil="true"></node-status-id>
+              <creator-id type="integer">10740</creator-id>
+              <pri-name>Arbana-Wangkangurru</pri-name>
+              <created-by>joe_leif</created-by>
+              <confidence>Y</confidence>
+              <children type="array">
+                <child>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <geography nil="true"></geography>
+                  <start-date nil="true"></start-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <pri-name>Wangkangurru</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <confidence>Y</confidence>
+                  <children type="array"/>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <sureness type="integer">0</sureness>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <id type="integer">672798</id>
+                  <end-date nil="true"></end-date>
+                  <created-at type="datetime">2009-11-11T17:29:45-05:00</created-at>
+                  <tree-id type="integer">16235</tree-id>
+                  <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-at type="datetime">2009-11-11T17:29:45-05:00</updated-at>
+                  <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+                  <status nil="true"></status>
+                  <codes>wgg</codes>
+                  <alt-names></alt-names>
+                </child>
+                <child>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <geography nil="true"></geography>
+                  <start-date nil="true"></start-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <pri-name>Arbana</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <confidence>Y</confidence>
+                  <children type="array"/>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <sureness type="integer">0</sureness>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <id type="integer">672797</id>
+                  <end-date nil="true"></end-date>
+                  <created-at type="datetime">2009-11-11T17:29:45-05:00</created-at>
+                  <tree-id type="integer">16235</tree-id>
+                  <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-at type="datetime">2009-11-11T17:29:45-05:00</updated-at>
+                  <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+                  <status nil="true"></status>
+                  <codes>ard</codes>
+                  <alt-names></alt-names>
+                </child>
+              </children>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <is-default type="integer">0</is-default>
+              <pub-comments>The author notes that Arabana-Wangkangurru is sometimes not placed within the Karnic group, but her reconstructions prove otherwise (206).</pub-comments>
+              <id type="integer">672796</id>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-11-11T17:29:45-05:00</created-at>
+              <tree-id type="integer">16235</tree-id>
+              <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+              <node-type-id type="integer">10000</node-type-id>
+              <deleted-at nil="true"></deleted-at>
+              <updated-at type="datetime">2009-11-11T17:29:45-05:00</updated-at>
+              <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+              <status nil="true"></status>
+              <codes>arbw</codes>
+              <alt-names></alt-names>
+            </child>
+            <child>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <geography nil="true"></geography>
+              <start-date nil="true"></start-date>
+              <node-status-id nil="true"></node-status-id>
+              <creator-id type="integer">10740</creator-id>
+              <pri-name>Pitta-Pitta-Wangka-Jutjuru</pri-name>
+              <created-by>joe_leif</created-by>
+              <confidence>Y</confidence>
+              <children type="array">
+                <child>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <geography nil="true"></geography>
+                  <start-date nil="true"></start-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <pri-name>Wangka-Jutjuru</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <confidence>Y</confidence>
+                  <children type="array"/>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <sureness type="integer">0</sureness>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <id type="integer">672801</id>
+                  <end-date nil="true"></end-date>
+                  <created-at type="datetime">2009-11-11T17:29:45-05:00</created-at>
+                  <tree-id type="integer">16235</tree-id>
+                  <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-at type="datetime">2009-11-11T17:29:45-05:00</updated-at>
+                  <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+                  <status nil="true"></status>
+                  <codes>wgg</codes>
+                  <alt-names></alt-names>
+                </child>
+                <child>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <geography nil="true"></geography>
+                  <start-date nil="true"></start-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <pri-name>Pitta-Pitta</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <confidence>Y</confidence>
+                  <children type="array"/>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <sureness type="integer">0</sureness>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <id type="integer">672800</id>
+                  <end-date nil="true"></end-date>
+                  <created-at type="datetime">2009-11-11T17:29:45-05:00</created-at>
+                  <tree-id type="integer">16235</tree-id>
+                  <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-at type="datetime">2009-11-11T17:29:45-05:00</updated-at>
+                  <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+                  <status nil="true"></status>
+                  <codes>pit</codes>
+                  <alt-names></alt-names>
+                </child>
+              </children>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <is-default type="integer">0</is-default>
+              <pub-comments>Node not named by author.</pub-comments>
+              <id type="integer">672799</id>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-11-11T17:29:45-05:00</created-at>
+              <tree-id type="integer">16235</tree-id>
+              <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+              <node-type-id type="integer">10000</node-type-id>
+              <deleted-at nil="true"></deleted-at>
+              <updated-at type="datetime">2009-11-11T17:29:45-05:00</updated-at>
+              <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+              <status nil="true"></status>
+              <codes>pitt</codes>
+              <alt-names></alt-names>
+            </child>
+          </children>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <is-default type="integer">0</is-default>
+          <pub-comments>Node not named by author.</pub-comments>
+          <id type="integer">672795</id>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-11-11T17:29:44-05:00</created-at>
+          <tree-id type="integer">16235</tree-id>
+          <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+          <node-type-id type="integer">10000</node-type-id>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2009-11-11T17:29:45-05:00</updated-at>
+          <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+          <status nil="true"></status>
+          <codes>palk</codes>
+          <alt-names></alt-names>
+        </child>
+      </children>
+      <updater-id type="integer">10740</updater-id>
+      <updated-by>joe_leif</updated-by>
+      <sureness type="integer">0</sureness>
+      <is-default type="integer">0</is-default>
+      <pub-comments>"The Karnic group is Pama-Nyungan...The Karnic languages are, however, unusual in a number of ways. These characteristics allow Karnic to be distinguished from the neighbouring languages. Not every feature is shared by neighbouring languages; nonetheless Karnic languages are sufficiently different to allow the identification of the Lake Eyre basin either as a Sprachbund (linguistic area) or as a genetic subgroup" (10). "Subgrouping must be determined on the basis of shared innovations, not on the basis of shared retentions of earlier features" (189).</pub-comments>
+      <id type="integer">672794</id>
+      <end-date nil="true"></end-date>
+      <created-at type="datetime">2009-11-11T17:29:44-05:00</created-at>
+      <tree-id type="integer">16235</tree-id>
+      <publications>Bowern, Claire. 1998. The Case of Proto-Karnic: Morphological Reconstruction in the Nominal and Pronominal System of Proto-Karnic (Lake Eyre Basin). Canberra: Australian National University. </publications>
+      <node-type-id type="integer">10000</node-type-id>
+      <deleted-at nil="true"></deleted-at>
+      <updated-at type="datetime">2009-11-11T17:29:44-05:00</updated-at>
+      <tree-val>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</tree-val>
+      <status nil="true"></status>
+      <codes>karc</codes>
+      <alt-names></alt-names>
+    </root>
+    <description>Proto-Karnic, subtree of Pama-Nyungan:  Bowern 1998</description>
+  </tree>
+</hash>

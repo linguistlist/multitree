@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <description>Lule-Vilelan: Campbell, Grondona 2012</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2013-05-22T09:59:10-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Lule-Vilelan: Campbell, Grondona 2012</tree-val>
+      <pub-comments>Viegas Barros 2001: Colonial sources report the language was spoken by five &#8220;nations&#8221;: Tonocot&#233;, Lule, Ysistin&#233;, Toquistin&#233;, and Oristin&#233; (cf. Adelaar 2004:386). The sources, however, are difficult to interpret, leaving the true linguistic identity of Tonocot&#233; unclear. Loukotka (1968:277) included in his &#8220;Lule stock&#8221;:  Lule, Tonocot&#233;, Isistin&#233;, Oristine, Matar&#225; (Amualal&#225;), and Jur&#237;, saying nothing was known of any of these except Lule itself.  Chunup&#237; is commonly considered an alternative name for Vilela, though Loukotka (1968:53) considered it a distinct language in his Vilela stock. The designation of &#8220;Chunup&#237;&#8221; in historical sources is unclear, and the name has also been assocated with Nivacl&#233; (Chulup&#237;, Ashlushlay; a Matacoan language), causing considerable confusion. Loukotka (1968:53) lists also as members of his Vilela stock the following extinct languages, of all of which he says nothing is known:  Pasain, Ocole, Omoampa, Macomita, Yecamita, and Sinipi.</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2013-05-22T09:59:11-04:00</updated-at>
+      <pri-name>Lule-Vilelan</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">870617</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">21946</tree-id>
+      <codes>luvi</codes>
+      <status nil="true"></status>
+      <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-05-22T09:59:11-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Lule-Vilelan: Campbell, Grondona 2012</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <updated-at type="datetime">2013-05-22T09:59:11-04:00</updated-at>
+          <pri-name>Lule</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">870619</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Argentina</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">21946</tree-id>
+          <codes>ule</codes>
+          <status>Extinct</status>
+          <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-05-22T09:59:11-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Lule-Vilelan: Campbell, Grondona 2012</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-05-22T09:59:11-04:00</updated-at>
+          <pri-name>Vilela</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">870618</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">21946</tree-id>
+          <codes>vil</codes>
+          <status nil="true"></status>
+          <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

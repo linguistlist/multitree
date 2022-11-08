@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Australia</region>
+    <root>
+      <is-default type="integer">0</is-default>
+      <end-date nil="true"></end-date>
+      <created-at type="datetime">2009-05-06T16:59:05-04:00</created-at>
+      <updated-at type="datetime">2009-05-06T16:59:05-04:00</updated-at>
+      <node-status-id nil="true"></node-status-id>
+      <tree-val>Tasmanian: Dryer 2005</tree-val>
+      <tree-id type="integer">12111</tree-id>
+      <status nil="true"></status>
+      <start-date nil="true"></start-date>
+      <pri-name>Tasmanian</pri-name>
+      <updater-id type="integer">10740</updater-id>
+      <geography nil="true"></geography>
+      <alt-names></alt-names>
+      <other-codes></other-codes>
+      <id type="integer">386987</id>
+      <deleted-at nil="true"></deleted-at>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 623. New York: Oxford University Press. ISBN 0199255911</publications>
+      <node-type>Subgroup</node-type>
+      <created-by>joe_leif</created-by>
+      <codes>tasm</codes>
+      <updated-by>joe_leif</updated-by>
+      <creator-id type="integer">10740</creator-id>
+      <confidence>y</confidence>
+      <children type="array">
+        <child>
+          <is-default type="integer">0</is-default>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-05-06T16:59:05-04:00</created-at>
+          <updated-at type="datetime">2009-05-06T16:59:05-04:00</updated-at>
+          <node-status-id nil="true"></node-status-id>
+          <tree-val>Tasmanian: Dryer 2005</tree-val>
+          <tree-id type="integer">12111</tree-id>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <pri-name>Tasmanian</pri-name>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Country: Australia; Lat.: -42.17; Long.: 146.5</geography>
+          <alt-names></alt-names>
+          <other-codes>tsm</other-codes>
+          <id type="integer">386988</id>
+          <deleted-at nil="true"></deleted-at>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 623. New York: Oxford University Press. ISBN 0199255911</publications>
+          <node-type>Language</node-type>
+          <created-by>joe_leif</created-by>
+          <codes>xtz</codes>
+          <updated-by>joe_leif</updated-by>
+          <creator-id type="integer">10740</creator-id>
+          <confidence>y</confidence>
+          <children type="array"/>
+          <sureness type="integer">0</sureness>
+          <pub-comments>WALS Code: tsm</pub-comments>
+          <node-type-id type="integer">10001</node-type-id>
+        </child>
+        <child>
+          <is-default type="integer">0</is-default>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-05-06T16:59:05-04:00</created-at>
+          <updated-at type="datetime">2009-05-06T16:59:06-04:00</updated-at>
+          <node-status-id nil="true"></node-status-id>
+          <tree-val>Tasmanian: Dryer 2005</tree-val>
+          <tree-id type="integer">12111</tree-id>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <pri-name>Tasmanian (Oyster Bay to Pitwater)</pri-name>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Country: Australia; Lat.: -42.5; Long.: 147.75</geography>
+          <alt-names></alt-names>
+          <other-codes>toy</other-codes>
+          <id type="integer">386989</id>
+          <deleted-at nil="true"></deleted-at>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 623. New York: Oxford University Press. ISBN 0199255911</publications>
+          <node-type>Language</node-type>
+          <created-by>joe_leif</created-by>
+          <codes>xtz</codes>
+          <updated-by>joe_leif</updated-by>
+          <creator-id type="integer">10740</creator-id>
+          <confidence>n</confidence>
+          <children type="array"/>
+          <sureness type="integer">0</sureness>
+          <pub-comments>WALS Code: toy</pub-comments>
+          <node-type-id type="integer">10001</node-type-id>
+        </child>
+      </children>
+      <sureness type="integer">0</sureness>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <node-type-id type="integer">10000</node-type-id>
+    </root>
+    <description>Tasmanian: Dryer 2005</description>
+  </tree>
+</hash>

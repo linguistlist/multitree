@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>    <region>Europe</region>
+    <root>
+      <node-type-id type="integer">10000</node-type-id>
+      <id type="integer">387157</id>
+      <deleted-at nil="true"></deleted-at>
+      <creator-id type="integer">10740</creator-id>
+      <pri-name>Samoyed languages</pri-name>
+      <codes>smoy</codes>
+      <updated-by>joe_leif</updated-by>
+      <status nil="true"></status>
+      <alt-names></alt-names>
+      <created-by>joe_leif</created-by>
+      <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+      <is-default type="integer">0</is-default>
+      <confidence>y</confidence>
+      <updated-at type="datetime">2009-05-06T19:53:51-04:00</updated-at>
+      <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+      <other-codes></other-codes>
+      <node-type>Subgroup</node-type>
+      <geography nil="true"></geography>
+      <created-at type="datetime">2009-05-06T19:53:51-04:00</created-at>
+      <tree-id type="integer">12121</tree-id>
+      <updater-id type="integer">10740</updater-id>
+      <sureness type="integer">0</sureness>
+      <start-date nil="true"></start-date>
+      <pub-comments></pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <children type="array">
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <id type="integer">387186</id>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <pri-name>Selkup</pri-name>
+          <codes>sel</codes>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <alt-names></alt-names>
+          <created-by>joe_leif</created-by>
+          <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+          <is-default type="integer">0</is-default>
+          <confidence>y</confidence>
+          <updated-at type="datetime">2009-05-06T19:53:58-04:00</updated-at>
+          <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <geography nil="true"></geography>
+          <created-at type="datetime">2009-05-06T19:53:58-04:00</created-at>
+          <tree-id type="integer">12121</tree-id>
+          <updater-id type="integer">10740</updater-id>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <children type="array">
+            <child>
+              <node-type-id type="integer">10004</node-type-id>
+              <id type="integer">387189</id>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pri-name>Ket dialect group</pri-name>
+              <codes>sel-ket</codes>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <alt-names>Southern dialect group</alt-names>
+              <created-by>joe_leif</created-by>
+              <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+              <is-default type="integer">0</is-default>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2009-05-06T19:53:59-04:00</updated-at>
+              <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+              <other-codes></other-codes>
+              <node-type>Dialect Group</node-type>
+              <geography nil="true"></geography>
+              <created-at type="datetime">2009-05-06T19:53:59-04:00</created-at>
+              <tree-id type="integer">12121</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <children type="array"/>
+              <end-date nil="true"></end-date>
+            </child>
+            <child>
+              <node-type-id type="integer">10004</node-type-id>
+              <id type="integer">387187</id>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pri-name>Taz dialect group</pri-name>
+              <codes>1oo</codes>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <alt-names>north-western dialect group</alt-names>
+              <created-by>joe_leif</created-by>
+              <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+              <is-default type="integer">0</is-default>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2012-08-03T14:52:53-04:00</updated-at>
+              <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+              <other-codes></other-codes>
+              <node-type>Dialect Group</node-type>
+              <geography nil="true"></geography>
+              <created-at type="datetime">2009-05-06T19:53:58-04:00</created-at>
+              <tree-id type="integer">12121</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <children type="array"/>
+              <end-date nil="true"></end-date>
+            </child>
+            <child>
+              <node-type-id type="integer">10004</node-type-id>
+              <id type="integer">387188</id>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pri-name>Tym dialect group</pri-name>
+              <codes>1op</codes>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <alt-names></alt-names>
+              <created-by>joe_leif</created-by>
+              <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+              <is-default type="integer">0</is-default>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2012-08-03T14:55:42-04:00</updated-at>
+              <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+              <other-codes></other-codes>
+              <node-type>Dialect Group</node-type>
+              <geography nil="true"></geography>
+              <created-at type="datetime">2009-05-06T19:53:58-04:00</created-at>
+              <tree-id type="integer">12121</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <children type="array"/>
+              <end-date nil="true"></end-date>
+            </child>
+          </children>
+          <end-date nil="true"></end-date>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <id type="integer">387178</id>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <pri-name>Enets</pri-name>
+          <codes>enh, enf</codes>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <alt-names></alt-names>
+          <created-by>joe_leif</created-by>
+          <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+          <is-default type="integer">0</is-default>
+          <confidence>y</confidence>
+          <updated-at type="datetime">2009-05-06T19:53:56-04:00</updated-at>
+          <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <geography nil="true"></geography>
+          <created-at type="datetime">2009-05-06T19:53:56-04:00</created-at>
+          <tree-id type="integer">12121</tree-id>
+          <updater-id type="integer">10740</updater-id>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <children type="array">
+            <child>
+              <node-type-id type="integer">10003</node-type-id>
+              <id type="integer">387179</id>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pri-name>Khantaysk dialect</pri-name>
+              <codes>enh-kha</codes>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <alt-names>dialect of the Maddu tribe</alt-names>
+              <created-by>joe_leif</created-by>
+              <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+              <is-default type="integer">0</is-default>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2009-05-06T19:53:56-04:00</updated-at>
+              <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+              <other-codes></other-codes>
+              <node-type>Dialect</node-type>
+              <geography nil="true"></geography>
+              <created-at type="datetime">2009-05-06T19:53:56-04:00</created-at>
+              <tree-id type="integer">12121</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <children type="array"/>
+              <end-date nil="true"></end-date>
+            </child>
+            <child>
+              <node-type-id type="integer">10003</node-type-id>
+              <id type="integer">387181</id>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pri-name>Moggaddi</pri-name>
+              <codes>enf-mog</codes>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <alt-names></alt-names>
+              <created-by>joe_leif</created-by>
+              <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+              <is-default type="integer">0</is-default>
+              <confidence>n</confidence>
+              <updated-at type="datetime">2009-05-06T19:53:57-04:00</updated-at>
+              <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+              <other-codes></other-codes>
+              <node-type>Dialect</node-type>
+              <geography nil="true"></geography>
+              <created-at type="datetime">2009-05-06T19:53:57-04:00</created-at>
+              <tree-id type="integer">12121</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <children type="array"/>
+              <end-date nil="true"></end-date>
+            </child>
+            <child>
+              <node-type-id type="integer">10003</node-type-id>
+              <id type="integer">387180</id>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pri-name>Baykha dialect</pri-name>
+              <codes>enf-bay</codes>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <alt-names>dialect of the Bay tribe</alt-names>
+              <created-by>joe_leif</created-by>
+              <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+              <is-default type="integer">0</is-default>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2009-05-06T19:53:57-04:00</updated-at>
+              <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+              <other-codes></other-codes>
+              <node-type>Dialect</node-type>
+              <geography nil="true"></geography>
+              <created-at type="datetime">2009-05-06T19:53:56-04:00</created-at>
+              <tree-id type="integer">12121</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <children type="array"/>
+              <end-date nil="true"></end-date>
+            </child>
+          </children>
+          <end-date nil="true"></end-date>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <id type="integer">387158</id>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <pri-name>Nenets</pri-name>
+          <codes>yrk</codes>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <alt-names></alt-names>
+          <created-by>joe_leif</created-by>
+          <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+          <is-default type="integer">0</is-default>
+          <confidence>y</confidence>
+          <updated-at type="datetime">2009-05-06T19:53:51-04:00</updated-at>
+          <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <geography nil="true"></geography>
+          <created-at type="datetime">2009-05-06T19:53:51-04:00</created-at>
+          <tree-id type="integer">12121</tree-id>
+          <updater-id type="integer">10740</updater-id>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <children type="array">
+            <child>
+              <node-type-id type="integer">10004</node-type-id>
+              <id type="integer">387170</id>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pri-name>Forest dialect group</pri-name>
+              <codes>yrk-for</codes>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <alt-names></alt-names>
+              <created-by>joe_leif</created-by>
+              <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+              <is-default type="integer">0</is-default>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2009-05-06T19:53:54-04:00</updated-at>
+              <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+              <other-codes></other-codes>
+              <node-type>Dialect Group</node-type>
+              <geography nil="true"></geography>
+              <created-at type="datetime">2009-05-06T19:53:54-04:00</created-at>
+              <tree-id type="integer">12121</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <children type="array">
+                <child>
+                  <node-type-id type="integer">10004</node-type-id>
+                  <id type="integer">387174</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <pri-name>Eastern dialect group</pri-name>
+                  <codes>yrk-fea</codes>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <alt-names></alt-names>
+                  <created-by>joe_leif</created-by>
+                  <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+                  <is-default type="integer">0</is-default>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2009-05-06T19:53:55-04:00</updated-at>
+                  <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+                  <other-codes></other-codes>
+                  <node-type>Dialect Group</node-type>
+                  <geography nil="true"></geography>
+                  <created-at type="datetime">2009-05-06T19:53:55-04:00</created-at>
+                  <tree-id type="integer">12121</tree-id>
+                  <updater-id type="integer">10740</updater-id>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <children type="array">
+                    <child>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <id type="integer">387176</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <pri-name>Nyalina dialect</pri-name>
+                      <codes>yrk-fny</codes>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <alt-names></alt-names>
+                      <created-by>joe_leif</created-by>
+                      <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+                      <is-default type="integer">0</is-default>
+                      <confidence>y</confidence>
+                      <updated-at type="datetime">2009-05-06T19:53:56-04:00</updated-at>
+                      <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <geography nil="true"></geography>
+                      <created-at type="datetime">2009-05-06T19:53:55-04:00</created-at>
+                      <tree-id type="integer">12121</tree-id>
+                      <updater-id type="integer">10740</updater-id>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <children type="array"/>
+                      <end-date nil="true"></end-date>
+                    </child>
+                    <child>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <id type="integer">387175</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <pri-name>Lyamin dialect</pri-name>
+                      <codes>yrk-fly</codes>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <alt-names></alt-names>
+                      <created-by>joe_leif</created-by>
+                      <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+                      <is-default type="integer">0</is-default>
+                      <confidence>y</confidence>
+                      <updated-at type="datetime">2009-05-06T19:53:55-04:00</updated-at>
+                      <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <geography nil="true"></geography>
+                      <created-at type="datetime">2009-05-06T19:53:55-04:00</created-at>
+                      <tree-id type="integer">12121</tree-id>
+                      <updater-id type="integer">10740</updater-id>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <children type="array"/>
+                      <end-date nil="true"></end-date>
+                    </child>
+                  </children>
+                  <end-date nil="true"></end-date>
+                </child>
+                <child>
+                  <node-type-id type="integer">10004</node-type-id>
+                  <id type="integer">387171</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <pri-name>Western dialect group</pri-name>
+                  <codes>yrk-fwe</codes>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <alt-names></alt-names>
+                  <created-by>joe_leif</created-by>
+                  <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+                  <is-default type="integer">0</is-default>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2009-05-06T19:53:54-04:00</updated-at>
+                  <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+                  <other-codes></other-codes>
+                  <node-type>Dialect Group</node-type>
+                  <geography nil="true"></geography>
+                  <created-at type="datetime">2009-05-06T19:53:54-04:00</created-at>
+                  <tree-id type="integer">12121</tree-id>
+                  <updater-id type="integer">10740</updater-id>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <children type="array">
+                    <child>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <id type="integer">387172</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <pri-name>Purim dialect</pri-name>
+                      <codes>yrk-fpu</codes>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <alt-names></alt-names>
+                      <created-by>joe_leif</created-by>
+                      <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+                      <is-default type="integer">0</is-default>
+                      <confidence>y</confidence>
+                      <updated-at type="datetime">2009-05-06T19:53:55-04:00</updated-at>
+                      <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <geography nil="true"></geography>
+                      <created-at type="datetime">2009-05-06T19:53:54-04:00</created-at>
+                      <tree-id type="integer">12121</tree-id>
+                      <updater-id type="integer">10740</updater-id>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <children type="array"/>
+                      <end-date nil="true"></end-date>
+                    </child>
+                    <child>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <id type="integer">387173</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <pri-name>Agam dialect</pri-name>
+                      <codes>yrk-fag</codes>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <alt-names></alt-names>
+                      <created-by>joe_leif</created-by>
+                      <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+                      <is-default type="integer">0</is-default>
+                      <confidence>y</confidence>
+                      <updated-at type="datetime">2009-05-06T19:53:55-04:00</updated-at>
+                      <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <geography nil="true"></geography>
+                      <created-at type="datetime">2009-05-06T19:53:55-04:00</created-at>
+                      <tree-id type="integer">12121</tree-id>
+                      <updater-id type="integer">10740</updater-id>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <children type="array"/>
+                      <end-date nil="true"></end-date>
+                    </child>
+                  </children>
+                  <end-date nil="true"></end-date>
+                </child>
+              </children>
+              <end-date nil="true"></end-date>
+            </child>
+            <child>
+              <node-type-id type="integer">10004</node-type-id>
+              <id type="integer">387159</id>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pri-name>Tundra dialect group</pri-name>
+              <codes>yrk-tun</codes>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <alt-names>Bol'shezemel'sk Nenets dialect</alt-names>
+              <created-by>joe_leif</created-by>
+              <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+              <is-default type="integer">0</is-default>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2009-05-06T19:53:51-04:00</updated-at>
+              <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+              <other-codes></other-codes>
+              <node-type>Dialect Group</node-type>
+              <geography nil="true"></geography>
+              <created-at type="datetime">2009-05-06T19:53:51-04:00</created-at>
+              <tree-id type="integer">12121</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <children type="array">
+                <child>
+                  <node-type-id type="integer">10004</node-type-id>
+                  <id type="integer">387160</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <pri-name>western dialect</pri-name>
+                  <codes>yrk-twe</codes>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <alt-names></alt-names>
+                  <created-by>joe_leif</created-by>
+                  <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+                  <is-default type="integer">0</is-default>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2009-05-06T19:53:52-04:00</updated-at>
+                  <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+                  <other-codes></other-codes>
+                  <node-type>Dialect Group</node-type>
+                  <geography nil="true"></geography>
+                  <created-at type="datetime">2009-05-06T19:53:51-04:00</created-at>
+                  <tree-id type="integer">12121</tree-id>
+                  <updater-id type="integer">10740</updater-id>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <children type="array">
+                    <child>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <id type="integer">387162</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <pri-name>Malaya Zemlya dialect</pri-name>
+                      <codes>yrk-tma</codes>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <alt-names></alt-names>
+                      <created-by>joe_leif</created-by>
+                      <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+                      <is-default type="integer">0</is-default>
+                      <confidence>y</confidence>
+                      <updated-at type="datetime">2009-05-06T19:53:52-04:00</updated-at>
+                      <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <geography nil="true"></geography>
+                      <created-at type="datetime">2009-05-06T19:53:52-04:00</created-at>
+                      <tree-id type="integer">12121</tree-id>
+                      <updater-id type="integer">10740</updater-id>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <children type="array"/>
+                      <end-date nil="true"></end-date>
+                    </child>
+                    <child>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <id type="integer">387161</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <pri-name>Kanin dialect</pri-name>
+                      <codes>yrk-tka</codes>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <alt-names></alt-names>
+                      <created-by>joe_leif</created-by>
+                      <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+                      <is-default type="integer">0</is-default>
+                      <confidence>y</confidence>
+                      <updated-at type="datetime">2009-05-06T19:53:52-04:00</updated-at>
+                      <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <geography nil="true"></geography>
+                      <created-at type="datetime">2009-05-06T19:53:52-04:00</created-at>
+                      <tree-id type="integer">12121</tree-id>
+                      <updater-id type="integer">10740</updater-id>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <children type="array"/>
+                      <end-date nil="true"></end-date>
+                    </child>
+                  </children>
+                  <end-date nil="true"></end-date>
+                </child>
+                <child>
+                  <node-type-id type="integer">10004</node-type-id>
+                  <id type="integer">387164</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <pri-name>Eastern dialect</pri-name>
+                  <codes>yrk-tea</codes>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <alt-names></alt-names>
+                  <created-by>joe_leif</created-by>
+                  <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+                  <is-default type="integer">0</is-default>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2009-05-06T19:53:53-04:00</updated-at>
+                  <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+                  <other-codes></other-codes>
+                  <node-type>Dialect Group</node-type>
+                  <geography nil="true"></geography>
+                  <created-at type="datetime">2009-05-06T19:53:53-04:00</created-at>
+                  <tree-id type="integer">12121</tree-id>
+                  <updater-id type="integer">10740</updater-id>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <children type="array">
+                    <child>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <id type="integer">387168</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <pri-name>Upper Pur</pri-name>
+                      <codes>yrk-tup</codes>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <alt-names></alt-names>
+                      <created-by>joe_leif</created-by>
+                      <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+                      <is-default type="integer">0</is-default>
+                      <confidence>y</confidence>
+                      <updated-at type="datetime">2009-05-06T19:53:54-04:00</updated-at>
+                      <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <geography nil="true"></geography>
+                      <created-at type="datetime">2009-05-06T19:53:54-04:00</created-at>
+                      <tree-id type="integer">12121</tree-id>
+                      <updater-id type="integer">10740</updater-id>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <children type="array"/>
+                      <end-date nil="true"></end-date>
+                    </child>
+                    <child>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <id type="integer">387167</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <pri-name>Nadym</pri-name>
+                      <codes>yrk-tna</codes>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <alt-names></alt-names>
+                      <created-by>joe_leif</created-by>
+                      <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+                      <is-default type="integer">0</is-default>
+                      <confidence>y</confidence>
+                      <updated-at type="datetime">2009-05-06T19:53:54-04:00</updated-at>
+                      <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <geography nil="true"></geography>
+                      <created-at type="datetime">2009-05-06T19:53:53-04:00</created-at>
+                      <tree-id type="integer">12121</tree-id>
+                      <updater-id type="integer">10740</updater-id>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <children type="array"/>
+                      <end-date nil="true"></end-date>
+                    </child>
+                    <child>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <id type="integer">387166</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <pri-name>Ob'</pri-name>
+                      <codes>yrk-tob</codes>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <alt-names></alt-names>
+                      <created-by>joe_leif</created-by>
+                      <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+                      <is-default type="integer">0</is-default>
+                      <confidence>y</confidence>
+                      <updated-at type="datetime">2009-05-06T19:53:53-04:00</updated-at>
+                      <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <geography nil="true"></geography>
+                      <created-at type="datetime">2009-05-06T19:53:53-04:00</created-at>
+                      <tree-id type="integer">12121</tree-id>
+                      <updater-id type="integer">10740</updater-id>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <children type="array"/>
+                      <end-date nil="true"></end-date>
+                    </child>
+                    <child>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <id type="integer">387165</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <pri-name>Yamal</pri-name>
+                      <codes>yrk-tya</codes>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <alt-names></alt-names>
+                      <created-by>joe_leif</created-by>
+                      <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+                      <is-default type="integer">0</is-default>
+                      <confidence>y</confidence>
+                      <updated-at type="datetime">2009-05-06T19:53:53-04:00</updated-at>
+                      <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <geography nil="true"></geography>
+                      <created-at type="datetime">2009-05-06T19:53:53-04:00</created-at>
+                      <tree-id type="integer">12121</tree-id>
+                      <updater-id type="integer">10740</updater-id>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <children type="array"/>
+                      <end-date nil="true"></end-date>
+                    </child>
+                    <child>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <id type="integer">387169</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <pri-name>Taz</pri-name>
+                      <codes>yrk-tta</codes>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <alt-names></alt-names>
+                      <created-by>joe_leif</created-by>
+                      <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+                      <is-default type="integer">0</is-default>
+                      <confidence>y</confidence>
+                      <updated-at type="datetime">2009-05-06T19:53:54-04:00</updated-at>
+                      <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <geography nil="true"></geography>
+                      <created-at type="datetime">2009-05-06T19:53:54-04:00</created-at>
+                      <tree-id type="integer">12121</tree-id>
+                      <updater-id type="integer">10740</updater-id>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <children type="array"/>
+                      <end-date nil="true"></end-date>
+                    </child>
+                  </children>
+                  <end-date nil="true"></end-date>
+                </child>
+                <child>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <id type="integer">387163</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <pri-name>Central dialect</pri-name>
+                  <codes>yrk-tce</codes>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <alt-names>Bol'shaya Zemlya</alt-names>
+                  <created-by>joe_leif</created-by>
+                  <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+                  <is-default type="integer">0</is-default>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2009-05-06T19:53:53-04:00</updated-at>
+                  <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+                  <other-codes></other-codes>
+                  <node-type>Dialect</node-type>
+                  <geography>spoken on Bol'shaya Zemlya (p. 57)</geography>
+                  <created-at type="datetime">2009-05-06T19:53:52-04:00</created-at>
+                  <tree-id type="integer">12121</tree-id>
+                  <updater-id type="integer">10740</updater-id>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <pub-comments>The Central Dialect (Bol'shaya Zemlya) is spoken by the majority of speakers" (p.58).</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <children type="array"/>
+                  <end-date nil="true"></end-date>
+                </child>
+              </children>
+              <end-date nil="true"></end-date>
+            </child>
+          </children>
+          <end-date nil="true"></end-date>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <id type="integer">387182</id>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <pri-name>Nganasan</pri-name>
+          <codes>nio</codes>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <alt-names></alt-names>
+          <created-by>joe_leif</created-by>
+          <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+          <is-default type="integer">0</is-default>
+          <confidence>y</confidence>
+          <updated-at type="datetime">2009-05-06T19:53:57-04:00</updated-at>
+          <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <geography nil="true"></geography>
+          <created-at type="datetime">2009-05-06T19:53:57-04:00</created-at>
+          <tree-id type="integer">12121</tree-id>
+          <updater-id type="integer">10740</updater-id>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <children type="array">
+            <child>
+              <node-type-id type="integer">10003</node-type-id>
+              <id type="integer">387184</id>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pri-name>Avam dialect</pri-name>
+              <codes>nio-ava</codes>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <alt-names>Na</alt-names>
+              <created-by>joe_leif</created-by>
+              <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+              <is-default type="integer">0</is-default>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2009-05-06T19:53:58-04:00</updated-at>
+              <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+              <other-codes></other-codes>
+              <node-type>Dialect</node-type>
+              <geography nil="true"></geography>
+              <created-at type="datetime">2009-05-06T19:53:58-04:00</created-at>
+              <tree-id type="integer">12121</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <children type="array"/>
+              <end-date nil="true"></end-date>
+            </child>
+            <child>
+              <node-type-id type="integer">10003</node-type-id>
+              <id type="integer">387183</id>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pri-name>Vadeyev dialect</pri-name>
+              <codes>nio-vad</codes>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <alt-names>As&#225;</alt-names>
+              <created-by>joe_leif</created-by>
+              <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+              <is-default type="integer">0</is-default>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2009-05-06T19:53:58-04:00</updated-at>
+              <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+              <other-codes></other-codes>
+              <node-type>Dialect</node-type>
+              <geography nil="true"></geography>
+              <created-at type="datetime">2009-05-06T19:53:57-04:00</created-at>
+              <tree-id type="integer">12121</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <children type="array"/>
+              <end-date nil="true"></end-date>
+            </child>
+            <child>
+              <node-type-id type="integer">10003</node-type-id>
+              <id type="integer">387185</id>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pri-name>kaj&#331;alawa</pri-name>
+              <codes>nio-kaj</codes>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <alt-names></alt-names>
+              <created-by>joe_leif</created-by>
+              <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+              <is-default type="integer">0</is-default>
+              <confidence>n</confidence>
+              <updated-at type="datetime">2009-05-06T19:53:58-04:00</updated-at>
+              <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+              <other-codes></other-codes>
+              <node-type>Dialect</node-type>
+              <geography nil="true"></geography>
+              <created-at type="datetime">2009-05-06T19:53:58-04:00</created-at>
+              <tree-id type="integer">12121</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <children type="array"/>
+              <end-date nil="true"></end-date>
+            </child>
+          </children>
+          <end-date nil="true"></end-date>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <id type="integer">387177</id>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <pri-name>Kamas</pri-name>
+          <codes>xas</codes>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <alt-names></alt-names>
+          <created-by>joe_leif</created-by>
+          <publications>Hajdu, Peter. 1963. The Uralic and Altaic Series: The Samoyed Peoples and Languages, vol. 14, 57-58. Bloomington: Indian University Press. ISBN 0-7007-0380-2</publications>
+          <is-default type="integer">0</is-default>
+          <confidence>y</confidence>
+          <updated-at type="datetime">2009-05-06T19:53:56-04:00</updated-at>
+          <tree-val>Samoyed languages, subtree of Uralic: Hadju 1963</tree-val>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <geography nil="true"></geography>
+          <created-at type="datetime">2009-05-06T19:53:56-04:00</created-at>
+          <tree-id type="integer">12121</tree-id>
+          <updater-id type="integer">10740</updater-id>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <children type="array"/>
+          <end-date nil="true"></end-date>
+        </child>
+      </children>
+      <end-date nil="true"></end-date>
+    </root>
+    <description>Samoyed languages, subtree of Uralic: Hadju 1963</description>
+  </tree>
+</hash>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 635. New York: Oxford University Press. ISBN 0199255911</publications>
+      <pri-name>Paezan</pri-name>
+      <other-codes></other-codes>
+      <children type="array">
+        <child>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 635. New York: Oxford University Press. ISBN 0199255911</publications>
+          <pri-name>Paez</pri-name>
+          <other-codes>pae</other-codes>
+          <children type="array"/>
+          <updated-at type="datetime">2009-05-19T16:52:45-04:00</updated-at>
+          <node-type-id type="integer">10001</node-type-id>
+          <id type="integer">418033</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <pub-comments></pub-comments>
+          <is-default type="integer">0</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <start-date nil="true"></start-date>
+          <alt-names>Pez</alt-names>
+          <sureness type="integer">0</sureness>
+          <status nil="true"></status>
+          <node-type>Language</node-type>
+          <created-at type="datetime">2009-05-19T16:52:45-04:00</created-at>
+          <tree-id type="integer">12425</tree-id>
+          <end-date nil="true"></end-date>
+          <updater-id type="integer">10740</updater-id>
+          <tree-val>Paezan: Dryer 2005</tree-val>
+          <geography>Country: Colombia; Lat.: 2.67; Long.: -76</geography>
+          <codes>pbb</codes>
+          <updated-by>joe_leif</updated-by>
+          <confidence>y</confidence>
+          <node-status-id nil="true"></node-status-id>
+        </child>
+      </children>
+      <updated-at type="datetime">2009-05-19T16:52:45-04:00</updated-at>
+      <node-type-id type="integer">10000</node-type-id>
+      <id type="integer">418032</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <is-default type="integer">0</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <start-date nil="true"></start-date>
+      <alt-names></alt-names>
+      <sureness nil="true"></sureness>
+      <status nil="true"></status>
+      <node-type>Subgroup</node-type>
+      <created-at type="datetime">2009-05-19T16:52:45-04:00</created-at>
+      <tree-id type="integer">12425</tree-id>
+      <end-date nil="true"></end-date>
+      <updater-id type="integer">10740</updater-id>
+      <tree-val>Paezan: Dryer 2005</tree-val>
+      <geography nil="true"></geography>
+      <codes>paez</codes>
+      <updated-by>joe_leif</updated-by>
+      <confidence nil="true"></confidence>
+      <node-status-id nil="true"></node-status-id>
+    </root>
+    <description>Paezan: Dryer 2005</description>
+  </tree>
+</hash>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Africa</region>    <region>Africa</region>
+    <root>
+      <updater-id type="integer">10700</updater-id>
+      <sureness type="integer">0</sureness>
+      <node-type-id type="integer">10000</node-type-id>
+      <status nil="true"></status>
+      <start-date nil="true"></start-date>
+      <publications>Brenzinger, Matthias. 2008. The Twelve Modern Khoisan Languages, 3rd International Symposium on Khoisan Languages. </publications>
+      <tree-val>Kx'a: Brenzinger 2008</tree-val>
+      <other-codes></other-codes>
+      <children type="array">
+        <child>
+          <updater-id type="integer">10700</updater-id>
+          <sureness type="integer">0</sureness>
+          <node-type-id type="integer">10001</node-type-id>
+          <status>Nearly Extinct</status>
+          <start-date nil="true"></start-date>
+          <publications>Brenzinger, Matthias. 2008. The Twelve Modern Khoisan Languages, 3rd International Symposium on Khoisan Languages. </publications>
+          <tree-val>Kx'a: Brenzinger 2008</tree-val>
+          <other-codes></other-codes>
+          <children type="array"/>
+          <pri-name>|=Hoan</pri-name>
+          <tree-id type="integer">24709</tree-id>
+          <pub-comments>According to the author, "Ongoing research in the classification of the Khoisan languages concerns e.g. the relationship between former Northern and Southern Khoisan languages, today Kx'a and Tuu" (p. 8).</pub-comments>
+          <updated-at type="datetime">2013-08-09T14:52:16-04:00</updated-at>
+          <node-type>Language</node-type>
+          <geography nil="true"></geography>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2013-08-09T14:52:16-04:00</created-at>
+          <alt-names>Eastern |=Hoan, |=Hua</alt-names>
+          <confidence>n</confidence>
+          <node-status-id type="integer">10001</node-status-id>
+          <is-default type="integer">0</is-default>
+          <id type="integer">960813</id>
+          <creator-id type="integer">10700</creator-id>
+          <codes>huc</codes>
+        </child>
+        <child>
+          <updater-id type="integer">10700</updater-id>
+          <sureness type="integer">0</sureness>
+          <node-type-id type="integer">10001</node-type-id>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <publications>Brenzinger, Matthias. 2008. The Twelve Modern Khoisan Languages, 3rd International Symposium on Khoisan Languages. </publications>
+          <tree-val>Kx'a: Brenzinger 2008</tree-val>
+          <other-codes></other-codes>
+          <children type="array">
+            <child>
+              <updater-id type="integer">10700</updater-id>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10003</node-type-id>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <publications>Brenzinger, Matthias. 2008. The Twelve Modern Khoisan Languages, 3rd International Symposium on Khoisan Languages. </publications>
+              <tree-val>Kx'a: Brenzinger 2008</tree-val>
+              <other-codes></other-codes>
+              <children type="array"/>
+              <pri-name>Ju|'hoan</pri-name>
+              <tree-id type="integer">24709</tree-id>
+              <pub-comments></pub-comments>
+              <updated-at type="datetime">2013-08-09T14:52:16-04:00</updated-at>
+              <node-type>Dialect</node-type>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2013-08-09T14:52:16-04:00</created-at>
+              <alt-names></alt-names>
+              <confidence>y</confidence>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <id type="integer">960815</id>
+              <creator-id type="integer">10700</creator-id>
+              <codes>ktz</codes>
+            </child>
+          </children>
+          <pri-name>!Xun</pri-name>
+          <tree-id type="integer">24709</tree-id>
+          <pub-comments>On page  8, the author says, "More recent findings by Heine &amp; Honken (2010) link |=Hoan to !Xun, former Northern Khoisan, and call this two-language unit Kx'a family", but on page11, he says "following Heine &amp; Konig (forthcoming), !Xun denotes the last remaining member of the former Northern Khoisan family". He has not taken a stand about this in his paper. However, through personal e-mail communication with the author, he has clarified that =|Hoan is in between the old,
+no longer valid groupings called Southern and Northern Khoisan.</pub-comments>
+          <updated-at type="datetime">2013-08-09T14:52:16-04:00</updated-at>
+          <node-type>Language</node-type>
+          <geography nil="true"></geography>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2013-08-09T14:52:16-04:00</created-at>
+          <alt-names>Ju</alt-names>
+          <confidence>y</confidence>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <id type="integer">960814</id>
+          <creator-id type="integer">10700</creator-id>
+          <codes>knw</codes>
+        </child>
+      </children>
+      <pri-name>Kx'a</pri-name>
+      <tree-id type="integer">24709</tree-id>
+      <pub-comments></pub-comments>
+      <updated-at type="datetime">2013-08-09T14:52:16-04:00</updated-at>
+      <node-type>Subgroup</node-type>
+      <geography nil="true"></geography>
+      <end-date nil="true"></end-date>
+      <deleted-at nil="true"></deleted-at>
+      <created-at type="datetime">2013-08-09T14:52:16-04:00</created-at>
+      <alt-names>Northern Khoisan</alt-names>
+      <confidence>y</confidence>
+      <node-status-id nil="true"></node-status-id>
+      <is-default type="integer">0</is-default>
+      <id type="integer">960812</id>
+      <creator-id type="integer">10700</creator-id>
+      <codes>nsak</codes>
+    </root>
+    <description>Kx'a: Brenzinger 2008</description>
+  </tree>
+</hash>

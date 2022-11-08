@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <tree-id type="integer">17239</tree-id>
+      <creator-id type="integer">10740</creator-id>
+      <codes>guah</codes>
+      <pub-comments>Kaufman (2007:65) has these four languages in the family. Ethnologue includes also Playero (R&#237;o Arauca Guahibo) as a distinct Guajiboan language. Queixal&#243;s (1993) affirms there is no genetic relationship between Guajiboan and Arawakan, though there are loanwords and possibly some areal influences. Ethnologue.com lists five languages, Cuiba, Guahibo, Guayabero, and additionally Macagu&#225;n (Macaguane, Hitn&#252;, Jitnu, Agualinda Guahibo) and Playero. Please also see Fabre (1998:540) .</pub-comments>
+      <pri-name>Guajiboan</pri-name>
+      <node-type>Subgroup</node-type>
+      <alt-names>Guahiboan</alt-names>
+      <updated-by>joe_leif</updated-by>
+      <status nil="true"></status>
+      <other-codes></other-codes>
+      <node-type-id type="integer">10000</node-type-id>
+      <geography nil="true"></geography>
+      <created-by>joe_leif</created-by>
+      <node-status-id nil="true"></node-status-id>
+      <deleted-at nil="true"></deleted-at>
+      <confidence>y</confidence>
+      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65-67. London, New York: Routledge. </publications>
+      <is-default type="integer">1</is-default>
+      <children type="array">
+        <child>
+          <tree-id type="integer">17239</tree-id>
+          <creator-id type="integer">10740</creator-id>
+          <codes>qds</codes>
+          <pub-comments></pub-comments>
+          <pri-name>Churuya</pri-name>
+          <node-type>Language</node-type>
+          <alt-names></alt-names>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Vichada, Venezuela</geography>
+          <created-by>joe_leif</created-by>
+          <node-status-id type="integer">10000</node-status-id>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65-67. London, New York: Routledge. </publications>
+          <is-default type="integer">1</is-default>
+          <children type="array"/>
+          <updated-at type="datetime">2010-04-28T14:28:06-04:00</updated-at>
+          <tree-val>Guajiboan: Composite</tree-val>
+          <start-date nil="true"></start-date>
+          <id type="integer">689847</id>
+          <created-at type="datetime">2010-04-28T14:28:06-04:00</created-at>
+          <updater-id type="integer">10740</updater-id>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+        </child>
+        <child>
+          <tree-id type="integer">17239</tree-id>
+          <creator-id type="integer">10740</creator-id>
+          <codes>cui</codes>
+          <pub-comments>Speakers: 2650</pub-comments>
+          <pri-name>Cuiva</pri-name>
+          <node-type>Language</node-type>
+          <alt-names>Cuiba, Cuiba-W&#225;monae, Kuiva</alt-names>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Vichada, Arauca, Colombia; Apure, Venezuela</geography>
+          <created-by>joe_leif</created-by>
+          <node-status-id nil="true"></node-status-id>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65-67. London, New York: Routledge. </publications>
+          <is-default type="integer">1</is-default>
+          <children type="array">
+            <child>
+              <tree-id type="integer">17239</tree-id>
+              <creator-id type="integer">10740</creator-id>
+              <codes>cui-moc</codes>
+              <pub-comments></pub-comments>
+              <pri-name>Mochuelo-Casanare-Cuiba</pri-name>
+              <node-type>Dialect</node-type>
+              <alt-names></alt-names>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <created-by>joe_leif</created-by>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. </publications>
+              <is-default type="integer">1</is-default>
+              <children type="array"/>
+              <updated-at type="datetime">2010-04-28T14:28:06-04:00</updated-at>
+              <tree-val>Guajiboan: Composite</tree-val>
+              <start-date nil="true"></start-date>
+              <id type="integer">689841</id>
+              <created-at type="datetime">2010-04-28T14:28:06-04:00</created-at>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+            </child>
+            <child>
+              <tree-id type="integer">17239</tree-id>
+              <creator-id type="integer">10740</creator-id>
+              <codes>cui-cir</codes>
+              <pub-comments></pub-comments>
+              <pri-name>Chiripo</pri-name>
+              <node-type>Dialect</node-type>
+              <alt-names>Wupiwi, Siripu</alt-names>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <created-by>joe_leif</created-by>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. </publications>
+              <is-default type="integer">1</is-default>
+              <children type="array"/>
+              <updated-at type="datetime">2010-04-28T14:28:05-04:00</updated-at>
+              <tree-val>Guajiboan: Composite</tree-val>
+              <start-date nil="true"></start-date>
+              <id type="integer">689838</id>
+              <created-at type="datetime">2010-04-28T14:28:05-04:00</created-at>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+            </child>
+            <child>
+              <tree-id type="integer">17239</tree-id>
+              <creator-id type="integer">10740</creator-id>
+              <codes>cui-maw, cui-mas</codes>
+              <pub-comments></pub-comments>
+              <pri-name>Masiware</pri-name>
+              <node-type>Dialect</node-type>
+              <alt-names>Masiguare</alt-names>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <created-by>joe_leif</created-by>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. </publications>
+              <is-default type="integer">1</is-default>
+              <children type="array"/>
+              <updated-at type="datetime">2010-04-28T14:28:05-04:00</updated-at>
+              <tree-val>Guajiboan: Composite</tree-val>
+              <start-date nil="true"></start-date>
+              <id type="integer">689837</id>
+              <created-at type="datetime">2010-04-28T14:28:05-04:00</created-at>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+            </child>
+            <child>
+              <tree-id type="integer">17239</tree-id>
+              <creator-id type="integer">10740</creator-id>
+              <codes>cui-chi</codes>
+              <pub-comments></pub-comments>
+              <pri-name>Chiricoa</pri-name>
+              <node-type>Dialect</node-type>
+              <alt-names></alt-names>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <created-by>joe_leif</created-by>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. </publications>
+              <is-default type="integer">1</is-default>
+              <children type="array"/>
+              <updated-at type="datetime">2010-04-28T14:28:05-04:00</updated-at>
+              <tree-val>Guajiboan: Composite</tree-val>
+              <start-date nil="true"></start-date>
+              <id type="integer">689836</id>
+              <created-at type="datetime">2010-04-28T14:28:05-04:00</created-at>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+            </child>
+            <child>
+              <tree-id type="integer">17239</tree-id>
+              <creator-id type="integer">10740</creator-id>
+              <codes>guh-sik</codes>
+              <pub-comments></pub-comments>
+              <pri-name>Sicuane</pri-name>
+              <node-type>Dialect</node-type>
+              <alt-names>Sicuari</alt-names>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <created-by>joe_leif</created-by>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. </publications>
+              <is-default type="integer">1</is-default>
+              <children type="array"/>
+              <updated-at type="datetime">2010-04-28T14:28:06-04:00</updated-at>
+              <tree-val>Guajiboan: Composite</tree-val>
+              <start-date nil="true"></start-date>
+              <id type="integer">689846</id>
+              <created-at type="datetime">2010-04-28T14:28:06-04:00</created-at>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+            </child>
+            <child>
+              <tree-id type="integer">17239</tree-id>
+              <creator-id type="integer">10740</creator-id>
+              <codes>cui-may</codes>
+              <pub-comments></pub-comments>
+              <pri-name>Mayayero</pri-name>
+              <node-type>Dialect</node-type>
+              <alt-names></alt-names>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <created-by>joe_leif</created-by>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. </publications>
+              <is-default type="integer">1</is-default>
+              <children type="array"/>
+              <updated-at type="datetime">2010-04-28T14:28:06-04:00</updated-at>
+              <tree-val>Guajiboan: Composite</tree-val>
+              <start-date nil="true"></start-date>
+              <id type="integer">689840</id>
+              <created-at type="datetime">2010-04-28T14:28:05-04:00</created-at>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+            </child>
+            <child>
+              <tree-id type="integer">17239</tree-id>
+              <creator-id type="integer">10740</creator-id>
+              <codes>cui-pta</codes>
+              <pub-comments></pub-comments>
+              <pri-name>Ptamo</pri-name>
+              <node-type>Dialect</node-type>
+              <alt-names></alt-names>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <created-by>joe_leif</created-by>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. </publications>
+              <is-default type="integer">1</is-default>
+              <children type="array"/>
+              <updated-at type="datetime">2010-04-28T14:28:06-04:00</updated-at>
+              <tree-val>Guajiboan: Composite</tree-val>
+              <start-date nil="true"></start-date>
+              <id type="integer">689845</id>
+              <created-at type="datetime">2010-04-28T14:28:06-04:00</created-at>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+            </child>
+            <child>
+              <tree-id type="integer">17239</tree-id>
+              <creator-id type="integer">10740</creator-id>
+              <codes>cui-mel</codes>
+              <pub-comments></pub-comments>
+              <pri-name>Mella</pri-name>
+              <node-type>Dialect</node-type>
+              <alt-names></alt-names>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <created-by>joe_leif</created-by>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. </publications>
+              <is-default type="integer">1</is-default>
+              <children type="array"/>
+              <updated-at type="datetime">2010-04-28T14:28:06-04:00</updated-at>
+              <tree-val>Guajiboan: Composite</tree-val>
+              <start-date nil="true"></start-date>
+              <id type="integer">689844</id>
+              <created-at type="datetime">2010-04-28T14:28:06-04:00</created-at>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+            </child>
+            <child>
+              <tree-id type="integer">17239</tree-id>
+              <creator-id type="integer">10740</creator-id>
+              <codes>cui-ama</codes>
+              <pub-comments></pub-comments>
+              <pri-name>Amaruwa</pri-name>
+              <node-type>Dialect</node-type>
+              <alt-names>Amorua</alt-names>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <created-by>joe_leif</created-by>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. </publications>
+              <is-default type="integer">1</is-default>
+              <children type="array"/>
+              <updated-at type="datetime">2010-04-28T14:28:06-04:00</updated-at>
+              <tree-val>Guajiboan: Composite</tree-val>
+              <start-date nil="true"></start-date>
+              <id type="integer">689843</id>
+              <created-at type="datetime">2010-04-28T14:28:06-04:00</created-at>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+            </child>
+            <child>
+              <tree-id type="integer">17239</tree-id>
+              <creator-id type="integer">10740</creator-id>
+              <codes>cui-yar</codes>
+              <pub-comments></pub-comments>
+              <pri-name>Yarahuuraxi-Capanapara</pri-name>
+              <node-type>Dialect</node-type>
+              <alt-names></alt-names>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <created-by>joe_leif</created-by>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. </publications>
+              <is-default type="integer">1</is-default>
+              <children type="array"/>
+              <updated-at type="datetime">2010-04-28T14:28:05-04:00</updated-at>
+              <tree-val>Guajiboan: Composite</tree-val>
+              <start-date nil="true"></start-date>
+              <id type="integer">689839</id>
+              <created-at type="datetime">2010-04-28T14:28:05-04:00</created-at>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+            </child>
+            <child>
+              <tree-id type="integer">17239</tree-id>
+              <creator-id type="integer">10740</creator-id>
+              <codes>cui-tam</codes>
+              <pub-comments></pub-comments>
+              <pri-name>Tampiwi</pri-name>
+              <node-type>Dialect</node-type>
+              <alt-names>Mariposas</alt-names>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <created-by>joe_leif</created-by>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. </publications>
+              <is-default type="integer">1</is-default>
+              <children type="array"/>
+              <updated-at type="datetime">2010-04-28T14:28:06-04:00</updated-at>
+              <tree-val>Guajiboan: Composite</tree-val>
+              <start-date nil="true"></start-date>
+              <id type="integer">689842</id>
+              <created-at type="datetime">2010-04-28T14:28:06-04:00</created-at>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+            </child>
+          </children>
+          <updated-at type="datetime">2010-04-28T14:28:05-04:00</updated-at>
+          <tree-val>Guajiboan: Composite</tree-val>
+          <start-date nil="true"></start-date>
+          <id type="integer">689835</id>
+          <created-at type="datetime">2010-04-28T14:28:05-04:00</created-at>
+          <updater-id type="integer">10740</updater-id>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+        </child>
+        <child>
+          <tree-id type="integer">17239</tree-id>
+          <creator-id type="integer">10740</creator-id>
+          <codes>guh</codes>
+          <pub-comments>Speakers: 20000</pub-comments>
+          <pri-name>Guajibo</pri-name>
+          <node-type>Language</node-type>
+          <alt-names>Guahibo, Guaybo, Sikuani, Sicuani, Guajibo, Goahibo, Guaigua, Guayba, Wahibo, Goahiva, Hiwi</alt-names>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Arauca, Colombia; Apure, Venzuela</geography>
+          <created-by>joe_leif</created-by>
+          <node-status-id nil="true"></node-status-id>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65-67. London, New York: Routledge. </publications>
+          <is-default type="integer">1</is-default>
+          <children type="array">
+            <child>
+              <tree-id type="integer">17239</tree-id>
+              <creator-id type="integer">10740</creator-id>
+              <codes>guh-tig</codes>
+              <pub-comments></pub-comments>
+              <pri-name>Tigrero</pri-name>
+              <node-type>Dialect</node-type>
+              <alt-names></alt-names>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <created-by>joe_leif</created-by>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. </publications>
+              <is-default type="integer">1</is-default>
+              <children type="array"/>
+              <updated-at type="datetime">2010-04-28T14:28:05-04:00</updated-at>
+              <tree-val>Guajiboan: Composite</tree-val>
+              <start-date nil="true"></start-date>
+              <id type="integer">689834</id>
+              <created-at type="datetime">2010-04-28T14:28:05-04:00</created-at>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+            </child>
+            <child>
+              <tree-id type="integer">17239</tree-id>
+              <creator-id type="integer">10740</creator-id>
+              <codes>guh-gua</codes>
+              <pub-comments></pub-comments>
+              <pri-name>Guahibo</pri-name>
+              <node-type>Dialect</node-type>
+              <alt-names>Sikuani</alt-names>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <created-by>joe_leif</created-by>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. </publications>
+              <is-default type="integer">1</is-default>
+              <children type="array"/>
+              <updated-at type="datetime">2010-04-28T14:28:05-04:00</updated-at>
+              <tree-val>Guajiboan: Composite</tree-val>
+              <start-date nil="true"></start-date>
+              <id type="integer">689832</id>
+              <created-at type="datetime">2010-04-28T14:28:05-04:00</created-at>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+            </child>
+            <child>
+              <tree-id type="integer">17239</tree-id>
+              <creator-id type="integer">10740</creator-id>
+              <codes>guh-amo</codes>
+              <pub-comments></pub-comments>
+              <pri-name>Amorua</pri-name>
+              <node-type>Dialect</node-type>
+              <alt-names>Rio Tomo Guahibo</alt-names>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <created-by>joe_leif</created-by>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. </publications>
+              <is-default type="integer">1</is-default>
+              <children type="array"/>
+              <updated-at type="datetime">2010-04-28T14:28:05-04:00</updated-at>
+              <tree-val>Guajiboan: Composite</tree-val>
+              <start-date nil="true"></start-date>
+              <id type="integer">689833</id>
+              <created-at type="datetime">2010-04-28T14:28:05-04:00</created-at>
+              <updater-id type="integer">10740</updater-id>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+            </child>
+          </children>
+          <updated-at type="datetime">2010-04-28T14:28:05-04:00</updated-at>
+          <tree-val>Guajiboan: Composite</tree-val>
+          <start-date nil="true"></start-date>
+          <id type="integer">689831</id>
+          <created-at type="datetime">2010-04-28T14:28:05-04:00</created-at>
+          <updater-id type="integer">10740</updater-id>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+        </child>
+        <child>
+          <tree-id type="integer">17239</tree-id>
+          <creator-id type="integer">10740</creator-id>
+          <codes>guo</codes>
+          <pub-comments>Speakers: 1200</pub-comments>
+          <pri-name>Guayabero</pri-name>
+          <node-type>Language</node-type>
+          <alt-names>Cunim&#237;a, Jiw, M&#237;tus, M&#237;tua, Wayavero, Hiw</alt-names>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Meta, Colombia</geography>
+          <created-by>joe_leif</created-by>
+          <node-status-id nil="true"></node-status-id>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65-67. London, New York: Routledge. </publications>
+          <is-default type="integer">1</is-default>
+          <children type="array"/>
+          <updated-at type="datetime">2010-04-28T14:28:06-04:00</updated-at>
+          <tree-val>Guajiboan: Composite</tree-val>
+          <start-date nil="true"></start-date>
+          <id type="integer">689848</id>
+          <created-at type="datetime">2010-04-28T14:28:06-04:00</created-at>
+          <updater-id type="integer">10740</updater-id>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+        </child>
+        <child>
+          <tree-id type="integer">17239</tree-id>
+          <creator-id type="integer">10740</creator-id>
+          <codes>mbn</codes>
+          <pub-comments></pub-comments>
+          <pri-name>Macagu&#225;n</pri-name>
+          <node-type>Language</node-type>
+          <alt-names>Macaguane, Hitn&#252;, Jitnu, Agualinda Guahibo</alt-names>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography nil="true"></geography>
+          <created-by>joe_leif</created-by>
+          <node-status-id nil="true"></node-status-id>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <is-default type="integer">1</is-default>
+          <children type="array"/>
+          <updated-at type="datetime">2010-04-28T14:28:06-04:00</updated-at>
+          <tree-val>Guajiboan: Composite</tree-val>
+          <start-date nil="true"></start-date>
+          <id type="integer">689849</id>
+          <created-at type="datetime">2010-04-28T14:28:06-04:00</created-at>
+          <updater-id type="integer">10740</updater-id>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+        </child>
+        <child>
+          <tree-id type="integer">17239</tree-id>
+          <creator-id type="integer">10740</creator-id>
+          <codes>gob</codes>
+          <pub-comments></pub-comments>
+          <pri-name>Playero</pri-name>
+          <node-type>Language</node-type>
+          <alt-names>Pepojivi, Guahibo Playero, Guahibo del r&#237;o Arauca</alt-names>
+          <updated-by>joe_leif</updated-by>
+          <status>Nearly Extinct</status>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography nil="true"></geography>
+          <created-by>joe_leif</created-by>
+          <node-status-id type="integer">10001</node-status-id>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <publications>Fabre, Alain. 2005. Diccionario Etnoling&#252;&#237;stico y Gu&#237;a Bibliogr&#225;fica de los Pueblos Ind&#237;genas Sudamericanos. http://butler.cc.tut.fi/~fabre/BookInternetVersio/Alkusivu.html.  (12 February, 2012.), Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <is-default type="integer">1</is-default>
+          <children type="array"/>
+          <updated-at type="datetime">2012-05-10T14:21:19-04:00</updated-at>
+          <tree-val>Guajiboan: Composite</tree-val>
+          <start-date nil="true"></start-date>
+          <id type="integer">689850</id>
+          <created-at type="datetime">2010-04-28T14:28:06-04:00</created-at>
+          <updater-id type="integer">10740</updater-id>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+        </child>
+      </children>
+      <updated-at type="datetime">2010-04-28T14:28:05-04:00</updated-at>
+      <tree-val>Guajiboan: Composite</tree-val>
+      <start-date>300 BCE</start-date>
+      <id type="integer">689830</id>
+      <created-at type="datetime">2010-04-28T14:28:05-04:00</created-at>
+      <updater-id type="integer">10740</updater-id>
+      <sureness type="integer">0</sureness>
+      <end-date nil="true"></end-date>
+    </root>
+    <description>Guajiboan: Composite</description>
+  </tree>
+</hash>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <description>Zaparoan: Composite</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2010-05-20T14:25:53-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Zaparoan: Composite</tree-val>
+      <pub-comments>Ethnologue lists seven distinct Zaparoan languages: Andoa (Shimigae, Semigae, Gae, Gaye), Arabela, Aushiri, Cahuarano, Iquito (Iquita, Ikito, Amacacore, Hamacore, Quiturran, Puca-Uma, with the dialect: Pintuyacu), Omurano, Z&#225;paro. Adelaar (2004:622) lists as Zaparoan languages: Andoa (Shimigae), Arabela, Cahuarano, Iquito, and Z&#225;paro (Kayapi), plus the extinct Gae, Coronado, and Oa (of Ecuador). Loukotka (1968:159) gave Conambo as distinct from Z&#225;paro, and in addition to others mentioned in these lists, had also Asaruntoa and Aunale (both extinct with nothing known of them. Stark (1985:184-6) also lists Aushiri (Auxira) and Omurano (Humurana, Numurana, Umurano, Mayna), both in Peru, as Zaparoan languages. However, Kaufman (1994) saw possible evidence for grouping Omurano (Mayna) and Candoshi, and Taushiro. (Aushiri and Auishiri [Sabela] should not be confused.); Kaufman (2007:69) grouped the Zaparoan and Yaguan families together in his &#8220;S&#225;paro-Yawan stock,&#8221; with Taushiro and Omurano apparently in his Yaguan [Yawan] family (though this could be a printing error). He mentions that Taushiro could be &#8220;related to both Omurano and Kandoshi, and more closely to the former.&#8221;</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2010-05-20T14:25:53-04:00</updated-at>
+      <pri-name>Zaparoan</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">true</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">696101</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">17487</tree-id>
+      <codes>zapa</codes>
+      <status nil="true"></status>
+      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 69. London, New York: Routledge. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-05-20T14:25:53-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Zaparoan: Composite</tree-val>
+          <pub-comments>Speakers: 5</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-05-20T14:25:53-04:00</updated-at>
+          <pri-name>Z&#225;paro-Conambo</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">true</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">696102</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Pastaza, Ecuador; extinct in Peru</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Z&#225;para, Kayapi, Kayapwe, S&#225;paro-Konambo</alt-names>
+          <tree-id type="integer">17487</tree-id>
+          <codes>zro</codes>
+          <status nil="true"></status>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 69. London, New York: Routledge. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-05-20T14:25:53-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Zaparoan: Composite</tree-val>
+          <pub-comments>Speakers: 150; the Kawarano dialect is extinct</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-05-20T14:25:53-04:00</updated-at>
+          <pri-name>Iquito-Cahuarano</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">true</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">696104</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Poreto, Peru</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Hamacore, Quiturran, Puca-Uma, Ikito-Kawarano</alt-names>
+          <tree-id type="integer">17487</tree-id>
+          <codes>iqu, cah</codes>
+          <status nil="true"></status>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 69. London, New York: Routledge. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-05-20T14:25:53-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Zaparoan: Composite</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <updated-at type="datetime">2010-05-20T14:25:53-04:00</updated-at>
+          <pri-name>Arabela</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">true</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">696103</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Pastaza, Ecuador/Peru border</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Chiripuno, Andoa, Arabela-Andoa</alt-names>
+          <tree-id type="integer">17487</tree-id>
+          <codes>arl</codes>
+          <status>Extinct</status>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 69. London, New York: Routledge. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

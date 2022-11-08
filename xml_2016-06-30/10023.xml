@@ -1,0 +1,2203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <node-type>Subgroup</node-type>
+      <created-by>joe_leif</created-by>
+      <status nil="true"></status>
+      <creator-id type="integer">10740</creator-id>
+      <updated-by>joe_leif</updated-by>
+      <node-status-id nil="true"></node-status-id>
+      <start-date nil="true"></start-date>
+      <pri-name>Eskimo-Aleut</pri-name>
+      <geography nil="true"></geography>
+      <codes>eska</codes>
+      <other-codes></other-codes>
+      <is-default type="integer">0</is-default>
+      <created-at type="datetime">2008-07-07T09:39:00-04:00</created-at>
+      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+      <end-date nil="true"></end-date>
+      <deleted-at nil="true"></deleted-at>
+      <alt-names></alt-names>
+      <updated-at type="datetime">2008-07-07T09:39:01-04:00</updated-at>
+      <children type="array">
+        <child>
+          <node-type>Language</node-type>
+          <created-by>joe_leif</created-by>
+          <status nil="true"></status>
+          <creator-id type="integer">10740</creator-id>
+          <updated-by>joe_leif</updated-by>
+          <node-status-id nil="true"></node-status-id>
+          <start-date nil="true"></start-date>
+          <pri-name>Aleut</pri-name>
+          <geography nil="true"></geography>
+          <codes>ale</codes>
+          <other-codes></other-codes>
+          <is-default type="integer">0</is-default>
+          <created-at type="datetime">2008-07-07T09:39:01-04:00</created-at>
+          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+          <alt-names>Unangan</alt-names>
+          <updated-at type="datetime">2008-07-07T09:39:01-04:00</updated-at>
+          <children type="array">
+            <child>
+              <node-type>Dialect</node-type>
+              <created-by>joe_leif</created-by>
+              <status nil="true"></status>
+              <creator-id type="integer">10740</creator-id>
+              <updated-by>joe_leif</updated-by>
+              <node-status-id nil="true"></node-status-id>
+              <start-date nil="true"></start-date>
+              <pri-name>Eastern Aleut</pri-name>
+              <geography nil="true"></geography>
+              <codes>ale-eas</codes>
+              <other-codes></other-codes>
+              <is-default type="integer">0</is-default>
+              <created-at type="datetime">2008-07-07T09:39:01-04:00</created-at>
+              <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+              <end-date nil="true"></end-date>
+              <deleted-at nil="true"></deleted-at>
+              <alt-names>Unalaska</alt-names>
+              <updated-at type="datetime">2008-07-07T09:39:01-04:00</updated-at>
+              <children type="array"/>
+              <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+              <tree-id type="integer">10023</tree-id>
+              <sureness type="integer">0</sureness>
+              <id type="integer">10436</id>
+              <confidence>y</confidence>
+              <updater-id type="integer">10740</updater-id>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10003</node-type-id>
+            </child>
+            <child>
+              <node-type>Dialect Group</node-type>
+              <created-by>joe_leif</created-by>
+              <status nil="true"></status>
+              <creator-id type="integer">10740</creator-id>
+              <updated-by>joe_leif</updated-by>
+              <node-status-id nil="true"></node-status-id>
+              <start-date nil="true"></start-date>
+              <pri-name>Western Aleut</pri-name>
+              <geography nil="true"></geography>
+              <codes>ale-wes</codes>
+              <other-codes></other-codes>
+              <is-default type="integer">0</is-default>
+              <created-at type="datetime">2008-07-07T09:39:01-04:00</created-at>
+              <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+              <end-date nil="true"></end-date>
+              <deleted-at nil="true"></deleted-at>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2008-07-07T09:39:01-04:00</updated-at>
+              <children type="array">
+                <child>
+                  <node-type>Dialect</node-type>
+                  <created-by>joe_leif</created-by>
+                  <status nil="true"></status>
+                  <creator-id type="integer">10740</creator-id>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id nil="true"></node-status-id>
+                  <start-date nil="true"></start-date>
+                  <pri-name>Atkan</pri-name>
+                  <geography nil="true"></geography>
+                  <codes>ale-atk</codes>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2008-07-07T09:39:01-04:00</created-at>
+                  <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                  <end-date nil="true"></end-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2008-07-07T09:39:01-04:00</updated-at>
+                  <children type="array"/>
+                  <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                  <tree-id type="integer">10023</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10438</id>
+                  <confidence>y</confidence>
+                  <updater-id type="integer">10740</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10003</node-type-id>
+                </child>
+                <child>
+                  <node-type>Dialect</node-type>
+                  <created-by>joe_leif</created-by>
+                  <status>Extinct</status>
+                  <creator-id type="integer">10740</creator-id>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <start-date nil="true"></start-date>
+                  <pri-name>Qaxun</pri-name>
+                  <geography nil="true"></geography>
+                  <codes>ale-qax</codes>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2008-07-07T09:39:01-04:00</created-at>
+                  <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                  <end-date nil="true"></end-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2008-07-07T09:39:01-04:00</updated-at>
+                  <children type="array"/>
+                  <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                  <tree-id type="integer">10023</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10439</id>
+                  <confidence>y</confidence>
+                  <updater-id type="integer">10740</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10003</node-type-id>
+                </child>
+                <child>
+                  <node-type>Dialect</node-type>
+                  <created-by>joe_leif</created-by>
+                  <status>Extinct</status>
+                  <creator-id type="integer">10740</creator-id>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <start-date nil="true"></start-date>
+                  <pri-name>Attuan</pri-name>
+                  <geography nil="true"></geography>
+                  <codes>ale-att</codes>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2008-07-07T09:39:01-04:00</created-at>
+                  <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                  <end-date nil="true"></end-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2008-07-07T09:39:01-04:00</updated-at>
+                  <children type="array"/>
+                  <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                  <tree-id type="integer">10023</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10440</id>
+                  <confidence>y</confidence>
+                  <updater-id type="integer">10740</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10003</node-type-id>
+                </child>
+              </children>
+              <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+              <tree-id type="integer">10023</tree-id>
+              <sureness type="integer">0</sureness>
+              <id type="integer">10437</id>
+              <confidence>y</confidence>
+              <updater-id type="integer">10740</updater-id>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10004</node-type-id>
+            </child>
+          </children>
+          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+          <tree-id type="integer">10023</tree-id>
+          <sureness type="integer">0</sureness>
+          <id type="integer">10435</id>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10001</node-type-id>
+        </child>
+        <child>
+          <node-type>Subgroup</node-type>
+          <created-by>joe_leif</created-by>
+          <status nil="true"></status>
+          <creator-id type="integer">10740</creator-id>
+          <updated-by>joe_leif</updated-by>
+          <node-status-id nil="true"></node-status-id>
+          <start-date nil="true"></start-date>
+          <pri-name>Eskimoan</pri-name>
+          <geography nil="true"></geography>
+          <codes>eski</codes>
+          <other-codes></other-codes>
+          <is-default type="integer">0</is-default>
+          <created-at type="datetime">2008-07-07T09:39:01-04:00</created-at>
+          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2008-07-07T09:39:01-04:00</updated-at>
+          <children type="array">
+            <child>
+              <node-type>Subgroup</node-type>
+              <created-by>joe_leif</created-by>
+              <status nil="true"></status>
+              <creator-id type="integer">10740</creator-id>
+              <updated-by>joe_leif</updated-by>
+              <node-status-id nil="true"></node-status-id>
+              <start-date nil="true"></start-date>
+              <pri-name>Yupik</pri-name>
+              <geography nil="true"></geography>
+              <codes>yupi</codes>
+              <other-codes></other-codes>
+              <is-default type="integer">0</is-default>
+              <created-at type="datetime">2008-07-07T09:39:01-04:00</created-at>
+              <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+              <end-date nil="true"></end-date>
+              <deleted-at nil="true"></deleted-at>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2008-07-07T09:39:01-04:00</updated-at>
+              <children type="array">
+                <child>
+                  <node-type>Subgroup</node-type>
+                  <created-by>joe_leif</created-by>
+                  <status nil="true"></status>
+                  <creator-id type="integer">10740</creator-id>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id nil="true"></node-status-id>
+                  <start-date nil="true"></start-date>
+                  <pri-name>Siberian Yupik</pri-name>
+                  <geography nil="true"></geography>
+                  <codes>sibr</codes>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2008-07-07T09:39:01-04:00</created-at>
+                  <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                  <end-date nil="true"></end-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names>Asiatic Eskimo, Yuit</alt-names>
+                  <updated-at type="datetime">2008-07-07T09:39:01-04:00</updated-at>
+                  <children type="array">
+                    <child>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status>Extinct</status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <start-date>1997 CE</start-date>
+                      <pri-name>Sirenikski</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>ysr</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:01-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:01-04:00</updated-at>
+                      <children type="array"/>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10444</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Naukanski</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>ynk</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:01-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names>Naukan, East Cape</alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:01-04:00</updated-at>
+                      <children type="array"/>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10445</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Central Siberian Yupik</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>ess</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:01-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:01-04:00</updated-at>
+                      <children type="array">
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Chaplinski</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>ess-cha</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:01-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:01-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10447</id>
+                          <confidence>n</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>St. Lawrence Island Yupik</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>ess</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:01-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:01-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10448</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                      </children>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10446</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                    </child>
+                  </children>
+                  <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                  <tree-id type="integer">10023</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10443</id>
+                  <confidence>y</confidence>
+                  <updater-id type="integer">10740</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10000</node-type-id>
+                </child>
+                <child>
+                  <node-type>Subgroup</node-type>
+                  <created-by>joe_leif</created-by>
+                  <status nil="true"></status>
+                  <creator-id type="integer">10740</creator-id>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id nil="true"></node-status-id>
+                  <start-date nil="true"></start-date>
+                  <pri-name>Alaskan Yupik</pri-name>
+                  <geography nil="true"></geography>
+                  <codes>alas</codes>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2008-07-07T09:39:01-04:00</created-at>
+                  <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                  <end-date nil="true"></end-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2008-07-07T09:39:01-04:00</updated-at>
+                  <children type="array">
+                    <child>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Pacific Gulf Yupik</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>ems</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:01-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names>Alutiiq, Suk, Sugpiaq, Sugcestun</alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:02-04:00</updated-at>
+                      <children type="array">
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Chugach</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>ems-chu</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:02-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:02-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10451</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Koniag</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>ems-kon</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:02-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:02-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10452</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                      </children>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10450</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Central Alaskan Yup'ik</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>esu</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:02-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:02-04:00</updated-at>
+                      <children type="array">
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Egegik</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>esu-ege</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:02-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:02-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10454</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>General Central Alaskan Yup'ik</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>esu-gcy</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:02-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:02-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10455</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Hooper Bay-Chevak</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>esu-hoo</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:02-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:02-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10456</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Nunivak</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>esu-nun</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:02-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:02-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10457</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Norton Sound</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>esu-nor</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:02-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:02-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10458</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                      </children>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10453</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                    </child>
+                  </children>
+                  <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                  <tree-id type="integer">10023</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10449</id>
+                  <confidence>y</confidence>
+                  <updater-id type="integer">10740</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10000</node-type-id>
+                </child>
+              </children>
+              <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+              <tree-id type="integer">10023</tree-id>
+              <sureness type="integer">0</sureness>
+              <id type="integer">10442</id>
+              <confidence>y</confidence>
+              <updater-id type="integer">10740</updater-id>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+            </child>
+            <child>
+              <node-type>Subgroup</node-type>
+              <created-by>joe_leif</created-by>
+              <status nil="true"></status>
+              <creator-id type="integer">10740</creator-id>
+              <updated-by>joe_leif</updated-by>
+              <node-status-id nil="true"></node-status-id>
+              <start-date nil="true"></start-date>
+              <pri-name>I&#241;upiaq-Inuktitut</pri-name>
+              <geography nil="true"></geography>
+              <codes>inui</codes>
+              <other-codes></other-codes>
+              <is-default type="integer">0</is-default>
+              <created-at type="datetime">2008-07-07T09:39:02-04:00</created-at>
+              <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+              <end-date nil="true"></end-date>
+              <deleted-at nil="true"></deleted-at>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2008-07-07T09:39:03-04:00</updated-at>
+              <children type="array">
+                <child>
+                  <node-type>Language</node-type>
+                  <created-by>joe_leif</created-by>
+                  <status nil="true"></status>
+                  <creator-id type="integer">10740</creator-id>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id nil="true"></node-status-id>
+                  <start-date nil="true"></start-date>
+                  <pri-name>I&#241;upiaq</pri-name>
+                  <geography nil="true"></geography>
+                  <codes>esi</codes>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2008-07-07T09:39:03-04:00</created-at>
+                  <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                  <end-date nil="true"></end-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2008-07-07T09:39:03-04:00</updated-at>
+                  <children type="array">
+                    <child>
+                      <node-type>Subgroup</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Seward Peninsula I&#241;upiaq</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>esk</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:03-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:03-04:00</updated-at>
+                      <children type="array">
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Bering Strait</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>esk-kii</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:03-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:03-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10462</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Qawiaraq</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>esk-qaw</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:03-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:03-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10463</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                      </children>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10461</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10000</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Subgroup</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>North Alaska I&#241;upiaq</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>esi</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:03-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:03-04:00</updated-at>
+                      <children type="array">
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Malimiutun</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>esk-smi, esk-nor</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:03-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:03-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10465</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>North Slope</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>esi-nor</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:03-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:03-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10466</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                      </children>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10464</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10000</node-type-id>
+                    </child>
+                  </children>
+                  <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                  <tree-id type="integer">10023</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10460</id>
+                  <confidence>y</confidence>
+                  <updater-id type="integer">10740</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                </child>
+                <child>
+                  <node-type>Language</node-type>
+                  <created-by>joe_leif</created-by>
+                  <status nil="true"></status>
+                  <creator-id type="integer">10740</creator-id>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id nil="true"></node-status-id>
+                  <start-date nil="true"></start-date>
+                  <pri-name>Western Canadian Inuktun</pri-name>
+                  <geography nil="true"></geography>
+                  <codes>ikt</codes>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2008-07-07T09:39:03-04:00</created-at>
+                  <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                  <end-date nil="true"></end-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names>Inuvialuktun, Mackenzie Coast</alt-names>
+                  <updated-at type="datetime">2008-07-07T09:39:03-04:00</updated-at>
+                  <children type="array">
+                    <child>
+                      <node-type>Dialect</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Siglit</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>ikt-sig</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:03-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:03-04:00</updated-at>
+                      <children type="array"/>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10468</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Dialect</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Copper</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>ikt-cop</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:03-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names>Kangiryuarmiut, Iqaluktuuttiaq</alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:03-04:00</updated-at>
+                      <children type="array"/>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10469</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Dialect</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Coppermine</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>ikt-cpm</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:03-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names>Qurluqtuq</alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:03-04:00</updated-at>
+                      <children type="array"/>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10470</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Dialect</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Holman Island</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>ikt-hol</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:03-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names>Ulukhaqtuuq</alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:03-04:00</updated-at>
+                      <children type="array"/>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10471</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Dialect</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Netsilik</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>ikt-net</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:03-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names>Arviligjuaq</alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:03-04:00</updated-at>
+                      <children type="array"/>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10472</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Dialect</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Spence Bay</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>ikt-spe</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:03-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names>Talurjuaq</alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:03-04:00</updated-at>
+                      <children type="array"/>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10473</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Dialect</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Gjoa Haven</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>ikt-gjo</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:03-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names>Uqsuqtuuq</alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:03-04:00</updated-at>
+                      <children type="array"/>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10474</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Dialect</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Caribou</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>ikt-car</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:03-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names>Kivalliq</alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:03-04:00</updated-at>
+                      <children type="array"/>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10475</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                  </children>
+                  <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                  <tree-id type="integer">10023</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10467</id>
+                  <confidence>y</confidence>
+                  <updater-id type="integer">10740</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                </child>
+                <child>
+                  <node-type>Language</node-type>
+                  <created-by>joe_leif</created-by>
+                  <status nil="true"></status>
+                  <creator-id type="integer">10740</creator-id>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id nil="true"></node-status-id>
+                  <start-date nil="true"></start-date>
+                  <pri-name>Eastern Canadian Inuktitut</pri-name>
+                  <geography nil="true"></geography>
+                  <codes>ike</codes>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2008-07-07T09:39:03-04:00</created-at>
+                  <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                  <end-date nil="true"></end-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2008-07-07T09:39:03-04:00</updated-at>
+                  <children type="array">
+                    <child>
+                      <node-type>Dialect</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Aivilik</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>ike-aiv</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:03-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names>Kangiq&#322;niq</alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:03-04:00</updated-at>
+                      <children type="array"/>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10477</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Dialect</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Chesterfield Inlet</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>ike-che</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:03-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names>Igluliagaarjuk</alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:03-04:00</updated-at>
+                      <children type="array"/>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10478</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Dialect</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Coral Harbour</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>ike-cor</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:03-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names>Sagliq</alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:04-04:00</updated-at>
+                      <children type="array"/>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10479</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Dialect</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Repulse Bay</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>ike-rep</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:04-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names>Naujat, Southampton</alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:04-04:00</updated-at>
+                      <children type="array"/>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10480</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Dialect Group</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>North Baffin</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>ike-nba</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:04-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:04-04:00</updated-at>
+                      <children type="array">
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Iglulik</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>ike-igl</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:04-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:04-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10485</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Grise Fiord</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>ike-gri</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:04-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names>Ausuittuq</alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:04-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10486</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Resolute Bay</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>ike-res</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:04-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names>Qausuittuq</alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:04-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10487</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Arctic Bay</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>ike-arc</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:04-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names>Ikpiarjuk</alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:04-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10488</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Pond Inlet</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>ike-pon</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:04-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names>Mittimatalik</alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:04-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10489</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Clyde River</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>ike-cly</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:04-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names>Kangiq&#322;ugaapik</alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:04-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10490</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                      </children>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10481</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10004</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Dialect Group</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>South Baffin</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>ike-sba</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:04-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:04-04:00</updated-at>
+                      <children type="array">
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Cape Dorset</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>ike-dor</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:04-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names>Kinngait, Pangnirtung</alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:04-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10483</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Frobisher Bay</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>ike-fro</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:04-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names>Iqaluit</alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:04-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10484</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                      </children>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10482</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10004</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Dialect Group</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Arctic Quebec</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>ike-arq</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:04-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:05-04:00</updated-at>
+                      <children type="array">
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Itivimmiut</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>ike-iti</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:05-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names>Puvirnituq</alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:05-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10492</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Point Harrison</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>ike-poi</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:05-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names>Inujjuaq</alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:05-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10493</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Great Whale River</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>ike-gwr</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:05-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names>Kuujjuaraapik</alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:05-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10494</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Belcher Island</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>ike-bel</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:05-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names>Sanikiluaq</alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:05-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10495</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Tarramiut</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>ike-tar</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:05-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names>Kuujjuaq</alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:05-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10496</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Wakeham Bay</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>ike-wak</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:05-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names>Kangiqsujuaq</alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:05-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10497</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Saglouc</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>ike-sag</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:05-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names>Salluit</alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:05-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10498</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                      </children>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10491</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10004</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Dialect</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Labrador</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>ike-lab</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:05-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:05-04:00</updated-at>
+                      <children type="array"/>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10499</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Dialect</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Rigolet</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>ike-rig</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:05-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names>Tikiraqsuarusik</alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:05-04:00</updated-at>
+                      <children type="array"/>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10500</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                  </children>
+                  <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                  <tree-id type="integer">10023</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10476</id>
+                  <confidence>y</confidence>
+                  <updater-id type="integer">10740</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                </child>
+                <child>
+                  <node-type>Language</node-type>
+                  <created-by>joe_leif</created-by>
+                  <status nil="true"></status>
+                  <creator-id type="integer">10740</creator-id>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id nil="true"></node-status-id>
+                  <start-date nil="true"></start-date>
+                  <pri-name>Greenlandic Kalaallisut</pri-name>
+                  <geography nil="true"></geography>
+                  <codes>kal</codes>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2008-07-07T09:39:05-04:00</created-at>
+                  <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                  <end-date nil="true"></end-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2008-07-07T09:39:05-04:00</updated-at>
+                  <children type="array">
+                    <child>
+                      <node-type>Dialect</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>North Greenlandic</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>kal-pol</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:05-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names>Polar Eskimo</alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:05-04:00</updated-at>
+                      <children type="array"/>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10502</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Dialect Group</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>West Greenlandic</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>kal-wes</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:05-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:05-04:00</updated-at>
+                      <children type="array">
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Upernavik</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>kal-upe</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:05-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:05-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10504</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Northwest Greenlandic</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>kal-nwg</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:05-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:05-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10505</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <creator-id type="integer">10740</creator-id>
+                          <updated-by>joe_leif</updated-by>
+                          <node-status-id nil="true"></node-status-id>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Southwest Greenlandic</pri-name>
+                          <geography nil="true"></geography>
+                          <codes>kal-swg</codes>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <created-at type="datetime">2008-07-07T09:39:05-04:00</created-at>
+                          <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                          <end-date nil="true"></end-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2008-07-07T09:39:05-04:00</updated-at>
+                          <children type="array"/>
+                          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                          <tree-id type="integer">10023</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">10506</id>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                      </children>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10503</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10004</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Dialect</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>East Greenlandic</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>kal-eas</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:05-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names>Tasiilaq</alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:05-04:00</updated-at>
+                      <children type="array"/>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10507</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                    <child>
+                      <node-type>Dialect</node-type>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <creator-id type="integer">10740</creator-id>
+                      <updated-by>joe_leif</updated-by>
+                      <node-status-id nil="true"></node-status-id>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Scoresbysund</pri-name>
+                      <geography nil="true"></geography>
+                      <codes>kal-sco</codes>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2008-07-07T09:39:05-04:00</created-at>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                      <end-date nil="true"></end-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names>Ittoqqortoormiit</alt-names>
+                      <updated-at type="datetime">2008-07-07T09:39:05-04:00</updated-at>
+                      <children type="array"/>
+                      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                      <tree-id type="integer">10023</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">10508</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                  </children>
+                  <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+                  <tree-id type="integer">10023</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10501</id>
+                  <confidence>y</confidence>
+                  <updater-id type="integer">10740</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                </child>
+              </children>
+              <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+              <tree-id type="integer">10023</tree-id>
+              <sureness type="integer">0</sureness>
+              <id type="integer">10459</id>
+              <confidence>y</confidence>
+              <updater-id type="integer">10740</updater-id>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+            </child>
+          </children>
+          <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+          <tree-id type="integer">10023</tree-id>
+          <sureness type="integer">0</sureness>
+          <id type="integer">10441</id>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10000</node-type-id>
+        </child>
+      </children>
+      <tree-val>Eskimo-Aleut: Mithun 1999</tree-val>
+      <tree-id type="integer">10023</tree-id>
+      <sureness type="integer">0</sureness>
+      <id type="integer">10434</id>
+      <confidence>y</confidence>
+      <updater-id type="integer">10740</updater-id>
+      <pub-comments></pub-comments>
+      <node-type-id type="integer">10000</node-type-id>
+    </root>
+    <description>Eskimo-Aleut: Mithun 1999</description>
+  </tree>
+</hash>

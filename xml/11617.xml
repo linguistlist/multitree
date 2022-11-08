@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Australia</region>
+    <description>Australian Mixed Language: Ethnologue 2005</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2009-03-18T16:35:55-04:00</created-at>
+      <confidence>Y</confidence>
+      <tree-val>Australian Mixed Language: Ethnologue 2005</tree-val>
+      <pub-comments>This is a subtree of the mixed language tree provided in Ethnologue. It has been broken into regions for ease of searching.</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2009-03-18T16:35:55-04:00</updated-at>
+      <pri-name>Australian Mixed Language</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">329466</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography>Australia</geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">11617</tree-id>
+      <codes>auml</codes>
+      <status nil="true"></status>
+      <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-03-18T16:35:55-04:00</created-at>
+          <confidence>Y</confidence>
+          <tree-val>Australian Mixed Language: Ethnologue 2005</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2009-03-18T16:35:55-04:00</updated-at>
+          <pri-name>English-Romani</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">329467</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">11617</tree-id>
+          <codes>egro</codes>
+          <status nil="true"></status>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-03-18T16:35:55-04:00</created-at>
+              <confidence>Y</confidence>
+              <tree-val>Australian Mixed Language: Ethnologue 2005</tree-val>
+              <pub-comments>Angloromani not inherently intelligible with Welsh Romani, Traveller Swedish, Traveller Norwegian, or Traveller Danish. The grammar is basically English with heavy Romani lexical borrowing. Many dialects.</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-03-18T16:35:55-04:00</updated-at>
+              <pri-name>Angloromani</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">329468</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>United Knigdom, England, Wales, Scotland. Also spoken in Australia, South Africa, USA.</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>English Romani, Romanichal, Pogadi Chib</alt-names>
+              <tree-id type="integer">11617</tree-id>
+              <codes>rme</codes>
+              <status nil="true"></status>
+              <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

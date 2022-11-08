@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Africa</region>
+    <description>Ethiosemitic: Bender 1971</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2013-08-08T11:59:49-04:00</created-at>
+      <confidence>Y</confidence>
+      <tree-val>Ethiosemitic: Bender 1971</tree-val>
+      <pub-comments>This tree was created using lexicostatistic classification.</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2013-08-08T11:59:50-04:00</updated-at>
+      <pri-name>Ethiosemitic</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">960260</id>
+      <creator-id type="integer">10700</creator-id>
+      <created-by>kvarjoy</created-by>
+      <updater-id type="integer">10700</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>kvarjoy</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">24678</tree-id>
+      <codes>afet</codes>
+      <status nil="true"></status>
+      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-08-08T11:59:50-04:00</created-at>
+          <confidence>Y</confidence>
+          <tree-val>Ethiosemitic: Bender 1971</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-08-08T11:59:50-04:00</updated-at>
+          <pri-name>South</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">960272</id>
+          <creator-id type="integer">10700</creator-id>
+          <created-by>kvarjoy</created-by>
+          <updater-id type="integer">10700</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>kvarjoy</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">24678</tree-id>
+          <codes>seth</codes>
+          <status nil="true"></status>
+          <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-08-08T11:59:51-04:00</created-at>
+              <confidence>Y</confidence>
+              <tree-val>Ethiosemitic: Bender 1971</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-08-08T11:59:51-04:00</updated-at>
+              <pri-name>West Gurage</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">960280</id>
+              <creator-id type="integer">10700</creator-id>
+              <created-by>kvarjoy</created-by>
+              <updater-id type="integer">10700</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>kvarjoy</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">24678</tree-id>
+              <codes>afwg</codes>
+              <status nil="true"></status>
+              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-08T11:59:51-04:00</created-at>
+                  <confidence>Y</confidence>
+                  <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-08T11:59:51-04:00</updated-at>
+                  <pri-name>Chaha Cluster</pri-name>
+                  <node-type>Dialect Group</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">960284</id>
+                  <creator-id type="integer">10700</creator-id>
+                  <created-by>kvarjoy</created-by>
+                  <updater-id type="integer">10700</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>kvarjoy</updated-by>
+                  <node-type-id type="integer">10004</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24678</tree-id>
+                  <codes>cpwg</codes>
+                  <status nil="true"></status>
+                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-08-08T11:59:52-04:00</created-at>
+                      <confidence>Y</confidence>
+                      <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-08-08T11:59:52-04:00</updated-at>
+                      <pri-name>Izha</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">960290</id>
+                      <creator-id type="integer">10700</creator-id>
+                      <created-by>kvarjoy</created-by>
+                      <updater-id type="integer">10700</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>kvarjoy</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24678</tree-id>
+                      <codes>sgw-ezh</codes>
+                      <status nil="true"></status>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-08-08T11:59:52-04:00</created-at>
+                      <confidence>Y</confidence>
+                      <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-08-08T11:59:52-04:00</updated-at>
+                      <pri-name>Ener</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">960289</id>
+                      <creator-id type="integer">10700</creator-id>
+                      <created-by>kvarjoy</created-by>
+                      <updater-id type="integer">10700</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>kvarjoy</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24678</tree-id>
+                      <codes>ior</codes>
+                      <status nil="true"></status>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-08-08T11:59:52-04:00</created-at>
+                      <confidence>Y</confidence>
+                      <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-08-08T11:59:52-04:00</updated-at>
+                      <pri-name>Gumer</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">960291</id>
+                      <creator-id type="integer">10700</creator-id>
+                      <created-by>kvarjoy</created-by>
+                      <updater-id type="integer">10700</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>kvarjoy</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24678</tree-id>
+                      <codes>sgw-gum</codes>
+                      <status nil="true"></status>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-08-08T11:59:51-04:00</created-at>
+                      <confidence>Y</confidence>
+                      <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-08-08T11:59:51-04:00</updated-at>
+                      <pri-name>Geto</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">960286</id>
+                      <creator-id type="integer">10700</creator-id>
+                      <created-by>kvarjoy</created-by>
+                      <updater-id type="integer">10700</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>kvarjoy</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24678</tree-id>
+                      <codes>sgw-gye</codes>
+                      <status nil="true"></status>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-08-08T11:59:51-04:00</created-at>
+                      <confidence>Y</confidence>
+                      <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-08-08T11:59:51-04:00</updated-at>
+                      <pri-name>Innemor</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">960287</id>
+                      <creator-id type="integer">10700</creator-id>
+                      <created-by>kvarjoy</created-by>
+                      <updater-id type="integer">10700</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>kvarjoy</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24678</tree-id>
+                      <codes>qql-ion</codes>
+                      <status nil="true"></status>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-08-08T11:59:51-04:00</created-at>
+                      <confidence>Y</confidence>
+                      <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-08-08T11:59:51-04:00</updated-at>
+                      <pri-name>Chaha</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">960285</id>
+                      <creator-id type="integer">10700</creator-id>
+                      <created-by>kvarjoy</created-by>
+                      <updater-id type="integer">10700</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>kvarjoy</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24678</tree-id>
+                      <codes>sgw-cha</codes>
+                      <status nil="true"></status>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-08-08T11:59:51-04:00</created-at>
+                      <confidence>Y</confidence>
+                      <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-08-08T11:59:52-04:00</updated-at>
+                      <pri-name>Mesqan</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">960288</id>
+                      <creator-id type="integer">10700</creator-id>
+                      <created-by>kvarjoy</created-by>
+                      <updater-id type="integer">10700</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>kvarjoy</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24678</tree-id>
+                      <codes>mvz</codes>
+                      <status nil="true"></status>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-08-08T11:59:52-04:00</created-at>
+                      <confidence>Y</confidence>
+                      <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-08-08T11:59:52-04:00</updated-at>
+                      <pri-name>Gura</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">960292</id>
+                      <creator-id type="integer">10700</creator-id>
+                      <created-by>kvarjoy</created-by>
+                      <updater-id type="integer">10700</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>kvarjoy</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24678</tree-id>
+                      <codes>sgw-gur</codes>
+                      <status nil="true"></status>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-08T11:59:51-04:00</created-at>
+                  <confidence>Y</confidence>
+                  <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                  <pub-comments>Node not named by author.</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-08T11:59:51-04:00</updated-at>
+                  <pri-name>Mesmes-Indegegn</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">960281</id>
+                  <creator-id type="integer">10700</creator-id>
+                  <created-by>kvarjoy</created-by>
+                  <updater-id type="integer">10700</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>kvarjoy</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24678</tree-id>
+                  <codes>mys</codes>
+                  <status nil="true"></status>
+                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-08-08T11:59:51-04:00</created-at>
+                      <confidence>Y</confidence>
+                      <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-08-08T11:59:51-04:00</updated-at>
+                      <pri-name>Mesmes</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">960282</id>
+                      <creator-id type="integer">10700</creator-id>
+                      <created-by>kvarjoy</created-by>
+                      <updater-id type="integer">10700</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>kvarjoy</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24678</tree-id>
+                      <codes>mys</codes>
+                      <status nil="true"></status>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-08-08T11:59:51-04:00</created-at>
+                      <confidence>Y</confidence>
+                      <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-08-08T11:59:51-04:00</updated-at>
+                      <pri-name>Indegegn</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">960283</id>
+                      <creator-id type="integer">10700</creator-id>
+                      <created-by>kvarjoy</created-by>
+                      <updater-id type="integer">10700</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>kvarjoy</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24678</tree-id>
+                      <codes>mys</codes>
+                      <status nil="true"></status>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-08-08T11:59:50-04:00</created-at>
+              <confidence>Y</confidence>
+              <tree-val>Ethiosemitic: Bender 1971</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-08-08T11:59:50-04:00</updated-at>
+              <pri-name>East Gurage</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">960273</id>
+              <creator-id type="integer">10700</creator-id>
+              <created-by>kvarjoy</created-by>
+              <updater-id type="integer">10700</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>kvarjoy</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">24678</tree-id>
+              <codes>afeg</codes>
+              <status nil="true"></status>
+              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-08T11:59:51-04:00</created-at>
+                  <confidence>Y</confidence>
+                  <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-08T11:59:51-04:00</updated-at>
+                  <pri-name>Harari</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">960276</id>
+                  <creator-id type="integer">10700</creator-id>
+                  <created-by>kvarjoy</created-by>
+                  <updater-id type="integer">10700</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>kvarjoy</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24678</tree-id>
+                  <codes>har</codes>
+                  <status nil="true"></status>
+                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-08T11:59:51-04:00</created-at>
+                  <confidence>Y</confidence>
+                  <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-08T11:59:51-04:00</updated-at>
+                  <pri-name>Urbareg</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">960279</id>
+                  <creator-id type="integer">10700</creator-id>
+                  <created-by>kvarjoy</created-by>
+                  <updater-id type="integer">10700</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>kvarjoy</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24678</tree-id>
+                  <codes>stv-ulb</codes>
+                  <status nil="true"></status>
+                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-08T11:59:50-04:00</created-at>
+                  <confidence>Y</confidence>
+                  <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-08T11:59:50-04:00</updated-at>
+                  <pri-name>Zway</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">960274</id>
+                  <creator-id type="integer">10700</creator-id>
+                  <created-by>kvarjoy</created-by>
+                  <updater-id type="integer">10700</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>kvarjoy</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24678</tree-id>
+                  <codes>zwa</codes>
+                  <status nil="true"></status>
+                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-08T11:59:50-04:00</created-at>
+                  <confidence>Y</confidence>
+                  <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-08T11:59:51-04:00</updated-at>
+                  <pri-name>Walani</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">960275</id>
+                  <creator-id type="integer">10700</creator-id>
+                  <created-by>kvarjoy</created-by>
+                  <updater-id type="integer">10700</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>kvarjoy</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24678</tree-id>
+                  <codes>wle</codes>
+                  <status nil="true"></status>
+                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-08T11:59:51-04:00</created-at>
+                  <confidence>Y</confidence>
+                  <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-08T11:59:51-04:00</updated-at>
+                  <pri-name>Inneqor</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">960278</id>
+                  <creator-id type="integer">10700</creator-id>
+                  <created-by>kvarjoy</created-by>
+                  <updater-id type="integer">10700</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>kvarjoy</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24678</tree-id>
+                  <codes>stv-enn</codes>
+                  <status nil="true"></status>
+                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-08T11:59:51-04:00</created-at>
+                  <confidence>Y</confidence>
+                  <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-08T11:59:51-04:00</updated-at>
+                  <pri-name>Selti</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">960277</id>
+                  <creator-id type="integer">10700</creator-id>
+                  <created-by>kvarjoy</created-by>
+                  <updater-id type="integer">10700</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>kvarjoy</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24678</tree-id>
+                  <codes>stv</codes>
+                  <status nil="true"></status>
+                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-08-08T11:59:50-04:00</created-at>
+          <confidence>Y</confidence>
+          <tree-val>Ethiosemitic: Bender 1971</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-08-08T11:59:50-04:00</updated-at>
+          <pri-name>Central</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">960265</id>
+          <creator-id type="integer">10700</creator-id>
+          <created-by>kvarjoy</created-by>
+          <updater-id type="integer">10700</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>kvarjoy</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">24678</tree-id>
+          <codes>ceth</codes>
+          <status nil="true"></status>
+          <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-08-08T11:59:50-04:00</created-at>
+              <confidence>Y</confidence>
+              <tree-val>Ethiosemitic: Bender 1971</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-08-08T11:59:50-04:00</updated-at>
+              <pri-name>Amharic-Argobba</pri-name>
+              <node-type>Dialect Group</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">960266</id>
+              <creator-id type="integer">10700</creator-id>
+              <created-by>kvarjoy</created-by>
+              <updater-id type="integer">10700</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>kvarjoy</updated-by>
+              <node-type-id type="integer">10004</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">24678</tree-id>
+              <codes>amha</codes>
+              <status nil="true"></status>
+              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-08T11:59:50-04:00</created-at>
+                  <confidence>Y</confidence>
+                  <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-08T11:59:50-04:00</updated-at>
+                  <pri-name>Argobba</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">960268</id>
+                  <creator-id type="integer">10700</creator-id>
+                  <created-by>kvarjoy</created-by>
+                  <updater-id type="integer">10700</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>kvarjoy</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24678</tree-id>
+                  <codes>agj</codes>
+                  <status nil="true"></status>
+                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-08-08T11:59:50-04:00</created-at>
+                      <confidence>Y</confidence>
+                      <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <updated-at type="datetime">2013-08-08T11:59:50-04:00</updated-at>
+                      <pri-name>South Argobba</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">960269</id>
+                      <creator-id type="integer">10700</creator-id>
+                      <created-by>kvarjoy</created-by>
+                      <updater-id type="integer">10700</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>kvarjoy</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24678</tree-id>
+                      <codes>agj-sth</codes>
+                      <status>Extinct</status>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-08-08T11:59:50-04:00</created-at>
+                      <confidence>Y</confidence>
+                      <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-08-08T11:59:50-04:00</updated-at>
+                      <pri-name>North Argobba</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">960270</id>
+                      <creator-id type="integer">10700</creator-id>
+                      <created-by>kvarjoy</created-by>
+                      <updater-id type="integer">10700</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>kvarjoy</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24678</tree-id>
+                      <codes>agj-nth</codes>
+                      <status nil="true"></status>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-08T11:59:50-04:00</created-at>
+                  <confidence>Y</confidence>
+                  <tree-val>Ethiosemitic: Bender 1971</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-08T11:59:50-04:00</updated-at>
+                  <pri-name>Amharic</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">960267</id>
+                  <creator-id type="integer">10700</creator-id>
+                  <created-by>kvarjoy</created-by>
+                  <updater-id type="integer">10700</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>kvarjoy</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24678</tree-id>
+                  <codes>amh</codes>
+                  <status nil="true"></status>
+                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-08-08T11:59:50-04:00</created-at>
+              <confidence>Y</confidence>
+              <tree-val>Ethiosemitic: Bender 1971</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-08-08T11:59:50-04:00</updated-at>
+              <pri-name>Gafat</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">960271</id>
+              <creator-id type="integer">10700</creator-id>
+              <created-by>kvarjoy</created-by>
+              <updater-id type="integer">10700</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>kvarjoy</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">24678</tree-id>
+              <codes>gft</codes>
+              <status nil="true"></status>
+              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-08-08T11:59:50-04:00</created-at>
+          <confidence>Y</confidence>
+          <tree-val>Ethiosemitic: Bender 1971</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-08-08T11:59:50-04:00</updated-at>
+          <pri-name>North</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">960261</id>
+          <creator-id type="integer">10700</creator-id>
+          <created-by>kvarjoy</created-by>
+          <updater-id type="integer">10700</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>kvarjoy</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names>Eritrean</alt-names>
+          <tree-id type="integer">24678</tree-id>
+          <codes>neth</codes>
+          <status nil="true"></status>
+          <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-08-08T11:59:50-04:00</created-at>
+              <confidence>Y</confidence>
+              <tree-val>Ethiosemitic: Bender 1971</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2013-08-08T11:59:50-04:00</updated-at>
+              <pri-name>Geez</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">960262</id>
+              <creator-id type="integer">10700</creator-id>
+              <created-by>kvarjoy</created-by>
+              <updater-id type="integer">10700</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>kvarjoy</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">24678</tree-id>
+              <codes>gez</codes>
+              <status>Extinct</status>
+              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-08-08T11:59:50-04:00</created-at>
+              <confidence>Y</confidence>
+              <tree-val>Ethiosemitic: Bender 1971</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-08-08T11:59:50-04:00</updated-at>
+              <pri-name>Tigrinya</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">960264</id>
+              <creator-id type="integer">10700</creator-id>
+              <created-by>kvarjoy</created-by>
+              <updater-id type="integer">10700</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>kvarjoy</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">24678</tree-id>
+              <codes>tir</codes>
+              <status nil="true"></status>
+              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-08-08T11:59:50-04:00</created-at>
+              <confidence>Y</confidence>
+              <tree-val>Ethiosemitic: Bender 1971</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-08-08T11:59:50-04:00</updated-at>
+              <pri-name>Tigre</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">960263</id>
+              <creator-id type="integer">10700</creator-id>
+              <created-by>kvarjoy</created-by>
+              <updater-id type="integer">10700</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>kvarjoy</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">24678</tree-id>
+              <codes>tig</codes>
+              <status nil="true"></status>
+              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

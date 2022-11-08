@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <node-status-id nil="true"></node-status-id>
+      <tree-id type="integer">12097</tree-id>
+      <updated-at type="datetime">2009-05-05T20:54:28-04:00</updated-at>
+      <pub-comments></pub-comments>
+      <node-type-id type="integer">10000</node-type-id>
+      <id type="integer">385981</id>
+      <deleted-at nil="true"></deleted-at>
+      <created-by>joe_leif</created-by>
+      <confidence>y</confidence>
+      <creator-id type="integer">10740</creator-id>
+      <start-date nil="true"></start-date>
+      <node-type>Subgroup</node-type>
+      <tree-val>Chimakuan: Mithun 1999</tree-val>
+      <other-codes></other-codes>
+      <created-at type="datetime">2009-05-05T20:54:28-04:00</created-at>
+      <sureness type="integer">0</sureness>
+      <pri-name>Chimakuan</pri-name>
+      <alt-names></alt-names>
+      <status nil="true"></status>
+      <geography nil="true"></geography>
+      <updater-id type="integer">10740</updater-id>
+      <updated-by>joe_leif</updated-by>
+      <publications>Mithun, Marianne. 1999. The Languages of Native North America, 377. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+      <end-date nil="true"></end-date>
+      <is-default type="integer">0</is-default>
+      <codes>chmn</codes>
+      <children type="array">
+        <child>
+          <node-status-id nil="true"></node-status-id>
+          <tree-id type="integer">12097</tree-id>
+          <updated-at type="datetime">2009-05-05T20:54:29-04:00</updated-at>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10001</node-type-id>
+          <id type="integer">385983</id>
+          <deleted-at nil="true"></deleted-at>
+          <created-by>joe_leif</created-by>
+          <confidence>y</confidence>
+          <creator-id type="integer">10740</creator-id>
+          <start-date nil="true"></start-date>
+          <node-type>Language</node-type>
+          <tree-val>Chimakuan: Mithun 1999</tree-val>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-05-05T20:54:29-04:00</created-at>
+          <sureness type="integer">0</sureness>
+          <pri-name>Quileute</pri-name>
+          <alt-names>Quillayute</alt-names>
+          <status nil="true"></status>
+          <geography nil="true"></geography>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <publications>Mithun, Marianne. 1999. The Languages of Native North America, 377. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+          <end-date nil="true"></end-date>
+          <is-default type="integer">0</is-default>
+          <codes>qui</codes>
+          <children type="array"/>
+        </child>
+        <child>
+          <node-status-id type="integer">10000</node-status-id>
+          <tree-id type="integer">12097</tree-id>
+          <updated-at type="datetime">2009-05-05T20:54:29-04:00</updated-at>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10001</node-type-id>
+          <id type="integer">385982</id>
+          <deleted-at nil="true"></deleted-at>
+          <created-by>joe_leif</created-by>
+          <confidence>y</confidence>
+          <creator-id type="integer">10740</creator-id>
+          <start-date nil="true"></start-date>
+          <node-type>Language</node-type>
+          <tree-val>Chimakuan: Mithun 1999</tree-val>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-05-05T20:54:28-04:00</created-at>
+          <sureness type="integer">0</sureness>
+          <pri-name>Chemakum</pri-name>
+          <alt-names>Chimakum</alt-names>
+          <status>Extinct</status>
+          <geography nil="true"></geography>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <publications>Mithun, Marianne. 1999. The Languages of Native North America, 377. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+          <end-date nil="true"></end-date>
+          <is-default type="integer">0</is-default>
+          <codes>xch</codes>
+          <children type="array"/>
+        </child>
+      </children>
+    </root>
+    <description>Chimakuan: Mithun 1999</description>
+  </tree>
+</hash>

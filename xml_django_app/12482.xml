@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <tree-id type="integer">12482</tree-id>
+      <sureness type="integer">0</sureness>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 642. New York: Oxford University Press. ISBN 0199255911</publications>
+      <start-date nil="true"></start-date>
+      <node-type-id type="integer">10000</node-type-id>
+      <id type="integer">418187</id>
+      <geography nil="true"></geography>
+      <deleted-at nil="true"></deleted-at>
+      <updated-at type="datetime">2009-05-19T19:04:34-04:00</updated-at>
+      <status nil="true"></status>
+      <node-status-id nil="true"></node-status-id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <tree-val>Y&#225;mana: Dryer 2005</tree-val>
+      <end-date nil="true"></end-date>
+      <confidence>y</confidence>
+      <alt-names></alt-names>
+      <other-codes></other-codes>
+      <created-at type="datetime">2009-05-19T19:04:34-04:00</created-at>
+      <codes>qaya</codes>
+      <children type="array">
+        <child>
+          <tree-id type="integer">12482</tree-id>
+          <sureness type="integer">0</sureness>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 642. New York: Oxford University Press. ISBN 0199255911</publications>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10001</node-type-id>
+          <id type="integer">418188</id>
+          <geography>Country: Chile; Lat.: -55; Long.: -68</geography>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2009-05-19T19:04:34-04:00</updated-at>
+          <status nil="true"></status>
+          <node-status-id nil="true"></node-status-id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <tree-val>Y&#225;mana: Dryer 2005</tree-val>
+          <end-date nil="true"></end-date>
+          <confidence>y</confidence>
+          <alt-names>Yamana</alt-names>
+          <other-codes>yah</other-codes>
+          <created-at type="datetime">2009-05-19T19:04:34-04:00</created-at>
+          <codes>yag</codes>
+          <children type="array"/>
+          <pub-comments></pub-comments>
+          <pri-name>Yahgan</pri-name>
+          <node-type>Language</node-type>
+          <updated-by>joe_leif</updated-by>
+          <is-default type="integer">0</is-default>
+        </child>
+      </children>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <pri-name>Yamana</pri-name>
+      <node-type>Subgroup</node-type>
+      <updated-by>joe_leif</updated-by>
+      <is-default type="integer">0</is-default>
+    </root>
+    <description>Y&#225;mana: Dryer 2005</description>
+  </tree>
+</hash>

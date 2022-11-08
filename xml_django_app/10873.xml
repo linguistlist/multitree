@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <is-default type="integer">0</is-default>
+      <created-at type="datetime">2008-10-29T11:58:11-04:00</created-at>
+      <alt-names></alt-names>
+      <sureness type="integer">0</sureness>
+      <node-type-id type="integer">10000</node-type-id>
+      <deleted-at nil="true"></deleted-at>
+      <other-codes></other-codes>
+      <codes>cadd</codes>
+      <updater-id type="integer">10740</updater-id>
+      <updated-at type="datetime">2008-10-29T11:58:11-04:00</updated-at>
+      <creator-id type="integer">10740</creator-id>
+      <confidence>y</confidence>
+      <status nil="true"></status>
+      <node-type>Subgroup</node-type>
+      <id type="integer">161963</id>
+      <end-date nil="true"></end-date>
+      <pri-name>Caddoan</pri-name>
+      <geography nil="true"></geography>
+      <children type="array">
+        <child>
+          <is-default type="integer">0</is-default>
+          <created-at type="datetime">2008-10-29T11:58:11-04:00</created-at>
+          <alt-names></alt-names>
+          <sureness type="integer">0</sureness>
+          <node-type-id type="integer">10000</node-type-id>
+          <deleted-at nil="true"></deleted-at>
+          <other-codes></other-codes>
+          <codes>scad</codes>
+          <updater-id type="integer">10740</updater-id>
+          <updated-at type="datetime">2008-10-29T11:58:11-04:00</updated-at>
+          <creator-id type="integer">10740</creator-id>
+          <confidence>y</confidence>
+          <status nil="true"></status>
+          <node-type>Subgroup</node-type>
+          <id type="integer">161964</id>
+          <end-date nil="true"></end-date>
+          <pri-name>Southern Caddoan</pri-name>
+          <geography nil="true"></geography>
+          <children type="array">
+            <child>
+              <is-default type="integer">0</is-default>
+              <created-at type="datetime">2008-10-29T11:58:11-04:00</created-at>
+              <alt-names></alt-names>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <deleted-at nil="true"></deleted-at>
+              <other-codes></other-codes>
+              <codes>cad</codes>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2008-10-29T11:58:11-04:00</updated-at>
+              <creator-id type="integer">10740</creator-id>
+              <confidence>y</confidence>
+              <status nil="true"></status>
+              <node-type>Language</node-type>
+              <id type="integer">161965</id>
+              <end-date nil="true"></end-date>
+              <pri-name>Caddo</pri-name>
+              <geography nil="true"></geography>
+              <children type="array">
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2008-10-29T11:58:11-04:00</created-at>
+                  <alt-names></alt-names>
+                  <sureness type="integer">0</sureness>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <other-codes></other-codes>
+                  <codes>cad-kad</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-at type="datetime">2008-10-29T11:58:11-04:00</updated-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>y</confidence>
+                  <status nil="true"></status>
+                  <node-type>Dialect</node-type>
+                  <id type="integer">161966</id>
+                  <end-date nil="true"></end-date>
+                  <pri-name>Kadohadacho</pri-name>
+                  <geography nil="true"></geography>
+                  <children type="array"/>
+                  <tree-val>Caddoan: Mithun 1999</tree-val>
+                  <publications>Mithun, Marianne. 1999. The Languages of Native North America, 369. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                  <node-status-id nil="true"></node-status-id>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments></pub-comments>
+                  <tree-id type="integer">10873</tree-id>
+                  <updated-by>joe_leif</updated-by>
+                  <start-date nil="true"></start-date>
+                </child>
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2008-10-29T11:58:11-04:00</created-at>
+                  <alt-names></alt-names>
+                  <sureness type="integer">0</sureness>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <other-codes></other-codes>
+                  <codes>cad-has</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-at type="datetime">2008-10-29T11:58:11-04:00</updated-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>y</confidence>
+                  <status nil="true"></status>
+                  <node-type>Dialect</node-type>
+                  <id type="integer">161967</id>
+                  <end-date nil="true"></end-date>
+                  <pri-name>Hasinai</pri-name>
+                  <geography nil="true"></geography>
+                  <children type="array"/>
+                  <tree-val>Caddoan: Mithun 1999</tree-val>
+                  <publications>Mithun, Marianne. 1999. The Languages of Native North America, 369. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                  <node-status-id nil="true"></node-status-id>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments></pub-comments>
+                  <tree-id type="integer">10873</tree-id>
+                  <updated-by>joe_leif</updated-by>
+                  <start-date nil="true"></start-date>
+                </child>
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2008-10-29T11:58:11-04:00</created-at>
+                  <alt-names></alt-names>
+                  <sureness type="integer">0</sureness>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <other-codes></other-codes>
+                  <codes>cad-nat</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-at type="datetime">2008-10-29T11:58:11-04:00</updated-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>y</confidence>
+                  <status nil="true"></status>
+                  <node-type>Dialect</node-type>
+                  <id type="integer">161968</id>
+                  <end-date nil="true"></end-date>
+                  <pri-name>Natchitoches</pri-name>
+                  <geography nil="true"></geography>
+                  <children type="array"/>
+                  <tree-val>Caddoan: Mithun 1999</tree-val>
+                  <publications>Mithun, Marianne. 1999. The Languages of Native North America, 369. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                  <node-status-id nil="true"></node-status-id>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments></pub-comments>
+                  <tree-id type="integer">10873</tree-id>
+                  <updated-by>joe_leif</updated-by>
+                  <start-date nil="true"></start-date>
+                </child>
+              </children>
+              <tree-val>Caddoan: Mithun 1999</tree-val>
+              <publications>Mithun, Marianne. 1999. The Languages of Native North America, 369. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+              <node-status-id nil="true"></node-status-id>
+              <created-by>joe_leif</created-by>
+              <pub-comments></pub-comments>
+              <tree-id type="integer">10873</tree-id>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+            </child>
+          </children>
+          <tree-val>Caddoan: Mithun 1999</tree-val>
+          <publications>Mithun, Marianne. 1999. The Languages of Native North America, 369. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <pub-comments></pub-comments>
+          <tree-id type="integer">10873</tree-id>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+        </child>
+        <child>
+          <is-default type="integer">0</is-default>
+          <created-at type="datetime">2008-10-29T11:58:11-04:00</created-at>
+          <alt-names></alt-names>
+          <sureness type="integer">0</sureness>
+          <node-type-id type="integer">10000</node-type-id>
+          <deleted-at nil="true"></deleted-at>
+          <other-codes></other-codes>
+          <codes>ncad</codes>
+          <updater-id type="integer">10740</updater-id>
+          <updated-at type="datetime">2008-10-29T11:58:11-04:00</updated-at>
+          <creator-id type="integer">10740</creator-id>
+          <confidence>y</confidence>
+          <status nil="true"></status>
+          <node-type>Subgroup</node-type>
+          <id type="integer">161969</id>
+          <end-date nil="true"></end-date>
+          <pri-name>Northern Caddoan</pri-name>
+          <geography nil="true"></geography>
+          <children type="array">
+            <child>
+              <is-default type="integer">0</is-default>
+              <created-at type="datetime">2008-10-29T11:58:11-04:00</created-at>
+              <alt-names></alt-names>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <deleted-at nil="true"></deleted-at>
+              <other-codes></other-codes>
+              <codes>wic</codes>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2008-10-29T11:58:11-04:00</updated-at>
+              <creator-id type="integer">10740</creator-id>
+              <confidence>y</confidence>
+              <status nil="true"></status>
+              <node-type>Language</node-type>
+              <id type="integer">161970</id>
+              <end-date nil="true"></end-date>
+              <pri-name>Wichita</pri-name>
+              <geography nil="true"></geography>
+              <children type="array">
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2008-10-29T11:58:11-04:00</created-at>
+                  <alt-names></alt-names>
+                  <sureness type="integer">0</sureness>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <other-codes></other-codes>
+                  <codes>wic</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-at type="datetime">2008-10-29T11:58:11-04:00</updated-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>y</confidence>
+                  <status nil="true"></status>
+                  <node-type>Dialect</node-type>
+                  <id type="integer">161971</id>
+                  <end-date nil="true"></end-date>
+                  <pri-name>Wichita (proper)</pri-name>
+                  <geography nil="true"></geography>
+                  <children type="array"/>
+                  <tree-val>Caddoan: Mithun 1999</tree-val>
+                  <publications>Mithun, Marianne. 1999. The Languages of Native North America, 369. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                  <node-status-id nil="true"></node-status-id>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments></pub-comments>
+                  <tree-id type="integer">10873</tree-id>
+                  <updated-by>joe_leif</updated-by>
+                  <start-date nil="true"></start-date>
+                </child>
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2008-10-29T11:58:11-04:00</created-at>
+                  <alt-names></alt-names>
+                  <sureness type="integer">0</sureness>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <other-codes></other-codes>
+                  <codes>wic-wac</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-at type="datetime">2008-10-29T11:58:12-04:00</updated-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>y</confidence>
+                  <status>Extinct</status>
+                  <node-type>Dialect</node-type>
+                  <id type="integer">161972</id>
+                  <end-date nil="true"></end-date>
+                  <pri-name>Waco</pri-name>
+                  <geography nil="true"></geography>
+                  <children type="array"/>
+                  <tree-val>Caddoan: Mithun 1999</tree-val>
+                  <publications>Mithun, Marianne. 1999. The Languages of Native North America, 369. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments></pub-comments>
+                  <tree-id type="integer">10873</tree-id>
+                  <updated-by>joe_leif</updated-by>
+                  <start-date nil="true"></start-date>
+                </child>
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2008-10-29T11:58:12-04:00</created-at>
+                  <alt-names></alt-names>
+                  <sureness type="integer">0</sureness>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <other-codes></other-codes>
+                  <codes>wic-tow</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-at type="datetime">2008-10-29T11:58:12-04:00</updated-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>y</confidence>
+                  <status>Extinct</status>
+                  <node-type>Dialect</node-type>
+                  <id type="integer">161973</id>
+                  <end-date nil="true"></end-date>
+                  <pri-name>Towakoni</pri-name>
+                  <geography nil="true"></geography>
+                  <children type="array"/>
+                  <tree-val>Caddoan: Mithun 1999</tree-val>
+                  <publications>Mithun, Marianne. 1999. The Languages of Native North America, 369. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments></pub-comments>
+                  <tree-id type="integer">10873</tree-id>
+                  <updated-by>joe_leif</updated-by>
+                  <start-date nil="true"></start-date>
+                </child>
+              </children>
+              <tree-val>Caddoan: Mithun 1999</tree-val>
+              <publications>Mithun, Marianne. 1999. The Languages of Native North America, 369. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+              <node-status-id nil="true"></node-status-id>
+              <created-by>joe_leif</created-by>
+              <pub-comments></pub-comments>
+              <tree-id type="integer">10873</tree-id>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <created-at type="datetime">2008-10-29T11:58:12-04:00</created-at>
+              <alt-names>Kichai</alt-names>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <deleted-at nil="true"></deleted-at>
+              <other-codes></other-codes>
+              <codes>kii</codes>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2008-10-29T11:58:12-04:00</updated-at>
+              <creator-id type="integer">10740</creator-id>
+              <confidence>y</confidence>
+              <status>Extinct</status>
+              <node-type>Language</node-type>
+              <id type="integer">161974</id>
+              <end-date>1940 CE</end-date>
+              <pri-name>Kitsai</pri-name>
+              <geography nil="true"></geography>
+              <children type="array"/>
+              <tree-val>Caddoan: Mithun 1999</tree-val>
+              <publications>Mithun, Marianne. 1999. The Languages of Native North America, 369. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+              <node-status-id type="integer">10000</node-status-id>
+              <created-by>joe_leif</created-by>
+              <pub-comments></pub-comments>
+              <tree-id type="integer">10873</tree-id>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <created-at type="datetime">2008-10-29T11:58:12-04:00</created-at>
+              <alt-names></alt-names>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <deleted-at nil="true"></deleted-at>
+              <other-codes></other-codes>
+              <codes>paw</codes>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2008-10-29T11:58:12-04:00</updated-at>
+              <creator-id type="integer">10740</creator-id>
+              <confidence>y</confidence>
+              <status nil="true"></status>
+              <node-type>Language</node-type>
+              <id type="integer">161975</id>
+              <end-date nil="true"></end-date>
+              <pri-name>Pawnee</pri-name>
+              <geography nil="true"></geography>
+              <children type="array">
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2008-10-29T11:58:12-04:00</created-at>
+                  <alt-names></alt-names>
+                  <sureness type="integer">0</sureness>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <other-codes></other-codes>
+                  <codes>paw-sba</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-at type="datetime">2008-10-29T11:58:12-04:00</updated-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>y</confidence>
+                  <status nil="true"></status>
+                  <node-type>Dialect</node-type>
+                  <id type="integer">161976</id>
+                  <end-date nil="true"></end-date>
+                  <pri-name>South Band</pri-name>
+                  <geography nil="true"></geography>
+                  <children type="array"/>
+                  <tree-val>Caddoan: Mithun 1999</tree-val>
+                  <publications>Mithun, Marianne. 1999. The Languages of Native North America, 369. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                  <node-status-id nil="true"></node-status-id>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments></pub-comments>
+                  <tree-id type="integer">10873</tree-id>
+                  <updated-by>joe_leif</updated-by>
+                  <start-date nil="true"></start-date>
+                </child>
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2008-10-29T11:58:12-04:00</created-at>
+                  <alt-names>Skidi, Wolf Band</alt-names>
+                  <sureness type="integer">0</sureness>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <other-codes></other-codes>
+                  <codes>paw-ski</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-at type="datetime">2008-10-29T11:58:12-04:00</updated-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>y</confidence>
+                  <status nil="true"></status>
+                  <node-type>Dialect</node-type>
+                  <id type="integer">161977</id>
+                  <end-date nil="true"></end-date>
+                  <pri-name>Skiri</pri-name>
+                  <geography nil="true"></geography>
+                  <children type="array"/>
+                  <tree-val>Caddoan: Mithun 1999</tree-val>
+                  <publications>Mithun, Marianne. 1999. The Languages of Native North America, 369. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                  <node-status-id nil="true"></node-status-id>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments></pub-comments>
+                  <tree-id type="integer">10873</tree-id>
+                  <updated-by>joe_leif</updated-by>
+                  <start-date nil="true"></start-date>
+                </child>
+              </children>
+              <tree-val>Caddoan: Mithun 1999</tree-val>
+              <publications>Mithun, Marianne. 1999. The Languages of Native North America, 369. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+              <node-status-id nil="true"></node-status-id>
+              <created-by>joe_leif</created-by>
+              <pub-comments></pub-comments>
+              <tree-id type="integer">10873</tree-id>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <created-at type="datetime">2008-10-29T11:58:12-04:00</created-at>
+              <alt-names>Ree</alt-names>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <deleted-at nil="true"></deleted-at>
+              <other-codes></other-codes>
+              <codes>ari</codes>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2008-10-29T11:58:12-04:00</updated-at>
+              <creator-id type="integer">10740</creator-id>
+              <confidence>y</confidence>
+              <status nil="true"></status>
+              <node-type>Language</node-type>
+              <id type="integer">161978</id>
+              <end-date nil="true"></end-date>
+              <pri-name>Arikara</pri-name>
+              <geography nil="true"></geography>
+              <children type="array"/>
+              <tree-val>Caddoan: Mithun 1999</tree-val>
+              <publications>Mithun, Marianne. 1999. The Languages of Native North America, 369. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+              <node-status-id nil="true"></node-status-id>
+              <created-by>joe_leif</created-by>
+              <pub-comments></pub-comments>
+              <tree-id type="integer">10873</tree-id>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+            </child>
+          </children>
+          <tree-val>Caddoan: Mithun 1999</tree-val>
+          <publications>Mithun, Marianne. 1999. The Languages of Native North America, 369. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <pub-comments></pub-comments>
+          <tree-id type="integer">10873</tree-id>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+        </child>
+      </children>
+      <tree-val>Caddoan: Mithun 1999</tree-val>
+      <publications>Mithun, Marianne. 1999. The Languages of Native North America, 369. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+      <node-status-id nil="true"></node-status-id>
+      <created-by>joe_leif</created-by>
+      <pub-comments></pub-comments>
+      <tree-id type="integer">10873</tree-id>
+      <updated-by>joe_leif</updated-by>
+      <start-date nil="true"></start-date>
+    </root>
+    <description>Caddoan: Mithun 1999</description>
+  </tree>
+</hash>

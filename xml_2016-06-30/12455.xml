@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <node-type-id type="integer">10000</node-type-id>
+      <node-status-id nil="true"></node-status-id>
+      <is-default type="integer">0</is-default>
+      <end-date nil="true"></end-date>
+      <created-at type="datetime">2009-05-19T17:55:22-04:00</created-at>
+      <id type="integer">418104</id>
+      <tree-val>Harakmbet: Dryer 2005</tree-val>
+      <tree-id type="integer">12455</tree-id>
+      <confidence>y</confidence>
+      <updated-at type="datetime">2009-05-19T17:55:22-04:00</updated-at>
+      <alt-names></alt-names>
+      <updated-by>joe_leif</updated-by>
+      <sureness type="integer">0</sureness>
+      <deleted-at nil="true"></deleted-at>
+      <children type="array">
+        <child>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10001</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-05-19T17:55:22-04:00</created-at>
+          <id type="integer">418105</id>
+          <tree-val>Harakmbet: Dryer 2005</tree-val>
+          <tree-id type="integer">12455</tree-id>
+          <confidence>y</confidence>
+          <updated-at type="datetime">2009-05-19T17:55:22-04:00</updated-at>
+          <alt-names></alt-names>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <children type="array"/>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <node-type>Language</node-type>
+          <geography>Country: Peru; Lat.: -12.5; Long.: -70.5</geography>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 638. New York: Oxford University Press. ISBN 0199255911</publications>
+          <codes>amr</codes>
+          <pri-name>Amarakaeri</pri-name>
+          <other-codes>amk</other-codes>
+        </child>
+      </children>
+      <status nil="true"></status>
+      <start-date nil="true"></start-date>
+      <node-type>Subgroup</node-type>
+      <geography nil="true"></geography>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 638. New York: Oxford University Press. ISBN 0199255911</publications>
+      <codes>hara</codes>
+      <pri-name>Harakmbet</pri-name>
+      <other-codes></other-codes>
+    </root>
+    <description>Harakmbet: Dryer 2005</description>
+  </tree>
+</hash>

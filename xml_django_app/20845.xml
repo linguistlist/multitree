@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>
+    <root>
+      <status nil="true"></status>
+      <node-type>Subgroup</node-type>
+      <deleted-at nil="true"></deleted-at>
+      <created-by>joe_leif</created-by>
+      <tree-id type="integer">20845</tree-id>
+      <updated-by>joe_leif</updated-by>
+      <pri-name>Mon-Khmer</pri-name>
+      <other-codes></other-codes>
+      <node-status-id nil="true"></node-status-id>
+      <start-date nil="true"></start-date>
+      <id type="integer">844804</id>
+      <end-date nil="true"></end-date>
+      <node-type-id type="integer">10000</node-type-id>
+      <created-at type="datetime">2012-09-27T09:59:09-04:00</created-at>
+      <alt-names></alt-names>
+      <tree-val>Pearic, subtree of Mon-Khmer (Austo-Asiatic): Headley 1985</tree-val>
+      <publications>Headley, Robert K, Jr. 1985. Proto-Pearic and the Classification of Pearic, 428-478. </publications>
+      <pub-comments>Although this tree does not show other sub-divisions of Mon-Khmer, this is not to imply that the author does not recognize  other branches within Mon-Khmer. This source, however,  only considers dialects of Pearic.</pub-comments>
+      <children type="array">
+        <child>
+          <status nil="true"></status>
+          <node-type>Subgroup</node-type>
+          <deleted-at nil="true"></deleted-at>
+          <created-by>joe_leif</created-by>
+          <tree-id type="integer">20845</tree-id>
+          <updated-by>joe_leif</updated-by>
+          <pri-name>Pearic</pri-name>
+          <other-codes></other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <start-date nil="true"></start-date>
+          <id type="integer">844805</id>
+          <end-date nil="true"></end-date>
+          <node-type-id type="integer">10000</node-type-id>
+          <created-at type="datetime">2012-09-27T09:59:09-04:00</created-at>
+          <alt-names></alt-names>
+          <tree-val>Pearic, subtree of Mon-Khmer (Austo-Asiatic): Headley 1985</tree-val>
+          <publications>Headley, Robert K, Jr. 1985. Proto-Pearic and the Classification of Pearic, 428-478. </publications>
+          <pub-comments>Headley repeatedly refers to Pearic as a language rather than a subgroup. It is clear, however, that he is talking about the Proto language, Proto-Pearic, as he often refers to reconstructed forms of Proto-Pearic, though he calls this merely "Pearic."</pub-comments>
+          <children type="array">
+            <child>
+              <status nil="true"></status>
+              <node-type>Subgroup</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <created-by>joe_leif</created-by>
+              <tree-id type="integer">20845</tree-id>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Northeastern Pearic</pri-name>
+              <other-codes></other-codes>
+              <node-status-id nil="true"></node-status-id>
+              <start-date nil="true"></start-date>
+              <id type="integer">844806</id>
+              <end-date nil="true"></end-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <created-at type="datetime">2012-09-27T09:59:10-04:00</created-at>
+              <alt-names></alt-names>
+              <tree-val>Pearic, subtree of Mon-Khmer (Austo-Asiatic): Headley 1985</tree-val>
+              <publications>Headley, Robert K, Jr. 1985. Proto-Pearic and the Classification of Pearic, 428-478. </publications>
+              <pub-comments>In his notes on page 474, Headley says that "Moura's Por seems to belong to [Northeastern Pearic]" (1985).</pub-comments>
+              <children type="array">
+                <child>
+                  <status nil="true"></status>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-by>joe_leif</created-by>
+                  <tree-id type="integer">20845</tree-id>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Por</pri-name>
+                  <other-codes></other-codes>
+                  <node-status-id nil="true"></node-status-id>
+                  <start-date nil="true"></start-date>
+                  <id type="integer">844808</id>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <created-at type="datetime">2012-09-27T09:59:10-04:00</created-at>
+                  <alt-names></alt-names>
+                  <tree-val>Pearic, subtree of Mon-Khmer (Austo-Asiatic): Headley 1985</tree-val>
+                  <publications>Headley, Robert K, Jr. 1985. Proto-Pearic and the Classification of Pearic, 428-478. </publications>
+                  <pub-comments>In his notes on page 474, Headley says that "Moura's Por seems to belong to [Northeastern Pearic]" (1985).</pub-comments>
+                  <children type="array"/>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-at type="datetime">2012-09-27T09:59:10-04:00</updated-at>
+                  <geography nil="true"></geography>
+                  <sureness type="integer">-1</sureness>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>n</confidence>
+                  <codes>pcb</codes>
+                  <is-default type="integer">0</is-default>
+                </child>
+                <child>
+                  <status nil="true"></status>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-by>joe_leif</created-by>
+                  <tree-id type="integer">20845</tree-id>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Pearic of Kompong Thom</pri-name>
+                  <other-codes></other-codes>
+                  <node-status-id nil="true"></node-status-id>
+                  <start-date nil="true"></start-date>
+                  <id type="integer">844807</id>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <created-at type="datetime">2012-09-27T09:59:10-04:00</created-at>
+                  <alt-names>Pear of Phnom Tbeng</alt-names>
+                  <tree-val>Pearic, subtree of Mon-Khmer (Austo-Asiatic): Headley 1985</tree-val>
+                  <publications>Headley, Robert K, Jr. 1985. Proto-Pearic and the Classification of Pearic, 428-478. </publications>
+                  <pub-comments></pub-comments>
+                  <children type="array"/>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-at type="datetime">2012-09-27T09:59:10-04:00</updated-at>
+                  <geography>Kompong Thom Province</geography>
+                  <sureness type="integer">0</sureness>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>y</confidence>
+                  <codes>pcb</codes>
+                  <is-default type="integer">0</is-default>
+                </child>
+              </children>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2012-09-27T09:59:10-04:00</updated-at>
+              <geography nil="true"></geography>
+              <sureness type="integer">0</sureness>
+              <creator-id type="integer">10740</creator-id>
+              <confidence>n</confidence>
+              <codes>nepe</codes>
+              <is-default type="integer">0</is-default>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-type>Subgroup</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <created-by>joe_leif</created-by>
+              <tree-id type="integer">20845</tree-id>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Western Pearic</pri-name>
+              <other-codes></other-codes>
+              <node-status-id nil="true"></node-status-id>
+              <start-date nil="true"></start-date>
+              <id type="integer">844812</id>
+              <end-date nil="true"></end-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <created-at type="datetime">2012-09-27T09:59:10-04:00</created-at>
+              <alt-names></alt-names>
+              <tree-val>Pearic, subtree of Mon-Khmer (Austo-Asiatic): Headley 1985</tree-val>
+              <publications>Headley, Robert K, Jr. 1985. Proto-Pearic and the Classification of Pearic, 428-478. </publications>
+              <pub-comments></pub-comments>
+              <children type="array">
+                <child>
+                  <status nil="true"></status>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-by>joe_leif</created-by>
+                  <tree-id type="integer">20845</tree-id>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Chong L&#596;&#596;</pri-name>
+                  <other-codes></other-codes>
+                  <node-status-id nil="true"></node-status-id>
+                  <start-date nil="true"></start-date>
+                  <id type="integer">844815</id>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <created-at type="datetime">2012-09-27T09:59:10-04:00</created-at>
+                  <alt-names>Chong Loo</alt-names>
+                  <tree-val>Pearic, subtree of Mon-Khmer (Austo-Asiatic): Headley 1985</tree-val>
+                  <publications>Headley, Robert K, Jr. 1985. Proto-Pearic and the Classification of Pearic, 428-478. </publications>
+                  <pub-comments></pub-comments>
+                  <children type="array"/>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-at type="datetime">2012-09-27T09:59:10-04:00</updated-at>
+                  <geography>Chantaburi Province, Thailand</geography>
+                  <sureness type="integer">0</sureness>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>n</confidence>
+                  <codes>cog-tak, cog-bnk</codes>
+                  <is-default type="integer">0</is-default>
+                </child>
+                <child>
+                  <status nil="true"></status>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-by>joe_leif</created-by>
+                  <tree-id type="integer">20845</tree-id>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Chong H&#601;&#601;p</pri-name>
+                  <other-codes></other-codes>
+                  <node-status-id nil="true"></node-status-id>
+                  <start-date nil="true"></start-date>
+                  <id type="integer">844814</id>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <created-at type="datetime">2012-09-27T09:59:10-04:00</created-at>
+                  <alt-names>Chong Heep</alt-names>
+                  <tree-val>Pearic, subtree of Mon-Khmer (Austo-Asiatic): Headley 1985</tree-val>
+                  <publications>Headley, Robert K, Jr. 1985. Proto-Pearic and the Classification of Pearic, 428-478. </publications>
+                  <pub-comments></pub-comments>
+                  <children type="array"/>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-at type="datetime">2012-09-27T09:59:10-04:00</updated-at>
+                  <geography>Chantaburi Province, Thailand</geography>
+                  <sureness type="integer">0</sureness>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>n</confidence>
+                  <codes>cog-pnr</codes>
+                  <is-default type="integer">0</is-default>
+                </child>
+                <child>
+                  <status nil="true"></status>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-by>joe_leif</created-by>
+                  <tree-id type="integer">20845</tree-id>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Chong of Chantaburi</pri-name>
+                  <other-codes></other-codes>
+                  <node-status-id nil="true"></node-status-id>
+                  <start-date nil="true"></start-date>
+                  <id type="integer">844813</id>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <created-at type="datetime">2012-09-27T09:59:10-04:00</created-at>
+                  <alt-names>Chong of Makham District</alt-names>
+                  <tree-val>Pearic, subtree of Mon-Khmer (Austo-Asiatic): Headley 1985</tree-val>
+                  <publications>Headley, Robert K, Jr. 1985. Proto-Pearic and the Classification of Pearic, 428-478. </publications>
+                  <pub-comments></pub-comments>
+                  <children type="array"/>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-at type="datetime">2012-09-27T09:59:10-04:00</updated-at>
+                  <geography>Chantaburi Province, Thailand</geography>
+                  <sureness type="integer">0</sureness>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>n</confidence>
+                  <codes>cog</codes>
+                  <is-default type="integer">0</is-default>
+                </child>
+              </children>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2012-09-27T09:59:10-04:00</updated-at>
+              <geography nil="true"></geography>
+              <sureness type="integer">0</sureness>
+              <creator-id type="integer">10740</creator-id>
+              <confidence>n</confidence>
+              <codes>wpea</codes>
+              <is-default type="integer">0</is-default>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-type>Subgroup</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <created-by>joe_leif</created-by>
+              <tree-id type="integer">20845</tree-id>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Southeastern Pearic</pri-name>
+              <other-codes></other-codes>
+              <node-status-id nil="true"></node-status-id>
+              <start-date nil="true"></start-date>
+              <id type="integer">844809</id>
+              <end-date nil="true"></end-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <created-at type="datetime">2012-09-27T09:59:10-04:00</created-at>
+              <alt-names></alt-names>
+              <tree-val>Pearic, subtree of Mon-Khmer (Austo-Asiatic): Headley 1985</tree-val>
+              <publications>Headley, Robert K, Jr. 1985. Proto-Pearic and the Classification of Pearic, 428-478. </publications>
+              <pub-comments></pub-comments>
+              <children type="array">
+                <child>
+                  <status nil="true"></status>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-by>joe_leif</created-by>
+                  <tree-id type="integer">20845</tree-id>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Saoch of Veal Renh</pri-name>
+                  <other-codes></other-codes>
+                  <node-status-id nil="true"></node-status-id>
+                  <start-date nil="true"></start-date>
+                  <id type="integer">844811</id>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <created-at type="datetime">2012-09-27T09:59:10-04:00</created-at>
+                  <alt-names></alt-names>
+                  <tree-val>Pearic, subtree of Mon-Khmer (Austo-Asiatic): Headley 1985</tree-val>
+                  <publications>Headley, Robert K, Jr. 1985. Proto-Pearic and the Classification of Pearic, 428-478. </publications>
+                  <pub-comments></pub-comments>
+                  <children type="array"/>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-at type="datetime">2012-09-27T09:59:10-04:00</updated-at>
+                  <geography>Kampot Province</geography>
+                  <sureness type="integer">0</sureness>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>y</confidence>
+                  <codes>scq</codes>
+                  <is-default type="integer">0</is-default>
+                </child>
+                <child>
+                  <status nil="true"></status>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-by>joe_leif</created-by>
+                  <tree-id type="integer">20845</tree-id>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Suoi of Kompong Speu</pri-name>
+                  <other-codes></other-codes>
+                  <node-status-id nil="true"></node-status-id>
+                  <start-date nil="true"></start-date>
+                  <id type="integer">844810</id>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <created-at type="datetime">2012-09-27T09:59:10-04:00</created-at>
+                  <alt-names>Suoi</alt-names>
+                  <tree-val>Pearic, subtree of Mon-Khmer (Austo-Asiatic): Headley 1985</tree-val>
+                  <publications>Headley, Robert K, Jr. 1985. Proto-Pearic and the Classification of Pearic, 428-478. </publications>
+                  <pub-comments></pub-comments>
+                  <children type="array"/>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-at type="datetime">2012-09-27T09:59:10-04:00</updated-at>
+                  <geography>Kompong Speu Province</geography>
+                  <sureness type="integer">0</sureness>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>y</confidence>
+                  <codes>syo</codes>
+                  <is-default type="integer">0</is-default>
+                </child>
+              </children>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2012-09-27T09:59:10-04:00</updated-at>
+              <geography nil="true"></geography>
+              <sureness type="integer">0</sureness>
+              <creator-id type="integer">10740</creator-id>
+              <confidence>n</confidence>
+              <codes>sepe</codes>
+              <is-default type="integer">0</is-default>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-type>Subgroup</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <created-by>joe_leif</created-by>
+              <tree-id type="integer">20845</tree-id>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>North Central Pearic</pri-name>
+              <other-codes></other-codes>
+              <node-status-id nil="true"></node-status-id>
+              <start-date nil="true"></start-date>
+              <id type="integer">844820</id>
+              <end-date nil="true"></end-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <created-at type="datetime">2012-09-27T09:59:11-04:00</created-at>
+              <alt-names></alt-names>
+              <tree-val>Pearic, subtree of Mon-Khmer (Austo-Asiatic): Headley 1985</tree-val>
+              <publications>Headley, Robert K, Jr. 1985. Proto-Pearic and the Classification of Pearic, 428-478. </publications>
+              <pub-comments></pub-comments>
+              <children type="array">
+                <child>
+                  <status nil="true"></status>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-by>joe_leif</created-by>
+                  <tree-id type="integer">20845</tree-id>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Somray of Battambang</pri-name>
+                  <other-codes></other-codes>
+                  <node-status-id nil="true"></node-status-id>
+                  <start-date nil="true"></start-date>
+                  <id type="integer">844821</id>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <created-at type="datetime">2012-09-27T09:59:11-04:00</created-at>
+                  <alt-names>S&#596;mray of Kranhung, Somray of Kranhung, West Pear of Kranhung</alt-names>
+                  <tree-val>Pearic, subtree of Mon-Khmer (Austo-Asiatic): Headley 1985</tree-val>
+                  <publications>Headley, Robert K, Jr. 1985. Proto-Pearic and the Classification of Pearic, 428-478. </publications>
+                  <pub-comments></pub-comments>
+                  <children type="array"/>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-at type="datetime">2012-09-27T09:59:11-04:00</updated-at>
+                  <geography>Battambang Province</geography>
+                  <sureness type="integer">0</sureness>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>y</confidence>
+                  <codes>smu</codes>
+                  <is-default type="integer">0</is-default>
+                </child>
+              </children>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2012-09-27T09:59:11-04:00</updated-at>
+              <geography nil="true"></geography>
+              <sureness type="integer">0</sureness>
+              <creator-id type="integer">10740</creator-id>
+              <confidence>n</confidence>
+              <codes>ncpe</codes>
+              <is-default type="integer">0</is-default>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-type>Subgroup</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <created-by>joe_leif</created-by>
+              <tree-id type="integer">20845</tree-id>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>South Central Pearic</pri-name>
+              <other-codes></other-codes>
+              <node-status-id nil="true"></node-status-id>
+              <start-date nil="true"></start-date>
+              <id type="integer">844816</id>
+              <end-date nil="true"></end-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <created-at type="datetime">2012-09-27T09:59:10-04:00</created-at>
+              <alt-names></alt-names>
+              <tree-val>Pearic, subtree of Mon-Khmer (Austo-Asiatic): Headley 1985</tree-val>
+              <publications>Headley, Robert K, Jr. 1985. Proto-Pearic and the Classification of Pearic, 428-478. </publications>
+              <pub-comments></pub-comments>
+              <children type="array">
+                <child>
+                  <status nil="true"></status>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-by>joe_leif</created-by>
+                  <tree-id type="integer">20845</tree-id>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Thai Chong</pri-name>
+                  <other-codes></other-codes>
+                  <node-status-id nil="true"></node-status-id>
+                  <start-date nil="true"></start-date>
+                  <id type="integer">844818</id>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <created-at type="datetime">2012-09-27T09:59:11-04:00</created-at>
+                  <alt-names></alt-names>
+                  <tree-val>Pearic, subtree of Mon-Khmer (Austo-Asiatic): Headley 1985</tree-val>
+                  <publications>Headley, Robert K, Jr. 1985. Proto-Pearic and the Classification of Pearic, 428-478. </publications>
+                  <pub-comments></pub-comments>
+                  <children type="array"/>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-at type="datetime">2012-09-27T09:59:11-04:00</updated-at>
+                  <geography>Probably northeastern Trat Province, Thailand</geography>
+                  <sureness type="integer">-1</sureness>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>n</confidence>
+                  <codes>1pf</codes>
+                  <is-default type="integer">0</is-default>
+                </child>
+                <child>
+                  <status nil="true"></status>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-by>joe_leif</created-by>
+                  <tree-id type="integer">20845</tree-id>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Chong of Trat</pri-name>
+                  <other-codes></other-codes>
+                  <node-status-id nil="true"></node-status-id>
+                  <start-date nil="true"></start-date>
+                  <id type="integer">844819</id>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <created-at type="datetime">2012-09-27T09:59:11-04:00</created-at>
+                  <alt-names>Chong</alt-names>
+                  <tree-val>Pearic, subtree of Mon-Khmer (Austo-Asiatic): Headley 1985</tree-val>
+                  <publications>Headley, Robert K, Jr. 1985. Proto-Pearic and the Classification of Pearic, 428-478. </publications>
+                  <pub-comments></pub-comments>
+                  <children type="array"/>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-at type="datetime">2012-09-27T09:59:11-04:00</updated-at>
+                  <geography>Ban Dan Champon, Trat Province, Thailand</geography>
+                  <sureness type="integer">0</sureness>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>n</confidence>
+                  <codes>1l3</codes>
+                  <is-default type="integer">0</is-default>
+                </child>
+                <child>
+                  <status nil="true"></status>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-by>joe_leif</created-by>
+                  <tree-id type="integer">20845</tree-id>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Samre of Pursat</pri-name>
+                  <other-codes></other-codes>
+                  <node-status-id nil="true"></node-status-id>
+                  <start-date nil="true"></start-date>
+                  <id type="integer">844817</id>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <created-at type="datetime">2012-09-27T09:59:10-04:00</created-at>
+                  <alt-names>East Pear of Peam Prus, S&#596;mree of Peam Prus, Somree of Peam Prus, East Pear of Phnom Krevanh</alt-names>
+                  <tree-val>Pearic, subtree of Mon-Khmer (Austo-Asiatic): Headley 1985</tree-val>
+                  <publications>Headley, Robert K, Jr. 1985. Proto-Pearic and the Classification of Pearic, 428-478. </publications>
+                  <pub-comments>In his notes on page 474, Headley comments that "[t]he Samre of Moura anbd Samreh of Batien may be members of this group, but the evidence is not conclusive" (1985).</pub-comments>
+                  <children type="array"/>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-at type="datetime">2012-09-27T09:59:11-04:00</updated-at>
+                  <geography>Pursat Province</geography>
+                  <sureness type="integer">-1</sureness>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>n</confidence>
+                  <codes>sxm</codes>
+                  <is-default type="integer">0</is-default>
+                </child>
+              </children>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2012-09-27T09:59:10-04:00</updated-at>
+              <geography nil="true"></geography>
+              <sureness type="integer">0</sureness>
+              <creator-id type="integer">10740</creator-id>
+              <confidence>n</confidence>
+              <codes>scpe</codes>
+              <is-default type="integer">0</is-default>
+            </child>
+          </children>
+          <updater-id type="integer">10740</updater-id>
+          <updated-at type="datetime">2012-09-27T09:59:10-04:00</updated-at>
+          <geography nil="true"></geography>
+          <sureness type="integer">0</sureness>
+          <creator-id type="integer">10740</creator-id>
+          <confidence>y</confidence>
+          <codes>pear</codes>
+          <is-default type="integer">0</is-default>
+        </child>
+      </children>
+      <updater-id type="integer">10740</updater-id>
+      <updated-at type="datetime">2012-09-27T09:59:09-04:00</updated-at>
+      <geography nil="true"></geography>
+      <sureness type="integer">0</sureness>
+      <creator-id type="integer">10740</creator-id>
+      <confidence>n</confidence>
+      <codes>mkhm</codes>
+      <is-default type="integer">0</is-default>
+    </root>
+    <description>Pearic, subtree of Mon-Khmer (Austo-Asiatic): Headley 1985</description>
+  </tree>
+</hash>

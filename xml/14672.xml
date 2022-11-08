@@ -1,0 +1,1888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>
+    <region>Europe</region>
+    <description>Uralic: Collinder 1957</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2009-07-27T19:07:15-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Uralic: Collinder 1957</tree-val>
+      <pub-comments></pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2009-07-27T19:07:15-04:00</updated-at>
+      <pri-name>Uralic</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">574516</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">14672</tree-id>
+      <codes>urlc</codes>
+      <status nil="true"></status>
+      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Uralic: Collinder 1957</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2009-07-27T19:07:17-04:00</updated-at>
+          <pri-name>Samoyed</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">574562</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14672</tree-id>
+          <codes>smoy</codes>
+          <status nil="true"></status>
+          <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic: Collinder 1957</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T19:07:17-04:00</updated-at>
+              <pri-name>southern group</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">574570</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14672</tree-id>
+              <codes>ssam</codes>
+              <status nil="true"></status>
+              <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+                  <confidence>n</confidence>
+                  <tree-val>Uralic: Collinder 1957</tree-val>
+                  <pub-comments>not sure whether the language code 'kim' should be listed here or not</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T19:07:17-04:00</updated-at>
+                  <pri-name>Sayan Samoyed</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">574574</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14672</tree-id>
+                  <codes>mtm, xas, kim</codes>
+                  <status nil="true"></status>
+                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:18-04:00</updated-at>
+                      <pri-name>Kamassian</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574575</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>xas-kam</codes>
+                      <status>Extinct</status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date>1914 AD</end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:18-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:18-04:00</updated-at>
+                      <pri-name>Taigi</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574579</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>mtm-tai</codes>
+                      <status>Extinct</status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date>1850 AD</end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:18-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:18-04:00</updated-at>
+                      <pri-name>Karagas</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574578</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>mtm-kar</codes>
+                      <status>Extinct</status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date>1850 AD</end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:18-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:18-04:00</updated-at>
+                      <pri-name>Koibal</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574576</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>xas-koi</codes>
+                      <status>Extinct</status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date>1850 AD</end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:18-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:18-04:00</updated-at>
+                      <pri-name>Motor</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574577</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names>Mator</alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>mtm-mat</codes>
+                      <status>Extinct</status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date>1850 AD</end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Collinder 1957</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T19:07:17-04:00</updated-at>
+                  <pri-name>Selkup</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">574571</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>Ostyak Samoyed</alt-names>
+                  <tree-id type="integer">14672</tree-id>
+                  <codes>sel</codes>
+                  <status nil="true"></status>
+                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:17-04:00</updated-at>
+                      <pri-name>dialect of Ket</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574572</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>sel-ket</codes>
+                      <status nil="true"></status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:17-04:00</updated-at>
+                      <pri-name>dialect of Nats-Pumpokolsk</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574573</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>sel-nat</codes>
+                      <status nil="true"></status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic: Collinder 1957</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T19:07:17-04:00</updated-at>
+              <pri-name>Northern Samoyed</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">574563</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names>northern group</alt-names>
+              <tree-id type="integer">14672</tree-id>
+              <codes>nsam</codes>
+              <status nil="true"></status>
+              <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Collinder 1957</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T19:07:17-04:00</updated-at>
+                  <pri-name>Yenisei Samoyed</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">574567</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>Enets</alt-names>
+                  <tree-id type="integer">14672</tree-id>
+                  <codes>enf, enh</codes>
+                  <status nil="true"></status>
+                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:17-04:00</updated-at>
+                      <pri-name>dialect of Baiha</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574569</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>enf.enh-bai</codes>
+                      <status nil="true"></status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:17-04:00</updated-at>
+                      <pri-name>dialect of Hatanga</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574568</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>enf.enh-hat</codes>
+                      <status nil="true"></status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Collinder 1957</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T19:07:17-04:00</updated-at>
+                  <pri-name>Yurak Samoyed</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">574564</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>Yurak, Nenets</alt-names>
+                  <tree-id type="integer">14672</tree-id>
+                  <codes>yrk</codes>
+                  <status nil="true"></status>
+                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:17-04:00</updated-at>
+                      <pri-name>Forest dialect</pri-name>
+                      <node-type>Dialect Group</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574565</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>yrk-for</codes>
+                      <status nil="true"></status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Collinder 1957</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T19:07:17-04:00</updated-at>
+                  <pri-name>Tavgi</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">574566</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>Nganasan</alt-names>
+                  <tree-id type="integer">14672</tree-id>
+                  <codes>nio</codes>
+                  <status nil="true"></status>
+                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-27T19:07:15-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Uralic: Collinder 1957</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2009-07-27T19:07:15-04:00</updated-at>
+          <pri-name>Fenno-Ugric</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">574517</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14672</tree-id>
+          <codes>fugr</codes>
+          <status nil="true"></status>
+          <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T19:07:16-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic: Collinder 1957</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T19:07:16-04:00</updated-at>
+              <pri-name>Ugric</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">574551</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14672</tree-id>
+              <codes>ugri</codes>
+              <status nil="true"></status>
+              <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Collinder 1957</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T19:07:17-04:00</updated-at>
+                  <pri-name>Hungarian</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">574561</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>Magyar</alt-names>
+                  <tree-id type="integer">14672</tree-id>
+                  <codes>hun</codes>
+                  <status nil="true"></status>
+                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T19:07:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Collinder 1957</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T19:07:16-04:00</updated-at>
+                  <pri-name>Ob-Ugric</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">574552</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14672</tree-id>
+                  <codes>obug</codes>
+                  <status nil="true"></status>
+                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:17-04:00</updated-at>
+                      <pri-name>Ostyak</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574554</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names>Hanti</alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>kca</codes>
+                      <status nil="true"></status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array">
+                        <child>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+                          <confidence>n</confidence>
+                          <tree-val>Uralic: Collinder 1957</tree-val>
+                          <pub-comments></pub-comments>
+                          <node-status-id nil="true"></node-status-id>
+                          <updated-at type="datetime">2009-07-27T19:07:17-04:00</updated-at>
+                          <pri-name>Eastern Ostyak</pri-name>
+                          <node-type>Dialect Group</node-type>
+                          <is-default type="boolean">false</is-default>
+                          <deleted-at nil="true"></deleted-at>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">574557</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <created-by>joe_leif</created-by>
+                          <updater-id type="integer">10740</updater-id>
+                          <geography nil="true"></geography>
+                          <updated-by>joe_leif</updated-by>
+                          <node-type-id type="integer">10004</node-type-id>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">14672</tree-id>
+                          <codes>kca-est</codes>
+                          <status nil="true"></status>
+                          <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                          <end-date nil="true"></end-date>
+                          <children type="array">
+                            <child>
+                              <start-date nil="true"></start-date>
+                              <other-codes></other-codes>
+                              <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+                              <confidence>y</confidence>
+                              <tree-val>Uralic: Collinder 1957</tree-val>
+                              <pub-comments></pub-comments>
+                              <node-status-id nil="true"></node-status-id>
+                              <updated-at type="datetime">2009-07-27T19:07:17-04:00</updated-at>
+                              <pri-name>easternmost dialects</pri-name>
+                              <node-type>Dialect Group</node-type>
+                              <is-default type="boolean">false</is-default>
+                              <deleted-at nil="true"></deleted-at>
+                              <sureness type="integer">0</sureness>
+                              <id type="integer">574558</id>
+                              <creator-id type="integer">10740</creator-id>
+                              <created-by>joe_leif</created-by>
+                              <updater-id type="integer">10740</updater-id>
+                              <geography nil="true"></geography>
+                              <updated-by>joe_leif</updated-by>
+                              <node-type-id type="integer">10004</node-type-id>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">14672</tree-id>
+                              <codes>kca-vac</codes>
+                              <status nil="true"></status>
+                              <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                              <end-date nil="true"></end-date>
+                              <children type="array">
+                                <child>
+                                  <start-date nil="true"></start-date>
+                                  <other-codes></other-codes>
+                                  <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+                                  <confidence>y</confidence>
+                                  <tree-val>Uralic: Collinder 1957</tree-val>
+                                  <pub-comments></pub-comments>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <updated-at type="datetime">2009-07-27T19:07:17-04:00</updated-at>
+                                  <pri-name>Vah</pri-name>
+                                  <node-type>Dialect</node-type>
+                                  <is-default type="boolean">false</is-default>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <sureness type="integer">0</sureness>
+                                  <id type="integer">574560</id>
+                                  <creator-id type="integer">10740</creator-id>
+                                  <created-by>joe_leif</created-by>
+                                  <updater-id type="integer">10740</updater-id>
+                                  <geography nil="true"></geography>
+                                  <updated-by>joe_leif</updated-by>
+                                  <node-type-id type="integer">10003</node-type-id>
+                                  <alt-names></alt-names>
+                                  <tree-id type="integer">14672</tree-id>
+                                  <codes>kca-vah</codes>
+                                  <status nil="true"></status>
+                                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                                  <end-date nil="true"></end-date>
+                                  <children type="array"/>
+                                </child>
+                                <child>
+                                  <start-date nil="true"></start-date>
+                                  <other-codes></other-codes>
+                                  <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+                                  <confidence>y</confidence>
+                                  <tree-val>Uralic: Collinder 1957</tree-val>
+                                  <pub-comments></pub-comments>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <updated-at type="datetime">2009-07-27T19:07:17-04:00</updated-at>
+                                  <pri-name>Vasyugan</pri-name>
+                                  <node-type>Dialect</node-type>
+                                  <is-default type="boolean">false</is-default>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <sureness type="integer">0</sureness>
+                                  <id type="integer">574559</id>
+                                  <creator-id type="integer">10740</creator-id>
+                                  <created-by>joe_leif</created-by>
+                                  <updater-id type="integer">10740</updater-id>
+                                  <geography nil="true"></geography>
+                                  <updated-by>joe_leif</updated-by>
+                                  <node-type-id type="integer">10003</node-type-id>
+                                  <alt-names></alt-names>
+                                  <tree-id type="integer">14672</tree-id>
+                                  <codes>kca-vas</codes>
+                                  <status nil="true"></status>
+                                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                                  <end-date nil="true"></end-date>
+                                  <children type="array"/>
+                                </child>
+                              </children>
+                            </child>
+                          </children>
+                        </child>
+                        <child>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+                          <confidence>n</confidence>
+                          <tree-val>Uralic: Collinder 1957</tree-val>
+                          <pub-comments></pub-comments>
+                          <node-status-id nil="true"></node-status-id>
+                          <updated-at type="datetime">2013-11-20T11:05:07-05:00</updated-at>
+                          <pri-name>Northern Ostyak</pri-name>
+                          <node-type>Dialect</node-type>
+                          <is-default type="boolean">false</is-default>
+                          <deleted-at nil="true"></deleted-at>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">574555</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <created-by>joe_leif</created-by>
+                          <updater-id type="integer">10400</updater-id>
+                          <geography nil="true"></geography>
+                          <updated-by>gosia</updated-by>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">14672</tree-id>
+                          <codes>kca-nor</codes>
+                          <status nil="true"></status>
+                          <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                          <end-date nil="true"></end-date>
+                          <children type="array"/>
+                        </child>
+                        <child>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2009-07-27T19:07:17-04:00</created-at>
+                          <confidence>n</confidence>
+                          <tree-val>Uralic: Collinder 1957</tree-val>
+                          <pub-comments></pub-comments>
+                          <node-status-id nil="true"></node-status-id>
+                          <updated-at type="datetime">2013-11-20T11:10:28-05:00</updated-at>
+                          <pri-name>Southern Ostyak</pri-name>
+                          <node-type>Dialect</node-type>
+                          <is-default type="boolean">false</is-default>
+                          <deleted-at nil="true"></deleted-at>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">574556</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <created-by>joe_leif</created-by>
+                          <updater-id type="integer">10400</updater-id>
+                          <geography nil="true"></geography>
+                          <updated-by>gosia</updated-by>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">14672</tree-id>
+                          <codes>kca-sou</codes>
+                          <status nil="true"></status>
+                          <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                          <end-date nil="true"></end-date>
+                          <children type="array"/>
+                        </child>
+                      </children>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:16-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:16-04:00</updated-at>
+                      <pri-name>Vogul</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574553</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names>Mansi</alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>mns</codes>
+                      <status nil="true"></status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T19:07:16-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic: Collinder 1957</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T19:07:16-04:00</updated-at>
+              <pri-name>Mordvin</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">574540</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14672</tree-id>
+              <codes>myv, mdf</codes>
+              <status nil="true"></status>
+              <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T19:07:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Collinder 1957</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T19:07:16-04:00</updated-at>
+                  <pri-name>Moksha</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">574542</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names>southern dialect</alt-names>
+                  <tree-id type="integer">14672</tree-id>
+                  <codes>mdf</codes>
+                  <status nil="true"></status>
+                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T19:07:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Collinder 1957</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T19:07:16-04:00</updated-at>
+                  <pri-name>Erza</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">574541</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names>northern dialect</alt-names>
+                  <tree-id type="integer">14672</tree-id>
+                  <codes>myv</codes>
+                  <status nil="true"></status>
+                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T19:07:15-04:00</created-at>
+              <confidence>n</confidence>
+              <tree-val>Uralic: Collinder 1957</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T19:07:15-04:00</updated-at>
+              <pri-name>Lappish</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">574529</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14672</tree-id>
+              <codes>sia, smn, sjk, sjd, sms, sjt, sju, smj, sme, sje, sma</codes>
+              <status nil="true"></status>
+              <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T19:07:15-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Collinder 1957</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T19:07:16-04:00</updated-at>
+                  <pri-name>Eastern</pri-name>
+                  <node-type>Dialect Group</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">574536</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10004</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14672</tree-id>
+                  <codes>sia, smn, sjk, sjd, sms, sjt</codes>
+                  <status nil="true"></status>
+                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:16-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:16-04:00</updated-at>
+                      <pri-name>Kola Lappish</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574539</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names>lpKola</alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>sia.smn.sjk.sjd.sms.sjt-kol</codes>
+                      <status nil="true"></status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:16-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:16-04:00</updated-at>
+                      <pri-name>Skolt Lappish</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574538</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names>lpSkolt</alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>sms</codes>
+                      <status nil="true"></status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:16-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:16-04:00</updated-at>
+                      <pri-name>Inari Lappish</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574537</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names>lpInari</alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>smn</codes>
+                      <status nil="true"></status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T19:07:15-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Collinder 1957</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T19:07:15-04:00</updated-at>
+                  <pri-name>Northern</pri-name>
+                  <node-type>Dialect Group</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">574530</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10004</node-type-id>
+                  <alt-names>Central, Western</alt-names>
+                  <tree-id type="integer">14672</tree-id>
+                  <codes>smj, sme, sje, sma</codes>
+                  <status nil="true"></status>
+                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:15-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:15-04:00</updated-at>
+                      <pri-name>Pite Lappish</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574534</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names>lpPite</alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>sje</codes>
+                      <status nil="true"></status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:15-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:15-04:00</updated-at>
+                      <pri-name>Finnmark dialect</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574531</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>smj.sme.sje.sma-fim</codes>
+                      <status nil="true"></status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:15-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:15-04:00</updated-at>
+                      <pri-name>Tornio Lappish</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574532</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names>lpTornio</alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>sme</codes>
+                      <status nil="true"></status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:15-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:15-04:00</updated-at>
+                      <pri-name>Lule Lappish</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574533</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names>lpLule</alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>smj</codes>
+                      <status nil="true"></status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T19:07:15-04:00</created-at>
+                  <confidence>n</confidence>
+                  <tree-val>Uralic: Collinder 1957</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T19:07:15-04:00</updated-at>
+                  <pri-name>Southern</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">574535</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14672</tree-id>
+                  <codes>sju</codes>
+                  <status nil="true"></status>
+                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T19:07:15-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic: Collinder 1957</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T19:07:15-04:00</updated-at>
+              <pri-name>Baltic-Fennic</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">574518</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14672</tree-id>
+              <codes>bfin</codes>
+              <status nil="true"></status>
+              <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T19:07:15-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Collinder 1957</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T19:07:15-04:00</updated-at>
+                  <pri-name>Finnish</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">574519</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14672</tree-id>
+                  <codes>fin</codes>
+                  <status nil="true"></status>
+                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:15-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:15-04:00</updated-at>
+                      <pri-name>Veps</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574522</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>vep</codes>
+                      <status nil="true"></status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:15-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:15-04:00</updated-at>
+                      <pri-name>Lude</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574523</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>lud</codes>
+                      <status nil="true"></status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:15-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:15-04:00</updated-at>
+                      <pri-name>Karelian</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574520</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>krl</codes>
+                      <status nil="true"></status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:15-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:15-04:00</updated-at>
+                      <pri-name>Olonets</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574521</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>olo</codes>
+                      <status nil="true"></status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T19:07:15-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Collinder 1957</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-06-13T15:01:16-04:00</updated-at>
+                  <pri-name>Estonian</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">574525</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14672</tree-id>
+                  <codes>ekk, vro</codes>
+                  <status nil="true"></status>
+                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:15-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:15-04:00</updated-at>
+                      <pri-name>northern dialects</pri-name>
+                      <node-type>Dialect Group</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574526</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>est-nor</codes>
+                      <status nil="true"></status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:15-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:15-04:00</updated-at>
+                      <pri-name>southern dialects</pri-name>
+                      <node-type>Dialect Group</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574527</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>est-sou</codes>
+                      <status nil="true"></status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T19:07:15-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Collinder 1957</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id type="integer">10001</node-status-id>
+                  <updated-at type="datetime">2009-07-27T19:07:15-04:00</updated-at>
+                  <pri-name>Livonian</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">574528</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14672</tree-id>
+                  <codes>liv</codes>
+                  <status>Nearly Extinct</status>
+                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T19:07:15-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Collinder 1957</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T19:07:15-04:00</updated-at>
+                  <pri-name>Vote</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">574524</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14672</tree-id>
+                  <codes>vot</codes>
+                  <status nil="true"></status>
+                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T19:07:16-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic: Collinder 1957</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T19:07:16-04:00</updated-at>
+              <pri-name>Cheremis</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">574543</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Mari</alt-names>
+              <tree-id type="integer">14672</tree-id>
+              <codes>mhr, mrj</codes>
+              <status nil="true"></status>
+              <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T19:07:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Collinder 1957</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T19:07:16-04:00</updated-at>
+                  <pri-name>dialect of Yaransk</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">574545</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14672</tree-id>
+                  <codes>mrj-yar</codes>
+                  <status nil="true"></status>
+                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T19:07:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Collinder 1957</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T19:07:16-04:00</updated-at>
+                  <pri-name>Eastern Cheremis</pri-name>
+                  <node-type>Dialect Group</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">574546</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10004</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14672</tree-id>
+                  <codes>mhr</codes>
+                  <status nil="true"></status>
+                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2009-07-27T19:07:16-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic: Collinder 1957</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2009-07-27T19:07:16-04:00</updated-at>
+                      <pri-name>dialect of Malmy&#382;</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">574547</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">14672</tree-id>
+                      <codes>mhr-mal</codes>
+                      <status nil="true"></status>
+                      <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T19:07:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Collinder 1957</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T19:07:16-04:00</updated-at>
+                  <pri-name>Hill Cheremis</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">574544</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names>Western Cheremis</alt-names>
+                  <tree-id type="integer">14672</tree-id>
+                  <codes>mrj</codes>
+                  <status nil="true"></status>
+                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T19:07:16-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic: Collinder 1957</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T19:07:16-04:00</updated-at>
+              <pri-name>Permian</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">574548</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14672</tree-id>
+              <codes>perm</codes>
+              <status nil="true"></status>
+              <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T19:07:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Collinder 1957</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T19:07:16-04:00</updated-at>
+                  <pri-name>Ziryene</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">574550</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>Komi</alt-names>
+                  <tree-id type="integer">14672</tree-id>
+                  <codes>kpv</codes>
+                  <status nil="true"></status>
+                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T19:07:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Collinder 1957</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T19:07:16-04:00</updated-at>
+                  <pri-name>Votyak</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">574549</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>Udmurt</alt-names>
+                  <tree-id type="integer">14672</tree-id>
+                  <codes>udm</codes>
+                  <status nil="true"></status>
+                  <publications>Collinder, Bj&#246;rn. 1957. Preface, Survey of the Uralic Languages, V-IX. Stockholm: Almquist &amp; Wiksell. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

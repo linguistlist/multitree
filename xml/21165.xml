@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Europe</region>
+    <region>Asia</region>
+    <description>Sorbische Dialekten, subtree of Indo-European: Fa&#223;ke, Jentsch, Michalk &amp; M&#283;t&#353;k 1965</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2012-11-29T14:32:44-05:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Sorbische Dialekten, subtree of Indo-European: Fa&#223;ke, Jentsch, Michalk &amp; M&#283;t&#353;k 1965</tree-val>
+      <pub-comments></pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2012-11-29T14:32:45-05:00</updated-at>
+      <pri-name>Sorbisch</pri-name>
+      <node-type>Language</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">847604</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography>Eastern Germany, near the German-Polish border</geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10001</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">21165</tree-id>
+      <codes>hsb, dsb</codes>
+      <status nil="true"></status>
+      <publications>Fa&#223;ke, Helmut , Helmut  Jentsch, Siegfried  Michalk &amp; F.  M&#283;t&#353;k. 1965. Sorbischer Sprachatlas. Bautzen: VEB Domowina-Verlag. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2012-11-29T14:32:45-05:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Sorbische Dialekten, subtree of Indo-European: Fa&#223;ke, Jentsch, Michalk &amp; M&#283;t&#353;k 1965</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2012-11-29T14:32:45-05:00</updated-at>
+          <pri-name>&#220;bergangsdialekte</pri-name>
+          <node-type>Dialect Group</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">847613</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Eastern Germany, near the German-Polish border</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10004</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">21165</tree-id>
+          <codes>hsb</codes>
+          <status nil="true"></status>
+          <publications>Fa&#223;ke, Helmut , Helmut  Jentsch, Siegfried  Michalk &amp; F.  M&#283;t&#353;k. 1965. Sorbischer Sprachatlas. Bautzen: VEB Domowina-Verlag. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-11-29T14:32:46-05:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Sorbische Dialekten, subtree of Indo-European: Fa&#223;ke, Jentsch, Michalk &amp; M&#283;t&#353;k 1965</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-11-29T14:32:46-05:00</updated-at>
+              <pri-name>Muskauer Dialekt</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">847618</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Eastern Germany, near the German-Polish border</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">21165</tree-id>
+              <codes>hsb-mus</codes>
+              <status nil="true"></status>
+              <publications>Fa&#223;ke, Helmut , Helmut  Jentsch, Siegfried  Michalk &amp; F.  M&#283;t&#353;k. 1965. Sorbischer Sprachatlas. Bautzen: VEB Domowina-Verlag. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-11-29T14:32:46-05:00</created-at>
+              <confidence>n</confidence>
+              <tree-val>Sorbische Dialekten, subtree of Indo-European: Fa&#223;ke, Jentsch, Michalk &amp; M&#283;t&#353;k 1965</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-11-29T14:32:46-05:00</updated-at>
+              <pri-name>Nochtener Dialekt</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">847619</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Eastern Germany, near the German-Polish border</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">21165</tree-id>
+              <codes>hsb-noc</codes>
+              <status nil="true"></status>
+              <publications>Fa&#223;ke, Helmut , Helmut  Jentsch, Siegfried  Michalk &amp; F.  M&#283;t&#353;k. 1965. Sorbischer Sprachatlas. Bautzen: VEB Domowina-Verlag. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-11-29T14:32:45-05:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Sorbische Dialekten, subtree of Indo-European: Fa&#223;ke, Jentsch, Michalk &amp; M&#283;t&#353;k 1965</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-11-29T14:32:46-05:00</updated-at>
+              <pri-name>Schleifer Dialekt</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">847617</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Eastern Germany, near the German-Polish border</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">21165</tree-id>
+              <codes>hsb-sch</codes>
+              <status nil="true"></status>
+              <publications>Fa&#223;ke, Helmut , Helmut  Jentsch, Siegfried  Michalk &amp; F.  M&#283;t&#353;k. 1965. Sorbischer Sprachatlas. Bautzen: VEB Domowina-Verlag. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-11-29T14:32:45-05:00</created-at>
+              <confidence>n</confidence>
+              <tree-val>Sorbische Dialekten, subtree of Indo-European: Fa&#223;ke, Jentsch, Michalk &amp; M&#283;t&#353;k 1965</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-11-29T14:32:45-05:00</updated-at>
+              <pri-name>Mittlerer Grenzdialekt</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">847616</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Eastern Germany, near the German-Polish border</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">21165</tree-id>
+              <codes>hsb-mit</codes>
+              <status nil="true"></status>
+              <publications>Fa&#223;ke, Helmut , Helmut  Jentsch, Siegfried  Michalk &amp; F.  M&#283;t&#353;k. 1965. Sorbischer Sprachatlas. Bautzen: VEB Domowina-Verlag. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-11-29T14:32:45-05:00</created-at>
+              <confidence>n</confidence>
+              <tree-val>Sorbische Dialekten, subtree of Indo-European: Fa&#223;ke, Jentsch, Michalk &amp; M&#283;t&#353;k 1965</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-11-29T14:32:45-05:00</updated-at>
+              <pri-name>Hoyerswerdaer Dialekt</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">847614</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Eastern Germany, near the German-Polish border</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">21165</tree-id>
+              <codes>hsb-hoy</codes>
+              <status nil="true"></status>
+              <publications>Fa&#223;ke, Helmut , Helmut  Jentsch, Siegfried  Michalk &amp; F.  M&#283;t&#353;k. 1965. Sorbischer Sprachatlas. Bautzen: VEB Domowina-Verlag. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-11-29T14:32:45-05:00</created-at>
+              <confidence>n</confidence>
+              <tree-val>Sorbische Dialekten, subtree of Indo-European: Fa&#223;ke, Jentsch, Michalk &amp; M&#283;t&#353;k 1965</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-11-29T14:32:45-05:00</updated-at>
+              <pri-name>Neust&#228;dter Dialekt</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">847615</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Eastern Germany, near the German-Polish border</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names>Spreewitzer Dialekt</alt-names>
+              <tree-id type="integer">21165</tree-id>
+              <codes>hsb-neu</codes>
+              <status nil="true"></status>
+              <publications>Fa&#223;ke, Helmut , Helmut  Jentsch, Siegfried  Michalk &amp; F.  M&#283;t&#353;k. 1965. Sorbischer Sprachatlas. Bautzen: VEB Domowina-Verlag. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2012-11-29T14:32:45-05:00</created-at>
+          <confidence>n</confidence>
+          <tree-val>Sorbische Dialekten, subtree of Indo-European: Fa&#223;ke, Jentsch, Michalk &amp; M&#283;t&#353;k 1965</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2012-11-29T14:32:45-05:00</updated-at>
+          <pri-name>Heidedialekt</pri-name>
+          <node-type>Dialect Group</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">847610</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Eastern Germany, near the German-Polish border</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10004</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">21165</tree-id>
+          <codes>hsb-hei</codes>
+          <status nil="true"></status>
+          <publications>Fa&#223;ke, Helmut , Helmut  Jentsch, Siegfried  Michalk &amp; F.  M&#283;t&#353;k. 1965. Sorbischer Sprachatlas. Bautzen: VEB Domowina-Verlag. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-11-29T14:32:45-05:00</created-at>
+              <confidence>n</confidence>
+              <tree-val>Sorbische Dialekten, subtree of Indo-European: Fa&#223;ke, Jentsch, Michalk &amp; M&#283;t&#353;k 1965</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-11-29T14:32:45-05:00</updated-at>
+              <pri-name>n&#246;rdlicher Heidedialekt</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">847611</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Eastern Germany, near the German-Polish border</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">21165</tree-id>
+              <codes>hsb-nhe</codes>
+              <status nil="true"></status>
+              <publications>Fa&#223;ke, Helmut , Helmut  Jentsch, Siegfried  Michalk &amp; F.  M&#283;t&#353;k. 1965. Sorbischer Sprachatlas. Bautzen: VEB Domowina-Verlag. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-11-29T14:32:45-05:00</created-at>
+              <confidence>n</confidence>
+              <tree-val>Sorbische Dialekten, subtree of Indo-European: Fa&#223;ke, Jentsch, Michalk &amp; M&#283;t&#353;k 1965</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-11-29T14:32:45-05:00</updated-at>
+              <pri-name>nord&#246;stlicher Heidedialekt</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">847612</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Eastern Germany, near the German-Polish border</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">21165</tree-id>
+              <codes>hsb-neh</codes>
+              <status nil="true"></status>
+              <publications>Fa&#223;ke, Helmut , Helmut  Jentsch, Siegfried  Michalk &amp; F.  M&#283;t&#353;k. 1965. Sorbischer Sprachatlas. Bautzen: VEB Domowina-Verlag. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2012-11-29T14:32:45-05:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Sorbische Dialekten, subtree of Indo-European: Fa&#223;ke, Jentsch, Michalk &amp; M&#283;t&#353;k 1965</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2012-11-29T14:32:45-05:00</updated-at>
+          <pri-name>Obersorbisch</pri-name>
+          <node-type>Dialect Group</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">847606</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Eastern Germany, near the German-Polish border</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10004</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">21165</tree-id>
+          <codes>hsb</codes>
+          <status nil="true"></status>
+          <publications>Fa&#223;ke, Helmut , Helmut  Jentsch, Siegfried  Michalk &amp; F.  M&#283;t&#353;k. 1965. Sorbischer Sprachatlas. Bautzen: VEB Domowina-Verlag. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-11-29T14:32:45-05:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Sorbische Dialekten, subtree of Indo-European: Fa&#223;ke, Jentsch, Michalk &amp; M&#283;t&#353;k 1965</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-11-29T14:32:45-05:00</updated-at>
+              <pri-name>Bautzener Dialekt</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">847609</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Eastern Germany, near the German-Polish border</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">21165</tree-id>
+              <codes>hsb-bau</codes>
+              <status nil="true"></status>
+              <publications>Fa&#223;ke, Helmut , Helmut  Jentsch, Siegfried  Michalk &amp; F.  M&#283;t&#353;k. 1965. Sorbischer Sprachatlas. Bautzen: VEB Domowina-Verlag. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-11-29T14:32:45-05:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Sorbische Dialekten, subtree of Indo-European: Fa&#223;ke, Jentsch, Michalk &amp; M&#283;t&#353;k 1965</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-11-29T14:32:45-05:00</updated-at>
+              <pri-name>Wittichenauer Dialekt</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">847607</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Eastern Germany, near the German-Polish border</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">21165</tree-id>
+              <codes>hsb-wit</codes>
+              <status nil="true"></status>
+              <publications>Fa&#223;ke, Helmut , Helmut  Jentsch, Siegfried  Michalk &amp; F.  M&#283;t&#353;k. 1965. Sorbischer Sprachatlas. Bautzen: VEB Domowina-Verlag. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-11-29T14:32:45-05:00</created-at>
+              <confidence>n</confidence>
+              <tree-val>Sorbische Dialekten, subtree of Indo-European: Fa&#223;ke, Jentsch, Michalk &amp; M&#283;t&#353;k 1965</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-11-29T14:32:45-05:00</updated-at>
+              <pri-name>Katholischer Dialekt</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">847608</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Eastern Germany, near the German-Polish border</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">21165</tree-id>
+              <codes>hsb-kat</codes>
+              <status nil="true"></status>
+              <publications>Fa&#223;ke, Helmut , Helmut  Jentsch, Siegfried  Michalk &amp; F.  M&#283;t&#353;k. 1965. Sorbischer Sprachatlas. Bautzen: VEB Domowina-Verlag. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2012-11-29T14:32:45-05:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Sorbische Dialekten, subtree of Indo-European: Fa&#223;ke, Jentsch, Michalk &amp; M&#283;t&#353;k 1965</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2012-11-29T14:32:45-05:00</updated-at>
+          <pri-name>Niedersorbisch</pri-name>
+          <node-type>Dialect</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">847605</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Eastern Germany, near the German-Polish border</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10003</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">21165</tree-id>
+          <codes>dsb</codes>
+          <status nil="true"></status>
+          <publications>Fa&#223;ke, Helmut , Helmut  Jentsch, Siegfried  Michalk &amp; F.  M&#283;t&#353;k. 1965. Sorbischer Sprachatlas. Bautzen: VEB Domowina-Verlag. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <description>Panoan: Dryer 2005</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2008-09-10T11:03:56-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Panoan: Dryer 2005</tree-val>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2008-09-10T11:03:56-04:00</updated-at>
+      <pri-name>Panoan</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">136231</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">10717</tree-id>
+      <codes>pano</codes>
+      <status nil="true"></status>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637-638. New York: Oxford University Press. ISBN 0199255911</publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes>amc</other-codes>
+          <created-at type="datetime">2008-09-10T11:03:56-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Panoan: Dryer 2005</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2008-09-10T11:03:56-04:00</updated-at>
+          <pri-name>Amahuaca</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">136232</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Country: Peru, Brazil; Lat.: -10.5; Long.: -72.5</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">10717</tree-id>
+          <codes>amc</codes>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637-638. New York: Oxford University Press. ISBN 0199255911</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes>cap</other-codes>
+          <created-at type="datetime">2008-09-10T11:03:56-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Panoan: Dryer 2005</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2008-09-10T11:03:56-04:00</updated-at>
+          <pri-name>Capanahua</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">136233</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Country: Peru; Lat.: -7; Long.: -74</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">10717</tree-id>
+          <codes>kaq</codes>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637-638. New York: Oxford University Press. ISBN 0199255911</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes>cas</other-codes>
+          <created-at type="datetime">2008-09-10T11:03:56-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Panoan: Dryer 2005</tree-val>
+          <pub-comments>it is a dialect of Cashibo-Cacataibo in Ethnologue</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2008-09-10T11:03:56-04:00</updated-at>
+          <pri-name>Cashibo</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">136234</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Country: Peru; Lat.: -8.5; Long.: -75.5</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">10717</tree-id>
+          <codes>cbr</codes>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637-638. New York: Oxford University Press. ISBN 0199255911</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes>csh</other-codes>
+          <created-at type="datetime">2008-09-10T11:03:56-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Panoan: Dryer 2005</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2008-09-10T11:03:56-04:00</updated-at>
+          <pri-name>Cashinahua</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">136235</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Country: Peru, Brazil; Lat.: -10.5; Long.: -71.83</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">10717</tree-id>
+          <codes>cbs</codes>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637-638. New York: Oxford University Press. ISBN 0199255911</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes>cbo</other-codes>
+          <created-at type="datetime">2008-09-10T11:03:56-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Panoan: Dryer 2005</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2008-09-10T11:03:56-04:00</updated-at>
+          <pri-name>Ch&#225;cobo</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">136236</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Country: Bolivia; Lat.: -12.17; Long.: -66.75</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">10717</tree-id>
+          <codes>cao</codes>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637-638. New York: Oxford University Press. ISBN 0199255911</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes>kdg</other-codes>
+          <created-at type="datetime">2008-09-10T11:03:56-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Panoan: Dryer 2005</tree-val>
+          <pub-comments>WALS says it is a dialect of Karipun in Ethnologue but it is not; it is under Tupi-Guarani</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2008-09-10T11:03:57-04:00</updated-at>
+          <pri-name>Karipuna do Guapore</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">136237</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Country: Brazil; Lat.: -10; Long.: -65</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">10717</tree-id>
+          <codes>kuq</codes>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637-638. New York: Oxford University Press. ISBN 0199255911</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes>mts</other-codes>
+          <created-at type="datetime">2008-09-10T11:03:57-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Panoan: Dryer 2005</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2008-09-10T11:03:57-04:00</updated-at>
+          <pri-name>Matis</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">136238</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Country: Brazil; Lat.: -4.42; Long.: -70.25</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">10717</tree-id>
+          <codes>mpq</codes>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637-638. New York: Oxford University Press. ISBN 0199255911</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes>myr</other-codes>
+          <created-at type="datetime">2008-09-10T11:03:57-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Panoan: Dryer 2005</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2008-09-10T11:03:57-04:00</updated-at>
+          <pri-name>Mats&#233;s</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">136239</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Country: Peru, Brazil; Lat.: -5.42; Long.: -73.25</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">10717</tree-id>
+          <codes>mcf</codes>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637-638. New York: Oxford University Press. ISBN 0199255911</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes>shh</other-codes>
+          <created-at type="datetime">2008-09-10T11:03:57-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Panoan: Dryer 2005</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2008-09-10T11:03:57-04:00</updated-at>
+          <pri-name>Sharanahua</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">136240</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Country: Peru, Brazil; Lat.: -11; Long.: -70</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">10717</tree-id>
+          <codes>mcd</codes>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637-638. New York: Oxford University Press. ISBN 0199255911</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes>shk</other-codes>
+          <created-at type="datetime">2008-09-10T11:03:57-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Panoan: Dryer 2005</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2008-09-10T11:03:57-04:00</updated-at>
+          <pri-name>Shipibo-Konibo</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">136241</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Country: Peru; Lat.: -7.5; Long.: -75</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Shipibo-Conibo</alt-names>
+          <tree-id type="integer">10717</tree-id>
+          <codes>shp</codes>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637-638. New York: Oxford University Press. ISBN 0199255911</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes>yam</other-codes>
+          <created-at type="datetime">2008-09-10T11:03:57-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Panoan: Dryer 2005</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2008-09-10T11:03:57-04:00</updated-at>
+          <pri-name>Yaminahua</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">136242</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Country: Peru, Brazil; Lat.: -8; Long.: -73</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">10717</tree-id>
+          <codes>yaa</codes>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637-638. New York: Oxford University Press. ISBN 0199255911</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

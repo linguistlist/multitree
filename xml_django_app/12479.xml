@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <tree-val>Huarpe: Dryer 2005</tree-val>
+      <start-date nil="true"></start-date>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 642. New York: Oxford University Press. ISBN 0199255911</publications>
+      <other-codes></other-codes>
+      <geography nil="true"></geography>
+      <created-at type="datetime">2009-05-19T19:00:53-04:00</created-at>
+      <tree-id type="integer">12479</tree-id>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <updated-at type="datetime">2009-05-19T19:00:54-04:00</updated-at>
+      <pri-name>Huarpe</pri-name>
+      <deleted-at nil="true"></deleted-at>
+      <updater-id type="integer">10740</updater-id>
+      <end-date nil="true"></end-date>
+      <node-type>Subgroup</node-type>
+      <confidence>y</confidence>
+      <sureness type="integer">0</sureness>
+      <status nil="true"></status>
+      <node-type-id type="integer">10000</node-type-id>
+      <id type="integer">418181</id>
+      <codes>hrpe</codes>
+      <children type="array">
+        <child>
+          <tree-val>Huarpe: Dryer 2005</tree-val>
+          <start-date nil="true"></start-date>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 642. New York: Oxford University Press. ISBN 0199255911</publications>
+          <other-codes>alc</other-codes>
+          <geography>Country: Argentina; Lat.: -31; Long.: -68</geography>
+          <created-at type="datetime">2009-05-19T19:00:54-04:00</created-at>
+          <tree-id type="integer">12479</tree-id>
+          <pub-comments></pub-comments>
+          <updated-at type="datetime">2009-05-19T19:00:54-04:00</updated-at>
+          <pri-name>Allentiac</pri-name>
+          <deleted-at nil="true"></deleted-at>
+          <updater-id type="integer">10740</updater-id>
+          <end-date nil="true"></end-date>
+          <node-type>Language</node-type>
+          <confidence>y</confidence>
+          <sureness type="integer">0</sureness>
+          <status nil="true"></status>
+          <node-type-id type="integer">10001</node-type-id>
+          <id type="integer">418182</id>
+          <codes>qbt</codes>
+          <children type="array"/>
+          <alt-names></alt-names>
+          <updated-by>joe_leif</updated-by>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <created-by>joe_leif</created-by>
+          <creator-id type="integer">10740</creator-id>
+        </child>
+      </children>
+      <alt-names></alt-names>
+      <updated-by>joe_leif</updated-by>
+      <node-status-id nil="true"></node-status-id>
+      <is-default type="integer">0</is-default>
+      <created-by>joe_leif</created-by>
+      <creator-id type="integer">10740</creator-id>
+    </root>
+    <description>Huarpe: Dryer 2005</description>
+  </tree>
+</hash>

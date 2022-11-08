@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Australia</region>
+    <root>
+      <updated-at type="datetime">2010-06-22T15:33:57-04:00</updated-at>
+      <pri-name>Australian Deaf Sign Language</pri-name>
+      <sureness type="integer">0</sureness>
+      <status nil="true"></status>
+      <confidence>Y</confidence>
+      <codes>auds</codes>
+      <node-status-id nil="true"></node-status-id>
+      <geography>Australia</geography>
+      <deleted-at nil="true"></deleted-at>
+      <creator-id type="integer">10740</creator-id>
+      <tree-val>Australian Deaf Sign Language: Ethnologue 2005</tree-val>
+      <other-codes></other-codes>
+      <end-date nil="true"></end-date>
+      <pub-comments>This is a subtree of the deaf sign language tree provided in Ethnologue. It has been broken into regions for ease of searching.</pub-comments>
+      <node-type-id type="integer">10000</node-type-id>
+      <node-type>Subgroup</node-type>
+      <is-default type="integer">0</is-default>
+      <id type="integer">715125</id>
+      <created-by>joe_leif</created-by>
+      <children type="array">
+        <child>
+          <updated-at type="datetime">2010-06-22T15:33:57-04:00</updated-at>
+          <pri-name>Australian Sign Language</pri-name>
+          <sureness type="integer">0</sureness>
+          <status nil="true"></status>
+          <confidence>Y</confidence>
+          <codes>asf</codes>
+          <node-status-id nil="true"></node-status-id>
+          <geography>Australia</geography>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <tree-val>Australian Deaf Sign Language: Ethnologue 2005</tree-val>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <pub-comments>Related to British Sign Language, with influences also from Irish and American sign languages. Australian Signed English is distinct from Australian Sign Language. It is a manual system for English spelling, used by hearing people for communication with the deaf. It is used in teaching the deaf, and officially so in New South Wales. The earliest schools for the deaf were established by British deaf immigrants in 1860.</pub-comments>
+          <node-type-id type="integer">10001</node-type-id>
+          <node-type>Language</node-type>
+          <is-default type="integer">0</is-default>
+          <id type="integer">715126</id>
+          <created-by>joe_leif</created-by>
+          <children type="array"/>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <tree-id type="integer">17923</tree-id>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <alt-names>Auslan</alt-names>
+          <start-date nil="true"></start-date>
+          <created-at type="datetime">2010-06-22T15:33:57-04:00</created-at>
+        </child>
+      </children>
+      <updater-id type="integer">10740</updater-id>
+      <updated-by>joe_leif</updated-by>
+      <tree-id type="integer">17923</tree-id>
+      <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+      <alt-names></alt-names>
+      <start-date nil="true"></start-date>
+      <created-at type="datetime">2010-06-22T15:33:57-04:00</created-at>
+    </root>
+    <description>Australian Deaf Sign Language: Ethnologue 2005</description>
+  </tree>
+</hash>

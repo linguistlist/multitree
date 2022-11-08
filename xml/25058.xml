@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>
+    <description>Tai, subtree of Tai-Kadai: Li 1960, 1977</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2013-08-19T09:02:19-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+      <pub-comments>Li mostly calls the lects in this tree &quot;dialects&quot; but also occasionally refers to some/all of them as &quot;languages,&quot; somewhat interchangeably; he doesn't specify a distinction between the two terms. For the purposes of this representation, all lects are categorized as dialects.</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2013-08-19T09:02:19-04:00</updated-at>
+      <pri-name>Tai</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">988957</id>
+      <creator-id type="integer">10720</creator-id>
+      <created-by>dana</created-by>
+      <updater-id type="integer">10720</updater-id>
+      <geography>Spoken in a fairly large area in Southeast Asia and in China, consisting of Thailand, Laos, the northern part of Vietnam, West Burman (Shan states), and Southwest China</geography>
+      <updated-by>dana</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">25058</tree-id>
+      <codes>taix</codes>
+      <status nil="true"></status>
+      <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-08-19T09:02:21-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-08-19T09:02:22-04:00</updated-at>
+          <pri-name>Northern</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">988980</id>
+          <creator-id type="integer">10720</creator-id>
+          <created-by>dana</created-by>
+          <updater-id type="integer">10720</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>dana</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names>Northeastern group</alt-names>
+          <tree-id type="integer">25058</tree-id>
+          <codes>ntai</codes>
+          <status nil="true"></status>
+          <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-08-19T09:02:22-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+              <pub-comments>Node not named by author.</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-08-19T09:02:23-04:00</updated-at>
+              <pri-name>Ts'e-heng-T'ien-chow</pri-name>
+              <node-type>Dialect Group</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">988983</id>
+              <creator-id type="integer">10720</creator-id>
+              <created-by>dana</created-by>
+              <updater-id type="integer">10720</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>dana</updated-by>
+              <node-type-id type="integer">10004</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25058</tree-id>
+              <codes>yoy-tse, zgn, 0rs, 0ry</codes>
+              <status nil="true"></status>
+              <publications>Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-19T09:02:23-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+                  <pub-comments>The dialect names T'ien-pao, Yung-ch'un, Ch'ien-chiang, Ling-yun, Hsi-lin, T'ien-chow, and Po-ai represent the district names in China where the author gathered data on these dialects. He indicates that other names have been used for these dialects, such as Chung-chia, Chuang-chia, Thu (Tho), etc., but that he avoids them &quot;because they have been used too vaguely to be of scientific significance&quot; (Li 1960:958).</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-19T09:02:23-04:00</updated-at>
+                  <pri-name>Hsi-lin</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">988986</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography>In the western part of Kwangsi</geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25058</tree-id>
+                  <codes>0rs</codes>
+                  <status nil="true"></status>
+                  <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-19T09:02:23-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-19T09:02:23-04:00</updated-at>
+                  <pri-name>T'se-heng</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">988984</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography>Around the district of Ts'e-heng in the southwestern part of Kweichow</geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names>Ts'e-heng, Dioi</alt-names>
+                  <tree-id type="integer">25058</tree-id>
+                  <codes>yoy-tse</codes>
+                  <status nil="true"></status>
+                  <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-19T09:02:23-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+                  <pub-comments>The dialect names T'ien-pao, Yung-ch'un, Ch'ien-chiang, Ling-yun, Hsi-lin, T'ien-chow, and Po-ai represent the district names in China where the author gathered data on these dialects. He indicates that other names have been used for these dialects, such as Chung-chia, Chuang-chia, Thu (Tho), etc., but that he avoids them &quot;because they have been used too vaguely to be of scientific significance&quot; (Li 1960:958).</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-19T09:02:23-04:00</updated-at>
+                  <pri-name>Ling-y&#252;n</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">988985</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography>In the western part of Kwangsi</geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25058</tree-id>
+                  <codes>zgn</codes>
+                  <status nil="true"></status>
+                  <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-19T09:02:23-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+                  <pub-comments>The dialect names T'ien-pao, Yung-ch'un, Ch'ien-chiang, Ling-yun, Hsi-lin, T'ien-chow, and Po-ai represent the district names in China where the author gathered data on these dialects. He indicates that other names have been used for these dialects, such as Chung-chia, Chuang-chia, Thu (Tho), etc., but that he avoids them &quot;because they have been used too vaguely to be of scientific significance&quot; (Li 1960:958).</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-19T09:02:23-04:00</updated-at>
+                  <pri-name>T'ien-chow</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">988987</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography>In the western part of Kwangsi</geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25058</tree-id>
+                  <codes>0ry</codes>
+                  <status nil="true"></status>
+                  <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-08-19T09:02:22-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+              <pub-comments>The dialect names T'ien-pao, Yung-ch'un, Ch'ien-chiang, Ling-yun, Hsi-lin, T'ien-chow, and Po-ai represent the district names in China where the author gathered data on these dialects. He indicates that other names have been used for these dialects, such as Chung-chia, Chuang-chia, Thu (Tho), etc., but that he avoids them &quot;because they have been used too vaguely to be of scientific significance&quot; (Li 1960:958).</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-08-19T09:02:22-04:00</updated-at>
+              <pri-name>Ch'ien-chiang</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">988982</id>
+              <creator-id type="integer">10720</creator-id>
+              <created-by>dana</created-by>
+              <updater-id type="integer">10720</updater-id>
+              <geography>In the central part of Kwangsi</geography>
+              <updated-by>dana</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25058</tree-id>
+              <codes>1ao</codes>
+              <status nil="true"></status>
+              <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-08-19T09:02:22-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-08-19T09:02:22-04:00</updated-at>
+              <pri-name>Wu-ming</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">988981</id>
+              <creator-id type="integer">10720</creator-id>
+              <created-by>dana</created-by>
+              <updater-id type="integer">10720</updater-id>
+              <geography>In the central part of Kwangsi province</geography>
+              <updated-by>dana</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25058</tree-id>
+              <codes>zyb-wum</codes>
+              <status nil="true"></status>
+              <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-08-19T09:02:23-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+              <pub-comments>The dialect names T'ien-pao, Yung-ch'un, Ch'ien-chiang, Ling-yun, Hsi-lin, T'ien-chow, and Po-ai represent the district names in China where the author gathered data on these dialects. He indicates that other names have been used for these dialects, such as Chung-chia, Chuang-chia, Thu (Tho), etc., but that he avoids them &quot;because they have been used too vaguely to be of scientific significance&quot; (Li 1960:958).</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-08-19T09:02:23-04:00</updated-at>
+              <pri-name>Po-ai</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">988988</id>
+              <creator-id type="integer">10720</creator-id>
+              <created-by>dana</created-by>
+              <updater-id type="integer">10720</updater-id>
+              <geography>Spoken in the town of Po-ai, formerly belonging to the district of Fu-ning in Yunnan province; the district is in the south-eastern corner of Yunnan near the border of Kwangsi</geography>
+              <updated-by>dana</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names>Jui</alt-names>
+              <tree-id type="integer">25058</tree-id>
+              <codes>zqe.zgn-poa</codes>
+              <status nil="true"></status>
+              <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-08-19T09:02:19-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-08-19T09:02:19-04:00</updated-at>
+          <pri-name>Southwestern</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">988958</id>
+          <creator-id type="integer">10720</creator-id>
+          <created-by>dana</created-by>
+          <updater-id type="integer">10720</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>dana</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">25058</tree-id>
+          <codes>swta</codes>
+          <status nil="true"></status>
+          <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-08-19T09:02:20-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+              <pub-comments>Node not named by author.</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-08-19T09:02:20-04:00</updated-at>
+              <pri-name>L&#252;-Ahom</pri-name>
+              <node-type>Dialect Group</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">988965</id>
+              <creator-id type="integer">10720</creator-id>
+              <created-by>dana</created-by>
+              <updater-id type="integer">10720</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>dana</updated-by>
+              <node-type-id type="integer">10004</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25058</tree-id>
+              <codes>khb, thw, shn, aho</codes>
+              <status nil="true"></status>
+              <publications>Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-19T09:02:20-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-19T09:02:20-04:00</updated-at>
+                  <pri-name>Shan</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">988969</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25058</tree-id>
+                  <codes>shn</codes>
+                  <status nil="true"></status>
+                  <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-19T09:02:20-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+                  <pub-comments>Node not named by author.</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-19T09:02:20-04:00</updated-at>
+                  <pri-name>L&#252;-Tai Blanc</pri-name>
+                  <node-type>Dialect Group</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">988966</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10004</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25058</tree-id>
+                  <codes>khb, thw</codes>
+                  <status nil="true"></status>
+                  <publications>Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-08-19T09:02:20-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-08-19T09:02:20-04:00</updated-at>
+                      <pri-name>Tai Blanc</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">988968</id>
+                      <creator-id type="integer">10720</creator-id>
+                      <created-by>dana</created-by>
+                      <updater-id type="integer">10720</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>dana</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names>White Tai</alt-names>
+                      <tree-id type="integer">25058</tree-id>
+                      <codes>thw</codes>
+                      <status nil="true"></status>
+                      <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-08-19T09:02:20-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-08-19T09:02:20-04:00</updated-at>
+                      <pri-name>L&#252;</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">988967</id>
+                      <creator-id type="integer">10720</creator-id>
+                      <created-by>dana</created-by>
+                      <updater-id type="integer">10720</updater-id>
+                      <geography>Spoken in Southern Yunnan</geography>
+                      <updated-by>dana</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">25058</tree-id>
+                      <codes>khb</codes>
+                      <status nil="true"></status>
+                      <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-19T09:02:20-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+                  <pub-comments>Author indicates some uncertainty about the placement of this lect.</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-19T09:02:20-04:00</updated-at>
+                  <pri-name>Ahom</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">-1</sureness>
+                  <id type="integer">988970</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25058</tree-id>
+                  <codes>aho</codes>
+                  <status nil="true"></status>
+                  <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-08-19T09:02:19-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+              <pub-comments>Node not named by author.</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-08-19T09:02:19-04:00</updated-at>
+              <pri-name>Siamese-Lao-Tai Noir</pri-name>
+              <node-type>Dialect Group</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">988959</id>
+              <creator-id type="integer">10720</creator-id>
+              <created-by>dana</created-by>
+              <updater-id type="integer">10720</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>dana</updated-by>
+              <node-type-id type="integer">10004</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25058</tree-id>
+              <codes>blt, tha, lao</codes>
+              <status nil="true"></status>
+              <publications>Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-19T09:02:19-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+                  <pub-comments>Node not named by author.</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-19T09:02:20-04:00</updated-at>
+                  <pri-name>Siamese-Lao</pri-name>
+                  <node-type>Dialect Group</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">988961</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10004</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25058</tree-id>
+                  <codes>tha, lao</codes>
+                  <status nil="true"></status>
+                  <publications>Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-08-19T09:02:20-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-08-19T09:02:20-04:00</updated-at>
+                      <pri-name>Lao</pri-name>
+                      <node-type>Dialect Group</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">988963</id>
+                      <creator-id type="integer">10720</creator-id>
+                      <created-by>dana</created-by>
+                      <updater-id type="integer">10720</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>dana</updated-by>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">25058</tree-id>
+                      <codes>lao</codes>
+                      <status nil="true"></status>
+                      <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array">
+                        <child>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2013-08-19T09:02:20-04:00</created-at>
+                          <confidence>y</confidence>
+                          <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+                          <pub-comments></pub-comments>
+                          <node-status-id nil="true"></node-status-id>
+                          <updated-at type="datetime">2013-08-19T09:02:20-04:00</updated-at>
+                          <pri-name>Muong-Phun</pri-name>
+                          <node-type>Dialect</node-type>
+                          <is-default type="boolean">false</is-default>
+                          <deleted-at nil="true"></deleted-at>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">988964</id>
+                          <creator-id type="integer">10720</creator-id>
+                          <created-by>dana</created-by>
+                          <updater-id type="integer">10720</updater-id>
+                          <geography nil="true"></geography>
+                          <updated-by>dana</updated-by>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">25058</tree-id>
+                          <codes>lao-muo</codes>
+                          <status nil="true"></status>
+                          <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. </publications>
+                          <end-date nil="true"></end-date>
+                          <children type="array"/>
+                        </child>
+                      </children>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-08-19T09:02:20-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-08-19T09:02:20-04:00</updated-at>
+                      <pri-name>Siamese</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">988962</id>
+                      <creator-id type="integer">10720</creator-id>
+                      <created-by>dana</created-by>
+                      <updater-id type="integer">10720</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>dana</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">25058</tree-id>
+                      <codes>tha</codes>
+                      <status nil="true"></status>
+                      <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-19T09:02:19-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-19T09:02:19-04:00</updated-at>
+                  <pri-name>Tai Noir</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">988960</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names>Black Tai</alt-names>
+                  <tree-id type="integer">25058</tree-id>
+                  <codes>blt</codes>
+                  <status nil="true"></status>
+                  <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-08-19T09:02:20-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-08-19T09:02:21-04:00</updated-at>
+          <pri-name>Central</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">988971</id>
+          <creator-id type="integer">10720</creator-id>
+          <created-by>dana</created-by>
+          <updater-id type="integer">10720</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>dana</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">25058</tree-id>
+          <codes>ctai</codes>
+          <status nil="true"></status>
+          <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-08-19T09:02:21-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+              <pub-comments>Node not named by author.</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-08-19T09:02:21-04:00</updated-at>
+              <pri-name>Tay-Lung-chow</pri-name>
+              <node-type>Dialect Group</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">988972</id>
+              <creator-id type="integer">10720</creator-id>
+              <created-by>dana</created-by>
+              <updater-id type="integer">10720</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>dana</updated-by>
+              <node-type-id type="integer">10004</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25058</tree-id>
+              <codes>tyz, zzj, nut, nut-nuc</codes>
+              <status nil="true"></status>
+              <publications>Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-19T09:02:21-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+                  <pub-comments>Node not named by author.</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-19T09:02:21-04:00</updated-at>
+                  <pri-name>Nung-Lung-chow</pri-name>
+                  <node-type>Dialect Group</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">988975</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10004</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25058</tree-id>
+                  <codes>nut, nut-nuc</codes>
+                  <status nil="true"></status>
+                  <publications>Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-08-19T09:02:21-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-08-19T09:02:21-04:00</updated-at>
+                      <pri-name>Lung-chow</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">988977</id>
+                      <creator-id type="integer">10720</creator-id>
+                      <created-by>dana</created-by>
+                      <updater-id type="integer">10720</updater-id>
+                      <geography>Spoken in the city of Lungchow in the southwestern corner of Kwangsi province near the Vietnam border</geography>
+                      <updated-by>dana</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names>Lungchow</alt-names>
+                      <tree-id type="integer">25058</tree-id>
+                      <codes>nut-nuc</codes>
+                      <status nil="true"></status>
+                      <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-08-19T09:02:21-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-08-19T09:02:21-04:00</updated-at>
+                      <pri-name>Nung</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">988976</id>
+                      <creator-id type="integer">10720</creator-id>
+                      <created-by>dana</created-by>
+                      <updater-id type="integer">10720</updater-id>
+                      <geography>Spoken in North Vietnam</geography>
+                      <updated-by>dana</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">25058</tree-id>
+                      <codes>nut</codes>
+                      <status nil="true"></status>
+                      <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-19T09:02:21-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-19T09:02:21-04:00</updated-at>
+                  <pri-name>Tay</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">988973</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography>Spoken in North Vietnam</geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names>Tay Blanc</alt-names>
+                  <tree-id type="integer">25058</tree-id>
+                  <codes>tyz</codes>
+                  <status nil="true"></status>
+                  <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-08-19T09:02:21-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-08-19T09:02:21-04:00</updated-at>
+                  <pri-name>Tho</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">988974</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography>Spoken in North Vietnam</geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25058</tree-id>
+                  <codes>zzj</codes>
+                  <status nil="true"></status>
+                  <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-08-19T09:02:21-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+              <pub-comments>The dialect names T'ien-pao, Yung-ch'un, Ch'ien-chiang, Ling-yun, Hsi-lin, T'ien-chow, and Po-ai represent the district names in China where the author gathered data on these dialects. He indicates that other names have been used for these dialects, such as Chung-chia, Chuang-chia, Thu (Tho), etc., but that he avoids them &quot;because they have been used too vaguely to be of scientific significance&quot; (Li 1960:958).</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-08-19T09:02:21-04:00</updated-at>
+              <pri-name>Yung-ch'un</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">988979</id>
+              <creator-id type="integer">10720</creator-id>
+              <created-by>dana</created-by>
+              <updater-id type="integer">10720</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>dana</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25058</tree-id>
+              <codes>24j</codes>
+              <status nil="true"></status>
+              <publications>Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-08-19T09:02:21-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tai, subtree of Tai-Kadai: Li 1960, 1977</tree-val>
+              <pub-comments>The dialect names T'ien-pao, Yung-ch'un, Ch'ien-chiang, Ling-yun, Hsi-lin, T'ien-chow, and Po-ai represent the district names in China where the author gathered data on these dialects. He indicates that other names have been used for these dialects, such as Chung-chia, Chuang-chia, Thu (Tho), etc., but that he avoids them &quot;because they have been used too vaguely to be of scientific significance&quot; (Li 1960:958).</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-08-19T09:02:21-04:00</updated-at>
+              <pri-name>T'ien-pao</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">988978</id>
+              <creator-id type="integer">10720</creator-id>
+              <created-by>dana</created-by>
+              <updater-id type="integer">10720</updater-id>
+              <geography>Western part of Kwangsi province</geography>
+              <updated-by>dana</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25058</tree-id>
+              <codes>tpo</codes>
+              <status nil="true"></status>
+              <publications>Li, Fang-Kuei. 1977. A Handbook of Comparative Tai, Oceanic Linguistics Special Publications, Oceanic Linguistics, vol. 15. , Li, Fang-Kuei. 1960. A Tentative Classification of Tai Dialects. In Stanley  Diamond (ed.), Culture in History: Essays in Honor of Paul Radin, 951&#8211;959. New York: Columbia University Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

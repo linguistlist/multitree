@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <description>North American Mixed Languages: Composite</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2009-04-17T15:32:29-04:00</created-at>
+      <confidence>Y</confidence>
+      <tree-val>North American Mixed Languages: Composite</tree-val>
+      <pub-comments></pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2009-04-17T15:32:29-04:00</updated-at>
+      <pri-name>North American Mixed Language</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">369280</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography>North America</geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">11848</tree-id>
+      <codes>naml</codes>
+      <status nil="true"></status>
+      <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-04-17T15:32:29-04:00</created-at>
+          <confidence>Y</confidence>
+          <tree-val>North American Mixed Languages: Composite</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2009-04-17T15:32:29-04:00</updated-at>
+          <pri-name>French-Cree</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">369281</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">11848</tree-id>
+          <codes>frcr</codes>
+          <status nil="true"></status>
+          <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-04-17T15:32:29-04:00</created-at>
+              <confidence>Y</confidence>
+              <tree-val>North American Mixed Languages: Composite</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-04-17T15:32:29-04:00</updated-at>
+              <pri-name>Michif</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">369282</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>USA, Canada</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>French Cree, Mitchif</alt-names>
+              <tree-id type="integer">11848</tree-id>
+              <codes>crg</codes>
+              <status nil="true"></status>
+              <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

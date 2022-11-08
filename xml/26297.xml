@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Central America</region>
+    <region>North America</region>
+    <region>South America</region>
+    <region>South America</region>
+    <region>North America</region>
+    <region>South America</region>
+    <description>Amerind: Ruhlen 1991A</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2014-01-27T15:14:34-05:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Amerind: Ruhlen 1991A</tree-val>
+      <pub-comments></pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2014-01-27T15:14:35-05:00</updated-at>
+      <pri-name>Amerind</pri-name>
+      <node-type>Stock</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">1021533</id>
+      <creator-id type="integer">10400</creator-id>
+      <created-by>gosia</created-by>
+      <updater-id type="integer">10400</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>gosia</updated-by>
+      <node-type-id type="integer">10005</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">26297</tree-id>
+      <codes>amin</codes>
+      <status nil="true"></status>
+      <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2014-01-27T15:14:35-05:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Amerind: Ruhlen 1991A</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2014-01-27T15:14:36-05:00</updated-at>
+          <pri-name>Northern and Southern Amerind</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">1021538</id>
+          <creator-id type="integer">10400</creator-id>
+          <created-by>gosia</created-by>
+          <updater-id type="integer">10400</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>gosia</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">26297</tree-id>
+          <codes>amns</codes>
+          <status nil="true"></status>
+          <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2014-01-27T15:14:36-05:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Amerind: Ruhlen 1991A</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2014-01-27T15:14:36-05:00</updated-at>
+              <pri-name>Southern Amerind</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">1021545</id>
+              <creator-id type="integer">10400</creator-id>
+              <created-by>gosia</created-by>
+              <updater-id type="integer">10400</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>gosia</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">26297</tree-id>
+              <codes>soam</codes>
+              <status nil="true"></status>
+              <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2014-01-27T15:14:36-05:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Amerind: Ruhlen 1991A</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2014-01-27T15:14:37-05:00</updated-at>
+                  <pri-name>South American Amerind</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">1021546</id>
+                  <creator-id type="integer">10400</creator-id>
+                  <created-by>gosia</created-by>
+                  <updater-id type="integer">10400</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>gosia</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">26297</tree-id>
+                  <codes>saam</codes>
+                  <status nil="true"></status>
+                  <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2014-01-27T15:14:37-05:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Amerind: Ruhlen 1991A</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2014-01-27T15:14:37-05:00</updated-at>
+                      <pri-name>Southeastern Amerind</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">1021548</id>
+                      <creator-id type="integer">10400</creator-id>
+                      <created-by>gosia</created-by>
+                      <updater-id type="integer">10400</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>gosia</updated-by>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">26297</tree-id>
+                      <codes>amse</codes>
+                      <status nil="true"></status>
+                      <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array">
+                        <child>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2014-01-27T15:14:37-05:00</created-at>
+                          <confidence>y</confidence>
+                          <tree-val>Amerind: Ruhlen 1991A</tree-val>
+                          <pub-comments></pub-comments>
+                          <node-status-id nil="true"></node-status-id>
+                          <updated-at type="datetime">2014-01-27T15:14:37-05:00</updated-at>
+                          <pri-name>Equatorial-Tucanoan</pri-name>
+                          <node-type>Subgroup</node-type>
+                          <is-default type="boolean">false</is-default>
+                          <deleted-at nil="true"></deleted-at>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">1021554</id>
+                          <creator-id type="integer">10400</creator-id>
+                          <created-by>gosia</created-by>
+                          <updater-id type="integer">10400</updater-id>
+                          <geography nil="true"></geography>
+                          <updated-by>gosia</updated-by>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">26297</tree-id>
+                          <codes>eqtu</codes>
+                          <status nil="true"></status>
+                          <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+                          <end-date nil="true"></end-date>
+                          <children type="array">
+                            <child>
+                              <start-date nil="true"></start-date>
+                              <other-codes></other-codes>
+                              <created-at type="datetime">2014-01-27T15:14:37-05:00</created-at>
+                              <confidence>y</confidence>
+                              <tree-val>Amerind: Ruhlen 1991A</tree-val>
+                              <pub-comments></pub-comments>
+                              <node-status-id nil="true"></node-status-id>
+                              <updated-at type="datetime">2014-01-27T15:14:37-05:00</updated-at>
+                              <pri-name>Equatorial</pri-name>
+                              <node-type>Subgroup</node-type>
+                              <is-default type="boolean">false</is-default>
+                              <deleted-at nil="true"></deleted-at>
+                              <sureness type="integer">0</sureness>
+                              <id type="integer">1021556</id>
+                              <creator-id type="integer">10400</creator-id>
+                              <created-by>gosia</created-by>
+                              <updater-id type="integer">10400</updater-id>
+                              <geography nil="true"></geography>
+                              <updated-by>gosia</updated-by>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">26297</tree-id>
+                              <codes>mwva</codes>
+                              <status nil="true"></status>
+                              <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+                              <end-date nil="true"></end-date>
+                              <children type="array"/>
+                            </child>
+                            <child>
+                              <start-date nil="true"></start-date>
+                              <other-codes></other-codes>
+                              <created-at type="datetime">2014-01-27T15:14:37-05:00</created-at>
+                              <confidence>y</confidence>
+                              <tree-val>Amerind: Ruhlen 1991A</tree-val>
+                              <pub-comments></pub-comments>
+                              <node-status-id nil="true"></node-status-id>
+                              <updated-at type="datetime">2014-01-27T15:14:37-05:00</updated-at>
+                              <pri-name>Macro-Tucanoan</pri-name>
+                              <node-type>Subgroup</node-type>
+                              <is-default type="boolean">false</is-default>
+                              <deleted-at nil="true"></deleted-at>
+                              <sureness type="integer">0</sureness>
+                              <id type="integer">1021555</id>
+                              <creator-id type="integer">10400</creator-id>
+                              <created-by>gosia</created-by>
+                              <updater-id type="integer">10400</updater-id>
+                              <geography nil="true"></geography>
+                              <updated-by>gosia</updated-by>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">26297</tree-id>
+                              <codes>mact</codes>
+                              <status nil="true"></status>
+                              <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+                              <end-date nil="true"></end-date>
+                              <children type="array"/>
+                            </child>
+                          </children>
+                        </child>
+                        <child>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2014-01-27T15:14:37-05:00</created-at>
+                          <confidence>y</confidence>
+                          <tree-val>Amerind: Ruhlen 1991A</tree-val>
+                          <pub-comments></pub-comments>
+                          <node-status-id nil="true"></node-status-id>
+                          <updated-at type="datetime">2014-01-27T15:14:37-05:00</updated-at>
+                          <pri-name>Ge-Pano-Carib</pri-name>
+                          <node-type>Subgroup</node-type>
+                          <is-default type="boolean">false</is-default>
+                          <deleted-at nil="true"></deleted-at>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">1021549</id>
+                          <creator-id type="integer">10400</creator-id>
+                          <created-by>gosia</created-by>
+                          <updater-id type="integer">10400</updater-id>
+                          <geography nil="true"></geography>
+                          <updated-by>gosia</updated-by>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">26297</tree-id>
+                          <codes>gepc</codes>
+                          <status nil="true"></status>
+                          <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+                          <end-date nil="true"></end-date>
+                          <children type="array">
+                            <child>
+                              <start-date nil="true"></start-date>
+                              <other-codes></other-codes>
+                              <created-at type="datetime">2014-01-27T15:14:37-05:00</created-at>
+                              <confidence>y</confidence>
+                              <tree-val>Amerind: Ruhlen 1991A</tree-val>
+                              <pub-comments></pub-comments>
+                              <node-status-id nil="true"></node-status-id>
+                              <updated-at type="datetime">2014-01-27T15:14:37-05:00</updated-at>
+                              <pri-name>Ge-Pano</pri-name>
+                              <node-type>Subgroup</node-type>
+                              <is-default type="boolean">false</is-default>
+                              <deleted-at nil="true"></deleted-at>
+                              <sureness type="integer">0</sureness>
+                              <id type="integer">1021551</id>
+                              <creator-id type="integer">10400</creator-id>
+                              <created-by>gosia</created-by>
+                              <updater-id type="integer">10400</updater-id>
+                              <geography nil="true"></geography>
+                              <updated-by>gosia</updated-by>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">26297</tree-id>
+                              <codes>gpno</codes>
+                              <status nil="true"></status>
+                              <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+                              <end-date nil="true"></end-date>
+                              <children type="array">
+                                <child>
+                                  <start-date nil="true"></start-date>
+                                  <other-codes></other-codes>
+                                  <created-at type="datetime">2014-01-27T15:14:37-05:00</created-at>
+                                  <confidence>y</confidence>
+                                  <tree-val>Amerind: Ruhlen 1991A</tree-val>
+                                  <pub-comments></pub-comments>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <updated-at type="datetime">2014-01-27T15:14:37-05:00</updated-at>
+                                  <pri-name>Macro-Ge</pri-name>
+                                  <node-type>Subgroup</node-type>
+                                  <is-default type="boolean">false</is-default>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <sureness type="integer">0</sureness>
+                                  <id type="integer">1021552</id>
+                                  <creator-id type="integer">10400</creator-id>
+                                  <created-by>gosia</created-by>
+                                  <updater-id type="integer">10400</updater-id>
+                                  <geography nil="true"></geography>
+                                  <updated-by>gosia</updated-by>
+                                  <node-type-id type="integer">10000</node-type-id>
+                                  <alt-names></alt-names>
+                                  <tree-id type="integer">26297</tree-id>
+                                  <codes>macg</codes>
+                                  <status nil="true"></status>
+                                  <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+                                  <end-date nil="true"></end-date>
+                                  <children type="array"/>
+                                </child>
+                                <child>
+                                  <start-date nil="true"></start-date>
+                                  <other-codes></other-codes>
+                                  <created-at type="datetime">2014-01-27T15:14:37-05:00</created-at>
+                                  <confidence>y</confidence>
+                                  <tree-val>Amerind: Ruhlen 1991A</tree-val>
+                                  <pub-comments></pub-comments>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <updated-at type="datetime">2014-01-27T15:14:37-05:00</updated-at>
+                                  <pri-name>Macro-Panoan</pri-name>
+                                  <node-type>Subgroup</node-type>
+                                  <is-default type="boolean">false</is-default>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <sureness type="integer">0</sureness>
+                                  <id type="integer">1021553</id>
+                                  <creator-id type="integer">10400</creator-id>
+                                  <created-by>gosia</created-by>
+                                  <updater-id type="integer">10400</updater-id>
+                                  <geography nil="true"></geography>
+                                  <updated-by>gosia</updated-by>
+                                  <node-type-id type="integer">10000</node-type-id>
+                                  <alt-names></alt-names>
+                                  <tree-id type="integer">26297</tree-id>
+                                  <codes>macp</codes>
+                                  <status nil="true"></status>
+                                  <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+                                  <end-date nil="true"></end-date>
+                                  <children type="array"/>
+                                </child>
+                              </children>
+                            </child>
+                            <child>
+                              <start-date nil="true"></start-date>
+                              <other-codes></other-codes>
+                              <created-at type="datetime">2014-01-27T15:14:37-05:00</created-at>
+                              <confidence>y</confidence>
+                              <tree-val>Amerind: Ruhlen 1991A</tree-val>
+                              <pub-comments></pub-comments>
+                              <node-status-id nil="true"></node-status-id>
+                              <updated-at type="datetime">2014-01-27T15:14:37-05:00</updated-at>
+                              <pri-name>Macro-Carib</pri-name>
+                              <node-type>Subgroup</node-type>
+                              <is-default type="boolean">false</is-default>
+                              <deleted-at nil="true"></deleted-at>
+                              <sureness type="integer">0</sureness>
+                              <id type="integer">1021550</id>
+                              <creator-id type="integer">10400</creator-id>
+                              <created-by>gosia</created-by>
+                              <updater-id type="integer">10400</updater-id>
+                              <geography nil="true"></geography>
+                              <updated-by>gosia</updated-by>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">26297</tree-id>
+                              <codes>macc</codes>
+                              <status nil="true"></status>
+                              <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+                              <end-date nil="true"></end-date>
+                              <children type="array"/>
+                            </child>
+                          </children>
+                        </child>
+                      </children>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2014-01-27T15:14:37-05:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Amerind: Ruhlen 1991A</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2014-01-27T15:14:37-05:00</updated-at>
+                      <pri-name>Andean</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">1021547</id>
+                      <creator-id type="integer">10400</creator-id>
+                      <created-by>gosia</created-by>
+                      <updater-id type="integer">10400</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>gosia</updated-by>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">26297</tree-id>
+                      <codes>andn</codes>
+                      <status nil="true"></status>
+                      <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2014-01-27T15:14:37-05:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Amerind: Ruhlen 1991A</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2014-01-27T15:14:37-05:00</updated-at>
+                  <pri-name>Chibchan-Paezan</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">1021557</id>
+                  <creator-id type="integer">10400</creator-id>
+                  <created-by>gosia</created-by>
+                  <updater-id type="integer">10400</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>gosia</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">26297</tree-id>
+                  <codes>chbp</codes>
+                  <status nil="true"></status>
+                  <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2014-01-27T15:14:37-05:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Amerind: Ruhlen 1991A</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2014-01-27T15:14:37-05:00</updated-at>
+                      <pri-name>Chibchan</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">1021558</id>
+                      <creator-id type="integer">10400</creator-id>
+                      <created-by>gosia</created-by>
+                      <updater-id type="integer">10400</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>gosia</updated-by>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">26297</tree-id>
+                      <codes>chib</codes>
+                      <status nil="true"></status>
+                      <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2014-01-27T15:14:37-05:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Amerind: Ruhlen 1991A</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2014-01-27T15:14:38-05:00</updated-at>
+                      <pri-name>Paezan</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">1021559</id>
+                      <creator-id type="integer">10400</creator-id>
+                      <created-by>gosia</created-by>
+                      <updater-id type="integer">10400</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>gosia</updated-by>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">26297</tree-id>
+                      <codes>paez</codes>
+                      <status nil="true"></status>
+                      <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2014-01-27T15:14:36-05:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Amerind: Ruhlen 1991A</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2014-01-27T15:14:36-05:00</updated-at>
+              <pri-name>Northern Amerind</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">1021539</id>
+              <creator-id type="integer">10400</creator-id>
+              <created-by>gosia</created-by>
+              <updater-id type="integer">10400</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>gosia</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">26297</tree-id>
+              <codes>nabr</codes>
+              <status nil="true"></status>
+              <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2014-01-27T15:14:36-05:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Amerind: Ruhlen 1991A</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2014-01-27T15:14:36-05:00</updated-at>
+                  <pri-name>Penutian</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">1021543</id>
+                  <creator-id type="integer">10400</creator-id>
+                  <created-by>gosia</created-by>
+                  <updater-id type="integer">10400</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>gosia</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">26297</tree-id>
+                  <codes>penu</codes>
+                  <status nil="true"></status>
+                  <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2014-01-27T15:14:36-05:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Amerind: Ruhlen 1991A</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2014-01-27T15:14:36-05:00</updated-at>
+                  <pri-name>Almosan-Keresiouan</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">1021540</id>
+                  <creator-id type="integer">10400</creator-id>
+                  <created-by>gosia</created-by>
+                  <updater-id type="integer">10400</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>gosia</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">26297</tree-id>
+                  <codes>alke</codes>
+                  <status nil="true"></status>
+                  <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2014-01-27T15:14:36-05:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Amerind: Ruhlen 1991A</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2014-01-27T15:14:36-05:00</updated-at>
+                      <pri-name>Almosan</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">1021541</id>
+                      <creator-id type="integer">10400</creator-id>
+                      <created-by>gosia</created-by>
+                      <updater-id type="integer">10400</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>gosia</updated-by>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">26297</tree-id>
+                      <codes>alms</codes>
+                      <status nil="true"></status>
+                      <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2014-01-27T15:14:36-05:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Amerind: Ruhlen 1991A</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2014-01-27T15:14:36-05:00</updated-at>
+                      <pri-name>Keresiouan</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">1021542</id>
+                      <creator-id type="integer">10400</creator-id>
+                      <created-by>gosia</created-by>
+                      <updater-id type="integer">10400</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>gosia</updated-by>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">26297</tree-id>
+                      <codes>krsn</codes>
+                      <status nil="true"></status>
+                      <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2014-01-27T15:14:36-05:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Amerind: Ruhlen 1991A</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2014-01-27T15:14:36-05:00</updated-at>
+                  <pri-name>Hokan</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">1021544</id>
+                  <creator-id type="integer">10400</creator-id>
+                  <created-by>gosia</created-by>
+                  <updater-id type="integer">10400</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>gosia</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">26297</tree-id>
+                  <codes>hoka</codes>
+                  <status nil="true"></status>
+                  <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2014-01-27T15:14:35-05:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Amerind: Ruhlen 1991A</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2014-01-27T15:14:35-05:00</updated-at>
+          <pri-name>Central Amerind</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">1021534</id>
+          <creator-id type="integer">10400</creator-id>
+          <created-by>gosia</created-by>
+          <updater-id type="integer">10400</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>gosia</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">26297</tree-id>
+          <codes>came</codes>
+          <status nil="true"></status>
+          <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2014-01-27T15:14:35-05:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Amerind: Ruhlen 1991A</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2014-01-27T15:14:35-05:00</updated-at>
+              <pri-name>Oto-Manguean</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">1021537</id>
+              <creator-id type="integer">10400</creator-id>
+              <created-by>gosia</created-by>
+              <updater-id type="integer">10400</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>gosia</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">26297</tree-id>
+              <codes>otma</codes>
+              <status nil="true"></status>
+              <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2014-01-27T15:14:35-05:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Amerind: Ruhlen 1991A</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2014-01-27T15:14:35-05:00</updated-at>
+              <pri-name>Tanoan</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">1021535</id>
+              <creator-id type="integer">10400</creator-id>
+              <created-by>gosia</created-by>
+              <updater-id type="integer">10400</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>gosia</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">26297</tree-id>
+              <codes>kita</codes>
+              <status nil="true"></status>
+              <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2014-01-27T15:14:35-05:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Amerind: Ruhlen 1991A</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2014-01-27T15:14:35-05:00</updated-at>
+              <pri-name>Uto-Aztecan</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">1021536</id>
+              <creator-id type="integer">10400</creator-id>
+              <created-by>gosia</created-by>
+              <updater-id type="integer">10400</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>gosia</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">26297</tree-id>
+              <codes>utaz</codes>
+              <status nil="true"></status>
+              <publications>Ruhlen, Merritt. 1991. The Amerind Phylum and the Prehistory of the New World. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 328-350. Stanford, California: Stanford University Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

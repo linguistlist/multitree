@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <node-type-id type="integer">10000</node-type-id>
+      <updater-id type="integer">10740</updater-id>
+      <pri-name>Timotean</pri-name>
+      <deleted-at nil="true"></deleted-at>
+      <updated-at type="datetime">2013-05-22T10:02:16-04:00</updated-at>
+      <tree-val>Timotean: Campbell, Grondona 2012</tree-val>
+      <sureness type="integer">0</sureness>
+      <node-type>Subgroup</node-type>
+      <is-default type="integer">0</is-default>
+      <id type="integer">870906</id>
+      <end-date nil="true"></end-date>
+      <created-at type="datetime">2013-05-22T10:02:16-04:00</created-at>
+      <confidence>y</confidence>
+      <pub-comments>It is not clear whether Timote and Cuica are separate languages or dialects of a single language. Timote may survive as Mut&#250; [Loco, Mut&#250;s], an unstudied language (cf. Adelaar 2004:125, Fabre 1998:803);, though Migliazza and Campbell (1988:313) considered Mut&#250; unclassified.  Loukotka (1968:253) included additionally also Mucutu (Bailadores), of which he said nothing was known, and Migur&#237;.</pub-comments>
+      <status nil="true"></status>
+      <codes>tmte</codes>
+      <children type="array">
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <updater-id type="integer">10740</updater-id>
+          <pri-name>Timote-Cuica</pri-name>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2013-05-22T10:02:16-04:00</updated-at>
+          <tree-val>Timotean: Campbell, Grondona 2012</tree-val>
+          <sureness type="integer">-1</sureness>
+          <node-type>Language</node-type>
+          <is-default type="integer">0</is-default>
+          <id type="integer">870907</id>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2013-05-22T10:02:16-04:00</created-at>
+          <confidence>y</confidence>
+          <pub-comments></pub-comments>
+          <status>Extinct</status>
+          <codes>qpj</codes>
+          <children type="array"/>
+          <geography nil="true"></geography>
+          <start-date nil="true"></start-date>
+          <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+          <node-status-id type="integer">10000</node-status-id>
+          <creator-id type="integer">10740</creator-id>
+          <updated-by>joe_leif</updated-by>
+          <other-codes></other-codes>
+          <created-by>joe_leif</created-by>
+          <alt-names>Miguri, Cuica</alt-names>
+          <tree-id type="integer">21962</tree-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <updater-id type="integer">10740</updater-id>
+          <pri-name>Mucuch&#237;-Marip&#250;</pri-name>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2013-05-22T10:02:17-04:00</updated-at>
+          <tree-val>Timotean: Campbell, Grondona 2012</tree-val>
+          <sureness type="integer">0</sureness>
+          <node-type>Language</node-type>
+          <is-default type="integer">0</is-default>
+          <id type="integer">870908</id>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2013-05-22T10:02:16-04:00</created-at>
+          <confidence>y</confidence>
+          <pub-comments></pub-comments>
+          <status>Extinct</status>
+          <codes>qcx</codes>
+          <children type="array"/>
+          <geography nil="true"></geography>
+          <start-date nil="true"></start-date>
+          <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+          <node-status-id type="integer">10000</node-status-id>
+          <creator-id type="integer">10740</creator-id>
+          <updated-by>joe_leif</updated-by>
+          <other-codes></other-codes>
+          <created-by>joe_leif</created-by>
+          <alt-names>Mococh&#237;; Mirrip&#250;</alt-names>
+          <tree-id type="integer">21962</tree-id>
+        </child>
+      </children>
+      <geography>Venezuela</geography>
+      <start-date nil="true"></start-date>
+      <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+      <node-status-id nil="true"></node-status-id>
+      <creator-id type="integer">10740</creator-id>
+      <updated-by>joe_leif</updated-by>
+      <other-codes></other-codes>
+      <created-by>joe_leif</created-by>
+      <alt-names>Timote-Cuica</alt-names>
+      <tree-id type="integer">21962</tree-id>
+    </root>
+    <description>Timotean: Campbell, Grondona 2012</description>
+  </tree>
+</hash>

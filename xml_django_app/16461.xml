@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Central America</region>    <region>Central America</region>
+    <root>
+      <pub-comments></pub-comments>
+      <node-type>Stock</node-type>
+      <id type="integer">676552</id>
+      <geography>Mexico, Honduras</geography>
+      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 52. London, New York: Routledge. </publications>
+      <pri-name>Hokan</pri-name>
+      <end-date nil="true"></end-date>
+      <created-by>joe_leif</created-by>
+      <updated-by>joe_leif</updated-by>
+      <other-codes></other-codes>
+      <node-type-id type="integer">10005</node-type-id>
+      <is-default type="integer">0</is-default>
+      <creator-id type="integer">10740</creator-id>
+      <updater-id type="integer">10740</updater-id>
+      <status nil="true"></status>
+      <start-date>Around 3,500 BC</start-date>
+      <deleted-at nil="true"></deleted-at>
+      <codes>hoka</codes>
+      <children type="array">
+        <child>
+          <pub-comments></pub-comments>
+          <node-type>Subgroup</node-type>
+          <id type="integer">676553</id>
+          <geography nil="true"></geography>
+          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 52. London, New York: Routledge. </publications>
+          <pri-name>Southern Hokan</pri-name>
+          <end-date nil="true"></end-date>
+          <created-by>joe_leif</created-by>
+          <updated-by>joe_leif</updated-by>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10000</node-type-id>
+          <is-default type="integer">0</is-default>
+          <creator-id type="integer">10740</creator-id>
+          <updater-id type="integer">10740</updater-id>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <deleted-at nil="true"></deleted-at>
+          <codes>shok</codes>
+          <children type="array">
+            <child>
+              <pub-comments>"The Tol people and their languages have usually been called 'Jicaque', but this is a term of abuse:  in Kich&#233; it means 'wild Indian, savage, cannibal', which obviously comes from a vernacular and derogatory Spanish usage" (pg. 52).</pub-comments>
+              <node-type>Subgroup</node-type>
+              <id type="integer">676557</id>
+              <geography>Honduras</geography>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 52. London, New York: Routledge. </publications>
+              <pri-name>Tol</pri-name>
+              <end-date nil="true"></end-date>
+              <created-by>joe_leif</created-by>
+              <updated-by>joe_leif</updated-by>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10000</node-type-id>
+              <is-default type="integer">0</is-default>
+              <creator-id type="integer">10740</creator-id>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <deleted-at nil="true"></deleted-at>
+              <codes>tool</codes>
+              <children type="array">
+                <child>
+                  <pub-comments></pub-comments>
+                  <node-type>Language</node-type>
+                  <id type="integer">676558</id>
+                  <geography nil="true"></geography>
+                  <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 52. London, New York: Routledge. </publications>
+                  <pri-name>Western Tol</pri-name>
+                  <end-date nil="true"></end-date>
+                  <created-by>joe_leif</created-by>
+                  <updated-by>joe_leif</updated-by>
+                  <other-codes></other-codes>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <creator-id type="integer">10740</creator-id>
+                  <updater-id type="integer">10740</updater-id>
+                  <status>Extinct</status>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <codes>jic</codes>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <tree-val>Hokan: Kaufman 2007</tree-val>
+                  <created-at type="datetime">2010-01-05T18:17:48-05:00</created-at>
+                  <confidence>n</confidence>
+                  <updated-at type="datetime">2010-01-05T18:17:48-05:00</updated-at>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <tree-id type="integer">16461</tree-id>
+                  <sureness type="integer">-1</sureness>
+                </child>
+                <child>
+                  <pub-comments>350 Speakers.</pub-comments>
+                  <node-type>Language</node-type>
+                  <id type="integer">676559</id>
+                  <geography>Honduras</geography>
+                  <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 52. London, New York: Routledge. </publications>
+                  <pri-name>Eastern Tol</pri-name>
+                  <end-date nil="true"></end-date>
+                  <created-by>joe_leif</created-by>
+                  <updated-by>joe_leif</updated-by>
+                  <other-codes></other-codes>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <creator-id type="integer">10740</creator-id>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <codes>jic</codes>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <tree-val>Hokan: Kaufman 2007</tree-val>
+                  <created-at type="datetime">2010-01-05T18:17:48-05:00</created-at>
+                  <confidence>n</confidence>
+                  <updated-at type="datetime">2010-01-05T18:17:48-05:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-id type="integer">16461</tree-id>
+                  <sureness type="integer">-1</sureness>
+                </child>
+              </children>
+              <alt-names>Jicaque</alt-names>
+              <tree-val>Hokan: Kaufman 2007</tree-val>
+              <created-at type="datetime">2010-01-05T18:17:48-05:00</created-at>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2010-01-05T18:17:48-05:00</updated-at>
+              <node-status-id nil="true"></node-status-id>
+              <tree-id type="integer">16461</tree-id>
+              <sureness type="integer">-1</sureness>
+            </child>
+            <child>
+              <pub-comments>4,500 speakers.</pub-comments>
+              <node-type>Subgroup</node-type>
+              <id type="integer">676554</id>
+              <geography>Oaxaco</geography>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 52. London, New York: Routledge. </publications>
+              <pri-name>Chont&#225;l</pri-name>
+              <end-date nil="true"></end-date>
+              <created-by>joe_leif</created-by>
+              <updated-by>joe_leif</updated-by>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10000</node-type-id>
+              <is-default type="integer">0</is-default>
+              <creator-id type="integer">10740</creator-id>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <deleted-at nil="true"></deleted-at>
+              <codes>chot</codes>
+              <children type="array">
+                <child>
+                  <pub-comments></pub-comments>
+                  <node-type>Dialect Group</node-type>
+                  <id type="integer">676555</id>
+                  <geography nil="true"></geography>
+                  <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 52. London, New York: Routledge. </publications>
+                  <pri-name>Lowland Chontal</pri-name>
+                  <end-date nil="true"></end-date>
+                  <created-by>joe_leif</created-by>
+                  <updated-by>joe_leif</updated-by>
+                  <other-codes></other-codes>
+                  <node-type-id type="integer">10004</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <creator-id type="integer">10740</creator-id>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <codes>clo</codes>
+                  <children type="array"/>
+                  <alt-names>Huamelulteco</alt-names>
+                  <tree-val>Hokan: Kaufman 2007</tree-val>
+                  <created-at type="datetime">2010-01-05T18:17:48-05:00</created-at>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2010-01-05T18:17:48-05:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-id type="integer">16461</tree-id>
+                  <sureness type="integer">-1</sureness>
+                </child>
+                <child>
+                  <pub-comments></pub-comments>
+                  <node-type>Dialect Group</node-type>
+                  <id type="integer">676556</id>
+                  <geography nil="true"></geography>
+                  <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 52. London, New York: Routledge. </publications>
+                  <pri-name>Highland Chontal</pri-name>
+                  <end-date nil="true"></end-date>
+                  <created-by>joe_leif</created-by>
+                  <updated-by>joe_leif</updated-by>
+                  <other-codes></other-codes>
+                  <node-type-id type="integer">10004</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <creator-id type="integer">10740</creator-id>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <codes>chd</codes>
+                  <children type="array"/>
+                  <alt-names>Tequistlateco</alt-names>
+                  <tree-val>Hokan: Kaufman 2007</tree-val>
+                  <created-at type="datetime">2010-01-05T18:17:48-05:00</created-at>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2010-01-05T18:17:48-05:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-id type="integer">16461</tree-id>
+                  <sureness type="integer">-1</sureness>
+                </child>
+              </children>
+              <alt-names>Tequistlateco</alt-names>
+              <tree-val>Hokan: Kaufman 2007</tree-val>
+              <created-at type="datetime">2010-01-05T18:17:48-05:00</created-at>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2010-01-05T18:17:48-05:00</updated-at>
+              <node-status-id nil="true"></node-status-id>
+              <tree-id type="integer">16461</tree-id>
+              <sureness type="integer">-1</sureness>
+            </child>
+          </children>
+          <alt-names></alt-names>
+          <tree-val>Hokan: Kaufman 2007</tree-val>
+          <created-at type="datetime">2010-01-05T18:17:47-05:00</created-at>
+          <confidence>y</confidence>
+          <updated-at type="datetime">2010-01-05T18:17:48-05:00</updated-at>
+          <node-status-id nil="true"></node-status-id>
+          <tree-id type="integer">16461</tree-id>
+          <sureness type="integer">-1</sureness>
+        </child>
+      </children>
+      <alt-names></alt-names>
+      <tree-val>Hokan: Kaufman 2007</tree-val>
+      <created-at type="datetime">2010-01-05T18:17:47-05:00</created-at>
+      <confidence>y</confidence>
+      <updated-at type="datetime">2010-01-05T18:17:47-05:00</updated-at>
+      <node-status-id nil="true"></node-status-id>
+      <tree-id type="integer">16461</tree-id>
+      <sureness type="integer">-1</sureness>
+    </root>
+    <description>Hokan: Kaufman 2007</description>
+  </tree>
+</hash>

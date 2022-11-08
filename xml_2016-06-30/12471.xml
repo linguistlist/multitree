@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <is-default type="integer">0</is-default>
+      <alt-names></alt-names>
+      <pri-name>Yuracare</pri-name>
+      <node-status-id nil="true"></node-status-id>
+      <created-by>joe_leif</created-by>
+      <codes>yrcr</codes>
+      <end-date nil="true"></end-date>
+      <creator-id type="integer">10740</creator-id>
+      <sureness type="integer">0</sureness>
+      <status nil="true"></status>
+      <start-date nil="true"></start-date>
+      <updated-by>joe_leif</updated-by>
+      <other-codes></other-codes>
+      <node-type-id type="integer">10000</node-type-id>
+      <geography nil="true"></geography>
+      <children type="array">
+        <child>
+          <is-default type="integer">0</is-default>
+          <alt-names></alt-names>
+          <pri-name>Yuracare</pri-name>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <codes>yuz</codes>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <sureness type="integer">0</sureness>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <updated-by>joe_leif</updated-by>
+          <other-codes>yrc</other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Country: Bolivia; Lat.: -16.58; Long.: -65.25</geography>
+          <children type="array"/>
+          <created-at type="datetime">2009-05-19T18:39:53-04:00</created-at>
+          <tree-id type="integer">12471</tree-id>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 641. New York: Oxford University Press. ISBN 0199255911</publications>
+          <id type="integer">418165</id>
+          <updated-at type="datetime">2009-05-19T18:39:53-04:00</updated-at>
+          <tree-val>Yuracare: Dryer 2005</tree-val>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <pub-comments></pub-comments>
+          <node-type>Language</node-type>
+          <deleted-at nil="true"></deleted-at>
+        </child>
+      </children>
+      <created-at type="datetime">2009-05-19T18:39:53-04:00</created-at>
+      <tree-id type="integer">12471</tree-id>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 641. New York: Oxford University Press. ISBN 0199255911</publications>
+      <id type="integer">418164</id>
+      <updated-at type="datetime">2009-05-19T18:39:53-04:00</updated-at>
+      <tree-val>Yuracare: Dryer 2005</tree-val>
+      <confidence>y</confidence>
+      <updater-id type="integer">10740</updater-id>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <node-type>Subgroup</node-type>
+      <deleted-at nil="true"></deleted-at>
+    </root>
+    <description>Yuracare: Dryer 2005</description>
+  </tree>
+</hash>

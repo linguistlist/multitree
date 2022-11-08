@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <creator-id type="integer">10740</creator-id>
+      <created-at type="datetime">2008-07-29T09:55:53-04:00</created-at>
+      <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+      <pri-name>Eskimo-Aleut</pri-name>
+      <node-status-id nil="true"></node-status-id>
+      <geography nil="true"></geography>
+      <codes>eska</codes>
+      <other-codes></other-codes>
+      <node-type>Subgroup</node-type>
+      <alt-names></alt-names>
+      <sureness type="integer">0</sureness>
+      <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+      <id type="integer">44516</id>
+      <deleted-at nil="true"></deleted-at>
+      <updated-by>joe_leif</updated-by>
+      <tree-id type="integer">10268</tree-id>
+      <status nil="true"></status>
+      <pub-comments></pub-comments>
+      <confidence>y</confidence>
+      <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+      <created-by>joe_leif</created-by>
+      <children type="array">
+        <child>
+          <creator-id type="integer">10740</creator-id>
+          <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+          <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+          <pri-name>Aleut</pri-name>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <codes>ale</codes>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <alt-names></alt-names>
+          <sureness type="integer">0</sureness>
+          <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+          <id type="integer">44517</id>
+          <deleted-at nil="true"></deleted-at>
+          <updated-by>joe_leif</updated-by>
+          <tree-id type="integer">10268</tree-id>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <confidence>y</confidence>
+          <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+          <created-by>joe_leif</created-by>
+          <children type="array">
+            <child>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+              <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+              <pri-name>Western Aleut</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Attu, Commander Islands (Copper Island)</geography>
+              <codes>ale-wes</codes>
+              <other-codes></other-codes>
+              <node-type>Dialect Group</node-type>
+              <alt-names>Attuan</alt-names>
+              <sureness type="integer">0</sureness>
+              <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+              <id type="integer">44518</id>
+              <deleted-at nil="true"></deleted-at>
+              <updated-by>joe_leif</updated-by>
+              <tree-id type="integer">10268</tree-id>
+              <status nil="true"></status>
+              <pub-comments></pub-comments>
+              <confidence>y</confidence>
+              <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+              <created-by>joe_leif</created-by>
+              <children type="array">
+                <child>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+                  <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+                  <pri-name>Attuan Aleut</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography>Attu</geography>
+                  <codes>ale-att</codes>
+                  <other-codes></other-codes>
+                  <node-type>Dialect</node-type>
+                  <alt-names></alt-names>
+                  <sureness type="integer">0</sureness>
+                  <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                  <id type="integer">44519</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-id type="integer">10268</tree-id>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <confidence>y</confidence>
+                  <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <children type="array"/>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10740</updater-id>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10003</node-type-id>
+                </child>
+                <child>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+                  <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+                  <pri-name>Copper Island Aleut</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography>Commander Islands (Copper Island)</geography>
+                  <codes>mud</codes>
+                  <other-codes></other-codes>
+                  <node-type>Dialect</node-type>
+                  <alt-names></alt-names>
+                  <sureness type="integer">0</sureness>
+                  <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                  <id type="integer">44520</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-id type="integer">10268</tree-id>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <confidence>y</confidence>
+                  <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <children type="array"/>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10740</updater-id>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10003</node-type-id>
+                </child>
+              </children>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10740</updater-id>
+              <start-date nil="true"></start-date>
+              <end-date nil="true"></end-date>
+              <node-type-id type="integer">10004</node-type-id>
+            </child>
+            <child>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+              <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+              <pri-name>Central Aleut</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Atka, Commander Islands (Bering Island)</geography>
+              <codes>ale-cen</codes>
+              <other-codes></other-codes>
+              <node-type>Dialect Group</node-type>
+              <alt-names>Atkan, Rat-Andreanov-Atka</alt-names>
+              <sureness type="integer">0</sureness>
+              <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+              <id type="integer">44521</id>
+              <deleted-at nil="true"></deleted-at>
+              <updated-by>joe_leif</updated-by>
+              <tree-id type="integer">10268</tree-id>
+              <status nil="true"></status>
+              <pub-comments></pub-comments>
+              <confidence>y</confidence>
+              <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+              <created-by>joe_leif</created-by>
+              <children type="array">
+                <child>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+                  <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+                  <pri-name>Atkan Aleut</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography>Atka</geography>
+                  <codes>ale-atk</codes>
+                  <other-codes></other-codes>
+                  <node-type>Dialect</node-type>
+                  <alt-names></alt-names>
+                  <sureness type="integer">0</sureness>
+                  <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                  <id type="integer">44522</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-id type="integer">10268</tree-id>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <confidence>y</confidence>
+                  <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <children type="array"/>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10740</updater-id>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10003</node-type-id>
+                </child>
+                <child>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+                  <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+                  <pri-name>Bering Island Aleut</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography>Commander Islands (Bering Island)</geography>
+                  <codes>ale-ber</codes>
+                  <other-codes></other-codes>
+                  <node-type>Dialect</node-type>
+                  <alt-names></alt-names>
+                  <sureness type="integer">0</sureness>
+                  <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                  <id type="integer">44523</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-id type="integer">10268</tree-id>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <confidence>y</confidence>
+                  <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <children type="array"/>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10740</updater-id>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10003</node-type-id>
+                </child>
+              </children>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10740</updater-id>
+              <start-date nil="true"></start-date>
+              <end-date nil="true"></end-date>
+              <node-type-id type="integer">10004</node-type-id>
+            </child>
+            <child>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+              <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+              <pri-name>Eastern Aleut</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Atka to Alaska Peninsula</geography>
+              <codes>ale-eas</codes>
+              <other-codes></other-codes>
+              <node-type>Dialect</node-type>
+              <alt-names></alt-names>
+              <sureness type="integer">0</sureness>
+              <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+              <id type="integer">44524</id>
+              <deleted-at nil="true"></deleted-at>
+              <updated-by>joe_leif</updated-by>
+              <tree-id type="integer">10268</tree-id>
+              <status nil="true"></status>
+              <pub-comments></pub-comments>
+              <confidence>y</confidence>
+              <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+              <created-by>joe_leif</created-by>
+              <children type="array"/>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10740</updater-id>
+              <start-date nil="true"></start-date>
+              <end-date nil="true"></end-date>
+              <node-type-id type="integer">10003</node-type-id>
+            </child>
+            <child>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+              <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+              <pri-name>Kurile Aleut</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Commander Islands (Bering Island)</geography>
+              <codes>ale-kur</codes>
+              <other-codes></other-codes>
+              <node-type>Dialect</node-type>
+              <alt-names></alt-names>
+              <sureness type="integer">0</sureness>
+              <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+              <id type="integer">44525</id>
+              <deleted-at nil="true"></deleted-at>
+              <updated-by>joe_leif</updated-by>
+              <tree-id type="integer">10268</tree-id>
+              <status nil="true"></status>
+              <pub-comments>Called Kurile Aleut because the Russians deployed Aleuts as otter hunters along the north Pacific Rim (California to the Kurile Islands) during the 18th and 19th centuries.  They were later moved to Kamchatka then Bering Island in the Commanders.</pub-comments>
+              <confidence>y</confidence>
+              <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+              <created-by>joe_leif</created-by>
+              <children type="array"/>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10740</updater-id>
+              <start-date nil="true"></start-date>
+              <end-date nil="true"></end-date>
+              <node-type-id type="integer">10003</node-type-id>
+            </child>
+          </children>
+          <is-default type="integer">0</is-default>
+          <updater-id type="integer">10740</updater-id>
+          <start-date nil="true"></start-date>
+          <end-date nil="true"></end-date>
+          <node-type-id type="integer">10001</node-type-id>
+        </child>
+        <child>
+          <creator-id type="integer">10740</creator-id>
+          <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+          <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+          <pri-name>Eskimo</pri-name>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <codes>eski</codes>
+          <other-codes></other-codes>
+          <node-type>Subgroup</node-type>
+          <alt-names></alt-names>
+          <sureness type="integer">0</sureness>
+          <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+          <id type="integer">44526</id>
+          <deleted-at nil="true"></deleted-at>
+          <updated-by>joe_leif</updated-by>
+          <tree-id type="integer">10268</tree-id>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <confidence>y</confidence>
+          <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+          <created-by>joe_leif</created-by>
+          <children type="array">
+            <child>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+              <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+              <pri-name>Yupik</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <geography nil="true"></geography>
+              <codes>yupi</codes>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <alt-names></alt-names>
+              <sureness type="integer">0</sureness>
+              <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+              <id type="integer">44527</id>
+              <deleted-at nil="true"></deleted-at>
+              <updated-by>joe_leif</updated-by>
+              <tree-id type="integer">10268</tree-id>
+              <status nil="true"></status>
+              <pub-comments></pub-comments>
+              <confidence>y</confidence>
+              <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+              <created-by>joe_leif</created-by>
+              <children type="array">
+                <child>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+                  <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+                  <pri-name>Siberian Yupik</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography nil="true"></geography>
+                  <codes>sibr</codes>
+                  <other-codes></other-codes>
+                  <node-type>Subgroup</node-type>
+                  <alt-names>Siberian</alt-names>
+                  <sureness type="integer">0</sureness>
+                  <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                  <id type="integer">44528</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-id type="integer">10268</tree-id>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <confidence>y</confidence>
+                  <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <children type="array">
+                    <child>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+                      <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+                      <pri-name>Sirenik</pri-name>
+                      <node-status-id type="integer">10001</node-status-id>
+                      <geography nil="true"></geography>
+                      <codes>ysr</codes>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <alt-names>Sirenikski, Old Sirenik, Vuteen</alt-names>
+                      <sureness type="integer">0</sureness>
+                      <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                      <id type="integer">44529</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">10268</tree-id>
+                      <status>Nearly Extinct</status>
+                      <pub-comments></pub-comments>
+                      <confidence>y</confidence>
+                      <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <children type="array"/>
+                      <is-default type="integer">0</is-default>
+                      <updater-id type="integer">10740</updater-id>
+                      <start-date nil="true"></start-date>
+                      <end-date nil="true"></end-date>
+                      <node-type-id type="integer">10001</node-type-id>
+                    </child>
+                    <child>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+                      <updated-at type="datetime">2010-06-03T10:49:39-04:00</updated-at>
+                      <pri-name>Chaplino-Naukan</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <codes>ess, ess-cha, ynk</codes>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <alt-names></alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                      <id type="integer">44530</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">10268</tree-id>
+                      <status nil="true"></status>
+                      <pub-comments></pub-comments>
+                      <confidence>y</confidence>
+                      <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <children type="array">
+                        <child>
+                          <creator-id type="integer">10740</creator-id>
+                          <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+                          <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+                          <pri-name>Naukan</pri-name>
+                          <node-status-id nil="true"></node-status-id>
+                          <geography nil="true"></geography>
+                          <codes>ynk</codes>
+                          <other-codes></other-codes>
+                          <node-type>Dialect</node-type>
+                          <alt-names>Naukanski</alt-names>
+                          <sureness type="integer">0</sureness>
+                          <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                          <id type="integer">44531</id>
+                          <deleted-at nil="true"></deleted-at>
+                          <updated-by>joe_leif</updated-by>
+                          <tree-id type="integer">10268</tree-id>
+                          <status nil="true"></status>
+                          <pub-comments></pub-comments>
+                          <confidence>y</confidence>
+                          <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                          <created-by>joe_leif</created-by>
+                          <children type="array"/>
+                          <is-default type="integer">0</is-default>
+                          <updater-id type="integer">10740</updater-id>
+                          <start-date nil="true"></start-date>
+                          <end-date nil="true"></end-date>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                        <child>
+                          <creator-id type="integer">10740</creator-id>
+                          <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+                          <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+                          <pri-name>Chaplino</pri-name>
+                          <node-status-id nil="true"></node-status-id>
+                          <geography nil="true"></geography>
+                          <codes>ess-cha</codes>
+                          <other-codes></other-codes>
+                          <node-type>Dialect</node-type>
+                          <alt-names>St. Lawrence Island</alt-names>
+                          <sureness type="integer">0</sureness>
+                          <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                          <id type="integer">44532</id>
+                          <deleted-at nil="true"></deleted-at>
+                          <updated-by>joe_leif</updated-by>
+                          <tree-id type="integer">10268</tree-id>
+                          <status nil="true"></status>
+                          <pub-comments></pub-comments>
+                          <confidence>y</confidence>
+                          <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                          <created-by>joe_leif</created-by>
+                          <children type="array"/>
+                          <is-default type="integer">0</is-default>
+                          <updater-id type="integer">10740</updater-id>
+                          <start-date nil="true"></start-date>
+                          <end-date nil="true"></end-date>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                      </children>
+                      <is-default type="integer">0</is-default>
+                      <updater-id type="integer">10740</updater-id>
+                      <start-date nil="true"></start-date>
+                      <end-date nil="true"></end-date>
+                      <node-type-id type="integer">10001</node-type-id>
+                    </child>
+                  </children>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10740</updater-id>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10000</node-type-id>
+                </child>
+              </children>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10740</updater-id>
+              <start-date nil="true"></start-date>
+              <end-date nil="true"></end-date>
+              <node-type-id type="integer">10000</node-type-id>
+            </child>
+            <child>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+              <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+              <pri-name>Alaskan Yupik</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <geography nil="true"></geography>
+              <codes>alas</codes>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <alt-names></alt-names>
+              <sureness type="integer">0</sureness>
+              <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+              <id type="integer">44533</id>
+              <deleted-at nil="true"></deleted-at>
+              <updated-by>joe_leif</updated-by>
+              <tree-id type="integer">10268</tree-id>
+              <status nil="true"></status>
+              <pub-comments></pub-comments>
+              <confidence>y</confidence>
+              <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+              <created-by>joe_leif</created-by>
+              <children type="array">
+                <child>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+                  <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+                  <pri-name>Central Alaskan Yupik</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography nil="true"></geography>
+                  <codes>esu</codes>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <alt-names>Central Yupik, Yupik</alt-names>
+                  <sureness type="integer">0</sureness>
+                  <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                  <id type="integer">44534</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-id type="integer">10268</tree-id>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <confidence>y</confidence>
+                  <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <children type="array"/>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10740</updater-id>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                </child>
+                <child>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+                  <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+                  <pri-name>Pacific Yupik</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography nil="true"></geography>
+                  <codes>ems</codes>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <alt-names></alt-names>
+                  <sureness type="integer">0</sureness>
+                  <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                  <id type="integer">44535</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-id type="integer">10268</tree-id>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <confidence>y</confidence>
+                  <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <children type="array"/>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10740</updater-id>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                </child>
+              </children>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10740</updater-id>
+              <start-date nil="true"></start-date>
+              <end-date nil="true"></end-date>
+              <node-type-id type="integer">10000</node-type-id>
+            </child>
+            <child>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+              <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+              <pri-name>Inuit</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <geography nil="true"></geography>
+              <codes>esk, esi, kal, ikt, ike</codes>
+              <other-codes></other-codes>
+              <node-type>Language</node-type>
+              <alt-names>Eskimo, Inupiat</alt-names>
+              <sureness type="integer">0</sureness>
+              <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+              <id type="integer">44536</id>
+              <deleted-at nil="true"></deleted-at>
+              <updated-by>joe_leif</updated-by>
+              <tree-id type="integer">10268</tree-id>
+              <status nil="true"></status>
+              <pub-comments></pub-comments>
+              <confidence>y</confidence>
+              <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+              <created-by>joe_leif</created-by>
+              <children type="array">
+                <child>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+                  <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+                  <pri-name>Imaklik</pri-name>
+                  <node-status-id type="integer">10001</node-status-id>
+                  <geography>Big Diomede Island</geography>
+                  <codes>esk.esi.kal.ikt.ike-ima</codes>
+                  <other-codes></other-codes>
+                  <node-type>Dialect</node-type>
+                  <alt-names></alt-names>
+                  <sureness type="integer">0</sureness>
+                  <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                  <id type="integer">44537</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-id type="integer">10268</tree-id>
+                  <status>Nearly Extinct</status>
+                  <pub-comments></pub-comments>
+                  <confidence>y</confidence>
+                  <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <children type="array"/>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10740</updater-id>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10003</node-type-id>
+                </child>
+                <child>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+                  <updated-at type="datetime">2008-07-29T09:55:54-04:00</updated-at>
+                  <pri-name>Alaskan Inuit</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography nil="true"></geography>
+                  <codes>esi, esk</codes>
+                  <other-codes></other-codes>
+                  <node-type>Dialect Group</node-type>
+                  <alt-names></alt-names>
+                  <sureness type="integer">0</sureness>
+                  <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                  <id type="integer">44538</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-id type="integer">10268</tree-id>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <confidence>y</confidence>
+                  <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <children type="array">
+                    <child>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-at type="datetime">2008-07-29T09:55:54-04:00</created-at>
+                      <updated-at type="datetime">2008-07-29T09:55:55-04:00</updated-at>
+                      <pri-name>Norton Sound and Seward Peninsula Inuit</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <codes>esk-spi, esu-nor</codes>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <alt-names></alt-names>
+                      <sureness type="integer">0</sureness>
+                      <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                      <id type="integer">44539</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">10268</tree-id>
+                      <status nil="true"></status>
+                      <pub-comments></pub-comments>
+                      <confidence>y</confidence>
+                      <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <children type="array"/>
+                      <is-default type="integer">0</is-default>
+                      <updater-id type="integer">10740</updater-id>
+                      <start-date nil="true"></start-date>
+                      <end-date nil="true"></end-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                    <child>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-at type="datetime">2008-07-29T09:55:55-04:00</created-at>
+                      <updated-at type="datetime">2008-07-29T09:55:55-04:00</updated-at>
+                      <pri-name>Kobuk and Noatak, Northwest Inuit</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <codes>esi.esk-kob</codes>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <alt-names></alt-names>
+                      <sureness type="integer">0</sureness>
+                      <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                      <id type="integer">44540</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">10268</tree-id>
+                      <status nil="true"></status>
+                      <pub-comments></pub-comments>
+                      <confidence>y</confidence>
+                      <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <children type="array"/>
+                      <is-default type="integer">0</is-default>
+                      <updater-id type="integer">10740</updater-id>
+                      <start-date nil="true"></start-date>
+                      <end-date nil="true"></end-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                    <child>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-at type="datetime">2008-07-29T09:55:55-04:00</created-at>
+                      <updated-at type="datetime">2008-07-29T09:55:55-04:00</updated-at>
+                      <pri-name>Wainwright, Barrow, Anaktuvuk Pass, Barter Island Inuit</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <codes>esi.esk-wai</codes>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <alt-names></alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                      <id type="integer">44541</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">10268</tree-id>
+                      <status nil="true"></status>
+                      <pub-comments></pub-comments>
+                      <confidence>y</confidence>
+                      <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <children type="array"/>
+                      <is-default type="integer">0</is-default>
+                      <updater-id type="integer">10740</updater-id>
+                      <start-date nil="true"></start-date>
+                      <end-date nil="true"></end-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                  </children>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10740</updater-id>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10004</node-type-id>
+                </child>
+                <child>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-at type="datetime">2008-07-29T09:55:55-04:00</created-at>
+                  <updated-at type="datetime">2008-07-29T09:55:55-04:00</updated-at>
+                  <pri-name>Canadian Eskimo</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography nil="true"></geography>
+                  <codes>ikt, ike</codes>
+                  <other-codes></other-codes>
+                  <node-type>Dialect Group</node-type>
+                  <alt-names></alt-names>
+                  <sureness type="integer">-1</sureness>
+                  <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                  <id type="integer">44542</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-id type="integer">10268</tree-id>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <confidence>y</confidence>
+                  <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <children type="array">
+                    <child>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-at type="datetime">2008-07-29T09:55:55-04:00</created-at>
+                      <updated-at type="datetime">2008-07-29T09:55:55-04:00</updated-at>
+                      <pri-name>Eastern Canadian Eskimo</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography>Quebec, Labrador, Baffin Island</geography>
+                      <codes>ike</codes>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <alt-names></alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                      <id type="integer">44543</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">10268</tree-id>
+                      <status nil="true"></status>
+                      <pub-comments></pub-comments>
+                      <confidence>y</confidence>
+                      <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <children type="array"/>
+                      <is-default type="integer">0</is-default>
+                      <updater-id type="integer">10740</updater-id>
+                      <start-date nil="true"></start-date>
+                      <end-date nil="true"></end-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                    <child>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-at type="datetime">2008-07-29T09:55:55-04:00</created-at>
+                      <updated-at type="datetime">2008-07-29T09:55:55-04:00</updated-at>
+                      <pri-name>Central Canadian Eskimo</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography>Keewatin and north thereof</geography>
+                      <codes>ikt.ike-cen</codes>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <alt-names></alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                      <id type="integer">44544</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">10268</tree-id>
+                      <status nil="true"></status>
+                      <pub-comments></pub-comments>
+                      <confidence>y</confidence>
+                      <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <children type="array"/>
+                      <is-default type="integer">0</is-default>
+                      <updater-id type="integer">10740</updater-id>
+                      <start-date nil="true"></start-date>
+                      <end-date nil="true"></end-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                    <child>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-at type="datetime">2008-07-29T09:55:55-04:00</created-at>
+                      <updated-at type="datetime">2008-07-29T09:55:55-04:00</updated-at>
+                      <pri-name>Western Canadian Eskimo</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography>Mackenzie District</geography>
+                      <codes>ikt</codes>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <alt-names></alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                      <id type="integer">44545</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">10268</tree-id>
+                      <status nil="true"></status>
+                      <pub-comments></pub-comments>
+                      <confidence>y</confidence>
+                      <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <children type="array"/>
+                      <is-default type="integer">0</is-default>
+                      <updater-id type="integer">10740</updater-id>
+                      <start-date nil="true"></start-date>
+                      <end-date nil="true"></end-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                  </children>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10740</updater-id>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10004</node-type-id>
+                </child>
+                <child>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-at type="datetime">2008-07-29T09:55:55-04:00</created-at>
+                  <updated-at type="datetime">2008-07-29T09:55:55-04:00</updated-at>
+                  <pri-name>Greenlandic</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography nil="true"></geography>
+                  <codes>kal</codes>
+                  <other-codes></other-codes>
+                  <node-type>Dialect Group</node-type>
+                  <alt-names></alt-names>
+                  <sureness type="integer">0</sureness>
+                  <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                  <id type="integer">44546</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-id type="integer">10268</tree-id>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <confidence>y</confidence>
+                  <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <children type="array">
+                    <child>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-at type="datetime">2008-07-29T09:55:55-04:00</created-at>
+                      <updated-at type="datetime">2008-07-29T09:55:55-04:00</updated-at>
+                      <pri-name>East Greenlandic</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography>Angmagssalik and Scoresbysund</geography>
+                      <codes>kal-eas</codes>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <alt-names></alt-names>
+                      <sureness type="integer">0</sureness>
+                      <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                      <id type="integer">44547</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">10268</tree-id>
+                      <status nil="true"></status>
+                      <pub-comments></pub-comments>
+                      <confidence>y</confidence>
+                      <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <children type="array"/>
+                      <is-default type="integer">0</is-default>
+                      <updater-id type="integer">10740</updater-id>
+                      <start-date nil="true"></start-date>
+                      <end-date nil="true"></end-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                    <child>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-at type="datetime">2008-07-29T09:55:55-04:00</created-at>
+                      <updated-at type="datetime">2008-07-29T09:55:55-04:00</updated-at>
+                      <pri-name>Polar Greenlandic</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography>Thule</geography>
+                      <codes>kal-pol</codes>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <alt-names></alt-names>
+                      <sureness type="integer">0</sureness>
+                      <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                      <id type="integer">44548</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">10268</tree-id>
+                      <status nil="true"></status>
+                      <pub-comments></pub-comments>
+                      <confidence>y</confidence>
+                      <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <children type="array"/>
+                      <is-default type="integer">0</is-default>
+                      <updater-id type="integer">10740</updater-id>
+                      <start-date nil="true"></start-date>
+                      <end-date nil="true"></end-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                    <child>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-at type="datetime">2008-07-29T09:55:55-04:00</created-at>
+                      <updated-at type="datetime">2008-07-29T09:55:55-04:00</updated-at>
+                      <pri-name>West Greenlandic</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography>West Coast from Kap Farvel north to beyond Upernavik</geography>
+                      <codes>kal-wes</codes>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <alt-names></alt-names>
+                      <sureness type="integer">0</sureness>
+                      <publications>Krauss, Michael E. 1976. Eskimo-Aleut, Native Languages of the Americas, vol. 1, 182-281. New York: Plenum Press. ISBN 0-306-37157-X</publications>
+                      <id type="integer">44549</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">10268</tree-id>
+                      <status nil="true"></status>
+                      <pub-comments></pub-comments>
+                      <confidence>y</confidence>
+                      <tree-val>Eskimo-Aleut: Krauss 1976</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <children type="array"/>
+                      <is-default type="integer">0</is-default>
+                      <updater-id type="integer">10740</updater-id>
+                      <start-date nil="true"></start-date>
+                      <end-date nil="true"></end-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                    </child>
+                  </children>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10740</updater-id>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                  <node-type-id type="integer">10004</node-type-id>
+                </child>
+              </children>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10740</updater-id>
+              <start-date nil="true"></start-date>
+              <end-date nil="true"></end-date>
+              <node-type-id type="integer">10001</node-type-id>
+            </child>
+          </children>
+          <is-default type="integer">0</is-default>
+          <updater-id type="integer">10740</updater-id>
+          <start-date nil="true"></start-date>
+          <end-date nil="true"></end-date>
+          <node-type-id type="integer">10000</node-type-id>
+        </child>
+      </children>
+      <is-default type="integer">0</is-default>
+      <updater-id type="integer">10740</updater-id>
+      <start-date nil="true"></start-date>
+      <end-date nil="true"></end-date>
+      <node-type-id type="integer">10000</node-type-id>
+    </root>
+    <description>Eskimo-Aleut: Krauss 1976</description>
+  </tree>
+</hash>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <description>Huarpean: Composite</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2010-04-13T12:26:45-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Huarpean: Composite</tree-val>
+      <pub-comments>Huarpe and Millcayac could be dialects or languages.</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2010-04-13T12:26:45-04:00</updated-at>
+      <pri-name>Huarpean</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">true</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">688385</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names>Warpean</alt-names>
+      <tree-id type="integer">17163</tree-id>
+      <codes>hrpe</codes>
+      <status nil="true"></status>
+      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 71. London, New York: Routledge. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-04-13T12:26:45-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Huarpean: Composite</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <updated-at type="datetime">2010-04-13T12:26:45-04:00</updated-at>
+          <pri-name>Millcayac</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">true</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">-1</sureness>
+          <id type="integer">688387</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>San Luis, Argentina</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Milykayak</alt-names>
+          <tree-id type="integer">17163</tree-id>
+          <codes>qgb</codes>
+          <status>Extinct</status>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 71. London, New York: Routledge. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-04-13T12:26:45-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Huarpean: Composite</tree-val>
+          <pub-comments>Kaufman considers this a language area.</pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <updated-at type="datetime">2010-04-13T12:26:45-04:00</updated-at>
+          <pri-name>Huarpe</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">true</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">-1</sureness>
+          <id type="integer">688386</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Allentiac</alt-names>
+          <tree-id type="integer">17163</tree-id>
+          <codes>qbt</codes>
+          <status>Extinct</status>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 71. London, New York: Routledge. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-04-13T12:26:45-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Huarpean: Composite</tree-val>
+              <pub-comments>Kaufman calls this an 'emergent language', which signifies that it is not quite distinct from other languages in the language area.</pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2010-04-13T12:26:45-04:00</updated-at>
+              <pri-name>Alyentiyak</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">true</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">688388</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Mendoza, Argentina</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names>Allentiac</alt-names>
+              <tree-id type="integer">17163</tree-id>
+              <codes>qbt</codes>
+              <status>Extinct</status>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 71. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

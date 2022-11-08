@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <node-type-id type="integer">10000</node-type-id>
+      <deleted-at nil="true"></deleted-at>
+      <id type="integer">608421</id>
+      <created-at type="datetime">2009-09-01T17:20:15-04:00</created-at>
+      <codes>chum</codes>
+      <updated-by>joe_leif</updated-by>
+      <geography nil="true"></geography>
+      <sureness type="integer">0</sureness>
+      <end-date nil="true"></end-date>
+      <confidence>y</confidence>
+      <tree-id type="integer">15297</tree-id>
+      <status nil="true"></status>
+      <children type="array">
+        <child>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <node-type-id type="integer">10001</node-type-id>
+          <deleted-at nil="true"></deleted-at>
+          <id type="integer">608422</id>
+          <created-at type="datetime">2009-09-01T17:20:15-04:00</created-at>
+          <codes>boi</codes>
+          <updated-by>joe_leif</updated-by>
+          <geography>Country: United States; Lat.: 34.5; Long.: -120.25</geography>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <confidence>y</confidence>
+          <tree-id type="integer">15297</tree-id>
+          <status nil="true"></status>
+          <children type="array"/>
+          <updated-at type="datetime">2009-09-01T17:20:15-04:00</updated-at>
+          <start-date nil="true"></start-date>
+          <node-type>Language</node-type>
+          <creator-id type="integer">10740</creator-id>
+          <tree-val>Chumash: Dryer 2005</tree-val>
+          <updater-id type="integer">10740</updater-id>
+          <pri-name>Chumash (Barbare&#241;o)</pri-name>
+          <other-codes>cba</other-codes>
+          <is-default type="integer">0</is-default>
+          <created-by>joe_leif</created-by>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 631. New York: Oxford University Press. ISBN 0199255911</publications>
+          <alt-names>Barbare&#241;o</alt-names>
+        </child>
+        <child>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <node-type-id type="integer">10001</node-type-id>
+          <deleted-at nil="true"></deleted-at>
+          <id type="integer">608423</id>
+          <created-at type="datetime">2009-09-01T17:20:15-04:00</created-at>
+          <codes>inz</codes>
+          <updated-by>joe_leif</updated-by>
+          <geography>Country: United States; Lat.: 34.67; Long.: -120.25</geography>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <confidence>y</confidence>
+          <tree-id type="integer">15297</tree-id>
+          <status nil="true"></status>
+          <children type="array"/>
+          <updated-at type="datetime">2009-09-01T17:20:15-04:00</updated-at>
+          <start-date nil="true"></start-date>
+          <node-type>Language</node-type>
+          <creator-id type="integer">10740</creator-id>
+          <tree-val>Chumash: Dryer 2005</tree-val>
+          <updater-id type="integer">10740</updater-id>
+          <pri-name>Chumash (Inese&#241;o)</pri-name>
+          <other-codes>cin</other-codes>
+          <is-default type="integer">0</is-default>
+          <created-by>joe_leif</created-by>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 631. New York: Oxford University Press. ISBN 0199255911</publications>
+          <alt-names>Inese&#241;o</alt-names>
+        </child>
+      </children>
+      <updated-at type="datetime">2009-09-01T17:20:15-04:00</updated-at>
+      <start-date nil="true"></start-date>
+      <node-type>Subgroup</node-type>
+      <creator-id type="integer">10740</creator-id>
+      <tree-val>Chumash: Dryer 2005</tree-val>
+      <updater-id type="integer">10740</updater-id>
+      <pri-name>Chumash</pri-name>
+      <other-codes></other-codes>
+      <is-default type="integer">0</is-default>
+      <created-by>joe_leif</created-by>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 631. New York: Oxford University Press. ISBN 0199255911</publications>
+      <alt-names></alt-names>
+    </root>
+    <description>Chumash: Dryer 2005</description>
+  </tree>
+</hash>

@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Central America</region>    <region>North America</region>
+    <root>
+      <is-default type="integer">0</is-default>
+      <updated-at type="datetime">2010-01-28T12:25:54-05:00</updated-at>
+      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+      <pri-name>Yuta-Nawan</pri-name>
+      <pub-comments>"This stock [is] traditionally called 'Uto-Aztecan'" pg. 52.</pub-comments>
+      <children type="array">
+        <child>
+          <is-default type="integer">0</is-default>
+          <updated-at type="datetime">2010-01-28T12:25:55-05:00</updated-at>
+          <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+          <pri-name>Southern Yuta-Nawan</pri-name>
+          <pub-comments></pub-comments>
+          <children type="array">
+            <child>
+              <is-default type="integer">0</is-default>
+              <updated-at type="datetime">2010-01-28T12:25:59-05:00</updated-at>
+              <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+              <pri-name>Nawan</pri-name>
+              <pub-comments>"Just what kind of Nawa was spoken by the Nicaraos, a Nawa-speaking group of Nicaragua, cannot be determined, owing to lack of data" pg. 52.</pub-comments>
+              <children type="array">
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <updated-at type="datetime">2010-01-28T12:25:59-05:00</updated-at>
+                  <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                  <pri-name>Nawa</pri-name>
+                  <pub-comments>Labelled by Kaufman as a "Language Area" spoken by 1,532,600 people.</pub-comments>
+                  <children type="array">
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-05-11T14:01:42-04:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Eastern Nawa</pri-name>
+                      <pub-comments>Labelled by Kaufman as a "Dialect Area".</pub-comments>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>nhe, npl</codes>
+                      <alt-names></alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography>Puebla and Veracruz</geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status nil="true"></status>
+                      <node-type>Dialect Group</node-type>
+                      <id type="integer">682217</id>
+                      <created-at type="datetime">2010-01-28T12:26:00-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                    </child>
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-01-28T12:26:00-05:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Pipil</pri-name>
+                      <pub-comments>Labelled by Kaufman as an "Emergent Language" and spoken by 20 people.</pub-comments>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>ppl</codes>
+                      <alt-names></alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography>El Salvador</geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status nil="true"></status>
+                      <node-type>Dialect</node-type>
+                      <id type="integer">682218</id>
+                      <created-at type="datetime">2010-01-28T12:26:00-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                    </child>
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-01-28T12:26:00-05:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Western Nawa</pri-name>
+                      <pub-comments>Labelled by Kaufman as a "Dialect Area".</pub-comments>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>ncx, nhw</codes>
+                      <alt-names></alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography>Michoacan and Durango</geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status nil="true"></status>
+                      <node-type>Dialect Group</node-type>
+                      <id type="integer">682215</id>
+                      <created-at type="datetime">2010-01-28T12:26:00-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                    </child>
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-01-28T12:26:00-05:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Northern Nawa</pri-name>
+                      <pub-comments>Labelled by Kaufman as a "Dialect Area".</pub-comments>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>nhy, ncj</codes>
+                      <alt-names></alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography>Hidalgo, San Luis Potis&#237;, Veracruz, and Puebla</geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status nil="true"></status>
+                      <node-type>Dialect Group</node-type>
+                      <id type="integer">682216</id>
+                      <created-at type="datetime">2010-01-28T12:26:00-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                    </child>
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-01-28T12:26:00-05:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Central Nawa</pri-name>
+                      <pub-comments>Labelled by Kaufman as a "Dialect Area".</pub-comments>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>nhn, nch, ncx</codes>
+                      <alt-names></alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography>Guerrero, Puebla, Mexico, Tlaxcala, and Morelos</geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status nil="true"></status>
+                      <node-type>Dialect Group</node-type>
+                      <id type="integer">682214</id>
+                      <created-at type="datetime">2010-01-28T12:25:59-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                    </child>
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-01-28T12:26:00-05:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Pinotl</pri-name>
+                      <pub-comments>Undocumented language.</pub-comments>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>083</codes>
+                      <alt-names></alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>n</confidence>
+                      <geography nil="true"></geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status nil="true"></status>
+                      <node-type>Language</node-type>
+                      <id type="integer">682219</id>
+                      <created-at type="datetime">2010-01-28T12:26:00-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                    </child>
+                  </children>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>aztc</codes>
+                  <alt-names>Nahuatl</alt-names>
+                  <sureness type="integer">-1</sureness>
+                  <created-by>joe_leif</created-by>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <geography nil="true"></geography>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-id type="integer">16535</tree-id>
+                  <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <status nil="true"></status>
+                  <node-type>Language</node-type>
+                  <id type="integer">682213</id>
+                  <created-at type="datetime">2010-01-28T12:25:59-05:00</created-at>
+                  <start-date>900 CE</start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <updated-at type="datetime">2010-01-28T12:25:59-05:00</updated-at>
+                  <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                  <pri-name>Pochuteko</pri-name>
+                  <pub-comments></pub-comments>
+                  <children type="array"/>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>xpo</codes>
+                  <alt-names></alt-names>
+                  <sureness type="integer">-1</sureness>
+                  <created-by>joe_leif</created-by>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <geography nil="true"></geography>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-id type="integer">16535</tree-id>
+                  <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <status>Extinct</status>
+                  <node-type>Language</node-type>
+                  <id type="integer">682212</id>
+                  <created-at type="datetime">2010-01-28T12:25:59-05:00</created-at>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-status-id type="integer">10000</node-status-id>
+                </child>
+              </children>
+              <creator-id type="integer">10740</creator-id>
+              <codes>azte</codes>
+              <alt-names></alt-names>
+              <sureness type="integer">-1</sureness>
+              <created-by>joe_leif</created-by>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <geography nil="true"></geography>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <tree-id type="integer">16535</tree-id>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <status nil="true"></status>
+              <node-type>Subgroup</node-type>
+              <id type="integer">682211</id>
+              <created-at type="datetime">2010-01-28T12:25:59-05:00</created-at>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <updated-at type="datetime">2010-01-28T12:25:55-05:00</updated-at>
+              <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+              <pri-name>Sonoran</pri-name>
+              <pub-comments></pub-comments>
+              <children type="array">
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <updated-at type="datetime">2010-01-28T12:25:57-05:00</updated-at>
+                  <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                  <pri-name>Taraumara Warijiyo</pri-name>
+                  <pub-comments>Labelled by Kaufman as a "Language Area".</pub-comments>
+                  <children type="array">
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-01-28T12:25:58-05:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Maculai</pri-name>
+                      <pub-comments>Listed by Kaufman as a possible dialect or separate language and included here as a language.</pub-comments>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>var</codes>
+                      <alt-names></alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>n</confidence>
+                      <geography nil="true"></geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status nil="true"></status>
+                      <node-type>Language</node-type>
+                      <id type="integer">682203</id>
+                      <created-at type="datetime">2010-01-28T12:25:58-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                    </child>
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-01-28T12:25:58-05:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Taraumara</pri-name>
+                      <pub-comments>65,400 speakers.</pub-comments>
+                      <children type="array">
+                        <child>
+                          <is-default type="integer">0</is-default>
+                          <updated-at type="datetime">2010-01-28T12:25:58-05:00</updated-at>
+                          <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                          <pri-name>South-western</pri-name>
+                          <pub-comments></pub-comments>
+                          <children type="array"/>
+                          <creator-id type="integer">10740</creator-id>
+                          <codes>twr</codes>
+                          <alt-names>Tubare</alt-names>
+                          <sureness type="integer">-1</sureness>
+                          <created-by>joe_leif</created-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <geography>Chihuahua</geography>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <tree-id type="integer">16535</tree-id>
+                          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                          <other-codes></other-codes>
+                          <end-date nil="true"></end-date>
+                          <status nil="true"></status>
+                          <node-type>Dialect</node-type>
+                          <id type="integer">682198</id>
+                          <created-at type="datetime">2010-01-28T12:25:58-05:00</created-at>
+                          <start-date nil="true"></start-date>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <node-status-id nil="true"></node-status-id>
+                        </child>
+                        <child>
+                          <is-default type="integer">0</is-default>
+                          <updated-at type="datetime">2010-01-28T12:25:58-05:00</updated-at>
+                          <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                          <pri-name>Central</pri-name>
+                          <pub-comments></pub-comments>
+                          <children type="array"/>
+                          <creator-id type="integer">10740</creator-id>
+                          <codes>tar</codes>
+                          <alt-names>Samachique</alt-names>
+                          <sureness type="integer">-1</sureness>
+                          <created-by>joe_leif</created-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <geography>Chihuahua</geography>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <tree-id type="integer">16535</tree-id>
+                          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                          <other-codes></other-codes>
+                          <end-date nil="true"></end-date>
+                          <status nil="true"></status>
+                          <node-type>Dialect</node-type>
+                          <id type="integer">682196</id>
+                          <created-at type="datetime">2010-01-28T12:25:58-05:00</created-at>
+                          <start-date nil="true"></start-date>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <node-status-id nil="true"></node-status-id>
+                        </child>
+                        <child>
+                          <is-default type="integer">0</is-default>
+                          <updated-at type="datetime">2010-01-28T12:25:58-05:00</updated-at>
+                          <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                          <pri-name>Western</pri-name>
+                          <pub-comments></pub-comments>
+                          <children type="array"/>
+                          <creator-id type="integer">10740</creator-id>
+                          <codes>tac</codes>
+                          <alt-names>Rocoroibo</alt-names>
+                          <sureness type="integer">-1</sureness>
+                          <created-by>joe_leif</created-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <geography>Chihuahua</geography>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <tree-id type="integer">16535</tree-id>
+                          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                          <other-codes></other-codes>
+                          <end-date nil="true"></end-date>
+                          <status nil="true"></status>
+                          <node-type>Dialect</node-type>
+                          <id type="integer">682199</id>
+                          <created-at type="datetime">2010-01-28T12:25:58-05:00</created-at>
+                          <start-date nil="true"></start-date>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <node-status-id nil="true"></node-status-id>
+                        </child>
+                        <child>
+                          <is-default type="integer">0</is-default>
+                          <updated-at type="datetime">2010-01-28T12:25:58-05:00</updated-at>
+                          <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                          <pri-name>Northern</pri-name>
+                          <pub-comments></pub-comments>
+                          <children type="array"/>
+                          <creator-id type="integer">10740</creator-id>
+                          <codes>thh</codes>
+                          <alt-names>Ariseachi</alt-names>
+                          <sureness type="integer">-1</sureness>
+                          <created-by>joe_leif</created-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <geography>Chihuahua</geography>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <tree-id type="integer">16535</tree-id>
+                          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                          <other-codes></other-codes>
+                          <end-date nil="true"></end-date>
+                          <status nil="true"></status>
+                          <node-type>Dialect</node-type>
+                          <id type="integer">682197</id>
+                          <created-at type="datetime">2010-01-28T12:25:58-05:00</created-at>
+                          <start-date nil="true"></start-date>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <node-status-id nil="true"></node-status-id>
+                        </child>
+                      </children>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>tcu, tar, thh, twr, tac</codes>
+                      <alt-names>Tarahumara</alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography nil="true"></geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status nil="true"></status>
+                      <node-type>Language</node-type>
+                      <id type="integer">682195</id>
+                      <created-at type="datetime">2010-01-28T12:25:57-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                    </child>
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-01-28T12:25:58-05:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Warijiyo</pri-name>
+                      <pub-comments>5,000 speakers.</pub-comments>
+                      <children type="array">
+                        <child>
+                          <is-default type="integer">0</is-default>
+                          <updated-at type="datetime">2010-01-28T12:25:58-05:00</updated-at>
+                          <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                          <pri-name>Highland</pri-name>
+                          <pub-comments></pub-comments>
+                          <children type="array"/>
+                          <creator-id type="integer">10740</creator-id>
+                          <codes>var-hig</codes>
+                          <alt-names></alt-names>
+                          <sureness type="integer">-1</sureness>
+                          <created-by>joe_leif</created-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <geography>Chihuahua</geography>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <tree-id type="integer">16535</tree-id>
+                          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                          <other-codes></other-codes>
+                          <end-date nil="true"></end-date>
+                          <status nil="true"></status>
+                          <node-type>Dialect</node-type>
+                          <id type="integer">682201</id>
+                          <created-at type="datetime">2010-01-28T12:25:58-05:00</created-at>
+                          <start-date nil="true"></start-date>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <node-status-id nil="true"></node-status-id>
+                        </child>
+                        <child>
+                          <is-default type="integer">0</is-default>
+                          <updated-at type="datetime">2010-01-28T12:25:58-05:00</updated-at>
+                          <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                          <pri-name>Lowland</pri-name>
+                          <pub-comments></pub-comments>
+                          <children type="array"/>
+                          <creator-id type="integer">10740</creator-id>
+                          <codes>var-low</codes>
+                          <alt-names></alt-names>
+                          <sureness type="integer">-1</sureness>
+                          <created-by>joe_leif</created-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <geography>Chihuahua</geography>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <tree-id type="integer">16535</tree-id>
+                          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                          <other-codes></other-codes>
+                          <end-date nil="true"></end-date>
+                          <status nil="true"></status>
+                          <node-type>Dialect</node-type>
+                          <id type="integer">682202</id>
+                          <created-at type="datetime">2010-01-28T12:25:58-05:00</created-at>
+                          <start-date nil="true"></start-date>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <node-status-id nil="true"></node-status-id>
+                        </child>
+                      </children>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>var</codes>
+                      <alt-names>Guarij&#237;o</alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography nil="true"></geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status nil="true"></status>
+                      <node-type>Language</node-type>
+                      <id type="integer">682200</id>
+                      <created-at type="datetime">2010-01-28T12:25:58-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                    </child>
+                  </children>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>tarn</codes>
+                  <alt-names></alt-names>
+                  <sureness type="integer">-1</sureness>
+                  <created-by>joe_leif</created-by>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <geography nil="true"></geography>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-id type="integer">16535</tree-id>
+                  <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <status nil="true"></status>
+                  <node-type>Language</node-type>
+                  <id type="integer">682194</id>
+                  <created-at type="datetime">2010-01-28T12:25:57-05:00</created-at>
+                  <start-date>1300 CE</start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <updated-at type="datetime">2010-01-28T12:25:56-05:00</updated-at>
+                  <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                  <pri-name>Opata-Eudeve</pri-name>
+                  <pub-comments>Labelled by Kaufman as a "Language Area" .</pub-comments>
+                  <children type="array">
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-01-28T12:25:57-05:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Eudeve</pri-name>
+                      <pub-comments></pub-comments>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>opt</codes>
+                      <alt-names></alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography nil="true"></geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status>Extinct</status>
+                      <node-type>Language</node-type>
+                      <id type="integer">682185</id>
+                      <created-at type="datetime">2010-01-28T12:25:56-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <node-status-id type="integer">10000</node-status-id>
+                    </child>
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-01-28T12:25:56-05:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Opata</pri-name>
+                      <pub-comments></pub-comments>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>opt</codes>
+                      <alt-names></alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography nil="true"></geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status>Extinct</status>
+                      <node-type>Language</node-type>
+                      <id type="integer">682184</id>
+                      <created-at type="datetime">2010-01-28T12:25:56-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <node-status-id type="integer">10000</node-status-id>
+                    </child>
+                  </children>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>opat</codes>
+                  <alt-names></alt-names>
+                  <sureness type="integer">-1</sureness>
+                  <created-by>joe_leif</created-by>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <geography nil="true"></geography>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-id type="integer">16535</tree-id>
+                  <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <status nil="true"></status>
+                  <node-type>Language</node-type>
+                  <id type="integer">682183</id>
+                  <created-at type="datetime">2010-01-28T12:25:56-05:00</created-at>
+                  <start-date>1300 CE</start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <updated-at type="datetime">2010-01-28T12:25:55-05:00</updated-at>
+                  <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                  <pri-name>Kahita</pri-name>
+                  <pub-comments>56,400 speakers.</pub-comments>
+                  <children type="array">
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-01-28T12:25:55-05:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Mayo</pri-name>
+                      <pub-comments>40,000 speakers.</pub-comments>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>mfy</codes>
+                      <alt-names></alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography nil="true"></geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status nil="true"></status>
+                      <node-type>Dialect</node-type>
+                      <id type="integer">682180</id>
+                      <created-at type="datetime">2010-01-28T12:25:55-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                    </child>
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-01-28T12:25:55-05:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Yaki</pri-name>
+                      <pub-comments>16,400 speakers.</pub-comments>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>yaq</codes>
+                      <alt-names>Yaqui</alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography nil="true"></geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status nil="true"></status>
+                      <node-type>Dialect</node-type>
+                      <id type="integer">682179</id>
+                      <created-at type="datetime">2010-01-28T12:25:55-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                    </child>
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-01-28T12:25:56-05:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Teweko</pri-name>
+                      <pub-comments></pub-comments>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>0wt</codes>
+                      <alt-names>Tehueco</alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography nil="true"></geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status>Extinct</status>
+                      <node-type>Dialect</node-type>
+                      <id type="integer">682181</id>
+                      <created-at type="datetime">2010-01-28T12:25:55-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <node-status-id type="integer">10000</node-status-id>
+                    </child>
+                  </children>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>cahi</codes>
+                  <alt-names>Cahita</alt-names>
+                  <sureness type="integer">-1</sureness>
+                  <created-by>joe_leif</created-by>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <geography>Sonora</geography>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-id type="integer">16535</tree-id>
+                  <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <status nil="true"></status>
+                  <node-type>Language</node-type>
+                  <id type="integer">682178</id>
+                  <created-at type="datetime">2010-01-28T12:25:55-05:00</created-at>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <updated-at type="datetime">2010-01-28T12:25:57-05:00</updated-at>
+                  <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                  <pri-name>Tepiman</pri-name>
+                  <pub-comments>Labelled by Kaufman as a "Language Area".</pub-comments>
+                  <children type="array">
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-01-28T12:25:57-05:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Pima-P&#225;pago, N&#233;vome</pri-name>
+                      <pub-comments>Labelled by Kaufman as an "Emergent Language" with 15,000 speakers.</pub-comments>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>ood</codes>
+                      <alt-names></alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography>Sonora</geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status nil="true"></status>
+                      <node-type>Dialect</node-type>
+                      <id type="integer">682187</id>
+                      <created-at type="datetime">2010-01-28T12:25:57-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                    </child>
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-01-28T12:25:57-05:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Southern Tepewan</pri-name>
+                      <pub-comments>Labelled by Kaufman as an "Emergent Language".</pub-comments>
+                      <children type="array">
+                        <child>
+                          <is-default type="integer">0</is-default>
+                          <updated-at type="datetime">2010-01-28T12:25:57-05:00</updated-at>
+                          <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                          <pri-name>South-west Tepewan</pri-name>
+                          <pub-comments>6,000 speakers.</pub-comments>
+                          <children type="array"/>
+                          <creator-id type="integer">10740</creator-id>
+                          <codes>tla</codes>
+                          <alt-names></alt-names>
+                          <sureness type="integer">-1</sureness>
+                          <created-by>joe_leif</created-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <geography>Durango</geography>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <tree-id type="integer">16535</tree-id>
+                          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                          <other-codes></other-codes>
+                          <end-date nil="true"></end-date>
+                          <status nil="true"></status>
+                          <node-type>Dialect</node-type>
+                          <id type="integer">682192</id>
+                          <created-at type="datetime">2010-01-28T12:25:57-05:00</created-at>
+                          <start-date nil="true"></start-date>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <node-status-id nil="true"></node-status-id>
+                        </child>
+                        <child>
+                          <is-default type="integer">0</is-default>
+                          <updated-at type="datetime">2010-01-28T12:25:57-05:00</updated-at>
+                          <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                          <pri-name>Tepekano</pri-name>
+                          <pub-comments></pub-comments>
+                          <children type="array"/>
+                          <creator-id type="integer">10740</creator-id>
+                          <codes>tep</codes>
+                          <alt-names>Tepecano</alt-names>
+                          <sureness type="integer">-1</sureness>
+                          <created-by>joe_leif</created-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <geography nil="true"></geography>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <tree-id type="integer">16535</tree-id>
+                          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                          <other-codes></other-codes>
+                          <end-date nil="true"></end-date>
+                          <status>Extinct</status>
+                          <node-type>Dialect</node-type>
+                          <id type="integer">682193</id>
+                          <created-at type="datetime">2010-01-28T12:25:57-05:00</created-at>
+                          <start-date nil="true"></start-date>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <node-status-id type="integer">10000</node-status-id>
+                        </child>
+                        <child>
+                          <is-default type="integer">0</is-default>
+                          <updated-at type="datetime">2010-01-28T12:25:57-05:00</updated-at>
+                          <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                          <pri-name>South-east Tepewan</pri-name>
+                          <pub-comments>8,000 speakers.</pub-comments>
+                          <children type="array"/>
+                          <creator-id type="integer">10740</creator-id>
+                          <codes>stp</codes>
+                          <alt-names></alt-names>
+                          <sureness type="integer">-1</sureness>
+                          <created-by>joe_leif</created-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <geography>Durango</geography>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <tree-id type="integer">16535</tree-id>
+                          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                          <other-codes></other-codes>
+                          <end-date nil="true"></end-date>
+                          <status nil="true"></status>
+                          <node-type>Dialect</node-type>
+                          <id type="integer">682191</id>
+                          <created-at type="datetime">2010-01-28T12:25:57-05:00</created-at>
+                          <start-date nil="true"></start-date>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <node-status-id nil="true"></node-status-id>
+                        </child>
+                      </children>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>tla, stp</codes>
+                      <alt-names>Southern Tepehuan</alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography nil="true"></geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status nil="true"></status>
+                      <node-type>Dialect Group</node-type>
+                      <id type="integer">682190</id>
+                      <created-at type="datetime">2010-01-28T12:25:57-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                    </child>
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-01-28T12:25:57-05:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Mountain Pima</pri-name>
+                      <pub-comments>Labelled by Kaufman as an "Emergent Language" with 800 speakers.</pub-comments>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>pia</codes>
+                      <alt-names>Pima Bajo</alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography>Sonora</geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status nil="true"></status>
+                      <node-type>Dialect</node-type>
+                      <id type="integer">682188</id>
+                      <created-at type="datetime">2010-01-28T12:25:57-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                    </child>
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-01-28T12:25:57-05:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Northern Tepewan</pri-name>
+                      <pub-comments>Labelled by Kaufman as an "Emergent Language" with 8,000 speakers.</pub-comments>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>ntp</codes>
+                      <alt-names>Northern Tepehuan</alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography>Chihuahua</geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status nil="true"></status>
+                      <node-type>Dialect</node-type>
+                      <id type="integer">682189</id>
+                      <created-at type="datetime">2010-01-28T12:25:57-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                    </child>
+                  </children>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>tepi</codes>
+                  <alt-names></alt-names>
+                  <sureness type="integer">-1</sureness>
+                  <created-by>joe_leif</created-by>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <geography nil="true"></geography>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-id type="integer">16535</tree-id>
+                  <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <status nil="true"></status>
+                  <node-type>Language</node-type>
+                  <id type="integer">682186</id>
+                  <created-at type="datetime">2010-01-28T12:25:57-05:00</created-at>
+                  <start-date>1300 CE</start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <updated-at type="datetime">2010-01-28T12:25:58-05:00</updated-at>
+                  <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                  <pri-name>Koran</pri-name>
+                  <pub-comments></pub-comments>
+                  <children type="array">
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-01-28T12:25:59-05:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Koka</pri-name>
+                      <pub-comments>Undocumented language.</pub-comments>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>0oh</codes>
+                      <alt-names></alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography nil="true"></geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status nil="true"></status>
+                      <node-type>Language</node-type>
+                      <id type="integer">682210</id>
+                      <created-at type="datetime">2010-01-28T12:25:59-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                    </child>
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-01-28T12:25:58-05:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Wichol</pri-name>
+                      <pub-comments>20,000 speakers.</pub-comments>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>hch</codes>
+                      <alt-names>Huichol</alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography>Nayarit and Jalisco</geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status nil="true"></status>
+                      <node-type>Language</node-type>
+                      <id type="integer">682206</id>
+                      <created-at type="datetime">2010-01-28T12:25:58-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                    </child>
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-05-25T15:30:28-04:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Tekwexe</pri-name>
+                      <pub-comments>Undocumented language.</pub-comments>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>0xg</codes>
+                      <alt-names></alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography nil="true"></geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status nil="true"></status>
+                      <node-type>Language</node-type>
+                      <id type="integer">682209</id>
+                      <created-at type="datetime">2010-01-28T12:25:59-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                    </child>
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-05-25T15:31:02-04:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Tekoxk&#237;n</pri-name>
+                      <pub-comments>Undocumented language.</pub-comments>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>0xd</codes>
+                      <alt-names></alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography nil="true"></geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status nil="true"></status>
+                      <node-type>Language</node-type>
+                      <id type="integer">682207</id>
+                      <created-at type="datetime">2010-01-28T12:25:58-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                    </child>
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-05-25T15:31:21-04:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Kask&#225;n</pri-name>
+                      <pub-comments>Undocumented language.</pub-comments>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>0w2</codes>
+                      <alt-names></alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography nil="true"></geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status nil="true"></status>
+                      <node-type>Language</node-type>
+                      <id type="integer">682208</id>
+                      <created-at type="datetime">2010-01-28T12:25:59-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                    </child>
+                    <child>
+                      <is-default type="integer">0</is-default>
+                      <updated-at type="datetime">2010-01-28T12:25:58-05:00</updated-at>
+                      <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                      <pri-name>Kora</pri-name>
+                      <pub-comments>15,000 speakers.</pub-comments>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>cok, crn</codes>
+                      <alt-names>Cora</alt-names>
+                      <sureness type="integer">-1</sureness>
+                      <created-by>joe_leif</created-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <geography>Nayarit (and the US)</geography>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-id type="integer">16535</tree-id>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <status nil="true"></status>
+                      <node-type>Language</node-type>
+                      <id type="integer">682205</id>
+                      <created-at type="datetime">2010-01-28T12:25:58-05:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                    </child>
+                  </children>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>cora</codes>
+                  <alt-names></alt-names>
+                  <sureness type="integer">-1</sureness>
+                  <created-by>joe_leif</created-by>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <geography nil="true"></geography>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-id type="integer">16535</tree-id>
+                  <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <status nil="true"></status>
+                  <node-type>Subgroup</node-type>
+                  <id type="integer">682204</id>
+                  <created-at type="datetime">2010-01-28T12:25:58-05:00</created-at>
+                  <start-date>500 CE</start-date>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <updated-at type="datetime">2010-01-28T12:25:56-05:00</updated-at>
+                  <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+                  <pri-name>Tubar</pri-name>
+                  <pub-comments></pub-comments>
+                  <children type="array"/>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>tbu</codes>
+                  <alt-names></alt-names>
+                  <sureness type="integer">-1</sureness>
+                  <created-by>joe_leif</created-by>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <geography nil="true"></geography>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-id type="integer">16535</tree-id>
+                  <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <status>Extinct</status>
+                  <node-type>Language</node-type>
+                  <id type="integer">682182</id>
+                  <created-at type="datetime">2010-01-28T12:25:56-05:00</created-at>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-status-id type="integer">10000</node-status-id>
+                </child>
+              </children>
+              <creator-id type="integer">10740</creator-id>
+              <codes>sono</codes>
+              <alt-names></alt-names>
+              <sureness type="integer">-1</sureness>
+              <created-by>joe_leif</created-by>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <geography nil="true"></geography>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <tree-id type="integer">16535</tree-id>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <status nil="true"></status>
+              <node-type>Subgroup</node-type>
+              <id type="integer">682177</id>
+              <created-at type="datetime">2010-01-28T12:25:55-05:00</created-at>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+          </children>
+          <creator-id type="integer">10740</creator-id>
+          <codes>suaz</codes>
+          <alt-names></alt-names>
+          <sureness type="integer">-1</sureness>
+          <created-by>joe_leif</created-by>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <geography nil="true"></geography>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <tree-id type="integer">16535</tree-id>
+          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <status nil="true"></status>
+          <node-type>Subgroup</node-type>
+          <id type="integer">682176</id>
+          <created-at type="datetime">2010-01-28T12:25:55-05:00</created-at>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+        </child>
+        <child>
+          <is-default type="integer">0</is-default>
+          <updated-at type="datetime">2010-01-28T12:25:55-05:00</updated-at>
+          <tree-val>Yuta-Nawan: Kaufman 2007</tree-val>
+          <pri-name>Northern Yuta-Nawan</pri-name>
+          <pub-comments></pub-comments>
+          <children type="array"/>
+          <creator-id type="integer">10740</creator-id>
+          <codes>nuaz</codes>
+          <alt-names></alt-names>
+          <sureness type="integer">-1</sureness>
+          <created-by>joe_leif</created-by>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <geography nil="true"></geography>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <tree-id type="integer">16535</tree-id>
+          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <status nil="true"></status>
+          <node-type>Subgroup</node-type>
+          <id type="integer">682175</id>
+          <created-at type="datetime">2010-01-28T12:25:54-05:00</created-at>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+        </child>
+      </children>
+      <creator-id type="integer">10740</creator-id>
+      <codes>utaz</codes>
+      <alt-names></alt-names>
+      <sureness type="integer">-1</sureness>
+      <created-by>joe_leif</created-by>
+      <deleted-at nil="true"></deleted-at>
+      <confidence>y</confidence>
+      <geography nil="true"></geography>
+      <updater-id type="integer">10740</updater-id>
+      <updated-by>joe_leif</updated-by>
+      <tree-id type="integer">16535</tree-id>
+      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 54. London, New York: Routledge. </publications>
+      <other-codes></other-codes>
+      <end-date nil="true"></end-date>
+      <status nil="true"></status>
+      <node-type>Stock</node-type>
+      <id type="integer">682174</id>
+      <created-at type="datetime">2010-01-28T12:25:54-05:00</created-at>
+      <start-date>2800 BC</start-date>
+      <node-type-id type="integer">10005</node-type-id>
+      <node-status-id nil="true"></node-status-id>
+    </root>
+    <description>Yuta-Nawan: Kaufman 2007</description>
+  </tree>
+</hash>

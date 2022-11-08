@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <geography nil="true"></geography>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <end-date nil="true"></end-date>
+      <node-status-id nil="true"></node-status-id>
+      <deleted-at nil="true"></deleted-at>
+      <created-at type="datetime">2009-05-19T18:43:53-04:00</created-at>
+      <children type="array">
+        <child>
+          <geography>Country: Bolivia; Lat.: -16.75; Long.: -69</geography>
+          <pub-comments></pub-comments>
+          <end-date nil="true"></end-date>
+          <node-status-id nil="true"></node-status-id>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2009-05-19T18:43:53-04:00</created-at>
+          <children type="array"/>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <pri-name>Uru</pri-name>
+          <updated-by>joe_leif</updated-by>
+          <other-codes>uru</other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <confidence>y</confidence>
+          <status nil="true"></status>
+          <tree-id type="integer">12473</tree-id>
+          <alt-names></alt-names>
+          <node-type>Language</node-type>
+          <is-default type="integer">0</is-default>
+          <id type="integer">418169</id>
+          <creator-id type="integer">10740</creator-id>
+          <updated-at type="datetime">2009-05-19T18:43:53-04:00</updated-at>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 641. New York: Oxford University Press. ISBN 0199255911</publications>
+          <codes>ure</codes>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <tree-val>Uru-Chipaya: Dryer 2005</tree-val>
+        </child>
+      </children>
+      <sureness type="integer">0</sureness>
+      <start-date nil="true"></start-date>
+      <pri-name>Uru-Chipaya</pri-name>
+      <updated-by>joe_leif</updated-by>
+      <other-codes></other-codes>
+      <node-type-id type="integer">10000</node-type-id>
+      <confidence>y</confidence>
+      <status nil="true"></status>
+      <tree-id type="integer">12473</tree-id>
+      <alt-names></alt-names>
+      <node-type>Subgroup</node-type>
+      <is-default type="integer">0</is-default>
+      <id type="integer">418168</id>
+      <creator-id type="integer">10740</creator-id>
+      <updated-at type="datetime">2009-05-19T18:43:53-04:00</updated-at>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 641. New York: Oxford University Press. ISBN 0199255911</publications>
+      <codes>urch</codes>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <tree-val>Uru-Chipaya: Dryer 2005</tree-val>
+    </root>
+    <description>Uru-Chipaya: Dryer 2005</description>
+  </tree>
+</hash>

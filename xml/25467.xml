@@ -1,0 +1,1821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>
+    <region>Europe</region>
+    <description>Uralic (Finno-Ugrian): Salminen 1994</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2013-09-05T13:09:52-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+      <pub-comments></pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2013-09-05T13:09:53-04:00</updated-at>
+      <pri-name>Uralic</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">999879</id>
+      <creator-id type="integer">10520</creator-id>
+      <created-by>uliana</created-by>
+      <updater-id type="integer">10520</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>uliana</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names>Finno-Ugrian, Finno-Ugric</alt-names>
+      <tree-id type="integer">25467</tree-id>
+      <codes>urlc</codes>
+      <status nil="true"></status>
+      <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-09-05T13:09:56-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-09-05T13:09:56-04:00</updated-at>
+          <pri-name>Samoyed</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">999926</id>
+          <creator-id type="integer">10520</creator-id>
+          <created-by>uliana</created-by>
+          <updater-id type="integer">10520</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>uliana</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">25467</tree-id>
+          <codes>smoy</codes>
+          <status nil="true"></status>
+          <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:57-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:57-04:00</updated-at>
+              <pri-name>Selkup</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999935</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Ostyak Samoyed</alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>sel</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-05T13:09:57-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+                  <pub-comments>Population: about 50</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-09-05T13:09:58-04:00</updated-at>
+                  <pri-name>Southern Selkup</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">999938</id>
+                  <creator-id type="integer">10520</creator-id>
+                  <created-by>uliana</created-by>
+                  <updater-id type="integer">10520</updater-id>
+                  <geography>Siberia</geography>
+                  <updated-by>uliana</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25467</tree-id>
+                  <codes>sel-sre, sel-cul, sel-ket, 1or</codes>
+                  <status nil="true"></status>
+                  <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-05T13:09:57-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+                  <pub-comments>Population: about 50</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-09-05T13:09:57-04:00</updated-at>
+                  <pri-name>Central Selkup</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">999937</id>
+                  <creator-id type="integer">10520</creator-id>
+                  <created-by>uliana</created-by>
+                  <updater-id type="integer">10520</updater-id>
+                  <geography>Siberia</geography>
+                  <updated-by>uliana</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25467</tree-id>
+                  <codes>sel-tym, sel-nar, sel-ket, 1op</codes>
+                  <status nil="true"></status>
+                  <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-05T13:09:57-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+                  <pub-comments>Population: 1000</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-09-05T13:09:57-04:00</updated-at>
+                  <pri-name>Northern Selkup</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">999936</id>
+                  <creator-id type="integer">10520</creator-id>
+                  <created-by>uliana</created-by>
+                  <updater-id type="integer">10520</updater-id>
+                  <geography>Siberia</geography>
+                  <updated-by>uliana</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25467</tree-id>
+                  <codes>sel-taz, sel-nar, 1oo</codes>
+                  <status nil="true"></status>
+                  <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:58-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Extinct since 1800s</pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:58-04:00</updated-at>
+              <pri-name>Mator</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999940</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Siberia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>mtm</codes>
+              <status>Extinct</status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date>1800s</end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:57-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:57-04:00</updated-at>
+              <pri-name>Nenets</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999932</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Yurak, Yurak Samoyed</alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>yrk</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.), Salminen, Tapani. 2013. The Yurats langauge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-05T13:09:57-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+                  <pub-comments>Population: 25000</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-09-05T13:09:57-04:00</updated-at>
+                  <pri-name>Tundra Nenets</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">999933</id>
+                  <creator-id type="integer">10520</creator-id>
+                  <created-by>uliana</created-by>
+                  <updater-id type="integer">10520</updater-id>
+                  <geography>Russia, Siberia</geography>
+                  <updated-by>uliana</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25467</tree-id>
+                  <codes>yrk-tun</codes>
+                  <status nil="true"></status>
+                  <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.), Salminen, Tapani. 2013. The Yurats langauge. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-05T13:09:57-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+                  <pub-comments>Population: about 1,500</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-09-05T13:09:57-04:00</updated-at>
+                  <pri-name>Forest Nenets</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">999934</id>
+                  <creator-id type="integer">10520</creator-id>
+                  <created-by>uliana</created-by>
+                  <updater-id type="integer">10520</updater-id>
+                  <geography>Siberia</geography>
+                  <updated-by>uliana</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25467</tree-id>
+                  <codes>yrk-for</codes>
+                  <status nil="true"></status>
+                  <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.), Salminen, Tapani. 2013. The Yurats langauge. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:56-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:56-04:00</updated-at>
+              <pri-name>Enets</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999928</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names>Yenisey Samoyed</alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>enet</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.), Salminen, Tapani. 2013. The Yurats langauge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-05T13:09:56-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+                  <pub-comments>Population: about 30</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-09-05T13:09:57-04:00</updated-at>
+                  <pri-name>Forest Enets</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">999930</id>
+                  <creator-id type="integer">10520</creator-id>
+                  <created-by>uliana</created-by>
+                  <updater-id type="integer">10520</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>uliana</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25467</tree-id>
+                  <codes>enf</codes>
+                  <status nil="true"></status>
+                  <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.), Salminen, Tapani. 2013. The Yurats langauge. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-05T13:09:56-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+                  <pub-comments>Population: about 20</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-09-05T13:09:56-04:00</updated-at>
+                  <pri-name>Tundra Enets</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">999929</id>
+                  <creator-id type="integer">10520</creator-id>
+                  <created-by>uliana</created-by>
+                  <updater-id type="integer">10520</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>uliana</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25467</tree-id>
+                  <codes>enh</codes>
+                  <status nil="true"></status>
+                  <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.), Salminen, Tapani. 2013. The Yurats langauge. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:57-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Extinct since 1800s</pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:57-04:00</updated-at>
+              <pri-name>Yurats</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999931</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Siberia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>1ow</codes>
+              <status>Extinct</status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.), Salminen, Tapani. 2013. The Yurats langauge. </publications>
+              <end-date>1800s</end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:56-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: 500</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:56-04:00</updated-at>
+              <pri-name>Nganasan</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999927</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Siberia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Tavgi, Tavgi Samoyed</alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>nio</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:58-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Extinct since 1989</pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:58-04:00</updated-at>
+              <pri-name>Kamas</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999939</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Siberia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>xas</codes>
+              <status>Extinct</status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date>1989.0</end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-09-05T13:09:55-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-09-05T13:09:55-04:00</updated-at>
+          <pri-name>Mansi</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">999917</id>
+          <creator-id type="integer">10520</creator-id>
+          <created-by>uliana</created-by>
+          <updater-id type="integer">10520</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>uliana</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Vogul</alt-names>
+          <tree-id type="integer">25467</tree-id>
+          <codes>mns</codes>
+          <status nil="true"></status>
+          <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:56-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Extinct since 1900s</pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2013-11-20T10:58:25-05:00</updated-at>
+              <pri-name>Western Mansi</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999920</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10400</updater-id>
+              <geography>Siberia</geography>
+              <updated-by>gosia</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>mns-wes</codes>
+              <status>Extinct</status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date>1900s</end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:55-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: 2500</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-11-20T10:53:09-05:00</updated-at>
+              <pri-name>Northern Mansi</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999918</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10400</updater-id>
+              <geography>Siberia</geography>
+              <updated-by>gosia</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>mns-nor</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:56-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Extinct since 1900s</pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:56-04:00</updated-at>
+              <pri-name>Southern Mansi</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999921</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Russia, Siberia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>mns-sou</codes>
+              <status>Extinct</status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date>1900s</end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:55-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: about 10</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-11-20T11:01:43-05:00</updated-at>
+              <pri-name>Eastern Mansi</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999919</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10400</updater-id>
+              <geography>Siberia</geography>
+              <updated-by>gosia</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>mns-eas</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-09-05T13:09:53-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+          <pub-comments>&#8220;Finnic (rather than &#8220;Baltic-Finnic&#8221; or the like) is the name of the group of closely related languages including Finnish, and... the practice of referring to &#8220;Finno-Permian&#8221;, i.e. all Uralic languages except Hungarian, Mansi, Khanty and Samoyed, as Finnic should be regarded as obsolete&#8221; (Salminen 2012).</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-09-05T13:09:54-04:00</updated-at>
+          <pri-name>Finnic</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">999892</id>
+          <creator-id type="integer">10520</creator-id>
+          <created-by>uliana</created-by>
+          <updater-id type="integer">10520</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>uliana</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">25467</tree-id>
+          <codes>bfin</codes>
+          <status nil="true"></status>
+          <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:54-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: 5000000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:54-04:00</updated-at>
+              <pri-name>Finnish</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999897</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Finland and adjacent areas</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>fin</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:54-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: 5000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:54-04:00</updated-at>
+              <pri-name>Veps</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999902</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Russia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>vep</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:54-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: 200</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:54-04:00</updated-at>
+              <pri-name>Ingrian</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999898</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Russia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>izh</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:54-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: 1</pub-comments>
+              <node-status-id type="integer">10001</node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:54-04:00</updated-at>
+              <pri-name>Livonian</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999893</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Latvia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>liv</codes>
+              <status>Nearly Extinct</status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:54-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: about 3,000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:54-04:00</updated-at>
+              <pri-name>Lude</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999901</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Russia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>lud</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:54-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: 30000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:54-04:00</updated-at>
+              <pri-name>Karelian</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999899</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Finland, Russia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>krl</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:54-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: 20</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:54-04:00</updated-at>
+              <pri-name>Vote</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999896</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Russia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>vot</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:54-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: 1000000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:54-04:00</updated-at>
+              <pri-name>Estonian</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999895</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Estonia and adjacent areas</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>ekk</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:54-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: 25000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:54-04:00</updated-at>
+              <pri-name>Olonetsian</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999900</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Finland (evacuees), Russia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Livvi</alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>olo</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:54-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: 50000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:54-04:00</updated-at>
+              <pri-name>V&#245;ro-Seto</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999894</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Estonia, Russia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>vro</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-09-05T13:09:53-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-09-05T13:09:53-04:00</updated-at>
+          <pri-name>Saami</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">999880</id>
+          <creator-id type="integer">10520</creator-id>
+          <created-by>uliana</created-by>
+          <updater-id type="integer">10520</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>uliana</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names>Lappish, Lapp, S&#225;mi</alt-names>
+          <tree-id type="integer">25467</tree-id>
+          <codes>lapp</codes>
+          <status nil="true"></status>
+          <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:53-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Extinct since 2003</pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:53-04:00</updated-at>
+              <pri-name>Akkala Saami</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999889</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Russia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Babino Saami</alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>sia</codes>
+              <status>Extinct</status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date>2003.0</end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:53-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: about 30000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:53-04:00</updated-at>
+              <pri-name>North Saami</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999885</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Norway, Sweden, Finland</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>sme</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:53-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: 800</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:53-04:00</updated-at>
+              <pri-name>Kildin Saami</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999890</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Russia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>sjd</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:53-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: 300</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:53-04:00</updated-at>
+              <pri-name>Skolt Saami</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999888</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Finland, Russia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>sms</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:53-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Extinct since 1800s</pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:53-04:00</updated-at>
+              <pri-name>Kemi Saami</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999887</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Finland, Russia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>sjk</codes>
+              <status>Extinct</status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date>1800s</end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:53-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: about 20</pub-comments>
+              <node-status-id type="integer">10001</node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:53-04:00</updated-at>
+              <pri-name>Pite Saami</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999883</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Norway (extinct), Sweden</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>sje</codes>
+              <status>Nearly Extinct</status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:53-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: about 2,000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:53-04:00</updated-at>
+              <pri-name>Lule Saami</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999884</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Norway, Sweden</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>smj</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:53-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: 10</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:53-04:00</updated-at>
+              <pri-name>Ter Saami</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999891</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Russia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>sjt</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:53-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: about 500</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:53-04:00</updated-at>
+              <pri-name>South Saami</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999881</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Norway, Sweden</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>sma</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:53-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: about 20</pub-comments>
+              <node-status-id type="integer">10001</node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:53-04:00</updated-at>
+              <pri-name>Ume Saami</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999882</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Norway (extinct), Sweden</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>sju</codes>
+              <status>Nearly Extinct</status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:53-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: 400</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:53-04:00</updated-at>
+              <pri-name>Inari Saami</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999886</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Finland</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>smn</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-09-05T13:09:55-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+          <pub-comments>Population: 14000000</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-09-05T13:09:55-04:00</updated-at>
+          <pri-name>Hungarian</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">999915</id>
+          <creator-id type="integer">10520</creator-id>
+          <created-by>uliana</created-by>
+          <updater-id type="integer">10520</updater-id>
+          <geography>Hungary and adjacent areas</geography>
+          <updated-by>uliana</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">25467</tree-id>
+          <codes>hun</codes>
+          <status nil="true"></status>
+          <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:55-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: about 20,000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:55-04:00</updated-at>
+              <pri-name>Cs&#225;ng&#243; Hungarian</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999916</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Romania</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>hun-csa</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-09-05T13:09:55-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-09-05T13:09:55-04:00</updated-at>
+          <pri-name>Permian</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">999909</id>
+          <creator-id type="integer">10520</creator-id>
+          <created-by>uliana</created-by>
+          <updater-id type="integer">10520</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>uliana</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">25467</tree-id>
+          <codes>perm</codes>
+          <status nil="true"></status>
+          <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:55-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>The author notes that the name Zyryan is used &#8220;in the narrow sense excluding Permyak&#8221; (Salminen 2012).</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:55-04:00</updated-at>
+              <pri-name>Komi</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999911</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names>Zyryan</alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>bvhe</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-05T13:09:55-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+                  <pub-comments>Population: 80000</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-09-05T13:09:55-04:00</updated-at>
+                  <pri-name>Permyak</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">999912</id>
+                  <creator-id type="integer">10520</creator-id>
+                  <created-by>uliana</created-by>
+                  <updater-id type="integer">10520</updater-id>
+                  <geography>Russia</geography>
+                  <updated-by>uliana</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25467</tree-id>
+                  <codes>koi</codes>
+                  <status nil="true"></status>
+                  <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-09-05T13:09:55-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+                      <pub-comments>Population: about 100</pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-09-05T13:09:55-04:00</updated-at>
+                      <pri-name>Yazva Komi</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">999913</id>
+                      <creator-id type="integer">10520</creator-id>
+                      <created-by>uliana</created-by>
+                      <updater-id type="integer">10520</updater-id>
+                      <geography>Russia</geography>
+                      <updated-by>uliana</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">25467</tree-id>
+                      <codes>kpv-yaz</codes>
+                      <status nil="true"></status>
+                      <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-05T13:09:55-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+                  <pub-comments>Population: 220000</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-09-05T13:09:55-04:00</updated-at>
+                  <pri-name>Komi</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">999914</id>
+                  <creator-id type="integer">10520</creator-id>
+                  <created-by>uliana</created-by>
+                  <updater-id type="integer">10520</updater-id>
+                  <geography>Russia</geography>
+                  <updated-by>uliana</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>Komi proper</alt-names>
+                  <tree-id type="integer">25467</tree-id>
+                  <codes>kpv</codes>
+                  <status nil="true"></status>
+                  <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:55-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: 450000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:55-04:00</updated-at>
+              <pri-name>Udmurt</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999910</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Russia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Votyak</alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>udm</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-09-05T13:09:54-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-09-05T13:09:55-04:00</updated-at>
+          <pri-name>Mari</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">999906</id>
+          <creator-id type="integer">10520</creator-id>
+          <created-by>uliana</created-by>
+          <updater-id type="integer">10520</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>uliana</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names>Cheremis</alt-names>
+          <tree-id type="integer">25467</tree-id>
+          <codes>cher</codes>
+          <status nil="true"></status>
+          <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:55-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: 470000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:55-04:00</updated-at>
+              <pri-name>Eastern Mari</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999908</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Russia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Meadow Mari</alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>mhr</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:55-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: 30000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:55-04:00</updated-at>
+              <pri-name>Western Mari</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999907</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Russia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Hill Mari</alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>mrj</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-09-05T13:09:54-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-09-05T13:09:54-04:00</updated-at>
+          <pri-name>Mordvin</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">999903</id>
+          <creator-id type="integer">10520</creator-id>
+          <created-by>uliana</created-by>
+          <updater-id type="integer">10520</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>uliana</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">25467</tree-id>
+          <codes>mord</codes>
+          <status nil="true"></status>
+          <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:54-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: 200000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:54-04:00</updated-at>
+              <pri-name>Moksha</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999905</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Russia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>mdf</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:54-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: 400000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-05T13:09:54-04:00</updated-at>
+              <pri-name>Erzya</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999904</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10520</updater-id>
+              <geography>Russia</geography>
+              <updated-by>uliana</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>myv</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-09-05T13:09:56-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-09-05T13:09:56-04:00</updated-at>
+          <pri-name>Khanty</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">999922</id>
+          <creator-id type="integer">10520</creator-id>
+          <created-by>uliana</created-by>
+          <updater-id type="integer">10520</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>uliana</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Ostyak</alt-names>
+          <tree-id type="integer">25467</tree-id>
+          <codes>kca</codes>
+          <status nil="true"></status>
+          <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:56-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Extinct since 1900s</pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2013-11-20T11:09:07-05:00</updated-at>
+              <pri-name>Southern Khanty</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999925</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10400</updater-id>
+              <geography>Siberia</geography>
+              <updated-by>gosia</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>kca-sou</codes>
+              <status>Extinct</status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date>1900s</end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:56-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: about 3,000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-11-20T11:07:08-05:00</updated-at>
+              <pri-name>Eastern Khanty</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999924</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10400</updater-id>
+              <geography>Siberia</geography>
+              <updated-by>gosia</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>kca-eas</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-05T13:09:56-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic (Finno-Ugrian): Salminen 1994</tree-val>
+              <pub-comments>Population: about 10,000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-11-20T11:04:49-05:00</updated-at>
+              <pri-name>Northern Khanty</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">999923</id>
+              <creator-id type="integer">10520</creator-id>
+              <created-by>uliana</created-by>
+              <updater-id type="integer">10400</updater-id>
+              <geography>Siberia</geography>
+              <updated-by>gosia</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25467</tree-id>
+              <codes>kca-nor</codes>
+              <status nil="true"></status>
+              <publications>Salminen, Tapani. 1994. Uralic (Finno-Ugrian) languages. http://www.helsinki.fi/~tasalmin/fu.html.  (27 August, 2013.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

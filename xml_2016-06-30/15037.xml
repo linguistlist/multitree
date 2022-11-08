@@ -1,0 +1,2071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <node-type-id type="integer">10000</node-type-id>
+      <geography nil="true"></geography>
+      <end-date nil="true"></end-date>
+      <created-at type="datetime">2009-08-04T18:40:56-04:00</created-at>
+      <is-default type="integer">0</is-default>
+      <updated-by>joe_leif</updated-by>
+      <status nil="true"></status>
+      <pub-comments>This chapter follows Kaufman's classification.  Kaufman (1990) classifies the languages of South America into 118 genetic units, of which 70 are isolates and 48 are groups consisting of at least two languages that are unquestionably genetically related.</pub-comments>
+      <start-date nil="true"></start-date>
+      <pri-name>South American Isolates</pri-name>
+      <children type="array">
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Mato Grosso, Rond&#244;nia, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:59-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments>Says the language is distinct from Ava-Canoiero and Kanoe.  This language is sometimes considered a part of the Macro-J&#234; cluster. There is reason to believe that all of these units are related, and research should be undertaken to determine whether this is in fact the case.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Rikbakts&#225;</pri-name>
+          <children type="array"/>
+          <id type="integer">606260</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Aripakts&#225;, Eribatsa, Eripatsa, Caoeiro</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:59-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>rkb</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Chile, Argentina</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:59-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Mapudungu</pri-name>
+          <children type="array">
+            <child>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography>Argentina</geography>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-08-04T18:40:59-04:00</created-at>
+              <is-default type="integer">0</is-default>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <pub-comments>Huilliche is a variety of Mapudungu in Argentina.</pub-comments>
+              <start-date nil="true"></start-date>
+              <pri-name>Huilliche</pri-name>
+              <children type="array"/>
+              <id type="integer">606254</id>
+              <creator-id type="integer">10740</creator-id>
+              <alt-names>Beliche</alt-names>
+              <updated-at type="datetime">2009-08-04T18:40:59-04:00</updated-at>
+              <tree-id type="integer">15037</tree-id>
+              <tree-val>South American Isolates: Campbell 1997</tree-val>
+              <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <other-codes></other-codes>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <codes>huh</codes>
+              <updater-id type="integer">10740</updater-id>
+            </child>
+          </children>
+          <id type="integer">606253</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Araucano, Mapuche, Araucanian</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:59-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>arn</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Guyana, Surinam, Venezuela</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:56-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments>Kaufman groups together his families/genetic units Cunza, Kapixan&#225;, Betoi, Paezan, Barbacoan, Itonama, and Warao in what he calls the Macro-Paesan cluster&#8230;until that work is done, the decision on this broader grouping needs to be held in abeyance.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Warao</pri-name>
+          <children type="array">
+            <child>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-08-04T18:40:57-04:00</created-at>
+              <is-default type="integer">0</is-default>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <pub-comments></pub-comments>
+              <start-date nil="true"></start-date>
+              <pri-name>Cocuina</pri-name>
+              <children type="array"/>
+              <id type="integer">606220</id>
+              <creator-id type="integer">10740</creator-id>
+              <alt-names>M&#225;namo</alt-names>
+              <updated-at type="datetime">2009-08-04T18:40:57-04:00</updated-at>
+              <tree-id type="integer">15037</tree-id>
+              <tree-val>South American Isolates: Campbell 1997</tree-val>
+              <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <other-codes></other-codes>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <codes>wba-coc</codes>
+              <updater-id type="integer">10740</updater-id>
+            </child>
+            <child>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-08-04T18:40:57-04:00</created-at>
+              <is-default type="integer">0</is-default>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <pub-comments></pub-comments>
+              <start-date nil="true"></start-date>
+              <pri-name>Hoanarau</pri-name>
+              <children type="array"/>
+              <id type="integer">606221</id>
+              <creator-id type="integer">10740</creator-id>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-08-04T18:40:57-04:00</updated-at>
+              <tree-id type="integer">15037</tree-id>
+              <tree-val>South American Isolates: Campbell 1997</tree-val>
+              <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <other-codes></other-codes>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <codes>wba-hoa</codes>
+              <updater-id type="integer">10740</updater-id>
+            </child>
+            <child>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-08-04T18:40:57-04:00</created-at>
+              <is-default type="integer">0</is-default>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <pub-comments></pub-comments>
+              <start-date nil="true"></start-date>
+              <pri-name>Araguao</pri-name>
+              <children type="array"/>
+              <id type="integer">606222</id>
+              <creator-id type="integer">10740</creator-id>
+              <alt-names>Mariusa</alt-names>
+              <updated-at type="datetime">2009-08-04T18:40:57-04:00</updated-at>
+              <tree-id type="integer">15037</tree-id>
+              <tree-val>South American Isolates: Campbell 1997</tree-val>
+              <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <other-codes></other-codes>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <codes>wba-ara</codes>
+              <updater-id type="integer">10740</updater-id>
+            </child>
+            <child>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-08-04T18:40:56-04:00</created-at>
+              <is-default type="integer">0</is-default>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <pub-comments></pub-comments>
+              <start-date nil="true"></start-date>
+              <pri-name>Warao</pri-name>
+              <children type="array"/>
+              <id type="integer">606219</id>
+              <creator-id type="integer">10740</creator-id>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-08-04T18:40:57-04:00</updated-at>
+              <tree-id type="integer">15037</tree-id>
+              <tree-val>South American Isolates: Campbell 1997</tree-val>
+              <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <other-codes></other-codes>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <codes>wba</codes>
+              <updater-id type="integer">10740</updater-id>
+            </child>
+            <child>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-08-04T18:40:57-04:00</created-at>
+              <is-default type="integer">0</is-default>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <pub-comments></pub-comments>
+              <start-date nil="true"></start-date>
+              <pri-name>Guasay</pri-name>
+              <children type="array"/>
+              <id type="integer">606223</id>
+              <creator-id type="integer">10740</creator-id>
+              <alt-names>Warrau</alt-names>
+              <updated-at type="datetime">2009-08-04T18:40:57-04:00</updated-at>
+              <tree-id type="integer">15037</tree-id>
+              <tree-val>South American Isolates: Campbell 1997</tree-val>
+              <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <other-codes></other-codes>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <codes>wba</codes>
+              <updater-id type="integer">10740</updater-id>
+            </child>
+          </children>
+          <id type="integer">606218</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Guarao</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:56-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>wba</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Pernambuco, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:41:00-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Huamo&#233;</pri-name>
+          <children type="array"/>
+          <id type="integer">606274</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Huamoi, Uame, Um&#227;, Araticum, Aticum, Atikum, Wamo&#233;</alt-names>
+          <updated-at type="datetime">2009-08-04T18:41:00-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>uam</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Ecaudor, Peru</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:58-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Sabela</pri-name>
+          <children type="array">
+            <child>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-08-04T18:40:58-04:00</created-at>
+              <is-default type="integer">0</is-default>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <pub-comments></pub-comments>
+              <start-date nil="true"></start-date>
+              <pri-name>Tuei</pri-name>
+              <children type="array"/>
+              <id type="integer">606243</id>
+              <creator-id type="integer">10740</creator-id>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-08-04T18:40:58-04:00</updated-at>
+              <tree-id type="integer">15037</tree-id>
+              <tree-val>South American Isolates: Campbell 1997</tree-val>
+              <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <other-codes></other-codes>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <codes>auc-tue</codes>
+              <updater-id type="integer">10740</updater-id>
+            </child>
+            <child>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-08-04T18:40:58-04:00</created-at>
+              <is-default type="integer">0</is-default>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <pub-comments></pub-comments>
+              <start-date nil="true"></start-date>
+              <pri-name>Shiripuno</pri-name>
+              <children type="array"/>
+              <id type="integer">606244</id>
+              <creator-id type="integer">10740</creator-id>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-08-04T18:40:58-04:00</updated-at>
+              <tree-id type="integer">15037</tree-id>
+              <tree-val>South American Isolates: Campbell 1997</tree-val>
+              <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <other-codes></other-codes>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <codes>auc-shi</codes>
+              <updater-id type="integer">10740</updater-id>
+            </child>
+            <child>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-08-04T18:40:58-04:00</created-at>
+              <is-default type="integer">0</is-default>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <pub-comments></pub-comments>
+              <start-date nil="true"></start-date>
+              <pri-name>Tiguacuna</pri-name>
+              <children type="array"/>
+              <id type="integer">606242</id>
+              <creator-id type="integer">10740</creator-id>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-08-04T18:40:58-04:00</updated-at>
+              <tree-id type="integer">15037</tree-id>
+              <tree-val>South American Isolates: Campbell 1997</tree-val>
+              <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <other-codes></other-codes>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <codes>auc-tig</codes>
+              <updater-id type="integer">10740</updater-id>
+            </child>
+          </children>
+          <id type="integer">606241</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Auca, Huaorani</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:58-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>auc</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Peru</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:58-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments>Culle may be related to Cholonan.  It is very poorly documented and is now probably extinct.  Given that the total corpus does not exceed 100 poorly recorded words, determination of its genetic affinity may prove very difficult.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Culle</pri-name>
+          <children type="array"/>
+          <id type="integer">606246</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Culli, Linga, Kulyi</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:58-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>0iq</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Peru</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:57-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Nearly Extinct</status>
+          <pub-comments>Says the language is moribund/obsolescent</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Munichi</pri-name>
+          <children type="array"/>
+          <id type="integer">606233</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Muniche</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:57-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10001</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>myr</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Colombia, Peru</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:58-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Nearly Extinct</status>
+          <pub-comments>Says the language is obsolescent.  Kaufman lists Boran and Witotoan as distinct families which, together with Andoque, perhaps make up what he calls a Boran-Witotoan stock.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Andoque</pri-name>
+          <children type="array"/>
+          <id type="integer">606245</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Andoke</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:58-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10001</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>ano</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Peru</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:58-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Nearly Extinct</status>
+          <pub-comments>Says the language is obsolescent.  Plausible sound correspondences have been found for Kaufman's grouping of Kandoshi-Omurano-Taushiro.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Taushiro</pri-name>
+          <children type="array"/>
+          <id type="integer">606239</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Pinchi, Pinche</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:58-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10001</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>trr</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Alagoas, Pernambuco, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:41:00-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Xok&#243;</pri-name>
+          <children type="array"/>
+          <id type="integer">606276</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Shok&#243;, Choco, Shoco</alt-names>
+          <updated-at type="datetime">2009-08-04T18:41:00-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>0iy</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Colombia, Peru, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:57-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Ticuna</pri-name>
+          <children type="array"/>
+          <id type="integer">606231</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Tukuna, Tucuna, Tikuna</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:57-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>tca</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Rio Grande de Norte, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:41:00-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Tarairi&#250;</pri-name>
+          <children type="array"/>
+          <id type="integer">606275</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-08-04T18:41:00-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>0ix</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Venezuela</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:57-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Guamo</pri-name>
+          <children type="array">
+            <child>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-08-04T18:40:57-04:00</created-at>
+              <is-default type="integer">0</is-default>
+              <updated-by>joe_leif</updated-by>
+              <status>Extinct</status>
+              <pub-comments></pub-comments>
+              <start-date nil="true"></start-date>
+              <pri-name>Santa Rosa</pri-name>
+              <children type="array"/>
+              <id type="integer">606227</id>
+              <creator-id type="integer">10740</creator-id>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-08-04T18:40:57-04:00</updated-at>
+              <tree-id type="integer">15037</tree-id>
+              <tree-val>South American Isolates: Campbell 1997</tree-val>
+              <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <other-codes></other-codes>
+              <node-type>Dialect</node-type>
+              <node-status-id type="integer">10000</node-status-id>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <codes>0in-ros</codes>
+              <updater-id type="integer">10740</updater-id>
+            </child>
+            <child>
+              <node-type-id type="integer">10003</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-08-04T18:40:57-04:00</created-at>
+              <is-default type="integer">0</is-default>
+              <updated-by>joe_leif</updated-by>
+              <status>Extinct</status>
+              <pub-comments></pub-comments>
+              <start-date nil="true"></start-date>
+              <pri-name>San Jos&#233;</pri-name>
+              <children type="array"/>
+              <id type="integer">606228</id>
+              <creator-id type="integer">10740</creator-id>
+              <alt-names>Barinas</alt-names>
+              <updated-at type="datetime">2009-08-04T18:40:57-04:00</updated-at>
+              <tree-id type="integer">15037</tree-id>
+              <tree-val>South American Isolates: Campbell 1997</tree-val>
+              <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <other-codes></other-codes>
+              <node-type>Dialect</node-type>
+              <node-status-id type="integer">10000</node-status-id>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <codes>0in-jos</codes>
+              <updater-id type="integer">10740</updater-id>
+            </child>
+          </children>
+          <id type="integer">606226</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Wamo</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:57-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>0in</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Bolivia</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:58-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Yuracare</pri-name>
+          <children type="array"/>
+          <id type="integer">606250</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:58-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>yuz</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Peru</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:58-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Urarina</pri-name>
+          <children type="array"/>
+          <id type="integer">606237</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Shimacu, Itukale</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:58-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>ura</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:59-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Baenan</pri-name>
+          <children type="array"/>
+          <id type="integer">606266</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Baen&#227;</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:59-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>0iu</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Pernambuco, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:41:00-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Nat&#250;</pri-name>
+          <children type="array"/>
+          <id type="integer">606271</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-08-04T18:41:00-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>qjm</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Mato Grosso, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:59-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments>Davis groups Ofay&#233; with Macro-J&#234;. There is reason to believe that all of these units are related, and research should be undertaken to determine whether this is in fact the case.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Ofay&#233;</pri-name>
+          <children type="array"/>
+          <id type="integer">606263</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Opai&#233;-Shavante, Ofai&#233;-Xavante, Opaye-Chavante, Guachi</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:59-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>opy</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Mato Grosso, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:41:00-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Irantxe</pri-name>
+          <children type="array"/>
+          <id type="integer">606279</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Iranxe, Mynky, M&#252;nk&#252;, Iranshe</alt-names>
+          <updated-at type="datetime">2009-08-04T18:41:01-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>irn</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Pernambuco, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:41:00-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Pankarar&#250;</pri-name>
+          <children type="array"/>
+          <id type="integer">606270</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Pancararu, Brancararu</alt-names>
+          <updated-at type="datetime">2009-08-04T18:41:00-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>paz</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Rond&#244;nia, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:41:00-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments>Unsure if the language is extinct/moribund.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Koay&#225;</pri-name>
+          <children type="array"/>
+          <id type="integer">606277</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Koai&#225;, Arara</alt-names>
+          <updated-at type="datetime">2009-08-04T18:41:00-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>axg</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Bolivia</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:56-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments>Kaufman groups together his families/genetic units Cunza, Kapixan&#225;, Betoi, Paezan, Barbacoan, Itonama, and Warao in what he calls the Macro-Paesan cluster&#8230;until that work is done, the decision on this broader grouping needs to be held in abeyance.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Itonama</pri-name>
+          <children type="array"/>
+          <id type="integer">606217</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Saramo, Machoto</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:56-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>ito</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Sao Paulo, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:59-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Ot&#237;</pri-name>
+          <children type="array"/>
+          <id type="integer">606265</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:59-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>oti</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Mato Grosso, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:59-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Kukur&#225;</pri-name>
+          <children type="array"/>
+          <id type="integer">606267</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Cucura, Kokura</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:59-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>0iv</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Columbia</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:56-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments>Kaufman groups together his families/genetic units Cunza, Kapixan&#225;, Betoi, Paezan, Barbacoan, Itonama, and Warao in what he calls the Macro-Paesan cluster&#8230;until that work is done, the decision on this broader grouping needs to be held in abeyance.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Betoi</pri-name>
+          <children type="array"/>
+          <id type="integer">606216</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Betoy, Jirara</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:56-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>qtd</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Peru</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:58-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments>Sechura-Catacoan-Leco grouping may be possible according to Kaufman.  However, he adds that "the hypothesis has not been systematically tested, and all the constituent languages are dead and poorly documented."</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Sechura</pri-name>
+          <children type="array"/>
+          <id type="integer">606247</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Atalan, Sec</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:58-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>qfi</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Bolivia</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:41:01-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Movima</pri-name>
+          <children type="array"/>
+          <id type="integer">606280</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Mobima</alt-names>
+          <updated-at type="datetime">2009-08-04T18:41:01-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>mzp</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Mato Grosso, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:59-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments>Sometimes grouped with Macro-J&#234;. There is reason to believe that all of these units are related, and research should be undertaken to determine whether this is in fact the case.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Guat&#243;</pri-name>
+          <children type="array"/>
+          <id type="integer">606264</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:59-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>gta</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Chile</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:58-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Nearly Extinct</status>
+          <pub-comments>Says the language is obsolescent.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Kaweskar</pri-name>
+          <children type="array"/>
+          <id type="integer">606252</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Alacaluf, Alakaluf, Kawaskar, Kawesqar, Qawasqar, Qawashqar, Halakwalip</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:59-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10001</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>alc</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Colombia</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:56-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Yurumangu&#237;</pri-name>
+          <children type="array"/>
+          <id type="integer">606213</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Yurimangi</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:56-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>qic</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Northern Argentina</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:59-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments>Usually grouped with Vilela.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Lule</pri-name>
+          <children type="array"/>
+          <id type="integer">606256</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Tonocot&#233;</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:59-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>0ir</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Chile, Bolivia, Argentina</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:56-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments>Kaufman groups together his families/genetic units Cunza, Kapixan&#225;, Betoi, Paezan, Barbacoan, Itonama, and Warao in what he calls the Macro-Paesan cluster&#8230;until that work is done, the decision on this broader grouping needs to be held in abeyance.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Cunza</pri-name>
+          <children type="array"/>
+          <id type="integer">606214</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Atacama, Atakama, Atacame&#241;o</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:56-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>kuz</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Brazil, Venezuela</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:57-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments>Is unsure whether or not this language is extinct.  Greenberg classified Maku with his Macro-Tucanoan, based on some lexical similarities, but Migliazza notes that it also shares similarities with Arawakan languages and with Warao.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Maku</pri-name>
+          <children type="array"/>
+          <id type="integer">606230</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Macu</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:57-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>yab</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Bolivia</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:59-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments>It is perhaps completely undocumented.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Gorgotoqui</pri-name>
+          <children type="array"/>
+          <id type="integer">606258</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:59-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>0is</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Bolivia</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:59-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments>Says the language has several dialects.  Is sometimes considered a part of a cluster called Macro-J&#234;. There is reason to believe that all of these units are related, and research should be undertaken to determine whether this is in fact the case.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Chiquitano</pri-name>
+          <children type="array"/>
+          <id type="integer">606259</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Chiquito, Tarapecosi, Tao</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:59-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>cax</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Bolivia</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:58-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments>The grouping of Puquina with Chipaya-Uru is a frequent mistaken identity; Chipaya and Uru were often called "Puquina" in their local area and by outsiders, although Puquina is a totally distinct language which has almost nothing in common with Chipaya and Uru.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Puquina</pri-name>
+          <children type="array"/>
+          <id type="integer">606249</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Pukina</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:58-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>puq</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Venezuela</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:41:01-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Jot&#237;</pri-name>
+          <children type="array"/>
+          <id type="integer">606282</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Joti, Waruwaru, Hot&#237;</alt-names>
+          <updated-at type="datetime">2009-08-04T18:41:01-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>yau</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Pernambuco, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:59-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Fulni&#243;</pri-name>
+          <children type="array"/>
+          <id type="integer">606262</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Furni&#244;, Carnij&#243;, Yat&#233;</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:59-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>fun</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Xingu, Mato Grosso, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:57-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments>Kaufman indicates that , although this cluster represents the intersection of some opinions about genetic grouping, Tuyoneri, Otomakoan, and Trumai are best treated as independent.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Trumai</pri-name>
+          <children type="array"/>
+          <id type="integer">606225</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:57-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>tpy</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Colombia</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:57-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments>Kaufman indicates that , although this cluster represents the intersection of some opinions about genetic grouping, Tuyoneri, Otomakoan, and Trumai are best treated as independent.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Cams&#225;</pri-name>
+          <children type="array"/>
+          <id type="integer">606224</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Sibundoy, Coche, Kams&#225;</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:57-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>kbh</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Rond&#244;nia, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:56-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Nearly Extinct</status>
+          <pub-comments>Price thinks this might be related to Nambiquara.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Kapixan&#225;</pri-name>
+          <children type="array"/>
+          <id type="integer">606215</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Kano&#233;, Kapishan&#225;</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:56-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10001</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>qfe</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Colombia, Ecuador</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:58-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments>Cof&#225;n has borrowed from neighboring Chibchan languages; it remains unclassified, not known to have any broader affiliation.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Cof&#225;n</pri-name>
+          <children type="array"/>
+          <id type="integer">606236</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Kof&#225;n</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:58-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>con</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Bolivia</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:41:01-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Nearly Extinct</status>
+          <pub-comments>Says the language is obsolescent.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Cayuvava</pri-name>
+          <children type="array"/>
+          <id type="integer">606281</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Cayuwaba, Cayubaba, Kayuvava</alt-names>
+          <updated-at type="datetime">2009-08-04T18:41:01-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10001</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>cyb</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Rond&#244;nia, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:41:00-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Aikan&#225;</pri-name>
+          <children type="array"/>
+          <id type="integer">606278</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Aikan&#227;, Huar&#237;, War&#237;, Masak&#225;, Tubar&#227;o, Kasup&#225;, Mund&#233;, Corumbiara</alt-names>
+          <updated-at type="datetime">2009-08-04T18:41:00-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>tba</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Colombia, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:57-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Yuri</pri-name>
+          <children type="array"/>
+          <id type="integer">606232</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Jur&#237;</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:57-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>0io</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Amazonas, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:59-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments>It is best for now to consider Matanaw&#237; independent.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Matanaw&#237;</pri-name>
+          <children type="array"/>
+          <id type="integer">606255</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:59-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>qfu</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Venezuela</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:57-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments>All the broad classifiers of South American languages except Swadesh group Esmeralda and Yaruro together.  The proposal merits study.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Yaruro</pri-name>
+          <children type="array"/>
+          <id type="integer">606235</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Jaruro</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:58-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>yae</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Ecuador</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:57-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments>All the broad classifiers of South American languages except Swadesh group Esmeralda and Yaruro together.  The proposal merits study.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Esmeralda</pri-name>
+          <children type="array"/>
+          <id type="integer">606234</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Ezmeralda, Takame</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:57-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>0ip</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Argentina</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:59-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments>Usually grouped with Lule.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Vilela</pri-name>
+          <children type="array"/>
+          <id type="integer">606257</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:59-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>vil</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Peru</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:58-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments>The name Maina is ambiguous, applied also sometimes to Candoshi and Jivaroan.  Has possible connections with Candoshi and Taushiro.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Omurano</pri-name>
+          <children type="array"/>
+          <id type="integer">606240</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Humurana, Numurana, Mayna, Maina, Rimachu</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:58-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>omu</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Maranh&#227;o, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:41:00-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Gamela</pri-name>
+          <children type="array"/>
+          <id type="integer">606273</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Curinsi, Gamella</alt-names>
+          <updated-at type="datetime">2011-05-09T12:58:50-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>n</confidence>
+          <codes>1hz</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Agentina</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:58-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments>Kaufman also reports Taushiro lexical similarities with Candoshi and Omurano and he therefore assigns it the number 35a to indicate that it has been claimed to be related to Zaparoan but may have the other connections mentioned.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Puelche</pri-name>
+          <children type="array"/>
+          <id type="integer">606238</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Guenaken, Gennaken, Pampa, Pehuenche, Ranquelche</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:58-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>pue</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Para&#237;ba, Pernambuco, Cear&#225;, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:59-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Karir&#237;</pri-name>
+          <children type="array"/>
+          <id type="integer">606268</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Carir&#237;, Kirir&#237;, Quirir&#237;</alt-names>
+          <updated-at type="datetime">2009-08-04T18:41:00-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>kzw</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Bolivia</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:58-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments>Sechura-Catacoan-Leco grouping may be possible according to Kaufman.  However, he adds that "the hypothesis has not been systematically tested, and all the constituent languages are dead and poorly documented."</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Leco</pri-name>
+          <children type="array"/>
+          <id type="integer">606248</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Lapalapa, Leko</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:58-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>lec</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Chile, Bolivia, Argentina</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:58-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments>Does not know if the language is extinct.  In the early 1970s, there were different reports of two to twelve speakers.  Five dialects of the language are sometimes mentioned.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Yagan</pri-name>
+          <children type="array"/>
+          <id type="integer">606251</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Yahgan, Yaghan, Yamana, Y&#225;mana</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:58-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>yag</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Pernambuco, Para&#237;ba, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:41:00-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Xukur&#250;</pri-name>
+          <children type="array"/>
+          <id type="integer">606272</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Ichikile, Shukur&#250;</alt-names>
+          <updated-at type="datetime">2009-08-04T18:41:00-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>xoo</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:59-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments>Davis groups this language with Macro-J&#234;. There is reason to believe that all of these units are related, and research should be undertaken to determine whether this is in fact the case.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Jeik&#243;</pri-name>
+          <children type="array"/>
+          <id type="integer">606261</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Jeic&#243;, Jaiko</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:59-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>0it</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Bahia, Pernambuco, Brazil</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:41:00-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Tux&#225;</pri-name>
+          <children type="array"/>
+          <id type="integer">606269</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Tush&#225;</alt-names>
+          <updated-at type="datetime">2009-08-04T18:41:00-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>tud</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Peru</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-08-04T18:40:57-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <pub-comments>Zaparoan and Jivaroan are the main candidates for a genetic grouping to which it may belong.</pub-comments>
+          <start-date nil="true"></start-date>
+          <pri-name>Candoshi</pri-name>
+          <children type="array"/>
+          <id type="integer">606229</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names>Maina, Kandoshi</alt-names>
+          <updated-at type="datetime">2009-08-04T18:40:57-04:00</updated-at>
+          <tree-id type="integer">15037</tree-id>
+          <tree-val>South American Isolates: Campbell 1997</tree-val>
+          <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <codes>cbu</codes>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+      </children>
+      <id type="integer">606212</id>
+      <creator-id type="integer">10740</creator-id>
+      <alt-names></alt-names>
+      <updated-at type="datetime">2009-08-04T18:40:56-04:00</updated-at>
+      <tree-id type="integer">15037</tree-id>
+      <tree-val>South American Isolates: Campbell 1997</tree-val>
+      <publications>Campbell, Lyle. 1997. Chapter 6: Languages of South America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America. Oxford: Oxford University Press. ISBN 0195094271</publications>
+      <other-codes></other-codes>
+      <node-type>Subgroup</node-type>
+      <node-status-id nil="true"></node-status-id>
+      <created-by>joe_leif</created-by>
+      <sureness type="integer">0</sureness>
+      <deleted-at nil="true"></deleted-at>
+      <confidence>y</confidence>
+      <codes>saso</codes>
+      <updater-id type="integer">10740</updater-id>
+    </root>
+    <description>South American Isolates: Campbell 1997</description>
+  </tree>
+</hash>

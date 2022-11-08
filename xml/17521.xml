@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <description>Tukanoan: Kaufman 2007</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2010-05-24T12:04:17-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Tukanoan: Kaufman 2007</tree-val>
+      <pub-comments>A large number of of Tukanoan dialects are reported as separate languages in Ethnologue, but the author feels there is not enough evidence to support this. The author feels there isn't enough evidence to assuredly say whether these languages are all distinct, but the ethnolinguistic groups within the Tukanoan family are uncontested. The author calls this a stock.</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2010-05-24T12:04:18-04:00</updated-at>
+      <pri-name>Tukanoan</pri-name>
+      <node-type>Stock</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">696507</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10005</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">17521</tree-id>
+      <codes>tucn</codes>
+      <status nil="true"></status>
+      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-05-24T12:04:18-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Tukanoan: Kaufman 2007</tree-val>
+          <pub-comments>The author calls this a branch.</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-05-24T12:04:18-04:00</updated-at>
+          <pri-name>Western Tukanoan</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">696508</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">17521</tree-id>
+          <codes>wtuc</codes>
+          <status nil="true"></status>
+          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-24T12:04:18-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tukanoan: Kaufman 2007</tree-val>
+              <pub-comments>Speakers: 20?</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2010-05-24T12:04:18-04:00</updated-at>
+              <pri-name>Ja&#250;na</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696513</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Amazonas, Colombia</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Yahuna</alt-names>
+              <tree-id type="integer">17521</tree-id>
+              <codes>ynu</codes>
+              <status nil="true"></status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-24T12:04:18-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tukanoan: Kaufman 2007</tree-val>
+              <pub-comments>Speakers: 190</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2010-05-24T12:04:18-04:00</updated-at>
+              <pri-name>Koto</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696512</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Loreto, Peru</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Coto, Orej&#243;</alt-names>
+              <tree-id type="integer">17521</tree-id>
+              <codes>ore</codes>
+              <status nil="true"></status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-24T12:04:18-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tukanoan: Kaufman 2007</tree-val>
+              <pub-comments>Speakers: 2000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2010-05-24T12:04:18-04:00</updated-at>
+              <pri-name>Korewahe</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696509</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Caqueta, Colombia</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Koreguaje, Caquet&#225;</alt-names>
+              <tree-id type="integer">17521</tree-id>
+              <codes>coe</codes>
+              <status nil="true"></status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-24T12:04:18-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tukanoan: Kaufman 2007</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2010-05-24T12:04:18-04:00</updated-at>
+              <pri-name>Tetet&#233;</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696511</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Colombia/Ecuador border</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">17521</tree-id>
+              <codes>teb</codes>
+              <status>Extinct</status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-24T12:04:18-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tukanoan: Kaufman 2007</tree-val>
+              <pub-comments>Speakers: 435</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2010-05-24T12:04:18-04:00</updated-at>
+              <pri-name>Pioh&#233;</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696510</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Oriente, Ecuador; Putumayo, Colombia; Loreto, Peru</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Secoya</alt-names>
+              <tree-id type="integer">17521</tree-id>
+              <codes>sey</codes>
+              <status nil="true"></status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-05-24T12:04:18-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Tukanoan: Kaufman 2007</tree-val>
+          <pub-comments>The author calls this a branch.</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-05-24T12:04:18-04:00</updated-at>
+          <pri-name>Eastern Tukanoan</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">696516</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">17521</tree-id>
+          <codes>etuc</codes>
+          <status nil="true"></status>
+          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-24T12:04:18-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tukanoan: Kaufman 2007</tree-val>
+              <pub-comments>Speakers: 550</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2010-05-24T12:04:19-04:00</updated-at>
+              <pri-name>Makuna-Erulia</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696517</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Vaupes, Colombia; Amazonas, Brazil</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">17521</tree-id>
+              <codes>myy</codes>
+              <status nil="true"></status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-24T12:04:19-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tukanoan: Kaufman 2007</tree-val>
+              <pub-comments>Speakers: 5000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2010-05-24T12:04:19-04:00</updated-at>
+              <pri-name>Tukano</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696523</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Vaupes, Colombia; Amazonas, Brazil</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Tucano</alt-names>
+              <tree-id type="integer">17521</tree-id>
+              <codes>tuo</codes>
+              <status nil="true"></status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-24T12:04:19-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tukanoan: Kaufman 2007</tree-val>
+              <pub-comments>Speakers: 650</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2010-05-24T12:04:19-04:00</updated-at>
+              <pri-name>Karapan&#225;</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696522</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Vaupes, Colombia; Amazonas, Brazil</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Carapana</alt-names>
+              <tree-id type="integer">17521</tree-id>
+              <codes>cbc</codes>
+              <status nil="true"></status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-24T12:04:19-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tukanoan: Kaufman 2007</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2010-05-24T12:04:19-04:00</updated-at>
+              <pri-name>Yupu&#225;-Durina</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696518</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Amazonas, Colombia</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">17521</tree-id>
+              <codes>qmv</codes>
+              <status>Extinct</status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-24T12:04:19-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tukanoan: Kaufman 2007</tree-val>
+              <pub-comments>Speakers: 815</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2010-05-24T12:04:19-04:00</updated-at>
+              <pri-name>Bar&#225;-Tuyuka</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696521</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Vaupes, Colombia; Amazonas, Brazil</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">17521</tree-id>
+              <codes>bsn, tue</codes>
+              <status nil="true"></status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-24T12:04:19-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tukanoan: Kaufman 2007</tree-val>
+              <pub-comments>Speakers: 1300</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2010-05-24T12:04:19-04:00</updated-at>
+              <pri-name>Desana-Siriana</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696520</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Vaupes, Colombia; Amazonas, Brazil</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">17521</tree-id>
+              <codes>des, sri</codes>
+              <status nil="true"></status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-24T12:04:19-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tukanoan: Kaufman 2007</tree-val>
+              <pub-comments>Speakers: 1070</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2010-05-24T12:04:19-04:00</updated-at>
+              <pri-name>Wanana-Pir&#225;</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696524</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Vaupes, Colombia; Amazonas, Brazil</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Piratapuyo, Waikena</alt-names>
+              <tree-id type="integer">17521</tree-id>
+              <codes>gvc</codes>
+              <status nil="true"></status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-24T12:04:19-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tukanoan: Kaufman 2007</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2010-05-24T12:04:19-04:00</updated-at>
+              <pri-name>Kueret&#250;</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696519</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Amazonas, Brazil</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Cueret&#250;</alt-names>
+              <tree-id type="integer">17521</tree-id>
+              <codes>qr8</codes>
+              <status>Extinct</status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date>2600 BCE</start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-05-24T12:04:19-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Tukanoan: Kaufman 2007</tree-val>
+          <pub-comments>The author calls this a stock.</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-05-24T12:04:19-04:00</updated-at>
+          <pri-name>Juri-Tikuna</pri-name>
+          <node-type>Stock</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">696525</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10005</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">17521</tree-id>
+          <codes>juti</codes>
+          <status nil="true"></status>
+          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-24T12:04:19-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tukanoan: Kaufman 2007</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2010-05-24T12:04:19-04:00</updated-at>
+              <pri-name>Jur&#237;</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696527</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Amazonas, Nrazil; Colombia</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Yuri</alt-names>
+              <tree-id type="integer">17521</tree-id>
+              <codes>yua</codes>
+              <status>Extinct</status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-24T12:04:19-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tukanoan: Kaufman 2007</tree-val>
+              <pub-comments>Speakers: 3</pub-comments>
+              <node-status-id type="integer">10001</node-status-id>
+              <updated-at type="datetime">2010-05-24T12:04:19-04:00</updated-at>
+              <pri-name>Munichi</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696528</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Loreto, Peru</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Muniche</alt-names>
+              <tree-id type="integer">17521</tree-id>
+              <codes>myr</codes>
+              <status>Nearly Extinct</status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-24T12:04:19-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tukanoan: Kaufman 2007</tree-val>
+              <pub-comments>Speakers: 24000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2010-05-24T12:04:19-04:00</updated-at>
+              <pri-name>Tikuna</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696526</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Amazonas, Brazil; Colombia; northeast Peru</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Ticuna</alt-names>
+              <tree-id type="integer">17521</tree-id>
+              <codes>tca</codes>
+              <status nil="true"></status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-05-24T12:04:18-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Tukanoan: Kaufman 2007</tree-val>
+          <pub-comments>The author calls this a branch.</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-05-24T12:04:18-04:00</updated-at>
+          <pri-name>Central Tukanoan</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">696514</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">17521</tree-id>
+          <codes>ctuc</codes>
+          <status nil="true"></status>
+          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-24T12:04:18-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Tukanoan: Kaufman 2007</tree-val>
+              <pub-comments>Speakers: 6150</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2010-05-24T12:04:18-04:00</updated-at>
+              <pri-name>Kubewa</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696515</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Vaupes, Colombia; Amazonas, Brazil</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Cuveo, Pamiwa, Hehenawa</alt-names>
+              <tree-id type="integer">17521</tree-id>
+              <codes>cub</codes>
+              <status nil="true"></status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

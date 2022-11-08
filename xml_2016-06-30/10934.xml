@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>    <region>Europe</region>
+    <root>
+      <status nil="true"></status>
+      <created-by>joe_leif</created-by>
+      <codes>nwca</codes>
+      <updater-id type="integer">10740</updater-id>
+      <node-status-id nil="true"></node-status-id>
+      <id type="integer">162954</id>
+      <updated-by>joe_leif</updated-by>
+      <node-type>Subgroup</node-type>
+      <is-default type="integer">1</is-default>
+      <tree-val>Northwest Caucasian: Composite</tree-val>
+      <geography nil="true"></geography>
+      <children type="array">
+        <child>
+          <status nil="true"></status>
+          <created-by>joe_leif</created-by>
+          <codes>abab</codes>
+          <updater-id type="integer">10740</updater-id>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">162955</id>
+          <updated-by>joe_leif</updated-by>
+          <node-type>Subgroup</node-type>
+          <is-default type="integer">1</is-default>
+          <tree-val>Northwest Caucasian: Composite</tree-val>
+          <geography nil="true"></geography>
+          <children type="array">
+            <child>
+              <status nil="true"></status>
+              <created-by>joe_leif</created-by>
+              <codes>abq</codes>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">162956</id>
+              <updated-by>joe_leif</updated-by>
+              <node-type>Language</node-type>
+              <is-default type="integer">1</is-default>
+              <tree-val>Northwest Caucasian: Composite</tree-val>
+              <geography>Germany, Turkey, Russia</geography>
+              <children type="array">
+                <child>
+                  <status nil="true"></status>
+                  <created-by>joe_leif</created-by>
+                  <codes>abq-bez</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">162957</id>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type>Dialect</node-type>
+                  <is-default type="integer">1</is-default>
+                  <tree-val>Northwest Caucasian: Composite</tree-val>
+                  <geography nil="true"></geography>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <pub-comments></pub-comments>
+                  <created-at type="datetime">2008-11-06T13:13:05-05:00</created-at>
+                  <other-codes></other-codes>
+                  <updated-at type="datetime">2008-11-06T13:13:05-05:00</updated-at>
+                  <tree-id type="integer">10934</tree-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <pri-name>Bezshagh</pri-name>
+                  <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence nil="true"></confidence>
+                  <sureness nil="true"></sureness>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                </child>
+                <child>
+                  <status nil="true"></status>
+                  <created-by>joe_leif</created-by>
+                  <codes>abq-ash</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">162958</id>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type>Dialect</node-type>
+                  <is-default type="integer">1</is-default>
+                  <tree-val>Northwest Caucasian: Composite</tree-val>
+                  <geography nil="true"></geography>
+                  <children type="array"/>
+                  <alt-names>Ashkar</alt-names>
+                  <pub-comments></pub-comments>
+                  <created-at type="datetime">2008-11-06T13:13:05-05:00</created-at>
+                  <other-codes></other-codes>
+                  <updated-at type="datetime">2008-11-06T13:13:05-05:00</updated-at>
+                  <tree-id type="integer">10934</tree-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <pri-name>Ashkaraua</pri-name>
+                  <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence nil="true"></confidence>
+                  <sureness nil="true"></sureness>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                </child>
+                <child>
+                  <status nil="true"></status>
+                  <created-by>joe_leif</created-by>
+                  <codes>abq-tap</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">162959</id>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type>Dialect</node-type>
+                  <is-default type="integer">1</is-default>
+                  <tree-val>Northwest Caucasian: Composite</tree-val>
+                  <geography nil="true"></geography>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <pub-comments></pub-comments>
+                  <created-at type="datetime">2008-11-06T13:13:05-05:00</created-at>
+                  <other-codes></other-codes>
+                  <updated-at type="datetime">2008-11-06T13:13:06-05:00</updated-at>
+                  <tree-id type="integer">10934</tree-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <pri-name>Tapanta</pri-name>
+                  <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence nil="true"></confidence>
+                  <sureness nil="true"></sureness>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                </child>
+              </children>
+              <alt-names>Abazintsy, Abazin, Ahuwa, Tapanta, Ashuwa</alt-names>
+              <pub-comments></pub-comments>
+              <created-at type="datetime">2008-11-06T13:13:05-05:00</created-at>
+              <other-codes></other-codes>
+              <updated-at type="datetime">2008-11-06T13:13:05-05:00</updated-at>
+              <tree-id type="integer">10934</tree-id>
+              <deleted-at nil="true"></deleted-at>
+              <pri-name>Abaza</pri-name>
+              <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <confidence nil="true"></confidence>
+              <sureness nil="true"></sureness>
+              <start-date nil="true"></start-date>
+              <end-date nil="true"></end-date>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <created-by>joe_leif</created-by>
+              <codes>abk</codes>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">162960</id>
+              <updated-by>joe_leif</updated-by>
+              <node-type>Language</node-type>
+              <is-default type="integer">1</is-default>
+              <tree-val>Northwest Caucasian: Composite</tree-val>
+              <geography>Turkey, Ukraine, Georgia</geography>
+              <children type="array">
+                <child>
+                  <status nil="true"></status>
+                  <created-by>joe_leif</created-by>
+                  <codes>abk-abz</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">162961</id>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type>Dialect</node-type>
+                  <is-default type="integer">1</is-default>
+                  <tree-val>Northwest Caucasian: Composite</tree-val>
+                  <geography nil="true"></geography>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <pub-comments></pub-comments>
+                  <created-at type="datetime">2008-11-06T13:13:06-05:00</created-at>
+                  <other-codes></other-codes>
+                  <updated-at type="datetime">2008-11-06T13:13:06-05:00</updated-at>
+                  <tree-id type="integer">10934</tree-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <pri-name>Abzhui</pri-name>
+                  <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence nil="true"></confidence>
+                  <sureness nil="true"></sureness>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                </child>
+                <child>
+                  <status nil="true"></status>
+                  <created-by>joe_leif</created-by>
+                  <codes>abk-bzy</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">162962</id>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type>Dialect</node-type>
+                  <is-default type="integer">1</is-default>
+                  <tree-val>Northwest Caucasian: Composite</tree-val>
+                  <geography nil="true"></geography>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <pub-comments></pub-comments>
+                  <created-at type="datetime">2008-11-06T13:13:06-05:00</created-at>
+                  <other-codes></other-codes>
+                  <updated-at type="datetime">2008-11-06T13:13:06-05:00</updated-at>
+                  <tree-id type="integer">10934</tree-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <pri-name>Bzyb</pri-name>
+                  <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence nil="true"></confidence>
+                  <sureness nil="true"></sureness>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                </child>
+                <child>
+                  <status nil="true"></status>
+                  <created-by>joe_leif</created-by>
+                  <codes>abk-sam</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">162963</id>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type>Dialect</node-type>
+                  <is-default type="integer">1</is-default>
+                  <tree-val>Northwest Caucasian: Composite</tree-val>
+                  <geography nil="true"></geography>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <pub-comments></pub-comments>
+                  <created-at type="datetime">2008-11-06T13:13:06-05:00</created-at>
+                  <other-codes></other-codes>
+                  <updated-at type="datetime">2008-11-06T13:13:06-05:00</updated-at>
+                  <tree-id type="integer">10934</tree-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <pri-name>Samurzakan</pri-name>
+                  <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence nil="true"></confidence>
+                  <sureness nil="true"></sureness>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                </child>
+              </children>
+              <alt-names>Abxazo</alt-names>
+              <pub-comments></pub-comments>
+              <created-at type="datetime">2008-11-06T13:13:06-05:00</created-at>
+              <other-codes></other-codes>
+              <updated-at type="datetime">2008-11-06T13:13:06-05:00</updated-at>
+              <tree-id type="integer">10934</tree-id>
+              <deleted-at nil="true"></deleted-at>
+              <pri-name>Abkhaz</pri-name>
+              <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <confidence nil="true"></confidence>
+              <sureness nil="true"></sureness>
+              <start-date nil="true"></start-date>
+              <end-date nil="true"></end-date>
+            </child>
+          </children>
+          <alt-names></alt-names>
+          <pub-comments></pub-comments>
+          <created-at type="datetime">2008-11-06T13:13:05-05:00</created-at>
+          <other-codes></other-codes>
+          <updated-at type="datetime">2008-11-06T13:13:05-05:00</updated-at>
+          <tree-id type="integer">10934</tree-id>
+          <deleted-at nil="true"></deleted-at>
+          <pri-name>Abkhaz-Abazin</pri-name>
+          <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+          <node-type-id type="integer">10000</node-type-id>
+          <creator-id type="integer">10740</creator-id>
+          <confidence nil="true"></confidence>
+          <sureness nil="true"></sureness>
+          <start-date nil="true"></start-date>
+          <end-date nil="true"></end-date>
+        </child>
+        <child>
+          <status nil="true"></status>
+          <created-by>joe_leif</created-by>
+          <codes>circ</codes>
+          <updater-id type="integer">10740</updater-id>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">162964</id>
+          <updated-by>joe_leif</updated-by>
+          <node-type>Subgroup</node-type>
+          <is-default type="integer">1</is-default>
+          <tree-val>Northwest Caucasian: Composite</tree-val>
+          <geography nil="true"></geography>
+          <children type="array">
+            <child>
+              <status nil="true"></status>
+              <created-by>joe_leif</created-by>
+              <codes>ady</codes>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">162965</id>
+              <updated-by>joe_leif</updated-by>
+              <node-type>Language</node-type>
+              <is-default type="integer">1</is-default>
+              <tree-val>Northwest Caucasian: Composite</tree-val>
+              <geography>Isreal, Jordon, USA, Australia, Iraq, France, Germany, Turkey, Egypt, Macedonia, Netherlands, Syria, Russia</geography>
+              <children type="array">
+                <child>
+                  <status nil="true"></status>
+                  <created-by>joe_leif</created-by>
+                  <codes>ady-sha</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">162966</id>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type>Dialect</node-type>
+                  <is-default type="integer">1</is-default>
+                  <tree-val>Northwest Caucasian: Composite</tree-val>
+                  <geography nil="true"></geography>
+                  <children type="array"/>
+                  <alt-names>Sapsug</alt-names>
+                  <pub-comments></pub-comments>
+                  <created-at type="datetime">2008-11-06T13:13:06-05:00</created-at>
+                  <other-codes></other-codes>
+                  <updated-at type="datetime">2008-11-06T13:13:06-05:00</updated-at>
+                  <tree-id type="integer">10934</tree-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <pri-name>Shapsug</pri-name>
+                  <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence nil="true"></confidence>
+                  <sureness nil="true"></sureness>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                </child>
+                <child>
+                  <status nil="true"></status>
+                  <created-by>joe_leif</created-by>
+                  <codes>ady-nat</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">162967</id>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type>Dialect</node-type>
+                  <is-default type="integer">1</is-default>
+                  <tree-val>Northwest Caucasian: Composite</tree-val>
+                  <geography nil="true"></geography>
+                  <children type="array"/>
+                  <alt-names>Natukhai</alt-names>
+                  <pub-comments></pub-comments>
+                  <created-at type="datetime">2008-11-06T13:13:06-05:00</created-at>
+                  <other-codes></other-codes>
+                  <updated-at type="datetime">2008-11-06T13:13:06-05:00</updated-at>
+                  <tree-id type="integer">10934</tree-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <pri-name>Natuzaj</pri-name>
+                  <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence nil="true"></confidence>
+                  <sureness nil="true"></sureness>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                </child>
+                <child>
+                  <status nil="true"></status>
+                  <created-by>joe_leif</created-by>
+                  <codes>ady-aba</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">162968</id>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type>Dialect</node-type>
+                  <is-default type="integer">1</is-default>
+                  <tree-val>Northwest Caucasian: Composite</tree-val>
+                  <geography nil="true"></geography>
+                  <children type="array"/>
+                  <alt-names>Abadzeg, Abadekh</alt-names>
+                  <pub-comments></pub-comments>
+                  <created-at type="datetime">2008-11-06T13:13:06-05:00</created-at>
+                  <other-codes></other-codes>
+                  <updated-at type="datetime">2008-11-06T13:13:06-05:00</updated-at>
+                  <tree-id type="integer">10934</tree-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <pri-name>Abadzex</pri-name>
+                  <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence nil="true"></confidence>
+                  <sureness nil="true"></sureness>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                </child>
+                <child>
+                  <status nil="true"></status>
+                  <created-by>joe_leif</created-by>
+                  <codes>ady-xak</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">162969</id>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type>Dialect</node-type>
+                  <is-default type="integer">1</is-default>
+                  <tree-val>Northwest Caucasian: Composite</tree-val>
+                  <geography nil="true"></geography>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <pub-comments></pub-comments>
+                  <created-at type="datetime">2008-11-06T13:13:06-05:00</created-at>
+                  <other-codes></other-codes>
+                  <updated-at type="datetime">2008-11-06T13:13:07-05:00</updated-at>
+                  <tree-id type="integer">10934</tree-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <pri-name>Xakuchi</pri-name>
+                  <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence nil="true"></confidence>
+                  <sureness nil="true"></sureness>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                </child>
+                <child>
+                  <status nil="true"></status>
+                  <created-by>joe_leif</created-by>
+                  <codes>ady-bez</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">162970</id>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type>Dialect</node-type>
+                  <is-default type="integer">1</is-default>
+                  <tree-val>Northwest Caucasian: Composite</tree-val>
+                  <geography nil="true"></geography>
+                  <children type="array"/>
+                  <alt-names>Bzedux, Chemgui, Bezhehux-Temirgoi, Bzhedug, Temirgoj</alt-names>
+                  <pub-comments></pub-comments>
+                  <created-at type="datetime">2008-11-06T13:13:07-05:00</created-at>
+                  <other-codes></other-codes>
+                  <updated-at type="datetime">2008-11-06T13:13:07-05:00</updated-at>
+                  <tree-id type="integer">10934</tree-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <pri-name>Bezhedukh</pri-name>
+                  <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence nil="true"></confidence>
+                  <sureness nil="true"></sureness>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                </child>
+              </children>
+              <alt-names>Adygey, West Circassian, Circassian, Cherkes, Kjax, Lower Circassian, Kiakh, Adygei</alt-names>
+              <pub-comments></pub-comments>
+              <created-at type="datetime">2008-11-06T13:13:06-05:00</created-at>
+              <other-codes></other-codes>
+              <updated-at type="datetime">2008-11-06T13:13:06-05:00</updated-at>
+              <tree-id type="integer">10934</tree-id>
+              <deleted-at nil="true"></deleted-at>
+              <pri-name>Adyghe</pri-name>
+              <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <confidence nil="true"></confidence>
+              <sureness nil="true"></sureness>
+              <start-date nil="true"></start-date>
+              <end-date nil="true"></end-date>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <created-by>joe_leif</created-by>
+              <codes>kbd</codes>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">162971</id>
+              <updated-by>joe_leif</updated-by>
+              <node-type>Language</node-type>
+              <is-default type="integer">1</is-default>
+              <tree-val>Northwest Caucasian: Composite</tree-val>
+              <geography>USA, Saudi Arabia, Turkey, Russia</geography>
+              <children type="array">
+                <child>
+                  <status nil="true"></status>
+                  <created-by>joe_leif</created-by>
+                  <codes>kbd-gre</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">162972</id>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type>Dialect</node-type>
+                  <is-default type="integer">1</is-default>
+                  <tree-val>Northwest Caucasian: Composite</tree-val>
+                  <geography nil="true"></geography>
+                  <children type="array"/>
+                  <alt-names>Malka, Kuban, Beslenei, Lesser Kabardian, Mozdok, Cherkes, Beslenej, Baksan</alt-names>
+                  <pub-comments></pub-comments>
+                  <created-at type="datetime">2008-11-06T13:13:07-05:00</created-at>
+                  <other-codes></other-codes>
+                  <updated-at type="datetime">2008-11-06T13:13:07-05:00</updated-at>
+                  <tree-id type="integer">10934</tree-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <pri-name>Greater Kabardian</pri-name>
+                  <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence nil="true"></confidence>
+                  <sureness nil="true"></sureness>
+                  <start-date nil="true"></start-date>
+                  <end-date nil="true"></end-date>
+                </child>
+              </children>
+              <alt-names>East Circassian, Beslenei, Upper Circassian, Kabardino-Cherkes, Kabardo-Cherkes</alt-names>
+              <pub-comments></pub-comments>
+              <created-at type="datetime">2008-11-06T13:13:07-05:00</created-at>
+              <other-codes></other-codes>
+              <updated-at type="datetime">2008-11-06T13:13:07-05:00</updated-at>
+              <tree-id type="integer">10934</tree-id>
+              <deleted-at nil="true"></deleted-at>
+              <pri-name>Kabardian</pri-name>
+              <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <confidence nil="true"></confidence>
+              <sureness nil="true"></sureness>
+              <start-date nil="true"></start-date>
+              <end-date nil="true"></end-date>
+            </child>
+          </children>
+          <alt-names></alt-names>
+          <pub-comments></pub-comments>
+          <created-at type="datetime">2008-11-06T13:13:06-05:00</created-at>
+          <other-codes></other-codes>
+          <updated-at type="datetime">2008-11-06T13:13:06-05:00</updated-at>
+          <tree-id type="integer">10934</tree-id>
+          <deleted-at nil="true"></deleted-at>
+          <pri-name>Circassian</pri-name>
+          <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+          <node-type-id type="integer">10000</node-type-id>
+          <creator-id type="integer">10740</creator-id>
+          <confidence nil="true"></confidence>
+          <sureness nil="true"></sureness>
+          <start-date nil="true"></start-date>
+          <end-date nil="true"></end-date>
+        </child>
+        <child>
+          <status nil="true"></status>
+          <created-by>joe_leif</created-by>
+          <codes>ubyx</codes>
+          <updater-id type="integer">10740</updater-id>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">162973</id>
+          <updated-by>joe_leif</updated-by>
+          <node-type>Subgroup</node-type>
+          <is-default type="integer">1</is-default>
+          <tree-val>Northwest Caucasian: Composite</tree-val>
+          <geography nil="true"></geography>
+          <children type="array">
+            <child>
+              <status>Extinct</status>
+              <created-by>joe_leif</created-by>
+              <codes>uby</codes>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id type="integer">10000</node-status-id>
+              <id type="integer">162974</id>
+              <updated-by>joe_leif</updated-by>
+              <node-type>Language</node-type>
+              <is-default type="integer">1</is-default>
+              <tree-val>Northwest Caucasian: Composite</tree-val>
+              <geography>Turkey</geography>
+              <children type="array"/>
+              <alt-names>Oubykh, Ubyx, Pekhi</alt-names>
+              <pub-comments></pub-comments>
+              <created-at type="datetime">2008-11-06T13:13:07-05:00</created-at>
+              <other-codes></other-codes>
+              <updated-at type="datetime">2008-11-06T13:13:07-05:00</updated-at>
+              <tree-id type="integer">10934</tree-id>
+              <deleted-at nil="true"></deleted-at>
+              <pri-name>Ubykh</pri-name>
+              <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <confidence nil="true"></confidence>
+              <sureness nil="true"></sureness>
+              <start-date nil="true"></start-date>
+              <end-date nil="true"></end-date>
+            </child>
+          </children>
+          <alt-names></alt-names>
+          <pub-comments></pub-comments>
+          <created-at type="datetime">2008-11-06T13:13:07-05:00</created-at>
+          <other-codes></other-codes>
+          <updated-at type="datetime">2008-11-06T13:13:07-05:00</updated-at>
+          <tree-id type="integer">10934</tree-id>
+          <deleted-at nil="true"></deleted-at>
+          <pri-name>Ubyx</pri-name>
+          <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+          <node-type-id type="integer">10000</node-type-id>
+          <creator-id type="integer">10740</creator-id>
+          <confidence nil="true"></confidence>
+          <sureness nil="true"></sureness>
+          <start-date nil="true"></start-date>
+          <end-date nil="true"></end-date>
+        </child>
+      </children>
+      <alt-names>Pontic</alt-names>
+      <pub-comments></pub-comments>
+      <created-at type="datetime">2008-11-06T13:13:05-05:00</created-at>
+      <other-codes></other-codes>
+      <updated-at type="datetime">2008-11-06T13:13:05-05:00</updated-at>
+      <tree-id type="integer">10934</tree-id>
+      <deleted-at nil="true"></deleted-at>
+      <pri-name>Northwest Caucasian</pri-name>
+      <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+      <node-type-id type="integer">10000</node-type-id>
+      <creator-id type="integer">10740</creator-id>
+      <confidence nil="true"></confidence>
+      <sureness nil="true"></sureness>
+      <start-date nil="true"></start-date>
+      <end-date nil="true"></end-date>
+    </root>
+    <description>Northwest Caucasian: Composite</description>
+  </tree>
+</hash>

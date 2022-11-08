@@ -1,0 +1,2491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Europe</region>
+    <region>Asia</region>
+    <description>Indo-germanischer Sprachstamm: Mueller 1876</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2009-07-27T17:58:16-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+      <pub-comments></pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2010-07-21T16:51:00-04:00</updated-at>
+      <pri-name>Indo-Germanische</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">571618</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">14620</tree-id>
+      <codes>ieur</codes>
+      <status nil="true"></status>
+      <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-27T17:58:20-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2009-07-27T17:58:20-04:00</updated-at>
+          <pri-name>Letto-slavische</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">571670</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14620</tree-id>
+          <codes>blsl</codes>
+          <status nil="true"></status>
+          <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:20-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:20-04:00</updated-at>
+              <pri-name>Slavische Sprache</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571671</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>slav</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:20-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:20-04:00</updated-at>
+                  <pri-name>Wendisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571680</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>dsb, hsb</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:20-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:20-04:00</updated-at>
+                  <pri-name>Serbisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571675</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>srp</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:20-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:20-04:00</updated-at>
+                  <pri-name>Tschechisch-Slovakisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571677</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>ces, slk</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:20-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:20-04:00</updated-at>
+                  <pri-name>Polnisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571678</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>pol</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:20-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:20-04:00</updated-at>
+                  <pri-name>Bulgarisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571673</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>bul</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:20-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:20-04:00</updated-at>
+                  <pri-name>Polabisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571679</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>pox</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:20-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:20-04:00</updated-at>
+                  <pri-name>Slovenisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571676</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>slv</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:20-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:20-04:00</updated-at>
+                  <pri-name>Russisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571674</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>rus</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:20-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:20-04:00</updated-at>
+                  <pri-name>Alt-slavisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571672</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>chu</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:20-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:21-04:00</updated-at>
+              <pri-name>Lettische Sprachen</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571681</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>balt</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:21-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-06-13T16:11:08-04:00</updated-at>
+                  <pri-name>Lettisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571684</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>lvs, ltg</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:21-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:21-04:00</updated-at>
+                  <pri-name>Altpreussisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571682</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>prg</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:21-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:21-04:00</updated-at>
+                  <pri-name>Litauisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571683</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>lit</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-27T17:58:16-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2009-07-27T17:58:16-04:00</updated-at>
+          <pri-name>Indische Gruppe</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">571619</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14620</tree-id>
+          <codes>inda</codes>
+          <status nil="true"></status>
+          <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:17-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:17-04:00</updated-at>
+              <pri-name>Sprachen der Siy&#226;h-p&#244;sch-K&#226;fir</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571634</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>spkf</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:17-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:17-04:00</updated-at>
+                  <pri-name>Dardu</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571635</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>kls, khw, kas, btv, clh, gwf, gwc, xka, mvy, tra, trw, wsv, dml, gwt, nli, sts, aee, glh, psi, psh, bkk, dmk, phl, sdg, scl, plk, ush</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:17-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:18-04:00</updated-at>
+                  <pri-name>Zigeuner</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571636</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>rmy, rmn, rmc, rml, rmf, rmo, rmw</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:16-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:16-04:00</updated-at>
+              <pri-name>Sanskrit</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571620</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>san</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:16-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:16-04:00</updated-at>
+              <pri-name>Neu-indische Sprache</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571623</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>nwin</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:16-04:00</updated-at>
+                  <pri-name>Hindustani</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571631</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>hin, urd</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:16-04:00</updated-at>
+                  <pri-name>Assami</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571625</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>asm</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-02-22T13:32:55-05:00</updated-at>
+                  <pri-name>Oriya</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571626</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>ory</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:16-04:00</updated-at>
+                  <pri-name>Gudscharati</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571632</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>guj</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:16-04:00</updated-at>
+                  <pri-name>Sindhi</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571629</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>snd</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-01-24T13:23:09-05:00</updated-at>
+                  <pri-name>Nepali</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571627</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>npi</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:16-04:00</updated-at>
+                  <pri-name>Kaschmiri</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571628</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>kas</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:16-04:00</updated-at>
+                  <pri-name>Pandschabi</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571630</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>pan, pnb</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:17-04:00</updated-at>
+                  <pri-name>Marathi</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571633</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>mar</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:16-04:00</updated-at>
+                  <pri-name>Bengali</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571624</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>ben</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:16-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:16-04:00</updated-at>
+              <pri-name>Pali</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571621</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>pli</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:16-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:16-04:00</updated-at>
+              <pri-name>Prakrit</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571622</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>pka, pmh, qpp, psu</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-27T17:58:18-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2009-07-27T17:58:18-04:00</updated-at>
+          <pri-name>Eranische Gruppe</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">571637</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14620</tree-id>
+          <codes>iran</codes>
+          <status nil="true"></status>
+          <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:18-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:18-04:00</updated-at>
+              <pri-name>Westliche Eranisch</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571638</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>wira</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:18-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:18-04:00</updated-at>
+                  <pri-name>Balutschi</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571644</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>bgp, bcc, bgn</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:18-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:18-04:00</updated-at>
+                  <pri-name>Neupersisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571642</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>prs, pes</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:18-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:18-04:00</updated-at>
+                  <pri-name>Kurdisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571643</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>ckb, kmr, sdh</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:18-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:18-04:00</updated-at>
+                  <pri-name>Pahlawi</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571640</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>pal</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:18-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-10-22T19:51:28-04:00</updated-at>
+                  <pri-name>Altpersisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571639</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>peo</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:18-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:18-04:00</updated-at>
+                  <pri-name>Parsi</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571641</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>prp, prd</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:18-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:18-04:00</updated-at>
+              <pri-name>Ossetisch</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571648</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>oos</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:18-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:18-04:00</updated-at>
+              <pri-name>Armenisch</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571649</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>hye</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:18-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:18-04:00</updated-at>
+              <pri-name>&#214;stliche Eranisch</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571645</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>eira</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:18-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:18-04:00</updated-at>
+                  <pri-name>Afghanisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571647</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>psht</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:18-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:18-04:00</updated-at>
+                  <pri-name>Zend</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571646</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>ave</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-27T17:58:21-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2009-07-27T17:58:21-04:00</updated-at>
+          <pri-name>Germanische Gruppe</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">571685</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14620</tree-id>
+          <codes>germ</codes>
+          <status nil="true"></status>
+          <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:21-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:21-04:00</updated-at>
+              <pri-name>Germanische Sprachen</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571692</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>wger</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:21-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:21-04:00</updated-at>
+                  <pri-name>Altnieder-deutsch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571696</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>osx</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:21-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:21-04:00</updated-at>
+                  <pri-name>Althochdeutsch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571693</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>goh</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:22-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:22-04:00</updated-at>
+                  <pri-name>Angel-s&#228;chsisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571699</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>ang</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:21-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:22-04:00</updated-at>
+                  <pri-name>Neuniederdeutsch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571698</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>act, drt, gos, pdt, sdz, nds, stl, twd, vel, wep</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:22-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:22-04:00</updated-at>
+                  <pri-name>Niederl&#228;ndisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571702</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>nld</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:21-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:21-04:00</updated-at>
+                  <pri-name>Neuhochdeutsch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571695</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>deu</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:22-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-10-14T20:47:25-04:00</updated-at>
+                  <pri-name>Friesisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571701</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>frs, frr, fry</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:21-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:21-04:00</updated-at>
+                  <pri-name>Mittelniederdeutsch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571697</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>gml</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:21-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:21-04:00</updated-at>
+                  <pri-name>Mittelhochdeutsch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571694</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>gmh</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:22-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:22-04:00</updated-at>
+                  <pri-name>Englisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571700</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>eng</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:21-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:21-04:00</updated-at>
+              <pri-name>Gothisch</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571691</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>got</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:21-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:21-04:00</updated-at>
+              <pri-name>Skandinavische Sprachen</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571686</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>nger</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:21-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:21-04:00</updated-at>
+                  <pri-name>D&#228;nisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571690</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>dan</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:21-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:21-04:00</updated-at>
+                  <pri-name>Norwegisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571689</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>nno</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:21-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:21-04:00</updated-at>
+                  <pri-name>Schwedisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571688</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>swe</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:21-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:21-04:00</updated-at>
+                  <pri-name>Altnordisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571687</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>non</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-27T17:58:18-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2009-07-27T17:58:18-04:00</updated-at>
+          <pri-name>Keltische Gruppe</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">571650</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14620</tree-id>
+          <codes>celt</codes>
+          <status nil="true"></status>
+          <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:19-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:19-04:00</updated-at>
+              <pri-name>Gadhelisch</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571652</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>ghc, gle, gla, glv, mga, sga</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:18-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:18-04:00</updated-at>
+              <pri-name>Kymrisch</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571651</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>cym</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-27T17:58:19-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2009-07-27T17:58:19-04:00</updated-at>
+          <pri-name>Italische Gruppe</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">571653</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14620</tree-id>
+          <codes>ital</codes>
+          <status nil="true"></status>
+          <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:19-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:19-04:00</updated-at>
+              <pri-name>Romanische Sprachen</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571658</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>roma</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:19-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:19-04:00</updated-at>
+                  <pri-name>Rh&#228;to-Romanisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571663</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>roh</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:19-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:19-04:00</updated-at>
+                  <pri-name>Spanisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571659</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>spa</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:19-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:20-04:00</updated-at>
+                  <pri-name>Rum&#228;nisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571664</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>ron</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:19-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:19-04:00</updated-at>
+                  <pri-name>Franz&#246;sisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571662</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>fra</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:19-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:19-04:00</updated-at>
+                  <pri-name>Portugiesisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571660</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>por</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2009-07-27T17:58:19-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2009-07-27T17:58:19-04:00</updated-at>
+                  <pri-name>Italienisch</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">571661</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">14620</tree-id>
+                  <codes>ita</codes>
+                  <status nil="true"></status>
+                  <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:19-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:19-04:00</updated-at>
+              <pri-name>Oskisch</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571656</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>osc</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:19-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:19-04:00</updated-at>
+              <pri-name>Latein</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571657</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>lat</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:19-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:19-04:00</updated-at>
+              <pri-name>Etruskisch</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571654</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>ett</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:19-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:19-04:00</updated-at>
+              <pri-name>Umbrisch</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571655</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>xum</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-27T17:58:20-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2009-07-27T17:58:20-04:00</updated-at>
+          <pri-name>Hellenische Gruppe</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">571667</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14620</tree-id>
+          <codes>hell</codes>
+          <status nil="true"></status>
+          <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:20-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:20-04:00</updated-at>
+              <pri-name>Neu-Griechisch</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571669</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>ell</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:20-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:20-04:00</updated-at>
+              <pri-name>Alt-Griechisch</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571668</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>grc</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-27T17:58:20-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2009-07-27T17:58:20-04:00</updated-at>
+          <pri-name>Thraco-illyrische</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">571665</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14620</tree-id>
+          <codes>thra</codes>
+          <status nil="true"></status>
+          <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-27T17:58:20-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Indo-germanischer Sprachstamm: Mueller 1876</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-27T17:58:20-04:00</updated-at>
+              <pri-name>Albanesisch</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">571666</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14620</tree-id>
+              <codes>aae, aat, aln, als, rmy</codes>
+              <status nil="true"></status>
+              <publications>M&#252;ller, Friedrich. 1876. Grundriss der Sprachwissenschaft, 96-98. Vienna: Alfred H&#246;lder K. K. Universit&#228;ts-Buchh&#228;ndler. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

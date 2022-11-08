@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <sureness nil="true"></sureness>
+      <geography nil="true"></geography>
+      <start-date nil="true"></start-date>
+      <alt-names></alt-names>
+      <updated-by>joe_leif</updated-by>
+      <tree-val>Tunica: Dryer 2005</tree-val>
+      <other-codes></other-codes>
+      <node-type>Subgroup</node-type>
+      <is-default type="integer">0</is-default>
+      <codes>tuni</codes>
+      <children type="array">
+        <child>
+          <sureness type="integer">0</sureness>
+          <geography>Country: United States; Lat.: 32.67; Long.: -91</geography>
+          <start-date nil="true"></start-date>
+          <alt-names></alt-names>
+          <updated-by>joe_leif</updated-by>
+          <tree-val>Tunica: Dryer 2005</tree-val>
+          <other-codes>tun</other-codes>
+          <node-type>Language</node-type>
+          <is-default type="integer">0</is-default>
+          <codes>tun</codes>
+          <children type="array"/>
+          <updater-id type="integer">10740</updater-id>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 626. New York: Oxford University Press. ISBN 0199255911</publications>
+          <node-type-id type="integer">10001</node-type-id>
+          <created-at type="datetime">2009-04-28T19:19:12-04:00</created-at>
+          <updated-at type="datetime">2009-04-28T19:19:12-04:00</updated-at>
+          <id type="integer">370706</id>
+          <deleted-at nil="true"></deleted-at>
+          <tree-id type="integer">11953</tree-id>
+          <end-date nil="true"></end-date>
+          <created-by>joe_leif</created-by>
+          <creator-id type="integer">10740</creator-id>
+          <confidence>y</confidence>
+          <pub-comments></pub-comments>
+          <pri-name>Tunica</pri-name>
+          <node-status-id nil="true"></node-status-id>
+        </child>
+      </children>
+      <updater-id type="integer">10740</updater-id>
+      <status nil="true"></status>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 626. New York: Oxford University Press. ISBN 0199255911</publications>
+      <node-type-id type="integer">10000</node-type-id>
+      <created-at type="datetime">2009-04-28T19:19:12-04:00</created-at>
+      <updated-at type="datetime">2009-04-28T19:19:12-04:00</updated-at>
+      <id type="integer">370705</id>
+      <deleted-at nil="true"></deleted-at>
+      <tree-id type="integer">11953</tree-id>
+      <end-date nil="true"></end-date>
+      <created-by>joe_leif</created-by>
+      <creator-id type="integer">10740</creator-id>
+      <confidence nil="true"></confidence>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <pri-name>Tunica</pri-name>
+      <node-status-id nil="true"></node-status-id>
+    </root>
+    <description>Tunica: Dryer 2005</description>
+  </tree>
+</hash>

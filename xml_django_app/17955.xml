@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Australia</region>    <region>Australia</region>    <region>Australia</region>    <region>Australia</region>
+    <root>
+      <pub-comments>Node not named by authors. "The three non-Pama-Nyungan groups most closely related to Pama-Nyungan are Karrwan, Tangkic and Gunwinyguan, all in the region running from Arnhem Land to the southwestern Gulf&#8230; We discuss each in turn here, working outward from the nearest group according to the scenario in Figure 22.3 (page 393)" (Evans and Jones 1997: 394). "Taking Karrwan, Tangkic and Gunwinyguan as the three closest coordinate groups to Pama-Nyungan, in that order, has clear implications for the location of the Pama-Nyungan homeland: a location somehwere between the Roper Valley and the Barkly region would make Karrwan, Tangkic and Guwinyguan its neighbours with the least complicated scenario" (1997: 396).</pub-comments>
+      <node-type-id type="integer">10000</node-type-id>
+      <creator-id type="integer">10740</creator-id>
+      <children type="array">
+        <child>
+          <pub-comments>Node not named by authors.</pub-comments>
+          <node-type-id type="integer">10000</node-type-id>
+          <creator-id type="integer">10740</creator-id>
+          <children type="array">
+            <child>
+              <pub-comments>Node not named by authors. "Karrwan has failed to undergo the initial laminalisation found in Pama-Nyungan&#8230; The most important indication of Karrwan's transitional status comes from the pronoun system, which includes both Northern and Pama-Nyungan forms" (Evans and Jones 1997: 395).</pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array">
+                <child>
+                  <pub-comments>"Lying in the linguistically complex area to the southwest of the Gulf, the Karrwan languages Karrwa and Wanyi are the best candidates for Pama-Nyungan's 'nearest relative'" (Evans and Jones 1997: 394).</pub-comments>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <children type="array">
+                    <child>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <children type="array"/>
+                      <alt-names></alt-names>
+                      <pri-name>Wanyi</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <confidence>y</confidence>
+                      <updated-at type="datetime">2013-02-08T12:12:01-05:00</updated-at>
+                      <is-default type="integer">0</is-default>
+                      <tree-id type="integer">17955</tree-id>
+                      <node-type>Language</node-type>
+                      <updater-id type="integer">10740</updater-id>
+                      <status nil="true"></status>
+                      <created-at type="datetime">2010-07-01T10:21:17-04:00</created-at>
+                      <publications>Evans, Nicholas  &amp; Rhys  Jones. 1997. The Cradle of the Pama-Nyungans: Archeaological and Linguistic Speculations. In Nicholas  Evans &amp; Patrick  McConvell (eds.), Archaeology and Linguistics: Aboriginal Australia in Global Perspective, 385-417. Melbourne: Oxford University Press Australia. ISBN 0 19 553728 9</publications>
+                      <codes>wny</codes>
+                      <sureness type="integer">0</sureness>
+                      <other-codes></other-codes>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">715281</id>
+                      <end-date nil="true"></end-date>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-val>Gunwinyguan-Tangkic-Karrwan-Pama-Nyungan: Evans and Jones 1997</tree-val>
+                      <start-date nil="true"></start-date>
+                      <geography nil="true"></geography>
+                      <deleted-at nil="true"></deleted-at>
+                    </child>
+                    <child>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <children type="array"/>
+                      <alt-names></alt-names>
+                      <pri-name>Karrwa</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <confidence>y</confidence>
+                      <updated-at type="datetime">2013-02-08T12:12:30-05:00</updated-at>
+                      <is-default type="integer">0</is-default>
+                      <tree-id type="integer">17955</tree-id>
+                      <node-type>Language</node-type>
+                      <updater-id type="integer">10740</updater-id>
+                      <status nil="true"></status>
+                      <created-at type="datetime">2010-07-01T10:21:17-04:00</created-at>
+                      <publications>Evans, Nicholas  &amp; Rhys  Jones. 1997. The Cradle of the Pama-Nyungans: Archeaological and Linguistic Speculations. In Nicholas  Evans &amp; Patrick  McConvell (eds.), Archaeology and Linguistics: Aboriginal Australia in Global Perspective, 385-417. Melbourne: Oxford University Press Australia. ISBN 0 19 553728 9</publications>
+                      <codes>wrk</codes>
+                      <sureness type="integer">0</sureness>
+                      <other-codes></other-codes>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">715280</id>
+                      <end-date nil="true"></end-date>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-val>Gunwinyguan-Tangkic-Karrwan-Pama-Nyungan: Evans and Jones 1997</tree-val>
+                      <start-date nil="true"></start-date>
+                      <geography nil="true"></geography>
+                      <deleted-at nil="true"></deleted-at>
+                    </child>
+                  </children>
+                  <alt-names></alt-names>
+                  <pri-name>Karrwan</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <confidence>n</confidence>
+                  <updated-at type="datetime">2010-07-01T10:21:17-04:00</updated-at>
+                  <is-default type="integer">0</is-default>
+                  <tree-id type="integer">17955</tree-id>
+                  <node-type>Subgroup</node-type>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <created-at type="datetime">2010-07-01T10:21:17-04:00</created-at>
+                  <publications>Evans, Nicholas  &amp; Rhys  Jones. 1997. The Cradle of the Pama-Nyungans: Archeaological and Linguistic Speculations. In Nicholas  Evans &amp; Patrick  McConvell (eds.), Archaeology and Linguistics: Aboriginal Australia in Global Perspective, 385-417. Melbourne: Oxford University Press Australia. ISBN 0 19 553728 9</publications>
+                  <codes>gara</codes>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">715279</id>
+                  <end-date nil="true"></end-date>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-val>Gunwinyguan-Tangkic-Karrwan-Pama-Nyungan: Evans and Jones 1997</tree-val>
+                  <start-date nil="true"></start-date>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                </child>
+                <child>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <pri-name>Proto-Pama-Nyungan</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <confidence>n</confidence>
+                  <updated-at type="datetime">2010-07-01T10:21:17-04:00</updated-at>
+                  <is-default type="integer">0</is-default>
+                  <tree-id type="integer">17955</tree-id>
+                  <node-type>Subgroup</node-type>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <created-at type="datetime">2010-07-01T10:21:17-04:00</created-at>
+                  <publications>Evans, Nicholas  &amp; Rhys  Jones. 1997. The Cradle of the Pama-Nyungans: Archeaological and Linguistic Speculations. In Nicholas  Evans &amp; Patrick  McConvell (eds.), Archaeology and Linguistics: Aboriginal Australia in Global Perspective, 385-417. Melbourne: Oxford University Press Australia. ISBN 0 19 553728 9</publications>
+                  <codes>pnyu</codes>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">715282</id>
+                  <end-date nil="true"></end-date>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-val>Gunwinyguan-Tangkic-Karrwan-Pama-Nyungan: Evans and Jones 1997</tree-val>
+                  <start-date nil="true"></start-date>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                </child>
+              </children>
+              <alt-names></alt-names>
+              <pri-name>Karrwan-Pama-Nyungan</pri-name>
+              <created-by>joe_leif</created-by>
+              <confidence>n</confidence>
+              <updated-at type="datetime">2010-07-01T10:21:17-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <tree-id type="integer">17955</tree-id>
+              <node-type>Subgroup</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <created-at type="datetime">2010-07-01T10:21:17-04:00</created-at>
+              <publications>Evans, Nicholas  &amp; Rhys  Jones. 1997. The Cradle of the Pama-Nyungans: Archeaological and Linguistic Speculations. In Nicholas  Evans &amp; Patrick  McConvell (eds.), Archaeology and Linguistics: Aboriginal Australia in Global Perspective, 385-417. Melbourne: Oxford University Press Australia. ISBN 0 19 553728 9</publications>
+              <codes>krpn</codes>
+              <sureness type="integer">0</sureness>
+              <other-codes></other-codes>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">715278</id>
+              <end-date nil="true"></end-date>
+              <updated-by>joe_leif</updated-by>
+              <tree-val>Gunwinyguan-Tangkic-Karrwan-Pama-Nyungan: Evans and Jones 1997</tree-val>
+              <start-date nil="true"></start-date>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+            </child>
+            <child>
+              <pub-comments>"The most obvious typological similarity is the lack of verbal and other prefixation and the general dependent-marking typology of Tangkic. The number of Pama-Nyungan lexical items appears to be somewhat higher than other non-Pama-Nyungan languages, though this may be complicated by the presence of early loans from Ngumpin-Yapa (Evans 1995). However, the clearest diagnostics of Pama-Nyungan membership - the distinctive pronoun set and the presence of initial laminalisation - are absent from Tangkic" (Evans and Jones 1997: 395).</pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <alt-names></alt-names>
+              <pri-name>Tangkic</pri-name>
+              <created-by>joe_leif</created-by>
+              <confidence>n</confidence>
+              <updated-at type="datetime">2010-07-01T10:21:17-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <tree-id type="integer">17955</tree-id>
+              <node-type>Subgroup</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <created-at type="datetime">2010-07-01T10:21:16-04:00</created-at>
+              <publications>Evans, Nicholas  &amp; Rhys  Jones. 1997. The Cradle of the Pama-Nyungans: Archeaological and Linguistic Speculations. In Nicholas  Evans &amp; Patrick  McConvell (eds.), Archaeology and Linguistics: Aboriginal Australia in Global Perspective, 385-417. Melbourne: Oxford University Press Australia. ISBN 0 19 553728 9</publications>
+              <codes>tngc</codes>
+              <sureness type="integer">-1</sureness>
+              <other-codes></other-codes>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">715277</id>
+              <end-date nil="true"></end-date>
+              <updated-by>joe_leif</updated-by>
+              <tree-val>Gunwinyguan-Tangkic-Karrwan-Pama-Nyungan: Evans and Jones 1997</tree-val>
+              <start-date nil="true"></start-date>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+            </child>
+          </children>
+          <alt-names></alt-names>
+          <pri-name>Tangkic-Karrwan-Pama-Nyungan</pri-name>
+          <created-by>joe_leif</created-by>
+          <confidence>n</confidence>
+          <updated-at type="datetime">2010-07-01T10:21:16-04:00</updated-at>
+          <is-default type="integer">0</is-default>
+          <tree-id type="integer">17955</tree-id>
+          <node-type>Subgroup</node-type>
+          <updater-id type="integer">10740</updater-id>
+          <status nil="true"></status>
+          <created-at type="datetime">2010-07-01T10:21:16-04:00</created-at>
+          <publications>Evans, Nicholas  &amp; Rhys  Jones. 1997. The Cradle of the Pama-Nyungans: Archeaological and Linguistic Speculations. In Nicholas  Evans &amp; Patrick  McConvell (eds.), Archaeology and Linguistics: Aboriginal Australia in Global Perspective, 385-417. Melbourne: Oxford University Press Australia. ISBN 0 19 553728 9</publications>
+          <codes>tkpn</codes>
+          <sureness type="integer">-1</sureness>
+          <other-codes></other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">715276</id>
+          <end-date nil="true"></end-date>
+          <updated-by>joe_leif</updated-by>
+          <tree-val>Gunwinyguan-Tangkic-Karrwan-Pama-Nyungan: Evans and Jones 1997</tree-val>
+          <start-date nil="true"></start-date>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+        </child>
+        <child>
+          <pub-comments>"Like Tangkic, Gunwinyguan appears to have somewhat higher proportion of vocabulary in common with Pama-Nyungan than other Northern languages, but is clearly non-Pama-Nyungan on the basis of initial laminalisation and pronouns. Unlike Tangkic and Karrwan, the Gunwinyguan languages are quite distinct from Pama-Nyungan typologically: head-marking typology, complex verbal prefixation, and prefixed noun classes can all be reconstructed for proto-Gunwinyguan" (Evans and Jones 1997: 396).</pub-comments>
+          <node-type-id type="integer">10000</node-type-id>
+          <creator-id type="integer">10740</creator-id>
+          <children type="array"/>
+          <alt-names></alt-names>
+          <pri-name>Gunwinyguan</pri-name>
+          <created-by>joe_leif</created-by>
+          <confidence>n</confidence>
+          <updated-at type="datetime">2010-07-01T10:21:16-04:00</updated-at>
+          <is-default type="integer">0</is-default>
+          <tree-id type="integer">17955</tree-id>
+          <node-type>Subgroup</node-type>
+          <updater-id type="integer">10740</updater-id>
+          <status nil="true"></status>
+          <created-at type="datetime">2010-07-01T10:21:16-04:00</created-at>
+          <publications>Evans, Nicholas  &amp; Rhys  Jones. 1997. The Cradle of the Pama-Nyungans: Archeaological and Linguistic Speculations. In Nicholas  Evans &amp; Patrick  McConvell (eds.), Archaeology and Linguistics: Aboriginal Australia in Global Perspective, 385-417. Melbourne: Oxford University Press Australia. ISBN 0 19 553728 9</publications>
+          <codes>gunw</codes>
+          <sureness type="integer">-1</sureness>
+          <other-codes></other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">715275</id>
+          <end-date nil="true"></end-date>
+          <updated-by>joe_leif</updated-by>
+          <tree-val>Gunwinyguan-Tangkic-Karrwan-Pama-Nyungan: Evans and Jones 1997</tree-val>
+          <start-date nil="true"></start-date>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+        </child>
+      </children>
+      <alt-names></alt-names>
+      <pri-name>Gunwinyguan-Tangkic-Karrwan-Pama-Nyungan</pri-name>
+      <created-by>joe_leif</created-by>
+      <confidence>n</confidence>
+      <updated-at type="datetime">2010-07-01T10:21:16-04:00</updated-at>
+      <is-default type="integer">0</is-default>
+      <tree-id type="integer">17955</tree-id>
+      <node-type>Subgroup</node-type>
+      <updater-id type="integer">10740</updater-id>
+      <status nil="true"></status>
+      <created-at type="datetime">2010-07-01T10:21:16-04:00</created-at>
+      <publications>Evans, Nicholas  &amp; Rhys  Jones. 1997. The Cradle of the Pama-Nyungans: Archeaological and Linguistic Speculations. In Nicholas  Evans &amp; Patrick  McConvell (eds.), Archaeology and Linguistics: Aboriginal Australia in Global Perspective, 385-417. Melbourne: Oxford University Press Australia. ISBN 0 19 553728 9</publications>
+      <codes>gtkp</codes>
+      <sureness type="integer">-1</sureness>
+      <other-codes></other-codes>
+      <node-status-id nil="true"></node-status-id>
+      <id type="integer">715274</id>
+      <end-date nil="true"></end-date>
+      <updated-by>joe_leif</updated-by>
+      <tree-val>Gunwinyguan-Tangkic-Karrwan-Pama-Nyungan: Evans and Jones 1997</tree-val>
+      <start-date nil="true"></start-date>
+      <geography nil="true"></geography>
+      <deleted-at nil="true"></deleted-at>
+    </root>
+    <description>Gunwinyguan-Tangkic-Karrwan-Pama-Nyungan: Evans and Jones 1997</description>
+  </tree>
+</hash>

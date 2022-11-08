@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <description>Matacoan: Dryer 2005</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2008-09-10T10:55:17-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Matacoan: Dryer 2005</tree-val>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2008-09-10T10:55:18-04:00</updated-at>
+      <pri-name>Matacoan</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">136119</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">10709</tree-id>
+      <codes>matc</codes>
+      <status nil="true"></status>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 641-642. New York: Oxford University Press. ISBN 0199255911</publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes>crt</other-codes>
+          <created-at type="datetime">2008-09-10T10:55:18-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Matacoan: Dryer 2005</tree-val>
+          <pub-comments>it has 2 varieties in Ethnologue: Chorote (Iyojwa'ja)/Chorote (Iyo'wujwa)</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2008-09-10T10:55:18-04:00</updated-at>
+          <pri-name>Chorote</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">136120</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Country: Argentina, Bolivia, Paraguay; Lat.: -22.5; Long.: -62.5</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">10709</tree-id>
+          <codes>crq, crt</codes>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 641-642. New York: Oxford University Press. ISBN 0199255911</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes>chu</other-codes>
+          <created-at type="datetime">2008-09-10T10:55:18-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Matacoan: Dryer 2005</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2008-09-10T10:55:18-04:00</updated-at>
+          <pri-name>Chulup&#237;</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">136121</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Country: Paraguay; Lat.: -23.5; Long.: -60.5</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">10709</tree-id>
+          <codes>cag</codes>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 641-642. New York: Oxford University Press. ISBN 0199255911</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes>mca</other-codes>
+          <created-at type="datetime">2008-09-10T10:55:18-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Matacoan: Dryer 2005</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2008-09-10T10:55:18-04:00</updated-at>
+          <pri-name>Maca</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">136122</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Country: Paraguay; Lat.: -25; Long.: -57.5</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">10709</tree-id>
+          <codes>mca</codes>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 641-642. New York: Oxford University Press. ISBN 0199255911</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes>wch</other-codes>
+          <created-at type="datetime">2008-09-10T10:55:18-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Matacoan: Dryer 2005</tree-val>
+          <pub-comments>it has 3 varieties in Ethnologue: Wich&#237; Lhamt&#233;s Nocten, Wich&#237; Lhamt&#233;s G&#252;isnay, Wich&#237; Lhamt&#233;s Vejoz</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2008-09-10T10:55:18-04:00</updated-at>
+          <pri-name>Wich&#237;</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">136123</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Country: Argentina, Bolivia; Lat.: -22.5; Long.: -62.58</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">10709</tree-id>
+          <codes>mzh</codes>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 641-642. New York: Oxford University Press. ISBN 0199255911</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

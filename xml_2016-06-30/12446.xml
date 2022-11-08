@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <deleted-at nil="true"></deleted-at>
+      <creator-id type="integer">10740</creator-id>
+      <confidence>y</confidence>
+      <updater-id type="integer">10740</updater-id>
+      <start-date nil="true"></start-date>
+      <node-type-id type="integer">10000</node-type-id>
+      <tree-id type="integer">12446</tree-id>
+      <status nil="true"></status>
+      <geography nil="true"></geography>
+      <created-by>joe_leif</created-by>
+      <pri-name>Taushiro</pri-name>
+      <codes>taus</codes>
+      <node-type>Subgroup</node-type>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637. New York: Oxford University Press. ISBN 0199255911</publications>
+      <other-codes></other-codes>
+      <is-default type="integer">0</is-default>
+      <created-at type="datetime">2009-05-19T17:38:45-04:00</created-at>
+      <updated-by>joe_leif</updated-by>
+      <tree-val>Taushiro: Dryer 2005</tree-val>
+      <sureness type="integer">0</sureness>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <id type="integer">418081</id>
+      <alt-names></alt-names>
+      <node-status-id nil="true"></node-status-id>
+      <children type="array">
+        <child>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10001</node-type-id>
+          <tree-id type="integer">12446</tree-id>
+          <status nil="true"></status>
+          <geography>Country: Peru; Lat.: -2.5; Long.: -76</geography>
+          <created-by>joe_leif</created-by>
+          <pri-name>Taushiro</pri-name>
+          <codes>trr</codes>
+          <node-type>Language</node-type>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637. New York: Oxford University Press. ISBN 0199255911</publications>
+          <other-codes>tsr</other-codes>
+          <is-default type="integer">0</is-default>
+          <created-at type="datetime">2009-05-19T17:38:46-04:00</created-at>
+          <updated-by>joe_leif</updated-by>
+          <tree-val>Taushiro: Dryer 2005</tree-val>
+          <sureness type="integer">0</sureness>
+          <pub-comments></pub-comments>
+          <id type="integer">418082</id>
+          <alt-names></alt-names>
+          <node-status-id nil="true"></node-status-id>
+          <children type="array"/>
+          <updated-at type="datetime">2009-05-19T17:38:46-04:00</updated-at>
+          <end-date nil="true"></end-date>
+        </child>
+      </children>
+      <updated-at type="datetime">2009-05-19T17:38:46-04:00</updated-at>
+      <end-date nil="true"></end-date>
+    </root>
+    <description>Taushiro: Dryer 2005</description>
+  </tree>
+</hash>

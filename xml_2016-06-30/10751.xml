@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>
+    <root>
+      <created-by>joe_leif</created-by>
+      <tree-id type="integer">10751</tree-id>
+      <pub-comments>WALS doesn&#8217;t distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <other-codes></other-codes>
+      <sureness type="integer">0</sureness>
+      <geography nil="true"></geography>
+      <tree-val>Chukotko-Kamchatkan: Dryer 2005</tree-val>
+      <alt-names></alt-names>
+      <node-type-id type="integer">10000</node-type-id>
+      <created-at type="datetime">2008-09-10T14:51:17-04:00</created-at>
+      <children type="array">
+        <child>
+          <created-by>joe_leif</created-by>
+          <tree-id type="integer">10751</tree-id>
+          <pub-comments></pub-comments>
+          <other-codes></other-codes>
+          <sureness type="integer">0</sureness>
+          <geography nil="true"></geography>
+          <tree-val>Chukotko-Kamchatkan: Dryer 2005</tree-val>
+          <alt-names></alt-names>
+          <node-type-id type="integer">10000</node-type-id>
+          <created-at type="datetime">2008-09-10T14:51:17-04:00</created-at>
+          <children type="array">
+            <child>
+              <created-by>joe_leif</created-by>
+              <tree-id type="integer">10751</tree-id>
+              <pub-comments></pub-comments>
+              <other-codes>alu</other-codes>
+              <sureness type="integer">0</sureness>
+              <geography>Country: Russia; Lat.: 61; Long.: 165</geography>
+              <tree-val>Chukotko-Kamchatkan: Dryer 2005</tree-val>
+              <alt-names></alt-names>
+              <node-type-id type="integer">10001</node-type-id>
+              <created-at type="datetime">2008-09-10T14:51:18-04:00</created-at>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 600. New York: Oxford University Press. ISBN 0199255911</publications>
+              <deleted-at nil="true"></deleted-at>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <codes>alr</codes>
+              <node-type>Language</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2008-09-10T14:51:18-04:00</updated-at>
+              <pri-name>Alutor</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <is-default type="integer">0</is-default>
+              <id type="integer">136377</id>
+            </child>
+            <child>
+              <created-by>joe_leif</created-by>
+              <tree-id type="integer">10751</tree-id>
+              <pub-comments></pub-comments>
+              <other-codes>chk</other-codes>
+              <sureness type="integer">0</sureness>
+              <geography>Country: Russia; Lat.: 67; Long.: -173</geography>
+              <tree-val>Chukotko-Kamchatkan: Dryer 2005</tree-val>
+              <alt-names>Chukot</alt-names>
+              <node-type-id type="integer">10001</node-type-id>
+              <created-at type="datetime">2008-09-10T14:51:18-04:00</created-at>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 600. New York: Oxford University Press. ISBN 0199255911</publications>
+              <deleted-at nil="true"></deleted-at>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <codes>ckt</codes>
+              <node-type>Language</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2008-09-10T14:51:18-04:00</updated-at>
+              <pri-name>Chukchi</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <is-default type="integer">0</is-default>
+              <id type="integer">136378</id>
+            </child>
+            <child>
+              <created-by>joe_leif</created-by>
+              <tree-id type="integer">10751</tree-id>
+              <pub-comments></pub-comments>
+              <other-codes>krq</other-codes>
+              <sureness type="integer">0</sureness>
+              <geography>Country: Russia; Lat.: 62.25; Long.: 175</geography>
+              <tree-val>Chukotko-Kamchatkan: Dryer 2005</tree-val>
+              <alt-names></alt-names>
+              <node-type-id type="integer">10001</node-type-id>
+              <created-at type="datetime">2008-09-10T14:51:18-04:00</created-at>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 600. New York: Oxford University Press. ISBN 0199255911</publications>
+              <deleted-at nil="true"></deleted-at>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <codes>krk</codes>
+              <node-type>Language</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2008-09-10T14:51:18-04:00</updated-at>
+              <pri-name>Kerek</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <is-default type="integer">0</is-default>
+              <id type="integer">136379</id>
+            </child>
+            <child>
+              <created-by>joe_leif</created-by>
+              <tree-id type="integer">10751</tree-id>
+              <pub-comments></pub-comments>
+              <other-codes>kry</other-codes>
+              <sureness type="integer">0</sureness>
+              <geography>Country: Russia; Lat.: 61; Long.: 167</geography>
+              <tree-val>Chukotko-Kamchatkan: Dryer 2005</tree-val>
+              <alt-names></alt-names>
+              <node-type-id type="integer">10001</node-type-id>
+              <created-at type="datetime">2008-09-10T14:51:18-04:00</created-at>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 600. New York: Oxford University Press. ISBN 0199255911</publications>
+              <deleted-at nil="true"></deleted-at>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <codes>kpy</codes>
+              <node-type>Language</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2008-09-10T14:51:18-04:00</updated-at>
+              <pri-name>Koryak</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <is-default type="integer">0</is-default>
+              <id type="integer">136380</id>
+            </child>
+          </children>
+          <updated-by>joe_leif</updated-by>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 600. New York: Oxford University Press. ISBN 0199255911</publications>
+          <deleted-at nil="true"></deleted-at>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <codes>nchk</codes>
+          <node-type>Subgroup</node-type>
+          <updater-id type="integer">10740</updater-id>
+          <confidence>y</confidence>
+          <updated-at type="datetime">2008-09-10T14:51:18-04:00</updated-at>
+          <pri-name>Northern Chukotko-Kamchatkan</pri-name>
+          <node-status-id nil="true"></node-status-id>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <is-default type="integer">0</is-default>
+          <id type="integer">136376</id>
+        </child>
+        <child>
+          <created-by>joe_leif</created-by>
+          <tree-id type="integer">10751</tree-id>
+          <pub-comments></pub-comments>
+          <other-codes></other-codes>
+          <sureness type="integer">0</sureness>
+          <geography nil="true"></geography>
+          <tree-val>Chukotko-Kamchatkan: Dryer 2005</tree-val>
+          <alt-names></alt-names>
+          <node-type-id type="integer">10000</node-type-id>
+          <created-at type="datetime">2008-09-10T14:51:18-04:00</created-at>
+          <children type="array">
+            <child>
+              <created-by>joe_leif</created-by>
+              <tree-id type="integer">10751</tree-id>
+              <pub-comments></pub-comments>
+              <other-codes>ite</other-codes>
+              <sureness type="integer">0</sureness>
+              <geography>Country: Russia; Lat.: 57; Long.: 157.5</geography>
+              <tree-val>Chukotko-Kamchatkan: Dryer 2005</tree-val>
+              <alt-names></alt-names>
+              <node-type-id type="integer">10001</node-type-id>
+              <created-at type="datetime">2008-09-10T14:51:18-04:00</created-at>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 600. New York: Oxford University Press. ISBN 0199255911</publications>
+              <deleted-at nil="true"></deleted-at>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <codes>itl</codes>
+              <node-type>Language</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2008-09-10T14:51:18-04:00</updated-at>
+              <pri-name>Itelmen</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <is-default type="integer">0</is-default>
+              <id type="integer">136382</id>
+            </child>
+          </children>
+          <updated-by>joe_leif</updated-by>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 600. New York: Oxford University Press. ISBN 0199255911</publications>
+          <deleted-at nil="true"></deleted-at>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <codes>schk</codes>
+          <node-type>Subgroup</node-type>
+          <updater-id type="integer">10740</updater-id>
+          <confidence>y</confidence>
+          <updated-at type="datetime">2008-09-10T14:51:18-04:00</updated-at>
+          <pri-name>Southern Chukotko-Kamchatkan</pri-name>
+          <node-status-id nil="true"></node-status-id>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <is-default type="integer">0</is-default>
+          <id type="integer">136381</id>
+        </child>
+      </children>
+      <updated-by>joe_leif</updated-by>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 600. New York: Oxford University Press. ISBN 0199255911</publications>
+      <deleted-at nil="true"></deleted-at>
+      <status nil="true"></status>
+      <start-date nil="true"></start-date>
+      <codes>chka</codes>
+      <node-type>Subgroup</node-type>
+      <updater-id type="integer">10740</updater-id>
+      <confidence>y</confidence>
+      <updated-at type="datetime">2008-09-10T14:51:17-04:00</updated-at>
+      <pri-name>Chukotko-Kamchatkan</pri-name>
+      <node-status-id nil="true"></node-status-id>
+      <end-date nil="true"></end-date>
+      <creator-id type="integer">10740</creator-id>
+      <is-default type="integer">0</is-default>
+      <id type="integer">136375</id>
+    </root>
+    <description>Chukotko-Kamchatkan: Dryer 2005</description>
+  </tree>
+</hash>

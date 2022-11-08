@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <is-default type="integer">0</is-default>
+      <geography nil="true"></geography>
+      <tree-val>Iroquoian: Dryer 2005</tree-val>
+      <sureness type="integer">0</sureness>
+      <node-type-id type="integer">10000</node-type-id>
+      <id type="integer">135776</id>
+      <alt-names></alt-names>
+      <pri-name>Iroquoian</pri-name>
+      <other-codes></other-codes>
+      <updated-by>joe_leif</updated-by>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 625. New York: Oxford University Press. ISBN 0199255911</publications>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <created-at type="datetime">2008-09-09T12:48:25-04:00</created-at>
+      <confidence>y</confidence>
+      <status nil="true"></status>
+      <node-type>Subgroup</node-type>
+      <end-date nil="true"></end-date>
+      <updated-at type="datetime">2008-09-09T12:48:26-04:00</updated-at>
+      <creator-id type="integer">10740</creator-id>
+      <children type="array">
+        <child>
+          <is-default type="integer">0</is-default>
+          <geography nil="true"></geography>
+          <tree-val>Iroquoian: Dryer 2005</tree-val>
+          <sureness type="integer">0</sureness>
+          <node-type-id type="integer">10000</node-type-id>
+          <id type="integer">135777</id>
+          <alt-names></alt-names>
+          <pri-name>Northern Iroquoian</pri-name>
+          <other-codes></other-codes>
+          <updated-by>joe_leif</updated-by>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 625. New York: Oxford University Press. ISBN 0199255911</publications>
+          <pub-comments></pub-comments>
+          <created-at type="datetime">2008-09-09T12:48:26-04:00</created-at>
+          <confidence>y</confidence>
+          <status nil="true"></status>
+          <node-type>Subgroup</node-type>
+          <end-date nil="true"></end-date>
+          <updated-at type="datetime">2008-09-09T12:48:26-04:00</updated-at>
+          <creator-id type="integer">10740</creator-id>
+          <children type="array">
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography>Country: United States; Lat.: 42.75; Long.: -76.75</geography>
+              <tree-val>Iroquoian: Dryer 2005</tree-val>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <id type="integer">135778</id>
+              <alt-names></alt-names>
+              <pri-name>Cayuga</pri-name>
+              <other-codes>cyg</other-codes>
+              <updated-by>joe_leif</updated-by>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 625. New York: Oxford University Press. ISBN 0199255911</publications>
+              <pub-comments></pub-comments>
+              <created-at type="datetime">2008-09-09T12:48:26-04:00</created-at>
+              <confidence>y</confidence>
+              <status nil="true"></status>
+              <node-type>Language</node-type>
+              <end-date nil="true"></end-date>
+              <updated-at type="datetime">2008-09-09T12:48:26-04:00</updated-at>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">10644</tree-id>
+              <start-date nil="true"></start-date>
+              <node-status-id nil="true"></node-status-id>
+              <codes>cay</codes>
+              <deleted-at nil="true"></deleted-at>
+              <created-by>joe_leif</created-by>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography>Country: United States, Canada; Lat.: 43.5; Long.: -74.25</geography>
+              <tree-val>Iroquoian: Dryer 2005</tree-val>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <id type="integer">135779</id>
+              <alt-names></alt-names>
+              <pri-name>Mohawk</pri-name>
+              <other-codes>moh</other-codes>
+              <updated-by>joe_leif</updated-by>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 625. New York: Oxford University Press. ISBN 0199255911</publications>
+              <pub-comments></pub-comments>
+              <created-at type="datetime">2008-09-09T12:48:26-04:00</created-at>
+              <confidence>y</confidence>
+              <status nil="true"></status>
+              <node-type>Language</node-type>
+              <end-date nil="true"></end-date>
+              <updated-at type="datetime">2008-09-09T12:48:26-04:00</updated-at>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">10644</tree-id>
+              <start-date nil="true"></start-date>
+              <node-status-id nil="true"></node-status-id>
+              <codes>moh</codes>
+              <deleted-at nil="true"></deleted-at>
+              <created-by>joe_leif</created-by>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography>Country: United States; Lat.: 43; Long.: -75.67</geography>
+              <tree-val>Iroquoian: Dryer 2005</tree-val>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <id type="integer">135780</id>
+              <alt-names></alt-names>
+              <pri-name>Oneida</pri-name>
+              <other-codes>ond</other-codes>
+              <updated-by>joe_leif</updated-by>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 625. New York: Oxford University Press. ISBN 0199255911</publications>
+              <pub-comments></pub-comments>
+              <created-at type="datetime">2008-09-09T12:48:26-04:00</created-at>
+              <confidence>y</confidence>
+              <status nil="true"></status>
+              <node-type>Language</node-type>
+              <end-date nil="true"></end-date>
+              <updated-at type="datetime">2008-09-09T12:48:26-04:00</updated-at>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">10644</tree-id>
+              <start-date nil="true"></start-date>
+              <node-status-id nil="true"></node-status-id>
+              <codes>one</codes>
+              <deleted-at nil="true"></deleted-at>
+              <created-by>joe_leif</created-by>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography>Country: United States; Lat.: 42.75; Long.: -76.17</geography>
+              <tree-val>Iroquoian: Dryer 2005</tree-val>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <id type="integer">135781</id>
+              <alt-names></alt-names>
+              <pri-name>Onondaga</pri-name>
+              <other-codes>onn</other-codes>
+              <updated-by>joe_leif</updated-by>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 625. New York: Oxford University Press. ISBN 0199255911</publications>
+              <pub-comments></pub-comments>
+              <created-at type="datetime">2008-09-09T12:48:26-04:00</created-at>
+              <confidence>y</confidence>
+              <status nil="true"></status>
+              <node-type>Language</node-type>
+              <end-date nil="true"></end-date>
+              <updated-at type="datetime">2008-09-09T12:48:26-04:00</updated-at>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">10644</tree-id>
+              <start-date nil="true"></start-date>
+              <node-status-id nil="true"></node-status-id>
+              <codes>ono</codes>
+              <deleted-at nil="true"></deleted-at>
+              <created-by>joe_leif</created-by>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography>Country: United States; Lat.: 42.5; Long.: -77.5</geography>
+              <tree-val>Iroquoian: Dryer 2005</tree-val>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <id type="integer">135782</id>
+              <alt-names></alt-names>
+              <pri-name>Seneca</pri-name>
+              <other-codes>snc</other-codes>
+              <updated-by>joe_leif</updated-by>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 625. New York: Oxford University Press. ISBN 0199255911</publications>
+              <pub-comments></pub-comments>
+              <created-at type="datetime">2008-09-09T12:48:26-04:00</created-at>
+              <confidence>y</confidence>
+              <status nil="true"></status>
+              <node-type>Language</node-type>
+              <end-date nil="true"></end-date>
+              <updated-at type="datetime">2008-09-09T12:48:26-04:00</updated-at>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">10644</tree-id>
+              <start-date nil="true"></start-date>
+              <node-status-id nil="true"></node-status-id>
+              <codes>see</codes>
+              <deleted-at nil="true"></deleted-at>
+              <created-by>joe_leif</created-by>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography>Country: United States; Lat.: 36; Long.: -77.5</geography>
+              <tree-val>Iroquoian: Dryer 2005</tree-val>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <id type="integer">135783</id>
+              <alt-names></alt-names>
+              <pri-name>Tuscarora</pri-name>
+              <other-codes>tus</other-codes>
+              <updated-by>joe_leif</updated-by>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 625. New York: Oxford University Press. ISBN 0199255911</publications>
+              <pub-comments></pub-comments>
+              <created-at type="datetime">2008-09-09T12:48:26-04:00</created-at>
+              <confidence>y</confidence>
+              <status nil="true"></status>
+              <node-type>Language</node-type>
+              <end-date nil="true"></end-date>
+              <updated-at type="datetime">2008-09-09T12:48:26-04:00</updated-at>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">10644</tree-id>
+              <start-date nil="true"></start-date>
+              <node-status-id nil="true"></node-status-id>
+              <codes>tus</codes>
+              <deleted-at nil="true"></deleted-at>
+              <created-by>joe_leif</created-by>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography>Country: Canada; Lat.: 44.33; Long.: -77.5</geography>
+              <tree-val>Iroquoian: Dryer 2005</tree-val>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <id type="integer">135784</id>
+              <alt-names></alt-names>
+              <pri-name>Wyandot</pri-name>
+              <other-codes>way</other-codes>
+              <updated-by>joe_leif</updated-by>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 625. New York: Oxford University Press. ISBN 0199255911</publications>
+              <pub-comments></pub-comments>
+              <created-at type="datetime">2008-09-09T12:48:26-04:00</created-at>
+              <confidence>y</confidence>
+              <status nil="true"></status>
+              <node-type>Language</node-type>
+              <end-date nil="true"></end-date>
+              <updated-at type="datetime">2008-09-09T12:48:26-04:00</updated-at>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">10644</tree-id>
+              <start-date nil="true"></start-date>
+              <node-status-id nil="true"></node-status-id>
+              <codes>wya</codes>
+              <deleted-at nil="true"></deleted-at>
+              <created-by>joe_leif</created-by>
+            </child>
+          </children>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">10644</tree-id>
+          <start-date nil="true"></start-date>
+          <node-status-id nil="true"></node-status-id>
+          <codes>niro</codes>
+          <deleted-at nil="true"></deleted-at>
+          <created-by>joe_leif</created-by>
+        </child>
+        <child>
+          <is-default type="integer">0</is-default>
+          <geography nil="true"></geography>
+          <tree-val>Iroquoian: Dryer 2005</tree-val>
+          <sureness type="integer">0</sureness>
+          <node-type-id type="integer">10000</node-type-id>
+          <id type="integer">135785</id>
+          <alt-names></alt-names>
+          <pri-name>Southern Iroquoian</pri-name>
+          <other-codes></other-codes>
+          <updated-by>joe_leif</updated-by>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 625. New York: Oxford University Press. ISBN 0199255911</publications>
+          <pub-comments></pub-comments>
+          <created-at type="datetime">2008-09-09T12:48:26-04:00</created-at>
+          <confidence>y</confidence>
+          <status nil="true"></status>
+          <node-type>Subgroup</node-type>
+          <end-date nil="true"></end-date>
+          <updated-at type="datetime">2008-09-09T12:48:26-04:00</updated-at>
+          <creator-id type="integer">10740</creator-id>
+          <children type="array">
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography>Country: United States; Lat.: 35.5; Long.: -83.5</geography>
+              <tree-val>Iroquoian: Dryer 2005</tree-val>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <id type="integer">135786</id>
+              <alt-names></alt-names>
+              <pri-name>Cherokee</pri-name>
+              <other-codes>che</other-codes>
+              <updated-by>joe_leif</updated-by>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 625. New York: Oxford University Press. ISBN 0199255911</publications>
+              <pub-comments></pub-comments>
+              <created-at type="datetime">2008-09-09T12:48:26-04:00</created-at>
+              <confidence>y</confidence>
+              <status nil="true"></status>
+              <node-type>Language</node-type>
+              <end-date nil="true"></end-date>
+              <updated-at type="datetime">2008-09-09T12:48:26-04:00</updated-at>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">10644</tree-id>
+              <start-date nil="true"></start-date>
+              <node-status-id nil="true"></node-status-id>
+              <codes>chr</codes>
+              <deleted-at nil="true"></deleted-at>
+              <created-by>joe_leif</created-by>
+            </child>
+          </children>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">10644</tree-id>
+          <start-date nil="true"></start-date>
+          <node-status-id nil="true"></node-status-id>
+          <codes>siro</codes>
+          <deleted-at nil="true"></deleted-at>
+          <created-by>joe_leif</created-by>
+        </child>
+      </children>
+      <updater-id type="integer">10740</updater-id>
+      <tree-id type="integer">10644</tree-id>
+      <start-date nil="true"></start-date>
+      <node-status-id nil="true"></node-status-id>
+      <codes>iroq</codes>
+      <deleted-at nil="true"></deleted-at>
+      <created-by>joe_leif</created-by>
+    </root>
+    <description>Iroquoian: Dryer 2005</description>
+  </tree>
+</hash>

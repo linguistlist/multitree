@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Africa</region>
+    <root>
+      <tree-id type="integer">24706</tree-id>
+      <node-status-id nil="true"></node-status-id>
+      <id type="integer">960775</id>
+      <created-at type="datetime">2013-08-09T14:51:36-04:00</created-at>
+      <node-type-id type="integer">10000</node-type-id>
+      <codes>afis</codes>
+      <pub-comments></pub-comments>
+      <sureness type="integer">0</sureness>
+      <publications>Brenzinger, Matthias. 2008. The Twelve Modern Khoisan Languages, 3rd International Symposium on Khoisan Languages. </publications>
+      <alt-names></alt-names>
+      <updated-at type="datetime">2013-08-09T14:51:36-04:00</updated-at>
+      <tree-val>African Language Isolates: Brenzinger 2008</tree-val>
+      <node-type>Subgroup</node-type>
+      <geography nil="true"></geography>
+      <status nil="true"></status>
+      <confidence>y</confidence>
+      <children type="array">
+        <child>
+          <tree-id type="integer">24706</tree-id>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">960777</id>
+          <created-at type="datetime">2013-08-09T14:51:36-04:00</created-at>
+          <node-type-id type="integer">10001</node-type-id>
+          <codes>sad</codes>
+          <pub-comments></pub-comments>
+          <sureness type="integer">0</sureness>
+          <publications>Brenzinger, Matthias. 2008. The Twelve Modern Khoisan Languages, 3rd International Symposium on Khoisan Languages. </publications>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2013-08-09T14:51:36-04:00</updated-at>
+          <tree-val>African Language Isolates: Brenzinger 2008</tree-val>
+          <node-type>Language</node-type>
+          <geography nil="true"></geography>
+          <status nil="true"></status>
+          <confidence>y</confidence>
+          <children type="array"/>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <is-default type="integer">0</is-default>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10700</creator-id>
+          <deleted-at nil="true"></deleted-at>
+          <updater-id type="integer">10700</updater-id>
+          <pri-name>Sandawe</pri-name>
+        </child>
+        <child>
+          <tree-id type="integer">24706</tree-id>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">960776</id>
+          <created-at type="datetime">2013-08-09T14:51:36-04:00</created-at>
+          <node-type-id type="integer">10001</node-type-id>
+          <codes>hts</codes>
+          <pub-comments></pub-comments>
+          <sureness type="integer">0</sureness>
+          <publications>Brenzinger, Matthias. 2008. The Twelve Modern Khoisan Languages, 3rd International Symposium on Khoisan Languages. </publications>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2013-08-09T14:51:36-04:00</updated-at>
+          <tree-val>African Language Isolates: Brenzinger 2008</tree-val>
+          <node-type>Language</node-type>
+          <geography nil="true"></geography>
+          <status nil="true"></status>
+          <confidence>y</confidence>
+          <children type="array"/>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <is-default type="integer">0</is-default>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10700</creator-id>
+          <deleted-at nil="true"></deleted-at>
+          <updater-id type="integer">10700</updater-id>
+          <pri-name>Hadza</pri-name>
+        </child>
+      </children>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <is-default type="integer">0</is-default>
+      <end-date nil="true"></end-date>
+      <creator-id type="integer">10700</creator-id>
+      <deleted-at nil="true"></deleted-at>
+      <updater-id type="integer">10700</updater-id>
+      <pri-name>African Isolates</pri-name>
+    </root>
+    <description>African Language Isolates: Brenzinger 2008</description>
+  </tree>
+</hash>

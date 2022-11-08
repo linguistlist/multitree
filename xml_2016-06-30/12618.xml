@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>
+    <root>
+      <pri-name>Nivkh</pri-name>
+      <other-codes></other-codes>
+      <created-at type="datetime">2009-05-27T09:49:31-04:00</created-at>
+      <updater-id type="integer">10740</updater-id>
+      <node-type-id type="integer">10000</node-type-id>
+      <node-status-id nil="true"></node-status-id>
+      <codes>gily</codes>
+      <id type="integer">421665</id>
+      <deleted-at nil="true"></deleted-at>
+      <creator-id type="integer">10740</creator-id>
+      <tree-val>Nivkh: Dryer 2005</tree-val>
+      <is-default type="integer">0</is-default>
+      <updated-by>joe_leif</updated-by>
+      <children type="array">
+        <child>
+          <pri-name>Nivkh (South Sakhalin)</pri-name>
+          <other-codes>nvs</other-codes>
+          <created-at type="datetime">2009-05-27T09:49:31-04:00</created-at>
+          <updater-id type="integer">10740</updater-id>
+          <node-type-id type="integer">10001</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <codes>niv-sou</codes>
+          <id type="integer">421667</id>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <tree-val>Nivkh: Dryer 2005</tree-val>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <children type="array"/>
+          <sureness type="integer">0</sureness>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <pub-comments>in Ethnologue: dialect of Gilyak</pub-comments>
+          <created-by>joe_leif</created-by>
+          <tree-id type="integer">12618</tree-id>
+          <confidence>y</confidence>
+          <updated-at type="datetime">2009-05-27T09:49:32-04:00</updated-at>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 600. New York: Oxford University Press. ISBN 0199255911</publications>
+          <geography>Country: Russia; Lat.: 47; Long.: 142.5</geography>
+          <node-type>Language</node-type>
+          <end-date nil="true"></end-date>
+          <alt-names></alt-names>
+        </child>
+        <child>
+          <pri-name>Nivkh</pri-name>
+          <other-codes>niv</other-codes>
+          <created-at type="datetime">2009-05-27T09:49:31-04:00</created-at>
+          <updater-id type="integer">10740</updater-id>
+          <node-type-id type="integer">10001</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <codes>niv</codes>
+          <id type="integer">421666</id>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <tree-val>Nivkh: Dryer 2005</tree-val>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <children type="array"/>
+          <sureness type="integer">0</sureness>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <created-by>joe_leif</created-by>
+          <tree-id type="integer">12618</tree-id>
+          <confidence>y</confidence>
+          <updated-at type="datetime">2009-05-27T09:49:31-04:00</updated-at>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 600. New York: Oxford University Press. ISBN 0199255911</publications>
+          <geography>Country: Russia; Lat.: 53.33; Long.: 142</geography>
+          <node-type>Language</node-type>
+          <end-date nil="true"></end-date>
+          <alt-names>Gilyak</alt-names>
+        </child>
+      </children>
+      <sureness type="integer">0</sureness>
+      <status nil="true"></status>
+      <start-date nil="true"></start-date>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <created-by>joe_leif</created-by>
+      <tree-id type="integer">12618</tree-id>
+      <confidence>y</confidence>
+      <updated-at type="datetime">2009-05-27T09:49:31-04:00</updated-at>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 600. New York: Oxford University Press. ISBN 0199255911</publications>
+      <geography nil="true"></geography>
+      <node-type>Subgroup</node-type>
+      <end-date nil="true"></end-date>
+      <alt-names></alt-names>
+    </root>
+    <description>Nivkh: Dryer 2005</description>
+  </tree>
+</hash>

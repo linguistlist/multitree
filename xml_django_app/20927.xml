@@ -1,0 +1,1533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>
+    <root>
+      <updater-id type="integer">10740</updater-id>
+      <status nil="true"></status>
+      <node-type-id type="integer">10000</node-type-id>
+      <node-type>Subgroup</node-type>
+      <end-date nil="true"></end-date>
+      <codes>viei</codes>
+      <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+      <children type="array">
+        <child>
+          <updater-id type="integer">10740</updater-id>
+          <status nil="true"></status>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-type>Subgroup</node-type>
+          <end-date nil="true"></end-date>
+          <codes>evie</codes>
+          <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+          <children type="array">
+            <child>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-type>Subgroup</node-type>
+              <end-date nil="true"></end-date>
+              <codes>viem</codes>
+              <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+              <children type="array">
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>vie</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array">
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <status nil="true"></status>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <node-type>Dialect Group</node-type>
+                      <end-date nil="true"></end-date>
+                      <codes>vie-upp</codes>
+                      <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                      <children type="array">
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <status nil="true"></status>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <node-type>Dialect</node-type>
+                          <end-date nil="true"></end-date>
+                          <codes>vie-upp</codes>
+                          <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                          <children type="array"/>
+                          <updated-at type="datetime">2012-10-08T17:00:27-04:00</updated-at>
+                          <confidence>y</confidence>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">845292</id>
+                          <pri-name>Haut Annam</pri-name>
+                          <created-by>joe_leif</created-by>
+                          <sureness type="integer">0</sureness>
+                          <node-status-id nil="true"></node-status-id>
+                          <creator-id type="integer">10740</creator-id>
+                          <start-date nil="true"></start-date>
+                          <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                          <other-codes></other-codes>
+                          <updated-by>joe_leif</updated-by>
+                          <pub-comments></pub-comments>
+                          <alt-names>Haut Annam Vietnamese</alt-names>
+                          <tree-id type="integer">20927</tree-id>
+                          <geography nil="true"></geography>
+                          <deleted-at nil="true"></deleted-at>
+                          <created-at type="datetime">2012-10-08T17:00:27-04:00</created-at>
+                        </child>
+                      </children>
+                      <updated-at type="datetime">2012-10-08T17:00:27-04:00</updated-at>
+                      <confidence>y</confidence>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">845291</id>
+                      <pri-name>Archaic dialects</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <sureness type="integer">0</sureness>
+                      <node-status-id nil="true"></node-status-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <start-date nil="true"></start-date>
+                      <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                      <other-codes></other-codes>
+                      <updated-by>joe_leif</updated-by>
+                      <pub-comments></pub-comments>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">20927</tree-id>
+                      <geography nil="true"></geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2012-10-08T17:00:27-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <status nil="true"></status>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <node-type>Dialect Group</node-type>
+                      <end-date nil="true"></end-date>
+                      <codes>vie-nor, vie-cen, vie-sou</codes>
+                      <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                      <children type="array">
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <status nil="true"></status>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <node-type>Dialect</node-type>
+                          <end-date nil="true"></end-date>
+                          <codes>vie-cen</codes>
+                          <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                          <children type="array"/>
+                          <updated-at type="datetime">2012-10-08T17:00:27-04:00</updated-at>
+                          <confidence>y</confidence>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">845289</id>
+                          <pri-name>Hu&#7873;</pri-name>
+                          <created-by>joe_leif</created-by>
+                          <sureness type="integer">0</sureness>
+                          <node-status-id nil="true"></node-status-id>
+                          <creator-id type="integer">10740</creator-id>
+                          <start-date nil="true"></start-date>
+                          <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                          <other-codes></other-codes>
+                          <updated-by>joe_leif</updated-by>
+                          <pub-comments></pub-comments>
+                          <alt-names>Hue</alt-names>
+                          <tree-id type="integer">20927</tree-id>
+                          <geography nil="true"></geography>
+                          <deleted-at nil="true"></deleted-at>
+                          <created-at type="datetime">2012-10-08T17:00:27-04:00</created-at>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <status nil="true"></status>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <node-type>Dialect</node-type>
+                          <end-date nil="true"></end-date>
+                          <codes>vie-nor</codes>
+                          <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                          <children type="array"/>
+                          <updated-at type="datetime">2012-10-08T17:00:27-04:00</updated-at>
+                          <confidence>y</confidence>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">845288</id>
+                          <pri-name>Hanoi</pri-name>
+                          <created-by>joe_leif</created-by>
+                          <sureness type="integer">0</sureness>
+                          <node-status-id nil="true"></node-status-id>
+                          <creator-id type="integer">10740</creator-id>
+                          <start-date nil="true"></start-date>
+                          <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                          <other-codes></other-codes>
+                          <updated-by>joe_leif</updated-by>
+                          <pub-comments></pub-comments>
+                          <alt-names>Standard Vietnamese</alt-names>
+                          <tree-id type="integer">20927</tree-id>
+                          <geography nil="true"></geography>
+                          <deleted-at nil="true"></deleted-at>
+                          <created-at type="datetime">2012-10-08T17:00:27-04:00</created-at>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <status nil="true"></status>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <node-type>Dialect</node-type>
+                          <end-date nil="true"></end-date>
+                          <codes>vie-sou</codes>
+                          <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                          <children type="array"/>
+                          <updated-at type="datetime">2012-10-08T17:00:27-04:00</updated-at>
+                          <confidence>n</confidence>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">845290</id>
+                          <pri-name>Saigon</pri-name>
+                          <created-by>joe_leif</created-by>
+                          <sureness type="integer">0</sureness>
+                          <node-status-id nil="true"></node-status-id>
+                          <creator-id type="integer">10740</creator-id>
+                          <start-date nil="true"></start-date>
+                          <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                          <other-codes></other-codes>
+                          <updated-by>joe_leif</updated-by>
+                          <pub-comments></pub-comments>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">20927</tree-id>
+                          <geography nil="true"></geography>
+                          <deleted-at nil="true"></deleted-at>
+                          <created-at type="datetime">2012-10-08T17:00:27-04:00</created-at>
+                        </child>
+                      </children>
+                      <updated-at type="datetime">2012-10-08T17:00:27-04:00</updated-at>
+                      <confidence>y</confidence>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">845287</id>
+                      <pri-name>Centrolineal dialects</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <sureness type="integer">0</sureness>
+                      <node-status-id nil="true"></node-status-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <start-date nil="true"></start-date>
+                      <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                      <other-codes></other-codes>
+                      <updated-by>joe_leif</updated-by>
+                      <pub-comments></pub-comments>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">20927</tree-id>
+                      <geography nil="true"></geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2012-10-08T17:00:27-04:00</created-at>
+                    </child>
+                  </children>
+                  <updated-at type="datetime">2012-10-08T17:00:27-04:00</updated-at>
+                  <confidence>y</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845286</id>
+                  <pri-name>Vietnamese</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:27-04:00</created-at>
+                </child>
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <node-type>Subgroup</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>muon</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array">
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <status nil="true"></status>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <codes>mtq</codes>
+                      <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                      <children type="array">
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <status nil="true"></status>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <node-type>Dialect</node-type>
+                          <end-date nil="true"></end-date>
+                          <codes>mtq-van</codes>
+                          <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                          <children type="array"/>
+                          <updated-at type="datetime">2012-10-08T17:00:26-04:00</updated-at>
+                          <confidence>n</confidence>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">845283</id>
+                          <pri-name>V&#226;n M&#244;ng</pri-name>
+                          <created-by>joe_leif</created-by>
+                          <sureness type="integer">-1</sureness>
+                          <node-status-id nil="true"></node-status-id>
+                          <creator-id type="integer">10740</creator-id>
+                          <start-date nil="true"></start-date>
+                          <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                          <other-codes></other-codes>
+                          <updated-by>joe_leif</updated-by>
+                          <pub-comments>Hayes references this dialect as discussed in Jean N. Cheon 1905, though he does not include it in his final classification of Vietic languages and dialects on pages 220-221 (1992).</pub-comments>
+                          <alt-names>Van Mong</alt-names>
+                          <tree-id type="integer">20927</tree-id>
+                          <geography nil="true"></geography>
+                          <deleted-at nil="true"></deleted-at>
+                          <created-at type="datetime">2012-10-08T17:00:26-04:00</created-at>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <status nil="true"></status>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <node-type>Dialect</node-type>
+                          <end-date nil="true"></end-date>
+                          <codes>mtq-uyl</codes>
+                          <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                          <children type="array"/>
+                          <updated-at type="datetime">2012-10-08T17:00:27-04:00</updated-at>
+                          <confidence>n</confidence>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">845284</id>
+                          <pri-name>Uy Lo M&#432;&#7901;ng</pri-name>
+                          <created-by>joe_leif</created-by>
+                          <sureness type="integer">-1</sureness>
+                          <node-status-id nil="true"></node-status-id>
+                          <creator-id type="integer">10740</creator-id>
+                          <start-date nil="true"></start-date>
+                          <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                          <other-codes></other-codes>
+                          <updated-by>joe_leif</updated-by>
+                          <pub-comments>"Muong Oy Lo is omitted because the lexical data in Maspero 1912 suggest that it is only a very divergent dialect of Muong" (Hayes 1992:221).</pub-comments>
+                          <alt-names>Uy Lo Muong</alt-names>
+                          <tree-id type="integer">20927</tree-id>
+                          <geography nil="true"></geography>
+                          <deleted-at nil="true"></deleted-at>
+                          <created-at type="datetime">2012-10-08T17:00:26-04:00</created-at>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <status nil="true"></status>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <node-type>Dialect</node-type>
+                          <end-date nil="true"></end-date>
+                          <codes>mtq-khe</codes>
+                          <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                          <children type="array"/>
+                          <updated-at type="datetime">2012-10-08T17:00:26-04:00</updated-at>
+                          <confidence>n</confidence>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">845282</id>
+                          <pri-name>M&#432;&#7901;ng Kh&#7873;n</pri-name>
+                          <created-by>joe_leif</created-by>
+                          <sureness type="integer">-1</sureness>
+                          <node-status-id nil="true"></node-status-id>
+                          <creator-id type="integer">10740</creator-id>
+                          <start-date nil="true"></start-date>
+                          <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                          <other-codes></other-codes>
+                          <updated-by>joe_leif</updated-by>
+                          <pub-comments>Hayes mentions this dialect several times throughout his article, though he does not include it in his final classification of Vietic languages and dialects on pages 220-221 (1992).</pub-comments>
+                          <alt-names>Khen, Kh&#7873;n, Muong Khen</alt-names>
+                          <tree-id type="integer">20927</tree-id>
+                          <geography nil="true"></geography>
+                          <deleted-at nil="true"></deleted-at>
+                          <created-at type="datetime">2012-10-08T17:00:26-04:00</created-at>
+                        </child>
+                      </children>
+                      <updated-at type="datetime">2012-10-08T17:00:26-04:00</updated-at>
+                      <confidence>y</confidence>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">845281</id>
+                      <pri-name>M&#432;&#7901;ng</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <sureness type="integer">0</sureness>
+                      <node-status-id nil="true"></node-status-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <start-date nil="true"></start-date>
+                      <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                      <other-codes></other-codes>
+                      <updated-by>joe_leif</updated-by>
+                      <pub-comments></pub-comments>
+                      <alt-names>Muong</alt-names>
+                      <tree-id type="integer">20927</tree-id>
+                      <geography nil="true"></geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2012-10-08T17:00:26-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <status nil="true"></status>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <codes>nuo</codes>
+                      <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                      <children type="array"/>
+                      <updated-at type="datetime">2012-10-08T17:00:27-04:00</updated-at>
+                      <confidence>y</confidence>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">845285</id>
+                      <pri-name>Ngu&#7891;n</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <sureness type="integer">0</sureness>
+                      <node-status-id nil="true"></node-status-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <start-date nil="true"></start-date>
+                      <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                      <other-codes></other-codes>
+                      <updated-by>joe_leif</updated-by>
+                      <pub-comments></pub-comments>
+                      <alt-names>Nguon</alt-names>
+                      <tree-id type="integer">20927</tree-id>
+                      <geography nil="true"></geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2012-10-08T17:00:27-04:00</created-at>
+                    </child>
+                  </children>
+                  <updated-at type="datetime">2012-10-08T17:00:26-04:00</updated-at>
+                  <confidence>y</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845280</id>
+                  <pri-name>M&#432;&#7901;ng-Ngu&#7891;n</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names>Muong-Nguon</alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:26-04:00</created-at>
+                </child>
+              </children>
+              <updated-at type="datetime">2012-10-08T17:00:26-04:00</updated-at>
+              <confidence>y</confidence>
+              <is-default type="integer">0</is-default>
+              <id type="integer">845279</id>
+              <pri-name>Vi&#7879;t-M&#432;&#7901;ng</pri-name>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <node-status-id nil="true"></node-status-id>
+              <creator-id type="integer">10740</creator-id>
+              <start-date nil="true"></start-date>
+              <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+              <other-codes></other-codes>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <alt-names>Viet-Muong</alt-names>
+              <tree-id type="integer">20927</tree-id>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2012-10-08T17:00:26-04:00</created-at>
+            </child>
+            <child>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-type>Subgroup</node-type>
+              <end-date nil="true"></end-date>
+              <codes>chut</codes>
+              <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+              <children type="array">
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <node-type>Subgroup</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>arem</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array">
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <status nil="true"></status>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <codes>pkt-mai</codes>
+                      <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                      <children type="array"/>
+                      <updated-at type="datetime">2012-10-08T17:00:26-04:00</updated-at>
+                      <confidence>y</confidence>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">845274</id>
+                      <pri-name>M&#227; Li&#7873;ng</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <sureness type="integer">0</sureness>
+                      <node-status-id nil="true"></node-status-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <start-date nil="true"></start-date>
+                      <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                      <other-codes></other-codes>
+                      <updated-by>joe_leif</updated-by>
+                      <pub-comments></pub-comments>
+                      <alt-names>Ma Lieng</alt-names>
+                      <tree-id type="integer">20927</tree-id>
+                      <geography nil="true"></geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2012-10-08T17:00:26-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <status nil="true"></status>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <codes>scb-sac</codes>
+                      <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                      <children type="array"/>
+                      <updated-at type="datetime">2012-10-08T17:00:26-04:00</updated-at>
+                      <confidence>y</confidence>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">845277</id>
+                      <pri-name>S&#225;ch</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <sureness type="integer">0</sureness>
+                      <node-status-id nil="true"></node-status-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <start-date nil="true"></start-date>
+                      <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                      <other-codes></other-codes>
+                      <updated-by>joe_leif</updated-by>
+                      <pub-comments></pub-comments>
+                      <alt-names>Sach</alt-names>
+                      <tree-id type="integer">20927</tree-id>
+                      <geography nil="true"></geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2012-10-08T17:00:26-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <status nil="true"></status>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <codes>scb-ruc</codes>
+                      <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                      <children type="array"/>
+                      <updated-at type="datetime">2012-10-08T17:00:26-04:00</updated-at>
+                      <confidence>y</confidence>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">845276</id>
+                      <pri-name>R&#7909;c</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <sureness type="integer">0</sureness>
+                      <node-status-id nil="true"></node-status-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <start-date nil="true"></start-date>
+                      <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                      <other-codes></other-codes>
+                      <updated-by>joe_leif</updated-by>
+                      <pub-comments></pub-comments>
+                      <alt-names>Ruc</alt-names>
+                      <tree-id type="integer">20927</tree-id>
+                      <geography nil="true"></geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2012-10-08T17:00:26-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <status nil="true"></status>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <codes>aem</codes>
+                      <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                      <children type="array"/>
+                      <updated-at type="datetime">2012-10-08T17:00:26-04:00</updated-at>
+                      <confidence>y</confidence>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">845273</id>
+                      <pri-name>Arem</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <sureness type="integer">0</sureness>
+                      <node-status-id nil="true"></node-status-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <start-date nil="true"></start-date>
+                      <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                      <other-codes></other-codes>
+                      <updated-by>joe_leif</updated-by>
+                      <pub-comments></pub-comments>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">20927</tree-id>
+                      <geography nil="true"></geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2012-10-08T17:00:25-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <status nil="true"></status>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <codes>scb-may</codes>
+                      <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                      <children type="array"/>
+                      <updated-at type="datetime">2012-10-08T17:00:26-04:00</updated-at>
+                      <confidence>y</confidence>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">845275</id>
+                      <pri-name>M&#224;y</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <sureness type="integer">0</sureness>
+                      <node-status-id nil="true"></node-status-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <start-date nil="true"></start-date>
+                      <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                      <other-codes></other-codes>
+                      <updated-by>joe_leif</updated-by>
+                      <pub-comments></pub-comments>
+                      <alt-names>May</alt-names>
+                      <tree-id type="integer">20927</tree-id>
+                      <geography nil="true"></geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2012-10-08T17:00:26-04:00</created-at>
+                    </child>
+                  </children>
+                  <updated-at type="datetime">2012-10-08T17:00:25-04:00</updated-at>
+                  <confidence>n</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845272</id>
+                  <pri-name>Arem-S&#225;ch</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names>Arem-Sach</alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:25-04:00</created-at>
+                </child>
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>sbc-ruc</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array"/>
+                  <updated-at type="datetime">2012-10-08T17:00:26-04:00</updated-at>
+                  <confidence>y</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845278</id>
+                  <pri-name>Kha M&#7909; Gi&#224;</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names>Kha Mu Gia</alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:26-04:00</created-at>
+                </child>
+              </children>
+              <updated-at type="datetime">2012-10-08T17:00:25-04:00</updated-at>
+              <confidence>y</confidence>
+              <is-default type="integer">0</is-default>
+              <id type="integer">845271</id>
+              <pri-name>Ch&#7913;t</pri-name>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <node-status-id nil="true"></node-status-id>
+              <creator-id type="integer">10740</creator-id>
+              <start-date nil="true"></start-date>
+              <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+              <other-codes></other-codes>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <alt-names>Chut</alt-names>
+              <tree-id type="integer">20927</tree-id>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2012-10-08T17:00:25-04:00</created-at>
+            </child>
+          </children>
+          <updated-at type="datetime">2012-10-08T17:00:25-04:00</updated-at>
+          <confidence>y</confidence>
+          <is-default type="integer">0</is-default>
+          <id type="integer">845270</id>
+          <pri-name>East Vietic</pri-name>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <node-status-id nil="true"></node-status-id>
+          <creator-id type="integer">10740</creator-id>
+          <start-date nil="true"></start-date>
+          <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+          <other-codes></other-codes>
+          <updated-by>joe_leif</updated-by>
+          <pub-comments></pub-comments>
+          <alt-names></alt-names>
+          <tree-id type="integer">20927</tree-id>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2012-10-08T17:00:25-04:00</created-at>
+        </child>
+        <child>
+          <updater-id type="integer">10740</updater-id>
+          <status nil="true"></status>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-type>Subgroup</node-type>
+          <end-date nil="true"></end-date>
+          <codes>vjlt</codes>
+          <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+          <children type="array">
+            <child>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-type>Subgroup</node-type>
+              <end-date nil="true"></end-date>
+              <codes>cctt</codes>
+              <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+              <children type="array">
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>1ps</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array"/>
+                  <updated-at type="datetime">2012-10-08T17:00:25-04:00</updated-at>
+                  <confidence>n</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845266</id>
+                  <pri-name>C&#7885;i</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names>Coi</alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:25-04:00</created-at>
+                </child>
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>tou</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array"/>
+                  <updated-at type="datetime">2012-10-08T17:00:25-04:00</updated-at>
+                  <confidence>y</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845267</id>
+                  <pri-name>Cu&#244;i</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names>Cuoi</alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:25-04:00</created-at>
+                </child>
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>1pt</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array"/>
+                  <updated-at type="datetime">2012-10-08T17:00:25-04:00</updated-at>
+                  <confidence>n</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845269</id>
+                  <pri-name>T&#224;y P&#7909;m</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names>Tay Pum</alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:25-04:00</created-at>
+                </child>
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>tou-cuo</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array"/>
+                  <updated-at type="datetime">2012-10-08T17:00:25-04:00</updated-at>
+                  <confidence>y</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845268</id>
+                  <pri-name>T&#224;y Ch&#7841;&#774;m</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names>Tay Cham</alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:25-04:00</created-at>
+                </child>
+              </children>
+              <updated-at type="datetime">2012-10-08T17:00:25-04:00</updated-at>
+              <confidence>n</confidence>
+              <is-default type="integer">0</is-default>
+              <id type="integer">845265</id>
+              <pri-name>C&#7885;i-T&#224;y P&#7909;m</pri-name>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <node-status-id nil="true"></node-status-id>
+              <creator-id type="integer">10740</creator-id>
+              <start-date nil="true"></start-date>
+              <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+              <other-codes></other-codes>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <alt-names></alt-names>
+              <tree-id type="integer">20927</tree-id>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2012-10-08T17:00:25-04:00</created-at>
+            </child>
+            <child>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-type>Language</node-type>
+              <end-date nil="true"></end-date>
+              <codes>hnu</codes>
+              <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+              <children type="array">
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <node-type>Dialect</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>hnu</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array"/>
+                  <updated-at type="datetime">2012-10-08T17:00:24-04:00</updated-at>
+                  <confidence>y</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845262</id>
+                  <pri-name>Hung</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:24-04:00</created-at>
+                </child>
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <node-type>Dialect</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>hnu-kkh</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array"/>
+                  <updated-at type="datetime">2012-10-08T17:00:25-04:00</updated-at>
+                  <confidence>n</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845263</id>
+                  <pri-name>Kh&#244;ng Kh&#234;ng</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names>Khong Kheng</alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:24-04:00</created-at>
+                </child>
+              </children>
+              <updated-at type="datetime">2012-10-08T17:00:24-04:00</updated-at>
+              <confidence>y</confidence>
+              <is-default type="integer">0</is-default>
+              <id type="integer">845261</id>
+              <pri-name>Hung-Kh&#244;ng Kh&#234;ng</pri-name>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <node-status-id nil="true"></node-status-id>
+              <creator-id type="integer">10740</creator-id>
+              <start-date nil="true"></start-date>
+              <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+              <other-codes></other-codes>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <alt-names>Hung-Khong Kheng</alt-names>
+              <tree-id type="integer">20927</tree-id>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2012-10-08T17:00:24-04:00</created-at>
+            </child>
+            <child>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-type>Subgroup</node-type>
+              <end-date nil="true"></end-date>
+              <codes>haco</codes>
+              <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+              <children type="array">
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>hnu-lyh</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array"/>
+                  <updated-at type="datetime">2012-10-08T17:00:24-04:00</updated-at>
+                  <confidence>y</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845259</id>
+                  <pri-name>Ly H&#224;</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names>Ly Ha</alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:24-04:00</created-at>
+                </child>
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>hnu-dan</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array"/>
+                  <updated-at type="datetime">2012-10-08T17:00:24-04:00</updated-at>
+                  <confidence>y</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845257</id>
+                  <pri-name>&#272;an Lai</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names>Dan Lai</alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:24-04:00</created-at>
+                </child>
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>hnu-pho</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array"/>
+                  <updated-at type="datetime">2012-10-08T17:00:24-04:00</updated-at>
+                  <confidence>n</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845260</id>
+                  <pri-name>T&#224; P&#7885;ng</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names>Ta Pong, T&#224; Po&#7885;ng, Ta Poong, Tay Poong</alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:24-04:00</created-at>
+                </child>
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>1px</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array"/>
+                  <updated-at type="datetime">2012-10-08T17:00:24-04:00</updated-at>
+                  <confidence>n</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845258</id>
+                  <pri-name>Katiam Pong Houk</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:24-04:00</created-at>
+                </child>
+              </children>
+              <updated-at type="datetime">2012-10-08T17:00:24-04:00</updated-at>
+              <confidence>n</confidence>
+              <is-default type="integer">0</is-default>
+              <id type="integer">845256</id>
+              <pri-name>&#272;an Lai-T&#224; P&#7885;ng</pri-name>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <node-status-id nil="true"></node-status-id>
+              <creator-id type="integer">10740</creator-id>
+              <start-date nil="true"></start-date>
+              <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+              <other-codes></other-codes>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <alt-names>Dan Lai-Ta Pong</alt-names>
+              <tree-id type="integer">20927</tree-id>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2012-10-08T17:00:24-04:00</created-at>
+            </child>
+            <child>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-type>Language</node-type>
+              <end-date nil="true"></end-date>
+              <codes>hnu-tou</codes>
+              <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+              <children type="array"/>
+              <updated-at type="datetime">2012-10-08T17:00:25-04:00</updated-at>
+              <confidence>y</confidence>
+              <is-default type="integer">0</is-default>
+              <id type="integer">845264</id>
+              <pri-name>Toum</pri-name>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <node-status-id nil="true"></node-status-id>
+              <creator-id type="integer">10740</creator-id>
+              <start-date nil="true"></start-date>
+              <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+              <other-codes></other-codes>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <alt-names>T&#224;y T&#250;m, Tay Tum, Ktum</alt-names>
+              <tree-id type="integer">20927</tree-id>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2012-10-08T17:00:25-04:00</created-at>
+            </child>
+          </children>
+          <updated-at type="datetime">2012-10-08T17:00:24-04:00</updated-at>
+          <confidence>n</confidence>
+          <is-default type="integer">0</is-default>
+          <id type="integer">845255</id>
+          <pri-name>Central Vietic</pri-name>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <node-status-id nil="true"></node-status-id>
+          <creator-id type="integer">10740</creator-id>
+          <start-date nil="true"></start-date>
+          <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+          <other-codes></other-codes>
+          <updated-by>joe_leif</updated-by>
+          <pub-comments></pub-comments>
+          <alt-names>Pong-Toum</alt-names>
+          <tree-id type="integer">20927</tree-id>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2012-10-08T17:00:24-04:00</created-at>
+        </child>
+        <child>
+          <updater-id type="integer">10740</updater-id>
+          <status nil="true"></status>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-type>Subgroup</node-type>
+          <end-date nil="true"></end-date>
+          <codes>thav</codes>
+          <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+          <children type="array">
+            <child>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-type>Subgroup</node-type>
+              <end-date nil="true"></end-date>
+              <codes>tsni</codes>
+              <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+              <children type="array">
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>thm</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array"/>
+                  <updated-at type="datetime">2012-10-08T17:00:22-04:00</updated-at>
+                  <confidence>n</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845245</id>
+                  <pri-name>Kha Tong Lu&#244;ng</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names>Kha Tong Luong, Kha Toong Lu&#244;ng, Kha Toong Luong</alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:22-04:00</created-at>
+                </child>
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>thm-pho</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array"/>
+                  <updated-at type="datetime">2012-10-08T17:00:22-04:00</updated-at>
+                  <confidence>y</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845246</id>
+                  <pri-name>Phon Soung</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names>Ph&#244;n X&#250;ng, Phon Xung</alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:22-04:00</created-at>
+                </child>
+              </children>
+              <updated-at type="datetime">2012-10-08T17:00:22-04:00</updated-at>
+              <confidence>n</confidence>
+              <is-default type="integer">0</is-default>
+              <id type="integer">845244</id>
+              <pri-name>Kha Tong Lu&#244;ng-Phon Soung</pri-name>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <node-status-id nil="true"></node-status-id>
+              <creator-id type="integer">10740</creator-id>
+              <start-date nil="true"></start-date>
+              <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+              <other-codes></other-codes>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <alt-names>Kha Tong Luong-Phon Soung</alt-names>
+              <tree-id type="integer">20927</tree-id>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2012-10-08T17:00:22-04:00</created-at>
+            </child>
+            <child>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-type>Language</node-type>
+              <end-date nil="true"></end-date>
+              <codes>thm</codes>
+              <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+              <children type="array"/>
+              <updated-at type="datetime">2012-10-08T17:00:22-04:00</updated-at>
+              <confidence>y</confidence>
+              <is-default type="integer">0</is-default>
+              <id type="integer">845243</id>
+              <pri-name>Thav&#432;ng</pri-name>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <node-status-id nil="true"></node-status-id>
+              <creator-id type="integer">10740</creator-id>
+              <start-date nil="true"></start-date>
+              <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+              <other-codes></other-codes>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <alt-names>Kha Tha V&#432;ng, Thavung, Kha Tha Vung</alt-names>
+              <tree-id type="integer">20927</tree-id>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2012-10-08T17:00:22-04:00</created-at>
+            </child>
+            <child>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-type>Subgroup</node-type>
+              <end-date nil="true"></end-date>
+              <codes>snez</codes>
+              <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+              <children type="array">
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>pkt-kha</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array"/>
+                  <updated-at type="datetime">2012-10-08T17:00:24-04:00</updated-at>
+                  <confidence>y</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845254</id>
+                  <pri-name>Kha Ph&#7885;ng</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names>Kha Phong</alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:24-04:00</created-at>
+                </child>
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>pkt-har</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array"/>
+                  <updated-at type="datetime">2012-10-08T17:00:24-04:00</updated-at>
+                  <confidence>y</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845253</id>
+                  <pri-name>Har&#232;me</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names>Hareme</alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:23-04:00</created-at>
+                </child>
+              </children>
+              <updated-at type="datetime">2012-10-08T17:00:23-04:00</updated-at>
+              <confidence>n</confidence>
+              <is-default type="integer">0</is-default>
+              <id type="integer">845252</id>
+              <pri-name>Har&#232;me-Kha Pho&#807;ng</pri-name>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <node-status-id nil="true"></node-status-id>
+              <creator-id type="integer">10740</creator-id>
+              <start-date nil="true"></start-date>
+              <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+              <other-codes></other-codes>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <alt-names>Hareme-Kha Phong</alt-names>
+              <tree-id type="integer">20927</tree-id>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2012-10-08T17:00:23-04:00</created-at>
+            </child>
+            <child>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-type>Subgroup</node-type>
+              <end-date nil="true"></end-date>
+              <codes>cwas</codes>
+              <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+              <children type="array">
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>pkt-pak</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array"/>
+                  <updated-at type="datetime">2012-10-08T17:00:23-04:00</updated-at>
+                  <confidence>y</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845251</id>
+                  <pri-name>Pakatan</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:23-04:00</created-at>
+                </child>
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>1pw</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array"/>
+                  <updated-at type="datetime">2012-10-08T17:00:23-04:00</updated-at>
+                  <confidence>n</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845250</id>
+                  <pri-name>Kha N&#7841;&#774;m &#211;m</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names>Kha Nam Om</alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:23-04:00</created-at>
+                </child>
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>1pv</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array"/>
+                  <updated-at type="datetime">2012-10-08T17:00:23-04:00</updated-at>
+                  <confidence>n</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845249</id>
+                  <pri-name>Kha M&#432;&#7901;ng B&#234;n</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names>Kha Muong Ben</alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:23-04:00</created-at>
+                </child>
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>1pu</codes>
+                  <tree-val>Vietic, subtree of Mon-Khmer: Hayes 1992</tree-val>
+                  <children type="array"/>
+                  <updated-at type="datetime">2012-10-08T17:00:23-04:00</updated-at>
+                  <confidence>n</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">845248</id>
+                  <pri-name>Kha B&#244;</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <node-status-id nil="true"></node-status-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <alt-names>Kha Bo</alt-names>
+                  <tree-id type="integer">20927</tree-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2012-10-08T17:00:22-04:00</created-at>
+                </child>
+              </children>
+              <updated-at type="datetime">2012-10-08T17:00:22-04:00</updated-at>
+              <confidence>n</confidence>
+              <is-default type="integer">0</is-default>
+              <id type="integer">845247</id>
+              <pri-name>Kha B&#244;-Pakatan</pri-name>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <node-status-id nil="true"></node-status-id>
+              <creator-id type="integer">10740</creator-id>
+              <start-date nil="true"></start-date>
+              <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+              <other-codes></other-codes>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <alt-names>Kha Bo-Pakatan</alt-names>
+              <tree-id type="integer">20927</tree-id>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2012-10-08T17:00:22-04:00</created-at>
+            </child>
+          </children>
+          <updated-at type="datetime">2012-10-08T17:00:22-04:00</updated-at>
+          <confidence>y</confidence>
+          <is-default type="integer">0</is-default>
+          <id type="integer">845242</id>
+          <pri-name>West Vietic</pri-name>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <node-status-id nil="true"></node-status-id>
+          <creator-id type="integer">10740</creator-id>
+          <start-date nil="true"></start-date>
+          <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+          <other-codes></other-codes>
+          <updated-by>joe_leif</updated-by>
+          <pub-comments></pub-comments>
+          <alt-names>Thavung-Pakatan, Thav&#432;ng-Pakatan</alt-names>
+          <tree-id type="integer">20927</tree-id>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2012-10-08T17:00:22-04:00</created-at>
+        </child>
+      </children>
+      <updated-at type="datetime">2012-10-08T17:00:22-04:00</updated-at>
+      <confidence>y</confidence>
+      <is-default type="integer">0</is-default>
+      <id type="integer">845241</id>
+      <pri-name>Vietic</pri-name>
+      <created-by>joe_leif</created-by>
+      <sureness type="integer">0</sureness>
+      <node-status-id nil="true"></node-status-id>
+      <creator-id type="integer">10740</creator-id>
+      <start-date nil="true"></start-date>
+      <publications>Hayes, La Vaughn H. 1992. Vietic and Viet-Muong: a new subgrouping in Mon-Khmer, The Mon-Khmer Studies Journal, vol. 21, 211-228. </publications>
+      <other-codes></other-codes>
+      <updated-by>joe_leif</updated-by>
+      <pub-comments></pub-comments>
+      <alt-names>Annam</alt-names>
+      <tree-id type="integer">20927</tree-id>
+      <geography nil="true"></geography>
+      <deleted-at nil="true"></deleted-at>
+      <created-at type="datetime">2012-10-08T17:00:22-04:00</created-at>
+    </root>
+    <description>Vietic, subtree of Mon-Khmer: Hayes 1992</description>
+  </tree>
+</hash>

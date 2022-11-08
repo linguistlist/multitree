@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>
+    <description>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2012-09-24T10:11:31-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+      <pub-comments></pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2012-09-24T10:11:31-04:00</updated-at>
+      <pri-name>Bahnaric</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">844770</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">20826</tree-id>
+      <codes>bahn</codes>
+      <status nil="true"></status>
+      <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2012-09-24T10:11:32-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2012-09-24T10:11:32-04:00</updated-at>
+          <pri-name>Central Bahnaric</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">844793</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">20826</tree-id>
+          <codes>cbah</codes>
+          <status nil="true"></status>
+          <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-09-24T10:11:33-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-09-24T10:11:33-04:00</updated-at>
+              <pri-name>Alak</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">844796</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20826</tree-id>
+              <codes>alk</codes>
+              <status nil="true"></status>
+              <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-09-24T10:11:32-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-09-24T10:11:33-04:00</updated-at>
+              <pri-name>Tampuan</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">844795</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20826</tree-id>
+              <codes>tpu</codes>
+              <status nil="true"></status>
+              <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-09-24T10:11:32-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-09-24T10:11:32-04:00</updated-at>
+              <pri-name>Bahnar</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">844794</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20826</tree-id>
+              <codes>bdq</codes>
+              <status nil="true"></status>
+              <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2012-09-24T10:11:31-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2012-09-24T10:11:31-04:00</updated-at>
+          <pri-name>South Bahnaric</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">844777</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">20826</tree-id>
+          <codes>sbah</codes>
+          <status nil="true"></status>
+          <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-09-24T10:11:31-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-09-24T10:11:31-04:00</updated-at>
+              <pri-name>Koho</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">844778</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20826</tree-id>
+              <codes>kpm</codes>
+              <status nil="true"></status>
+              <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2012-09-24T10:11:31-04:00</created-at>
+                  <confidence>n</confidence>
+                  <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2012-09-24T10:11:32-04:00</updated-at>
+                  <pri-name>Koho Lach</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">844781</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">20826</tree-id>
+                  <codes>kpm-lac</codes>
+                  <status nil="true"></status>
+                  <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2012-09-24T10:11:31-04:00</created-at>
+                  <confidence>n</confidence>
+                  <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2012-09-24T10:11:31-04:00</updated-at>
+                  <pri-name>Koho Sre</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">844780</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">20826</tree-id>
+                  <codes>kpm-sre</codes>
+                  <status nil="true"></status>
+                  <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2012-09-24T10:11:31-04:00</created-at>
+                  <confidence>n</confidence>
+                  <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2012-09-24T10:11:31-04:00</updated-at>
+                  <pri-name>Koho Chil</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">844779</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">20826</tree-id>
+                  <codes>kpm-chi</codes>
+                  <status nil="true"></status>
+                  <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-09-24T10:11:32-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-09-24T10:11:32-04:00</updated-at>
+              <pri-name>Mnong</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">844783</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20826</tree-id>
+              <codes>cmo, mnn</codes>
+              <status nil="true"></status>
+              <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2012-09-24T10:11:32-04:00</created-at>
+                  <confidence>n</confidence>
+                  <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2012-09-24T10:11:32-04:00</updated-at>
+                  <pri-name>Eastern Mnong</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">844784</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">20826</tree-id>
+                  <codes>mng</codes>
+                  <status nil="true"></status>
+                  <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-09-24T10:11:32-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-09-24T10:11:32-04:00</updated-at>
+              <pri-name>Stieng</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">844785</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20826</tree-id>
+              <codes>sti, stt</codes>
+              <status nil="true"></status>
+              <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-09-24T10:11:32-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-09-24T10:11:32-04:00</updated-at>
+              <pri-name>Chrau</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">844782</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20826</tree-id>
+              <codes>crw</codes>
+              <status nil="true"></status>
+              <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2012-09-24T10:11:32-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2012-09-24T10:11:32-04:00</updated-at>
+          <pri-name>West Bahnaric</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">844786</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">20826</tree-id>
+          <codes>wbah</codes>
+          <status nil="true"></status>
+          <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-09-24T10:11:32-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-09-24T10:11:32-04:00</updated-at>
+              <pri-name>Cheng</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">844789</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20826</tree-id>
+              <codes>jeg</codes>
+              <status nil="true"></status>
+              <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-09-24T10:11:32-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-09-24T10:11:32-04:00</updated-at>
+              <pri-name>Oi</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">844790</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20826</tree-id>
+              <codes>oyb</codes>
+              <status nil="true"></status>
+              <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-09-24T10:11:32-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-09-24T10:11:32-04:00</updated-at>
+              <pri-name>Laven</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">844787</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20826</tree-id>
+              <codes>lbo</codes>
+              <status nil="true"></status>
+              <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-09-24T10:11:32-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-09-24T10:11:32-04:00</updated-at>
+              <pri-name>Laveh</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">844791</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20826</tree-id>
+              <codes>brb</codes>
+              <status nil="true"></status>
+              <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-09-24T10:11:32-04:00</created-at>
+              <confidence>n</confidence>
+              <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-09-24T10:11:32-04:00</updated-at>
+              <pri-name>Brao</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">844792</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20826</tree-id>
+              <codes>brb</codes>
+              <status nil="true"></status>
+              <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-09-24T10:11:32-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-09-24T10:11:32-04:00</updated-at>
+              <pri-name>Nyaheun</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">844788</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20826</tree-id>
+              <codes>nev</codes>
+              <status nil="true"></status>
+              <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2012-09-24T10:11:31-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2012-09-24T10:11:31-04:00</updated-at>
+          <pri-name>North Bahnaric</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">844771</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">20826</tree-id>
+          <codes>nbah</codes>
+          <status nil="true"></status>
+          <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-09-24T10:11:31-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-09-24T10:11:31-04:00</updated-at>
+              <pri-name>Jeh</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">844775</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20826</tree-id>
+              <codes>jeh</codes>
+              <status nil="true"></status>
+              <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-09-24T10:11:31-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-09-24T10:11:31-04:00</updated-at>
+              <pri-name>Rengao</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">844776</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20826</tree-id>
+              <codes>ren</codes>
+              <status nil="true"></status>
+              <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-09-24T10:11:31-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-09-24T10:11:31-04:00</updated-at>
+              <pri-name>Hr&#234;</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">844773</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Hre</alt-names>
+              <tree-id type="integer">20826</tree-id>
+              <codes>hre</codes>
+              <status nil="true"></status>
+              <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-09-24T10:11:31-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-09-24T10:11:31-04:00</updated-at>
+              <pri-name>Sedang</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">844772</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20826</tree-id>
+              <codes>sed</codes>
+              <status nil="true"></status>
+              <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-09-24T10:11:31-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-09-24T10:11:31-04:00</updated-at>
+              <pri-name>Hal&#259;ng</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">844774</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Halang</alt-names>
+              <tree-id type="integer">20826</tree-id>
+              <codes>hal</codes>
+              <status nil="true"></status>
+              <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2012-09-24T10:11:33-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2012-09-24T10:11:33-04:00</updated-at>
+          <pri-name>Eastern Bahnaric</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">844797</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">20826</tree-id>
+          <codes>ebah</codes>
+          <status nil="true"></status>
+          <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-09-24T10:11:33-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-09-24T10:11:33-04:00</updated-at>
+              <pri-name>Takua</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">-1</sureness>
+              <id type="integer">844799</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20826</tree-id>
+              <codes>tkz</codes>
+              <status nil="true"></status>
+              <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-09-24T10:11:33-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-09-24T10:11:33-04:00</updated-at>
+              <pri-name>Cua</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">844798</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20826</tree-id>
+              <codes>cua</codes>
+              <status nil="true"></status>
+              <publications>Thomas, David D. 1979. The place of Alak, Tampuan, and West Bahnaric, The Mon-Khmer Studies Journal, vol. 8, 171-186. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

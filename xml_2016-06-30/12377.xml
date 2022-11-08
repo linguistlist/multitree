@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Central America</region>
+    <root>
+      <node-type>Subgroup</node-type>
+      <end-date nil="true"></end-date>
+      <tree-id type="integer">12377</tree-id>
+      <created-at type="datetime">2009-05-14T20:43:37-04:00</created-at>
+      <geography nil="true"></geography>
+      <updated-at type="datetime">2009-05-14T20:43:37-04:00</updated-at>
+      <status nil="true"></status>
+      <node-type-id type="integer">10000</node-type-id>
+      <node-status-id nil="true"></node-status-id>
+      <id type="integer">414992</id>
+      <children type="array">
+        <child>
+          <node-type>Language</node-type>
+          <end-date nil="true"></end-date>
+          <tree-id type="integer">12377</tree-id>
+          <created-at type="datetime">2009-05-14T20:43:37-04:00</created-at>
+          <geography>Country: Mexico; Lat.: 17.8; Long.: -99</geography>
+          <updated-at type="datetime">2009-05-14T20:43:37-04:00</updated-at>
+          <status nil="true"></status>
+          <node-type-id type="integer">10001</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">414993</id>
+          <children type="array"/>
+          <tree-val>Subtiaba-Tlapanec: Dryer 2005</tree-val>
+          <start-date nil="true"></start-date>
+          <pri-name>Tlapanec</pri-name>
+          <sureness type="integer">0</sureness>
+          <is-default type="integer">0</is-default>
+          <updater-id type="integer">10740</updater-id>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <pub-comments>WALS says it has 3 varieties in Ethnologue: Tlapanec (Acatepec), Tlapanec (Azoy&#250;), Tlapanec (Malinaltepec), Tlapanec (Tlacoapa)</pub-comments>
+          <confidence>y</confidence>
+          <codes>sut, tpx, tpc, tcf, tpl</codes>
+          <updated-by>joe_leif</updated-by>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 633. New York: Oxford University Press. ISBN 0199255911</publications>
+          <other-codes>tip</other-codes>
+          <alt-names></alt-names>
+        </child>
+      </children>
+      <tree-val>Subtiaba-Tlapanec: Dryer 2005</tree-val>
+      <start-date nil="true"></start-date>
+      <pri-name>Subtiaba-Tlapane</pri-name>
+      <sureness type="integer">0</sureness>
+      <is-default type="integer">0</is-default>
+      <updater-id type="integer">10740</updater-id>
+      <deleted-at nil="true"></deleted-at>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <confidence>y</confidence>
+      <codes>subt</codes>
+      <updated-by>joe_leif</updated-by>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 633. New York: Oxford University Press. ISBN 0199255911</publications>
+      <other-codes></other-codes>
+      <alt-names></alt-names>
+    </root>
+    <description>Subtiaba-Tlapanec: Dryer 2005</description>
+  </tree>
+</hash>

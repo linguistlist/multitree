@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Pacific</region>
+    <region>Asia</region>
+    <region>Asia</region>
+    <region>Asia</region>
+    <region>Asia</region>
+    <description>Austric: Egerod 1991</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2013-09-09T13:12:34-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Austric: Egerod 1991</tree-val>
+      <pub-comments>&quot;Austric is supposed to consist of Austro-Viet (Austro-Asiatic) and Austro-Tai (Austronesian), but the two may be genetically unrelated (Benedict 1975)&quot; (Egerod 1991: 207-210).</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2013-09-09T13:12:35-04:00</updated-at>
+      <pri-name>Austric</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">-1</sureness>
+      <id type="integer">1002033</id>
+      <creator-id type="integer">10720</creator-id>
+      <created-by>dana</created-by>
+      <updater-id type="integer">10720</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>dana</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">25537</tree-id>
+      <codes>ausr</codes>
+      <status nil="true"></status>
+      <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-09-09T13:12:36-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Austric: Egerod 1991</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-09-09T13:12:36-04:00</updated-at>
+          <pri-name>Austro-Tai</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">1002043</id>
+          <creator-id type="integer">10720</creator-id>
+          <created-by>dana</created-by>
+          <updater-id type="integer">10720</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>dana</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names>Austronesian</alt-names>
+          <tree-id type="integer">25537</tree-id>
+          <codes>auth</codes>
+          <status nil="true"></status>
+          <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-09T13:12:36-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Austric: Egerod 1991</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-09T13:12:36-04:00</updated-at>
+              <pri-name>Malayo-Polynesian</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">1002049</id>
+              <creator-id type="integer">10720</creator-id>
+              <created-by>dana</created-by>
+              <updater-id type="integer">10720</updater-id>
+              <geography>Geographically widespread, represented from Madagascar (Malagasy) to Malaysia and Indonesia, the Philippines, Taiwan (Formosa), (and Japan?) all the way through Oceania to Hawaii, or almost halfway round the globe.</geography>
+              <updated-by>dana</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names>Indonesian-Oceanic</alt-names>
+              <tree-id type="integer">25537</tree-id>
+              <codes>mlpo</codes>
+              <status nil="true"></status>
+              <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-09T13:12:37-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Austric: Egerod 1991</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-09-09T13:12:37-04:00</updated-at>
+                  <pri-name>Oceanic</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">1002057</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25537</tree-id>
+                  <codes>ocea</codes>
+                  <status nil="true"></status>
+                  <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-09-09T13:12:37-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Austric: Egerod 1991</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-09-09T13:12:37-04:00</updated-at>
+                      <pri-name>Polynesian</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">1002059</id>
+                      <creator-id type="integer">10720</creator-id>
+                      <created-by>dana</created-by>
+                      <updater-id type="integer">10720</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>dana</updated-by>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">25537</tree-id>
+                      <codes>poly</codes>
+                      <status nil="true"></status>
+                      <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array">
+                        <child>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2013-09-09T13:12:37-04:00</created-at>
+                          <confidence>y</confidence>
+                          <tree-val>Austric: Egerod 1991</tree-val>
+                          <pub-comments></pub-comments>
+                          <node-status-id nil="true"></node-status-id>
+                          <updated-at type="datetime">2013-09-09T13:12:38-04:00</updated-at>
+                          <pri-name>Central Polynesian</pri-name>
+                          <node-type>Subgroup</node-type>
+                          <is-default type="boolean">false</is-default>
+                          <deleted-at nil="true"></deleted-at>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">1002060</id>
+                          <creator-id type="integer">10720</creator-id>
+                          <created-by>dana</created-by>
+                          <updater-id type="integer">10720</updater-id>
+                          <geography nil="true"></geography>
+                          <updated-by>dana</updated-by>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">25537</tree-id>
+                          <codes>cpol</codes>
+                          <status nil="true"></status>
+                          <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                          <end-date nil="true"></end-date>
+                          <children type="array"/>
+                        </child>
+                        <child>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2013-09-09T13:12:38-04:00</created-at>
+                          <confidence>y</confidence>
+                          <tree-val>Austric: Egerod 1991</tree-val>
+                          <pub-comments></pub-comments>
+                          <node-status-id nil="true"></node-status-id>
+                          <updated-at type="datetime">2013-09-09T13:12:38-04:00</updated-at>
+                          <pri-name>Peripheral Polynesian</pri-name>
+                          <node-type>Subgroup</node-type>
+                          <is-default type="boolean">false</is-default>
+                          <deleted-at nil="true"></deleted-at>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">1002061</id>
+                          <creator-id type="integer">10720</creator-id>
+                          <created-by>dana</created-by>
+                          <updater-id type="integer">10720</updater-id>
+                          <geography nil="true"></geography>
+                          <updated-by>dana</updated-by>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">25537</tree-id>
+                          <codes>ppol</codes>
+                          <status nil="true"></status>
+                          <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                          <end-date nil="true"></end-date>
+                          <children type="array"/>
+                        </child>
+                      </children>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-09-09T13:12:37-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Austric: Egerod 1991</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-09-09T13:12:37-04:00</updated-at>
+                      <pri-name>Melanesian</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">1002058</id>
+                      <creator-id type="integer">10720</creator-id>
+                      <created-by>dana</created-by>
+                      <updater-id type="integer">10720</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>dana</updated-by>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">25537</tree-id>
+                      <codes>cvqz</codes>
+                      <status nil="true"></status>
+                      <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-09-09T13:12:38-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Austric: Egerod 1991</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-09-09T13:12:38-04:00</updated-at>
+                      <pri-name>Micronesian</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">1002062</id>
+                      <creator-id type="integer">10720</creator-id>
+                      <created-by>dana</created-by>
+                      <updater-id type="integer">10720</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>dana</updated-by>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">25537</tree-id>
+                      <codes>micr</codes>
+                      <status nil="true"></status>
+                      <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-09T13:12:36-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Austric: Egerod 1991</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-09-09T13:12:37-04:00</updated-at>
+                  <pri-name>Indonesian</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">1002050</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25537</tree-id>
+                  <codes>iixi</codes>
+                  <status nil="true"></status>
+                  <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-09-09T13:12:37-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Austric: Egerod 1991</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-09-09T13:12:37-04:00</updated-at>
+                      <pri-name>Philippine</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">1002053</id>
+                      <creator-id type="integer">10720</creator-id>
+                      <created-by>dana</created-by>
+                      <updater-id type="integer">10720</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>dana</updated-by>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">25537</tree-id>
+                      <codes>auwx</codes>
+                      <status nil="true"></status>
+                      <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-09-09T13:12:37-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Austric: Egerod 1991</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-09-09T13:12:37-04:00</updated-at>
+                      <pri-name>Malagasy</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">1002051</id>
+                      <creator-id type="integer">10720</creator-id>
+                      <created-by>dana</created-by>
+                      <updater-id type="integer">10720</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>dana</updated-by>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">25537</tree-id>
+                      <codes>malg</codes>
+                      <status nil="true"></status>
+                      <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-09-09T13:12:37-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Austric: Egerod 1991</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-09-09T13:12:37-04:00</updated-at>
+                      <pri-name>Malay</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">1002052</id>
+                      <creator-id type="integer">10720</creator-id>
+                      <created-by>dana</created-by>
+                      <updater-id type="integer">10720</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>dana</updated-by>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">25537</tree-id>
+                      <codes>maly</codes>
+                      <status nil="true"></status>
+                      <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-09T13:12:37-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Austric: Egerod 1991</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-09-09T13:12:37-04:00</updated-at>
+                  <pri-name>Formosan</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">1002054</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25537</tree-id>
+                  <codes>form</codes>
+                  <status nil="true"></status>
+                  <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-09-09T13:12:37-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Austric: Egerod 1991</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-09-09T13:12:37-04:00</updated-at>
+                      <pri-name>East Formosan</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">1002056</id>
+                      <creator-id type="integer">10720</creator-id>
+                      <created-by>dana</created-by>
+                      <updater-id type="integer">10720</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>dana</updated-by>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">25537</tree-id>
+                      <codes>hfoe</codes>
+                      <status nil="true"></status>
+                      <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-09-09T13:12:37-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Austric: Egerod 1991</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-09-09T13:12:37-04:00</updated-at>
+                      <pri-name>North Formosan</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">1002055</id>
+                      <creator-id type="integer">10720</creator-id>
+                      <created-by>dana</created-by>
+                      <updater-id type="integer">10720</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>dana</updated-by>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">25537</tree-id>
+                      <codes>nfor</codes>
+                      <status nil="true"></status>
+                      <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-09T13:12:36-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Austric: Egerod 1991</tree-val>
+              <pub-comments>Author indicates uncertainty about the inclusion of Japanese, but notes that &quot;Japanese is considered a branch of Austro-Tai by Benedict (1990)&quot; (Egerod 1991:209-210).</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-09T13:12:36-04:00</updated-at>
+              <pri-name>Japanese</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">-1</sureness>
+              <id type="integer">1002048</id>
+              <creator-id type="integer">10720</creator-id>
+              <created-by>dana</created-by>
+              <updater-id type="integer">10720</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>dana</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25537</tree-id>
+              <codes>japc</codes>
+              <status nil="true"></status>
+              <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-09T13:12:36-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Austric: Egerod 1991</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-09T13:12:36-04:00</updated-at>
+              <pri-name>Tai</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">1002047</id>
+              <creator-id type="integer">10720</creator-id>
+              <created-by>dana</created-by>
+              <updater-id type="integer">10720</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>dana</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25537</tree-id>
+              <codes>taix</codes>
+              <status nil="true"></status>
+              <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-09T13:12:36-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Austric: Egerod 1991</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-09T13:12:36-04:00</updated-at>
+              <pri-name>Miao-Yao</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">1002044</id>
+              <creator-id type="integer">10720</creator-id>
+              <created-by>dana</created-by>
+              <updater-id type="integer">10720</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>dana</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25537</tree-id>
+              <codes>hmom</codes>
+              <status nil="true"></status>
+              <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-09T13:12:36-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Austric: Egerod 1991</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-09-09T13:12:36-04:00</updated-at>
+                  <pri-name>Yao</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">1002046</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25537</tree-id>
+                  <codes>mien</codes>
+                  <status nil="true"></status>
+                  <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-09T13:12:36-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Austric: Egerod 1991</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-09-09T13:12:36-04:00</updated-at>
+                  <pri-name>Miao</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">1002045</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25537</tree-id>
+                  <codes>hmon</codes>
+                  <status nil="true"></status>
+                  <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-09-09T13:12:35-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Austric: Egerod 1991</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-09-09T13:12:35-04:00</updated-at>
+          <pri-name>Austro-Viet</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">1002034</id>
+          <creator-id type="integer">10720</creator-id>
+          <created-by>dana</created-by>
+          <updater-id type="integer">10720</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>dana</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names>Austro-Asiatic</alt-names>
+          <tree-id type="integer">25537</tree-id>
+          <codes>ausa</codes>
+          <status nil="true"></status>
+          <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-09T13:12:35-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Austric: Egerod 1991</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-09T13:12:36-04:00</updated-at>
+              <pri-name>Viet-Muong</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">1002040</id>
+              <creator-id type="integer">10720</creator-id>
+              <created-by>dana</created-by>
+              <updater-id type="integer">10720</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>dana</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25537</tree-id>
+              <codes>viem</codes>
+              <status nil="true"></status>
+              <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-09T13:12:36-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Austric: Egerod 1991</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-09-09T13:12:36-04:00</updated-at>
+                  <pri-name>Viet</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">1002041</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25537</tree-id>
+                  <codes>viet</codes>
+                  <status nil="true"></status>
+                  <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-09T13:12:36-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Austric: Egerod 1991</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-09-09T13:12:36-04:00</updated-at>
+                  <pri-name>Muong</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">1002042</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25537</tree-id>
+                  <codes>muon</codes>
+                  <status nil="true"></status>
+                  <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-09T13:12:35-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Austric: Egerod 1991</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-09-09T13:12:35-04:00</updated-at>
+              <pri-name>Mon-Khmer</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">1002035</id>
+              <creator-id type="integer">10720</creator-id>
+              <created-by>dana</created-by>
+              <updater-id type="integer">10720</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>dana</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">25537</tree-id>
+              <codes>mkhm</codes>
+              <status nil="true"></status>
+              <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-09T13:12:35-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Austric: Egerod 1991</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-09-09T13:12:35-04:00</updated-at>
+                  <pri-name>Mon</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">1002038</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25537</tree-id>
+                  <codes>moni</codes>
+                  <status nil="true"></status>
+                  <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-09T13:12:35-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Austric: Egerod 1991</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-09-09T13:12:35-04:00</updated-at>
+                  <pri-name>Mu&#7751;&#7693;a</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">1002036</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25537</tree-id>
+                  <codes>mund</codes>
+                  <status nil="true"></status>
+                  <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-09T13:12:35-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Austric: Egerod 1991</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-09-09T13:12:35-04:00</updated-at>
+                  <pri-name>Khasi</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">1002037</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25537</tree-id>
+                  <codes>khas</codes>
+                  <status nil="true"></status>
+                  <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-09T13:12:35-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Austric: Egerod 1991</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-09-09T13:12:35-04:00</updated-at>
+                  <pri-name>Khmer</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">1002039</id>
+                  <creator-id type="integer">10720</creator-id>
+                  <created-by>dana</created-by>
+                  <updater-id type="integer">10720</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>dana</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25537</tree-id>
+                  <codes>khmr</codes>
+                  <status nil="true"></status>
+                  <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

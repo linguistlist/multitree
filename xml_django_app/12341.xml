@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <updated-by>joe_leif</updated-by>
+      <deleted-at nil="true"></deleted-at>
+      <created-by>joe_leif</created-by>
+      <other-codes></other-codes>
+      <end-date nil="true"></end-date>
+      <creator-id type="integer">10740</creator-id>
+      <codes>kute</codes>
+      <start-date nil="true"></start-date>
+      <is-default type="integer">0</is-default>
+      <geography nil="true"></geography>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 629. New York: Oxford University Press. ISBN 0199255911</publications>
+      <confidence>y</confidence>
+      <updated-at type="datetime">2009-05-14T15:33:23-04:00</updated-at>
+      <sureness type="integer">0</sureness>
+      <node-type>Subgroup</node-type>
+      <created-at type="datetime">2009-05-14T15:33:23-04:00</created-at>
+      <children type="array">
+        <child>
+          <updated-by>joe_leif</updated-by>
+          <deleted-at nil="true"></deleted-at>
+          <created-by>joe_leif</created-by>
+          <other-codes>kut</other-codes>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <codes>kut</codes>
+          <start-date nil="true"></start-date>
+          <is-default type="integer">0</is-default>
+          <geography>Country: Canada, United States; Lat.: 49.5; Long.: -116</geography>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 629. New York: Oxford University Press. ISBN 0199255911</publications>
+          <confidence>y</confidence>
+          <updated-at type="datetime">2009-05-14T15:33:23-04:00</updated-at>
+          <sureness type="integer">0</sureness>
+          <node-type>Language</node-type>
+          <created-at type="datetime">2009-05-14T15:33:23-04:00</created-at>
+          <children type="array"/>
+          <tree-val>Kutenai: Dryer 2005</tree-val>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">410460</id>
+          <updater-id type="integer">10740</updater-id>
+          <pub-comments></pub-comments>
+          <alt-names></alt-names>
+          <pri-name>Kutenai</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+          <tree-id type="integer">12341</tree-id>
+          <status nil="true"></status>
+        </child>
+      </children>
+      <tree-val>Kutenai: Dryer 2005</tree-val>
+      <node-status-id nil="true"></node-status-id>
+      <id type="integer">410459</id>
+      <updater-id type="integer">10740</updater-id>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <alt-names></alt-names>
+      <pri-name>Kutenai</pri-name>
+      <node-type-id type="integer">10000</node-type-id>
+      <tree-id type="integer">12341</tree-id>
+      <status nil="true"></status>
+    </root>
+    <description>Kutenai: Dryer 2005</description>
+  </tree>
+</hash>

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Australia</region>
+    <description>Proto-Mirndi: Green and Nordlinger 2004</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2011-02-10T15:38:38-05:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Proto-Mirndi: Green and Nordlinger 2004</tree-val>
+      <pub-comments>&quot;The putative Mirndi subgroup consists of just five languages. In the west are Nungali, and the closely related dialects Jaminjung and Ngaliwurru, making up a language we refer to as 'Jaminjungan'. In the east are Jingulu, Ngarnka, and the dialect cluster of Wambaya, Gudanji, and Binbinka which makes up the language  we refer to as 'Wambayan'. We refer to the Western and Eastern blocs following Chadwick (1997) as the 'Yirram' and 'Barkly' groups respectively (noting however that these are convenient geographical descriptors which imply no claim of genetic branching)&quot; (Green and Nordlinger 2004: 292-293). &quot;We therefore conclude that the shared pronominal features of the Mirndi languages are better explained genetically rather than diffusionally. And we note that at the same time those features provide some limited evidence of shared innovation and thus of subgroup status&quot; (Green and Nordlinger 2004: 311).</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2011-02-10T15:38:38-05:00</updated-at>
+      <pri-name>Proto-Mirndi</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">-1</sureness>
+      <id type="integer">764247</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names>Mirndi, Mindi</alt-names>
+      <tree-id type="integer">19036</tree-id>
+      <codes>mndi</codes>
+      <status nil="true"></status>
+      <publications>Green, Ian  &amp; Rachel  Nordlinger. 2004. Revisiting Proto-Mirndi. In Claire  Bowern &amp; Harold  Koch (eds.), Australian Languages: The classification and comparative method, vol. 249, 291-311. Amsterdam: John Benjamins. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2011-02-10T15:38:38-05:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Proto-Mirndi: Green and Nordlinger 2004</tree-val>
+          <pub-comments>&quot;&#8230;the Ngurlun languages share very particular pronominal, gender and tense/aspect/mood features; a range of these features have no correspondences in the other Mirndi languages and are thus better considered as innovations of a (low-level) sub-group than as retentions from proto-Mirndi. No such considerations apply, however, to a comparison of Jingulu and Ngurlun; on the basis of the current data there are no sets of formal features which stand out as shared innovations of Jingulu and Ngurlun and which would compel us to set up a Barkly node&quot; (Green and Nordlinger 2004: 309).</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2011-02-10T15:38:38-05:00</updated-at>
+          <pri-name>Jingulu</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">764253</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">19036</tree-id>
+          <codes>jngl</codes>
+          <status nil="true"></status>
+          <publications>Green, Ian  &amp; Rachel  Nordlinger. 2004. Revisiting Proto-Mirndi. In Claire  Bowern &amp; Harold  Koch (eds.), Australian Languages: The classification and comparative method, vol. 249, 291-311. Amsterdam: John Benjamins. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2011-02-10T15:38:38-05:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Proto-Mirndi: Green and Nordlinger 2004</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2011-02-10T15:38:38-05:00</updated-at>
+              <pri-name>Jingulu</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">764254</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">19036</tree-id>
+              <codes>jig</codes>
+              <status nil="true"></status>
+              <publications>Green, Ian  &amp; Rachel  Nordlinger. 2004. Revisiting Proto-Mirndi. In Claire  Bowern &amp; Harold  Koch (eds.), Australian Languages: The classification and comparative method, vol. 249, 291-311. Amsterdam: John Benjamins. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2011-02-10T15:38:38-05:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Proto-Mirndi: Green and Nordlinger 2004</tree-val>
+          <pub-comments>&quot;We will not consider for the moment whether or not the Yirram languages comprise an internal subgroup -- a question that does not bear immediately on the scenarios under consideration here&quot; (Green and Nordlinger 2004: 309).</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2011-02-10T15:38:38-05:00</updated-at>
+          <pri-name>Yirram</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">764248</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">19036</tree-id>
+          <codes>djam</codes>
+          <status nil="true"></status>
+          <publications>Green, Ian  &amp; Rachel  Nordlinger. 2004. Revisiting Proto-Mirndi. In Claire  Bowern &amp; Harold  Koch (eds.), Australian Languages: The classification and comparative method, vol. 249, 291-311. Amsterdam: John Benjamins. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2011-02-10T15:38:38-05:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Proto-Mirndi: Green and Nordlinger 2004</tree-val>
+              <pub-comments>&quot;In the west are Nungali, and the closely related dialects Jaminjung and Ngaliwurru, making up a language we refer to as 'Jaminjungan'&quot; (Green and Nordlinger 2004: 292).</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2011-02-10T15:38:38-05:00</updated-at>
+              <pri-name>Nungali</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">764249</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">19036</tree-id>
+              <codes>nug</codes>
+              <status nil="true"></status>
+              <publications>Green, Ian  &amp; Rachel  Nordlinger. 2004. Revisiting Proto-Mirndi. In Claire  Bowern &amp; Harold  Koch (eds.), Australian Languages: The classification and comparative method, vol. 249, 291-311. Amsterdam: John Benjamins. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2011-02-10T15:38:38-05:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Proto-Mirndi: Green and Nordlinger 2004</tree-val>
+              <pub-comments>&quot;In the west are Nungali, and the closely related dialects Jaminjung and Ngaliwurru, making up a language we refer to as 'Jaminjungan'&quot; (Green and Nordlinger 2004: 292).</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2011-02-10T15:38:38-05:00</updated-at>
+              <pri-name>Jaminjungan</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">764250</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">19036</tree-id>
+              <codes>djd</codes>
+              <status nil="true"></status>
+              <publications>Green, Ian  &amp; Rachel  Nordlinger. 2004. Revisiting Proto-Mirndi. In Claire  Bowern &amp; Harold  Koch (eds.), Australian Languages: The classification and comparative method, vol. 249, 291-311. Amsterdam: John Benjamins. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2011-02-10T15:38:38-05:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Proto-Mirndi: Green and Nordlinger 2004</tree-val>
+                  <pub-comments>&quot;In the west are Nungali, and the closely related dialects Jaminjung and Ngaliwurru, making up a language we refer to as 'Jaminjungan'&quot; (Green and Nordlinger 2004: 292).</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2011-02-10T15:38:38-05:00</updated-at>
+                  <pri-name>Jaminjung</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">764251</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">19036</tree-id>
+                  <codes>djd</codes>
+                  <status nil="true"></status>
+                  <publications>Green, Ian  &amp; Rachel  Nordlinger. 2004. Revisiting Proto-Mirndi. In Claire  Bowern &amp; Harold  Koch (eds.), Australian Languages: The classification and comparative method, vol. 249, 291-311. Amsterdam: John Benjamins. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2011-02-10T15:38:38-05:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Proto-Mirndi: Green and Nordlinger 2004</tree-val>
+                  <pub-comments>&quot;In the west are Nungali, and the closely related dialects Jaminjung and Ngaliwurru, making up a language we refer to as 'Jaminjungan'&quot; (Green and Nordlinger 2004: 292).</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2011-02-10T15:38:38-05:00</updated-at>
+                  <pri-name>Ngaliwurru</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">764252</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">19036</tree-id>
+                  <codes>djd-nga</codes>
+                  <status nil="true"></status>
+                  <publications>Green, Ian  &amp; Rachel  Nordlinger. 2004. Revisiting Proto-Mirndi. In Claire  Bowern &amp; Harold  Koch (eds.), Australian Languages: The classification and comparative method, vol. 249, 291-311. Amsterdam: John Benjamins. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2011-02-10T15:38:38-05:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Proto-Mirndi: Green and Nordlinger 2004</tree-val>
+          <pub-comments>&quot;&#8230;the Ngurlun languages share very particular pronominal, gender and tense/aspect/mood features; a range of these features have no correspondences in the other Mirndi languages and are thus better considered as innovations of a (low-level) sub-group than as retentions from proto-Mirndi. No such considerations apply, however, to a comparison of Jingulu and Ngurlun; on the basis of the current data there are no sets of formal features which stand out as shared innovations of Jingulu and Ngurlun and which would compel us to set up a Barkly node&quot; (Green and Nordlinger 2004: 309).</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2011-02-10T15:38:38-05:00</updated-at>
+          <pri-name>Ngurlun</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">764255</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">19036</tree-id>
+          <codes>wamb</codes>
+          <status nil="true"></status>
+          <publications>Green, Ian  &amp; Rachel  Nordlinger. 2004. Revisiting Proto-Mirndi. In Claire  Bowern &amp; Harold  Koch (eds.), Australian Languages: The classification and comparative method, vol. 249, 291-311. Amsterdam: John Benjamins. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2011-02-10T15:38:38-05:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Proto-Mirndi: Green and Nordlinger 2004</tree-val>
+              <pub-comments>&quot;In the east are Jingulu, Ngarnka, and the dialect cluster of Wambaya, Gudanji, and Binbinka which makes up the language  we refer to as 'Wambayan'&quot; (Green and Nordlinger 2004: 292-293).</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2011-02-10T15:38:38-05:00</updated-at>
+              <pri-name>Wambayan</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">764257</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">19036</tree-id>
+              <codes>wmb</codes>
+              <status nil="true"></status>
+              <publications>Green, Ian  &amp; Rachel  Nordlinger. 2004. Revisiting Proto-Mirndi. In Claire  Bowern &amp; Harold  Koch (eds.), Australian Languages: The classification and comparative method, vol. 249, 291-311. Amsterdam: John Benjamins. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2011-02-10T15:38:38-05:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Proto-Mirndi: Green and Nordlinger 2004</tree-val>
+                  <pub-comments>&quot;In the east are Jingulu, Ngarnka, and the dialect cluster of Wambaya, Gudanji, and Binbinka which makes up the language  we refer to as 'Wambayan'&quot; (Green and Nordlinger 2004: 292-293).</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2011-02-10T15:38:39-05:00</updated-at>
+                  <pri-name>Wambaya</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">764258</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">19036</tree-id>
+                  <codes>wmb-wam</codes>
+                  <status nil="true"></status>
+                  <publications>Green, Ian  &amp; Rachel  Nordlinger. 2004. Revisiting Proto-Mirndi. In Claire  Bowern &amp; Harold  Koch (eds.), Australian Languages: The classification and comparative method, vol. 249, 291-311. Amsterdam: John Benjamins. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2011-02-10T15:38:39-05:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Proto-Mirndi: Green and Nordlinger 2004</tree-val>
+                  <pub-comments>&quot;In the east are Jingulu, Ngarnka, and the dialect cluster of Wambaya, Gudanji, and Binbinka which makes up the language  we refer to as 'Wambayan'&quot; (Green and Nordlinger 2004: 292-293).</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2011-02-10T15:38:39-05:00</updated-at>
+                  <pri-name>Gudanji</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">764259</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">19036</tree-id>
+                  <codes>nji, wmb-gud</codes>
+                  <status nil="true"></status>
+                  <publications>Green, Ian  &amp; Rachel  Nordlinger. 2004. Revisiting Proto-Mirndi. In Claire  Bowern &amp; Harold  Koch (eds.), Australian Languages: The classification and comparative method, vol. 249, 291-311. Amsterdam: John Benjamins. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2011-02-10T15:38:39-05:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Proto-Mirndi: Green and Nordlinger 2004</tree-val>
+                  <pub-comments>&quot;In the east are Jingulu, Ngarnka, and the dialect cluster of Wambaya, Gudanji, and Binbinka which makes up the language  we refer to as 'Wambayan'&quot; (Green and Nordlinger 2004: 292-293).</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2011-02-10T15:38:39-05:00</updated-at>
+                  <pri-name>Binbinka</pri-name>
+                  <node-type>Dialect</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">764260</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">19036</tree-id>
+                  <codes>nji-bin, wmb-bin</codes>
+                  <status nil="true"></status>
+                  <publications>Green, Ian  &amp; Rachel  Nordlinger. 2004. Revisiting Proto-Mirndi. In Claire  Bowern &amp; Harold  Koch (eds.), Australian Languages: The classification and comparative method, vol. 249, 291-311. Amsterdam: John Benjamins. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2011-02-10T15:38:38-05:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Proto-Mirndi: Green and Nordlinger 2004</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2011-02-10T15:38:38-05:00</updated-at>
+              <pri-name>Ngarnka</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">764256</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">19036</tree-id>
+              <codes>nji, nji-nga</codes>
+              <status nil="true"></status>
+              <publications>Green, Ian  &amp; Rachel  Nordlinger. 2004. Revisiting Proto-Mirndi. In Claire  Bowern &amp; Harold  Koch (eds.), Australian Languages: The classification and comparative method, vol. 249, 291-311. Amsterdam: John Benjamins. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

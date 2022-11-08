@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <description>Chimakuan: Powell 1891</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2009-09-01T17:19:01-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Chimakuan: Powell 1891</tree-val>
+      <pub-comments>&quot;The language of the Chimakum 'differs materially from either of their neighbors.  In fact, they seem to have maintained it a State secret.  To what family it will ultimately be referred, cannot now be decided.'&quot; (138)</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2009-09-01T17:19:01-04:00</updated-at>
+      <pri-name>Chimakuan</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">608417</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">15296</tree-id>
+      <codes>chmn</codes>
+      <status nil="true"></status>
+      <publications>Powell, J. W. 1891. Indian Linguistic Families of America North of Mexico, 1-142. Washington D.C.: Government Printing Office. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-09-01T17:19:01-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Chimakuan: Powell 1891</tree-val>
+          <pub-comments>Speakers: 252</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2009-09-01T17:19:01-04:00</updated-at>
+          <pri-name>Quile-ute</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">608418</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Spoken near Puget Sound and Port Townsend Bay</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">15296</tree-id>
+          <codes>qui</codes>
+          <status nil="true"></status>
+          <publications>Powell, J. W. 1891. Indian Linguistic Families of America North of Mexico, 1-142. Washington D.C.: Government Printing Office. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-09-01T17:19:01-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Chimakuan: Powell 1891</tree-val>
+              <pub-comments>The Hoh are considered a sub-tribe of the Quile-ute. Speakers: 71</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-09-01T17:19:01-04:00</updated-at>
+              <pri-name>Hoh</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">608419</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Spoken on Cape Flattery</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">15296</tree-id>
+              <codes>qui-hoh</codes>
+              <status nil="true"></status>
+              <publications>Powell, J. W. 1891. Indian Linguistic Families of America North of Mexico, 1-142. Washington D.C.: Government Printing Office. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-09-01T17:19:01-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Chimakuan: Powell 1891</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id type="integer">10001</node-status-id>
+          <updated-at type="datetime">2011-02-21T12:30:38-05:00</updated-at>
+          <pri-name>Chimakum</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">608420</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Spoken on Puget Sound</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">15296</tree-id>
+          <codes>xch</codes>
+          <status>Nearly Extinct</status>
+          <publications>Powell, J. W. 1891. Indian Linguistic Families of America North of Mexico, 1-142. Washington D.C.: Government Printing Office. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

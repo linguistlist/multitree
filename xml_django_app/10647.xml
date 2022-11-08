@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Central America</region>
+    <root>
+      <tree-id type="integer">10647</tree-id>
+      <codes>misu</codes>
+      <updated-by>joe_leif</updated-by>
+      <end-date nil="true"></end-date>
+      <confidence>y</confidence>
+      <updater-id type="integer">10740</updater-id>
+      <deleted-at nil="true"></deleted-at>
+      <created-at type="datetime">2008-09-09T12:49:36-04:00</created-at>
+      <children type="array">
+        <child>
+          <tree-id type="integer">10647</tree-id>
+          <codes>miq</codes>
+          <updated-by>joe_leif</updated-by>
+          <end-date nil="true"></end-date>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2008-09-09T12:49:37-04:00</created-at>
+          <children type="array"/>
+          <pri-name>Miskito</pri-name>
+          <updated-at type="datetime">2008-09-09T12:49:37-04:00</updated-at>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+          <node-type-id type="integer">10001</node-type-id>
+          <sureness type="integer">0</sureness>
+          <creator-id type="integer">10740</creator-id>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <node-type>Language</node-type>
+          <geography>Country: Nicaragua; Lat.: 14; Long.: -83.67</geography>
+          <alt-names></alt-names>
+          <tree-val>Misumalpan: Dryer 2005</tree-val>
+          <other-codes>mis</other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <id type="integer">135793</id>
+          <created-by>joe_leif</created-by>
+        </child>
+        <child>
+          <tree-id type="integer">10647</tree-id>
+          <codes>yan</codes>
+          <updated-by>joe_leif</updated-by>
+          <end-date nil="true"></end-date>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2008-09-09T12:49:37-04:00</created-at>
+          <children type="array"/>
+          <pri-name>Sumu</pri-name>
+          <updated-at type="datetime">2011-08-03T13:14:42-04:00</updated-at>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+          <node-type-id type="integer">10001</node-type-id>
+          <sureness type="integer">0</sureness>
+          <creator-id type="integer">10740</creator-id>
+          <pub-comments></pub-comments>
+          <start-date nil="true"></start-date>
+          <node-type>Language</node-type>
+          <geography>Country: Nicaragua; Lat.: 13; Long.: -84.5</geography>
+          <alt-names>Sumo Tawahka</alt-names>
+          <tree-val>Misumalpan: Dryer 2005</tree-val>
+          <other-codes>sum</other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <id type="integer">135794</id>
+          <created-by>joe_leif</created-by>
+        </child>
+      </children>
+      <pri-name>Misumalpan</pri-name>
+      <updated-at type="datetime">2008-09-09T12:49:37-04:00</updated-at>
+      <status nil="true"></status>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+      <node-type-id type="integer">10000</node-type-id>
+      <sureness type="integer">0</sureness>
+      <creator-id type="integer">10740</creator-id>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <start-date nil="true"></start-date>
+      <node-type>Subgroup</node-type>
+      <geography nil="true"></geography>
+      <alt-names></alt-names>
+      <tree-val>Misumalpan: Dryer 2005</tree-val>
+      <other-codes></other-codes>
+      <node-status-id nil="true"></node-status-id>
+      <is-default type="integer">0</is-default>
+      <id type="integer">135792</id>
+      <created-by>joe_leif</created-by>
+    </root>
+    <description>Misumalpan: Dryer 2005</description>
+  </tree>
+</hash>

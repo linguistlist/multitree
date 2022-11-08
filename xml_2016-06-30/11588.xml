@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Central America</region>
+    <root>
+      <start-date nil="true"></start-date>
+      <updated-by>joe_leif</updated-by>
+      <tree-val>Central American Language Isolates: Ethnologue 2005</tree-val>
+      <tree-id type="integer">11588</tree-id>
+      <status nil="true"></status>
+      <created-at type="datetime">2009-03-16T17:36:45-04:00</created-at>
+      <codes>cais</codes>
+      <confidence>Y</confidence>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <updated-by>joe_leif</updated-by>
+          <tree-val>Central American Language Isolates: Ethnologue 2005</tree-val>
+          <tree-id type="integer">11588</tree-id>
+          <status nil="true"></status>
+          <created-at type="datetime">2009-03-16T17:36:45-04:00</created-at>
+          <codes>jic</codes>
+          <confidence>Y</confidence>
+          <children type="array"/>
+          <alt-names>Tolpan, Jicaque, Xicaque</alt-names>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <pub-comments>No distinct dialects. It may be distantly related to Subtiaba of Nicaragua (extinct linguistically), Malinaltepec Tlapanec of Mexico, or the Hokan languages.</pub-comments>
+          <geography>Honduras, Monta&#241;a de la Flor, northern Francisco Moraz&#225;n Department, north central Honduras, some in Yoro.</geography>
+          <end-date nil="true"></end-date>
+          <updated-at type="datetime">2009-03-16T17:36:45-04:00</updated-at>
+          <pri-name>Tol</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+          <updater-id type="integer">10740</updater-id>
+          <other-codes></other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <sureness type="integer">0</sureness>
+          <node-type>Language</node-type>
+          <created-by>joe_leif</created-by>
+          <id type="integer">325398</id>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+        </child>
+      </children>
+      <alt-names></alt-names>
+      <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+      <pub-comments>This is a subtree of the isolates tree provided in Ethnologue. It has been broken into regions for ease of searching.</pub-comments>
+      <geography>Central America</geography>
+      <end-date nil="true"></end-date>
+      <updated-at type="datetime">2009-03-16T17:36:45-04:00</updated-at>
+      <pri-name>Central American Language Isolate</pri-name>
+      <node-type-id type="integer">10000</node-type-id>
+      <updater-id type="integer">10740</updater-id>
+      <other-codes></other-codes>
+      <node-status-id nil="true"></node-status-id>
+      <is-default type="integer">0</is-default>
+      <sureness type="integer">0</sureness>
+      <node-type>Subgroup</node-type>
+      <created-by>joe_leif</created-by>
+      <id type="integer">325397</id>
+      <deleted-at nil="true"></deleted-at>
+      <creator-id type="integer">10740</creator-id>
+    </root>
+    <description>Central American Language Isolates: Ethnologue 2005</description>
+  </tree>
+</hash>

@@ -1,0 +1,1298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <description>Hokan-Siouan: Sapir 1949</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2012-07-23T14:40:17-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+      <pub-comments>The author does not explicitly distinguish between stocks, families, subgroups, etc. He only refers to stocks in this tree.</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2012-07-23T14:40:17-04:00</updated-at>
+      <pri-name>Hokan-Siouan</pri-name>
+      <node-type>Stock</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">802282</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10005</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">20151</tree-id>
+      <codes>hosi</codes>
+      <status nil="true"></status>
+      <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2012-07-23T14:40:20-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2012-07-23T14:40:20-04:00</updated-at>
+          <pri-name>Eastern Group</pri-name>
+          <node-type>Stock</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">802318</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10005</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">20151</tree-id>
+          <codes>egrp</codes>
+          <status nil="true"></status>
+          <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-07-23T14:40:20-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-07-23T14:40:20-04:00</updated-at>
+              <pri-name>Natchez-Muskogian</pri-name>
+              <node-type>Stock</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">802322</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10005</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20151</tree-id>
+              <codes>nmus</codes>
+              <status nil="true"></status>
+              <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2012-07-23T14:40:21-04:00</created-at>
+                  <confidence>n</confidence>
+                  <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                  <pub-comments>It is unclear whether Sapir considers this a subgroup or a language.</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2012-07-23T14:40:21-04:00</updated-at>
+                  <pri-name>Muskogian</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">802324</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">20151</tree-id>
+                  <codes>musk</codes>
+                  <status nil="true"></status>
+                  <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2012-07-23T14:40:21-04:00</created-at>
+                  <confidence>n</confidence>
+                  <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                  <pub-comments>It is unclear whether Sapir considers this a subgroup or a language.</pub-comments>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <updated-at type="datetime">2012-07-23T14:40:21-04:00</updated-at>
+                  <pri-name>Timucua</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">-1</sureness>
+                  <id type="integer">802325</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Florida</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names>Timuqua</alt-names>
+                  <tree-id type="integer">20151</tree-id>
+                  <codes>colr</codes>
+                  <status>Extinct</status>
+                  <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2012-07-23T14:40:20-04:00</created-at>
+                  <confidence>n</confidence>
+                  <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                  <pub-comments>It is unclear whether Sapir considers this a subgroup or a language.</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2012-07-23T14:40:21-04:00</updated-at>
+                  <pri-name>Natchez</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">802323</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">20151</tree-id>
+                  <codes>ntzm</codes>
+                  <status nil="true"></status>
+                  <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-07-23T14:40:20-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-07-23T14:40:20-04:00</updated-at>
+              <pri-name>Siouan-Yuchi</pri-name>
+              <node-type>Stock</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">802319</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10005</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20151</tree-id>
+              <codes>suyu</codes>
+              <status nil="true"></status>
+              <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2012-07-23T14:40:20-04:00</created-at>
+                  <confidence>n</confidence>
+                  <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                  <pub-comments>It is unclear whether Sapir considers this a subgroup or a language.</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2012-07-23T14:40:20-04:00</updated-at>
+                  <pri-name>Siouan</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">802320</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">20151</tree-id>
+                  <codes>siou</codes>
+                  <status nil="true"></status>
+                  <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2012-07-23T14:40:20-04:00</created-at>
+                  <confidence>n</confidence>
+                  <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                  <pub-comments>It is unclear whether Sapir considers this a subgroup or a language.</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2012-07-23T14:40:20-04:00</updated-at>
+                  <pri-name>Yuchi</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">802321</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Savannah River, in Georgia and South Carolina</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">20151</tree-id>
+                  <codes>yuch</codes>
+                  <status nil="true"></status>
+                  <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2012-07-23T14:40:20-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2012-07-23T14:40:20-04:00</updated-at>
+          <pri-name>Iroquois-Caddoan</pri-name>
+          <node-type>Stock</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">802314</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10005</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">20151</tree-id>
+          <codes>irca</codes>
+          <status nil="true"></status>
+          <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-07-23T14:40:20-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-07-23T14:40:20-04:00</updated-at>
+              <pri-name>Caddoan</pri-name>
+              <node-type>Stock</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">802316</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10005</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20151</tree-id>
+              <codes>cadd</codes>
+              <status nil="true"></status>
+              <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2012-07-23T14:40:20-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2012-07-23T14:40:20-04:00</updated-at>
+                  <pri-name>Pawnee</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">802317</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">20151</tree-id>
+                  <codes>paw, pwn</codes>
+                  <status nil="true"></status>
+                  <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-07-23T14:40:20-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-07-23T14:40:20-04:00</updated-at>
+              <pri-name>Iroquoian</pri-name>
+              <node-type>Stock</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">802315</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10005</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20151</tree-id>
+              <codes>iroq</codes>
+              <status nil="true"></status>
+              <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2012-07-23T14:40:17-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2012-07-23T14:40:17-04:00</updated-at>
+          <pri-name>Hokan-Coahuiltecan</pri-name>
+          <node-type>Stock</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">802283</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10005</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">20151</tree-id>
+          <codes>hoka</codes>
+          <status nil="true"></status>
+          <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-07-23T14:40:19-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-07-23T14:40:19-04:00</updated-at>
+              <pri-name>Coahuiltecan</pri-name>
+              <node-type>Stock</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">802302</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>lower Rio Grande, in Texas and Mexico</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10005</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20151</tree-id>
+              <codes>coah</codes>
+              <status nil="true"></status>
+              <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2012-07-23T14:40:19-04:00</created-at>
+                  <confidence>n</confidence>
+                  <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                  <pub-comments>It is unclear whether Sapir considers this a stock or a subgroup.</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2012-07-23T14:40:19-04:00</updated-at>
+                  <pri-name>Coahuiltecan</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">802304</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>N. E. Mexico</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">20151</tree-id>
+                  <codes>nuco</codes>
+                  <status nil="true"></status>
+                  <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2012-07-23T14:40:19-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2012-07-23T14:40:19-04:00</updated-at>
+                      <pri-name>Cotoname</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">802306</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">20151</tree-id>
+                      <codes>xcn</codes>
+                      <status nil="true"></status>
+                      <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2012-07-23T14:40:19-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2012-07-23T14:40:19-04:00</updated-at>
+                      <pri-name>Coahuilteco proper</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">802305</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">20151</tree-id>
+                      <codes>xcw</codes>
+                      <status nil="true"></status>
+                      <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2012-07-23T14:40:19-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2012-07-23T14:40:19-04:00</updated-at>
+                      <pri-name>Comecrudo</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">802307</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">20151</tree-id>
+                      <codes>xcm</codes>
+                      <status nil="true"></status>
+                      <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2012-07-23T14:40:19-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2012-07-23T14:40:19-04:00</updated-at>
+                  <pri-name>Karankawa</pri-name>
+                  <node-type>Stock</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">802308</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Texas coast</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10005</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">20151</tree-id>
+                  <codes>krkw</codes>
+                  <status nil="true"></status>
+                  <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2012-07-23T14:40:19-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2012-07-23T14:40:19-04:00</updated-at>
+                  <pri-name>Tonkawa</pri-name>
+                  <node-type>Stock</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">802303</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Texas</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10005</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">20151</tree-id>
+                  <codes>tnkw</codes>
+                  <status nil="true"></status>
+                  <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-07-23T14:40:17-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-07-23T14:40:17-04:00</updated-at>
+              <pri-name>Hokan</pri-name>
+              <node-type>Stock</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">802284</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10005</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20151</tree-id>
+              <codes>nuho</codes>
+              <status nil="true"></status>
+              <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2012-07-23T14:40:18-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2012-07-23T14:40:18-04:00</updated-at>
+                  <pri-name>Salinan-Seri</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">802296</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">20151</tree-id>
+                  <codes>sase</codes>
+                  <status nil="true"></status>
+                  <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2012-07-23T14:40:18-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2012-07-23T14:40:18-04:00</updated-at>
+                      <pri-name>Seri</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">802299</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography>coast of Sonora</geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">20151</tree-id>
+                      <codes>sei</codes>
+                      <status nil="true"></status>
+                      <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2012-07-23T14:40:18-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2012-07-23T14:40:18-04:00</updated-at>
+                      <pri-name>Chumash</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">802298</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography>southwestern California</geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">20151</tree-id>
+                      <codes>chs</codes>
+                      <status nil="true"></status>
+                      <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2012-07-23T14:40:18-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2012-07-23T14:40:18-04:00</updated-at>
+                      <pri-name>Salinan</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">802297</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography>southwestern California</geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">20151</tree-id>
+                      <codes>sln, sal</codes>
+                      <status nil="true"></status>
+                      <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2012-07-23T14:40:17-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2012-07-23T14:40:17-04:00</updated-at>
+                  <pri-name>Northern Hokan</pri-name>
+                  <node-type>Stock</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">802285</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10005</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">20151</tree-id>
+                  <codes>nhok</codes>
+                  <status nil="true"></status>
+                  <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2012-07-23T14:40:18-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2012-07-23T14:40:18-04:00</updated-at>
+                      <pri-name>Yana</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">802290</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography>northern California</geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">20151</tree-id>
+                      <codes>ynn</codes>
+                      <status nil="true"></status>
+                      <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2012-07-23T14:40:17-04:00</created-at>
+                      <confidence>n</confidence>
+                      <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                      <pub-comments>Sapir includes the following three groups in brackets (1955: 173), leading one to believe they are more closely related, and possibly belonging to a separate group, than the other two languages in Northern Hokan. However, he does not include a name for this apparent grouping.</pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2012-07-23T14:40:17-04:00</updated-at>
+                      <pri-name>Karok-Chimariko-Shasta</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">802286</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">20151</tree-id>
+                      <codes>krsh</codes>
+                      <status nil="true"></status>
+                      <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array">
+                        <child>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2012-07-23T14:40:17-04:00</created-at>
+                          <confidence>y</confidence>
+                          <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                          <pub-comments></pub-comments>
+                          <node-status-id nil="true"></node-status-id>
+                          <updated-at type="datetime">2012-07-23T14:40:18-04:00</updated-at>
+                          <pri-name>Chimariko</pri-name>
+                          <node-type>Language</node-type>
+                          <is-default type="boolean">false</is-default>
+                          <deleted-at nil="true"></deleted-at>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">802288</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <created-by>joe_leif</created-by>
+                          <updater-id type="integer">10740</updater-id>
+                          <geography>northwestern California</geography>
+                          <updated-by>joe_leif</updated-by>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">20151</tree-id>
+                          <codes>sid</codes>
+                          <status nil="true"></status>
+                          <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                          <end-date nil="true"></end-date>
+                          <children type="array"/>
+                        </child>
+                        <child>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2012-07-23T14:40:17-04:00</created-at>
+                          <confidence>y</confidence>
+                          <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                          <pub-comments></pub-comments>
+                          <node-status-id nil="true"></node-status-id>
+                          <updated-at type="datetime">2012-07-23T14:40:17-04:00</updated-at>
+                          <pri-name>Karok</pri-name>
+                          <node-type>Language</node-type>
+                          <is-default type="boolean">false</is-default>
+                          <deleted-at nil="true"></deleted-at>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">802287</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <created-by>joe_leif</created-by>
+                          <updater-id type="integer">10740</updater-id>
+                          <geography>northwestern California</geography>
+                          <updated-by>joe_leif</updated-by>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">20151</tree-id>
+                          <codes>kyh</codes>
+                          <status nil="true"></status>
+                          <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                          <end-date nil="true"></end-date>
+                          <children type="array"/>
+                        </child>
+                        <child>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2012-07-23T14:40:18-04:00</created-at>
+                          <confidence>y</confidence>
+                          <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                          <pub-comments></pub-comments>
+                          <node-status-id nil="true"></node-status-id>
+                          <updated-at type="datetime">2012-07-23T14:40:18-04:00</updated-at>
+                          <pri-name>Shasta-Achomawi</pri-name>
+                          <node-type>Language</node-type>
+                          <is-default type="boolean">false</is-default>
+                          <deleted-at nil="true"></deleted-at>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">802289</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <created-by>joe_leif</created-by>
+                          <updater-id type="integer">10740</updater-id>
+                          <geography>northern California and southern Oregon</geography>
+                          <updated-by>joe_leif</updated-by>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <alt-names>Shastan</alt-names>
+                          <tree-id type="integer">20151</tree-id>
+                          <codes>sht</codes>
+                          <status nil="true"></status>
+                          <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                          <end-date nil="true"></end-date>
+                          <children type="array"/>
+                        </child>
+                      </children>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2012-07-23T14:40:18-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2012-07-23T14:40:18-04:00</updated-at>
+                      <pri-name>Pomo</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">802291</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography>western California north of San Francisco Bay</geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">20151</tree-id>
+                      <codes>pmm, pmc, poo, peb, pme, pej, pmn, pom, pso</codes>
+                      <status nil="true"></status>
+                      <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2012-07-23T14:40:18-04:00</created-at>
+                  <confidence>n</confidence>
+                  <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                  <pub-comments>It is unclear whether Sapir considers this a stock or a subgroup.</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2012-07-23T14:40:18-04:00</updated-at>
+                  <pri-name>Esselen-Yuman</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">802293</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">20151</tree-id>
+                  <codes>esyu</codes>
+                  <status nil="true"></status>
+                  <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2012-07-23T14:40:18-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <updated-at type="datetime">2012-07-23T14:40:18-04:00</updated-at>
+                      <pri-name>Esselen</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">802294</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography>southwestern California</geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">20151</tree-id>
+                      <codes>esq, ess</codes>
+                      <status>Extinct</status>
+                      <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2012-07-23T14:40:18-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2012-07-23T14:40:18-04:00</updated-at>
+                      <pri-name>Yuman</pri-name>
+                      <node-type>Language</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">802295</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography>lower Colorado River valley, in Arizona, southern California and south into all or most of lower California</geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">20151</tree-id>
+                      <codes>yum, jua</codes>
+                      <status nil="true"></status>
+                      <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2012-07-23T14:40:18-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2012-07-23T14:40:18-04:00</updated-at>
+                  <pri-name>Tequistlatecan</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">802300</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>coast of Oaxaca</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>Chontal</alt-names>
+                  <tree-id type="integer">20151</tree-id>
+                  <codes>clo, chd, chf</codes>
+                  <status nil="true"></status>
+                  <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2012-07-23T14:40:18-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2012-07-23T14:40:18-04:00</updated-at>
+                  <pri-name>Washo</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">802292</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>western Nevada and eastern California</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">20151</tree-id>
+                  <codes>was</codes>
+                  <status nil="true"></status>
+                  <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-07-23T14:40:18-04:00</created-at>
+              <confidence>n</confidence>
+              <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+              <pub-comments>It is unclear whether Sapir considers this a stock or a subgroup.</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-07-23T14:40:19-04:00</updated-at>
+              <pri-name>Subtiaba-Tlappanec</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">802301</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Guerrero, Salvador and Nicaragua</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20151</tree-id>
+              <codes>subt</codes>
+              <status nil="true"></status>
+              <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2012-07-23T14:40:20-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2012-07-23T14:40:20-04:00</updated-at>
+          <pri-name>Tunican</pri-name>
+          <node-type>Stock</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">802311</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Mississippi River, in Louisiana and Mississippi</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10005</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">20151</tree-id>
+          <codes>tunc</codes>
+          <status nil="true"></status>
+          <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-07-23T14:40:20-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-07-23T14:40:20-04:00</updated-at>
+              <pri-name>Chitimacha</pri-name>
+              <node-type>Stock</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">802313</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>southern Louisiana</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10005</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20151</tree-id>
+              <codes>tnct</codes>
+              <status nil="true"></status>
+              <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2012-07-23T14:40:20-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2012-07-23T14:40:20-04:00</updated-at>
+              <pri-name>Tunica-Atakapa</pri-name>
+              <node-type>Stock</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">802312</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10005</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">20151</tree-id>
+              <codes>tuna</codes>
+              <status nil="true"></status>
+              <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2012-07-23T14:40:19-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2012-07-23T14:40:19-04:00</updated-at>
+          <pri-name>Yuki</pri-name>
+          <node-type>Stock</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">802309</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>western California</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10005</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">20151</tree-id>
+          <codes>yuki</codes>
+          <status nil="true"></status>
+          <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2012-07-23T14:40:19-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Hokan-Siouan: Sapir 1949</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2012-07-23T14:40:20-04:00</updated-at>
+          <pri-name>Keres</pri-name>
+          <node-type>Stock</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">802310</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>certain Rio Grande pueblos, New Mexico</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10005</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">20151</tree-id>
+          <codes>kere</codes>
+          <status nil="true"></status>
+          <publications>Sapir, Edward. 1949. Central and North American Languages, Selected Writings of Edward Sapir in Language, Culture and Personality, 5 edn., 169-178. Berkeley and Los Angeles: University of California Press. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

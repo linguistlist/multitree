@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Australia</region>
+    <root>
+      <created-at type="datetime">2012-01-10T18:50:06-05:00</created-at>
+      <updater-id type="integer">10740</updater-id>
+      <start-date nil="true"></start-date>
+      <end-date nil="true"></end-date>
+      <tree-val>Australian Isolates:  Composite</tree-val>
+      <status nil="true"></status>
+      <id type="integer">795201</id>
+      <geography nil="true"></geography>
+      <confidence>y</confidence>
+      <publications>Bowern, Claire. 2010. Australia ISO Code Revisions: Existing Codes. Personal Communication with Anthony Aristar. </publications>
+      <updated-by>joe_leif</updated-by>
+      <pri-name>Australian Isolates</pri-name>
+      <node-type-id type="integer">10000</node-type-id>
+      <node-type>Subgroup</node-type>
+      <creator-id type="integer">10740</creator-id>
+      <sureness type="integer">0</sureness>
+      <alt-names></alt-names>
+      <is-default type="integer">1</is-default>
+      <created-by>joe_leif</created-by>
+      <codes>auis</codes>
+      <node-status-id nil="true"></node-status-id>
+      <deleted-at nil="true"></deleted-at>
+      <children type="array">
+        <child>
+          <created-at type="datetime">2012-01-10T18:50:06-05:00</created-at>
+          <updater-id type="integer">10740</updater-id>
+          <start-date nil="true"></start-date>
+          <end-date nil="true"></end-date>
+          <tree-val>Australian Isolates:  Composite</tree-val>
+          <status>Nearly Extinct</status>
+          <id type="integer">795202</id>
+          <geography nil="true"></geography>
+          <confidence>y</confidence>
+          <publications>Bowern, Claire. 2010. Australia ISO Code Revisions: Existing Codes. Personal Communication with Anthony Aristar. </publications>
+          <updated-by>joe_leif</updated-by>
+          <pri-name>Karranga</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+          <node-type>Language</node-type>
+          <creator-id type="integer">10740</creator-id>
+          <sureness type="integer">0</sureness>
+          <alt-names></alt-names>
+          <is-default type="integer">1</is-default>
+          <created-by>joe_leif</created-by>
+          <codes>1jy</codes>
+          <node-status-id type="integer">10001</node-status-id>
+          <deleted-at nil="true"></deleted-at>
+          <children type="array"/>
+          <updated-at type="datetime">2012-01-10T18:50:06-05:00</updated-at>
+          <pub-comments></pub-comments>
+          <other-codes></other-codes>
+          <tree-id type="integer">19805</tree-id>
+        </child>
+        <child>
+          <created-at type="datetime">2012-01-10T18:50:06-05:00</created-at>
+          <updater-id type="integer">10740</updater-id>
+          <start-date nil="true"></start-date>
+          <end-date nil="true"></end-date>
+          <tree-val>Australian Isolates:  Composite</tree-val>
+          <status>Nearly Extinct</status>
+          <id type="integer">795203</id>
+          <geography nil="true"></geography>
+          <confidence>y</confidence>
+          <publications>Bowern, Claire. 2010. Australia ISO Code Revisions: Existing Codes. Personal Communication with Anthony Aristar. </publications>
+          <updated-by>joe_leif</updated-by>
+          <pri-name>Wagiman</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+          <node-type>Language</node-type>
+          <creator-id type="integer">10740</creator-id>
+          <sureness type="integer">0</sureness>
+          <alt-names></alt-names>
+          <is-default type="integer">1</is-default>
+          <created-by>joe_leif</created-by>
+          <codes>waq</codes>
+          <node-status-id type="integer">10001</node-status-id>
+          <deleted-at nil="true"></deleted-at>
+          <children type="array"/>
+          <updated-at type="datetime">2012-01-10T18:50:07-05:00</updated-at>
+          <pub-comments>Number of speakers: 10 (2000) (Tryon 2007: 116).</pub-comments>
+          <other-codes></other-codes>
+          <tree-id type="integer">19805</tree-id>
+        </child>
+      </children>
+      <updated-at type="datetime">2012-01-10T18:50:06-05:00</updated-at>
+      <pub-comments></pub-comments>
+      <other-codes></other-codes>
+      <tree-id type="integer">19805</tree-id>
+    </root>
+    <description>Australian Isolates:  Composite</description>
+  </tree>
+</hash>

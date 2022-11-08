@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>    <region>North America</region>    <region>North America</region>    <region>North America</region>
+    <root>
+      <status nil="true"></status>
+      <node-status-id nil="true"></node-status-id>
+      <id type="integer">540345</id>
+      <codes>hoka</codes>
+      <pri-name>Hokan</pri-name>
+      <node-type-id type="integer">10000</node-type-id>
+      <start-date nil="true"></start-date>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <is-default type="integer">0</is-default>
+      <created-by>joe_leif</created-by>
+      <creator-id type="integer">10740</creator-id>
+      <children type="array">
+        <child>
+          <status nil="true"></status>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">540361</id>
+          <codes>yana</codes>
+          <pri-name>Yana</pri-name>
+          <node-type-id type="integer">10000</node-type-id>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <is-default type="integer">0</is-default>
+          <created-by>joe_leif</created-by>
+          <creator-id type="integer">10740</creator-id>
+          <children type="array">
+            <child>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">540362</id>
+              <codes>ynn</codes>
+              <pri-name>Yana</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <created-at type="datetime">2009-07-21T15:59:43-04:00</created-at>
+              <tree-id type="integer">14237</tree-id>
+              <other-codes>yan</other-codes>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-07-21T15:59:43-04:00</updated-at>
+              <node-type>Language</node-type>
+              <geography>Country: United States; Lat.: 40.5; Long.: -122</geography>
+              <tree-val>Hokan: Dryer 2005</tree-val>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+            </child>
+          </children>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <updater-id type="integer">10740</updater-id>
+          <created-at type="datetime">2009-07-21T15:59:43-04:00</created-at>
+          <tree-id type="integer">14237</tree-id>
+          <other-codes></other-codes>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-07-21T15:59:43-04:00</updated-at>
+          <node-type>Subgroup</node-type>
+          <geography nil="true"></geography>
+          <tree-val>Hokan: Dryer 2005</tree-val>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+        </child>
+        <child>
+          <status nil="true"></status>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">540351</id>
+          <codes>pomo</codes>
+          <pri-name>Pomoan</pri-name>
+          <node-type-id type="integer">10000</node-type-id>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <is-default type="integer">0</is-default>
+          <created-by>joe_leif</created-by>
+          <creator-id type="integer">10740</creator-id>
+          <children type="array">
+            <child>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">540352</id>
+              <codes>kju</codes>
+              <pri-name>Kashaya</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <created-at type="datetime">2009-07-21T15:59:42-04:00</created-at>
+              <tree-id type="integer">14237</tree-id>
+              <other-codes>ksh</other-codes>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-07-21T15:59:42-04:00</updated-at>
+              <node-type>Language</node-type>
+              <geography>Country: United States; Lat.: 38.67; Long.: -123.33</geography>
+              <tree-val>Hokan: Dryer 2005</tree-val>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">540354</id>
+              <codes>peb</codes>
+              <pri-name>Pomo (Eastern)</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <created-at type="datetime">2009-07-21T15:59:42-04:00</created-at>
+              <tree-id type="integer">14237</tree-id>
+              <other-codes>pme</other-codes>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-07-21T15:59:42-04:00</updated-at>
+              <node-type>Language</node-type>
+              <geography>Country: United States; Lat.: 39; Long.: -122.67</geography>
+              <tree-val>Hokan: Dryer 2005</tree-val>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">540356</id>
+              <codes>pom</codes>
+              <pri-name>Pomo (Southeastern)</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <created-at type="datetime">2009-07-21T15:59:42-04:00</created-at>
+              <tree-id type="integer">14237</tree-id>
+              <other-codes>pso</other-codes>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-07-21T15:59:42-04:00</updated-at>
+              <node-type>Language</node-type>
+              <geography>Country: United States; Lat.: 39; Long.: -122.5</geography>
+              <tree-val>Hokan: Dryer 2005</tree-val>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">540353</id>
+              <codes>poo</codes>
+              <pri-name>Pomo (Central)</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <created-at type="datetime">2009-07-21T15:59:42-04:00</created-at>
+              <tree-id type="integer">14237</tree-id>
+              <other-codes>pmc</other-codes>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-07-21T15:59:42-04:00</updated-at>
+              <node-type>Language</node-type>
+              <geography>Country: United States; Lat.: 39; Long.: -123.33</geography>
+              <tree-val>Hokan: Dryer 2005</tree-val>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">540355</id>
+              <codes>pej</codes>
+              <pri-name>Pomo (Northern)</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <created-at type="datetime">2009-07-21T15:59:42-04:00</created-at>
+              <tree-id type="integer">14237</tree-id>
+              <other-codes>pmn</other-codes>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-07-21T15:59:42-04:00</updated-at>
+              <node-type>Language</node-type>
+              <geography>Country: United States; Lat.: 39.33; Long.: -123.5</geography>
+              <tree-val>Hokan: Dryer 2005</tree-val>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+            </child>
+          </children>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <updater-id type="integer">10740</updater-id>
+          <created-at type="datetime">2009-07-21T15:59:42-04:00</created-at>
+          <tree-id type="integer">14237</tree-id>
+          <other-codes></other-codes>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-07-21T15:59:42-04:00</updated-at>
+          <node-type>Subgroup</node-type>
+          <geography nil="true"></geography>
+          <tree-val>Hokan: Dryer 2005</tree-val>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+        </child>
+        <child>
+          <status nil="true"></status>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">540363</id>
+          <codes>yuma</codes>
+          <pri-name>Yuman</pri-name>
+          <node-type-id type="integer">10000</node-type-id>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <is-default type="integer">0</is-default>
+          <created-by>joe_leif</created-by>
+          <creator-id type="integer">10740</creator-id>
+          <children type="array">
+            <child>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">540368</id>
+              <codes>klb</codes>
+              <pri-name>Kiliwa</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <created-at type="datetime">2009-07-21T15:59:43-04:00</created-at>
+              <tree-id type="integer">14237</tree-id>
+              <other-codes>klw</other-codes>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-07-21T15:59:43-04:00</updated-at>
+              <node-type>Language</node-type>
+              <geography>Country: Mexico; Lat.: 31.33; Long.: -115.67</geography>
+              <tree-val>Hokan: Dryer 2005</tree-val>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">540364</id>
+              <codes>coc</codes>
+              <pri-name>Cocopa</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <created-at type="datetime">2009-07-21T15:59:43-04:00</created-at>
+              <tree-id type="integer">14237</tree-id>
+              <other-codes>ccp</other-codes>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-07-21T15:59:43-04:00</updated-at>
+              <node-type>Language</node-type>
+              <geography>Country: United States, Mexico; Lat.: 32.33; Long.: -115</geography>
+              <tree-val>Hokan: Dryer 2005</tree-val>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">540367</id>
+              <codes>yuf-wal</codes>
+              <pri-name>Hualapai</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <start-date nil="true"></start-date>
+              <pub-comments>WALS says it is a dialect of Havasupai-Walapai-Yavapai in Ethnologue but it is not</pub-comments>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <created-at type="datetime">2009-07-21T15:59:43-04:00</created-at>
+              <tree-id type="integer">14237</tree-id>
+              <other-codes>hlp</other-codes>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-07-21T15:59:43-04:00</updated-at>
+              <node-type>Language</node-type>
+              <geography>Country: United States; Lat.: 35.5; Long.: -113.75</geography>
+              <tree-val>Hokan: Dryer 2005</tree-val>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">540365</id>
+              <codes>dih</codes>
+              <pri-name>Diegue&#241;o (Mesa Grande)</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <start-date nil="true"></start-date>
+              <pub-comments>WALS says it is dialect of Kumiai in Ethnologue but it is not</pub-comments>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <created-at type="datetime">2009-07-21T15:59:43-04:00</created-at>
+              <tree-id type="integer">14237</tree-id>
+              <other-codes>die</other-codes>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-07-21T15:59:43-04:00</updated-at>
+              <node-type>Language</node-type>
+              <geography>Country: Mexico, United States; Lat.: 32.67; Long.: -116.17</geography>
+              <tree-val>Hokan: Dryer 2005</tree-val>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">540373</id>
+              <codes>yuf-yav</codes>
+              <pri-name>Yavapai</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <start-date nil="true"></start-date>
+              <pub-comments>it is a dialect of Havasupai-Walapai-Yavapai in Ethnologue</pub-comments>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <created-at type="datetime">2009-07-21T15:59:43-04:00</created-at>
+              <tree-id type="integer">14237</tree-id>
+              <other-codes>yav</other-codes>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-07-21T15:59:43-04:00</updated-at>
+              <node-type>Language</node-type>
+              <geography>Country: United States; Lat.: 34; Long.: -113.33</geography>
+              <tree-val>Hokan: Dryer 2005</tree-val>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">540371</id>
+              <codes>yum</codes>
+              <pri-name>Quechan</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <created-at type="datetime">2009-07-21T15:59:43-04:00</created-at>
+              <tree-id type="integer">14237</tree-id>
+              <other-codes>que</other-codes>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-07-21T15:59:43-04:00</updated-at>
+              <node-type>Language</node-type>
+              <geography>Country: United States; Lat.: 32.83; Long.: -114.33</geography>
+              <tree-val>Hokan: Dryer 2005</tree-val>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">540366</id>
+              <codes>huf-yav</codes>
+              <pri-name>Havasupai</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <start-date nil="true"></start-date>
+              <pub-comments>it is a dialect of Havasupai-Walapai-Yavapai in Ethnologue but it is not</pub-comments>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <created-at type="datetime">2009-07-21T15:59:43-04:00</created-at>
+              <tree-id type="integer">14237</tree-id>
+              <other-codes>hav</other-codes>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-07-21T15:59:43-04:00</updated-at>
+              <node-type>Language</node-type>
+              <geography>Country: United States; Lat.: 35.75; Long.: -112.5</geography>
+              <tree-val>Hokan: Dryer 2005</tree-val>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">540372</id>
+              <codes>dih-tip</codes>
+              <pri-name>Tiipay (Jamul)</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <start-date nil="true"></start-date>
+              <pub-comments>it is dialect of Kumiai in Ethnologue</pub-comments>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <created-at type="datetime">2009-07-21T15:59:43-04:00</created-at>
+              <tree-id type="integer">14237</tree-id>
+              <other-codes>tja</other-codes>
+              <alt-names>Tipai</alt-names>
+              <updated-at type="datetime">2009-07-21T15:59:43-04:00</updated-at>
+              <node-type>Language</node-type>
+              <geography>Country: United States, Mexico; Lat.: 32.17; Long.: -116.5</geography>
+              <tree-val>Hokan: Dryer 2005</tree-val>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">540369</id>
+              <codes>mrc</codes>
+              <pri-name>Maricopa</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <created-at type="datetime">2009-07-21T15:59:43-04:00</created-at>
+              <tree-id type="integer">14237</tree-id>
+              <other-codes>mar</other-codes>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-07-21T15:59:43-04:00</updated-at>
+              <node-type>Language</node-type>
+              <geography>Country: United States; Lat.: 33.17; Long.: -113.17</geography>
+              <tree-val>Hokan: Dryer 2005</tree-val>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">540370</id>
+              <codes>mov</codes>
+              <pri-name>Mojave</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <created-at type="datetime">2009-07-21T15:59:43-04:00</created-at>
+              <tree-id type="integer">14237</tree-id>
+              <other-codes>moj</other-codes>
+              <alt-names>Mohave</alt-names>
+              <updated-at type="datetime">2009-07-21T15:59:43-04:00</updated-at>
+              <node-type>Language</node-type>
+              <geography>Country: United States; Lat.: 34.67; Long.: -114.58</geography>
+              <tree-val>Hokan: Dryer 2005</tree-val>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+            </child>
+          </children>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <updater-id type="integer">10740</updater-id>
+          <created-at type="datetime">2009-07-21T15:59:43-04:00</created-at>
+          <tree-id type="integer">14237</tree-id>
+          <other-codes></other-codes>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-07-21T15:59:43-04:00</updated-at>
+          <node-type>Subgroup</node-type>
+          <geography nil="true"></geography>
+          <tree-val>Hokan: Dryer 2005</tree-val>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+        </child>
+        <child>
+          <status nil="true"></status>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">540357</id>
+          <codes>vqdj</codes>
+          <pri-name>Seri</pri-name>
+          <node-type-id type="integer">10000</node-type-id>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <is-default type="integer">0</is-default>
+          <created-by>joe_leif</created-by>
+          <creator-id type="integer">10740</creator-id>
+          <children type="array">
+            <child>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">540358</id>
+              <codes>sei</codes>
+              <pri-name>Seri</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <created-at type="datetime">2009-07-21T15:59:43-04:00</created-at>
+              <tree-id type="integer">14237</tree-id>
+              <other-codes>ser</other-codes>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-07-21T15:59:43-04:00</updated-at>
+              <node-type>Language</node-type>
+              <geography>Country: Mexico; Lat.: 29; Long.: -112</geography>
+              <tree-val>Hokan: Dryer 2005</tree-val>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+            </child>
+          </children>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <updater-id type="integer">10740</updater-id>
+          <created-at type="datetime">2009-07-21T15:59:42-04:00</created-at>
+          <tree-id type="integer">14237</tree-id>
+          <other-codes></other-codes>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-07-21T15:59:43-04:00</updated-at>
+          <node-type>Subgroup</node-type>
+          <geography nil="true"></geography>
+          <tree-val>Hokan: Dryer 2005</tree-val>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+        </child>
+        <child>
+          <status nil="true"></status>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">540346</id>
+          <codes>uapz</codes>
+          <pri-name>Chimariko</pri-name>
+          <node-type-id type="integer">10000</node-type-id>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <is-default type="integer">0</is-default>
+          <created-by>joe_leif</created-by>
+          <creator-id type="integer">10740</creator-id>
+          <children type="array">
+            <child>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">540347</id>
+              <codes>cid</codes>
+              <pri-name>Chimariko</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <created-at type="datetime">2009-07-21T15:59:41-04:00</created-at>
+              <tree-id type="integer">14237</tree-id>
+              <other-codes>chi</other-codes>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-07-21T15:59:41-04:00</updated-at>
+              <node-type>Language</node-type>
+              <geography>Country: United States; Lat.: 41; Long.: -123</geography>
+              <tree-val>Hokan: Dryer 2005</tree-val>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+            </child>
+          </children>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <updater-id type="integer">10740</updater-id>
+          <created-at type="datetime">2009-07-21T15:59:41-04:00</created-at>
+          <tree-id type="integer">14237</tree-id>
+          <other-codes></other-codes>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-07-21T15:59:41-04:00</updated-at>
+          <node-type>Subgroup</node-type>
+          <geography nil="true"></geography>
+          <tree-val>Hokan: Dryer 2005</tree-val>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+        </child>
+        <child>
+          <status nil="true"></status>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">540348</id>
+          <codes>krkp</codes>
+          <pri-name>Palaihnihan</pri-name>
+          <node-type-id type="integer">10000</node-type-id>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <is-default type="integer">0</is-default>
+          <created-by>joe_leif</created-by>
+          <creator-id type="integer">10740</creator-id>
+          <children type="array">
+            <child>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">540350</id>
+              <codes>atw</codes>
+              <pri-name>Atsugewi</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <created-at type="datetime">2009-07-21T15:59:42-04:00</created-at>
+              <tree-id type="integer">14237</tree-id>
+              <other-codes>ats</other-codes>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-07-21T15:59:42-04:00</updated-at>
+              <node-type>Language</node-type>
+              <geography>Country: United States; Lat.: 40.75; Long.: -121</geography>
+              <tree-val>Hokan: Dryer 2005</tree-val>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">540349</id>
+              <codes>acv</codes>
+              <pri-name>Achumawi</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <created-at type="datetime">2009-07-21T15:59:42-04:00</created-at>
+              <tree-id type="integer">14237</tree-id>
+              <other-codes>acm</other-codes>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-07-21T15:59:42-04:00</updated-at>
+              <node-type>Language</node-type>
+              <geography>Country: United States; Lat.: 41.5; Long.: -121</geography>
+              <tree-val>Hokan: Dryer 2005</tree-val>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+            </child>
+          </children>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <updater-id type="integer">10740</updater-id>
+          <created-at type="datetime">2009-07-21T15:59:41-04:00</created-at>
+          <tree-id type="integer">14237</tree-id>
+          <other-codes></other-codes>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-07-21T15:59:42-04:00</updated-at>
+          <node-type>Subgroup</node-type>
+          <geography nil="true"></geography>
+          <tree-val>Hokan: Dryer 2005</tree-val>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+        </child>
+        <child>
+          <status nil="true"></status>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">540359</id>
+          <codes>shas</codes>
+          <pri-name>Shasta</pri-name>
+          <node-type-id type="integer">10000</node-type-id>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <is-default type="integer">0</is-default>
+          <created-by>joe_leif</created-by>
+          <creator-id type="integer">10740</creator-id>
+          <children type="array">
+            <child>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">540360</id>
+              <codes>sht</codes>
+              <pri-name>Shasta</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <created-at type="datetime">2009-07-21T15:59:43-04:00</created-at>
+              <tree-id type="integer">14237</tree-id>
+              <other-codes>shs</other-codes>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-07-21T15:59:43-04:00</updated-at>
+              <node-type>Language</node-type>
+              <geography>Country: United States; Lat.: 41.83; Long.: -122.67</geography>
+              <tree-val>Hokan: Dryer 2005</tree-val>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+            </child>
+          </children>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <updater-id type="integer">10740</updater-id>
+          <created-at type="datetime">2009-07-21T15:59:43-04:00</created-at>
+          <tree-id type="integer">14237</tree-id>
+          <other-codes></other-codes>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-07-21T15:59:43-04:00</updated-at>
+          <node-type>Subgroup</node-type>
+          <geography nil="true"></geography>
+          <tree-val>Hokan: Dryer 2005</tree-val>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+        </child>
+      </children>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 630-631. New York: Oxford University Press. ISBN 0199255911</publications>
+      <updated-by>joe_leif</updated-by>
+      <sureness nil="true"></sureness>
+      <end-date nil="true"></end-date>
+      <updater-id type="integer">10740</updater-id>
+      <created-at type="datetime">2009-07-21T15:59:41-04:00</created-at>
+      <tree-id type="integer">14237</tree-id>
+      <other-codes></other-codes>
+      <alt-names></alt-names>
+      <updated-at type="datetime">2009-07-21T15:59:41-04:00</updated-at>
+      <node-type>Subgroup</node-type>
+      <geography nil="true"></geography>
+      <tree-val>Hokan: Dryer 2005</tree-val>
+      <deleted-at nil="true"></deleted-at>
+      <confidence nil="true"></confidence>
+    </root>
+    <description>Hokan: Dryer 2005</description>
+  </tree>
+</hash>

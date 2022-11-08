@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>
+    <root>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <codes>gily</codes>
+      <updater-id type="integer">10740</updater-id>
+      <updated-by>joe_leif</updated-by>
+      <created-by>joe_leif</created-by>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 600. New York: Oxford University Press. ISBN 0199255911</publications>
+      <node-type>Subgroup</node-type>
+      <children type="array">
+        <child>
+          <pub-comments>in Ethnologue: dialect of Gilyak</pub-comments>
+          <codes>niv-sou</codes>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <created-by>joe_leif</created-by>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 600. New York: Oxford University Press. ISBN 0199255911</publications>
+          <node-type>Language</node-type>
+          <children type="array"/>
+          <sureness type="integer">0</sureness>
+          <status nil="true"></status>
+          <geography>Country: Russia; Lat.: 47; Long.: 142.5</geography>
+          <tree-val>Nivkh: Dryer 2005</tree-val>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2009-05-27T09:49:32-04:00</updated-at>
+          <is-default type="integer">0</is-default>
+          <created-at type="datetime">2009-05-27T09:49:31-04:00</created-at>
+          <other-codes>nvs</other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">421667</id>
+          <tree-id type="integer">12618</tree-id>
+          <start-date nil="true"></start-date>
+          <creator-id type="integer">10740</creator-id>
+          <node-type-id type="integer">10001</node-type-id>
+          <confidence>y</confidence>
+          <alt-names></alt-names>
+          <pri-name>Nivkh (South Sakhalin)</pri-name>
+          <end-date nil="true"></end-date>
+        </child>
+        <child>
+          <pub-comments></pub-comments>
+          <codes>niv</codes>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <created-by>joe_leif</created-by>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 600. New York: Oxford University Press. ISBN 0199255911</publications>
+          <node-type>Language</node-type>
+          <children type="array"/>
+          <sureness type="integer">0</sureness>
+          <status nil="true"></status>
+          <geography>Country: Russia; Lat.: 53.33; Long.: 142</geography>
+          <tree-val>Nivkh: Dryer 2005</tree-val>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2009-05-27T09:49:31-04:00</updated-at>
+          <is-default type="integer">0</is-default>
+          <created-at type="datetime">2009-05-27T09:49:31-04:00</created-at>
+          <other-codes>niv</other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">421666</id>
+          <tree-id type="integer">12618</tree-id>
+          <start-date nil="true"></start-date>
+          <creator-id type="integer">10740</creator-id>
+          <node-type-id type="integer">10001</node-type-id>
+          <confidence>y</confidence>
+          <alt-names>Gilyak</alt-names>
+          <pri-name>Nivkh</pri-name>
+          <end-date nil="true"></end-date>
+        </child>
+      </children>
+      <sureness type="integer">0</sureness>
+      <status nil="true"></status>
+      <geography nil="true"></geography>
+      <tree-val>Nivkh: Dryer 2005</tree-val>
+      <deleted-at nil="true"></deleted-at>
+      <updated-at type="datetime">2009-05-27T09:49:31-04:00</updated-at>
+      <is-default type="integer">0</is-default>
+      <created-at type="datetime">2009-05-27T09:49:31-04:00</created-at>
+      <other-codes></other-codes>
+      <node-status-id nil="true"></node-status-id>
+      <id type="integer">421665</id>
+      <tree-id type="integer">12618</tree-id>
+      <start-date nil="true"></start-date>
+      <creator-id type="integer">10740</creator-id>
+      <node-type-id type="integer">10000</node-type-id>
+      <confidence>y</confidence>
+      <alt-names></alt-names>
+      <pri-name>Nivkh</pri-name>
+      <end-date nil="true"></end-date>
+    </root>
+    <description>Nivkh: Dryer 2005</description>
+  </tree>
+</hash>

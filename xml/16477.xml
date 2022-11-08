@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <description>Macro-Tekiraka: Kaufman 2007</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2010-01-14T19:23:42-05:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Macro-Tekiraka: Kaufman 2007</tree-val>
+      <pub-comments>The author calls this a stock.</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2010-01-14T19:23:42-05:00</updated-at>
+      <pri-name>Macro-Tekiraka</pri-name>
+      <node-type>Stock</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">676814</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10005</node-type-id>
+      <alt-names>Tekiraka-Kenichana</alt-names>
+      <tree-id type="integer">16477</tree-id>
+      <codes>mtek</codes>
+      <status nil="true"></status>
+      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-01-14T19:23:42-05:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Macro-Tekiraka: Kaufman 2007</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-01-14T19:23:42-05:00</updated-at>
+          <pri-name>Tekiraka</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">676815</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Loreto, Peru</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Tequiraca, Avishiri</alt-names>
+          <tree-id type="integer">16477</tree-id>
+          <codes>caz</codes>
+          <status nil="true"></status>
+          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-01-14T19:23:42-05:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Macro-Tekiraka: Kaufman 2007</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <updated-at type="datetime">2010-01-14T19:23:42-05:00</updated-at>
+          <pri-name>Kanichana</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">676816</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Beni, Bolivia</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Canichana</alt-names>
+          <tree-id type="integer">16477</tree-id>
+          <codes>caz</codes>
+          <status>Extinct</status>
+          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 68. London, New York: Routledge. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

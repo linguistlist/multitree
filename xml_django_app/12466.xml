@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 641. New York: Oxford University Press. ISBN 0199255911</publications>
+      <node-status-id nil="true"></node-status-id>
+      <end-date nil="true"></end-date>
+      <codes>katk</codes>
+      <updater-id type="integer">10740</updater-id>
+      <tree-id type="integer">12466</tree-id>
+      <status nil="true"></status>
+      <other-codes></other-codes>
+      <geography nil="true"></geography>
+      <created-by>joe_leif</created-by>
+      <children type="array">
+        <child>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 641. New York: Oxford University Press. ISBN 0199255911</publications>
+          <node-status-id nil="true"></node-status-id>
+          <end-date nil="true"></end-date>
+          <codes>knm</codes>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">12466</tree-id>
+          <status nil="true"></status>
+          <other-codes>cnm</other-codes>
+          <geography>Country: Brazil; Lat.: -6.5; Long.: -68.5</geography>
+          <created-by>joe_leif</created-by>
+          <children type="array"/>
+          <updated-at type="datetime">2009-05-19T18:28:15-04:00</updated-at>
+          <tree-val>Katukinan: Dryer 2005</tree-val>
+          <node-type-id type="integer">10001</node-type-id>
+          <id type="integer">418155</id>
+          <confidence>y</confidence>
+          <is-default type="integer">0</is-default>
+          <alt-names>Kanamar&#237;</alt-names>
+          <sureness type="integer">0</sureness>
+          <created-at type="datetime">2009-05-19T18:28:15-04:00</created-at>
+          <pri-name>Canamari</pri-name>
+          <deleted-at nil="true"></deleted-at>
+          <start-date nil="true"></start-date>
+          <node-type>Language</node-type>
+          <updated-by>joe_leif</updated-by>
+          <pub-comments></pub-comments>
+          <creator-id type="integer">10740</creator-id>
+        </child>
+      </children>
+      <updated-at type="datetime">2009-05-19T18:28:15-04:00</updated-at>
+      <tree-val>Katukinan: Dryer 2005</tree-val>
+      <node-type-id type="integer">10000</node-type-id>
+      <id type="integer">418154</id>
+      <confidence>y</confidence>
+      <is-default type="integer">0</is-default>
+      <alt-names></alt-names>
+      <sureness type="integer">0</sureness>
+      <created-at type="datetime">2009-05-19T18:28:15-04:00</created-at>
+      <pri-name>Katukinan</pri-name>
+      <deleted-at nil="true"></deleted-at>
+      <start-date nil="true"></start-date>
+      <node-type>Subgroup</node-type>
+      <updated-by>joe_leif</updated-by>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <creator-id type="integer">10740</creator-id>
+    </root>
+    <description>Katukinan: Dryer 2005</description>
+  </tree>
+</hash>

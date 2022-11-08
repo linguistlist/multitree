@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <description>North American Unclassified Languages: Campbell 1997</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2009-07-20T18:29:02-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+      <pub-comments></pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2009-07-20T18:29:02-04:00</updated-at>
+      <pri-name>North American Unclassified Languages</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">533607</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">14179</tree-id>
+      <codes>naun</codes>
+      <status nil="true"></status>
+      <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-20T18:29:03-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+          <pub-comments>Timucua at present has no demonstrated affiliations.</pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <updated-at type="datetime">2009-07-20T18:29:03-04:00</updated-at>
+          <pri-name>Timucua</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">533627</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14179</tree-id>
+          <codes>tjm</codes>
+          <status>Extinct</status>
+          <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-20T18:29:04-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2009-07-20T18:29:04-04:00</updated-at>
+              <pri-name>Tawasa</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">533638</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14179</tree-id>
+              <codes>tjm-taw</codes>
+              <status>Extinct</status>
+              <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-20T18:29:03-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2009-07-20T18:29:03-04:00</updated-at>
+              <pri-name>Yufera</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">533631</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14179</tree-id>
+              <codes>tjm-yuf</codes>
+              <status>Extinct</status>
+              <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-20T18:29:03-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2009-07-20T18:29:03-04:00</updated-at>
+              <pri-name>Potano</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">533629</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14179</tree-id>
+              <codes>tjm-pot</codes>
+              <status>Extinct</status>
+              <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-20T18:29:03-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2009-07-20T18:29:04-04:00</updated-at>
+              <pri-name>Acuera</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">533636</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14179</tree-id>
+              <codes>tjm-acu</codes>
+              <status>Extinct</status>
+              <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-20T18:29:03-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2009-07-20T18:29:03-04:00</updated-at>
+              <pri-name>Mocama</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">533632</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14179</tree-id>
+              <codes>tjm-moc</codes>
+              <status>Extinct</status>
+              <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-20T18:29:03-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2009-07-20T18:29:03-04:00</updated-at>
+              <pri-name>Itafi</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">533630</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14179</tree-id>
+              <codes>tjm-ita</codes>
+              <status>Extinct</status>
+              <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-20T18:29:03-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2009-07-20T18:29:03-04:00</updated-at>
+              <pri-name>Tucururu</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">533633</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14179</tree-id>
+              <codes>tjm-tuc</codes>
+              <status>Extinct</status>
+              <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-20T18:29:03-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2009-07-20T18:29:03-04:00</updated-at>
+              <pri-name>Timucua proper</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">533628</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14179</tree-id>
+              <codes>tjm-pro</codes>
+              <status>Extinct</status>
+              <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-20T18:29:04-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2009-07-20T18:29:04-04:00</updated-at>
+              <pri-name>Oconi</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">533637</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14179</tree-id>
+              <codes>tjm-oco</codes>
+              <status>Extinct</status>
+              <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-20T18:29:03-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2009-07-20T18:29:03-04:00</updated-at>
+              <pri-name>Agua Fresca</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">533634</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14179</tree-id>
+              <codes>tjm-afr</codes>
+              <status>Extinct</status>
+              <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-20T18:29:03-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2009-07-20T18:29:03-04:00</updated-at>
+              <pri-name>Agua Salada</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">533635</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14179</tree-id>
+              <codes>tjm-asa</codes>
+              <status>Extinct</status>
+              <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-20T18:29:03-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <updated-at type="datetime">2009-07-20T18:29:03-04:00</updated-at>
+          <pri-name>Cotoname</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">533623</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Northeast Mexico</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Carrizo de Camargo</alt-names>
+          <tree-id type="integer">14179</tree-id>
+          <codes>xcn</codes>
+          <status>Extinct</status>
+          <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-20T18:29:03-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2009-07-20T18:29:03-04:00</updated-at>
+          <pri-name>Coahuilteco</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">533622</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Texas, northeast Mexico</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Pajalate</alt-names>
+          <tree-id type="integer">14179</tree-id>
+          <codes>xcw</codes>
+          <status nil="true"></status>
+          <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-20T18:29:03-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+          <pub-comments>Cayuse is extinct and extremely poorly attested.  It was replaced by Nez Perce.</pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <updated-at type="datetime">2009-07-20T18:29:03-04:00</updated-at>
+          <pri-name>Cayuse</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">533617</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Oregon, Washington</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14179</tree-id>
+          <codes>xcy</codes>
+          <status>Extinct</status>
+          <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-20T18:29:02-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+          <pub-comments>Distant genetic proposals would have Klamath as part of Plateau Penutian... the evidence for a genetic relationship between Klamath, Sahaptian, and Molala is more credible.</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2009-07-20T18:29:02-04:00</updated-at>
+          <pri-name>Klamath-Modoc</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">-1</sureness>
+          <id type="integer">533613</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Oregon, California</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14179</tree-id>
+          <codes>kla</codes>
+          <status nil="true"></status>
+          <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-20T18:29:02-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-20T18:29:02-04:00</updated-at>
+              <pri-name>Klamath</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">-1</sureness>
+              <id type="integer">533614</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14179</tree-id>
+              <codes>kla-kla</codes>
+              <status nil="true"></status>
+              <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-20T18:29:02-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2009-07-20T18:29:02-04:00</updated-at>
+              <pri-name>Modoc</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">-1</sureness>
+              <id type="integer">533615</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14179</tree-id>
+              <codes>kla-mod</codes>
+              <status nil="true"></status>
+              <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-20T18:29:03-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+          <pub-comments>Solano is also genetically unclassified.</pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <updated-at type="datetime">2009-07-20T18:29:03-04:00</updated-at>
+          <pri-name>Solano</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">533625</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Northeast Mexico</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14179</tree-id>
+          <codes>xso</codes>
+          <status>Extinct</status>
+          <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-20T18:29:04-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+          <pub-comments>It has long been conjectured that Beothuk may be related to the Algonquian family, but the material available on the language is so scant and poorly recorded that evaluation of the proposed connection is difficult.</pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <updated-at type="datetime">2009-07-20T18:29:04-04:00</updated-at>
+          <pri-name>Beothuk</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">533639</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Newfoundland</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14179</tree-id>
+          <codes>bue</codes>
+          <status>Extinct</status>
+          <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-20T18:29:03-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+          <pub-comments>Esselen has usually been placed with Hokan, but the data are so fragmentary as to defy classification.</pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <updated-at type="datetime">2009-07-20T18:29:03-04:00</updated-at>
+          <pri-name>Esselen</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">533618</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>California</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14179</tree-id>
+          <codes>esq</codes>
+          <status>Extinct</status>
+          <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-20T18:29:02-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+          <pub-comments>The often assumed classification of Siuslaw as Penutian is not at present substantiated.</pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <updated-at type="datetime">2009-07-20T18:29:02-04:00</updated-at>
+          <pri-name>Siuslaw</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">533610</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Oregon</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14179</tree-id>
+          <codes>sis</codes>
+          <status>Extinct</status>
+          <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-20T18:29:02-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2009-07-20T18:29:02-04:00</updated-at>
+              <pri-name>Lower Umpqua</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">533612</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14179</tree-id>
+              <codes>sis-low</codes>
+              <status>Extinct</status>
+              <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2009-07-20T18:29:02-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2009-07-20T18:29:02-04:00</updated-at>
+              <pri-name>Siuslaw</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">533611</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">14179</tree-id>
+              <codes>sis-siu</codes>
+              <status>Extinct</status>
+              <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-20T18:29:02-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+          <pub-comments>Berman has shown that it is highly likely that Molala is related to Klamath and Sahaptian.</pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <updated-at type="datetime">2009-07-20T18:29:03-04:00</updated-at>
+          <pri-name>Molala</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">533616</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Oregon</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Molale</alt-names>
+          <tree-id type="integer">14179</tree-id>
+          <codes>mbe</codes>
+          <status>Extinct</status>
+          <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-20T18:29:03-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <updated-at type="datetime">2009-07-20T18:29:03-04:00</updated-at>
+          <pri-name>Chitimacha</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">533626</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Louisiana</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14179</tree-id>
+          <codes>ctm</codes>
+          <status>Extinct</status>
+          <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-20T18:29:02-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+          <pub-comments>May be a hybrid/creolization of Eyak-Athabaskan and some unrelated language.</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2009-07-20T18:29:02-04:00</updated-at>
+          <pri-name>Tlingit</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">-1</sureness>
+          <id type="integer">533608</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Canada, Alaska</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14179</tree-id>
+          <codes>tli</codes>
+          <status nil="true"></status>
+          <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-20T18:29:03-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <updated-at type="datetime">2009-07-20T18:29:03-04:00</updated-at>
+          <pri-name>Adai</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">533620</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>near Robeline, Louisiana, Texas</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Adaize</alt-names>
+          <tree-id type="integer">14179</tree-id>
+          <codes>xad</codes>
+          <status>Extinct</status>
+          <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-20T18:29:02-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+          <pub-comments>Opinion differs whether these two main dialects constitute distinct languages or are only divergent dialects of a single language.  For now it is best to consider the genetic affiliation of Haida unknown.</pub-comments>
+          <node-status-id type="integer">10001</node-status-id>
+          <updated-at type="datetime">2009-07-20T18:29:02-04:00</updated-at>
+          <pri-name>Haida</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">-1</sureness>
+          <id type="integer">533609</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>British Columbia, Alaska</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14179</tree-id>
+          <codes>hdn, hax</codes>
+          <status>Nearly Extinct</status>
+          <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-20T18:29:03-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+          <pub-comments>Proposals of distant genetic relationships have frequently placed Karankawa with the so-called Coahuiltecan languages; this hypothesis does not hold up.</pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <updated-at type="datetime">2009-07-20T18:29:03-04:00</updated-at>
+          <pri-name>Karankawa</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">533621</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Texas</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Clamcoches</alt-names>
+          <tree-id type="integer">14179</tree-id>
+          <codes>zkk</codes>
+          <status>Extinct</status>
+          <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-20T18:29:03-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+          <pub-comments>Aranama is known only from a two-word phrase given to Gatschet in 1884 by a Tonkawa speaker.</pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <updated-at type="datetime">2009-07-20T18:29:03-04:00</updated-at>
+          <pri-name>Araname-Tamique</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">533624</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Texas</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Jaranames, Hanama, Haname, Chaimame, Charinames, Xaranames, Taranames</alt-names>
+          <tree-id type="integer">14179</tree-id>
+          <codes>xrt</codes>
+          <status>Extinct</status>
+          <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-20T18:29:03-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>North American Unclassified Languages: Campbell 1997</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <updated-at type="datetime">2009-07-20T18:29:03-04:00</updated-at>
+          <pri-name>Salinan</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">533619</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>California</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14179</tree-id>
+          <codes>sln</codes>
+          <status>Extinct</status>
+          <publications>Campbell, Lyle. 1997. Chapter 4: Languages of North America. In Lyle  Campbell, American Indian Languages: The Historical Linguistics of Native America, 107-155. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

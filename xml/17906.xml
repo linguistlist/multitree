@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <description>North American Deaf Sign Language: Ethnologue 2005</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2010-06-21T16:12:01-04:00</created-at>
+      <confidence>Y</confidence>
+      <tree-val>North American Deaf Sign Language: Ethnologue 2005</tree-val>
+      <pub-comments>This is a subtree of the deaf sign language tree provided in Ethnologue. It has been broken into regions for ease of searching.</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2010-06-21T16:12:01-04:00</updated-at>
+      <pri-name>North American Deaf Sign Language</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">715023</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography>North America</geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">17906</tree-id>
+      <codes>nsgn</codes>
+      <status nil="true"></status>
+      <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-06-21T16:12:01-04:00</created-at>
+          <confidence>Y</confidence>
+          <tree-val>North American Deaf Sign Language: Ethnologue 2005</tree-val>
+          <pub-comments>The early sign language was based on a regional one in Weald, England, where the deaf persons' ancestors had lived. French Sign Language was introduced to Martha's Vineyard in 1817. MVSL was later combined with American Sign Language (ASL), but never became identical to ASL.</pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <updated-at type="datetime">2010-06-21T16:12:01-04:00</updated-at>
+          <pri-name>Martha's Vineyard Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">715025</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>USA, Formerly in Martha's Vineyard, Massachusetts.</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">17906</tree-id>
+          <codes>mre</codes>
+          <status>Extinct</status>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-06-21T16:12:01-04:00</created-at>
+          <confidence>Y</confidence>
+          <tree-val>North American Deaf Sign Language: Ethnologue 2005</tree-val>
+          <pub-comments>Related to French Sign Language (LSF). In northern Quebec, deaf people use ASL, with English the second language. Some use Signed French. Segregated deaf education by sex resulted in some lexical differences between the sexes; female use more influenced by ASL and LSQ; male by Signed French and LSQ.</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-06-21T16:12:01-04:00</updated-at>
+          <pri-name>Quebec Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">715024</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Canada, Quebec, except northern Quebec, Ottawa, Northern Ontario, Bathurst New Brunswick, and a few in Vancouver and Edmonton.</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Langue Signe Quebecars, Langue des Signes Qu&#233;b&#233;coise, LSQ, Langue des Signes du Qu&#233;bec</alt-names>
+          <tree-id type="integer">17906</tree-id>
+          <codes>fcs</codes>
+          <status nil="true"></status>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-06-21T16:12:01-04:00</created-at>
+          <confidence>Y</confidence>
+          <tree-val>North American Deaf Sign Language: Ethnologue 2005</tree-val>
+          <pub-comments>Based on British Sign Language. Distinct from American and Quebec sign languages.</pub-comments>
+          <node-status-id type="integer">10001</node-status-id>
+          <updated-at type="datetime">2010-06-21T16:12:01-04:00</updated-at>
+          <pri-name>Maritime Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">715026</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Canada, Nova Scotia, New Brunswick, and Prince Edward Island.</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Nova Scotian Sign Language</alt-names>
+          <tree-id type="integer">17906</tree-id>
+          <codes>nsr</codes>
+          <status>Nearly Extinct</status>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-06-21T16:12:01-04:00</created-at>
+          <confidence>Y</confidence>
+          <tree-val>North American Deaf Sign Language: Ethnologue 2005</tree-val>
+          <pub-comments>In Canada there are dialect differences with USA ASL and regional differences from east to west. Structurally and grammatically distinct from Quebec Sign Language (LSQ). Has grammatical characteristics independent of English. A few adults know both ASL and LSQ. Most signers from eastern Canada use ASL with some British Sign Language vocabulary, a remnant from Maritime Sign Language, which came from British Sign Language. Black American Sign Language developed in segregated schools in the south. It contains much sign vocabulary not in ASL and some different grammatical structure. Tactile Sign Language is used by over 900 persons in Louisiana who know ASL, but have lost their sight from a generic cause: Usher's Syndrome. They communicate by touch on each other's wrists. ASL has 43% lexical similarity with French Sign Language in an 872-word list. ASL is different from 'English on the Hands' (Signed English, Siglish). There are several systems of manually coded English, including different ones in different countries. Also several systems called Pidgin Signed English. Pidgin Signed English is taught in schools in the USA rather than ASL. SOV; prepositions, genitives, articles, adjectives, numerals, relatives before noun heads; question word initial.</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-06-21T16:12:01-04:00</updated-at>
+          <pri-name>American Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">715027</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>USA. Also used in varying degrees in Canada, Philippines, Ghana, Nigeria, Chad, Burkina Faso, Gabon, Democratic Republic of the Congo, Central African Republic, C&#244;te d'Ivoire, Mauritania, Kenya, Madagascar, Benin, Togo, Zimbabwe, Singapore, China (Hong Kong). Also used in Canada, Guatemala.</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>ASL, Ameslan</alt-names>
+          <tree-id type="integer">17906</tree-id>
+          <codes>ase</codes>
+          <status nil="true"></status>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-06-21T16:12:01-04:00</created-at>
+              <confidence>Y</confidence>
+              <tree-val>North American Deaf Sign Language: Ethnologue 2005</tree-val>
+              <pub-comments>Black American Sign Language developed in segregated schools in the south. It contains much sign vocabulary not in ASL and some different grammatical structure.</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2010-06-21T16:12:01-04:00</updated-at>
+              <pri-name>Black American Sign Language</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">715029</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>USA</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">17906</tree-id>
+              <codes>ase-bla</codes>
+              <status nil="true"></status>
+              <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-06-21T16:12:01-04:00</created-at>
+              <confidence>Y</confidence>
+              <tree-val>North American Deaf Sign Language: Ethnologue 2005</tree-val>
+              <pub-comments>Tactile Sign Language is used by over 900 persons in Louisiana who know ASL, but have lost their sight from a generic cause: Usher's Syndrome. They communicate by touch on each other's wrists.</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2010-06-21T16:12:01-04:00</updated-at>
+              <pri-name>Tactile Sign Language</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">715028</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>USA</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">17906</tree-id>
+              <codes>ase-tal</codes>
+              <status nil="true"></status>
+              <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

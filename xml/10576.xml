@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <description>Wakashan: Dryer 2005</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2008-08-20T15:31:09-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Wakashan: Dryer 2005</tree-val>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2008-08-20T15:31:09-04:00</updated-at>
+      <pri-name>Wakashan</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">134145</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">10576</tree-id>
+      <codes>waka</codes>
+      <status nil="true"></status>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 628. New York: Oxford University Press. ISBN 0199255911</publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2008-08-20T15:31:09-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Wakashan: Dryer 2005</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2008-08-20T15:31:09-04:00</updated-at>
+          <pri-name>Northern Wakashan</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">134146</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">10576</tree-id>
+          <codes>nwak</codes>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 628. New York: Oxford University Press. ISBN 0199255911</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes>hsl</other-codes>
+              <created-at type="datetime">2008-08-20T15:31:09-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Wakashan: Dryer 2005</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2008-08-20T15:31:09-04:00</updated-at>
+              <pri-name>Haisla</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">134147</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Country: Canada; Lat.: 54; Long.: -128.75</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">10576</tree-id>
+              <codes>has</codes>
+              <status nil="true"></status>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 628. New York: Oxford University Press. ISBN 0199255911</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes>hei</other-codes>
+              <created-at type="datetime">2008-08-20T15:31:09-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Wakashan: Dryer 2005</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2008-08-20T15:31:09-04:00</updated-at>
+              <pri-name>Heiltsuk</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">134148</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Country: Canada; Lat.: 52; Long.: -127.5</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">10576</tree-id>
+              <codes>hei</codes>
+              <status nil="true"></status>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 628. New York: Oxford University Press. ISBN 0199255911</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes>kwk</other-codes>
+              <created-at type="datetime">2008-08-20T15:31:09-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Wakashan: Dryer 2005</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2008-08-20T15:31:09-04:00</updated-at>
+              <pri-name>Kwakw'ala</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">134149</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Country: Canada; Lat.: 51; Long.: -127</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Kwakiutl</alt-names>
+              <tree-id type="integer">10576</tree-id>
+              <codes>kwk</codes>
+              <status nil="true"></status>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 628. New York: Oxford University Press. ISBN 0199255911</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2008-08-20T15:31:09-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Wakashan: Dryer 2005</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2008-08-20T15:31:09-04:00</updated-at>
+          <pri-name>Southern Wakashan</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">134150</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">10576</tree-id>
+          <codes>swak</codes>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 628. New York: Oxford University Press. ISBN 0199255911</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes>kyq</other-codes>
+              <created-at type="datetime">2008-08-20T15:31:09-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Wakashan: Dryer 2005</tree-val>
+              <pub-comments>it is dialect of Nootka in Ethnologue</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2008-08-20T15:31:09-04:00</updated-at>
+              <pri-name>Kyuquot</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">134151</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Country: Canada; Lat.: 50.17; Long.: -127.17</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">10576</tree-id>
+              <codes>noo-kyu</codes>
+              <status nil="true"></status>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 628. New York: Oxford University Press. ISBN 0199255911</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes>mak</other-codes>
+              <created-at type="datetime">2008-08-20T15:31:09-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Wakashan: Dryer 2005</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2008-08-20T15:31:09-04:00</updated-at>
+              <pri-name>Makah</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">134152</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Country: United States; Lat.: 48.33; Long.: -124.67</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">10576</tree-id>
+              <codes>myh</codes>
+              <status nil="true"></status>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 628. New York: Oxford University Press. ISBN 0199255911</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes>nit</other-codes>
+              <created-at type="datetime">2008-08-20T15:31:09-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Wakashan: Dryer 2005</tree-val>
+              <pub-comments>it is dialect of Nootka in Ethnologue</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-01-29T16:01:39-05:00</updated-at>
+              <pri-name>Nitinaht</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">134153</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Country: Canada; Lat.: 48.67; Long.: -124.75</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">10576</tree-id>
+              <codes>dtd</codes>
+              <status nil="true"></status>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 628. New York: Oxford University Press. ISBN 0199255911</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes>nuu</other-codes>
+              <created-at type="datetime">2008-08-20T15:31:09-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Wakashan: Dryer 2005</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-01-29T16:01:46-05:00</updated-at>
+              <pri-name>Nuuchahnulth</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">134154</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Country: Canada; Lat.: 49.67; Long.: -126.67</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Nootka</alt-names>
+              <tree-id type="integer">10576</tree-id>
+              <codes>nuk</codes>
+              <status nil="true"></status>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 628. New York: Oxford University Press. ISBN 0199255911</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

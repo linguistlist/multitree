@@ -1,0 +1,1482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Africa</region>
+    <root>
+      <status nil="true"></status>
+      <pub-comments>"We use epigraphic data (text inscribed in stone or tablets) from extinct Semitic languages (Akkadian, Aramaic, Ge'ez, ancient Hebrew and Ugaritic) combined with archaeological evidence for the sampling dates of the epigraphic data (the time at which the materials were inscribed). We employ a log&#8202;BF model-testing technique to statistically assess alternative Semitic histories and investigate different ways of modelling language evolution. Finally, we combine our divergence date estimates with epigraphic and archaeological evidence from all known Semitic languages to create an integrated model of Semitic history.  // It is important to note that each node in the phylogeny represents an ancestral language that is hypothesized to have existed at the time of divergence estimated for that node" (Kitchen, et. al.: 2009).</pub-comments>
+      <is-default type="integer">0</is-default>
+      <id type="integer">908777</id>
+      <created-by>joe_leif</created-by>
+      <tree-id type="integer">23367</tree-id>
+      <pri-name>Semitic</pri-name>
+      <updated-by>joe_leif</updated-by>
+      <deleted-at nil="true"></deleted-at>
+      <updater-id type="integer">10740</updater-id>
+      <node-status-id nil="true"></node-status-id>
+      <created-at type="datetime">2013-06-25T16:40:16-04:00</created-at>
+      <alt-names></alt-names>
+      <node-type-id type="integer">10000</node-type-id>
+      <creator-id type="integer">10740</creator-id>
+      <confidence>y</confidence>
+      <updated-at type="datetime">2013-06-25T16:40:17-04:00</updated-at>
+      <start-date nil="true"></start-date>
+      <children type="array">
+        <child>
+          <status nil="true"></status>
+          <pub-comments>Node not named by author</pub-comments>
+          <is-default type="integer">0</is-default>
+          <id type="integer">908825</id>
+          <created-by>joe_leif</created-by>
+          <tree-id type="integer">23367</tree-id>
+          <pri-name>East Semitic</pri-name>
+          <updated-by>joe_leif</updated-by>
+          <deleted-at nil="true"></deleted-at>
+          <updater-id type="integer">10740</updater-id>
+          <node-status-id nil="true"></node-status-id>
+          <created-at type="datetime">2013-06-25T16:40:19-04:00</created-at>
+          <alt-names></alt-names>
+          <node-type-id type="integer">10000</node-type-id>
+          <creator-id type="integer">10740</creator-id>
+          <confidence>y</confidence>
+          <updated-at type="datetime">2013-06-25T16:40:19-04:00</updated-at>
+          <start-date nil="true"></start-date>
+          <children type="array">
+            <child>
+              <status>Extinct</status>
+              <pub-comments></pub-comments>
+              <is-default type="integer">0</is-default>
+              <id type="integer">908826</id>
+              <created-by>joe_leif</created-by>
+              <tree-id type="integer">23367</tree-id>
+              <pri-name>Akkadian</pri-name>
+              <updated-by>joe_leif</updated-by>
+              <deleted-at nil="true"></deleted-at>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id type="integer">10000</node-status-id>
+              <created-at type="datetime">2013-06-25T16:40:19-04:00</created-at>
+              <alt-names></alt-names>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2013-06-25T16:40:19-04:00</updated-at>
+              <start-date nil="true"></start-date>
+              <children type="array"/>
+              <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+              <codes>akk</codes>
+              <sureness type="integer">0</sureness>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+              <other-codes></other-codes>
+              <node-type>Language</node-type>
+            </child>
+          </children>
+          <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+          <codes>esem</codes>
+          <sureness type="integer">0</sureness>
+          <geography nil="true"></geography>
+          <end-date nil="true"></end-date>
+          <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+          <other-codes></other-codes>
+          <node-type>Subgroup</node-type>
+        </child>
+        <child>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <is-default type="integer">0</is-default>
+          <id type="integer">908778</id>
+          <created-by>joe_leif</created-by>
+          <tree-id type="integer">23367</tree-id>
+          <pri-name>West Semitic</pri-name>
+          <updated-by>joe_leif</updated-by>
+          <deleted-at nil="true"></deleted-at>
+          <updater-id type="integer">10740</updater-id>
+          <node-status-id nil="true"></node-status-id>
+          <created-at type="datetime">2013-06-25T16:40:17-04:00</created-at>
+          <alt-names></alt-names>
+          <node-type-id type="integer">10000</node-type-id>
+          <creator-id type="integer">10740</creator-id>
+          <confidence>y</confidence>
+          <updated-at type="datetime">2013-06-25T16:40:17-04:00</updated-at>
+          <start-date nil="true"></start-date>
+          <children type="array">
+            <child>
+              <status nil="true"></status>
+              <pub-comments></pub-comments>
+              <is-default type="integer">0</is-default>
+              <id type="integer">908816</id>
+              <created-by>joe_leif</created-by>
+              <tree-id type="integer">23367</tree-id>
+              <pri-name>Central Semitic</pri-name>
+              <updated-by>joe_leif</updated-by>
+              <deleted-at nil="true"></deleted-at>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-06-25T16:40:19-04:00</created-at>
+              <alt-names></alt-names>
+              <node-type-id type="integer">10000</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2013-06-25T16:40:19-04:00</updated-at>
+              <start-date nil="true"></start-date>
+              <children type="array">
+                <child>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">908820</id>
+                  <created-by>joe_leif</created-by>
+                  <tree-id type="integer">23367</tree-id>
+                  <pri-name>Ugaritic-Hebrew-Aramaic</pri-name>
+                  <updated-by>joe_leif</updated-by>
+                  <deleted-at nil="true"></deleted-at>
+                  <updater-id type="integer">10740</updater-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <created-at type="datetime">2013-06-25T16:40:19-04:00</created-at>
+                  <alt-names></alt-names>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2013-06-25T16:40:19-04:00</updated-at>
+                  <start-date nil="true"></start-date>
+                  <children type="array">
+                    <child>
+                      <status nil="true"></status>
+                      <pub-comments></pub-comments>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">908822</id>
+                      <created-by>joe_leif</created-by>
+                      <tree-id type="integer">23367</tree-id>
+                      <pri-name>Hebrew-Aramaic</pri-name>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <updater-id type="integer">10740</updater-id>
+                      <node-status-id nil="true"></node-status-id>
+                      <created-at type="datetime">2013-06-25T16:40:19-04:00</created-at>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <confidence>y</confidence>
+                      <updated-at type="datetime">2013-06-25T16:40:19-04:00</updated-at>
+                      <start-date nil="true"></start-date>
+                      <children type="array">
+                        <child>
+                          <status>Extinct</status>
+                          <pub-comments></pub-comments>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">908824</id>
+                          <created-by>joe_leif</created-by>
+                          <tree-id type="integer">23367</tree-id>
+                          <pri-name>Aramaic</pri-name>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <updater-id type="integer">10740</updater-id>
+                          <node-status-id type="integer">10000</node-status-id>
+                          <created-at type="datetime">2013-06-25T16:40:19-04:00</created-at>
+                          <alt-names></alt-names>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <creator-id type="integer">10740</creator-id>
+                          <confidence>y</confidence>
+                          <updated-at type="datetime">2013-06-25T16:40:19-04:00</updated-at>
+                          <start-date nil="true"></start-date>
+                          <children type="array"/>
+                          <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                          <codes>oar</codes>
+                          <sureness type="integer">0</sureness>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                          <other-codes></other-codes>
+                          <node-type>Language</node-type>
+                        </child>
+                        <child>
+                          <status>Extinct</status>
+                          <pub-comments></pub-comments>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">908823</id>
+                          <created-by>joe_leif</created-by>
+                          <tree-id type="integer">23367</tree-id>
+                          <pri-name>Hebrew</pri-name>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <updater-id type="integer">10740</updater-id>
+                          <node-status-id type="integer">10000</node-status-id>
+                          <created-at type="datetime">2013-06-25T16:40:19-04:00</created-at>
+                          <alt-names></alt-names>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <creator-id type="integer">10740</creator-id>
+                          <confidence>y</confidence>
+                          <updated-at type="datetime">2013-06-25T16:40:19-04:00</updated-at>
+                          <start-date nil="true"></start-date>
+                          <children type="array"/>
+                          <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                          <codes>hbo</codes>
+                          <sureness type="integer">0</sureness>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                          <other-codes></other-codes>
+                          <node-type>Language</node-type>
+                        </child>
+                      </children>
+                      <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                      <codes>hear</codes>
+                      <sureness type="integer">0</sureness>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                      <other-codes></other-codes>
+                      <node-type>Subgroup</node-type>
+                    </child>
+                    <child>
+                      <status>Extinct</status>
+                      <pub-comments></pub-comments>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">908821</id>
+                      <created-by>joe_leif</created-by>
+                      <tree-id type="integer">23367</tree-id>
+                      <pri-name>Ugaritic</pri-name>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <updater-id type="integer">10740</updater-id>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <created-at type="datetime">2013-06-25T16:40:19-04:00</created-at>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <confidence>y</confidence>
+                      <updated-at type="datetime">2013-06-25T16:40:19-04:00</updated-at>
+                      <start-date nil="true"></start-date>
+                      <children type="array"/>
+                      <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                      <codes>uga</codes>
+                      <sureness type="integer">0</sureness>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                    </child>
+                  </children>
+                  <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                  <codes>nwsm</codes>
+                  <sureness type="integer">0</sureness>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                  <other-codes></other-codes>
+                  <node-type>Subgroup</node-type>
+                </child>
+                <child>
+                  <status nil="true"></status>
+                  <pub-comments>Node not named by author. "Log&#8202;BF tests were equivocal in the placement of Arabic, so we placed Arabic in Central Semitic based on previous comparative studies; e.g. Hetzron 1976" (Kitchen et. al.: 2009)</pub-comments>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">908817</id>
+                  <created-by>joe_leif</created-by>
+                  <tree-id type="integer">23367</tree-id>
+                  <pri-name>Ogaden-Moroccan</pri-name>
+                  <updated-by>joe_leif</updated-by>
+                  <deleted-at nil="true"></deleted-at>
+                  <updater-id type="integer">10740</updater-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <created-at type="datetime">2013-06-25T16:40:19-04:00</created-at>
+                  <alt-names></alt-names>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2013-06-25T16:40:19-04:00</updated-at>
+                  <start-date nil="true"></start-date>
+                  <children type="array">
+                    <child>
+                      <status nil="true"></status>
+                      <pub-comments></pub-comments>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">908818</id>
+                      <created-by>joe_leif</created-by>
+                      <tree-id type="integer">23367</tree-id>
+                      <pri-name>Ogaden Arabic</pri-name>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <updater-id type="integer">10740</updater-id>
+                      <node-status-id nil="true"></node-status-id>
+                      <created-at type="datetime">2013-06-25T16:40:19-04:00</created-at>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <confidence>n</confidence>
+                      <updated-at type="datetime">2013-06-25T16:40:19-04:00</updated-at>
+                      <start-date nil="true"></start-date>
+                      <children type="array"/>
+                      <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                      <codes>1zy</codes>
+                      <sureness type="integer">0</sureness>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                    </child>
+                    <child>
+                      <status nil="true"></status>
+                      <pub-comments></pub-comments>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">908819</id>
+                      <created-by>joe_leif</created-by>
+                      <tree-id type="integer">23367</tree-id>
+                      <pri-name>Moroccan Arabic</pri-name>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <updater-id type="integer">10740</updater-id>
+                      <node-status-id nil="true"></node-status-id>
+                      <created-at type="datetime">2013-06-25T16:40:19-04:00</created-at>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <confidence>y</confidence>
+                      <updated-at type="datetime">2013-06-25T16:40:19-04:00</updated-at>
+                      <start-date nil="true"></start-date>
+                      <children type="array"/>
+                      <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                      <codes>ary</codes>
+                      <sureness type="integer">0</sureness>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                    </child>
+                  </children>
+                  <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                  <codes>ogmo</codes>
+                  <sureness type="integer">0</sureness>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                  <other-codes></other-codes>
+                  <node-type>Subgroup</node-type>
+                </child>
+              </children>
+              <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+              <codes>csem</codes>
+              <sureness type="integer">0</sureness>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <pub-comments></pub-comments>
+              <is-default type="integer">0</is-default>
+              <id type="integer">908779</id>
+              <created-by>joe_leif</created-by>
+              <tree-id type="integer">23367</tree-id>
+              <pri-name>South Semitic</pri-name>
+              <updated-by>joe_leif</updated-by>
+              <deleted-at nil="true"></deleted-at>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-06-25T16:40:17-04:00</created-at>
+              <alt-names></alt-names>
+              <node-type-id type="integer">10000</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2013-06-25T16:40:17-04:00</updated-at>
+              <start-date nil="true"></start-date>
+              <children type="array">
+                <child>
+                  <status nil="true"></status>
+                  <pub-comments>Node not named by author</pub-comments>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">908809</id>
+                  <created-by>joe_leif</created-by>
+                  <tree-id type="integer">23367</tree-id>
+                  <pri-name>Modern South Arabian</pri-name>
+                  <updated-by>joe_leif</updated-by>
+                  <deleted-at nil="true"></deleted-at>
+                  <updater-id type="integer">10740</updater-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <created-at type="datetime">2013-06-25T16:40:18-04:00</created-at>
+                  <alt-names></alt-names>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2013-06-25T16:40:18-04:00</updated-at>
+                  <start-date nil="true"></start-date>
+                  <children type="array">
+                    <child>
+                      <status nil="true"></status>
+                      <pub-comments>Node not named by author</pub-comments>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">908810</id>
+                      <created-by>joe_leif</created-by>
+                      <tree-id type="integer">23367</tree-id>
+                      <pri-name>Jibbali-Soqotri</pri-name>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <updater-id type="integer">10740</updater-id>
+                      <node-status-id nil="true"></node-status-id>
+                      <created-at type="datetime">2013-06-25T16:40:18-04:00</created-at>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <confidence>y</confidence>
+                      <updated-at type="datetime">2013-06-25T16:40:18-04:00</updated-at>
+                      <start-date nil="true"></start-date>
+                      <children type="array">
+                        <child>
+                          <status nil="true"></status>
+                          <pub-comments></pub-comments>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">908812</id>
+                          <created-by>joe_leif</created-by>
+                          <tree-id type="integer">23367</tree-id>
+                          <pri-name>Soqotri</pri-name>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <updater-id type="integer">10740</updater-id>
+                          <node-status-id nil="true"></node-status-id>
+                          <created-at type="datetime">2013-06-25T16:40:19-04:00</created-at>
+                          <alt-names></alt-names>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <creator-id type="integer">10740</creator-id>
+                          <confidence>y</confidence>
+                          <updated-at type="datetime">2013-06-25T16:40:19-04:00</updated-at>
+                          <start-date nil="true"></start-date>
+                          <children type="array"/>
+                          <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                          <codes>sqt</codes>
+                          <sureness type="integer">0</sureness>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                          <other-codes></other-codes>
+                          <node-type>Language</node-type>
+                        </child>
+                        <child>
+                          <status nil="true"></status>
+                          <pub-comments></pub-comments>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">908811</id>
+                          <created-by>joe_leif</created-by>
+                          <tree-id type="integer">23367</tree-id>
+                          <pri-name>Jibbali</pri-name>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <updater-id type="integer">10740</updater-id>
+                          <node-status-id nil="true"></node-status-id>
+                          <created-at type="datetime">2013-06-25T16:40:18-04:00</created-at>
+                          <alt-names></alt-names>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <creator-id type="integer">10740</creator-id>
+                          <confidence>y</confidence>
+                          <updated-at type="datetime">2013-06-25T16:40:19-04:00</updated-at>
+                          <start-date nil="true"></start-date>
+                          <children type="array"/>
+                          <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                          <codes>shv</codes>
+                          <sureness type="integer">0</sureness>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                          <other-codes></other-codes>
+                          <node-type>Language</node-type>
+                        </child>
+                      </children>
+                      <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                      <codes>emsa</codes>
+                      <sureness type="integer">0</sureness>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                      <other-codes></other-codes>
+                      <node-type>Subgroup</node-type>
+                    </child>
+                    <child>
+                      <status nil="true"></status>
+                      <pub-comments>Node not named by author</pub-comments>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">908813</id>
+                      <created-by>joe_leif</created-by>
+                      <tree-id type="integer">23367</tree-id>
+                      <pri-name>Harsusi-Mehri</pri-name>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <updater-id type="integer">10740</updater-id>
+                      <node-status-id nil="true"></node-status-id>
+                      <created-at type="datetime">2013-06-25T16:40:19-04:00</created-at>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <confidence>y</confidence>
+                      <updated-at type="datetime">2013-06-25T16:40:19-04:00</updated-at>
+                      <start-date nil="true"></start-date>
+                      <children type="array">
+                        <child>
+                          <status nil="true"></status>
+                          <pub-comments></pub-comments>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">908814</id>
+                          <created-by>joe_leif</created-by>
+                          <tree-id type="integer">23367</tree-id>
+                          <pri-name>Harsusi</pri-name>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <updater-id type="integer">10740</updater-id>
+                          <node-status-id nil="true"></node-status-id>
+                          <created-at type="datetime">2013-06-25T16:40:19-04:00</created-at>
+                          <alt-names></alt-names>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <creator-id type="integer">10740</creator-id>
+                          <confidence>y</confidence>
+                          <updated-at type="datetime">2013-06-25T16:40:19-04:00</updated-at>
+                          <start-date nil="true"></start-date>
+                          <children type="array"/>
+                          <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                          <codes>hss</codes>
+                          <sureness type="integer">0</sureness>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                          <other-codes></other-codes>
+                          <node-type>Language</node-type>
+                        </child>
+                        <child>
+                          <status nil="true"></status>
+                          <pub-comments></pub-comments>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">908815</id>
+                          <created-by>joe_leif</created-by>
+                          <tree-id type="integer">23367</tree-id>
+                          <pri-name>Mehri</pri-name>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <updater-id type="integer">10740</updater-id>
+                          <node-status-id nil="true"></node-status-id>
+                          <created-at type="datetime">2013-06-25T16:40:19-04:00</created-at>
+                          <alt-names></alt-names>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <creator-id type="integer">10740</creator-id>
+                          <confidence>y</confidence>
+                          <updated-at type="datetime">2013-06-25T16:40:19-04:00</updated-at>
+                          <start-date nil="true"></start-date>
+                          <children type="array"/>
+                          <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                          <codes>gdq</codes>
+                          <sureness type="integer">0</sureness>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                          <other-codes></other-codes>
+                          <node-type>Language</node-type>
+                        </child>
+                      </children>
+                      <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                      <codes>wmsa</codes>
+                      <sureness type="integer">0</sureness>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                      <other-codes></other-codes>
+                      <node-type>Subgroup</node-type>
+                    </child>
+                  </children>
+                  <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                  <codes>sarb</codes>
+                  <sureness type="integer">0</sureness>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                  <other-codes></other-codes>
+                  <node-type>Subgroup</node-type>
+                </child>
+                <child>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">908780</id>
+                  <created-by>joe_leif</created-by>
+                  <tree-id type="integer">23367</tree-id>
+                  <pri-name>Ethiosemitic</pri-name>
+                  <updated-by>joe_leif</updated-by>
+                  <deleted-at nil="true"></deleted-at>
+                  <updater-id type="integer">10740</updater-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <created-at type="datetime">2013-06-25T16:40:17-04:00</created-at>
+                  <alt-names></alt-names>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2013-06-25T16:40:17-04:00</updated-at>
+                  <start-date nil="true"></start-date>
+                  <children type="array">
+                    <child>
+                      <status nil="true"></status>
+                      <pub-comments>Node not named by author</pub-comments>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">908786</id>
+                      <created-by>joe_leif</created-by>
+                      <tree-id type="integer">23367</tree-id>
+                      <pri-name>Zway-Soddo</pri-name>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <updater-id type="integer">10740</updater-id>
+                      <node-status-id nil="true"></node-status-id>
+                      <created-at type="datetime">2013-06-25T16:40:17-04:00</created-at>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <confidence>y</confidence>
+                      <updated-at type="datetime">2013-06-25T16:40:17-04:00</updated-at>
+                      <start-date nil="true"></start-date>
+                      <children type="array">
+                        <child>
+                          <status nil="true"></status>
+                          <pub-comments>Node not named by author</pub-comments>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">908792</id>
+                          <created-by>joe_leif</created-by>
+                          <tree-id type="integer">23367</tree-id>
+                          <pri-name>Amharic-Soddo</pri-name>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <updater-id type="integer">10740</updater-id>
+                          <node-status-id nil="true"></node-status-id>
+                          <created-at type="datetime">2013-06-25T16:40:17-04:00</created-at>
+                          <alt-names></alt-names>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <creator-id type="integer">10740</creator-id>
+                          <confidence>y</confidence>
+                          <updated-at type="datetime">2013-06-25T16:40:17-04:00</updated-at>
+                          <start-date nil="true"></start-date>
+                          <children type="array">
+                            <child>
+                              <status nil="true"></status>
+                              <pub-comments>Node not named by author</pub-comments>
+                              <is-default type="integer">0</is-default>
+                              <id type="integer">908793</id>
+                              <created-by>joe_leif</created-by>
+                              <tree-id type="integer">23367</tree-id>
+                              <pri-name>Amharic-Argobba-Gafat</pri-name>
+                              <updated-by>joe_leif</updated-by>
+                              <deleted-at nil="true"></deleted-at>
+                              <updater-id type="integer">10740</updater-id>
+                              <node-status-id nil="true"></node-status-id>
+                              <created-at type="datetime">2013-06-25T16:40:17-04:00</created-at>
+                              <alt-names></alt-names>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <creator-id type="integer">10740</creator-id>
+                              <confidence>y</confidence>
+                              <updated-at type="datetime">2013-06-25T16:40:17-04:00</updated-at>
+                              <start-date nil="true"></start-date>
+                              <children type="array">
+                                <child>
+                                  <status nil="true"></status>
+                                  <pub-comments>Node not named by author</pub-comments>
+                                  <is-default type="integer">0</is-default>
+                                  <id type="integer">908799</id>
+                                  <created-by>joe_leif</created-by>
+                                  <tree-id type="integer">23367</tree-id>
+                                  <pri-name>Innemor-Mesmes</pri-name>
+                                  <updated-by>joe_leif</updated-by>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <updater-id type="integer">10740</updater-id>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <created-at type="datetime">2013-06-25T16:40:18-04:00</created-at>
+                                  <alt-names></alt-names>
+                                  <node-type-id type="integer">10000</node-type-id>
+                                  <creator-id type="integer">10740</creator-id>
+                                  <confidence>y</confidence>
+                                  <updated-at type="datetime">2013-06-25T16:40:18-04:00</updated-at>
+                                  <start-date nil="true"></start-date>
+                                  <children type="array">
+                                    <child>
+                                      <status nil="true"></status>
+                                      <pub-comments>Node not named by author</pub-comments>
+                                      <is-default type="integer">0</is-default>
+                                      <id type="integer">908800</id>
+                                      <created-by>joe_leif</created-by>
+                                      <tree-id type="integer">23367</tree-id>
+                                      <pri-name>Innemor-Chaha</pri-name>
+                                      <updated-by>joe_leif</updated-by>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <updater-id type="integer">10740</updater-id>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <created-at type="datetime">2013-06-25T16:40:18-04:00</created-at>
+                                      <alt-names></alt-names>
+                                      <node-type-id type="integer">10000</node-type-id>
+                                      <creator-id type="integer">10740</creator-id>
+                                      <confidence>y</confidence>
+                                      <updated-at type="datetime">2013-06-25T16:40:18-04:00</updated-at>
+                                      <start-date nil="true"></start-date>
+                                      <children type="array">
+                                        <child>
+                                          <status nil="true"></status>
+                                          <pub-comments>Node not named by author</pub-comments>
+                                          <is-default type="integer">0</is-default>
+                                          <id type="integer">908801</id>
+                                          <created-by>joe_leif</created-by>
+                                          <tree-id type="integer">23367</tree-id>
+                                          <pri-name>Innemor-Mesquan</pri-name>
+                                          <updated-by>joe_leif</updated-by>
+                                          <deleted-at nil="true"></deleted-at>
+                                          <updater-id type="integer">10740</updater-id>
+                                          <node-status-id nil="true"></node-status-id>
+                                          <created-at type="datetime">2013-06-25T16:40:18-04:00</created-at>
+                                          <alt-names></alt-names>
+                                          <node-type-id type="integer">10000</node-type-id>
+                                          <creator-id type="integer">10740</creator-id>
+                                          <confidence>y</confidence>
+                                          <updated-at type="datetime">2013-06-25T16:40:18-04:00</updated-at>
+                                          <start-date nil="true"></start-date>
+                                          <children type="array">
+                                            <child>
+                                              <status nil="true"></status>
+                                              <pub-comments></pub-comments>
+                                              <is-default type="integer">0</is-default>
+                                              <id type="integer">908802</id>
+                                              <created-by>joe_leif</created-by>
+                                              <tree-id type="integer">23367</tree-id>
+                                              <pri-name>Innemor</pri-name>
+                                              <updated-by>joe_leif</updated-by>
+                                              <deleted-at nil="true"></deleted-at>
+                                              <updater-id type="integer">10740</updater-id>
+                                              <node-status-id nil="true"></node-status-id>
+                                              <created-at type="datetime">2013-06-25T16:40:18-04:00</created-at>
+                                              <alt-names></alt-names>
+                                              <node-type-id type="integer">10001</node-type-id>
+                                              <creator-id type="integer">10740</creator-id>
+                                              <confidence>y</confidence>
+                                              <updated-at type="datetime">2013-06-25T16:40:18-04:00</updated-at>
+                                              <start-date nil="true"></start-date>
+                                              <children type="array"/>
+                                              <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                                              <codes>ior</codes>
+                                              <sureness type="integer">0</sureness>
+                                              <geography nil="true"></geography>
+                                              <end-date nil="true"></end-date>
+                                              <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                                              <other-codes></other-codes>
+                                              <node-type>Language</node-type>
+                                            </child>
+                                            <child>
+                                              <status nil="true"></status>
+                                              <pub-comments></pub-comments>
+                                              <is-default type="integer">0</is-default>
+                                              <id type="integer">908803</id>
+                                              <created-by>joe_leif</created-by>
+                                              <tree-id type="integer">23367</tree-id>
+                                              <pri-name>Mesquan</pri-name>
+                                              <updated-by>joe_leif</updated-by>
+                                              <deleted-at nil="true"></deleted-at>
+                                              <updater-id type="integer">10740</updater-id>
+                                              <node-status-id nil="true"></node-status-id>
+                                              <created-at type="datetime">2013-06-25T16:40:18-04:00</created-at>
+                                              <alt-names></alt-names>
+                                              <node-type-id type="integer">10001</node-type-id>
+                                              <creator-id type="integer">10740</creator-id>
+                                              <confidence>y</confidence>
+                                              <updated-at type="datetime">2013-06-25T16:40:18-04:00</updated-at>
+                                              <start-date nil="true"></start-date>
+                                              <children type="array"/>
+                                              <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                                              <codes>mvz</codes>
+                                              <sureness type="integer">0</sureness>
+                                              <geography nil="true"></geography>
+                                              <end-date nil="true"></end-date>
+                                              <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                                              <other-codes></other-codes>
+                                              <node-type>Language</node-type>
+                                            </child>
+                                          </children>
+                                          <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                                          <codes>afwg</codes>
+                                          <sureness type="integer">0</sureness>
+                                          <geography nil="true"></geography>
+                                          <end-date nil="true"></end-date>
+                                          <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                                          <other-codes></other-codes>
+                                          <node-type>Subgroup</node-type>
+                                        </child>
+                                        <child>
+                                          <status nil="true"></status>
+                                          <pub-comments>Node not named by author</pub-comments>
+                                          <is-default type="integer">0</is-default>
+                                          <id type="integer">908804</id>
+                                          <created-by>joe_leif</created-by>
+                                          <tree-id type="integer">23367</tree-id>
+                                          <pri-name>Geto-Chaha</pri-name>
+                                          <updated-by>joe_leif</updated-by>
+                                          <deleted-at nil="true"></deleted-at>
+                                          <updater-id type="integer">10740</updater-id>
+                                          <node-status-id nil="true"></node-status-id>
+                                          <created-at type="datetime">2013-06-25T16:40:18-04:00</created-at>
+                                          <alt-names></alt-names>
+                                          <node-type-id type="integer">10000</node-type-id>
+                                          <creator-id type="integer">10740</creator-id>
+                                          <confidence>y</confidence>
+                                          <updated-at type="datetime">2013-06-25T16:40:18-04:00</updated-at>
+                                          <start-date nil="true"></start-date>
+                                          <children type="array">
+                                            <child>
+                                              <status nil="true"></status>
+                                              <pub-comments></pub-comments>
+                                              <is-default type="integer">0</is-default>
+                                              <id type="integer">908805</id>
+                                              <created-by>joe_leif</created-by>
+                                              <tree-id type="integer">23367</tree-id>
+                                              <pri-name>Geto</pri-name>
+                                              <updated-by>joe_leif</updated-by>
+                                              <deleted-at nil="true"></deleted-at>
+                                              <updater-id type="integer">10740</updater-id>
+                                              <node-status-id nil="true"></node-status-id>
+                                              <created-at type="datetime">2013-06-25T16:40:18-04:00</created-at>
+                                              <alt-names></alt-names>
+                                              <node-type-id type="integer">10001</node-type-id>
+                                              <creator-id type="integer">10740</creator-id>
+                                              <confidence>y</confidence>
+                                              <updated-at type="datetime">2013-06-25T16:40:18-04:00</updated-at>
+                                              <start-date nil="true"></start-date>
+                                              <children type="array"/>
+                                              <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                                              <codes>sgw-gye</codes>
+                                              <sureness type="integer">0</sureness>
+                                              <geography nil="true"></geography>
+                                              <end-date nil="true"></end-date>
+                                              <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                                              <other-codes></other-codes>
+                                              <node-type>Language</node-type>
+                                            </child>
+                                            <child>
+                                              <status nil="true"></status>
+                                              <pub-comments></pub-comments>
+                                              <is-default type="integer">0</is-default>
+                                              <id type="integer">908806</id>
+                                              <created-by>joe_leif</created-by>
+                                              <tree-id type="integer">23367</tree-id>
+                                              <pri-name>Chaha</pri-name>
+                                              <updated-by>joe_leif</updated-by>
+                                              <deleted-at nil="true"></deleted-at>
+                                              <updater-id type="integer">10740</updater-id>
+                                              <node-status-id nil="true"></node-status-id>
+                                              <created-at type="datetime">2013-06-25T16:40:18-04:00</created-at>
+                                              <alt-names></alt-names>
+                                              <node-type-id type="integer">10001</node-type-id>
+                                              <creator-id type="integer">10740</creator-id>
+                                              <confidence>y</confidence>
+                                              <updated-at type="datetime">2013-06-25T16:40:18-04:00</updated-at>
+                                              <start-date nil="true"></start-date>
+                                              <children type="array"/>
+                                              <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                                              <codes>sgw-cha</codes>
+                                              <sureness type="integer">0</sureness>
+                                              <geography nil="true"></geography>
+                                              <end-date nil="true"></end-date>
+                                              <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                                              <other-codes></other-codes>
+                                              <node-type>Language</node-type>
+                                            </child>
+                                          </children>
+                                          <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                                          <codes>gech</codes>
+                                          <sureness type="integer">0</sureness>
+                                          <geography nil="true"></geography>
+                                          <end-date nil="true"></end-date>
+                                          <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                                          <other-codes></other-codes>
+                                          <node-type>Subgroup</node-type>
+                                        </child>
+                                      </children>
+                                      <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                                      <codes>cpwg</codes>
+                                      <sureness type="integer">0</sureness>
+                                      <geography nil="true"></geography>
+                                      <end-date nil="true"></end-date>
+                                      <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                                      <other-codes></other-codes>
+                                      <node-type>Subgroup</node-type>
+                                    </child>
+                                    <child>
+                                      <status nil="true"></status>
+                                      <pub-comments></pub-comments>
+                                      <is-default type="integer">0</is-default>
+                                      <id type="integer">908807</id>
+                                      <created-by>joe_leif</created-by>
+                                      <tree-id type="integer">23367</tree-id>
+                                      <pri-name>Mesmes</pri-name>
+                                      <updated-by>joe_leif</updated-by>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <updater-id type="integer">10740</updater-id>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <created-at type="datetime">2013-06-25T16:40:18-04:00</created-at>
+                                      <alt-names></alt-names>
+                                      <node-type-id type="integer">10001</node-type-id>
+                                      <creator-id type="integer">10740</creator-id>
+                                      <confidence>y</confidence>
+                                      <updated-at type="datetime">2013-06-25T16:40:18-04:00</updated-at>
+                                      <start-date nil="true"></start-date>
+                                      <children type="array"/>
+                                      <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                                      <codes>mys</codes>
+                                      <sureness type="integer">0</sureness>
+                                      <geography nil="true"></geography>
+                                      <end-date nil="true"></end-date>
+                                      <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                                      <other-codes></other-codes>
+                                      <node-type>Language</node-type>
+                                    </child>
+                                  </children>
+                                  <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                                  <codes>afwg</codes>
+                                  <sureness type="integer">0</sureness>
+                                  <geography nil="true"></geography>
+                                  <end-date nil="true"></end-date>
+                                  <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                                  <other-codes></other-codes>
+                                  <node-type>Subgroup</node-type>
+                                </child>
+                                <child>
+                                  <status nil="true"></status>
+                                  <pub-comments>Node not named by author</pub-comments>
+                                  <is-default type="integer">0</is-default>
+                                  <id type="integer">908794</id>
+                                  <created-by>joe_leif</created-by>
+                                  <tree-id type="integer">23367</tree-id>
+                                  <pri-name>Amharic-Argobba</pri-name>
+                                  <updated-by>joe_leif</updated-by>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <updater-id type="integer">10740</updater-id>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <created-at type="datetime">2013-06-25T16:40:17-04:00</created-at>
+                                  <alt-names></alt-names>
+                                  <node-type-id type="integer">10000</node-type-id>
+                                  <creator-id type="integer">10740</creator-id>
+                                  <confidence>y</confidence>
+                                  <updated-at type="datetime">2013-06-25T16:40:18-04:00</updated-at>
+                                  <start-date nil="true"></start-date>
+                                  <children type="array">
+                                    <child>
+                                      <status nil="true"></status>
+                                      <pub-comments></pub-comments>
+                                      <is-default type="integer">0</is-default>
+                                      <id type="integer">908796</id>
+                                      <created-by>joe_leif</created-by>
+                                      <tree-id type="integer">23367</tree-id>
+                                      <pri-name>Agrobba</pri-name>
+                                      <updated-by>joe_leif</updated-by>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <updater-id type="integer">10740</updater-id>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <created-at type="datetime">2013-06-25T16:40:18-04:00</created-at>
+                                      <alt-names></alt-names>
+                                      <node-type-id type="integer">10001</node-type-id>
+                                      <creator-id type="integer">10740</creator-id>
+                                      <confidence>y</confidence>
+                                      <updated-at type="datetime">2013-06-25T16:40:18-04:00</updated-at>
+                                      <start-date nil="true"></start-date>
+                                      <children type="array"/>
+                                      <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                                      <codes>agj</codes>
+                                      <sureness type="integer">0</sureness>
+                                      <geography nil="true"></geography>
+                                      <end-date nil="true"></end-date>
+                                      <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                                      <other-codes></other-codes>
+                                      <node-type>Language</node-type>
+                                    </child>
+                                    <child>
+                                      <status nil="true"></status>
+                                      <pub-comments></pub-comments>
+                                      <is-default type="integer">0</is-default>
+                                      <id type="integer">908795</id>
+                                      <created-by>joe_leif</created-by>
+                                      <tree-id type="integer">23367</tree-id>
+                                      <pri-name>Amharic</pri-name>
+                                      <updated-by>joe_leif</updated-by>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <updater-id type="integer">10740</updater-id>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <created-at type="datetime">2013-06-25T16:40:18-04:00</created-at>
+                                      <alt-names></alt-names>
+                                      <node-type-id type="integer">10001</node-type-id>
+                                      <creator-id type="integer">10740</creator-id>
+                                      <confidence>y</confidence>
+                                      <updated-at type="datetime">2013-06-25T16:40:18-04:00</updated-at>
+                                      <start-date nil="true"></start-date>
+                                      <children type="array"/>
+                                      <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                                      <codes>amh</codes>
+                                      <sureness type="integer">0</sureness>
+                                      <geography nil="true"></geography>
+                                      <end-date nil="true"></end-date>
+                                      <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                                      <other-codes></other-codes>
+                                      <node-type>Language</node-type>
+                                    </child>
+                                  </children>
+                                  <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                                  <codes>amha</codes>
+                                  <sureness type="integer">0</sureness>
+                                  <geography nil="true"></geography>
+                                  <end-date nil="true"></end-date>
+                                  <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                                  <other-codes></other-codes>
+                                  <node-type>Subgroup</node-type>
+                                </child>
+                                <child>
+                                  <status nil="true"></status>
+                                  <pub-comments></pub-comments>
+                                  <is-default type="integer">0</is-default>
+                                  <id type="integer">908797</id>
+                                  <created-by>joe_leif</created-by>
+                                  <tree-id type="integer">23367</tree-id>
+                                  <pri-name>Gafat</pri-name>
+                                  <updated-by>joe_leif</updated-by>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <updater-id type="integer">10740</updater-id>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <created-at type="datetime">2013-06-25T16:40:18-04:00</created-at>
+                                  <alt-names></alt-names>
+                                  <node-type-id type="integer">10001</node-type-id>
+                                  <creator-id type="integer">10740</creator-id>
+                                  <confidence>y</confidence>
+                                  <updated-at type="datetime">2013-06-25T16:40:18-04:00</updated-at>
+                                  <start-date nil="true"></start-date>
+                                  <children type="array"/>
+                                  <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                                  <codes>gft</codes>
+                                  <sureness type="integer">0</sureness>
+                                  <geography nil="true"></geography>
+                                  <end-date nil="true"></end-date>
+                                  <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                                  <other-codes></other-codes>
+                                  <node-type>Language</node-type>
+                                </child>
+                              </children>
+                              <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                              <codes>aagf</codes>
+                              <sureness type="integer">0</sureness>
+                              <geography nil="true"></geography>
+                              <end-date nil="true"></end-date>
+                              <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                              <other-codes></other-codes>
+                              <node-type>Subgroup</node-type>
+                            </child>
+                            <child>
+                              <status nil="true"></status>
+                              <pub-comments>Node not named by author</pub-comments>
+                              <is-default type="integer">0</is-default>
+                              <id type="integer">908798</id>
+                              <created-by>joe_leif</created-by>
+                              <tree-id type="integer">23367</tree-id>
+                              <pri-name>Innemor-Soddo</pri-name>
+                              <updated-by>joe_leif</updated-by>
+                              <deleted-at nil="true"></deleted-at>
+                              <updater-id type="integer">10740</updater-id>
+                              <node-status-id nil="true"></node-status-id>
+                              <created-at type="datetime">2013-06-25T16:40:18-04:00</created-at>
+                              <alt-names></alt-names>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <creator-id type="integer">10740</creator-id>
+                              <confidence>y</confidence>
+                              <updated-at type="datetime">2013-06-25T16:40:18-04:00</updated-at>
+                              <start-date nil="true"></start-date>
+                              <children type="array">
+                                <child>
+                                  <status nil="true"></status>
+                                  <pub-comments></pub-comments>
+                                  <is-default type="integer">0</is-default>
+                                  <id type="integer">908808</id>
+                                  <created-by>joe_leif</created-by>
+                                  <tree-id type="integer">23367</tree-id>
+                                  <pri-name>Soddo</pri-name>
+                                  <updated-by>joe_leif</updated-by>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <updater-id type="integer">10740</updater-id>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <created-at type="datetime">2013-06-25T16:40:18-04:00</created-at>
+                                  <alt-names></alt-names>
+                                  <node-type-id type="integer">10001</node-type-id>
+                                  <creator-id type="integer">10740</creator-id>
+                                  <confidence>y</confidence>
+                                  <updated-at type="datetime">2013-06-25T16:40:18-04:00</updated-at>
+                                  <start-date nil="true"></start-date>
+                                  <children type="array"/>
+                                  <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                                  <codes>gru</codes>
+                                  <sureness type="integer">0</sureness>
+                                  <geography nil="true"></geography>
+                                  <end-date nil="true"></end-date>
+                                  <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                                  <other-codes></other-codes>
+                                  <node-type>Language</node-type>
+                                </child>
+                              </children>
+                              <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                              <codes>oseg</codes>
+                              <sureness type="integer">0</sureness>
+                              <geography nil="true"></geography>
+                              <end-date nil="true"></end-date>
+                              <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                              <other-codes></other-codes>
+                              <node-type>Subgroup</node-type>
+                            </child>
+                          </children>
+                          <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                          <codes>amso</codes>
+                          <sureness type="integer">0</sureness>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                          <other-codes></other-codes>
+                          <node-type>Subgroup</node-type>
+                        </child>
+                        <child>
+                          <status nil="true"></status>
+                          <pub-comments>Node not named by author</pub-comments>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">908787</id>
+                          <created-by>joe_leif</created-by>
+                          <tree-id type="integer">23367</tree-id>
+                          <pri-name>Zway-Walani-Harari</pri-name>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <updater-id type="integer">10740</updater-id>
+                          <node-status-id nil="true"></node-status-id>
+                          <created-at type="datetime">2013-06-25T16:40:17-04:00</created-at>
+                          <alt-names></alt-names>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <creator-id type="integer">10740</creator-id>
+                          <confidence>y</confidence>
+                          <updated-at type="datetime">2013-06-25T16:40:17-04:00</updated-at>
+                          <start-date nil="true"></start-date>
+                          <children type="array">
+                            <child>
+                              <status nil="true"></status>
+                              <pub-comments></pub-comments>
+                              <is-default type="integer">0</is-default>
+                              <id type="integer">908791</id>
+                              <created-by>joe_leif</created-by>
+                              <tree-id type="integer">23367</tree-id>
+                              <pri-name>Harari</pri-name>
+                              <updated-by>joe_leif</updated-by>
+                              <deleted-at nil="true"></deleted-at>
+                              <updater-id type="integer">10740</updater-id>
+                              <node-status-id nil="true"></node-status-id>
+                              <created-at type="datetime">2013-06-25T16:40:17-04:00</created-at>
+                              <alt-names></alt-names>
+                              <node-type-id type="integer">10001</node-type-id>
+                              <creator-id type="integer">10740</creator-id>
+                              <confidence>y</confidence>
+                              <updated-at type="datetime">2013-06-25T16:40:17-04:00</updated-at>
+                              <start-date nil="true"></start-date>
+                              <children type="array"/>
+                              <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                              <codes>har</codes>
+                              <sureness type="integer">0</sureness>
+                              <geography nil="true"></geography>
+                              <end-date nil="true"></end-date>
+                              <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                              <other-codes></other-codes>
+                              <node-type>Language</node-type>
+                            </child>
+                            <child>
+                              <status nil="true"></status>
+                              <pub-comments>Node not named by author</pub-comments>
+                              <is-default type="integer">0</is-default>
+                              <id type="integer">908788</id>
+                              <created-by>joe_leif</created-by>
+                              <tree-id type="integer">23367</tree-id>
+                              <pri-name>Zway-Walani</pri-name>
+                              <updated-by>joe_leif</updated-by>
+                              <deleted-at nil="true"></deleted-at>
+                              <updater-id type="integer">10740</updater-id>
+                              <node-status-id nil="true"></node-status-id>
+                              <created-at type="datetime">2013-06-25T16:40:17-04:00</created-at>
+                              <alt-names></alt-names>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <creator-id type="integer">10740</creator-id>
+                              <confidence>y</confidence>
+                              <updated-at type="datetime">2013-06-25T16:40:17-04:00</updated-at>
+                              <start-date nil="true"></start-date>
+                              <children type="array">
+                                <child>
+                                  <status nil="true"></status>
+                                  <pub-comments></pub-comments>
+                                  <is-default type="integer">0</is-default>
+                                  <id type="integer">908789</id>
+                                  <created-by>joe_leif</created-by>
+                                  <tree-id type="integer">23367</tree-id>
+                                  <pri-name>Zway</pri-name>
+                                  <updated-by>joe_leif</updated-by>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <updater-id type="integer">10740</updater-id>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <created-at type="datetime">2013-06-25T16:40:17-04:00</created-at>
+                                  <alt-names></alt-names>
+                                  <node-type-id type="integer">10001</node-type-id>
+                                  <creator-id type="integer">10740</creator-id>
+                                  <confidence>y</confidence>
+                                  <updated-at type="datetime">2013-06-25T16:40:17-04:00</updated-at>
+                                  <start-date nil="true"></start-date>
+                                  <children type="array"/>
+                                  <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                                  <codes>zwa</codes>
+                                  <sureness type="integer">0</sureness>
+                                  <geography nil="true"></geography>
+                                  <end-date nil="true"></end-date>
+                                  <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                                  <other-codes></other-codes>
+                                  <node-type>Language</node-type>
+                                </child>
+                                <child>
+                                  <status nil="true"></status>
+                                  <pub-comments></pub-comments>
+                                  <is-default type="integer">0</is-default>
+                                  <id type="integer">908790</id>
+                                  <created-by>joe_leif</created-by>
+                                  <tree-id type="integer">23367</tree-id>
+                                  <pri-name>Walani</pri-name>
+                                  <updated-by>joe_leif</updated-by>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <updater-id type="integer">10740</updater-id>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <created-at type="datetime">2013-06-25T16:40:17-04:00</created-at>
+                                  <alt-names></alt-names>
+                                  <node-type-id type="integer">10001</node-type-id>
+                                  <creator-id type="integer">10740</creator-id>
+                                  <confidence>y</confidence>
+                                  <updated-at type="datetime">2013-06-25T16:40:17-04:00</updated-at>
+                                  <start-date nil="true"></start-date>
+                                  <children type="array"/>
+                                  <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                                  <codes>wle</codes>
+                                  <sureness type="integer">0</sureness>
+                                  <geography nil="true"></geography>
+                                  <end-date nil="true"></end-date>
+                                  <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                                  <other-codes></other-codes>
+                                  <node-type>Language</node-type>
+                                </child>
+                              </children>
+                              <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                              <codes>zywi</codes>
+                              <sureness type="integer">0</sureness>
+                              <geography nil="true"></geography>
+                              <end-date nil="true"></end-date>
+                              <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                              <other-codes></other-codes>
+                              <node-type>Subgroup</node-type>
+                            </child>
+                          </children>
+                          <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                          <codes>hegu</codes>
+                          <sureness type="integer">0</sureness>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                          <other-codes></other-codes>
+                          <node-type>Subgroup</node-type>
+                        </child>
+                      </children>
+                      <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                      <codes>oset</codes>
+                      <sureness type="integer">0</sureness>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                      <other-codes></other-codes>
+                      <node-type>Subgroup</node-type>
+                    </child>
+                    <child>
+                      <status nil="true"></status>
+                      <pub-comments>Node not named by author</pub-comments>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">908781</id>
+                      <created-by>joe_leif</created-by>
+                      <tree-id type="integer">23367</tree-id>
+                      <pri-name>Ge'ez-Tigrinya-Tigre</pri-name>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <updater-id type="integer">10740</updater-id>
+                      <node-status-id nil="true"></node-status-id>
+                      <created-at type="datetime">2013-06-25T16:40:17-04:00</created-at>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <creator-id type="integer">10740</creator-id>
+                      <confidence>y</confidence>
+                      <updated-at type="datetime">2013-06-25T16:40:17-04:00</updated-at>
+                      <start-date nil="true"></start-date>
+                      <children type="array">
+                        <child>
+                          <status>Extinct</status>
+                          <pub-comments></pub-comments>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">908782</id>
+                          <created-by>joe_leif</created-by>
+                          <tree-id type="integer">23367</tree-id>
+                          <pri-name>Ge'ez</pri-name>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <updater-id type="integer">10740</updater-id>
+                          <node-status-id type="integer">10000</node-status-id>
+                          <created-at type="datetime">2013-06-25T16:40:17-04:00</created-at>
+                          <alt-names></alt-names>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <creator-id type="integer">10740</creator-id>
+                          <confidence>y</confidence>
+                          <updated-at type="datetime">2013-06-25T16:40:17-04:00</updated-at>
+                          <start-date nil="true"></start-date>
+                          <children type="array"/>
+                          <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                          <codes>gez</codes>
+                          <sureness type="integer">0</sureness>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                          <other-codes></other-codes>
+                          <node-type>Language</node-type>
+                        </child>
+                        <child>
+                          <status nil="true"></status>
+                          <pub-comments>Node not named by author</pub-comments>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">908783</id>
+                          <created-by>joe_leif</created-by>
+                          <tree-id type="integer">23367</tree-id>
+                          <pri-name>Tigrinya-Tigre</pri-name>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <updater-id type="integer">10740</updater-id>
+                          <node-status-id nil="true"></node-status-id>
+                          <created-at type="datetime">2013-06-25T16:40:17-04:00</created-at>
+                          <alt-names></alt-names>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <creator-id type="integer">10740</creator-id>
+                          <confidence>y</confidence>
+                          <updated-at type="datetime">2013-06-25T16:40:17-04:00</updated-at>
+                          <start-date nil="true"></start-date>
+                          <children type="array">
+                            <child>
+                              <status nil="true"></status>
+                              <pub-comments></pub-comments>
+                              <is-default type="integer">0</is-default>
+                              <id type="integer">908785</id>
+                              <created-by>joe_leif</created-by>
+                              <tree-id type="integer">23367</tree-id>
+                              <pri-name>Tigre</pri-name>
+                              <updated-by>joe_leif</updated-by>
+                              <deleted-at nil="true"></deleted-at>
+                              <updater-id type="integer">10740</updater-id>
+                              <node-status-id nil="true"></node-status-id>
+                              <created-at type="datetime">2013-06-25T16:40:17-04:00</created-at>
+                              <alt-names></alt-names>
+                              <node-type-id type="integer">10001</node-type-id>
+                              <creator-id type="integer">10740</creator-id>
+                              <confidence>y</confidence>
+                              <updated-at type="datetime">2013-06-25T16:40:17-04:00</updated-at>
+                              <start-date nil="true"></start-date>
+                              <children type="array"/>
+                              <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                              <codes>tig</codes>
+                              <sureness type="integer">0</sureness>
+                              <geography nil="true"></geography>
+                              <end-date nil="true"></end-date>
+                              <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                              <other-codes></other-codes>
+                              <node-type>Language</node-type>
+                            </child>
+                            <child>
+                              <status nil="true"></status>
+                              <pub-comments></pub-comments>
+                              <is-default type="integer">0</is-default>
+                              <id type="integer">908784</id>
+                              <created-by>joe_leif</created-by>
+                              <tree-id type="integer">23367</tree-id>
+                              <pri-name>Tigrinya</pri-name>
+                              <updated-by>joe_leif</updated-by>
+                              <deleted-at nil="true"></deleted-at>
+                              <updater-id type="integer">10740</updater-id>
+                              <node-status-id nil="true"></node-status-id>
+                              <created-at type="datetime">2013-06-25T16:40:17-04:00</created-at>
+                              <alt-names></alt-names>
+                              <node-type-id type="integer">10001</node-type-id>
+                              <creator-id type="integer">10740</creator-id>
+                              <confidence>y</confidence>
+                              <updated-at type="datetime">2013-06-25T16:40:17-04:00</updated-at>
+                              <start-date nil="true"></start-date>
+                              <children type="array"/>
+                              <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                              <codes>tir</codes>
+                              <sureness type="integer">0</sureness>
+                              <geography nil="true"></geography>
+                              <end-date nil="true"></end-date>
+                              <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                              <other-codes></other-codes>
+                              <node-type>Language</node-type>
+                            </child>
+                          </children>
+                          <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                          <codes>nepr</codes>
+                          <sureness type="integer">0</sureness>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                          <other-codes></other-codes>
+                          <node-type>Subgroup</node-type>
+                        </child>
+                      </children>
+                      <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                      <codes>neth</codes>
+                      <sureness type="integer">0</sureness>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                      <other-codes></other-codes>
+                      <node-type>Subgroup</node-type>
+                    </child>
+                  </children>
+                  <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+                  <codes>afet</codes>
+                  <sureness type="integer">0</sureness>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+                  <other-codes></other-codes>
+                  <node-type>Subgroup</node-type>
+                </child>
+              </children>
+              <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+              <codes>ssem</codes>
+              <sureness type="integer">0</sureness>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+            </child>
+          </children>
+          <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+          <codes>wsem</codes>
+          <sureness type="integer">0</sureness>
+          <geography nil="true"></geography>
+          <end-date nil="true"></end-date>
+          <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+          <other-codes></other-codes>
+          <node-type>Subgroup</node-type>
+        </child>
+      </children>
+      <tree-val>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</tree-val>
+      <codes>afsm</codes>
+      <sureness type="integer">0</sureness>
+      <geography nil="true"></geography>
+      <end-date nil="true"></end-date>
+      <publications>Assefa, Shiferaw , Christopher  Ehret, Andrew  Kitchen &amp; Connie J Mulligan. 2009. Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East. </publications>
+      <other-codes></other-codes>
+      <node-type>Subgroup</node-type>
+    </root>
+    <description>Semitic, subtree of Afro-Asiatic: Kitchen, Ehret, Assefa, and Mulligan 2009</description>
+  </tree>
+</hash>

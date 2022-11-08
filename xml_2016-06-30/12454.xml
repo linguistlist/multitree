@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <tree-id type="integer">12454</tree-id>
+      <deleted-at nil="true"></deleted-at>
+      <created-by>joe_leif</created-by>
+      <confidence>y</confidence>
+      <updater-id type="integer">10740</updater-id>
+      <tree-val>Aymaran: Dryer 2005</tree-val>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <node-type-id type="integer">10000</node-type-id>
+      <node-status-id nil="true"></node-status-id>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 638. New York: Oxford University Press. ISBN 0199255911</publications>
+      <codes>ayma</codes>
+      <alt-names></alt-names>
+      <is-default type="integer">0</is-default>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <end-date nil="true"></end-date>
+      <created-at type="datetime">2009-05-19T17:52:52-04:00</created-at>
+      <updated-by>joe_leif</updated-by>
+      <pri-name>Aymaran</pri-name>
+      <geography nil="true"></geography>
+      <id type="integer">418101</id>
+      <node-type>Subgroup</node-type>
+      <sureness type="integer">0</sureness>
+      <creator-id type="integer">10740</creator-id>
+      <children type="array">
+        <child>
+          <tree-id type="integer">12454</tree-id>
+          <deleted-at nil="true"></deleted-at>
+          <created-by>joe_leif</created-by>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <tree-val>Aymaran: Dryer 2005</tree-val>
+          <start-date nil="true"></start-date>
+          <other-codes>jaq</other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 638. New York: Oxford University Press. ISBN 0199255911</publications>
+          <codes>jqr</codes>
+          <alt-names></alt-names>
+          <is-default type="integer">0</is-default>
+          <pub-comments></pub-comments>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-05-19T17:52:52-04:00</created-at>
+          <updated-by>joe_leif</updated-by>
+          <pri-name>Jaqaru</pri-name>
+          <geography>Country: Peru; Lat.: -13; Long.: -76</geography>
+          <id type="integer">418103</id>
+          <node-type>Language</node-type>
+          <sureness type="integer">0</sureness>
+          <creator-id type="integer">10740</creator-id>
+          <children type="array"/>
+          <updated-at type="datetime">2009-05-19T17:52:52-04:00</updated-at>
+          <status nil="true"></status>
+        </child>
+        <child>
+          <tree-id type="integer">12454</tree-id>
+          <deleted-at nil="true"></deleted-at>
+          <created-by>joe_leif</created-by>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <tree-val>Aymaran: Dryer 2005</tree-val>
+          <start-date nil="true"></start-date>
+          <other-codes>aym</other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 638. New York: Oxford University Press. ISBN 0199255911</publications>
+          <codes>ayc, ayr</codes>
+          <alt-names>2 varieties: Aymara (Central)/Aymara (Southern)</alt-names>
+          <is-default type="integer">0</is-default>
+          <pub-comments>it has 2 varieties in Ethnologue: Aymara (Central)/Aymara (Southern)</pub-comments>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-05-19T17:52:52-04:00</created-at>
+          <updated-by>joe_leif</updated-by>
+          <pri-name>Aymara</pri-name>
+          <geography>Country: Bolivia, Peru, Chile; Lat.: -17; Long.: -69</geography>
+          <id type="integer">418102</id>
+          <node-type>Language</node-type>
+          <sureness type="integer">0</sureness>
+          <creator-id type="integer">10740</creator-id>
+          <children type="array"/>
+          <updated-at type="datetime">2009-05-19T17:52:52-04:00</updated-at>
+          <status nil="true"></status>
+        </child>
+      </children>
+      <updated-at type="datetime">2009-05-19T17:52:52-04:00</updated-at>
+      <status nil="true"></status>
+    </root>
+    <description>Aymaran: Dryer 2005</description>
+  </tree>
+</hash>

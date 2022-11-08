@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <node-type>Subgroup</node-type>
+      <node-status-id nil="true"></node-status-id>
+      <updater-id type="integer">10740</updater-id>
+      <pub-comments>This is a subtree of the unclassified language tree provided in Ethnologue.  It has been broken into regions for ease of searching.</pub-comments>
+      <created-by>joe_leif</created-by>
+      <confidence>Y</confidence>
+      <updated-by>joe_leif</updated-by>
+      <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+      <node-type-id type="integer">10000</node-type-id>
+      <deleted-at nil="true"></deleted-at>
+      <tree-val>North American Unclassified Languages: Ethnologue 2005</tree-val>
+      <sureness type="integer">0</sureness>
+      <start-date nil="true"></start-date>
+      <is-default type="integer">0</is-default>
+      <children type="array">
+        <child>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <updater-id type="integer">10740</updater-id>
+          <pub-comments></pub-comments>
+          <created-by>joe_leif</created-by>
+          <confidence>Y</confidence>
+          <updated-by>joe_leif</updated-by>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <node-type-id type="integer">10001</node-type-id>
+          <deleted-at nil="true"></deleted-at>
+          <tree-val>North American Unclassified Languages: Ethnologue 2005</tree-val>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <is-default type="integer">0</is-default>
+          <children type="array"/>
+          <geography>Canada:   Newfoundland</geography>
+          <created-at type="datetime">2009-04-30T10:27:59-04:00</created-at>
+          <updated-at type="datetime">2009-04-30T10:27:59-04:00</updated-at>
+          <id type="integer">370793</id>
+          <pri-name>Beothuk</pri-name>
+          <codes>beo</codes>
+          <status>Extinct</status>
+          <other-codes></other-codes>
+          <end-date>1829.0</end-date>
+          <creator-id type="integer">10740</creator-id>
+          <tree-id type="integer">11967</tree-id>
+          <alt-names>Beothuc, Bethuck, Bethuk, Newfoundland, Red Indians</alt-names>
+        </child>
+        <child>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <updater-id type="integer">10740</updater-id>
+          <pub-comments></pub-comments>
+          <created-by>joe_leif</created-by>
+          <confidence>Y</confidence>
+          <updated-by>joe_leif</updated-by>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <node-type-id type="integer">10001</node-type-id>
+          <deleted-at nil="true"></deleted-at>
+          <tree-val>North American Unclassified Languages: Ethnologue 2005</tree-val>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <is-default type="integer">0</is-default>
+          <children type="array"/>
+          <geography>USA</geography>
+          <created-at type="datetime">2009-04-30T10:27:59-04:00</created-at>
+          <updated-at type="datetime">2009-04-30T10:27:59-04:00</updated-at>
+          <id type="integer">370792</id>
+          <pri-name>Amerax</pri-name>
+          <codes>aex</codes>
+          <status nil="true"></status>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <tree-id type="integer">11967</tree-id>
+          <alt-names></alt-names>
+        </child>
+      </children>
+      <geography>North America</geography>
+      <created-at type="datetime">2009-04-30T10:27:59-04:00</created-at>
+      <updated-at type="datetime">2009-04-30T10:27:59-04:00</updated-at>
+      <id type="integer">370791</id>
+      <pri-name>North American Unclassified</pri-name>
+      <codes>naun</codes>
+      <status nil="true"></status>
+      <other-codes></other-codes>
+      <end-date nil="true"></end-date>
+      <creator-id type="integer">10740</creator-id>
+      <tree-id type="integer">11967</tree-id>
+      <alt-names></alt-names>
+    </root>
+    <description>North American Unclassified Languages: Ethnologue 2005</description>
+  </tree>
+</hash>

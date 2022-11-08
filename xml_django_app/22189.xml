@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Pacific</region>    <region>Pacific</region>
+    <root>
+      <status nil="true"></status>
+      <node-type>Subgroup</node-type>
+      <is-default type="integer">0</is-default>
+      <created-by>joe_leif</created-by>
+      <alt-names>Alor-Pantar</alt-names>
+      <id type="integer">871844</id>
+      <updated-at type="datetime">2013-06-04T09:23:14-04:00</updated-at>
+      <other-codes></other-codes>
+      <codes>prap</codes>
+      <confidence>y</confidence>
+      <updater-id type="integer">10740</updater-id>
+      <pub-comments>"...the lexical data do not support a connection between Alor-Pantar and Trans-New Guinea languages. [&#8230;] Crucially, this point should not be taken as a claim that the Alor-Pantar languages do not belong to the Trans-New Guinea family: until an alternate genealogical link is established, such a negative claim will remain impossible to prove.  Rather, our claim is a more narrow one: in the absence of supporting evidence, Alor-Pantar should be considered a distinct family unrelated to Trans-New Guinea" (Holton 2012:117-18.</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <created-at type="datetime">2013-06-04T09:23:13-04:00</created-at>
+      <children type="array">
+        <child>
+          <status nil="true"></status>
+          <node-type>Subgroup</node-type>
+          <is-default type="integer">0</is-default>
+          <created-by>joe_leif</created-by>
+          <alt-names></alt-names>
+          <id type="integer">871852</id>
+          <updated-at type="datetime">2013-06-04T09:23:14-04:00</updated-at>
+          <other-codes></other-codes>
+          <codes>alkt</codes>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <created-at type="datetime">2013-06-04T09:23:14-04:00</created-at>
+          <children type="array">
+            <child>
+              <status nil="true"></status>
+              <node-type>Subgroup</node-type>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <id type="integer">871862</id>
+              <updated-at type="datetime">2013-06-04T09:23:15-04:00</updated-at>
+              <other-codes></other-codes>
+              <codes>ealo</codes>
+              <confidence>y</confidence>
+              <updater-id type="integer">10740</updater-id>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-06-04T09:23:15-04:00</created-at>
+              <children type="array">
+                <child>
+                  <status nil="true"></status>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <created-by>joe_leif</created-by>
+                  <alt-names>Tanglapui</alt-names>
+                  <id type="integer">871863</id>
+                  <updated-at type="datetime">2013-06-04T09:23:15-04:00</updated-at>
+                  <other-codes></other-codes>
+                  <codes>tpg, swt</codes>
+                  <confidence>y</confidence>
+                  <updater-id type="integer">10740</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <created-at type="datetime">2013-06-04T09:23:15-04:00</created-at>
+                  <children type="array"/>
+                  <creator-id type="integer">10740</creator-id>
+                  <publications>Holton, Gary , Marian  Klamer, Frantisek  Kratochvil, Laura C Robinson &amp; Antoinette  Schapper. 2012. The Historical Relations of the Papuan  Languages of Alor and Pantar, Oceanic Linguistics, 1 edn., vol. 51, 86-122. </publications>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <tree-id type="integer">22189</tree-id>
+                  <tree-val>Alor-Pantar: Holton 2012</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <end-date nil="true"></end-date>
+                  <updated-by>joe_leif</updated-by>
+                  <start-date nil="true"></start-date>
+                  <pri-name>Sawila</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                </child>
+                <child>
+                  <status nil="true"></status>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <created-by>joe_leif</created-by>
+                  <alt-names>Kolana</alt-names>
+                  <id type="integer">871864</id>
+                  <updated-at type="datetime">2013-06-04T09:23:15-04:00</updated-at>
+                  <other-codes></other-codes>
+                  <codes>kvw</codes>
+                  <confidence>y</confidence>
+                  <updater-id type="integer">10740</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <created-at type="datetime">2013-06-04T09:23:15-04:00</created-at>
+                  <children type="array"/>
+                  <creator-id type="integer">10740</creator-id>
+                  <publications>Holton, Gary , Marian  Klamer, Frantisek  Kratochvil, Laura C Robinson &amp; Antoinette  Schapper. 2012. The Historical Relations of the Papuan  Languages of Alor and Pantar, Oceanic Linguistics, 1 edn., vol. 51, 86-122. </publications>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <tree-id type="integer">22189</tree-id>
+                  <tree-val>Alor-Pantar: Holton 2012</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <end-date nil="true"></end-date>
+                  <updated-by>joe_leif</updated-by>
+                  <start-date nil="true"></start-date>
+                  <pri-name>Wersing</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                </child>
+              </children>
+              <creator-id type="integer">10740</creator-id>
+              <publications>Holton, Gary , Marian  Klamer, Frantisek  Kratochvil, Laura C Robinson &amp; Antoinette  Schapper. 2012. The Historical Relations of the Papuan  Languages of Alor and Pantar, Oceanic Linguistics, 1 edn., vol. 51, 86-122. </publications>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <tree-id type="integer">22189</tree-id>
+              <tree-val>Alor-Pantar: Holton 2012</tree-val>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <pri-name>East Alor</pri-name>
+              <node-type-id type="integer">10000</node-type-id>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-type>Subgroup</node-type>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <id type="integer">871853</id>
+              <updated-at type="datetime">2013-06-04T09:23:14-04:00</updated-at>
+              <other-codes></other-codes>
+              <codes>walo</codes>
+              <confidence>y</confidence>
+              <updater-id type="integer">10740</updater-id>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-06-04T09:23:14-04:00</created-at>
+              <children type="array">
+                <child>
+                  <status nil="true"></status>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <created-by>joe_leif</created-by>
+                  <alt-names>Kelon</alt-names>
+                  <id type="integer">871858</id>
+                  <updated-at type="datetime">2013-06-04T09:23:15-04:00</updated-at>
+                  <other-codes></other-codes>
+                  <codes>kyo</codes>
+                  <confidence>y</confidence>
+                  <updater-id type="integer">10740</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <created-at type="datetime">2013-06-04T09:23:14-04:00</created-at>
+                  <children type="array"/>
+                  <creator-id type="integer">10740</creator-id>
+                  <publications>Holton, Gary , Marian  Klamer, Frantisek  Kratochvil, Laura C Robinson &amp; Antoinette  Schapper. 2012. The Historical Relations of the Papuan  Languages of Alor and Pantar, Oceanic Linguistics, 1 edn., vol. 51, 86-122. </publications>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <tree-id type="integer">22189</tree-id>
+                  <tree-val>Alor-Pantar: Holton 2012</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <end-date nil="true"></end-date>
+                  <updated-by>joe_leif</updated-by>
+                  <start-date nil="true"></start-date>
+                  <pri-name>Klon</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                </child>
+                <child>
+                  <status nil="true"></status>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="integer">0</is-default>
+                  <created-by>joe_leif</created-by>
+                  <alt-names>Straits</alt-names>
+                  <id type="integer">871854</id>
+                  <updated-at type="datetime">2013-06-04T09:23:14-04:00</updated-at>
+                  <other-codes></other-codes>
+                  <codes>pant</codes>
+                  <confidence>y</confidence>
+                  <updater-id type="integer">10740</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <created-at type="datetime">2013-06-04T09:23:14-04:00</created-at>
+                  <children type="array">
+                    <child>
+                      <status nil="true"></status>
+                      <node-type>Language</node-type>
+                      <is-default type="integer">0</is-default>
+                      <created-by>joe_leif</created-by>
+                      <alt-names></alt-names>
+                      <id type="integer">871857</id>
+                      <updated-at type="datetime">2013-06-04T09:23:14-04:00</updated-at>
+                      <other-codes></other-codes>
+                      <codes>and</codes>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <created-at type="datetime">2013-06-04T09:23:14-04:00</created-at>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <publications>Holton, Gary , Marian  Klamer, Frantisek  Kratochvil, Laura C Robinson &amp; Antoinette  Schapper. 2012. The Historical Relations of the Papuan  Languages of Alor and Pantar, Oceanic Linguistics, 1 edn., vol. 51, 86-122. </publications>
+                      <geography nil="true"></geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <tree-id type="integer">22189</tree-id>
+                      <tree-val>Alor-Pantar: Holton 2012</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <updated-by>joe_leif</updated-by>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Adang</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                    </child>
+                    <child>
+                      <status nil="true"></status>
+                      <node-type>Language</node-type>
+                      <is-default type="integer">0</is-default>
+                      <created-by>joe_leif</created-by>
+                      <alt-names></alt-names>
+                      <id type="integer">871855</id>
+                      <updated-at type="datetime">2013-06-04T09:23:14-04:00</updated-at>
+                      <other-codes></other-codes>
+                      <codes>beu</codes>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments>"Blagar exhibits signi&#64257;cant dialect variation with respect to the consonants. Unless otherwise noted, the data cited in this paper are from the Nuhawala &#8220;Nule&#8221; dialect spoken on Pantar" (Holton 2012:91).</pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <created-at type="datetime">2013-06-04T09:23:14-04:00</created-at>
+                      <children type="array">
+                        <child>
+                          <status nil="true"></status>
+                          <node-type>Dialect</node-type>
+                          <is-default type="integer">0</is-default>
+                          <created-by>joe_leif</created-by>
+                          <alt-names>Nule</alt-names>
+                          <id type="integer">871856</id>
+                          <updated-at type="datetime">2013-06-04T09:23:14-04:00</updated-at>
+                          <other-codes></other-codes>
+                          <codes>beu-nuh</codes>
+                          <confidence>y</confidence>
+                          <updater-id type="integer">10740</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-status-id nil="true"></node-status-id>
+                          <created-at type="datetime">2013-06-04T09:23:14-04:00</created-at>
+                          <children type="array"/>
+                          <creator-id type="integer">10740</creator-id>
+                          <publications>Holton, Gary , Marian  Klamer, Frantisek  Kratochvil, Laura C Robinson &amp; Antoinette  Schapper. 2012. The Historical Relations of the Papuan  Languages of Alor and Pantar, Oceanic Linguistics, 1 edn., vol. 51, 86-122. </publications>
+                          <geography nil="true"></geography>
+                          <deleted-at nil="true"></deleted-at>
+                          <tree-id type="integer">22189</tree-id>
+                          <tree-val>Alor-Pantar: Holton 2012</tree-val>
+                          <sureness type="integer">0</sureness>
+                          <end-date nil="true"></end-date>
+                          <updated-by>joe_leif</updated-by>
+                          <start-date nil="true"></start-date>
+                          <pri-name>Nuhawala</pri-name>
+                          <node-type-id type="integer">10003</node-type-id>
+                        </child>
+                      </children>
+                      <creator-id type="integer">10740</creator-id>
+                      <publications>Holton, Gary , Marian  Klamer, Frantisek  Kratochvil, Laura C Robinson &amp; Antoinette  Schapper. 2012. The Historical Relations of the Papuan  Languages of Alor and Pantar, Oceanic Linguistics, 1 edn., vol. 51, 86-122. </publications>
+                      <geography nil="true"></geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <tree-id type="integer">22189</tree-id>
+                      <tree-val>Alor-Pantar: Holton 2012</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <updated-by>joe_leif</updated-by>
+                      <start-date nil="true"></start-date>
+                      <pri-name>Blagar</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                    </child>
+                  </children>
+                  <creator-id type="integer">10740</creator-id>
+                  <publications>Holton, Gary , Marian  Klamer, Frantisek  Kratochvil, Laura C Robinson &amp; Antoinette  Schapper. 2012. The Historical Relations of the Papuan  Languages of Alor and Pantar, Oceanic Linguistics, 1 edn., vol. 51, 86-122. </publications>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <tree-id type="integer">22189</tree-id>
+                  <tree-val>Alor-Pantar: Holton 2012</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <end-date nil="true"></end-date>
+                  <updated-by>joe_leif</updated-by>
+                  <start-date nil="true"></start-date>
+                  <pri-name>Pantar Strait</pri-name>
+                  <node-type-id type="integer">10000</node-type-id>
+                </child>
+              </children>
+              <creator-id type="integer">10740</creator-id>
+              <publications>Holton, Gary , Marian  Klamer, Frantisek  Kratochvil, Laura C Robinson &amp; Antoinette  Schapper. 2012. The Historical Relations of the Papuan  Languages of Alor and Pantar, Oceanic Linguistics, 1 edn., vol. 51, 86-122. </publications>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <tree-id type="integer">22189</tree-id>
+              <tree-val>Alor-Pantar: Holton 2012</tree-val>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <pri-name>West Alor</pri-name>
+              <node-type-id type="integer">10000</node-type-id>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-type>Language</node-type>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <id type="integer">871860</id>
+              <updated-at type="datetime">2013-06-04T09:23:15-04:00</updated-at>
+              <other-codes></other-codes>
+              <codes>abz</codes>
+              <confidence>y</confidence>
+              <updater-id type="integer">10740</updater-id>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-06-04T09:23:15-04:00</created-at>
+              <children type="array"/>
+              <creator-id type="integer">10740</creator-id>
+              <publications>Holton, Gary , Marian  Klamer, Frantisek  Kratochvil, Laura C Robinson &amp; Antoinette  Schapper. 2012. The Historical Relations of the Papuan  Languages of Alor and Pantar, Oceanic Linguistics, 1 edn., vol. 51, 86-122. </publications>
+              <geography>spoken in the highlands of central Alor</geography>
+              <deleted-at nil="true"></deleted-at>
+              <tree-id type="integer">22189</tree-id>
+              <tree-val>Alor-Pantar: Holton 2012</tree-val>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <pri-name>Abui</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-type>Language</node-type>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <id type="integer">871859</id>
+              <updated-at type="datetime">2013-06-04T09:23:15-04:00</updated-at>
+              <other-codes></other-codes>
+              <codes>kvd</codes>
+              <confidence>y</confidence>
+              <updater-id type="integer">10740</updater-id>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-06-04T09:23:15-04:00</created-at>
+              <children type="array"/>
+              <creator-id type="integer">10740</creator-id>
+              <publications>Holton, Gary , Marian  Klamer, Frantisek  Kratochvil, Laura C Robinson &amp; Antoinette  Schapper. 2012. The Historical Relations of the Papuan  Languages of Alor and Pantar, Oceanic Linguistics, 1 edn., vol. 51, 86-122. </publications>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <tree-id type="integer">22189</tree-id>
+              <tree-val>Alor-Pantar: Holton 2012</tree-val>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <pri-name>Kui</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-type>Language</node-type>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <alt-names>Woisika</alt-names>
+              <id type="integer">871861</id>
+              <updated-at type="datetime">2013-06-04T09:23:15-04:00</updated-at>
+              <other-codes></other-codes>
+              <codes>woi</codes>
+              <confidence>y</confidence>
+              <updater-id type="integer">10740</updater-id>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-06-04T09:23:15-04:00</created-at>
+              <children type="array"/>
+              <creator-id type="integer">10740</creator-id>
+              <publications>Holton, Gary , Marian  Klamer, Frantisek  Kratochvil, Laura C Robinson &amp; Antoinette  Schapper. 2012. The Historical Relations of the Papuan  Languages of Alor and Pantar, Oceanic Linguistics, 1 edn., vol. 51, 86-122. </publications>
+              <geography>spoken in the highlands of central Alor</geography>
+              <deleted-at nil="true"></deleted-at>
+              <tree-id type="integer">22189</tree-id>
+              <tree-val>Alor-Pantar: Holton 2012</tree-val>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <pri-name>Kamang</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+            </child>
+          </children>
+          <creator-id type="integer">10740</creator-id>
+          <publications>Holton, Gary , Marian  Klamer, Frantisek  Kratochvil, Laura C Robinson &amp; Antoinette  Schapper. 2012. The Historical Relations of the Papuan  Languages of Alor and Pantar, Oceanic Linguistics, 1 edn., vol. 51, 86-122. </publications>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <tree-id type="integer">22189</tree-id>
+          <tree-val>Alor-Pantar: Holton 2012</tree-val>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+          <pri-name>Alor</pri-name>
+          <node-type-id type="integer">10000</node-type-id>
+        </child>
+        <child>
+          <status nil="true"></status>
+          <node-type>Language</node-type>
+          <is-default type="integer">0</is-default>
+          <created-by>joe_leif</created-by>
+          <alt-names></alt-names>
+          <id type="integer">871846</id>
+          <updated-at type="datetime">2013-06-04T09:23:14-04:00</updated-at>
+          <other-codes></other-codes>
+          <codes>nec</codes>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <created-at type="datetime">2013-06-04T09:23:14-04:00</created-at>
+          <children type="array"/>
+          <creator-id type="integer">10740</creator-id>
+          <publications>Holton, Gary , Marian  Klamer, Frantisek  Kratochvil, Laura C Robinson &amp; Antoinette  Schapper. 2012. The Historical Relations of the Papuan  Languages of Alor and Pantar, Oceanic Linguistics, 1 edn., vol. 51, 86-122. </publications>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <tree-id type="integer">22189</tree-id>
+          <tree-val>Alor-Pantar: Holton 2012</tree-val>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+          <pri-name>Nedebang</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+        </child>
+        <child>
+          <status nil="true"></status>
+          <node-type>Language</node-type>
+          <is-default type="integer">0</is-default>
+          <created-by>joe_leif</created-by>
+          <alt-names></alt-names>
+          <id type="integer">871847</id>
+          <updated-at type="datetime">2013-06-04T09:23:14-04:00</updated-at>
+          <other-codes></other-codes>
+          <codes>08y</codes>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <created-at type="datetime">2013-06-04T09:23:14-04:00</created-at>
+          <children type="array"/>
+          <creator-id type="integer">10740</creator-id>
+          <publications>Holton, Gary , Marian  Klamer, Frantisek  Kratochvil, Laura C Robinson &amp; Antoinette  Schapper. 2012. The Historical Relations of the Papuan  Languages of Alor and Pantar, Oceanic Linguistics, 1 edn., vol. 51, 86-122. </publications>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <tree-id type="integer">22189</tree-id>
+          <tree-val>Alor-Pantar: Holton 2012</tree-val>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+          <pri-name>Kaera</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+        </child>
+        <child>
+          <status nil="true"></status>
+          <node-type>Language</node-type>
+          <is-default type="integer">0</is-default>
+          <created-by>joe_leif</created-by>
+          <alt-names></alt-names>
+          <id type="integer">871845</id>
+          <updated-at type="datetime">2013-06-04T09:23:14-04:00</updated-at>
+          <other-codes></other-codes>
+          <codes>twe</codes>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <created-at type="datetime">2013-06-04T09:23:14-04:00</created-at>
+          <children type="array"/>
+          <creator-id type="integer">10740</creator-id>
+          <publications>Holton, Gary , Marian  Klamer, Frantisek  Kratochvil, Laura C Robinson &amp; Antoinette  Schapper. 2012. The Historical Relations of the Papuan  Languages of Alor and Pantar, Oceanic Linguistics, 1 edn., vol. 51, 86-122. </publications>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <tree-id type="integer">22189</tree-id>
+          <tree-val>Alor-Pantar: Holton 2012</tree-val>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+          <pri-name>Teiwa</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+        </child>
+        <child>
+          <status nil="true"></status>
+          <node-type>Dialect Group</node-type>
+          <is-default type="integer">0</is-default>
+          <created-by>joe_leif</created-by>
+          <alt-names>Lamma</alt-names>
+          <id type="integer">871848</id>
+          <updated-at type="datetime">2013-06-04T09:23:14-04:00</updated-at>
+          <other-codes></other-codes>
+          <codes>lev</codes>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <pub-comments>"Western Pantar is a cover label &#64257;rst used by Holton (2004) for three mutually intelligible dialects: Mauta, Tubbe, and Lamma (labels are based on clan names). The name &#8220;Lamma&#8221; is used in Stokhof (1975) for all varieties of the language" (Holton 2012:91).</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <created-at type="datetime">2013-06-04T09:23:14-04:00</created-at>
+          <children type="array">
+            <child>
+              <status nil="true"></status>
+              <node-type>Dialect</node-type>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <id type="integer">871850</id>
+              <updated-at type="datetime">2013-06-04T09:23:14-04:00</updated-at>
+              <other-codes></other-codes>
+              <codes>lev-tub</codes>
+              <confidence>y</confidence>
+              <updater-id type="integer">10740</updater-id>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-06-04T09:23:14-04:00</created-at>
+              <children type="array"/>
+              <creator-id type="integer">10740</creator-id>
+              <publications>Holton, Gary , Marian  Klamer, Frantisek  Kratochvil, Laura C Robinson &amp; Antoinette  Schapper. 2012. The Historical Relations of the Papuan  Languages of Alor and Pantar, Oceanic Linguistics, 1 edn., vol. 51, 86-122. </publications>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <tree-id type="integer">22189</tree-id>
+              <tree-val>Alor-Pantar: Holton 2012</tree-val>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <pri-name>Tubbe</pri-name>
+              <node-type-id type="integer">10003</node-type-id>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-type>Dialect</node-type>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <id type="integer">871849</id>
+              <updated-at type="datetime">2013-06-04T09:23:14-04:00</updated-at>
+              <other-codes></other-codes>
+              <codes>lev-tub</codes>
+              <confidence>y</confidence>
+              <updater-id type="integer">10740</updater-id>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-06-04T09:23:14-04:00</created-at>
+              <children type="array"/>
+              <creator-id type="integer">10740</creator-id>
+              <publications>Holton, Gary , Marian  Klamer, Frantisek  Kratochvil, Laura C Robinson &amp; Antoinette  Schapper. 2012. The Historical Relations of the Papuan  Languages of Alor and Pantar, Oceanic Linguistics, 1 edn., vol. 51, 86-122. </publications>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <tree-id type="integer">22189</tree-id>
+              <tree-val>Alor-Pantar: Holton 2012</tree-val>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <pri-name>Mauta</pri-name>
+              <node-type-id type="integer">10003</node-type-id>
+            </child>
+            <child>
+              <status nil="true"></status>
+              <node-type>Dialect</node-type>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <id type="integer">871851</id>
+              <updated-at type="datetime">2013-06-04T09:23:14-04:00</updated-at>
+              <other-codes></other-codes>
+              <codes>lev</codes>
+              <confidence>y</confidence>
+              <updater-id type="integer">10740</updater-id>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-06-04T09:23:14-04:00</created-at>
+              <children type="array"/>
+              <creator-id type="integer">10740</creator-id>
+              <publications>Holton, Gary , Marian  Klamer, Frantisek  Kratochvil, Laura C Robinson &amp; Antoinette  Schapper. 2012. The Historical Relations of the Papuan  Languages of Alor and Pantar, Oceanic Linguistics, 1 edn., vol. 51, 86-122. </publications>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <tree-id type="integer">22189</tree-id>
+              <tree-val>Alor-Pantar: Holton 2012</tree-val>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <pri-name>Lamma</pri-name>
+              <node-type-id type="integer">10003</node-type-id>
+            </child>
+          </children>
+          <creator-id type="integer">10740</creator-id>
+          <publications>Holton, Gary , Marian  Klamer, Frantisek  Kratochvil, Laura C Robinson &amp; Antoinette  Schapper. 2012. The Historical Relations of the Papuan  Languages of Alor and Pantar, Oceanic Linguistics, 1 edn., vol. 51, 86-122. </publications>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <tree-id type="integer">22189</tree-id>
+          <tree-val>Alor-Pantar: Holton 2012</tree-val>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+          <pri-name>Western Pantar</pri-name>
+          <node-type-id type="integer">10004</node-type-id>
+        </child>
+      </children>
+      <creator-id type="integer">10740</creator-id>
+      <publications>Holton, Gary , Marian  Klamer, Frantisek  Kratochvil, Laura C Robinson &amp; Antoinette  Schapper. 2012. The Historical Relations of the Papuan  Languages of Alor and Pantar, Oceanic Linguistics, 1 edn., vol. 51, 86-122. </publications>
+      <geography>across the islands of the Alor archipelago, Timor, and Kisar in southeast Indonesia; Alor-Pantar archipelago, de&#64257;ned as the islands of Alor and Pantar together with the small islands in the intervening Pantar Strait</geography>
+      <deleted-at nil="true"></deleted-at>
+      <tree-id type="integer">22189</tree-id>
+      <tree-val>Alor-Pantar: Holton 2012</tree-val>
+      <sureness type="integer">0</sureness>
+      <end-date nil="true"></end-date>
+      <updated-by>joe_leif</updated-by>
+      <start-date nil="true"></start-date>
+      <pri-name>Proto Alor-Pantar</pri-name>
+      <node-type-id type="integer">10000</node-type-id>
+    </root>
+    <description>Alor-Pantar: Holton 2012</description>
+  </tree>
+</hash>

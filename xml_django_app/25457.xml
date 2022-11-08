@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>
+    <root>
+      <id type="integer">999733</id>
+      <tree-id type="integer">25457</tree-id>
+      <sureness type="integer">0</sureness>
+      <confidence>y</confidence>
+      <pub-comments>&#8220;Austroasiatic (about 150 languages), comprising the 11 branches of Mon-Khmer plus the Munda languages of India&#8221; (Matisoff 2006:295).</pub-comments>
+      <other-codes></other-codes>
+      <updated-at type="datetime">2013-09-05T11:48:13-04:00</updated-at>
+      <pri-name>Austroasiatic</pri-name>
+      <node-type>Subgroup</node-type>
+      <creator-id type="integer">10720</creator-id>
+      <codes>ausa</codes>
+      <node-type-id type="integer">10000</node-type-id>
+      <start-date nil="true"></start-date>
+      <deleted-at nil="true"></deleted-at>
+      <children type="array">
+        <child>
+          <id type="integer">999735</id>
+          <tree-id type="integer">25457</tree-id>
+          <sureness type="integer">0</sureness>
+          <confidence>y</confidence>
+          <pub-comments></pub-comments>
+          <other-codes></other-codes>
+          <updated-at type="datetime">2013-09-05T11:48:19-04:00</updated-at>
+          <pri-name>Mon-Khmer</pri-name>
+          <node-type>Subgroup</node-type>
+          <creator-id type="integer">10720</creator-id>
+          <codes>mkhm</codes>
+          <node-type-id type="integer">10000</node-type-id>
+          <start-date nil="true"></start-date>
+          <deleted-at nil="true"></deleted-at>
+          <children type="array">
+            <child>
+              <id type="integer">999740</id>
+              <tree-id type="integer">25457</tree-id>
+              <sureness type="integer">0</sureness>
+              <confidence>y</confidence>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <updated-at type="datetime">2013-09-05T11:48:21-04:00</updated-at>
+              <pri-name>South-East Mon-Khmer</pri-name>
+              <node-type>Subgroup</node-type>
+              <creator-id type="integer">10720</creator-id>
+              <codes>semk</codes>
+              <node-type-id type="integer">10000</node-type-id>
+              <start-date nil="true"></start-date>
+              <deleted-at nil="true"></deleted-at>
+              <children type="array">
+                <child>
+                  <id type="integer">999741</id>
+                  <tree-id type="integer">25457</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <updated-at type="datetime">2013-09-05T11:48:22-04:00</updated-at>
+                  <pri-name>Southern Mon-Khmer</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <creator-id type="integer">10720</creator-id>
+                  <codes>smkh</codes>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <children type="array">
+                    <child>
+                      <id type="integer">999744</id>
+                      <tree-id type="integer">25457</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <updated-at type="datetime">2013-09-05T11:48:23-04:00</updated-at>
+                      <pri-name>Monic</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <creator-id type="integer">10720</creator-id>
+                      <codes>moni</codes>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+                      <is-default type="integer">0</is-default>
+                      <end-date nil="true"></end-date>
+                      <created-at type="datetime">2013-09-05T11:48:23-04:00</created-at>
+                      <updater-id type="integer">10720</updater-id>
+                      <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography>Burma, Thailand</geography>
+                      <alt-names></alt-names>
+                    </child>
+                    <child>
+                      <id type="integer">999742</id>
+                      <tree-id type="integer">25457</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <updated-at type="datetime">2013-09-05T11:48:22-04:00</updated-at>
+                      <pri-name>Nicobarese</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <creator-id type="integer">10720</creator-id>
+                      <codes>nico</codes>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+                      <is-default type="integer">0</is-default>
+                      <end-date nil="true"></end-date>
+                      <created-at type="datetime">2013-09-05T11:48:22-04:00</created-at>
+                      <updater-id type="integer">10720</updater-id>
+                      <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography>Nicobars</geography>
+                      <alt-names></alt-names>
+                    </child>
+                    <child>
+                      <id type="integer">999743</id>
+                      <tree-id type="integer">25457</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <updated-at type="datetime">2013-09-05T11:48:23-04:00</updated-at>
+                      <pri-name>Aslian</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <creator-id type="integer">10720</creator-id>
+                      <codes>asli</codes>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+                      <is-default type="integer">0</is-default>
+                      <end-date nil="true"></end-date>
+                      <created-at type="datetime">2013-09-05T11:48:22-04:00</created-at>
+                      <updater-id type="integer">10720</updater-id>
+                      <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography>Malaya</geography>
+                      <alt-names></alt-names>
+                    </child>
+                  </children>
+                  <status nil="true"></status>
+                  <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+                  <is-default type="integer">0</is-default>
+                  <end-date nil="true"></end-date>
+                  <created-at type="datetime">2013-09-05T11:48:21-04:00</created-at>
+                  <updater-id type="integer">10720</updater-id>
+                  <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography nil="true"></geography>
+                  <alt-names></alt-names>
+                </child>
+                <child>
+                  <id type="integer">999745</id>
+                  <tree-id type="integer">25457</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <updated-at type="datetime">2013-09-05T11:48:23-04:00</updated-at>
+                  <pri-name>Eastern Mon-Khmer</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <creator-id type="integer">10720</creator-id>
+                  <codes>emkh</codes>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <children type="array">
+                    <child>
+                      <id type="integer">999749</id>
+                      <tree-id type="integer">25457</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <pub-comments>Node not named by author.</pub-comments>
+                      <other-codes></other-codes>
+                      <updated-at type="datetime">2013-09-05T11:48:24-04:00</updated-at>
+                      <pri-name>Bahnaric-Katuic</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <creator-id type="integer">10720</creator-id>
+                      <codes>bhka</codes>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <children type="array">
+                        <child>
+                          <id type="integer">999750</id>
+                          <tree-id type="integer">25457</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <confidence>y</confidence>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <updated-at type="datetime">2013-09-05T11:48:24-04:00</updated-at>
+                          <pri-name>Bahnaric</pri-name>
+                          <node-type>Subgroup</node-type>
+                          <creator-id type="integer">10720</creator-id>
+                          <codes>bahn</codes>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <children type="array"/>
+                          <status nil="true"></status>
+                          <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+                          <is-default type="integer">0</is-default>
+                          <end-date nil="true"></end-date>
+                          <created-at type="datetime">2013-09-05T11:48:24-04:00</created-at>
+                          <updater-id type="integer">10720</updater-id>
+                          <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+                          <node-status-id nil="true"></node-status-id>
+                          <geography nil="true"></geography>
+                          <alt-names></alt-names>
+                        </child>
+                        <child>
+                          <id type="integer">999751</id>
+                          <tree-id type="integer">25457</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <confidence>y</confidence>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <updated-at type="datetime">2013-09-05T11:48:24-04:00</updated-at>
+                          <pri-name>Katuic</pri-name>
+                          <node-type>Subgroup</node-type>
+                          <creator-id type="integer">10720</creator-id>
+                          <codes>katu</codes>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <children type="array"/>
+                          <status nil="true"></status>
+                          <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+                          <is-default type="integer">0</is-default>
+                          <end-date nil="true"></end-date>
+                          <created-at type="datetime">2013-09-05T11:48:24-04:00</created-at>
+                          <updater-id type="integer">10720</updater-id>
+                          <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+                          <node-status-id nil="true"></node-status-id>
+                          <geography nil="true"></geography>
+                          <alt-names></alt-names>
+                        </child>
+                      </children>
+                      <status nil="true"></status>
+                      <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+                      <is-default type="integer">0</is-default>
+                      <end-date nil="true"></end-date>
+                      <created-at type="datetime">2013-09-05T11:48:24-04:00</created-at>
+                      <updater-id type="integer">10720</updater-id>
+                      <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography>Vietnam</geography>
+                      <alt-names></alt-names>
+                    </child>
+                    <child>
+                      <id type="integer">999746</id>
+                      <tree-id type="integer">25457</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <pub-comments>Node not named by author.</pub-comments>
+                      <other-codes></other-codes>
+                      <updated-at type="datetime">2013-09-05T11:48:24-04:00</updated-at>
+                      <pri-name>Khmeric-Pearic</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <creator-id type="integer">10720</creator-id>
+                      <codes>khpe</codes>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <children type="array">
+                        <child>
+                          <id type="integer">999748</id>
+                          <tree-id type="integer">25457</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <confidence>y</confidence>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <updated-at type="datetime">2013-09-05T11:48:24-04:00</updated-at>
+                          <pri-name>Pearic</pri-name>
+                          <node-type>Subgroup</node-type>
+                          <creator-id type="integer">10720</creator-id>
+                          <codes>pear</codes>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <children type="array"/>
+                          <status nil="true"></status>
+                          <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+                          <is-default type="integer">0</is-default>
+                          <end-date nil="true"></end-date>
+                          <created-at type="datetime">2013-09-05T11:48:24-04:00</created-at>
+                          <updater-id type="integer">10720</updater-id>
+                          <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+                          <node-status-id nil="true"></node-status-id>
+                          <geography nil="true"></geography>
+                          <alt-names></alt-names>
+                        </child>
+                        <child>
+                          <id type="integer">999747</id>
+                          <tree-id type="integer">25457</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <confidence>y</confidence>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <updated-at type="datetime">2013-09-05T11:48:24-04:00</updated-at>
+                          <pri-name>Khmeric</pri-name>
+                          <node-type>Subgroup</node-type>
+                          <creator-id type="integer">10720</creator-id>
+                          <codes>khmr</codes>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <children type="array"/>
+                          <status nil="true"></status>
+                          <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+                          <is-default type="integer">0</is-default>
+                          <end-date nil="true"></end-date>
+                          <created-at type="datetime">2013-09-05T11:48:24-04:00</created-at>
+                          <updater-id type="integer">10720</updater-id>
+                          <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+                          <node-status-id nil="true"></node-status-id>
+                          <geography nil="true"></geography>
+                          <alt-names></alt-names>
+                        </child>
+                      </children>
+                      <status nil="true"></status>
+                      <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+                      <is-default type="integer">0</is-default>
+                      <end-date nil="true"></end-date>
+                      <created-at type="datetime">2013-09-05T11:48:23-04:00</created-at>
+                      <updater-id type="integer">10720</updater-id>
+                      <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography>Cambodia</geography>
+                      <alt-names></alt-names>
+                    </child>
+                  </children>
+                  <status nil="true"></status>
+                  <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+                  <is-default type="integer">0</is-default>
+                  <end-date nil="true"></end-date>
+                  <created-at type="datetime">2013-09-05T11:48:23-04:00</created-at>
+                  <updater-id type="integer">10720</updater-id>
+                  <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography nil="true"></geography>
+                  <alt-names></alt-names>
+                </child>
+              </children>
+              <status nil="true"></status>
+              <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+              <is-default type="integer">0</is-default>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2013-09-05T11:48:21-04:00</created-at>
+              <updater-id type="integer">10720</updater-id>
+              <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <geography nil="true"></geography>
+              <alt-names></alt-names>
+            </child>
+            <child>
+              <id type="integer">999736</id>
+              <tree-id type="integer">25457</tree-id>
+              <sureness type="integer">0</sureness>
+              <confidence>y</confidence>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <updated-at type="datetime">2013-09-05T11:48:20-04:00</updated-at>
+              <pri-name>Northern Mon-Khmer</pri-name>
+              <node-type>Subgroup</node-type>
+              <creator-id type="integer">10720</creator-id>
+              <codes>nmkh</codes>
+              <node-type-id type="integer">10000</node-type-id>
+              <start-date nil="true"></start-date>
+              <deleted-at nil="true"></deleted-at>
+              <children type="array">
+                <child>
+                  <id type="integer">999739</id>
+                  <tree-id type="integer">25457</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <updated-at type="datetime">2013-09-05T11:48:21-04:00</updated-at>
+                  <pri-name>Khmuic</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <creator-id type="integer">10720</creator-id>
+                  <codes>khmc</codes>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <children type="array"/>
+                  <status nil="true"></status>
+                  <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+                  <is-default type="integer">0</is-default>
+                  <end-date nil="true"></end-date>
+                  <created-at type="datetime">2013-09-05T11:48:21-04:00</created-at>
+                  <updater-id type="integer">10720</updater-id>
+                  <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography>Laos</geography>
+                  <alt-names></alt-names>
+                </child>
+                <child>
+                  <id type="integer">999738</id>
+                  <tree-id type="integer">25457</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <updated-at type="datetime">2013-09-05T11:48:21-04:00</updated-at>
+                  <pri-name>Palaungic</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <creator-id type="integer">10720</creator-id>
+                  <codes>palc</codes>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <children type="array"/>
+                  <status nil="true"></status>
+                  <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+                  <is-default type="integer">0</is-default>
+                  <end-date nil="true"></end-date>
+                  <created-at type="datetime">2013-09-05T11:48:20-04:00</created-at>
+                  <updater-id type="integer">10720</updater-id>
+                  <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography>Burma, Yunnan</geography>
+                  <alt-names></alt-names>
+                </child>
+                <child>
+                  <id type="integer">999737</id>
+                  <tree-id type="integer">25457</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <updated-at type="datetime">2013-09-05T11:48:20-04:00</updated-at>
+                  <pri-name>Khasi</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <creator-id type="integer">10720</creator-id>
+                  <codes>khas</codes>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <children type="array"/>
+                  <status nil="true"></status>
+                  <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+                  <is-default type="integer">0</is-default>
+                  <end-date nil="true"></end-date>
+                  <created-at type="datetime">2013-09-05T11:48:20-04:00</created-at>
+                  <updater-id type="integer">10720</updater-id>
+                  <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography>Assam</geography>
+                  <alt-names></alt-names>
+                </child>
+              </children>
+              <status nil="true"></status>
+              <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+              <is-default type="integer">0</is-default>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2013-09-05T11:48:19-04:00</created-at>
+              <updater-id type="integer">10720</updater-id>
+              <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <geography nil="true"></geography>
+              <alt-names></alt-names>
+            </child>
+            <child>
+              <id type="integer">999752</id>
+              <tree-id type="integer">25457</tree-id>
+              <sureness type="integer">0</sureness>
+              <confidence>y</confidence>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <updated-at type="datetime">2013-09-05T11:48:24-04:00</updated-at>
+              <pri-name>Viet-Muong</pri-name>
+              <node-type>Subgroup</node-type>
+              <creator-id type="integer">10720</creator-id>
+              <codes>viem</codes>
+              <node-type-id type="integer">10000</node-type-id>
+              <start-date nil="true"></start-date>
+              <deleted-at nil="true"></deleted-at>
+              <children type="array">
+                <child>
+                  <id type="integer">999754</id>
+                  <tree-id type="integer">25457</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <confidence>n</confidence>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <updated-at type="datetime">2013-09-05T11:48:25-04:00</updated-at>
+                  <pri-name>Vietnamese</pri-name>
+                  <node-type>Language</node-type>
+                  <creator-id type="integer">10720</creator-id>
+                  <codes>vie</codes>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <children type="array"/>
+                  <status nil="true"></status>
+                  <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+                  <is-default type="integer">0</is-default>
+                  <end-date nil="true"></end-date>
+                  <created-at type="datetime">2013-09-05T11:48:25-04:00</created-at>
+                  <updater-id type="integer">10720</updater-id>
+                  <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography nil="true"></geography>
+                  <alt-names></alt-names>
+                </child>
+                <child>
+                  <id type="integer">999753</id>
+                  <tree-id type="integer">25457</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <confidence>n</confidence>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <updated-at type="datetime">2013-09-05T11:48:25-04:00</updated-at>
+                  <pri-name>Muongic</pri-name>
+                  <node-type>Language</node-type>
+                  <creator-id type="integer">10720</creator-id>
+                  <codes>mtq</codes>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <children type="array"/>
+                  <status nil="true"></status>
+                  <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+                  <is-default type="integer">0</is-default>
+                  <end-date nil="true"></end-date>
+                  <created-at type="datetime">2013-09-05T11:48:24-04:00</created-at>
+                  <updater-id type="integer">10720</updater-id>
+                  <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography nil="true"></geography>
+                  <alt-names></alt-names>
+                </child>
+              </children>
+              <status nil="true"></status>
+              <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+              <is-default type="integer">0</is-default>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2013-09-05T11:48:24-04:00</created-at>
+              <updater-id type="integer">10720</updater-id>
+              <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Vietnam</geography>
+              <alt-names></alt-names>
+            </child>
+          </children>
+          <status nil="true"></status>
+          <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+          <is-default type="integer">0</is-default>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2013-09-05T11:48:18-04:00</created-at>
+          <updater-id type="integer">10720</updater-id>
+          <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <alt-names></alt-names>
+        </child>
+        <child>
+          <id type="integer">999734</id>
+          <tree-id type="integer">25457</tree-id>
+          <sureness type="integer">0</sureness>
+          <confidence>y</confidence>
+          <pub-comments></pub-comments>
+          <other-codes></other-codes>
+          <updated-at type="datetime">2013-09-05T11:48:18-04:00</updated-at>
+          <pri-name>Munda</pri-name>
+          <node-type>Subgroup</node-type>
+          <creator-id type="integer">10720</creator-id>
+          <codes>mund</codes>
+          <node-type-id type="integer">10000</node-type-id>
+          <start-date nil="true"></start-date>
+          <deleted-at nil="true"></deleted-at>
+          <children type="array"/>
+          <status nil="true"></status>
+          <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+          <is-default type="integer">0</is-default>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2013-09-05T11:48:13-04:00</created-at>
+          <updater-id type="integer">10720</updater-id>
+          <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+          <node-status-id nil="true"></node-status-id>
+          <geography>E. India</geography>
+          <alt-names></alt-names>
+        </child>
+      </children>
+      <status nil="true"></status>
+      <publications>Matisoff, James A. 2006. Genetic versus Contact Relationship: Prosodic Diffusibility in South-East Asian Languages. In Alexandra Y Aikhenvald &amp; R. M. W. Dixon (eds.), Areal Diffusion and Genetic Inheritance: Problems in Comparative Linguistics, 291-327. USA: Oxford University Press. </publications>
+      <is-default type="integer">0</is-default>
+      <end-date nil="true"></end-date>
+      <created-at type="datetime">2013-09-05T11:48:12-04:00</created-at>
+      <updater-id type="integer">10720</updater-id>
+      <tree-val>Austroasiatic: Matisoff 2006</tree-val>
+      <node-status-id nil="true"></node-status-id>
+      <geography nil="true"></geography>
+      <alt-names></alt-names>
+    </root>
+    <description>Austroasiatic: Matisoff 2006</description>
+  </tree>
+</hash>

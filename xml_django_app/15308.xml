@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <updated-by>joe_leif</updated-by>
+      <is-default type="integer">0</is-default>
+      <id type="integer">608467</id>
+      <geography>Spoken between the Pit River and Lassen Butte</geography>
+      <tree-id type="integer">15308</tree-id>
+      <pub-comments>Derived from the word for "people" in the Yana language. This classification is based upona collection of words by Curtin which seemed to mean the family was distinct.</pub-comments>
+      <pri-name>Yanan</pri-name>
+      <node-type>Subgroup</node-type>
+      <created-at type="datetime">2009-09-01T18:09:59-04:00</created-at>
+      <codes>yana</codes>
+      <sureness type="integer">0</sureness>
+      <updater-id type="integer">10740</updater-id>
+      <deleted-at nil="true"></deleted-at>
+      <updated-at type="datetime">2009-09-01T18:09:59-04:00</updated-at>
+      <status nil="true"></status>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <publications>Powell, J. W. 1891. Indian Linguistic Families of America North of Mexico, 1-142. Washington D.C.: Government Printing Office. </publications>
+      <children type="array">
+        <child>
+          <updated-by>joe_leif</updated-by>
+          <is-default type="integer">0</is-default>
+          <id type="integer">608468</id>
+          <geography nil="true"></geography>
+          <tree-id type="integer">15308</tree-id>
+          <pub-comments>Speakers: 35</pub-comments>
+          <pri-name>Yana</pri-name>
+          <node-type>Language</node-type>
+          <created-at type="datetime">2009-09-01T18:09:59-04:00</created-at>
+          <codes>ynn</codes>
+          <sureness type="integer">0</sureness>
+          <updater-id type="integer">10740</updater-id>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2009-09-01T18:09:59-04:00</updated-at>
+          <status nil="true"></status>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Noje, Nozi</alt-names>
+          <publications>Powell, J. W. 1891. Indian Linguistic Families of America North of Mexico, 1-142. Washington D.C.: Government Printing Office. </publications>
+          <children type="array"/>
+          <tree-val>Yanan: Powell 1891</tree-val>
+          <created-by>joe_leif</created-by>
+          <other-codes></other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <confidence>y</confidence>
+          <start-date nil="true"></start-date>
+        </child>
+      </children>
+      <tree-val>Yanan: Powell 1891</tree-val>
+      <created-by>joe_leif</created-by>
+      <other-codes></other-codes>
+      <node-status-id nil="true"></node-status-id>
+      <end-date nil="true"></end-date>
+      <creator-id type="integer">10740</creator-id>
+      <confidence>y</confidence>
+      <start-date nil="true"></start-date>
+    </root>
+    <description>Yanan: Powell 1891</description>
+  </tree>
+</hash>

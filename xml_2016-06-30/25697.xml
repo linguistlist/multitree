@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Pacific</region>
+    <root>
+      <updated-at type="datetime">2013-09-19T10:39:27-04:00</updated-at>
+      <geography nil="true"></geography>
+      <status nil="true"></status>
+      <node-type-id type="integer">10000</node-type-id>
+      <pri-name>Proto Central Pacific dialect chain</pri-name>
+      <alt-names></alt-names>
+      <tree-val>Proto Central Pacific, a subtree of Austronesian: Pawley 1996</tree-val>
+      <sureness type="integer">0</sureness>
+      <node-type>Subgroup</node-type>
+      <start-date nil="true"></start-date>
+      <codes>ctnp</codes>
+      <is-default type="integer">0</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <created-by>sara</created-by>
+      <updated-by>sara</updated-by>
+      <other-codes></other-codes>
+      <id type="integer">1002733</id>
+      <creator-id type="integer">10621</creator-id>
+      <updater-id type="integer">10621</updater-id>
+      <confidence>y</confidence>
+      <tree-id type="integer">25697</tree-id>
+      <node-status-id nil="true"></node-status-id>
+      <end-date nil="true"></end-date>
+      <publications>Pawley, Andrew K. 1996. On the Position of Rotuman, Reconstruction, classification, description; Festschrift in honor of Isidore Dyen, 259. Hamburg: Abera Verlag. </publications>
+      <pub-comments>&#8220;This pattern of isoglosses [that Rotuman shares with Polynesian and Fijian dialects] is best explained by assuming that a dialect chain developed across Fiji, probably extending into western Polynesia, soon after Oceanic speakers first settled this region.  The Polynesian group stems from the eastern part of this Proto Central Pacific dialect chain.  Rotuman stems from the western part and probably from western Vanua Levu&#8221; (Pawley 1996:109).</pub-comments>
+      <created-at type="datetime">2013-09-19T10:39:27-04:00</created-at>
+      <children type="array">
+        <child>
+          <updated-at type="datetime">2013-09-19T10:39:27-04:00</updated-at>
+          <geography nil="true"></geography>
+          <status nil="true"></status>
+          <node-type-id type="integer">10000</node-type-id>
+          <pri-name>Dialect chain of Western and Central Fiji</pri-name>
+          <alt-names></alt-names>
+          <tree-val>Proto Central Pacific, a subtree of Austronesian: Pawley 1996</tree-val>
+          <sureness type="integer">0</sureness>
+          <node-type>Subgroup</node-type>
+          <start-date nil="true"></start-date>
+          <codes>wcfj</codes>
+          <is-default type="integer">0</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <created-by>sara</created-by>
+          <updated-by>sara</updated-by>
+          <other-codes></other-codes>
+          <id type="integer">1002737</id>
+          <creator-id type="integer">10621</creator-id>
+          <updater-id type="integer">10621</updater-id>
+          <confidence>y</confidence>
+          <tree-id type="integer">25697</tree-id>
+          <node-status-id nil="true"></node-status-id>
+          <end-date nil="true"></end-date>
+          <publications>Pawley, Andrew K. 1996. On the Position of Rotuman, Reconstruction, classification, description; Festschrift in honor of Isidore Dyen, 259. Hamburg: Abera Verlag. </publications>
+          <pub-comments>Editor's note: The code [wcfj] is not to be confused with [wfro], the code for the subgroup Western Fijian-Rotuman that is in the composite tree.  [wfro] implies that Rotuman and Western Fijian are sisters of each other, which is not what Pawley is implying here (see the public comment for Rotuman for direct quotations from the text).  According to Pawley 1996, Rotuman's separation from [wcfj] predates the formation of Western Fijian [wfij] from Proto Fijian [pfij]; it in fact predates Proto Fijian.  So it was necessary to create a new code to differentiate this dialect chain from Western Fijian-Rotuman.</pub-comments>
+          <created-at type="datetime">2013-09-19T10:39:27-04:00</created-at>
+          <children type="array">
+            <child>
+              <updated-at type="datetime">2013-09-19T10:39:27-04:00</updated-at>
+              <geography nil="true"></geography>
+              <status nil="true"></status>
+              <node-type-id type="integer">10000</node-type-id>
+              <pri-name>Proto Fijian dialect chain</pri-name>
+              <alt-names></alt-names>
+              <tree-val>Proto Central Pacific, a subtree of Austronesian: Pawley 1996</tree-val>
+              <sureness type="integer">0</sureness>
+              <node-type>Subgroup</node-type>
+              <start-date nil="true"></start-date>
+              <codes>pfij</codes>
+              <is-default type="integer">0</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <created-by>sara</created-by>
+              <updated-by>sara</updated-by>
+              <other-codes></other-codes>
+              <id type="integer">1002739</id>
+              <creator-id type="integer">10621</creator-id>
+              <updater-id type="integer">10621</updater-id>
+              <confidence>y</confidence>
+              <tree-id type="integer">25697</tree-id>
+              <node-status-id nil="true"></node-status-id>
+              <end-date nil="true"></end-date>
+              <publications>Pawley, Andrew K. 1996. On the Position of Rotuman, Reconstruction, classification, description; Festschrift in honor of Isidore Dyen, 259. Hamburg: Abera Verlag. </publications>
+              <pub-comments>&#8220;Diffusion of innovations across Fiji yields Proto Fijian dialect chain&#8221; (Pawley 1996:95). &#8220;We can speak of a 'Proto Fijian' period, marked by the spread of the pan-Fijian innovations and ending with the divergence of Western Fijian from the rest of the Fijian dialect chain&#8221; (Pawley 1996:110). &#8220;In due course, this partly cohesive old Fijian dialect chain diverged into two fairly well-defined subgroups: Eastern and Western Fijian&#8221; (Pawley 1996:94).</pub-comments>
+              <created-at type="datetime">2013-09-19T10:39:27-04:00</created-at>
+              <children type="array">
+                <child>
+                  <updated-at type="datetime">2013-09-19T10:39:28-04:00</updated-at>
+                  <geography nil="true"></geography>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <pri-name>Western Fijian dialect chain</pri-name>
+                  <alt-names></alt-names>
+                  <tree-val>Proto Central Pacific, a subtree of Austronesian: Pawley 1996</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <node-type>Subgroup</node-type>
+                  <start-date nil="true"></start-date>
+                  <codes>wfij</codes>
+                  <is-default type="integer">0</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-by>sara</created-by>
+                  <updated-by>sara</updated-by>
+                  <other-codes></other-codes>
+                  <id type="integer">1002740</id>
+                  <creator-id type="integer">10621</creator-id>
+                  <updater-id type="integer">10621</updater-id>
+                  <confidence>y</confidence>
+                  <tree-id type="integer">25697</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <end-date nil="true"></end-date>
+                  <publications>Pawley, Andrew K. 1996. On the Position of Rotuman, Reconstruction, classification, description; Festschrift in honor of Isidore Dyen, 259. Hamburg: Abera Verlag. </publications>
+                  <pub-comments>For an extensive breakdown of the internal structure of Western Fijian, see Geraghty 1983.  &#8220;Western Fijian comprises all the communalects spoken west of the central dividing range of Viti Levu, and a few of those spoken on the dividing range and to the east of it, as well as those of the Yasawa and Manmanuca groups and Vatulele Island&#8221; (Pawley 1996:94).</pub-comments>
+                  <created-at type="datetime">2013-09-19T10:39:27-04:00</created-at>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <updated-at type="datetime">2013-09-19T10:39:28-04:00</updated-at>
+                  <geography nil="true"></geography>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <pri-name>Eastern Fijian dialect chain</pri-name>
+                  <alt-names></alt-names>
+                  <tree-val>Proto Central Pacific, a subtree of Austronesian: Pawley 1996</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <node-type>Subgroup</node-type>
+                  <start-date nil="true"></start-date>
+                  <codes>efij</codes>
+                  <is-default type="integer">0</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-by>sara</created-by>
+                  <updated-by>sara</updated-by>
+                  <other-codes></other-codes>
+                  <id type="integer">1002741</id>
+                  <creator-id type="integer">10621</creator-id>
+                  <updater-id type="integer">10621</updater-id>
+                  <confidence>y</confidence>
+                  <tree-id type="integer">25697</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <end-date nil="true"></end-date>
+                  <publications>Pawley, Andrew K. 1996. On the Position of Rotuman, Reconstruction, classification, description; Festschrift in honor of Isidore Dyen, 259. Hamburg: Abera Verlag. </publications>
+                  <pub-comments>For an extensive breakdown of the internal structure of Eastern Fijian, see Geraghty 1983. &#8220;With the exception of a couple of problematic cases the remaining [Fijian] languages fall clearly into the Eastern Fijian subgroup. Eastern Fijian is however less well-defined than Western Fijian, and some of its members bear the marks of earlier and different alignments&#8221; (Pawley 1996:94).</pub-comments>
+                  <created-at type="datetime">2013-09-19T10:39:28-04:00</created-at>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <updated-at type="datetime">2013-09-19T10:39:27-04:00</updated-at>
+              <geography>spoken on the island of Rotuma, latitude 12 degrees S, longitude 177 degrees E</geography>
+              <status nil="true"></status>
+              <node-type-id type="integer">10001</node-type-id>
+              <pri-name>Rotuman</pri-name>
+              <alt-names></alt-names>
+              <tree-val>Proto Central Pacific, a subtree of Austronesian: Pawley 1996</tree-val>
+              <sureness type="integer">0</sureness>
+              <node-type>Language</node-type>
+              <start-date nil="true"></start-date>
+              <codes>rtm</codes>
+              <is-default type="integer">0</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <created-by>sara</created-by>
+              <updated-by>sara</updated-by>
+              <other-codes></other-codes>
+              <id type="integer">1002738</id>
+              <creator-id type="integer">10621</creator-id>
+              <updater-id type="integer">10621</updater-id>
+              <confidence>n</confidence>
+              <tree-id type="integer">25697</tree-id>
+              <node-status-id nil="true"></node-status-id>
+              <end-date nil="true"></end-date>
+              <publications>Pawley, Andrew K. 1996. On the Position of Rotuman, Reconstruction, classification, description; Festschrift in honor of Isidore Dyen, 259. Hamburg: Abera Verlag. </publications>
+              <pub-comments>&#8220;Evidence has been presented suggesting that Rotuman derives from the western or northwestern part of a Central Pacific dialect chain that was centred in Fiji with possible extensions into Western Polynesia. [&#8230;] The seperation of Rotuman must have preceded the Proto Fijian period.  To be more exact, it must have happened before the spread across Fiji of those particular innovations that are not found in Rotuman&#8221; (Pawley 1996:110-111).</pub-comments>
+              <created-at type="datetime">2013-09-19T10:39:27-04:00</created-at>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <updated-at type="datetime">2013-09-19T10:39:27-04:00</updated-at>
+          <geography nil="true"></geography>
+          <status nil="true"></status>
+          <node-type-id type="integer">10000</node-type-id>
+          <pri-name>Proto Tokalau Fijian-Polynesian dialect chain</pri-name>
+          <alt-names></alt-names>
+          <tree-val>Proto Central Pacific, a subtree of Austronesian: Pawley 1996</tree-val>
+          <sureness type="integer">0</sureness>
+          <node-type>Subgroup</node-type>
+          <start-date nil="true"></start-date>
+          <codes>efpo</codes>
+          <is-default type="integer">0</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <created-by>sara</created-by>
+          <updated-by>sara</updated-by>
+          <other-codes></other-codes>
+          <id type="integer">1002734</id>
+          <creator-id type="integer">10621</creator-id>
+          <updater-id type="integer">10621</updater-id>
+          <confidence>y</confidence>
+          <tree-id type="integer">25697</tree-id>
+          <node-status-id nil="true"></node-status-id>
+          <end-date nil="true"></end-date>
+          <publications>Pawley, Andrew K. 1996. On the Position of Rotuman, Reconstruction, classification, description; Festschrift in honor of Isidore Dyen, 259. Hamburg: Abera Verlag. </publications>
+          <pub-comments>&#8220;Standing in apparent conflict with the isoglosses linking Tokelau Fijian and Polynesian, there is a body of innovations shared by all or nearly all Fijian speech traditions exclusively of Polynesia ([see] Pawley 1972, Geraghty and Pawley 1981, Pawley and Sayaba 1971). This conflict has be resolved as follows. After the settlement of Western Polynesia realignments occurred among the communalects in the Fijian rump of  the Central Pacific dialect chain.  Tokelau Fijian communalects remained in contact with speech traditions in central and western Fiji.  Extensive borrowings led to a partial resynthesis of Tokelau Fijian communalects with other in the chain&#8221; (Pawley 1996:94).</pub-comments>
+          <created-at type="datetime">2013-09-19T10:39:27-04:00</created-at>
+          <children type="array">
+            <child>
+              <updated-at type="datetime">2013-09-19T10:39:27-04:00</updated-at>
+              <geography nil="true"></geography>
+              <status nil="true"></status>
+              <node-type-id type="integer">10000</node-type-id>
+              <pri-name>Tokelau Fijian dialects</pri-name>
+              <alt-names></alt-names>
+              <tree-val>Proto Central Pacific, a subtree of Austronesian: Pawley 1996</tree-val>
+              <sureness type="integer">0</sureness>
+              <node-type>Subgroup</node-type>
+              <start-date nil="true"></start-date>
+              <codes>tfij</codes>
+              <is-default type="integer">0</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <created-by>sara</created-by>
+              <updated-by>sara</updated-by>
+              <other-codes></other-codes>
+              <id type="integer">1002735</id>
+              <creator-id type="integer">10621</creator-id>
+              <updater-id type="integer">10621</updater-id>
+              <confidence>y</confidence>
+              <tree-id type="integer">25697</tree-id>
+              <node-status-id nil="true"></node-status-id>
+              <end-date nil="true"></end-date>
+              <publications>Pawley, Andrew K. 1996. On the Position of Rotuman, Reconstruction, classification, description; Festschrift in honor of Isidore Dyen, 259. Hamburg: Abera Verlag. </publications>
+              <pub-comments></pub-comments>
+              <created-at type="datetime">2013-09-19T10:39:27-04:00</created-at>
+              <children type="array">
+                <child>
+                  <updated-at type="datetime">2013-09-19T10:39:27-04:00</updated-at>
+                  <geography nil="true"></geography>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <pri-name>Proto Fijian dialect chain</pri-name>
+                  <alt-names></alt-names>
+                  <tree-val>Proto Central Pacific, a subtree of Austronesian: Pawley 1996</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <node-type>Subgroup</node-type>
+                  <start-date nil="true"></start-date>
+                  <codes>pfij</codes>
+                  <is-default type="integer">0</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-by>sara</created-by>
+                  <updated-by>sara</updated-by>
+                  <other-codes></other-codes>
+                  <id type="integer">1002739</id>
+                  <creator-id type="integer">10621</creator-id>
+                  <updater-id type="integer">10621</updater-id>
+                  <confidence>y</confidence>
+                  <tree-id type="integer">25697</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <end-date nil="true"></end-date>
+                  <publications>Pawley, Andrew K. 1996. On the Position of Rotuman, Reconstruction, classification, description; Festschrift in honor of Isidore Dyen, 259. Hamburg: Abera Verlag. </publications>
+                  <pub-comments>&#8220;Diffusion of innovations across Fiji yields Proto Fijian dialect chain&#8221; (Pawley 1996:95). &#8220;We can speak of a 'Proto Fijian' period, marked by the spread of the pan-Fijian innovations and ending with the divergence of Western Fijian from the rest of the Fijian dialect chain&#8221; (Pawley 1996:110). &#8220;In due course, this partly cohesive old Fijian dialect chain diverged into two fairly well-defined subgroups: Eastern and Western Fijian&#8221; (Pawley 1996:94).</pub-comments>
+                  <created-at type="datetime">2013-09-19T10:39:27-04:00</created-at>
+                  <children type="array">
+                    <child>
+                      <updated-at type="datetime">2013-09-19T10:39:28-04:00</updated-at>
+                      <geography nil="true"></geography>
+                      <status nil="true"></status>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <pri-name>Western Fijian dialect chain</pri-name>
+                      <alt-names></alt-names>
+                      <tree-val>Proto Central Pacific, a subtree of Austronesian: Pawley 1996</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <node-type>Subgroup</node-type>
+                      <start-date nil="true"></start-date>
+                      <codes>wfij</codes>
+                      <is-default type="integer">0</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-by>sara</created-by>
+                      <updated-by>sara</updated-by>
+                      <other-codes></other-codes>
+                      <id type="integer">1002740</id>
+                      <creator-id type="integer">10621</creator-id>
+                      <updater-id type="integer">10621</updater-id>
+                      <confidence>y</confidence>
+                      <tree-id type="integer">25697</tree-id>
+                      <node-status-id nil="true"></node-status-id>
+                      <end-date nil="true"></end-date>
+                      <publications>Pawley, Andrew K. 1996. On the Position of Rotuman, Reconstruction, classification, description; Festschrift in honor of Isidore Dyen, 259. Hamburg: Abera Verlag. </publications>
+                      <pub-comments>For an extensive breakdown of the internal structure of Western Fijian, see Geraghty 1983.  &#8220;Western Fijian comprises all the communalects spoken west of the central dividing range of Viti Levu, and a few of those spoken on the dividing range and to the east of it, as well as those of the Yasawa and Manmanuca groups and Vatulele Island&#8221; (Pawley 1996:94).</pub-comments>
+                      <created-at type="datetime">2013-09-19T10:39:27-04:00</created-at>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <updated-at type="datetime">2013-09-19T10:39:28-04:00</updated-at>
+                      <geography nil="true"></geography>
+                      <status nil="true"></status>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <pri-name>Eastern Fijian dialect chain</pri-name>
+                      <alt-names></alt-names>
+                      <tree-val>Proto Central Pacific, a subtree of Austronesian: Pawley 1996</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <node-type>Subgroup</node-type>
+                      <start-date nil="true"></start-date>
+                      <codes>efij</codes>
+                      <is-default type="integer">0</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-by>sara</created-by>
+                      <updated-by>sara</updated-by>
+                      <other-codes></other-codes>
+                      <id type="integer">1002741</id>
+                      <creator-id type="integer">10621</creator-id>
+                      <updater-id type="integer">10621</updater-id>
+                      <confidence>y</confidence>
+                      <tree-id type="integer">25697</tree-id>
+                      <node-status-id nil="true"></node-status-id>
+                      <end-date nil="true"></end-date>
+                      <publications>Pawley, Andrew K. 1996. On the Position of Rotuman, Reconstruction, classification, description; Festschrift in honor of Isidore Dyen, 259. Hamburg: Abera Verlag. </publications>
+                      <pub-comments>For an extensive breakdown of the internal structure of Eastern Fijian, see Geraghty 1983. &#8220;With the exception of a couple of problematic cases the remaining [Fijian] languages fall clearly into the Eastern Fijian subgroup. Eastern Fijian is however less well-defined than Western Fijian, and some of its members bear the marks of earlier and different alignments&#8221; (Pawley 1996:94).</pub-comments>
+                      <created-at type="datetime">2013-09-19T10:39:28-04:00</created-at>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+              </children>
+            </child>
+            <child>
+              <updated-at type="datetime">2013-09-19T10:39:27-04:00</updated-at>
+              <geography nil="true"></geography>
+              <status nil="true"></status>
+              <node-type-id type="integer">10000</node-type-id>
+              <pri-name>Proto-Polynesian</pri-name>
+              <alt-names></alt-names>
+              <tree-val>Proto Central Pacific, a subtree of Austronesian: Pawley 1996</tree-val>
+              <sureness type="integer">0</sureness>
+              <node-type>Subgroup</node-type>
+              <start-date nil="true"></start-date>
+              <codes>poly</codes>
+              <is-default type="integer">0</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <created-by>sara</created-by>
+              <updated-by>sara</updated-by>
+              <other-codes></other-codes>
+              <id type="integer">1002736</id>
+              <creator-id type="integer">10621</creator-id>
+              <updater-id type="integer">10621</updater-id>
+              <confidence>y</confidence>
+              <tree-id type="integer">25697</tree-id>
+              <node-status-id nil="true"></node-status-id>
+              <end-date nil="true"></end-date>
+              <publications>Pawley, Andrew K. 1996. On the Position of Rotuman, Reconstruction, classification, description; Festschrift in honor of Isidore Dyen, 259. Hamburg: Abera Verlag. </publications>
+              <pub-comments>&#8220;This distribution [of phonological innovations] is consistent with Geraghty's hypothesis of a Proto Central Pacific dialect chain, with Polynesian most closely connected to Lau and eastern Vanua Levu&#8221; (Pawley 1996:98).</pub-comments>
+              <created-at type="datetime">2013-09-19T10:39:27-04:00</created-at>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+      </children>
+    </root>
+    <description>Proto Central Pacific, a subtree of Austronesian: Pawley 1996</description>
+  </tree>
+</hash>

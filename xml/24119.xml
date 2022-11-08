@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Africa</region>
+    <description>Afrasian: Fleming 2006</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2013-07-15T09:09:38-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Afrasian: Fleming 2006</tree-val>
+      <pub-comments>Fleming's taxonomy as listed here is based on his 2005 publication with Ongota incorporated (Fleming: 2006:173).</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2013-07-15T09:09:38-04:00</updated-at>
+      <pri-name>Afrasian</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">941517</id>
+      <creator-id type="integer">10640</creator-id>
+      <created-by>emily</created-by>
+      <updater-id type="integer">10640</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>emily</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">24119</tree-id>
+      <codes>afas</codes>
+      <status nil="true"></status>
+      <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-07-15T09:09:38-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Afrasian: Fleming 2006</tree-val>
+          <pub-comments>Referred to by the author as a &#8220;Moiety.&#8221;</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-07-15T09:09:38-04:00</updated-at>
+          <pri-name>Erythraic</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">941527</id>
+          <creator-id type="integer">10640</creator-id>
+          <created-by>emily</created-by>
+          <updater-id type="integer">10640</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>emily</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">24119</tree-id>
+          <codes>eryt</codes>
+          <status nil="true"></status>
+          <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-07-15T09:09:38-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Afrasian: Fleming 2006</tree-val>
+              <pub-comments>Referred to by the author as a &#8220;Phratry.&#8221;</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-07-15T09:09:39-04:00</updated-at>
+              <pri-name>Cushitic</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">941529</id>
+              <creator-id type="integer">10640</creator-id>
+              <created-by>emily</created-by>
+              <updater-id type="integer">10640</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>emily</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">24119</tree-id>
+              <codes>cush</codes>
+              <status nil="true"></status>
+              <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-07-15T09:09:39-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Afrasian: Fleming 2006</tree-val>
+                  <pub-comments>Referred to by the author as a &#8220;Lineage.&#8221;</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-07-15T09:09:39-04:00</updated-at>
+                  <pri-name>Easterm Cushitic</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">941531</id>
+                  <creator-id type="integer">10640</creator-id>
+                  <created-by>emily</created-by>
+                  <updater-id type="integer">10640</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>emily</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24119</tree-id>
+                  <codes>ecus</codes>
+                  <status nil="true"></status>
+                  <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-07-15T09:09:39-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Afrasian: Fleming 2006</tree-val>
+                  <pub-comments>Referred to by the author as a &#8220;Lineage.&#8221;</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-07-15T09:09:39-04:00</updated-at>
+                  <pri-name>Agau</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">941530</id>
+                  <creator-id type="integer">10640</creator-id>
+                  <created-by>emily</created-by>
+                  <updater-id type="integer">10640</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>emily</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24119</tree-id>
+                  <codes>ccus</codes>
+                  <status nil="true"></status>
+                  <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-07-15T09:09:39-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Afrasian: Fleming 2006</tree-val>
+                  <pub-comments>Referred to by the author as a &#8220;Lineage.&#8221;</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-07-15T09:09:39-04:00</updated-at>
+                  <pri-name>Southern Cushitic</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">941532</id>
+                  <creator-id type="integer">10640</creator-id>
+                  <created-by>emily</created-by>
+                  <updater-id type="integer">10640</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>emily</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24119</tree-id>
+                  <codes>scus</codes>
+                  <status nil="true"></status>
+                  <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-07-15T09:09:39-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Afrasian: Fleming 2006</tree-val>
+              <pub-comments>Referred to by the author as a &#8220;Phratry.&#8221;</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-07-15T09:09:39-04:00</updated-at>
+              <pri-name>North Erythraic</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">941533</id>
+              <creator-id type="integer">10640</creator-id>
+              <created-by>emily</created-by>
+              <updater-id type="integer">10640</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>emily</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">24119</tree-id>
+              <codes>prne</codes>
+              <status nil="true"></status>
+              <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-07-15T09:09:39-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Afrasian: Fleming 2006</tree-val>
+                  <pub-comments>Referred to by the author as a &#8220;Lineage.&#8221;</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-07-15T09:09:39-04:00</updated-at>
+                  <pri-name>Semitic</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">941534</id>
+                  <creator-id type="integer">10640</creator-id>
+                  <created-by>emily</created-by>
+                  <updater-id type="integer">10640</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>emily</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24119</tree-id>
+                  <codes>afsm</codes>
+                  <status nil="true"></status>
+                  <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-07-15T09:09:39-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Afrasian: Fleming 2006</tree-val>
+                  <pub-comments>Referred to by the author as a &#8220;Lineage.&#8221;</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-07-15T09:09:39-04:00</updated-at>
+                  <pri-name>Ancient Egyptian</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">941535</id>
+                  <creator-id type="integer">10640</creator-id>
+                  <created-by>emily</created-by>
+                  <updater-id type="integer">10640</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>emily</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24119</tree-id>
+                  <codes>areg</codes>
+                  <status nil="true"></status>
+                  <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-07-15T09:09:39-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Afrasian: Fleming 2006</tree-val>
+                  <pub-comments>Referred to by the author as a &#8220;Lineage.&#8221;</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-07-15T09:09:39-04:00</updated-at>
+                  <pri-name>Saharan</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">941536</id>
+                  <creator-id type="integer">10640</creator-id>
+                  <created-by>emily</created-by>
+                  <updater-id type="integer">10640</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>emily</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names>Libyan</alt-names>
+                  <tree-id type="integer">24119</tree-id>
+                  <codes>chbe</codes>
+                  <status nil="true"></status>
+                  <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-07-15T09:09:39-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Afrasian: Fleming 2006</tree-val>
+                      <pub-comments>Referred to by the author as a &#8220;Clan.&#8221;</pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-07-15T09:09:39-04:00</updated-at>
+                      <pri-name>Berber</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">941537</id>
+                      <creator-id type="integer">10640</creator-id>
+                      <created-by>emily</created-by>
+                      <updater-id type="integer">10640</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>emily</updated-by>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24119</tree-id>
+                      <codes>berb</codes>
+                      <status nil="true"></status>
+                      <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-07-15T09:09:39-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Afrasian: Fleming 2006</tree-val>
+                      <pub-comments>Referred to by the author as a &#8220;Clan.&#8221;</pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-07-15T09:09:39-04:00</updated-at>
+                      <pri-name>Chadic</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">941538</id>
+                      <creator-id type="integer">10640</creator-id>
+                      <created-by>emily</created-by>
+                      <updater-id type="integer">10640</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>emily</updated-by>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24119</tree-id>
+                      <codes>chad</codes>
+                      <status nil="true"></status>
+                      <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array">
+                        <child>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2013-07-15T09:09:39-04:00</created-at>
+                          <confidence>y</confidence>
+                          <tree-val>Afrasian: Fleming 2006</tree-val>
+                          <pub-comments>Referred to by the author as a &#8220;Family.&#8221;</pub-comments>
+                          <node-status-id nil="true"></node-status-id>
+                          <updated-at type="datetime">2013-07-15T09:09:39-04:00</updated-at>
+                          <pri-name>Western Chadic</pri-name>
+                          <node-type>Subgroup</node-type>
+                          <is-default type="boolean">false</is-default>
+                          <deleted-at nil="true"></deleted-at>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">941541</id>
+                          <creator-id type="integer">10640</creator-id>
+                          <created-by>emily</created-by>
+                          <updater-id type="integer">10640</updater-id>
+                          <geography nil="true"></geography>
+                          <updated-by>emily</updated-by>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">24119</tree-id>
+                          <codes>wcha</codes>
+                          <status nil="true"></status>
+                          <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+                          <end-date nil="true"></end-date>
+                          <children type="array"/>
+                        </child>
+                        <child>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2013-07-15T09:09:39-04:00</created-at>
+                          <confidence>y</confidence>
+                          <tree-val>Afrasian: Fleming 2006</tree-val>
+                          <pub-comments>Referred to by the author as a &#8220;Family.&#8221;</pub-comments>
+                          <node-status-id nil="true"></node-status-id>
+                          <updated-at type="datetime">2013-07-15T09:09:39-04:00</updated-at>
+                          <pri-name>Central Chadic</pri-name>
+                          <node-type>Subgroup</node-type>
+                          <is-default type="boolean">false</is-default>
+                          <deleted-at nil="true"></deleted-at>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">941540</id>
+                          <creator-id type="integer">10640</creator-id>
+                          <created-by>emily</created-by>
+                          <updater-id type="integer">10640</updater-id>
+                          <geography nil="true"></geography>
+                          <updated-by>emily</updated-by>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">24119</tree-id>
+                          <codes>ccha</codes>
+                          <status nil="true"></status>
+                          <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+                          <end-date nil="true"></end-date>
+                          <children type="array"/>
+                        </child>
+                        <child>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2013-07-15T09:09:39-04:00</created-at>
+                          <confidence>y</confidence>
+                          <tree-val>Afrasian: Fleming 2006</tree-val>
+                          <pub-comments>Referred to by the author as a &#8220;Family.&#8221;</pub-comments>
+                          <node-status-id nil="true"></node-status-id>
+                          <updated-at type="datetime">2013-07-15T09:09:39-04:00</updated-at>
+                          <pri-name>Eastern Chadic</pri-name>
+                          <node-type>Subgroup</node-type>
+                          <is-default type="boolean">false</is-default>
+                          <deleted-at nil="true"></deleted-at>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">941539</id>
+                          <creator-id type="integer">10640</creator-id>
+                          <created-by>emily</created-by>
+                          <updater-id type="integer">10640</updater-id>
+                          <geography nil="true"></geography>
+                          <updated-by>emily</updated-by>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">24119</tree-id>
+                          <codes>echa</codes>
+                          <status nil="true"></status>
+                          <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+                          <end-date nil="true"></end-date>
+                          <children type="array"/>
+                        </child>
+                        <child>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2013-07-15T09:09:39-04:00</created-at>
+                          <confidence>n</confidence>
+                          <tree-val>Afrasian: Fleming 2006</tree-val>
+                          <pub-comments>&#8220;On the Chad-Sudan border, Kujarg&#233; is a new sub-branch of Chadic or transitional to Beja from East Chadic&#8221; (Fleming 2006:173, footnote). Referred to by the author as a &#8220;Family.&#8221;</pub-comments>
+                          <node-status-id nil="true"></node-status-id>
+                          <updated-at type="datetime">2013-07-15T09:09:39-04:00</updated-at>
+                          <pri-name>Kujarg&#233;</pri-name>
+                          <node-type>Subgroup</node-type>
+                          <is-default type="boolean">false</is-default>
+                          <deleted-at nil="true"></deleted-at>
+                          <sureness type="integer">-1</sureness>
+                          <id type="integer">941542</id>
+                          <creator-id type="integer">10640</creator-id>
+                          <created-by>emily</created-by>
+                          <updater-id type="integer">10640</updater-id>
+                          <geography nil="true"></geography>
+                          <updated-by>emily</updated-by>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">24119</tree-id>
+                          <codes>kuja</codes>
+                          <status nil="true"></status>
+                          <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+                          <end-date nil="true"></end-date>
+                          <children type="array"/>
+                        </child>
+                      </children>
+                    </child>
+                  </children>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-07-15T09:09:39-04:00</created-at>
+              <confidence>n</confidence>
+              <tree-val>Afrasian: Fleming 2006</tree-val>
+              <pub-comments>&#8220;Beja is located at the interace of Chadic and Cushitic and is either Phratry D of Erythraic or Lineage D of Cushitic, the latter being its traditional classification;&#8221; therefore, in this tree, it has been been made Phratry D of Erythraic (Fleming 2006:173, footnote). Because of the Referred to by the author as a &#8220;Phratry.&#8221;</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-07-15T09:09:40-04:00</updated-at>
+              <pri-name>Beja</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">-1</sureness>
+              <id type="integer">941543</id>
+              <creator-id type="integer">10640</creator-id>
+              <created-by>emily</created-by>
+              <updater-id type="integer">10640</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>emily</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">24119</tree-id>
+              <codes>ncus</codes>
+              <status nil="true"></status>
+              <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-07-15T09:09:38-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Afrasian: Fleming 2006</tree-val>
+              <pub-comments>Referred to by the author as a &#8220;Phratry.&#8221;</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-07-15T09:09:38-04:00</updated-at>
+              <pri-name>Ongota</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">941528</id>
+              <creator-id type="integer">10640</creator-id>
+              <created-by>emily</created-by>
+              <updater-id type="integer">10640</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>emily</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">24119</tree-id>
+              <codes>unaf</codes>
+              <status nil="true"></status>
+              <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-07-15T09:09:38-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Afrasian: Fleming 2006</tree-val>
+          <pub-comments>Referred to by the author as a &#8220;Moiety.&#8221;</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-07-15T09:09:38-04:00</updated-at>
+          <pri-name>Omotic</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">941518</id>
+          <creator-id type="integer">10640</creator-id>
+          <created-by>emily</created-by>
+          <updater-id type="integer">10640</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>emily</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">24119</tree-id>
+          <codes>omot</codes>
+          <status nil="true"></status>
+          <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-07-15T09:09:38-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Afrasian: Fleming 2006</tree-val>
+              <pub-comments>Referred to by the author as a &#8220;Phratry.&#8221;</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-07-15T09:09:38-04:00</updated-at>
+              <pri-name>Nomotic</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">941520</id>
+              <creator-id type="integer">10640</creator-id>
+              <created-by>emily</created-by>
+              <updater-id type="integer">10640</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>emily</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">24119</tree-id>
+              <codes>nomo</codes>
+              <status nil="true"></status>
+              <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-07-15T09:09:38-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Afrasian: Fleming 2006</tree-val>
+                  <pub-comments>Referred to by the author as a &#8220;Lineage.&#8221;</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-07-15T09:09:38-04:00</updated-at>
+                  <pri-name>Mao/ta-ne</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">941522</id>
+                  <creator-id type="integer">10640</creator-id>
+                  <created-by>emily</created-by>
+                  <updater-id type="integer">10640</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>emily</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24119</tree-id>
+                  <codes>matn</codes>
+                  <status nil="true"></status>
+                  <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-07-15T09:09:38-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Afrasian: Fleming 2006</tree-val>
+                      <pub-comments>Referred to by the author as a &#8220;Clan.&#8221;</pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-07-15T09:09:38-04:00</updated-at>
+                      <pri-name>ta-ne</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">941524</id>
+                      <creator-id type="integer">10640</creator-id>
+                      <created-by>emily</created-by>
+                      <updater-id type="integer">10640</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>emily</updated-by>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24119</tree-id>
+                      <codes>gogi</codes>
+                      <status nil="true"></status>
+                      <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array">
+                        <child>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2013-07-15T09:09:38-04:00</created-at>
+                          <confidence>y</confidence>
+                          <tree-val>Afrasian: Fleming 2006</tree-val>
+                          <pub-comments>Referred to by the author as a &#8220;Family.&#8221;</pub-comments>
+                          <node-status-id nil="true"></node-status-id>
+                          <updated-at type="datetime">2013-07-15T09:09:38-04:00</updated-at>
+                          <pri-name>Gongan</pri-name>
+                          <node-type>Subgroup</node-type>
+                          <is-default type="boolean">false</is-default>
+                          <deleted-at nil="true"></deleted-at>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">941525</id>
+                          <creator-id type="integer">10640</creator-id>
+                          <created-by>emily</created-by>
+                          <updater-id type="integer">10640</updater-id>
+                          <geography nil="true"></geography>
+                          <updated-by>emily</updated-by>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">24119</tree-id>
+                          <codes>gong</codes>
+                          <status nil="true"></status>
+                          <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+                          <end-date nil="true"></end-date>
+                          <children type="array"/>
+                        </child>
+                        <child>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2013-07-15T09:09:38-04:00</created-at>
+                          <confidence>y</confidence>
+                          <tree-val>Afrasian: Fleming 2006</tree-val>
+                          <pub-comments>Referred to by the author as a &#8220;Family.&#8221;</pub-comments>
+                          <node-status-id nil="true"></node-status-id>
+                          <updated-at type="datetime">2013-07-15T09:09:38-04:00</updated-at>
+                          <pri-name>Gimojan</pri-name>
+                          <node-type>Subgroup</node-type>
+                          <is-default type="boolean">false</is-default>
+                          <deleted-at nil="true"></deleted-at>
+                          <sureness type="integer">0</sureness>
+                          <id type="integer">941526</id>
+                          <creator-id type="integer">10640</creator-id>
+                          <created-by>emily</created-by>
+                          <updater-id type="integer">10640</updater-id>
+                          <geography nil="true"></geography>
+                          <updated-by>emily</updated-by>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">24119</tree-id>
+                          <codes>gimo</codes>
+                          <status nil="true"></status>
+                          <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+                          <end-date nil="true"></end-date>
+                          <children type="array"/>
+                        </child>
+                      </children>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-07-15T09:09:38-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Afrasian: Fleming 2006</tree-val>
+                      <pub-comments>Referred to by the author as a &#8220;Clan.&#8221;</pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2013-07-15T09:09:38-04:00</updated-at>
+                      <pri-name>Mao</pri-name>
+                      <node-type>Subgroup</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">941523</id>
+                      <creator-id type="integer">10640</creator-id>
+                      <created-by>emily</created-by>
+                      <updater-id type="integer">10640</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>emily</updated-by>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24119</tree-id>
+                      <codes>maoa</codes>
+                      <status nil="true"></status>
+                      <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-07-15T09:09:38-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Afrasian: Fleming 2006</tree-val>
+                  <pub-comments>Referred to by the author as a &#8220;Lineage.&#8221;</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2013-07-15T09:09:38-04:00</updated-at>
+                  <pri-name>Dizoid</pri-name>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">941521</id>
+                  <creator-id type="integer">10640</creator-id>
+                  <created-by>emily</created-by>
+                  <updater-id type="integer">10640</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>emily</updated-by>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24119</tree-id>
+                  <codes>dizo</codes>
+                  <status nil="true"></status>
+                  <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-07-15T09:09:38-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Afrasian: Fleming 2006</tree-val>
+              <pub-comments>Referred to by the author as a &#8220;Phratry.&#8221;</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2013-07-15T09:09:38-04:00</updated-at>
+              <pri-name>Somotic</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">941519</id>
+              <creator-id type="integer">10640</creator-id>
+              <created-by>emily</created-by>
+              <updater-id type="integer">10640</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>emily</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">24119</tree-id>
+              <codes>somo</codes>
+              <status nil="true"></status>
+              <publications>Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Harrassowitz Verlag. ISBN 3-447-05124-8</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

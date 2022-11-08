@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Central America</region>
+    <root>
+      <confidence>y</confidence>
+      <updated-by>joe_leif</updated-by>
+      <tree-id type="integer">12419</tree-id>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <is-default type="integer">0</is-default>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+      <updated-at type="datetime">2009-08-28T21:13:37-04:00</updated-at>
+      <node-type>Subgroup</node-type>
+      <node-type-id type="integer">10000</node-type-id>
+      <children type="array">
+        <child>
+          <confidence>y</confidence>
+          <updated-by>joe_leif</updated-by>
+          <tree-id type="integer">12419</tree-id>
+          <pub-comments></pub-comments>
+          <is-default type="integer">0</is-default>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+          <updated-at type="datetime">2009-05-19T16:40:11-04:00</updated-at>
+          <node-type>Language</node-type>
+          <node-type-id type="integer">10001</node-type-id>
+          <children type="array"/>
+          <start-date nil="true"></start-date>
+          <created-at type="datetime">2009-05-19T16:40:10-04:00</created-at>
+          <other-codes>tol</other-codes>
+          <deleted-at nil="true"></deleted-at>
+          <status nil="true"></status>
+          <pri-name>Tol</pri-name>
+          <geography>Country: Honduras; Lat.: 14.67; Long.: -87</geography>
+          <tree-val>Tol: Dryer 2005</tree-val>
+          <id type="integer">417905</id>
+          <end-date nil="true"></end-date>
+          <codes>jic</codes>
+          <sureness type="integer">0</sureness>
+          <node-status-id nil="true"></node-status-id>
+          <alt-names></alt-names>
+        </child>
+      </children>
+      <start-date nil="true"></start-date>
+      <created-at type="datetime">2009-05-19T16:40:10-04:00</created-at>
+      <other-codes></other-codes>
+      <deleted-at nil="true"></deleted-at>
+      <status nil="true"></status>
+      <pri-name>Tol</pri-name>
+      <geography nil="true"></geography>
+      <tree-val>Tol: Dryer 2005</tree-val>
+      <id type="integer">417904</id>
+      <end-date nil="true"></end-date>
+      <codes>jicq</codes>
+      <sureness type="integer">0</sureness>
+      <node-status-id nil="true"></node-status-id>
+      <alt-names></alt-names>
+    </root>
+    <description>Tol: Dryer 2005</description>
+  </tree>
+</hash>

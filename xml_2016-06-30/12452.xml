@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <status nil="true"></status>
+      <updater-id type="integer">10740</updater-id>
+      <updated-at type="datetime">2009-05-19T17:49:14-04:00</updated-at>
+      <confidence>y</confidence>
+      <tree-val>Chimuan: Dryer 2005</tree-val>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <other-codes></other-codes>
+      <created-by>joe_leif</created-by>
+      <sureness type="integer">0</sureness>
+      <node-type>Subgroup</node-type>
+      <children type="array">
+        <child>
+          <status nil="true"></status>
+          <updater-id type="integer">10740</updater-id>
+          <updated-at type="datetime">2009-05-19T17:49:15-04:00</updated-at>
+          <confidence>y</confidence>
+          <tree-val>Chimuan: Dryer 2005</tree-val>
+          <pub-comments></pub-comments>
+          <other-codes>mcc</other-codes>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <node-type>Language</node-type>
+          <children type="array"/>
+          <alt-names></alt-names>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637. New York: Oxford University Press. ISBN 0199255911</publications>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+          <tree-id type="integer">12452</tree-id>
+          <pri-name>Mochica</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+          <id type="integer">418098</id>
+          <created-at type="datetime">2009-05-19T17:49:14-04:00</created-at>
+          <node-status-id nil="true"></node-status-id>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+          <is-default type="integer">0</is-default>
+          <geography>Country: Peru; Lat.: -7.5; Long.: -79.33</geography>
+          <codes>omc</codes>
+          <creator-id type="integer">10740</creator-id>
+        </child>
+      </children>
+      <alt-names></alt-names>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637. New York: Oxford University Press. ISBN 0199255911</publications>
+      <end-date nil="true"></end-date>
+      <deleted-at nil="true"></deleted-at>
+      <tree-id type="integer">12452</tree-id>
+      <pri-name>Chim&#250;an</pri-name>
+      <node-type-id type="integer">10000</node-type-id>
+      <id type="integer">418097</id>
+      <created-at type="datetime">2009-05-19T17:49:14-04:00</created-at>
+      <node-status-id nil="true"></node-status-id>
+      <updated-by>joe_leif</updated-by>
+      <start-date nil="true"></start-date>
+      <is-default type="integer">0</is-default>
+      <geography nil="true"></geography>
+      <codes>chmi</codes>
+      <creator-id type="integer">10740</creator-id>
+    </root>
+    <description>Chimuan: Dryer 2005</description>
+  </tree>
+</hash>

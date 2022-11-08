@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <updated-at type="datetime">2009-05-19T19:03:22-04:00</updated-at>
+      <pri-name>Alacalufan</pri-name>
+      <geography nil="true"></geography>
+      <deleted-at nil="true"></deleted-at>
+      <alt-names></alt-names>
+      <updater-id type="integer">10740</updater-id>
+      <status nil="true"></status>
+      <node-status-id nil="true"></node-status-id>
+      <id type="integer">418185</id>
+      <confidence>y</confidence>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <created-by>joe_leif</created-by>
+      <children type="array">
+        <child>
+          <updated-at type="datetime">2009-05-19T19:03:22-04:00</updated-at>
+          <pri-name>Qawasqar</pri-name>
+          <geography>Country: Chile; Lat.: -49; Long.: -75</geography>
+          <deleted-at nil="true"></deleted-at>
+          <alt-names></alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <status nil="true"></status>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">418186</id>
+          <confidence>y</confidence>
+          <pub-comments></pub-comments>
+          <created-by>joe_leif</created-by>
+          <children type="array"/>
+          <creator-id type="integer">10740</creator-id>
+          <is-default type="integer">0</is-default>
+          <sureness type="integer">0</sureness>
+          <other-codes>qaw</other-codes>
+          <codes>alc</codes>
+          <updated-by>joe_leif</updated-by>
+          <tree-val>Alacalufan: Dryer 2005</tree-val>
+          <created-at type="datetime">2009-05-19T19:03:22-04:00</created-at>
+          <tree-id type="integer">12481</tree-id>
+          <node-type-id type="integer">10001</node-type-id>
+          <node-type>Language</node-type>
+          <end-date nil="true"></end-date>
+          <start-date nil="true"></start-date>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 642. New York: Oxford University Press. ISBN 0199255911</publications>
+        </child>
+      </children>
+      <creator-id type="integer">10740</creator-id>
+      <is-default type="integer">0</is-default>
+      <sureness type="integer">0</sureness>
+      <other-codes></other-codes>
+      <codes>alac</codes>
+      <updated-by>joe_leif</updated-by>
+      <tree-val>Alacalufan: Dryer 2005</tree-val>
+      <created-at type="datetime">2009-05-19T19:03:22-04:00</created-at>
+      <tree-id type="integer">12481</tree-id>
+      <node-type-id type="integer">10000</node-type-id>
+      <node-type>Subgroup</node-type>
+      <end-date nil="true"></end-date>
+      <start-date nil="true"></start-date>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 642. New York: Oxford University Press. ISBN 0199255911</publications>
+    </root>
+    <description>Alacalufan: Dryer 2005</description>
+  </tree>
+</hash>

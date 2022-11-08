@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>
+    <root>
+      <start-date nil="true"></start-date>
+      <deleted-at nil="true"></deleted-at>
+      <creator-id type="integer">10740</creator-id>
+      <node-type>Subgroup</node-type>
+      <node-status-id nil="true"></node-status-id>
+      <is-default type="integer">0</is-default>
+      <pri-name>Proto Austro-Asiatic</pri-name>
+      <created-by>joe_leif</created-by>
+      <codes>ausa</codes>
+      <other-codes></other-codes>
+      <end-date>5000 BC</end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <node-type>Subgroup</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <pri-name>Proto Khmero-Vietic-Nico-Monic</pri-name>
+          <created-by>joe_leif</created-by>
+          <codes>kvnm</codes>
+          <other-codes></other-codes>
+          <end-date>4000 BC</end-date>
+          <children type="array">
+            <child>
+              <start-date>4000 BC</start-date>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <node-type>Subgroup</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <pri-name>Nico-Monic</pri-name>
+              <created-by>joe_leif</created-by>
+              <codes>ncmc</codes>
+              <other-codes></other-codes>
+              <end-date>3000 BC</end-date>
+              <children type="array">
+                <child>
+                  <start-date>3000 BC</start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <node-type>Subgroup</node-type>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <pri-name>Asli-Monic</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <codes>asmc</codes>
+                  <other-codes></other-codes>
+                  <end-date>2000 BC</end-date>
+                  <children type="array">
+                    <child>
+                      <start-date>2000 BC</start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <node-type>Subgroup</node-type>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <pri-name>Aslian</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <codes>asli</codes>
+                      <other-codes></other-codes>
+                      <end-date>1000 BC</end-date>
+                      <children type="array">
+                        <child>
+                          <start-date>1000 BC</start-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <creator-id type="integer">10740</creator-id>
+                          <node-type>Subgroup</node-type>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <pri-name>North Aslian-Senoic</pri-name>
+                          <created-by>joe_leif</created-by>
+                          <codes>nasc</codes>
+                          <other-codes></other-codes>
+                          <end-date>500 BC</end-date>
+                          <children type="array">
+                            <child>
+                              <start-date>500 BC</start-date>
+                              <deleted-at nil="true"></deleted-at>
+                              <creator-id type="integer">10740</creator-id>
+                              <node-type>Subgroup</node-type>
+                              <node-status-id nil="true"></node-status-id>
+                              <is-default type="integer">0</is-default>
+                              <pri-name>Northern Asli</pri-name>
+                              <created-by>joe_leif</created-by>
+                              <codes>nasl</codes>
+                              <other-codes></other-codes>
+                              <end-date nil="true"></end-date>
+                              <children type="array"/>
+                              <updated-by>joe_leif</updated-by>
+                              <pub-comments></pub-comments>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <id type="integer">324002</id>
+                              <updater-id type="integer">10740</updater-id>
+                              <tree-id type="integer">11582</tree-id>
+                              <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                              <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                              <geography nil="true"></geography>
+                              <confidence>y</confidence>
+                              <alt-names></alt-names>
+                              <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                              <status nil="true"></status>
+                              <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                              <sureness type="integer">0</sureness>
+                            </child>
+                            <child>
+                              <start-date>500 BC</start-date>
+                              <deleted-at nil="true"></deleted-at>
+                              <creator-id type="integer">10740</creator-id>
+                              <node-type>Subgroup</node-type>
+                              <node-status-id nil="true"></node-status-id>
+                              <is-default type="integer">0</is-default>
+                              <pri-name>Senoic</pri-name>
+                              <created-by>joe_leif</created-by>
+                              <codes>seno</codes>
+                              <other-codes></other-codes>
+                              <end-date nil="true"></end-date>
+                              <children type="array"/>
+                              <updated-by>joe_leif</updated-by>
+                              <pub-comments></pub-comments>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <id type="integer">324003</id>
+                              <updater-id type="integer">10740</updater-id>
+                              <tree-id type="integer">11582</tree-id>
+                              <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                              <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                              <geography nil="true"></geography>
+                              <confidence>y</confidence>
+                              <alt-names></alt-names>
+                              <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                              <status nil="true"></status>
+                              <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                              <sureness type="integer">0</sureness>
+                            </child>
+                          </children>
+                          <updated-by>joe_leif</updated-by>
+                          <pub-comments>Diffloth (2005: 79) does not explicitly name this branch</pub-comments>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <id type="integer">324001</id>
+                          <updater-id type="integer">10740</updater-id>
+                          <tree-id type="integer">11582</tree-id>
+                          <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                          <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                          <geography nil="true"></geography>
+                          <confidence>y</confidence>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                          <status nil="true"></status>
+                          <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                          <sureness type="integer">0</sureness>
+                        </child>
+                        <child>
+                          <start-date>1000 BC</start-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <creator-id type="integer">10740</creator-id>
+                          <node-type>Subgroup</node-type>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <pri-name>Southern Asli</pri-name>
+                          <created-by>joe_leif</created-by>
+                          <codes>sasl</codes>
+                          <other-codes></other-codes>
+                          <end-date nil="true"></end-date>
+                          <children type="array"/>
+                          <updated-by>joe_leif</updated-by>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <id type="integer">324004</id>
+                          <updater-id type="integer">10740</updater-id>
+                          <tree-id type="integer">11582</tree-id>
+                          <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                          <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                          <geography nil="true"></geography>
+                          <confidence>y</confidence>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                          <status nil="true"></status>
+                          <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                          <sureness type="integer">0</sureness>
+                        </child>
+                      </children>
+                      <updated-by>joe_leif</updated-by>
+                      <pub-comments>Diffloth (2005: 79) does not explicitly name this branch</pub-comments>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <id type="integer">324000</id>
+                      <updater-id type="integer">10740</updater-id>
+                      <tree-id type="integer">11582</tree-id>
+                      <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                      <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                      <geography nil="true"></geography>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                      <status nil="true"></status>
+                      <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                    <child>
+                      <start-date>2000 BC</start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <node-type>Subgroup</node-type>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <pri-name>Monic</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <codes>moni</codes>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                      <updated-by>joe_leif</updated-by>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <id type="integer">323999</id>
+                      <updater-id type="integer">10740</updater-id>
+                      <tree-id type="integer">11582</tree-id>
+                      <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                      <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                      <geography nil="true"></geography>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                      <status nil="true"></status>
+                      <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                  </children>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <id type="integer">323998</id>
+                  <updater-id type="integer">10740</updater-id>
+                  <tree-id type="integer">11582</tree-id>
+                  <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                  <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                  <geography nil="true"></geography>
+                  <confidence>y</confidence>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                  <status nil="true"></status>
+                  <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <start-date>3000 BC</start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <node-type>Subgroup</node-type>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <pri-name>Nicobarese</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <codes>nico</codes>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <id type="integer">324005</id>
+                  <updater-id type="integer">10740</updater-id>
+                  <tree-id type="integer">11582</tree-id>
+                  <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                  <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                  <geography nil="true"></geography>
+                  <confidence>y</confidence>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                  <status nil="true"></status>
+                  <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                  <sureness type="integer">0</sureness>
+                </child>
+              </children>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <id type="integer">323997</id>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">11582</tree-id>
+              <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+              <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+              <geography nil="true"></geography>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+              <status nil="true"></status>
+              <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+              <sureness type="integer">0</sureness>
+            </child>
+            <child>
+              <start-date>4000 BC</start-date>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <node-type>Subgroup</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <pri-name>Khmero-Vietic</pri-name>
+              <created-by>joe_leif</created-by>
+              <codes>emkh</codes>
+              <other-codes></other-codes>
+              <end-date>2500 BC</end-date>
+              <children type="array">
+                <child>
+                  <start-date>2500 BC</start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <node-type>Subgroup</node-type>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <pri-name>Khmero-Bahnaric</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <codes>khbh</codes>
+                  <other-codes></other-codes>
+                  <end-date>2000 BC</end-date>
+                  <children type="array">
+                    <child>
+                      <start-date>2000 BC</start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <node-type>Subgroup</node-type>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <pri-name>Bahnaric</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <codes>bahn</codes>
+                      <other-codes></other-codes>
+                      <end-date>1500 BC</end-date>
+                      <children type="array">
+                        <child>
+                          <start-date>1500 BC</start-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <creator-id type="integer">10740</creator-id>
+                          <node-type>Subgroup</node-type>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <pri-name>Northern-Central-Southern Bahnaric</pri-name>
+                          <created-by>joe_leif</created-by>
+                          <codes>ncsb</codes>
+                          <other-codes></other-codes>
+                          <end-date>500 BC</end-date>
+                          <children type="array">
+                            <child>
+                              <start-date>500 BC</start-date>
+                              <deleted-at nil="true"></deleted-at>
+                              <creator-id type="integer">10740</creator-id>
+                              <node-type>Subgroup</node-type>
+                              <node-status-id nil="true"></node-status-id>
+                              <is-default type="integer">0</is-default>
+                              <pri-name>Central Southern Bahnaric</pri-name>
+                              <created-by>joe_leif</created-by>
+                              <codes>csba</codes>
+                              <other-codes></other-codes>
+                              <end-date>500 AD</end-date>
+                              <children type="array">
+                                <child>
+                                  <start-date>500 AD</start-date>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <creator-id type="integer">10740</creator-id>
+                                  <node-type>Subgroup</node-type>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <is-default type="integer">0</is-default>
+                                  <pri-name>Southern Bahnaric</pri-name>
+                                  <created-by>joe_leif</created-by>
+                                  <codes>sbah</codes>
+                                  <other-codes></other-codes>
+                                  <end-date nil="true"></end-date>
+                                  <children type="array"/>
+                                  <updated-by>joe_leif</updated-by>
+                                  <pub-comments></pub-comments>
+                                  <node-type-id type="integer">10000</node-type-id>
+                                  <id type="integer">323995</id>
+                                  <updater-id type="integer">10740</updater-id>
+                                  <tree-id type="integer">11582</tree-id>
+                                  <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                                  <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                                  <geography nil="true"></geography>
+                                  <confidence>y</confidence>
+                                  <alt-names></alt-names>
+                                  <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                                  <status nil="true"></status>
+                                  <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                                  <sureness type="integer">0</sureness>
+                                </child>
+                                <child>
+                                  <start-date>500 AD</start-date>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <creator-id type="integer">10740</creator-id>
+                                  <node-type>Subgroup</node-type>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <is-default type="integer">0</is-default>
+                                  <pri-name>Central Bahnaric</pri-name>
+                                  <created-by>joe_leif</created-by>
+                                  <codes>cbah</codes>
+                                  <other-codes></other-codes>
+                                  <end-date nil="true"></end-date>
+                                  <children type="array"/>
+                                  <updated-by>joe_leif</updated-by>
+                                  <pub-comments></pub-comments>
+                                  <node-type-id type="integer">10000</node-type-id>
+                                  <id type="integer">323994</id>
+                                  <updater-id type="integer">10740</updater-id>
+                                  <tree-id type="integer">11582</tree-id>
+                                  <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                                  <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                                  <geography nil="true"></geography>
+                                  <confidence>y</confidence>
+                                  <alt-names></alt-names>
+                                  <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                                  <status nil="true"></status>
+                                  <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                                  <sureness type="integer">0</sureness>
+                                </child>
+                              </children>
+                              <updated-by>joe_leif</updated-by>
+                              <pub-comments>Diffloth (2005: 79) does not explicitly name this branch</pub-comments>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <id type="integer">323993</id>
+                              <updater-id type="integer">10740</updater-id>
+                              <tree-id type="integer">11582</tree-id>
+                              <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                              <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                              <geography nil="true"></geography>
+                              <confidence>y</confidence>
+                              <alt-names></alt-names>
+                              <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                              <status nil="true"></status>
+                              <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                              <sureness type="integer">0</sureness>
+                            </child>
+                            <child>
+                              <start-date>500 BC</start-date>
+                              <deleted-at nil="true"></deleted-at>
+                              <creator-id type="integer">10740</creator-id>
+                              <node-type>Subgroup</node-type>
+                              <node-status-id nil="true"></node-status-id>
+                              <is-default type="integer">0</is-default>
+                              <pri-name>Northern Bahnaric</pri-name>
+                              <created-by>joe_leif</created-by>
+                              <codes>nbah</codes>
+                              <other-codes></other-codes>
+                              <end-date nil="true"></end-date>
+                              <children type="array"/>
+                              <updated-by>joe_leif</updated-by>
+                              <pub-comments></pub-comments>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <id type="integer">323992</id>
+                              <updater-id type="integer">10740</updater-id>
+                              <tree-id type="integer">11582</tree-id>
+                              <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                              <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                              <geography nil="true"></geography>
+                              <confidence>y</confidence>
+                              <alt-names></alt-names>
+                              <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                              <status nil="true"></status>
+                              <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                              <sureness type="integer">0</sureness>
+                            </child>
+                          </children>
+                          <updated-by>joe_leif</updated-by>
+                          <pub-comments>Diffloth (2005: 79) does not explicitly name this branch</pub-comments>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <id type="integer">323991</id>
+                          <updater-id type="integer">10740</updater-id>
+                          <tree-id type="integer">11582</tree-id>
+                          <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                          <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                          <geography nil="true"></geography>
+                          <confidence>y</confidence>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                          <status nil="true"></status>
+                          <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                          <sureness type="integer">0</sureness>
+                        </child>
+                        <child>
+                          <start-date>1500 BC</start-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <creator-id type="integer">10740</creator-id>
+                          <node-type>Subgroup</node-type>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <pri-name>Western-Northwestern Bahnaric</pri-name>
+                          <created-by>joe_leif</created-by>
+                          <codes>wnwb</codes>
+                          <other-codes></other-codes>
+                          <end-date>500 BC</end-date>
+                          <children type="array">
+                            <child>
+                              <start-date>500 BC</start-date>
+                              <deleted-at nil="true"></deleted-at>
+                              <creator-id type="integer">10740</creator-id>
+                              <node-type>Subgroup</node-type>
+                              <node-status-id nil="true"></node-status-id>
+                              <is-default type="integer">0</is-default>
+                              <pri-name>Western Bahnaric</pri-name>
+                              <created-by>joe_leif</created-by>
+                              <codes>wbah</codes>
+                              <other-codes></other-codes>
+                              <end-date nil="true"></end-date>
+                              <children type="array"/>
+                              <updated-by>joe_leif</updated-by>
+                              <pub-comments></pub-comments>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <id type="integer">323989</id>
+                              <updater-id type="integer">10740</updater-id>
+                              <tree-id type="integer">11582</tree-id>
+                              <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                              <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                              <geography nil="true"></geography>
+                              <confidence>y</confidence>
+                              <alt-names></alt-names>
+                              <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                              <status nil="true"></status>
+                              <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                              <sureness type="integer">0</sureness>
+                            </child>
+                            <child>
+                              <start-date>500 BC</start-date>
+                              <deleted-at nil="true"></deleted-at>
+                              <creator-id type="integer">10740</creator-id>
+                              <node-type>Subgroup</node-type>
+                              <node-status-id nil="true"></node-status-id>
+                              <is-default type="integer">0</is-default>
+                              <pri-name>Northwestern Bahnaric</pri-name>
+                              <created-by>joe_leif</created-by>
+                              <codes>wnba</codes>
+                              <other-codes></other-codes>
+                              <end-date nil="true"></end-date>
+                              <children type="array"/>
+                              <updated-by>joe_leif</updated-by>
+                              <pub-comments></pub-comments>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <id type="integer">323990</id>
+                              <updater-id type="integer">10740</updater-id>
+                              <tree-id type="integer">11582</tree-id>
+                              <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                              <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                              <geography nil="true"></geography>
+                              <confidence>y</confidence>
+                              <alt-names></alt-names>
+                              <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                              <status nil="true"></status>
+                              <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                              <sureness type="integer">0</sureness>
+                            </child>
+                          </children>
+                          <updated-by>joe_leif</updated-by>
+                          <pub-comments>Diffloth (2005: 79) does not explicitly name this branch</pub-comments>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <id type="integer">323988</id>
+                          <updater-id type="integer">10740</updater-id>
+                          <tree-id type="integer">11582</tree-id>
+                          <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                          <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                          <geography nil="true"></geography>
+                          <confidence>y</confidence>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                          <status nil="true"></status>
+                          <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                          <sureness type="integer">0</sureness>
+                        </child>
+                      </children>
+                      <updated-by>joe_leif</updated-by>
+                      <pub-comments>Diffloth (2005: 79) does not explicitly name this branch</pub-comments>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <id type="integer">323987</id>
+                      <updater-id type="integer">10740</updater-id>
+                      <tree-id type="integer">11582</tree-id>
+                      <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                      <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                      <geography nil="true"></geography>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                      <status nil="true"></status>
+                      <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                    <child>
+                      <start-date>2000 BC</start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <node-type>Subgroup</node-type>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <pri-name>Khmeric</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <codes>khmr</codes>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                      <updated-by>joe_leif</updated-by>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <id type="integer">323996</id>
+                      <updater-id type="integer">10740</updater-id>
+                      <tree-id type="integer">11582</tree-id>
+                      <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                      <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                      <geography nil="true"></geography>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                      <status nil="true"></status>
+                      <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                  </children>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <id type="integer">323986</id>
+                  <updater-id type="integer">10740</updater-id>
+                  <tree-id type="integer">11582</tree-id>
+                  <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                  <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                  <geography nil="true"></geography>
+                  <confidence>y</confidence>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                  <status nil="true"></status>
+                  <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <start-date>2500 BC</start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <node-type>Subgroup</node-type>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <pri-name>Vieto-Katuic</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <codes>veka</codes>
+                  <other-codes></other-codes>
+                  <end-date>1000 BC</end-date>
+                  <children type="array">
+                    <child>
+                      <start-date>1000 BC</start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <node-type>Subgroup</node-type>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <pri-name>Katuic</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <codes>katu</codes>
+                      <other-codes></other-codes>
+                      <end-date>0 AD</end-date>
+                      <children type="array">
+                        <child>
+                          <start-date nil="true"></start-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <creator-id type="integer">10740</creator-id>
+                          <node-type>Subgroup</node-type>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <pri-name>Western Katuic</pri-name>
+                          <created-by>joe_leif</created-by>
+                          <codes>wkat</codes>
+                          <other-codes></other-codes>
+                          <end-date>0 AD</end-date>
+                          <children type="array"/>
+                          <updated-by>joe_leif</updated-by>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <id type="integer">323985</id>
+                          <updater-id type="integer">10740</updater-id>
+                          <tree-id type="integer">11582</tree-id>
+                          <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                          <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                          <geography nil="true"></geography>
+                          <confidence>y</confidence>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                          <status nil="true"></status>
+                          <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                          <sureness type="integer">0</sureness>
+                        </child>
+                        <child>
+                          <start-date nil="true"></start-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <creator-id type="integer">10740</creator-id>
+                          <node-type>Subgroup</node-type>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <pri-name>Eastern Katuic</pri-name>
+                          <created-by>joe_leif</created-by>
+                          <codes>ekat</codes>
+                          <other-codes></other-codes>
+                          <end-date>0 AD</end-date>
+                          <children type="array"/>
+                          <updated-by>joe_leif</updated-by>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <id type="integer">323984</id>
+                          <updater-id type="integer">10740</updater-id>
+                          <tree-id type="integer">11582</tree-id>
+                          <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                          <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                          <geography nil="true"></geography>
+                          <confidence>y</confidence>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                          <status nil="true"></status>
+                          <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                          <sureness type="integer">0</sureness>
+                        </child>
+                      </children>
+                      <updated-by>joe_leif</updated-by>
+                      <pub-comments>Diffloth (2005: 79) does not explicitly name this branch</pub-comments>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <id type="integer">323983</id>
+                      <updater-id type="integer">10740</updater-id>
+                      <tree-id type="integer">11582</tree-id>
+                      <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                      <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                      <geography nil="true"></geography>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                      <status nil="true"></status>
+                      <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                    <child>
+                      <start-date>1000 BC</start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <node-type>Subgroup</node-type>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <pri-name>Vietic</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <codes>viem</codes>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                      <updated-by>joe_leif</updated-by>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <id type="integer">323982</id>
+                      <updater-id type="integer">10740</updater-id>
+                      <tree-id type="integer">11582</tree-id>
+                      <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                      <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                      <geography nil="true"></geography>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                      <status nil="true"></status>
+                      <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                  </children>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <id type="integer">323981</id>
+                  <updater-id type="integer">10740</updater-id>
+                  <tree-id type="integer">11582</tree-id>
+                  <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                  <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                  <geography nil="true"></geography>
+                  <confidence>y</confidence>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                  <status nil="true"></status>
+                  <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                  <sureness type="integer">0</sureness>
+                </child>
+              </children>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <id type="integer">323980</id>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">11582</tree-id>
+              <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+              <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+              <geography nil="true"></geography>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+              <status nil="true"></status>
+              <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+              <sureness type="integer">0</sureness>
+            </child>
+          </children>
+          <updated-by>joe_leif</updated-by>
+          <pub-comments>Diffloth (2005: 79) does not explicitly name this branch</pub-comments>
+          <node-type-id type="integer">10000</node-type-id>
+          <id type="integer">323979</id>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">11582</tree-id>
+          <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+          <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+          <geography nil="true"></geography>
+          <confidence>y</confidence>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+          <status nil="true"></status>
+          <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+          <sureness type="integer">0</sureness>
+        </child>
+        <child>
+          <start-date>2000 BC</start-date>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <node-type>Subgroup</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <pri-name>Munda</pri-name>
+          <created-by>joe_leif</created-by>
+          <codes>mund</codes>
+          <other-codes></other-codes>
+          <end-date>1000 BC</end-date>
+          <children type="array">
+            <child>
+              <start-date>1000 BC</start-date>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <node-type>Subgroup</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <pri-name>Koraput</pri-name>
+              <created-by>joe_leif</created-by>
+              <codes>korm</codes>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <id type="integer">323969</id>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">11582</tree-id>
+              <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+              <created-at type="datetime">2009-03-12T12:27:07-04:00</created-at>
+              <geography nil="true"></geography>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-03-12T12:27:07-04:00</updated-at>
+              <status nil="true"></status>
+              <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+              <sureness type="integer">0</sureness>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <node-type>Subgroup</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <pri-name>Proto Korku-Khewarian-Kharia-Juang</pri-name>
+              <created-by>joe_leif</created-by>
+              <codes>kkkj</codes>
+              <other-codes></other-codes>
+              <end-date>AD 0</end-date>
+              <children type="array">
+                <child>
+                  <start-date>AD 0</start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <node-type>Subgroup</node-type>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <pri-name>Proto Korku-Kherwarian</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <codes>nmun</codes>
+                  <other-codes></other-codes>
+                  <end-date>AD 1000</end-date>
+                  <children type="array">
+                    <child>
+                      <start-date>AD 1000</start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <node-type>Subgroup</node-type>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <pri-name>Kherwarian</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <codes>kher</codes>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                      <updated-by>joe_leif</updated-by>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <id type="integer">323967</id>
+                      <updater-id type="integer">10740</updater-id>
+                      <tree-id type="integer">11582</tree-id>
+                      <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                      <created-at type="datetime">2009-03-12T12:27:07-04:00</created-at>
+                      <geography nil="true"></geography>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2009-03-12T12:27:07-04:00</updated-at>
+                      <status nil="true"></status>
+                      <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                    <child>
+                      <start-date>AD 1000</start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <node-type>Subgroup</node-type>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <pri-name>Korku</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <codes>kork</codes>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                      <updated-by>joe_leif</updated-by>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <id type="integer">323966</id>
+                      <updater-id type="integer">10740</updater-id>
+                      <tree-id type="integer">11582</tree-id>
+                      <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                      <created-at type="datetime">2009-03-12T12:27:07-04:00</created-at>
+                      <geography nil="true"></geography>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2009-03-12T12:27:07-04:00</updated-at>
+                      <status nil="true"></status>
+                      <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                  </children>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments>Diffloth (2005: 79) does not explicitly name this branch</pub-comments>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <id type="integer">323965</id>
+                  <updater-id type="integer">10740</updater-id>
+                  <tree-id type="integer">11582</tree-id>
+                  <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                  <created-at type="datetime">2009-03-12T12:27:07-04:00</created-at>
+                  <geography nil="true"></geography>
+                  <confidence>y</confidence>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2009-03-12T12:27:07-04:00</updated-at>
+                  <status nil="true"></status>
+                  <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <start-date>AD 0</start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <node-type>Subgroup</node-type>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <pri-name>Kharia-Juang</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <codes>khaj</codes>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <id type="integer">323968</id>
+                  <updater-id type="integer">10740</updater-id>
+                  <tree-id type="integer">11582</tree-id>
+                  <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                  <created-at type="datetime">2009-03-12T12:27:07-04:00</created-at>
+                  <geography nil="true"></geography>
+                  <confidence>y</confidence>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2009-03-12T12:27:07-04:00</updated-at>
+                  <status nil="true"></status>
+                  <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                  <sureness type="integer">0</sureness>
+                </child>
+              </children>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments>Diffloth (2005: 79) does not explicitly name this branch</pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <id type="integer">323964</id>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">11582</tree-id>
+              <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+              <created-at type="datetime">2009-03-12T12:27:07-04:00</created-at>
+              <geography nil="true"></geography>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-03-12T12:27:07-04:00</updated-at>
+              <status nil="true"></status>
+              <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+              <sureness type="integer">0</sureness>
+            </child>
+          </children>
+          <updated-by>joe_leif</updated-by>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10000</node-type-id>
+          <id type="integer">323963</id>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">11582</tree-id>
+          <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+          <created-at type="datetime">2009-03-12T12:27:07-04:00</created-at>
+          <geography nil="true"></geography>
+          <confidence>y</confidence>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-03-12T12:27:07-04:00</updated-at>
+          <status nil="true"></status>
+          <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+          <sureness type="integer">0</sureness>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <node-type>Subgroup</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <pri-name>Khasi-Khmuic</pri-name>
+          <created-by>joe_leif</created-by>
+          <codes>nmkh</codes>
+          <other-codes></other-codes>
+          <end-date>2000 BC</end-date>
+          <children type="array">
+            <child>
+              <start-date>2000 BC</start-date>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <node-type>Subgroup</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <pri-name>Proto Pakanic-Palaungic-Khmuic</pri-name>
+              <created-by>joe_leif</created-by>
+              <codes>ppkh</codes>
+              <other-codes></other-codes>
+              <end-date>1000 BC</end-date>
+              <children type="array">
+                <child>
+                  <start-date>1000 BC</start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <node-type>Subgroup</node-type>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <pri-name>Proto Pakanic-Palaungic</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <codes>pkpl</codes>
+                  <other-codes></other-codes>
+                  <end-date>500 BC</end-date>
+                  <children type="array">
+                    <child>
+                      <start-date>500 BC</start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <node-type>Subgroup</node-type>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <pri-name>Palaungic</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <codes>palc</codes>
+                      <other-codes></other-codes>
+                      <end-date>AD 0</end-date>
+                      <children type="array">
+                        <child>
+                          <start-date>AD 0</start-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <creator-id type="integer">10740</creator-id>
+                          <node-type>Subgroup</node-type>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <pri-name>Eastern Palaungic</pri-name>
+                          <created-by>joe_leif</created-by>
+                          <codes>epal</codes>
+                          <other-codes></other-codes>
+                          <end-date nil="true"></end-date>
+                          <children type="array"/>
+                          <updated-by>joe_leif</updated-by>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <id type="integer">323976</id>
+                          <updater-id type="integer">10740</updater-id>
+                          <tree-id type="integer">11582</tree-id>
+                          <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                          <created-at type="datetime">2009-03-12T12:27:07-04:00</created-at>
+                          <geography nil="true"></geography>
+                          <confidence>y</confidence>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2009-03-12T12:27:07-04:00</updated-at>
+                          <status nil="true"></status>
+                          <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                          <sureness type="integer">0</sureness>
+                        </child>
+                        <child>
+                          <start-date>AD 0</start-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <creator-id type="integer">10740</creator-id>
+                          <node-type>Subgroup</node-type>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <pri-name>Western Palaungic</pri-name>
+                          <created-by>joe_leif</created-by>
+                          <codes>wpal</codes>
+                          <other-codes></other-codes>
+                          <end-date nil="true"></end-date>
+                          <children type="array"/>
+                          <updated-by>joe_leif</updated-by>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <id type="integer">323977</id>
+                          <updater-id type="integer">10740</updater-id>
+                          <tree-id type="integer">11582</tree-id>
+                          <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                          <created-at type="datetime">2009-03-12T12:27:07-04:00</created-at>
+                          <geography nil="true"></geography>
+                          <confidence>y</confidence>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                          <status nil="true"></status>
+                          <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                          <sureness type="integer">0</sureness>
+                        </child>
+                      </children>
+                      <updated-by>joe_leif</updated-by>
+                      <pub-comments>Diffloth (2005: 79) does not explicitly name this branch</pub-comments>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <id type="integer">323975</id>
+                      <updater-id type="integer">10740</updater-id>
+                      <tree-id type="integer">11582</tree-id>
+                      <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                      <created-at type="datetime">2009-03-12T12:27:07-04:00</created-at>
+                      <geography nil="true"></geography>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2009-03-12T12:27:07-04:00</updated-at>
+                      <status nil="true"></status>
+                      <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                    <child>
+                      <start-date>500 BC</start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <node-type>Subgroup</node-type>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <pri-name>Pakanic</pri-name>
+                      <created-by>joe_leif</created-by>
+                      <codes>paly</codes>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                      <updated-by>joe_leif</updated-by>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <id type="integer">323974</id>
+                      <updater-id type="integer">10740</updater-id>
+                      <tree-id type="integer">11582</tree-id>
+                      <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                      <created-at type="datetime">2009-03-12T12:27:07-04:00</created-at>
+                      <geography nil="true"></geography>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2009-03-12T12:27:07-04:00</updated-at>
+                      <status nil="true"></status>
+                      <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                  </children>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments>Diffloth (2005: 79) does not explicitly name this branch</pub-comments>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <id type="integer">323973</id>
+                  <updater-id type="integer">10740</updater-id>
+                  <tree-id type="integer">11582</tree-id>
+                  <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                  <created-at type="datetime">2009-03-12T12:27:07-04:00</created-at>
+                  <geography nil="true"></geography>
+                  <confidence>y</confidence>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2009-03-12T12:27:07-04:00</updated-at>
+                  <status nil="true"></status>
+                  <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <start-date>1000 BC</start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <node-type>Subgroup</node-type>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <pri-name>Khmuic</pri-name>
+                  <created-by>joe_leif</created-by>
+                  <codes>khmc</codes>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <id type="integer">323978</id>
+                  <updater-id type="integer">10740</updater-id>
+                  <tree-id type="integer">11582</tree-id>
+                  <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+                  <created-at type="datetime">2009-03-12T12:27:08-04:00</created-at>
+                  <geography nil="true"></geography>
+                  <confidence>y</confidence>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2009-03-12T12:27:08-04:00</updated-at>
+                  <status nil="true"></status>
+                  <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+                  <sureness type="integer">0</sureness>
+                </child>
+              </children>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments>Diffloth (2005: 79) does not explicitly name this branch</pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <id type="integer">323972</id>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">11582</tree-id>
+              <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+              <created-at type="datetime">2009-03-12T12:27:07-04:00</created-at>
+              <geography nil="true"></geography>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-03-12T12:27:07-04:00</updated-at>
+              <status nil="true"></status>
+              <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+              <sureness type="integer">0</sureness>
+            </child>
+            <child>
+              <start-date>2000 BC</start-date>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <node-type>Subgroup</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <pri-name>Khasian</pri-name>
+              <created-by>joe_leif</created-by>
+              <codes>khas</codes>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <id type="integer">323971</id>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">11582</tree-id>
+              <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+              <created-at type="datetime">2009-03-12T12:27:07-04:00</created-at>
+              <geography nil="true"></geography>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2009-03-12T12:27:07-04:00</updated-at>
+              <status nil="true"></status>
+              <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+              <sureness type="integer">0</sureness>
+            </child>
+          </children>
+          <updated-by>joe_leif</updated-by>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10000</node-type-id>
+          <id type="integer">323970</id>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">11582</tree-id>
+          <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+          <created-at type="datetime">2009-03-12T12:27:07-04:00</created-at>
+          <geography nil="true"></geography>
+          <confidence>y</confidence>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-03-12T12:27:07-04:00</updated-at>
+          <status nil="true"></status>
+          <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+          <sureness type="integer">0</sureness>
+        </child>
+      </children>
+      <updated-by>joe_leif</updated-by>
+      <pub-comments>Diffloth (2005: 79) does not explicitly name this branch</pub-comments>
+      <node-type-id type="integer">10000</node-type-id>
+      <id type="integer">323962</id>
+      <updater-id type="integer">10740</updater-id>
+      <tree-id type="integer">11582</tree-id>
+      <tree-val>Austro-Asiatic: Diffloth 2005</tree-val>
+      <created-at type="datetime">2009-03-12T12:27:06-04:00</created-at>
+      <geography nil="true"></geography>
+      <confidence>y</confidence>
+      <alt-names></alt-names>
+      <updated-at type="datetime">2009-03-12T12:27:07-04:00</updated-at>
+      <status nil="true"></status>
+      <publications>Diffloth, Gerard Felix. 2005. The Contribution of Linguistic Palaeontology to the Homeland of Austro-Asiatic, The Peopling of East Asia: Putting together archaeology, linguistics and genetics, 77-80. New York: Routledge. ISBN 0-415-32242-1</publications>
+      <sureness type="integer">0</sureness>
+    </root>
+    <description>Austro-Asiatic: Diffloth 2005</description>
+  </tree>
+</hash>

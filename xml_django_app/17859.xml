@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <node-status-id nil="true"></node-status-id>
+      <codes>adaz</codes>
+      <status nil="true"></status>
+      <node-type>Subgroup</node-type>
+      <is-default type="integer">0</is-default>
+      <confidence>y</confidence>
+      <other-codes></other-codes>
+      <created-at type="datetime">2010-06-17T11:33:25-04:00</created-at>
+      <sureness type="integer">0</sureness>
+      <publications>Powell, J. W. 1891. Indian Linguistic Families of America North of Mexico, 45-46. Washington D.C.: Government Printing Office. </publications>
+      <start-date nil="true"></start-date>
+      <alt-names></alt-names>
+      <updater-id type="integer">10740</updater-id>
+      <updated-by>joe_leif</updated-by>
+      <tree-val>Adaizan: Powell 1891</tree-val>
+      <id type="integer">714570</id>
+      <end-date nil="true"></end-date>
+      <creator-id type="integer">10740</creator-id>
+      <geography nil="true"></geography>
+      <deleted-at nil="true"></deleted-at>
+      <pub-comments></pub-comments>
+      <node-type-id type="integer">10000</node-type-id>
+      <created-by>joe_leif</created-by>
+      <children type="array">
+        <child>
+          <node-status-id type="integer">10000</node-status-id>
+          <codes>xad</codes>
+          <status>Extinct</status>
+          <node-type>Language</node-type>
+          <is-default type="integer">0</is-default>
+          <confidence>y</confidence>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-06-17T11:33:26-04:00</created-at>
+          <sureness type="integer">0</sureness>
+          <publications>Powell, J. W. 1891. Indian Linguistic Families of America North of Mexico, 45-46. Washington D.C.: Government Printing Office. </publications>
+          <start-date nil="true"></start-date>
+          <alt-names>Adaize, Adaizi, Adaise, Adahi, Adaes, Adees, Ad&#225;i</alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <tree-val>Adaizan: Powell 1891</tree-val>
+          <id type="integer">714571</id>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <geography>"About 40 miles from Natchitoches, below the Yattasseess, on a lake called Lac Macdon, which communicates with the division of Red River that passes by Bayau Pierre." (p. 46)</geography>
+          <deleted-at nil="true"></deleted-at>
+          <pub-comments>From a Caddo word 'hadai', sig. "brush wood".  Spoken by a single tribe. Gatschet found that some Caddoan tribes remember the Adai formerly belonging to the Caddoan Confederacy.  More than this has not been gleaned, so possible relationship remains uncertain.</pub-comments>
+          <node-type-id type="integer">10001</node-type-id>
+          <created-by>joe_leif</created-by>
+          <children type="array"/>
+          <updated-at type="datetime">2010-06-17T11:33:26-04:00</updated-at>
+          <tree-id type="integer">17859</tree-id>
+          <pri-name>Adai</pri-name>
+        </child>
+      </children>
+      <updated-at type="datetime">2010-06-17T11:33:26-04:00</updated-at>
+      <tree-id type="integer">17859</tree-id>
+      <pri-name>Adaizan</pri-name>
+    </root>
+    <description>Adaizan: Powell 1891</description>
+  </tree>
+</hash>

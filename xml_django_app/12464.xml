@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <updater-id type="integer">10740</updater-id>
+      <other-codes></other-codes>
+      <id type="integer">418150</id>
+      <alt-names></alt-names>
+      <tree-val>Chapacura: Dryer 2005</tree-val>
+      <is-default type="integer">0</is-default>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <node-type-id type="integer">10000</node-type-id>
+      <node-status-id nil="true"></node-status-id>
+      <children type="array">
+        <child>
+          <updater-id type="integer">10740</updater-id>
+          <other-codes>war</other-codes>
+          <id type="integer">418151</id>
+          <alt-names>Pakasnovos</alt-names>
+          <tree-val>Chapacura: Dryer 2005</tree-val>
+          <is-default type="integer">0</is-default>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10001</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <children type="array"/>
+          <updated-by>joe_leif</updated-by>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <start-date nil="true"></start-date>
+          <node-type>Language</node-type>
+          <codes>pav</codes>
+          <tree-id type="integer">12464</tree-id>
+          <confidence>y</confidence>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 640. New York: Oxford University Press. ISBN 0199255911</publications>
+          <pri-name>Wari'</pri-name>
+          <updated-at type="datetime">2009-05-19T18:24:17-04:00</updated-at>
+          <geography>Country: Brazil; Lat.: -11.33; Long.: -65</geography>
+          <created-at type="datetime">2009-05-19T18:24:16-04:00</created-at>
+          <sureness type="integer">0</sureness>
+          <status nil="true"></status>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+        </child>
+      </children>
+      <updated-by>joe_leif</updated-by>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <start-date nil="true"></start-date>
+      <node-type>Subgroup</node-type>
+      <codes>chaw</codes>
+      <tree-id type="integer">12464</tree-id>
+      <confidence>y</confidence>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 640. New York: Oxford University Press. ISBN 0199255911</publications>
+      <pri-name>Chapacura-Wanhan</pri-name>
+      <updated-at type="datetime">2009-05-19T18:24:16-04:00</updated-at>
+      <geography nil="true"></geography>
+      <created-at type="datetime">2009-05-19T18:24:16-04:00</created-at>
+      <sureness type="integer">0</sureness>
+      <status nil="true"></status>
+      <end-date nil="true"></end-date>
+      <deleted-at nil="true"></deleted-at>
+    </root>
+    <description>Chapacura: Dryer 2005</description>
+  </tree>
+</hash>

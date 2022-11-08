@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <confidence>y</confidence>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <updater-id type="integer">10740</updater-id>
+      <tree-id type="integer">14186</tree-id>
+      <node-type>Subgroup</node-type>
+      <updated-at type="datetime">2009-07-20T18:51:36-04:00</updated-at>
+      <other-codes></other-codes>
+      <start-date nil="true"></start-date>
+      <pri-name>Chibchan</pri-name>
+      <id type="integer">534217</id>
+      <tree-val>Chibchan: Dryer 2005</tree-val>
+      <node-status-id nil="true"></node-status-id>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+      <created-by>joe_leif</created-by>
+      <geography nil="true"></geography>
+      <deleted-at nil="true"></deleted-at>
+      <status nil="true"></status>
+      <codes>chib</codes>
+      <children type="array">
+        <child>
+          <pub-comments></pub-comments>
+          <confidence>y</confidence>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">14186</tree-id>
+          <node-type>Subgroup</node-type>
+          <updated-at type="datetime">2009-07-20T18:51:37-04:00</updated-at>
+          <other-codes></other-codes>
+          <start-date nil="true"></start-date>
+          <pri-name>Talamanca</pri-name>
+          <id type="integer">534236</id>
+          <tree-val>Chibchan: Dryer 2005</tree-val>
+          <node-status-id nil="true"></node-status-id>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+          <created-by>joe_leif</created-by>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <status nil="true"></status>
+          <codes>tala</codes>
+          <children type="array">
+            <child>
+              <pub-comments></pub-comments>
+              <confidence>y</confidence>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">14186</tree-id>
+              <node-type>Language</node-type>
+              <updated-at type="datetime">2009-07-20T18:51:37-04:00</updated-at>
+              <other-codes>trb</other-codes>
+              <start-date nil="true"></start-date>
+              <pri-name>Teribe</pri-name>
+              <id type="integer">534240</id>
+              <tree-val>Chibchan: Dryer 2005</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+              <created-by>joe_leif</created-by>
+              <geography>Country: Costa Rica, Panama; Lat.: 9.33; Long.: -82.67</geography>
+              <deleted-at nil="true"></deleted-at>
+              <status nil="true"></status>
+              <codes>tfr</codes>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <is-default type="integer">0</is-default>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2009-07-20T18:51:37-04:00</created-at>
+            </child>
+            <child>
+              <pub-comments></pub-comments>
+              <confidence>y</confidence>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">14186</tree-id>
+              <node-type>Language</node-type>
+              <updated-at type="datetime">2009-07-20T18:51:37-04:00</updated-at>
+              <other-codes>bri</other-codes>
+              <start-date nil="true"></start-date>
+              <pri-name>Bribri</pri-name>
+              <id type="integer">534238</id>
+              <tree-val>Chibchan: Dryer 2005</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+              <created-by>joe_leif</created-by>
+              <geography>Country: Costa Rica; Lat.: 9.42; Long.: -83</geography>
+              <deleted-at nil="true"></deleted-at>
+              <status nil="true"></status>
+              <codes>bzd</codes>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <is-default type="integer">0</is-default>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2009-07-20T18:51:37-04:00</created-at>
+            </child>
+            <child>
+              <pub-comments></pub-comments>
+              <confidence>y</confidence>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">14186</tree-id>
+              <node-type>Language</node-type>
+              <updated-at type="datetime">2009-07-20T18:51:37-04:00</updated-at>
+              <other-codes>brc</other-codes>
+              <start-date nil="true"></start-date>
+              <pri-name>Boruca</pri-name>
+              <id type="integer">534237</id>
+              <tree-val>Chibchan: Dryer 2005</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+              <created-by>joe_leif</created-by>
+              <geography>Country: Costa Rica; Lat.: 8.83; Long.: -83.25</geography>
+              <deleted-at nil="true"></deleted-at>
+              <status nil="true"></status>
+              <codes>brn</codes>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <is-default type="integer">0</is-default>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2009-07-20T18:51:37-04:00</created-at>
+            </child>
+            <child>
+              <pub-comments></pub-comments>
+              <confidence>y</confidence>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">14186</tree-id>
+              <node-type>Language</node-type>
+              <updated-at type="datetime">2009-07-20T18:51:37-04:00</updated-at>
+              <other-codes>cab</other-codes>
+              <start-date nil="true"></start-date>
+              <pri-name>Cab&#233;car</pri-name>
+              <id type="integer">534239</id>
+              <tree-val>Chibchan: Dryer 2005</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+              <created-by>joe_leif</created-by>
+              <geography>Country: Costa Rica; Lat.: 9.75; Long.: -83.42</geography>
+              <deleted-at nil="true"></deleted-at>
+              <status nil="true"></status>
+              <codes>cjp</codes>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <is-default type="integer">0</is-default>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2009-07-20T18:51:37-04:00</created-at>
+            </child>
+          </children>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <is-default type="integer">0</is-default>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <created-at type="datetime">2009-07-20T18:51:36-04:00</created-at>
+        </child>
+        <child>
+          <pub-comments></pub-comments>
+          <confidence>y</confidence>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">14186</tree-id>
+          <node-type>Subgroup</node-type>
+          <updated-at type="datetime">2009-07-20T18:51:36-04:00</updated-at>
+          <other-codes></other-codes>
+          <start-date nil="true"></start-date>
+          <pri-name>Aruak</pri-name>
+          <id type="integer">534218</id>
+          <tree-val>Chibchan: Dryer 2005</tree-val>
+          <node-status-id nil="true"></node-status-id>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+          <created-by>joe_leif</created-by>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <status nil="true"></status>
+          <codes>arua</codes>
+          <children type="array">
+            <child>
+              <pub-comments></pub-comments>
+              <confidence>y</confidence>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Ica</alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">14186</tree-id>
+              <node-type>Language</node-type>
+              <updated-at type="datetime">2009-07-20T18:51:36-04:00</updated-at>
+              <other-codes>ika</other-codes>
+              <start-date nil="true"></start-date>
+              <pri-name>Ika</pri-name>
+              <id type="integer">534221</id>
+              <tree-val>Chibchan: Dryer 2005</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+              <created-by>joe_leif</created-by>
+              <geography>Country: Colombia; Lat.: 10.67; Long.: -73.75</geography>
+              <deleted-at nil="true"></deleted-at>
+              <status nil="true"></status>
+              <codes>arh</codes>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <is-default type="integer">0</is-default>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2009-07-20T18:51:36-04:00</created-at>
+            </child>
+            <child>
+              <pub-comments></pub-comments>
+              <confidence>y</confidence>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">14186</tree-id>
+              <node-type>Language</node-type>
+              <updated-at type="datetime">2009-07-20T18:51:36-04:00</updated-at>
+              <other-codes>cog</other-codes>
+              <start-date nil="true"></start-date>
+              <pri-name>Cogui</pri-name>
+              <id type="integer">534219</id>
+              <tree-val>Chibchan: Dryer 2005</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+              <created-by>joe_leif</created-by>
+              <geography>Country: Colombia; Lat.: 11; Long.: -73.83</geography>
+              <deleted-at nil="true"></deleted-at>
+              <status nil="true"></status>
+              <codes>kog</codes>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <is-default type="integer">0</is-default>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2009-07-20T18:51:36-04:00</created-at>
+            </child>
+            <child>
+              <pub-comments></pub-comments>
+              <confidence>y</confidence>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Malayo</alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">14186</tree-id>
+              <node-type>Language</node-type>
+              <updated-at type="datetime">2009-07-20T18:51:36-04:00</updated-at>
+              <other-codes>dam</other-codes>
+              <start-date nil="true"></start-date>
+              <pri-name>Damana</pri-name>
+              <id type="integer">534220</id>
+              <tree-val>Chibchan: Dryer 2005</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+              <created-by>joe_leif</created-by>
+              <geography>Country: Colombia; Lat.: 11; Long.: -73.5</geography>
+              <deleted-at nil="true"></deleted-at>
+              <status nil="true"></status>
+              <codes>mbp</codes>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <is-default type="integer">0</is-default>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2009-07-20T18:51:36-04:00</created-at>
+            </child>
+          </children>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <is-default type="integer">0</is-default>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <created-at type="datetime">2009-07-20T18:51:36-04:00</created-at>
+        </child>
+        <child>
+          <pub-comments></pub-comments>
+          <confidence>y</confidence>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">14186</tree-id>
+          <node-type>Subgroup</node-type>
+          <updated-at type="datetime">2009-07-20T18:51:36-04:00</updated-at>
+          <other-codes></other-codes>
+          <start-date nil="true"></start-date>
+          <pri-name>Motilon</pri-name>
+          <id type="integer">534230</id>
+          <tree-val>Chibchan: Dryer 2005</tree-val>
+          <node-status-id nil="true"></node-status-id>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+          <created-by>joe_leif</created-by>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <status nil="true"></status>
+          <codes>moti</codes>
+          <children type="array">
+            <child>
+              <pub-comments></pub-comments>
+              <confidence>y</confidence>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Motiln</alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">14186</tree-id>
+              <node-type>Language</node-type>
+              <updated-at type="datetime">2009-07-20T18:51:36-04:00</updated-at>
+              <other-codes>mti</other-codes>
+              <start-date nil="true"></start-date>
+              <pri-name>Motil&#243;n (Chibchan)</pri-name>
+              <id type="integer">534231</id>
+              <tree-val>Chibchan: Dryer 2005</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+              <created-by>joe_leif</created-by>
+              <geography>Country: Colombia, Venezuela; Lat.: 9; Long.: -73</geography>
+              <deleted-at nil="true"></deleted-at>
+              <status nil="true"></status>
+              <codes>mot</codes>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <is-default type="integer">0</is-default>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2009-07-20T18:51:36-04:00</created-at>
+            </child>
+          </children>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <is-default type="integer">0</is-default>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <created-at type="datetime">2009-07-20T18:51:36-04:00</created-at>
+        </child>
+        <child>
+          <pub-comments></pub-comments>
+          <confidence>y</confidence>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">14186</tree-id>
+          <node-type>Subgroup</node-type>
+          <updated-at type="datetime">2009-07-20T18:51:36-04:00</updated-at>
+          <other-codes></other-codes>
+          <start-date nil="true"></start-date>
+          <pri-name>Kuna</pri-name>
+          <id type="integer">534228</id>
+          <tree-val>Chibchan: Dryer 2005</tree-val>
+          <node-status-id nil="true"></node-status-id>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+          <created-by>joe_leif</created-by>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <status nil="true"></status>
+          <codes>kuna</codes>
+          <children type="array">
+            <child>
+              <pub-comments></pub-comments>
+              <confidence>y</confidence>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Kuna (Border)</alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">14186</tree-id>
+              <node-type>Language</node-type>
+              <updated-at type="datetime">2009-07-20T18:51:36-04:00</updated-at>
+              <other-codes>kun</other-codes>
+              <start-date nil="true"></start-date>
+              <pri-name>Kuna</pri-name>
+              <id type="integer">534229</id>
+              <tree-val>Chibchan: Dryer 2005</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+              <created-by>joe_leif</created-by>
+              <geography>Country: Panama, Colombia; Lat.: 8; Long.: -77.33</geography>
+              <deleted-at nil="true"></deleted-at>
+              <status nil="true"></status>
+              <codes>kvn</codes>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <is-default type="integer">0</is-default>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2009-07-20T18:51:36-04:00</created-at>
+            </child>
+          </children>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <is-default type="integer">0</is-default>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <created-at type="datetime">2009-07-20T18:51:36-04:00</created-at>
+        </child>
+        <child>
+          <pub-comments></pub-comments>
+          <confidence>y</confidence>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">14186</tree-id>
+          <node-type>Subgroup</node-type>
+          <updated-at type="datetime">2009-07-20T18:51:36-04:00</updated-at>
+          <other-codes></other-codes>
+          <start-date nil="true"></start-date>
+          <pri-name>Chibchan Proper</pri-name>
+          <id type="integer">534222</id>
+          <tree-val>Chibchan: Dryer 2005</tree-val>
+          <node-status-id nil="true"></node-status-id>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+          <created-by>joe_leif</created-by>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <status nil="true"></status>
+          <codes>chpr</codes>
+          <children type="array">
+            <child>
+              <pub-comments></pub-comments>
+              <confidence>y</confidence>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Chibcha</alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">14186</tree-id>
+              <node-type>Language</node-type>
+              <updated-at type="datetime">2009-07-20T18:51:36-04:00</updated-at>
+              <other-codes>msc</other-codes>
+              <start-date nil="true"></start-date>
+              <pri-name>Muisca</pri-name>
+              <id type="integer">534223</id>
+              <tree-val>Chibchan: Dryer 2005</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+              <created-by>joe_leif</created-by>
+              <geography>Country: Colombia; Lat.: 5; Long.: -74</geography>
+              <deleted-at nil="true"></deleted-at>
+              <status nil="true"></status>
+              <codes>chb</codes>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <is-default type="integer">0</is-default>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2009-07-20T18:51:36-04:00</created-at>
+            </child>
+            <child>
+              <pub-comments>it has 4 varieties in Ethnologue: Tunebo (Angosturas), Tunebo (Barro Negro), Western Tunebo, Central Tunebo</pub-comments>
+              <confidence>y</confidence>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">14186</tree-id>
+              <node-type>Language</node-type>
+              <updated-at type="datetime">2009-07-20T18:51:36-04:00</updated-at>
+              <other-codes>tnb</other-codes>
+              <start-date nil="true"></start-date>
+              <pri-name>Tunebo</pri-name>
+              <id type="integer">534224</id>
+              <tree-val>Chibchan: Dryer 2005</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+              <created-by>joe_leif</created-by>
+              <geography>Country: Colombia; Lat.: 6.75; Long.: -72.25</geography>
+              <deleted-at nil="true"></deleted-at>
+              <status nil="true"></status>
+              <codes>tnd</codes>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <is-default type="integer">0</is-default>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2009-07-20T18:51:36-04:00</created-at>
+            </child>
+          </children>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <is-default type="integer">0</is-default>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <created-at type="datetime">2009-07-20T18:51:36-04:00</created-at>
+        </child>
+        <child>
+          <pub-comments></pub-comments>
+          <confidence>y</confidence>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">14186</tree-id>
+          <node-type>Subgroup</node-type>
+          <updated-at type="datetime">2009-07-20T18:51:36-04:00</updated-at>
+          <other-codes></other-codes>
+          <start-date nil="true"></start-date>
+          <pri-name>Guaymi</pri-name>
+          <id type="integer">534225</id>
+          <tree-val>Chibchan: Dryer 2005</tree-val>
+          <node-status-id nil="true"></node-status-id>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+          <created-by>joe_leif</created-by>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <status nil="true"></status>
+          <codes>guai</codes>
+          <children type="array">
+            <child>
+              <pub-comments></pub-comments>
+              <confidence>y</confidence>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">14186</tree-id>
+              <node-type>Language</node-type>
+              <updated-at type="datetime">2009-07-20T18:51:36-04:00</updated-at>
+              <other-codes>nbr</other-codes>
+              <start-date nil="true"></start-date>
+              <pri-name>Ng&#228;bere</pri-name>
+              <id type="integer">534227</id>
+              <tree-val>Chibchan: Dryer 2005</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+              <created-by>joe_leif</created-by>
+              <geography>Country: Panama; Lat.: 8.67; Long.: -82</geography>
+              <deleted-at nil="true"></deleted-at>
+              <status nil="true"></status>
+              <codes>gym</codes>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <is-default type="integer">0</is-default>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2009-07-20T18:51:36-04:00</created-at>
+            </child>
+            <child>
+              <pub-comments></pub-comments>
+              <confidence>y</confidence>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">14186</tree-id>
+              <node-type>Language</node-type>
+              <updated-at type="datetime">2009-07-20T18:51:36-04:00</updated-at>
+              <other-codes>bgl</other-codes>
+              <start-date nil="true"></start-date>
+              <pri-name>Buglere</pri-name>
+              <id type="integer">534226</id>
+              <tree-val>Chibchan: Dryer 2005</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+              <created-by>joe_leif</created-by>
+              <geography>Country: Panama; Lat.: 8.5; Long.: -81.25</geography>
+              <deleted-at nil="true"></deleted-at>
+              <status nil="true"></status>
+              <codes>sab</codes>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <is-default type="integer">0</is-default>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2009-07-20T18:51:36-04:00</created-at>
+            </child>
+          </children>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <is-default type="integer">0</is-default>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <created-at type="datetime">2009-07-20T18:51:36-04:00</created-at>
+        </child>
+        <child>
+          <pub-comments></pub-comments>
+          <confidence>y</confidence>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">14186</tree-id>
+          <node-type>Subgroup</node-type>
+          <updated-at type="datetime">2009-07-20T18:51:36-04:00</updated-at>
+          <other-codes></other-codes>
+          <start-date nil="true"></start-date>
+          <pri-name>Paya</pri-name>
+          <id type="integer">534232</id>
+          <tree-val>Chibchan: Dryer 2005</tree-val>
+          <node-status-id nil="true"></node-status-id>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+          <created-by>joe_leif</created-by>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <status nil="true"></status>
+          <codes>paya</codes>
+          <children type="array">
+            <child>
+              <pub-comments></pub-comments>
+              <confidence>y</confidence>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">14186</tree-id>
+              <node-type>Language</node-type>
+              <updated-at type="datetime">2009-07-20T18:51:36-04:00</updated-at>
+              <other-codes>pec</other-codes>
+              <start-date nil="true"></start-date>
+              <pri-name>Pech</pri-name>
+              <id type="integer">534233</id>
+              <tree-val>Chibchan: Dryer 2005</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+              <created-by>joe_leif</created-by>
+              <geography>Country: Honduras; Lat.: 15; Long.: -85.5</geography>
+              <deleted-at nil="true"></deleted-at>
+              <status nil="true"></status>
+              <codes>pay</codes>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <is-default type="integer">0</is-default>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2009-07-20T18:51:36-04:00</created-at>
+            </child>
+          </children>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <is-default type="integer">0</is-default>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <created-at type="datetime">2009-07-20T18:51:36-04:00</created-at>
+        </child>
+        <child>
+          <pub-comments></pub-comments>
+          <confidence>y</confidence>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">14186</tree-id>
+          <node-type>Subgroup</node-type>
+          <updated-at type="datetime">2009-07-20T18:51:36-04:00</updated-at>
+          <other-codes></other-codes>
+          <start-date nil="true"></start-date>
+          <pri-name>Rama</pri-name>
+          <id type="integer">534234</id>
+          <tree-val>Chibchan: Dryer 2005</tree-val>
+          <node-status-id nil="true"></node-status-id>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+          <created-by>joe_leif</created-by>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <status nil="true"></status>
+          <codes>rama</codes>
+          <children type="array">
+            <child>
+              <pub-comments></pub-comments>
+              <confidence>y</confidence>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">14186</tree-id>
+              <node-type>Language</node-type>
+              <updated-at type="datetime">2009-07-20T18:51:36-04:00</updated-at>
+              <other-codes>ram</other-codes>
+              <start-date nil="true"></start-date>
+              <pri-name>Rama</pri-name>
+              <id type="integer">534235</id>
+              <tree-val>Chibchan: Dryer 2005</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 634. New York: Oxford University Press. ISBN 0199255911</publications>
+              <created-by>joe_leif</created-by>
+              <geography>Country: Nicaragua; Lat.: 11.75; Long.: -83.75</geography>
+              <deleted-at nil="true"></deleted-at>
+              <status nil="true"></status>
+              <codes>rma</codes>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <sureness type="integer">0</sureness>
+              <is-default type="integer">0</is-default>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2009-07-20T18:51:36-04:00</created-at>
+            </child>
+          </children>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <is-default type="integer">0</is-default>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <created-at type="datetime">2009-07-20T18:51:36-04:00</created-at>
+        </child>
+      </children>
+      <updated-by>joe_leif</updated-by>
+      <sureness type="integer">0</sureness>
+      <is-default type="integer">0</is-default>
+      <end-date nil="true"></end-date>
+      <creator-id type="integer">10740</creator-id>
+      <created-at type="datetime">2009-07-20T18:51:36-04:00</created-at>
+    </root>
+    <description>Chibchan: Dryer 2005</description>
+  </tree>
+</hash>

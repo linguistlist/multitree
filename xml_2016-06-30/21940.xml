@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <tree-id type="integer">21940</tree-id>
+      <codes>jiva</codes>
+      <sureness type="integer">0</sureness>
+      <end-date nil="true"></end-date>
+      <created-by>joe_leif</created-by>
+      <tree-val>Jivaroan: Campbell, Grondona 2012</tree-val>
+      <pub-comments>These could be dialects or languages. Kaufman (2007:69) considers J&#237;varo a &#8220;language area&#8221; with two emergent languages, J&#237;varo [Hivaro] and Aguaruna [Awaruna] (Awahun). Adelaar (2004:616) and Ethnologue list four Jivaroan languages: Aguaruna, Achuar (Achual), Huambisa, and Shuar.  Palta (Eucador) is sometimes said to be related to Jivaroan (Loukotka 1968:157), though Kuafman (2007:69) says it &#8220;shows little resemblance.&#8221; Adelaar also lists Xoroca (also called Palta) as Jivaroan, a hypothesis Torero (2002:284-7) also appeared to favored. Malacato (Ecuador), another extinct language, is often associated with Jivaroan (Loukotka 1968:157). Loukotka (1968:157) considered Huambisa and &#8220;Achual,&#8221;  together with Antipa, Gualaquiza, Upano, Canelo (Penday), and Bolona, to be dialects of &#8220;J&#237;baro&#8221; (Shuara). Torero (2002:287) believed in a &#8220;Palta-J&#237;baro&#8221; family, but where two branches needed to be distinguished, &#8220;Palta-Malacata&#8221; (perhaps also with Cumbinam&#225;] and the J&#237;baro branch.</pub-comments>
+      <node-type-id type="integer">10000</node-type-id>
+      <is-default type="integer">0</is-default>
+      <geography>Ecuador, Peru</geography>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <updated-by>joe_leif</updated-by>
+      <deleted-at nil="true"></deleted-at>
+      <created-at type="datetime">2013-05-22T09:58:23-04:00</created-at>
+      <alt-names></alt-names>
+      <updated-at type="datetime">2013-05-22T09:58:24-04:00</updated-at>
+      <status nil="true"></status>
+      <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+      <id type="integer">870590</id>
+      <updater-id type="integer">10740</updater-id>
+      <creator-id type="integer">10740</creator-id>
+      <children type="array">
+        <child>
+          <tree-id type="integer">21940</tree-id>
+          <codes>agr</codes>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <created-by>joe_leif</created-by>
+          <tree-val>Jivaroan: Campbell, Grondona 2012</tree-val>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10001</node-type-id>
+          <is-default type="integer">0</is-default>
+          <geography>Peru</geography>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <updated-by>joe_leif</updated-by>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2013-05-22T09:58:24-04:00</created-at>
+          <alt-names>Aguajun, Ahuajun</alt-names>
+          <updated-at type="datetime">2013-05-22T09:58:24-04:00</updated-at>
+          <status nil="true"></status>
+          <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+          <id type="integer">870591</id>
+          <updater-id type="integer">10740</updater-id>
+          <creator-id type="integer">10740</creator-id>
+          <children type="array"/>
+          <pri-name>Aguaruna</pri-name>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <confidence>y</confidence>
+        </child>
+        <child>
+          <tree-id type="integer">21940</tree-id>
+          <codes>hub, acu, jiv</codes>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <created-by>joe_leif</created-by>
+          <tree-val>Jivaroan: Campbell, Grondona 2012</tree-val>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10001</node-type-id>
+          <is-default type="integer">0</is-default>
+          <geography>Ecuador, Peru</geography>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <updated-by>joe_leif</updated-by>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2013-05-22T09:58:24-04:00</created-at>
+          <alt-names>Shuar; Achuar-Shiwiar, Achual, J&#237;varo, Maina, Huambisa, J&#237;baro</alt-names>
+          <updated-at type="datetime">2013-05-22T09:58:24-04:00</updated-at>
+          <status nil="true"></status>
+          <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+          <id type="integer">870592</id>
+          <updater-id type="integer">10740</updater-id>
+          <creator-id type="integer">10740</creator-id>
+          <children type="array"/>
+          <pri-name>J&#237;varo</pri-name>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <confidence>y</confidence>
+        </child>
+      </children>
+      <pri-name>Jivaroan</pri-name>
+      <node-type>Subgroup</node-type>
+      <node-status-id nil="true"></node-status-id>
+      <confidence>y</confidence>
+    </root>
+    <description>Jivaroan: Campbell, Grondona 2012</description>
+  </tree>
+</hash>

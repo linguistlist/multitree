@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>    <region>Asia</region>
+    <root>
+      <node-status-id nil="true"></node-status-id>
+      <is-default type="integer">0</is-default>
+      <updater-id type="integer">10720</updater-id>
+      <pri-name>Indo-Chinese</pri-name>
+      <node-type>Subgroup</node-type>
+      <children type="array">
+        <child>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <updater-id type="integer">10720</updater-id>
+          <pri-name>Siamese-Chinese family</pri-name>
+          <node-type>Subgroup</node-type>
+          <children type="array">
+            <child>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10720</updater-id>
+              <pri-name>Tai</pri-name>
+              <node-type>Subgroup</node-type>
+              <children type="array">
+                <child>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10720</updater-id>
+                  <pri-name>Southern</pri-name>
+                  <node-type>Dialect Group</node-type>
+                  <children type="array">
+                    <child>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <updater-id type="integer">10720</updater-id>
+                      <pri-name>Siamese</pri-name>
+                      <node-type>Dialect</node-type>
+                      <children type="array"/>
+                      <sureness type="integer">0</sureness>
+                      <publications>Grierson, George A. 1904. Mon-Khmer and Siamese-Chinese Families, Linguistic Survey of India, vol. 2. Calcutta: Office of the Superintendent of Government Printing, India. </publications>
+                      <end-date nil="true"></end-date>
+                      <codes>tha</codes>
+                      <creator-id type="integer">10720</creator-id>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2013-09-03T11:36:23-04:00</updated-at>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-09-03T11:36:23-04:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <id type="integer">999616</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <tree-id type="integer">25398</tree-id>
+                      <status nil="true"></status>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <tree-val>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</tree-val>
+                      <geography>Co-extensive with the kingdom of Siam</geography>
+                    </child>
+                    <child>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <updater-id type="integer">10720</updater-id>
+                      <pri-name>Lao</pri-name>
+                      <node-type>Dialect Group</node-type>
+                      <children type="array">
+                        <child>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <updater-id type="integer">10720</updater-id>
+                          <pri-name>L&#252;</pri-name>
+                          <node-type>Dialect</node-type>
+                          <children type="array"/>
+                          <sureness type="integer">0</sureness>
+                          <publications>Grierson, George A. 1904. Mon-Khmer and Siamese-Chinese Families, Linguistic Survey of India, vol. 2. Calcutta: Office of the Superintendent of Government Printing, India. </publications>
+                          <end-date nil="true"></end-date>
+                          <codes>khb</codes>
+                          <creator-id type="integer">10720</creator-id>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2013-09-03T11:36:23-04:00</updated-at>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2013-09-03T11:36:23-04:00</created-at>
+                          <start-date nil="true"></start-date>
+                          <id type="integer">999614</id>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <tree-id type="integer">25398</tree-id>
+                          <status nil="true"></status>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <tree-val>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</tree-val>
+                          <geography>Spoken in Kainghung</geography>
+                        </child>
+                        <child>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <updater-id type="integer">10720</updater-id>
+                          <pri-name>Kh&#252;n</pri-name>
+                          <node-type>Dialect</node-type>
+                          <children type="array"/>
+                          <sureness type="integer">0</sureness>
+                          <publications>Grierson, George A. 1904. Mon-Khmer and Siamese-Chinese Families, Linguistic Survey of India, vol. 2. Calcutta: Office of the Superintendent of Government Printing, India. </publications>
+                          <end-date nil="true"></end-date>
+                          <codes>kkh</codes>
+                          <creator-id type="integer">10720</creator-id>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2013-09-03T11:36:23-04:00</updated-at>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2013-09-03T11:36:23-04:00</created-at>
+                          <start-date nil="true"></start-date>
+                          <id type="integer">999615</id>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <tree-id type="integer">25398</tree-id>
+                          <status nil="true"></status>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <tree-val>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</tree-val>
+                          <geography>Spoken in Kaingtung and the adjacent districts</geography>
+                        </child>
+                      </children>
+                      <sureness type="integer">0</sureness>
+                      <publications>Grierson, George A. 1904. Mon-Khmer and Siamese-Chinese Families, Linguistic Survey of India, vol. 2. Calcutta: Office of the Superintendent of Government Printing, India. </publications>
+                      <end-date nil="true"></end-date>
+                      <codes>lao</codes>
+                      <creator-id type="integer">10720</creator-id>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2013-09-03T11:36:23-04:00</updated-at>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-09-03T11:36:23-04:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <id type="integer">999613</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <tree-id type="integer">25398</tree-id>
+                      <status nil="true"></status>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <tree-val>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</tree-val>
+                      <geography>Spoken throughout the country situated between the Salwin and Mekong Rivers, and between the 19th parallel of north latitude and the northern boundary of the kingdom of Siam</geography>
+                    </child>
+                  </children>
+                  <sureness type="integer">0</sureness>
+                  <publications>Grierson, George A. 1904. Mon-Khmer and Siamese-Chinese Families, Linguistic Survey of India, vol. 2. Calcutta: Office of the Superintendent of Government Printing, India. </publications>
+                  <end-date nil="true"></end-date>
+                  <codes>stai</codes>
+                  <creator-id type="integer">10720</creator-id>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2013-09-03T11:36:23-04:00</updated-at>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-03T11:36:23-04:00</created-at>
+                  <start-date nil="true"></start-date>
+                  <id type="integer">999612</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-id type="integer">25398</tree-id>
+                  <status nil="true"></status>
+                  <node-type-id type="integer">10004</node-type-id>
+                  <tree-val>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</tree-val>
+                  <geography nil="true"></geography>
+                </child>
+                <child>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10720</updater-id>
+                  <pri-name>&#256;hom</pri-name>
+                  <node-type>Language</node-type>
+                  <children type="array">
+                    <child>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <updater-id type="integer">10720</updater-id>
+                      <pri-name>Northern</pri-name>
+                      <node-type>Dialect Group</node-type>
+                      <children type="array">
+                        <child>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <updater-id type="integer">10720</updater-id>
+                          <pri-name>Kh&#257;mt&#299;</pri-name>
+                          <node-type>Dialect</node-type>
+                          <children type="array"/>
+                          <sureness type="integer">0</sureness>
+                          <publications>Grierson, George A. 1904. Mon-Khmer and Siamese-Chinese Families, Linguistic Survey of India, vol. 2. Calcutta: Office of the Superintendent of Government Printing, India. </publications>
+                          <end-date nil="true"></end-date>
+                          <codes>kht</codes>
+                          <creator-id type="integer">10720</creator-id>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2013-09-03T11:36:22-04:00</updated-at>
+                          <pub-comments>Speakers: 2,930 (Grierson 1904)</pub-comments>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2013-09-03T11:36:22-04:00</created-at>
+                          <start-date nil="true"></start-date>
+                          <id type="integer">999603</id>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <tree-id type="integer">25398</tree-id>
+                          <status nil="true"></status>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <tree-val>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</tree-val>
+                          <geography>Spoken on the upper course of the Irrawaddy and its branches, also in Bor Kh&#257;mt&#299;(Great Kh&#257;mt&#299; Land), immediately to the east of Assam, and by four colonies in the Lakhimpur District of that Province.</geography>
+                        </child>
+                        <child>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <updater-id type="integer">10720</updater-id>
+                          <pri-name>Sh&#257;n proper</pri-name>
+                          <node-type>Dialect Group</node-type>
+                          <children type="array">
+                            <child>
+                              <node-status-id nil="true"></node-status-id>
+                              <is-default type="integer">0</is-default>
+                              <updater-id type="integer">10720</updater-id>
+                              <pri-name>Chinese Sh&#257;n</pri-name>
+                              <node-type>Dialect</node-type>
+                              <children type="array"/>
+                              <sureness type="integer">0</sureness>
+                              <publications>Grierson, George A. 1904. Mon-Khmer and Siamese-Chinese Families, Linguistic Survey of India, vol. 2. Calcutta: Office of the Superintendent of Government Printing, India. </publications>
+                              <end-date nil="true"></end-date>
+                              <codes>shn-tao</codes>
+                              <creator-id type="integer">10720</creator-id>
+                              <alt-names>Tai Mau</alt-names>
+                              <updated-at type="datetime">2013-09-03T11:36:23-04:00</updated-at>
+                              <pub-comments></pub-comments>
+                              <other-codes></other-codes>
+                              <created-at type="datetime">2013-09-03T11:36:23-04:00</created-at>
+                              <start-date nil="true"></start-date>
+                              <id type="integer">999611</id>
+                              <deleted-at nil="true"></deleted-at>
+                              <confidence>y</confidence>
+                              <tree-id type="integer">25398</tree-id>
+                              <status nil="true"></status>
+                              <node-type-id type="integer">10003</node-type-id>
+                              <tree-val>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</tree-val>
+                              <geography>Spoken in the many small principalities which lie east and north-east of Bhamo and are tributary to China.</geography>
+                            </child>
+                            <child>
+                              <node-status-id nil="true"></node-status-id>
+                              <is-default type="integer">0</is-default>
+                              <updater-id type="integer">10720</updater-id>
+                              <pri-name>Northern Sh&#257;n</pri-name>
+                              <node-type>Dialect</node-type>
+                              <children type="array"/>
+                              <sureness type="integer">0</sureness>
+                              <publications>Grierson, George A. 1904. Mon-Khmer and Siamese-Chinese Families, Linguistic Survey of India, vol. 2. Calcutta: Office of the Superintendent of Government Printing, India. </publications>
+                              <end-date nil="true"></end-date>
+                              <codes>shn-nor</codes>
+                              <creator-id type="integer">10720</creator-id>
+                              <alt-names>Burmese Sh&#257;n</alt-names>
+                              <updated-at type="datetime">2013-09-03T11:36:23-04:00</updated-at>
+                              <pub-comments></pub-comments>
+                              <other-codes></other-codes>
+                              <created-at type="datetime">2013-09-03T11:36:23-04:00</created-at>
+                              <start-date nil="true"></start-date>
+                              <id type="integer">999609</id>
+                              <deleted-at nil="true"></deleted-at>
+                              <confidence>y</confidence>
+                              <tree-id type="integer">25398</tree-id>
+                              <status nil="true"></status>
+                              <node-type-id type="integer">10003</node-type-id>
+                              <tree-val>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</tree-val>
+                              <geography>The territory between the mountains east of the great Burma plain and the Mekong River, and between the 19th and 23rd parallels of north latitude.</geography>
+                            </child>
+                            <child>
+                              <node-status-id nil="true"></node-status-id>
+                              <is-default type="integer">0</is-default>
+                              <updater-id type="integer">10720</updater-id>
+                              <pri-name>Southern Sh&#257;n</pri-name>
+                              <node-type>Dialect</node-type>
+                              <children type="array"/>
+                              <sureness type="integer">0</sureness>
+                              <publications>Grierson, George A. 1904. Mon-Khmer and Siamese-Chinese Families, Linguistic Survey of India, vol. 2. Calcutta: Office of the Superintendent of Government Printing, India. </publications>
+                              <end-date nil="true"></end-date>
+                              <codes>shn-sou</codes>
+                              <creator-id type="integer">10720</creator-id>
+                              <alt-names>Burmese Sh&#257;n</alt-names>
+                              <updated-at type="datetime">2013-09-03T11:36:23-04:00</updated-at>
+                              <pub-comments></pub-comments>
+                              <other-codes></other-codes>
+                              <created-at type="datetime">2013-09-03T11:36:23-04:00</created-at>
+                              <start-date nil="true"></start-date>
+                              <id type="integer">999610</id>
+                              <deleted-at nil="true"></deleted-at>
+                              <confidence>y</confidence>
+                              <tree-id type="integer">25398</tree-id>
+                              <status nil="true"></status>
+                              <node-type-id type="integer">10003</node-type-id>
+                              <tree-val>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</tree-val>
+                              <geography>The territory between the mountains east of the great Burma plain and the Mekong River, and between the 19th and 23rd parallels of north latitude.</geography>
+                            </child>
+                          </children>
+                          <sureness type="integer">0</sureness>
+                          <publications>Grierson, George A. 1904. Mon-Khmer and Siamese-Chinese Families, Linguistic Survey of India, vol. 2. Calcutta: Office of the Superintendent of Government Printing, India. </publications>
+                          <end-date nil="true"></end-date>
+                          <codes>shn</codes>
+                          <creator-id type="integer">10720</creator-id>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2013-09-03T11:36:23-04:00</updated-at>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2013-09-03T11:36:23-04:00</created-at>
+                          <start-date nil="true"></start-date>
+                          <id type="integer">999608</id>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>n</confidence>
+                          <tree-id type="integer">25398</tree-id>
+                          <status nil="true"></status>
+                          <node-type-id type="integer">10004</node-type-id>
+                          <tree-val>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</tree-val>
+                          <geography nil="true"></geography>
+                        </child>
+                        <child>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <updater-id type="integer">10720</updater-id>
+                          <pri-name>Tairong</pri-name>
+                          <node-type>Dialect</node-type>
+                          <children type="array"/>
+                          <sureness type="integer">0</sureness>
+                          <publications>Grierson, George A. 1904. Mon-Khmer and Siamese-Chinese Families, Linguistic Survey of India, vol. 2. Calcutta: Office of the Superintendent of Government Printing, India. </publications>
+                          <end-date nil="true"></end-date>
+                          <codes>try</codes>
+                          <creator-id type="integer">10720</creator-id>
+                          <alt-names>Tur&#363;ng, Sh&#257;m Tur&#363;ng</alt-names>
+                          <updated-at type="datetime">2013-09-03T11:36:22-04:00</updated-at>
+                          <pub-comments>Speakers: 150; "Tairong is the one which is most like Kh&#257;mt&#299;. It is in fact almost the same dialect, the differences being hardly even tribal peculiarities" (Grierson 1904:78).</pub-comments>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2013-09-03T11:36:22-04:00</created-at>
+                          <start-date nil="true"></start-date>
+                          <id type="integer">999604</id>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <tree-id type="integer">25398</tree-id>
+                          <status nil="true"></status>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <tree-val>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</tree-val>
+                          <geography>Sibsagar</geography>
+                        </child>
+                        <child>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <updater-id type="integer">10720</updater-id>
+                          <pri-name>Aitoni&#257;</pri-name>
+                          <node-type>Dialect</node-type>
+                          <children type="array"/>
+                          <sureness type="integer">0</sureness>
+                          <publications>Grierson, George A. 1904. Mon-Khmer and Siamese-Chinese Families, Linguistic Survey of India, vol. 2. Calcutta: Office of the Superintendent of Government Printing, India. </publications>
+                          <end-date nil="true"></end-date>
+                          <codes>aio</codes>
+                          <creator-id type="integer">10720</creator-id>
+                          <alt-names>Aiton</alt-names>
+                          <updated-at type="datetime">2013-09-03T11:36:23-04:00</updated-at>
+                          <pub-comments>Speakers: 200 (Grierson 1904)</pub-comments>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2013-09-03T11:36:23-04:00</created-at>
+                          <start-date nil="true"></start-date>
+                          <id type="integer">999607</id>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <tree-id type="integer">25398</tree-id>
+                          <status nil="true"></status>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <tree-val>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</tree-val>
+                          <geography>Sibsagar and Naga Hills</geography>
+                        </child>
+                        <child>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <updater-id type="integer">10720</updater-id>
+                          <pri-name>Ph&#257;kial</pri-name>
+                          <node-type>Dialect</node-type>
+                          <children type="array"/>
+                          <sureness type="integer">-1</sureness>
+                          <publications>Grierson, George A. 1904. Mon-Khmer and Siamese-Chinese Families, Linguistic Survey of India, vol. 2. Calcutta: Office of the Superintendent of Government Printing, India. </publications>
+                          <end-date nil="true"></end-date>
+                          <codes>phk</codes>
+                          <creator-id type="integer">10720</creator-id>
+                          <alt-names>Ph&#257;k&#275;</alt-names>
+                          <updated-at type="datetime">2013-09-03T11:36:23-04:00</updated-at>
+                          <pub-comments>Speakers: 625 (Grierson 1904). The author states, "I have been unable to get any specimens of Ph&#257;kial, and hence can give no particulars about this dialect" (1904:79); however, he does specify that it "closely resembles Kh&#257;mt&#299;" (1904:64).</pub-comments>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2013-09-03T11:36:22-04:00</created-at>
+                          <start-date nil="true"></start-date>
+                          <id type="integer">999606</id>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <tree-id type="integer">25398</tree-id>
+                          <status nil="true"></status>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <tree-val>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</tree-val>
+                          <geography>Lakhimpur</geography>
+                        </child>
+                        <child>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <updater-id type="integer">10720</updater-id>
+                          <pri-name>Nor&#257;</pri-name>
+                          <node-type>Dialect</node-type>
+                          <children type="array"/>
+                          <sureness type="integer">0</sureness>
+                          <publications>Grierson, George A. 1904. Mon-Khmer and Siamese-Chinese Families, Linguistic Survey of India, vol. 2. Calcutta: Office of the Superintendent of Government Printing, India. </publications>
+                          <end-date nil="true"></end-date>
+                          <codes>nrr, nrr-nor</codes>
+                          <creator-id type="integer">10720</creator-id>
+                          <alt-names></alt-names>
+                          <updated-at type="datetime">2013-09-03T11:36:22-04:00</updated-at>
+                          <pub-comments>Speakers: 300 (Grierson 1904)</pub-comments>
+                          <other-codes></other-codes>
+                          <created-at type="datetime">2013-09-03T11:36:22-04:00</created-at>
+                          <start-date nil="true"></start-date>
+                          <id type="integer">999605</id>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <tree-id type="integer">25398</tree-id>
+                          <status nil="true"></status>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <tree-val>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</tree-val>
+                          <geography>Sibsagar</geography>
+                        </child>
+                      </children>
+                      <sureness type="integer">0</sureness>
+                      <publications>Grierson, George A. 1904. Mon-Khmer and Siamese-Chinese Families, Linguistic Survey of India, vol. 2. Calcutta: Office of the Superintendent of Government Printing, India. </publications>
+                      <end-date nil="true"></end-date>
+                      <codes>nect</codes>
+                      <creator-id type="integer">10720</creator-id>
+                      <alt-names></alt-names>
+                      <updated-at type="datetime">2013-09-03T11:36:22-04:00</updated-at>
+                      <pub-comments>"As already mentioned, these languages are all closely related to each other. Indeed, they should not be considered as languages, but as members of the group of Northern Sh&#257;n dialects. Of these dialects, Kh&#257;mt&#299; and Northern Sh&#257;n of Burma may be considered as the most widely separated, though, in truth, even in this case, the distance between them is not great. &#256;hom is, of course, on an altogether different level. It belongs to a different layer of speech, and may be considered to stand in the position of parent to all the others" (Grierson 1904:78).</pub-comments>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2013-09-03T11:36:22-04:00</created-at>
+                      <start-date nil="true"></start-date>
+                      <id type="integer">999602</id>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <tree-id type="integer">25398</tree-id>
+                      <status nil="true"></status>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <tree-val>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</tree-val>
+                      <geography nil="true"></geography>
+                    </child>
+                  </children>
+                  <sureness type="integer">-1</sureness>
+                  <publications>Grierson, George A. 1904. Mon-Khmer and Siamese-Chinese Families, Linguistic Survey of India, vol. 2. Calcutta: Office of the Superintendent of Government Printing, India. </publications>
+                  <end-date nil="true"></end-date>
+                  <codes>aho</codes>
+                  <creator-id type="integer">10720</creator-id>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2013-09-03T11:36:22-04:00</updated-at>
+                  <pub-comments>"We are not in a position to say that it is certain that Kh&#257;mt&#299; and Sh&#257;n are actually descended from &#256;hom, but it is very probably the case, and without any doubt whatever &#256;hom, if not the actual progenitor, must have been very closely related to him" (Grierson 1904:66).</pub-comments>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2013-09-03T11:36:22-04:00</created-at>
+                  <start-date nil="true"></start-date>
+                  <id type="integer">999601</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>n</confidence>
+                  <tree-id type="integer">25398</tree-id>
+                  <status>Extinct</status>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <tree-val>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</tree-val>
+                  <geography nil="true"></geography>
+                </child>
+              </children>
+              <sureness type="integer">0</sureness>
+              <publications>Grierson, George A. 1904. Mon-Khmer and Siamese-Chinese Families, Linguistic Survey of India, vol. 2. Calcutta: Office of the Superintendent of Government Printing, India. </publications>
+              <end-date nil="true"></end-date>
+              <codes>taix</codes>
+              <creator-id type="integer">10720</creator-id>
+              <alt-names>Sh&#257;m, Sh&#257;n</alt-names>
+              <updated-at type="datetime">2013-09-03T11:36:22-04:00</updated-at>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-03T11:36:22-04:00</created-at>
+              <start-date nil="true"></start-date>
+              <id type="integer">999600</id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <tree-id type="integer">25398</tree-id>
+              <status nil="true"></status>
+              <node-type-id type="integer">10000</node-type-id>
+              <tree-val>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</tree-val>
+              <geography nil="true"></geography>
+            </child>
+            <child>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10720</updater-id>
+              <pri-name>Chinese</pri-name>
+              <node-type>Subgroup</node-type>
+              <children type="array"/>
+              <sureness type="integer">0</sureness>
+              <publications>Grierson, George A. 1904. Mon-Khmer and Siamese-Chinese Families, Linguistic Survey of India, vol. 2. Calcutta: Office of the Superintendent of Government Printing, India. </publications>
+              <end-date nil="true"></end-date>
+              <codes>chin</codes>
+              <creator-id type="integer">10720</creator-id>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2013-09-03T11:36:22-04:00</updated-at>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-03T11:36:22-04:00</created-at>
+              <start-date nil="true"></start-date>
+              <id type="integer">999599</id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <tree-id type="integer">25398</tree-id>
+              <status nil="true"></status>
+              <node-type-id type="integer">10000</node-type-id>
+              <tree-val>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</tree-val>
+              <geography nil="true"></geography>
+            </child>
+            <child>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10720</updater-id>
+              <pri-name>Karen</pri-name>
+              <node-type>Subgroup</node-type>
+              <children type="array"/>
+              <sureness type="integer">0</sureness>
+              <publications>Grierson, George A. 1904. Mon-Khmer and Siamese-Chinese Families, Linguistic Survey of India, vol. 2. Calcutta: Office of the Superintendent of Government Printing, India. </publications>
+              <end-date nil="true"></end-date>
+              <codes>kare</codes>
+              <creator-id type="integer">10720</creator-id>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2013-09-03T11:36:22-04:00</updated-at>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <created-at type="datetime">2013-09-03T11:36:22-04:00</created-at>
+              <start-date nil="true"></start-date>
+              <id type="integer">999598</id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <tree-id type="integer">25398</tree-id>
+              <status nil="true"></status>
+              <node-type-id type="integer">10000</node-type-id>
+              <tree-val>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</tree-val>
+              <geography>Spoken in Burma</geography>
+            </child>
+          </children>
+          <sureness type="integer">0</sureness>
+          <publications>Grierson, George A. 1904. Mon-Khmer and Siamese-Chinese Families, Linguistic Survey of India, vol. 2. Calcutta: Office of the Superintendent of Government Printing, India. </publications>
+          <end-date nil="true"></end-date>
+          <codes>sich</codes>
+          <creator-id type="integer">10720</creator-id>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2013-09-03T11:36:22-04:00</updated-at>
+          <pub-comments></pub-comments>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-09-03T11:36:21-04:00</created-at>
+          <start-date nil="true"></start-date>
+          <id type="integer">999597</id>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <tree-id type="integer">25398</tree-id>
+          <status nil="true"></status>
+          <node-type-id type="integer">10000</node-type-id>
+          <tree-val>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</tree-val>
+          <geography nil="true"></geography>
+        </child>
+      </children>
+      <sureness type="integer">0</sureness>
+      <publications>Grierson, George A. 1904. Mon-Khmer and Siamese-Chinese Families, Linguistic Survey of India, vol. 2. Calcutta: Office of the Superintendent of Government Printing, India. </publications>
+      <end-date nil="true"></end-date>
+      <codes>inch</codes>
+      <creator-id type="integer">10720</creator-id>
+      <alt-names></alt-names>
+      <updated-at type="datetime">2013-09-03T11:36:21-04:00</updated-at>
+      <pub-comments></pub-comments>
+      <other-codes></other-codes>
+      <created-at type="datetime">2013-09-03T11:36:21-04:00</created-at>
+      <start-date nil="true"></start-date>
+      <id type="integer">999596</id>
+      <deleted-at nil="true"></deleted-at>
+      <confidence>y</confidence>
+      <tree-id type="integer">25398</tree-id>
+      <status nil="true"></status>
+      <node-type-id type="integer">10000</node-type-id>
+      <tree-val>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</tree-val>
+      <geography nil="true"></geography>
+    </root>
+    <description>Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904</description>
+  </tree>
+</hash>

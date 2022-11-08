@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <description>South American Deaf Sign Language: Ethnologue 2005</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2010-06-21T16:04:50-04:00</created-at>
+      <confidence>Y</confidence>
+      <tree-val>South American Deaf Sign Language: Ethnologue 2005</tree-val>
+      <pub-comments>This is a subtree of the deaf sign language tree provided in Ethnologue. It has been broken into regions for ease of searching.</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2010-06-21T16:04:50-04:00</updated-at>
+      <pri-name>South American Deaf Sign Language</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">714976</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography>South America</geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">17902</tree-id>
+      <codes>sdsl</codes>
+      <status nil="true"></status>
+      <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date>1885 AD</start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-06-21T16:04:50-04:00</created-at>
+          <confidence>Y</confidence>
+          <tree-val>South American Deaf Sign Language: Ethnologue 2005</tree-val>
+          <pub-comments>There is a manual alphabet for Spanish spelling.</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-06-21T16:04:50-04:00</updated-at>
+          <pri-name>Argentine Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">714977</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Argentina</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">17902</tree-id>
+          <codes>aed</codes>
+          <status nil="true"></status>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-06-21T16:04:50-04:00</created-at>
+          <confidence>Y</confidence>
+          <tree-val>South American Deaf Sign Language: Ethnologue 2005</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-06-21T16:04:50-04:00</updated-at>
+          <pri-name>Chilean Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">714978</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Chile</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">17902</tree-id>
+          <codes>csg</codes>
+          <status nil="true"></status>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-06-21T16:04:51-04:00</created-at>
+          <confidence>Y</confidence>
+          <tree-val>South American Deaf Sign Language: Ethnologue 2005</tree-val>
+          <pub-comments>Based on American Sign Language with necessary changes for Spanish spelling. Some groups in La Paz and Santa Cruz use the same signs with some dialect signs from their own areas.</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-06-21T16:04:51-04:00</updated-at>
+          <pri-name>Bolivian Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">714987</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Bolivia, Cochabamba, La Paz, Riberalta, Santa Cruz.</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">17902</tree-id>
+          <codes>bvl</codes>
+          <status nil="true"></status>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-06-21T16:04:50-04:00</created-at>
+          <confidence>Y</confidence>
+          <tree-val>South American Deaf Sign Language: Ethnologue 2005</tree-val>
+          <pub-comments>They have not been exposed to other sign languages. East differs from west with some variation between villages. Does not use finger spelling. The system is about 100 years old.</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-06-21T16:04:50-04:00</updated-at>
+          <pri-name>Providencia Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">714979</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Colombia, Providencia Island off the coast of Nicaragua.</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">17902</tree-id>
+          <codes>prz</codes>
+          <status nil="true"></status>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date>1937 AD</start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-06-21T16:04:50-04:00</created-at>
+          <confidence>Y</confidence>
+          <tree-val>South American Deaf Sign Language: Ethnologue 2005</tree-val>
+          <pub-comments>The sign language used in the classroom is different from the one used by adults outside. There is a manual alphabet for spelling.</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-06-21T16:04:50-04:00</updated-at>
+          <pri-name>Venezuelan Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">714980</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Venezuela</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">17902</tree-id>
+          <codes>vsl</codes>
+          <status nil="true"></status>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-06-21T16:04:50-04:00</created-at>
+          <confidence>Y</confidence>
+          <tree-val>South American Deaf Sign Language: Ethnologue 2005</tree-val>
+          <pub-comments>The dialects appear to be inherently intelligible, although northern dialects above the Amazon show greater differences. Some relationship to North American and European sign languages. The fingerspelling used for proper names is similar to a European system.</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-06-21T16:04:50-04:00</updated-at>
+          <pri-name>Brazilian Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">714981</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Brazil, S&#227;o Paulo, Rio de Janeiro, Minas Gerais, Santa Catarina, and elsewhere.</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">17902</tree-id>
+          <codes>bzs</codes>
+          <status nil="true"></status>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-06-21T16:04:50-04:00</created-at>
+          <confidence>Y</confidence>
+          <tree-val>South American Deaf Sign Language: Ethnologue 2005</tree-val>
+          <pub-comments>OSV</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-06-21T16:04:50-04:00</updated-at>
+          <pri-name>Urub&#250;-Kaapor Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">714983</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Brazil, Maranh&#227;o.</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Urub&#250; Sign Language</alt-names>
+          <tree-id type="integer">17902</tree-id>
+          <codes>uks</codes>
+          <status nil="true"></status>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date>1910 AD</start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-06-21T16:04:50-04:00</created-at>
+          <confidence>Y</confidence>
+          <tree-val>South American Deaf Sign Language: Ethnologue 2005</tree-val>
+          <pub-comments>There is a manual alphabet for spelling.</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-06-21T16:04:50-04:00</updated-at>
+          <pri-name>Uruguayan Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">714982</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Uruguay</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">17902</tree-id>
+          <codes>ugy</codes>
+          <status nil="true"></status>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date>1929 AD</start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-06-21T16:04:50-04:00</created-at>
+          <confidence>Y</confidence>
+          <tree-val>South American Deaf Sign Language: Ethnologue 2005</tree-val>
+          <pub-comments>Some signs are similar to those in sign languages of El Salvador, Spain, and the USA. There is a manual alphabet for spelling.</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-06-21T16:04:50-04:00</updated-at>
+          <pri-name>Colombian Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">714984</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Colombia</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">17902</tree-id>
+          <codes>csn</codes>
+          <status nil="true"></status>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-06-21T16:04:51-04:00</created-at>
+          <confidence>Y</confidence>
+          <tree-val>South American Deaf Sign Language: Ethnologue 2005</tree-val>
+          <pub-comments>Slight regional variants in sign languages. Some influences from USA Peace Corps, others from people educated in Spain or Argentina.</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-06-21T16:04:51-04:00</updated-at>
+          <pri-name>Ecuadorian Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">714986</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Ecuador</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">17902</tree-id>
+          <codes>ecs</codes>
+          <status nil="true"></status>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-06-21T16:04:50-04:00</created-at>
+          <confidence>Y</confidence>
+          <tree-val>South American Deaf Sign Language: Ethnologue 2005</tree-val>
+          <pub-comments>The sign language used in the schools is different from what adults use outside. There is a manual alphabet for spelling.</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-06-21T16:04:51-04:00</updated-at>
+          <pri-name>Peruvian Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">714985</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Peru</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">17902</tree-id>
+          <codes>prl</codes>
+          <status nil="true"></status>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

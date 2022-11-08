@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Pacific</region>
+    <root>
+      <node-type-id type="integer">10000</node-type-id>
+      <id type="integer">388621</id>
+      <updated-by>joe_leif</updated-by>
+      <sureness type="integer">0</sureness>
+      <pri-name>East Bougainville</pri-name>
+      <node-type>Subgroup</node-type>
+      <children type="array">
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <id type="integer">388624</id>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <pri-name>Nasioi</pri-name>
+          <node-type>Language</node-type>
+          <children type="array"/>
+          <start-date nil="true"></start-date>
+          <node-status-id nil="true"></node-status-id>
+          <creator-id type="integer">10740</creator-id>
+          <updated-at type="datetime">2009-05-07T15:39:55-04:00</updated-at>
+          <tree-id type="integer">12162</tree-id>
+          <end-date nil="true"></end-date>
+          <created-by>joe_leif</created-by>
+          <tree-val>East Bougainville: Dryer 2005</tree-val>
+          <status nil="true"></status>
+          <codes>nas</codes>
+          <pub-comments></pub-comments>
+          <deleted-at nil="true"></deleted-at>
+          <alt-names>Naasioi</alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Country: Papua New Guinea; Lat.: -6.33; Long.: 155.58</geography>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 619. New York: Oxford University Press. ISBN 0199255911</publications>
+          <is-default type="integer">0</is-default>
+          <created-at type="datetime">2009-05-07T15:39:55-04:00</created-at>
+          <other-codes>nas</other-codes>
+          <confidence>y</confidence>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <id type="integer">388623</id>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <pri-name>Motuna</pri-name>
+          <node-type>Language</node-type>
+          <children type="array"/>
+          <start-date nil="true"></start-date>
+          <node-status-id nil="true"></node-status-id>
+          <creator-id type="integer">10740</creator-id>
+          <updated-at type="datetime">2009-05-07T15:39:55-04:00</updated-at>
+          <tree-id type="integer">12162</tree-id>
+          <end-date nil="true"></end-date>
+          <created-by>joe_leif</created-by>
+          <tree-val>East Bougainville: Dryer 2005</tree-val>
+          <status nil="true"></status>
+          <codes>siw</codes>
+          <pub-comments></pub-comments>
+          <deleted-at nil="true"></deleted-at>
+          <alt-names>Siwai</alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Country: Papua New Guinea; Lat.: -6.62; Long.: 155.42</geography>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 619. New York: Oxford University Press. ISBN 0199255911</publications>
+          <is-default type="integer">0</is-default>
+          <created-at type="datetime">2009-05-07T15:39:55-04:00</created-at>
+          <other-codes>mot</other-codes>
+          <confidence>y</confidence>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <id type="integer">388622</id>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <pri-name>Buin</pri-name>
+          <node-type>Language</node-type>
+          <children type="array"/>
+          <start-date nil="true"></start-date>
+          <node-status-id nil="true"></node-status-id>
+          <creator-id type="integer">10740</creator-id>
+          <updated-at type="datetime">2009-05-07T15:39:55-04:00</updated-at>
+          <tree-id type="integer">12162</tree-id>
+          <end-date nil="true"></end-date>
+          <created-by>joe_leif</created-by>
+          <tree-val>East Bougainville: Dryer 2005</tree-val>
+          <status nil="true"></status>
+          <codes>buo</codes>
+          <pub-comments></pub-comments>
+          <deleted-at nil="true"></deleted-at>
+          <alt-names></alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Country: Papua New Guinea; Lat.: -6.75; Long.: 155.75</geography>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 619. New York: Oxford University Press. ISBN 0199255911</publications>
+          <is-default type="integer">0</is-default>
+          <created-at type="datetime">2009-05-07T15:39:55-04:00</created-at>
+          <other-codes>bun</other-codes>
+          <confidence>y</confidence>
+        </child>
+      </children>
+      <start-date nil="true"></start-date>
+      <node-status-id nil="true"></node-status-id>
+      <creator-id type="integer">10740</creator-id>
+      <updated-at type="datetime">2009-05-07T15:39:55-04:00</updated-at>
+      <tree-id type="integer">12162</tree-id>
+      <end-date nil="true"></end-date>
+      <created-by>joe_leif</created-by>
+      <tree-val>East Bougainville: Dryer 2005</tree-val>
+      <status nil="true"></status>
+      <codes>ebou</codes>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <deleted-at nil="true"></deleted-at>
+      <alt-names></alt-names>
+      <updater-id type="integer">10740</updater-id>
+      <geography nil="true"></geography>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 619. New York: Oxford University Press. ISBN 0199255911</publications>
+      <is-default type="integer">0</is-default>
+      <created-at type="datetime">2009-05-07T15:39:55-04:00</created-at>
+      <other-codes></other-codes>
+      <confidence>y</confidence>
+    </root>
+    <description>East Bougainville: Dryer 2005</description>
+  </tree>
+</hash>

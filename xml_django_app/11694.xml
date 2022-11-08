@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <id type="integer">346498</id>
+      <tree-val>Chapacura-Wanhan: Dryer 2005</tree-val>
+      <tree-id type="integer">11694</tree-id>
+      <updated-by>joe_leif</updated-by>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 640. New York: Oxford University Press. ISBN 0199255911</publications>
+      <created-at type="datetime">2009-03-31T14:16:08-04:00</created-at>
+      <alt-names></alt-names>
+      <updater-id type="integer">10740</updater-id>
+      <is-default type="integer">0</is-default>
+      <end-date nil="true"></end-date>
+      <start-date nil="true"></start-date>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <deleted-at nil="true"></deleted-at>
+      <codes>chaw</codes>
+      <updated-at type="datetime">2009-03-31T14:16:08-04:00</updated-at>
+      <confidence>y</confidence>
+      <children type="array">
+        <child>
+          <id type="integer">346499</id>
+          <tree-val>Chapacura-Wanhan: Dryer 2005</tree-val>
+          <tree-id type="integer">11694</tree-id>
+          <updated-by>joe_leif</updated-by>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 640. New York: Oxford University Press. ISBN 0199255911</publications>
+          <created-at type="datetime">2009-03-31T14:16:08-04:00</created-at>
+          <alt-names>Pakasnovos</alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <is-default type="integer">0</is-default>
+          <end-date nil="true"></end-date>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <deleted-at nil="true"></deleted-at>
+          <codes>pav</codes>
+          <updated-at type="datetime">2009-03-31T14:16:08-04:00</updated-at>
+          <confidence>y</confidence>
+          <children type="array"/>
+          <sureness type="integer">0</sureness>
+          <node-type>Language</node-type>
+          <creator-id type="integer">10740</creator-id>
+          <status nil="true"></status>
+          <pri-name>Wari'</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+          <other-codes>war</other-codes>
+          <geography>Country: Brazil; Lat.: -11.33; Long.: -65</geography>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+        </child>
+      </children>
+      <sureness type="integer">0</sureness>
+      <node-type>Subgroup</node-type>
+      <creator-id type="integer">10740</creator-id>
+      <status nil="true"></status>
+      <pri-name>Chapacura-Wanhan</pri-name>
+      <node-type-id type="integer">10000</node-type-id>
+      <other-codes></other-codes>
+      <geography nil="true"></geography>
+      <node-status-id nil="true"></node-status-id>
+      <created-by>joe_leif</created-by>
+    </root>
+    <description>Chapacura-Wanhan: Dryer 2005</description>
+  </tree>
+</hash>

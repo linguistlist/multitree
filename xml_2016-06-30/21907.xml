@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <geography>Bolivia, Chile, Argentina</geography>
+      <created-at type="datetime">2013-05-21T15:24:39-04:00</created-at>
+      <status nil="true"></status>
+      <id type="integer">870304</id>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names>Jaqi, Aru</alt-names>
+      <updated-at type="datetime">2013-05-21T15:24:39-04:00</updated-at>
+      <is-default type="integer">0</is-default>
+      <tree-id type="integer">21907</tree-id>
+      <confidence>y</confidence>
+      <sureness type="integer">0</sureness>
+      <children type="array">
+        <child>
+          <geography>Bolivia, Peru, Chile, Argentina</geography>
+          <created-at type="datetime">2013-05-21T15:24:39-04:00</created-at>
+          <status nil="true"></status>
+          <id type="integer">870308</id>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2013-05-21T15:24:40-04:00</updated-at>
+          <is-default type="integer">0</is-default>
+          <tree-id type="integer">21907</tree-id>
+          <confidence>y</confidence>
+          <sureness type="integer">0</sureness>
+          <children type="array"/>
+          <tree-val>Aymaran: Campbell, Grondona 2012</tree-val>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+          <pub-comments></pub-comments>
+          <end-date nil="true"></end-date>
+          <node-type>Language</node-type>
+          <deleted-at nil="true"></deleted-at>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <pri-name>Southern Aymara</pri-name>
+          <node-status-id nil="true"></node-status-id>
+          <codes>ayc</codes>
+        </child>
+        <child>
+          <geography>Peru</geography>
+          <created-at type="datetime">2013-05-21T15:24:39-04:00</created-at>
+          <status nil="true"></status>
+          <id type="integer">870305</id>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Tupe</alt-names>
+          <updated-at type="datetime">2013-05-21T15:24:39-04:00</updated-at>
+          <is-default type="integer">0</is-default>
+          <tree-id type="integer">21907</tree-id>
+          <confidence>y</confidence>
+          <sureness type="integer">0</sureness>
+          <children type="array">
+            <child>
+              <geography nil="true"></geography>
+              <created-at type="datetime">2013-05-21T15:24:39-04:00</created-at>
+              <status nil="true"></status>
+              <id type="integer">870307</id>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names>Kawki</alt-names>
+              <updated-at type="datetime">2013-05-21T15:24:39-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <tree-id type="integer">21907</tree-id>
+              <confidence>y</confidence>
+              <sureness type="integer">0</sureness>
+              <children type="array"/>
+              <tree-val>Aymaran: Campbell, Grondona 2012</tree-val>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+              <pub-comments></pub-comments>
+              <end-date nil="true"></end-date>
+              <node-type>Dialect</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Cauque</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <codes>jqr-cau</codes>
+            </child>
+            <child>
+              <geography nil="true"></geography>
+              <created-at type="datetime">2013-05-21T15:24:39-04:00</created-at>
+              <status nil="true"></status>
+              <id type="integer">870306</id>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2013-05-21T15:24:39-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <tree-id type="integer">21907</tree-id>
+              <confidence>y</confidence>
+              <sureness type="integer">0</sureness>
+              <children type="array"/>
+              <tree-val>Aymaran: Campbell, Grondona 2012</tree-val>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+              <pub-comments></pub-comments>
+              <end-date nil="true"></end-date>
+              <node-type>Dialect</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Jaqaru</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <codes>jqr</codes>
+            </child>
+          </children>
+          <tree-val>Aymaran: Campbell, Grondona 2012</tree-val>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+          <pub-comments>The author also calls this the Tupe branch.</pub-comments>
+          <end-date nil="true"></end-date>
+          <node-type>Language</node-type>
+          <deleted-at nil="true"></deleted-at>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <pri-name>Central Aymara</pri-name>
+          <node-status-id nil="true"></node-status-id>
+          <codes>ayr</codes>
+        </child>
+      </children>
+      <tree-val>Aymaran: Campbell, Grondona 2012</tree-val>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+      <pub-comments></pub-comments>
+      <end-date nil="true"></end-date>
+      <node-type>Subgroup</node-type>
+      <deleted-at nil="true"></deleted-at>
+      <updater-id type="integer">10740</updater-id>
+      <updated-by>joe_leif</updated-by>
+      <pri-name>Aymaran</pri-name>
+      <node-status-id nil="true"></node-status-id>
+      <codes>ayma</codes>
+    </root>
+    <description>Aymaran: Campbell, Grondona 2012</description>
+  </tree>
+</hash>

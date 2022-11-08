@@ -1,0 +1,1588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <description>Pano-Tacanan: Composite</description>
+    <root>
+      <pri-name>Pano-Tacanan</pri-name>
+      <node-type-id type="integer">10000</node-type-id>
+      <is-default type="integer">1</is-default>
+      <creator-id type="integer">10824</creator-id>
+      <created-at type="datetime">2017-07-20T10:15:07-04:00</created-at>
+      <codes>pata</codes>
+      <updated-by>jacobh</updated-by>
+      <geography nil="true"/>
+      <confidence>y</confidence>
+      <deleted-at nil="true"/>
+      <created-by>jacobh</created-by>
+      <pub-comments/>
+      <node-type>Subgroup</node-type>
+      <children type="array">
+        <child>
+          <pri-name>Tacanan</pri-name>
+          <node-type-id type="integer">10000</node-type-id>
+          <is-default type="integer">1</is-default>
+          <creator-id type="integer">10824</creator-id>
+          <created-at type="datetime">2017-07-20T10:15:12-04:00</created-at>
+          <codes>taca</codes>
+          <updated-by>jacobh</updated-by>
+          <geography nil="true"/>
+          <confidence>y</confidence>
+          <deleted-at nil="true"/>
+          <created-by>jacobh</created-by>
+          <pub-comments>Others also list Chirigua (from the mission of San Buenaventura, El Beni Department, Bolivia) as a Tacanan language. (Girard 1971a:41-2</pub-comments>
+          <node-type>Subgroup</node-type>
+          <children type="array">
+            <child>
+              <pri-name>Chama</pri-name>
+              <node-type-id type="integer">10000</node-type-id>
+              <is-default type="integer">1</is-default>
+              <creator-id type="integer">10824</creator-id>
+              <created-at type="datetime">2017-07-20T10:15:12-04:00</created-at>
+              <codes>chaa</codes>
+              <updated-by>jacobh</updated-by>
+              <geography nil="true"/>
+              <confidence>y</confidence>
+              <deleted-at nil="true"/>
+              <created-by>jacobh</created-by>
+              <pub-comments>"The names Ese'eha and Chama are not very satisfactory.  Chama is a regional pejorative name for these indigenes.  Comparative work has been done in Takanan: Girard (1971a) reconstructs proto-Takanan phonology using data from three languages: Takana, Kavinenyo, and Ese'eha - and supplementary data from two others.  There are 504 cognate sets with reconstructions." (71)</pub-comments>
+              <node-type>Subgroup</node-type>
+              <children type="array">
+                <child>
+                  <pri-name>Ese'jja</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">1</is-default>
+                  <creator-id type="integer">10824</creator-id>
+                  <created-at type="datetime">2017-07-20T10:15:12-04:00</created-at>
+                  <codes>ese</codes>
+                  <updated-by>jacobh</updated-by>
+                  <geography>Beni River, Bolivia; Maldonado, Peru</geography>
+                  <confidence>y</confidence>
+                  <deleted-at nil="true"/>
+                  <created-by>jacobh</created-by>
+                  <pub-comments>Speakers: 850</pub-comments>
+                  <node-type>Language</node-type>
+                  <children type="array"/>
+                  <updated-at type="datetime">2017-07-20T10:15:12-04:00</updated-at>
+                  <tree-id type="integer">26605</tree-id>
+                  <id type="integer">1074400</id>
+                  <alt-names>Ese'eha, Ese Ejja, Ese Exa, Tiatinagua, Chama, Tambopata-Guarayo, Huarayo, Guacanawa, Chuncho, “Chama"</alt-names>
+                  <tree-val>Pano-Tacanan: Composite</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <updater-id type="integer">10824</updater-id>
+                  <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                  <node-status-id nil="true"/>
+                  <status nil="true"/>
+                  <start-date nil="true"/>
+                  <other-codes/>
+                  <end-date nil="true"/>
+                </child>
+                <child>
+                  <pri-name>Toromona</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">1</is-default>
+                  <creator-id type="integer">10824</creator-id>
+                  <created-at type="datetime">2017-07-20T10:15:12-04:00</created-at>
+                  <codes>tno</codes>
+                  <updated-by>jacobh</updated-by>
+                  <geography>Northwest Bolivia</geography>
+                  <confidence>y</confidence>
+                  <deleted-at nil="true"/>
+                  <created-by>jacobh</created-by>
+                  <pub-comments/>
+                  <node-type>Language</node-type>
+                  <children type="array"/>
+                  <updated-at type="datetime">2017-07-20T10:15:12-04:00</updated-at>
+                  <tree-id type="integer">26605</tree-id>
+                  <id type="integer">1074401</id>
+                  <alt-names>Toromono</alt-names>
+                  <tree-val>Pano-Tacanan: Composite</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <updater-id type="integer">10824</updater-id>
+                  <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <status>Extinct</status>
+                  <start-date nil="true"/>
+                  <other-codes/>
+                  <end-date nil="true"/>
+                </child>
+              </children>
+              <updated-at type="datetime">2017-07-20T10:15:12-04:00</updated-at>
+              <tree-id type="integer">26605</tree-id>
+              <id type="integer">1074399</id>
+              <alt-names/>
+              <tree-val>Pano-Tacanan: Composite</tree-val>
+              <sureness type="integer">0</sureness>
+              <updater-id type="integer">10824</updater-id>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+              <node-status-id nil="true"/>
+              <status nil="true"/>
+              <start-date nil="true"/>
+              <other-codes/>
+              <end-date nil="true"/>
+            </child>
+            <child>
+              <pri-name>Takana</pri-name>
+              <node-type-id type="integer">10000</node-type-id>
+              <is-default type="integer">1</is-default>
+              <creator-id type="integer">10824</creator-id>
+              <created-at type="datetime">2017-07-20T10:15:12-04:00</created-at>
+              <codes>tacp</codes>
+              <updated-by>jacobh</updated-by>
+              <geography nil="true"/>
+              <confidence>y</confidence>
+              <deleted-at nil="true"/>
+              <created-by>jacobh</created-by>
+              <pub-comments/>
+              <node-type>Subgroup</node-type>
+              <children type="array">
+                <child>
+                  <pri-name>Cavineña</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">1</is-default>
+                  <creator-id type="integer">10824</creator-id>
+                  <created-at type="datetime">2017-07-20T10:15:12-04:00</created-at>
+                  <codes>cav</codes>
+                  <updated-by>jacobh</updated-by>
+                  <geography>Beni River, Bolivia</geography>
+                  <confidence>y</confidence>
+                  <deleted-at nil="true"/>
+                  <created-by>jacobh</created-by>
+                  <pub-comments>Speakers: 2000</pub-comments>
+                  <node-type>Language</node-type>
+                  <children type="array"/>
+                  <updated-at type="datetime">2017-07-20T10:15:12-04:00</updated-at>
+                  <tree-id type="integer">26605</tree-id>
+                  <id type="integer">1074403</id>
+                  <alt-names>Kavinenya</alt-names>
+                  <tree-val>Pano-Tacanan: Composite</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <updater-id type="integer">10824</updater-id>
+                  <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                  <node-status-id nil="true"/>
+                  <status nil="true"/>
+                  <start-date nil="true"/>
+                  <other-codes/>
+                  <end-date nil="true"/>
+                </child>
+                <child>
+                  <pri-name>Tacana</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">1</is-default>
+                  <creator-id type="integer">10824</creator-id>
+                  <created-at type="datetime">2017-07-20T10:15:12-04:00</created-at>
+                  <codes>tna</codes>
+                  <updated-by>jacobh</updated-by>
+                  <geography>Beni, Bolivia</geography>
+                  <confidence>y</confidence>
+                  <deleted-at nil="true"/>
+                  <created-by>jacobh</created-by>
+                  <pub-comments>Speakers: 3500</pub-comments>
+                  <node-type>Language</node-type>
+                  <children type="array"/>
+                  <updated-at type="datetime">2017-07-20T10:15:12-04:00</updated-at>
+                  <tree-id type="integer">26605</tree-id>
+                  <id type="integer">1074405</id>
+                  <alt-names>Tupamasa</alt-names>
+                  <tree-val>Pano-Tacanan: Composite</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <updater-id type="integer">10824</updater-id>
+                  <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                  <node-status-id nil="true"/>
+                  <status nil="true"/>
+                  <start-date nil="true"/>
+                  <other-codes/>
+                  <end-date nil="true"/>
+                </child>
+                <child>
+                  <pri-name>Araona</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">1</is-default>
+                  <creator-id type="integer">10824</creator-id>
+                  <created-at type="datetime">2017-07-20T10:15:13-04:00</created-at>
+                  <codes>aro</codes>
+                  <updated-by>jacobh</updated-by>
+                  <geography>Colonia, Bolivia</geography>
+                  <confidence>y</confidence>
+                  <deleted-at nil="true"/>
+                  <created-by>jacobh</created-by>
+                  <pub-comments>Speakers: 87</pub-comments>
+                  <node-type>Language</node-type>
+                  <children type="array"/>
+                  <updated-at type="datetime">2017-07-20T10:15:13-04:00</updated-at>
+                  <tree-id type="integer">26605</tree-id>
+                  <id type="integer">1074406</id>
+                  <alt-names>Carina, Cavina</alt-names>
+                  <tree-val>Pano-Tacanan: Composite</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <updater-id type="integer">10824</updater-id>
+                  <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                  <node-status-id nil="true"/>
+                  <status nil="true"/>
+                  <start-date nil="true"/>
+                  <other-codes/>
+                  <end-date nil="true"/>
+                </child>
+                <child>
+                  <pri-name>Reyesano</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">1</is-default>
+                  <creator-id type="integer">10824</creator-id>
+                  <created-at type="datetime">2017-07-20T10:15:12-04:00</created-at>
+                  <codes>rey</codes>
+                  <updated-by>jacobh</updated-by>
+                  <geography>Beni, Bolivia</geography>
+                  <confidence>y</confidence>
+                  <deleted-at nil="true"/>
+                  <created-by>jacobh</created-by>
+                  <pub-comments>Speakers: few? Extinct?</pub-comments>
+                  <node-type>Language</node-type>
+                  <children type="array"/>
+                  <updated-at type="datetime">2017-07-20T10:15:12-04:00</updated-at>
+                  <tree-id type="integer">26605</tree-id>
+                  <id type="integer">1074404</id>
+                  <alt-names>San Borjano, Maropa</alt-names>
+                  <tree-val>Pano-Tacanan: Composite</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <updater-id type="integer">10824</updater-id>
+                  <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                  <node-status-id type="integer">10001</node-status-id>
+                  <status>Nearly Extinct</status>
+                  <start-date nil="true"/>
+                  <other-codes/>
+                  <end-date nil="true"/>
+                </child>
+              </children>
+              <updated-at type="datetime">2017-07-20T10:15:12-04:00</updated-at>
+              <tree-id type="integer">26605</tree-id>
+              <id type="integer">1074402</id>
+              <alt-names>Tacana</alt-names>
+              <tree-val>Pano-Tacanan: Composite</tree-val>
+              <sureness type="integer">0</sureness>
+              <updater-id type="integer">10824</updater-id>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+              <node-status-id nil="true"/>
+              <status nil="true"/>
+              <start-date nil="true"/>
+              <other-codes/>
+              <end-date nil="true"/>
+            </child>
+          </children>
+          <updated-at type="datetime">2017-07-20T10:15:12-04:00</updated-at>
+          <tree-id type="integer">26605</tree-id>
+          <id type="integer">1074398</id>
+          <alt-names>Takanan</alt-names>
+          <tree-val>Pano-Tacanan: Composite</tree-val>
+          <sureness type="integer">0</sureness>
+          <updater-id type="integer">10824</updater-id>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+          <node-status-id nil="true"/>
+          <status nil="true"/>
+          <start-date nil="true"/>
+          <other-codes/>
+          <end-date nil="true"/>
+        </child>
+        <child>
+          <pri-name>Panoan</pri-name>
+          <node-type-id type="integer">10000</node-type-id>
+          <is-default type="integer">1</is-default>
+          <creator-id type="integer">10824</creator-id>
+          <created-at type="datetime">2017-07-20T10:15:07-04:00</created-at>
+          <codes>pano</codes>
+          <updated-by>jacobh</updated-by>
+          <geography nil="true"/>
+          <confidence>y</confidence>
+          <deleted-at nil="true"/>
+          <created-by>jacobh</created-by>
+          <pub-comments>Some other names sometimes listed with Panoan languages are: Panavarro, Purus, Arazaire, Cujareño (Peru), Mayo (Maia, Maya, Pisabo, Pisagua) (Brazil, Peru), Nukuini (Nuquini [with dialect Cuyanawa]) (Brazil), and Uru-eu (Brazil) (Adelaar 2004:419, Shell 1975:14, Migliazza and Campbell 1988:189-90, Rodrigues 1986:77-81). Ethnologue has Sharanahua (Acre, Arara) as a distinct language (with dialects: Arinahua [Marináwa] and Chandinahua.</pub-comments>
+          <node-type>Subgroup</node-type>
+          <children type="array">
+            <child>
+              <pri-name>Panoan</pri-name>
+              <node-type-id type="integer">10000</node-type-id>
+              <is-default type="integer">1</is-default>
+              <creator-id type="integer">10824</creator-id>
+              <created-at type="datetime">2017-07-20T10:15:07-04:00</created-at>
+              <codes>mpnn</codes>
+              <updated-by>jacobh</updated-by>
+              <geography nil="true"/>
+              <confidence>y</confidence>
+              <deleted-at nil="true"/>
+              <created-by>jacobh</created-by>
+              <pub-comments>Campbell calls this the main branch.</pub-comments>
+              <node-type>Subgroup</node-type>
+              <children type="array">
+                <child>
+                  <pri-name>Tri-State</pri-name>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <is-default type="integer">1</is-default>
+                  <creator-id type="integer">10824</creator-id>
+                  <created-at type="datetime">2017-07-20T10:15:07-04:00</created-at>
+                  <codes>tspa</codes>
+                  <updated-by>jacobh</updated-by>
+                  <geography nil="true"/>
+                  <confidence>y</confidence>
+                  <deleted-at nil="true"/>
+                  <created-by>jacobh</created-by>
+                  <pub-comments>Campbell calls this a group.</pub-comments>
+                  <node-type>Subgroup</node-type>
+                  <children type="array">
+                    <child>
+                      <pri-name>Amahuaca</pri-name>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <is-default type="integer">1</is-default>
+                      <creator-id type="integer">10824</creator-id>
+                      <created-at type="datetime">2017-07-20T10:15:07-04:00</created-at>
+                      <codes>amah</codes>
+                      <updated-by>jacobh</updated-by>
+                      <geography nil="true"/>
+                      <confidence>y</confidence>
+                      <deleted-at nil="true"/>
+                      <created-by>jacobh</created-by>
+                      <pub-comments>Campbell says that this group could be either dialects or languages.</pub-comments>
+                      <node-type>Subgroup</node-type>
+                      <children type="array">
+                        <child>
+                          <pri-name>Isconahua</pri-name>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <is-default type="integer">1</is-default>
+                          <creator-id type="integer">10824</creator-id>
+                          <created-at type="datetime">2017-07-20T10:15:08-04:00</created-at>
+                          <codes>isc</codes>
+                          <updated-by>jacobh</updated-by>
+                          <geography>Callaria River, Peru</geography>
+                          <confidence>y</confidence>
+                          <deleted-at nil="true"/>
+                          <created-by>jacobh</created-by>
+                          <pub-comments>Kaufman calls this an 'emergent language', which signifies that it is not quite distinct from other languages in the language area.</pub-comments>
+                          <node-type>Language</node-type>
+                          <children type="array"/>
+                          <updated-at type="datetime">2017-07-20T10:15:08-04:00</updated-at>
+                          <tree-id type="integer">26605</tree-id>
+                          <id type="integer">1074364</id>
+                          <alt-names>Iscobakebo</alt-names>
+                          <tree-val>Pano-Tacanan: Composite</tree-val>
+                          <sureness type="integer">0</sureness>
+                          <updater-id type="integer">10824</updater-id>
+                          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                          <node-status-id nil="true"/>
+                          <status nil="true"/>
+                          <start-date nil="true"/>
+                          <other-codes/>
+                          <end-date nil="true"/>
+                        </child>
+                        <child>
+                          <pri-name>Amahuaca</pri-name>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <is-default type="integer">1</is-default>
+                          <creator-id type="integer">10824</creator-id>
+                          <created-at type="datetime">2017-07-20T10:15:08-04:00</created-at>
+                          <codes>amc</codes>
+                          <updated-by>jacobh</updated-by>
+                          <geography>Loreto, Peru; Acre, Brazil</geography>
+                          <confidence>y</confidence>
+                          <deleted-at nil="true"/>
+                          <created-by>jacobh</created-by>
+                          <pub-comments>Kaufman calls this an 'emergent language', which signifies that it is not quite distinct from other languages in the language area.</pub-comments>
+                          <node-type>Language</node-type>
+                          <children type="array">
+                            <child>
+                              <pri-name>Viwivakeu</pri-name>
+                              <node-type-id type="integer">10003</node-type-id>
+                              <is-default type="integer">1</is-default>
+                              <creator-id type="integer">10824</creator-id>
+                              <created-at type="datetime">2017-07-20T10:15:08-04:00</created-at>
+                              <codes>amc-viw</codes>
+                              <updated-by>jacobh</updated-by>
+                              <geography nil="true"/>
+                              <confidence>y</confidence>
+                              <deleted-at nil="true"/>
+                              <created-by>jacobh</created-by>
+                              <pub-comments/>
+                              <node-type>Dialect</node-type>
+                              <children type="array"/>
+                              <updated-at type="datetime">2017-07-20T10:15:08-04:00</updated-at>
+                              <tree-id type="integer">26605</tree-id>
+                              <id type="integer">1074363</id>
+                              <alt-names/>
+                              <tree-val>Pano-Tacanan: Composite</tree-val>
+                              <sureness type="integer">0</sureness>
+                              <updater-id type="integer">10824</updater-id>
+                              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                              <node-status-id nil="true"/>
+                              <status nil="true"/>
+                              <start-date nil="true"/>
+                              <other-codes/>
+                              <end-date nil="true"/>
+                            </child>
+                            <child>
+                              <pri-name>Inuvaken</pri-name>
+                              <node-type-id type="integer">10003</node-type-id>
+                              <is-default type="integer">1</is-default>
+                              <creator-id type="integer">10824</creator-id>
+                              <created-at type="datetime">2017-07-20T10:15:08-04:00</created-at>
+                              <codes>amc-inu</codes>
+                              <updated-by>jacobh</updated-by>
+                              <geography nil="true"/>
+                              <confidence>y</confidence>
+                              <deleted-at nil="true"/>
+                              <created-by>jacobh</created-by>
+                              <pub-comments/>
+                              <node-type>Dialect</node-type>
+                              <children type="array"/>
+                              <updated-at type="datetime">2017-07-20T10:15:08-04:00</updated-at>
+                              <tree-id type="integer">26605</tree-id>
+                              <id type="integer">1074362</id>
+                              <alt-names/>
+                              <tree-val>Pano-Tacanan: Composite</tree-val>
+                              <sureness type="integer">0</sureness>
+                              <updater-id type="integer">10824</updater-id>
+                              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                              <node-status-id nil="true"/>
+                              <status nil="true"/>
+                              <start-date nil="true"/>
+                              <other-codes/>
+                              <end-date nil="true"/>
+                            </child>
+                          </children>
+                          <updated-at type="datetime">2017-07-20T10:15:08-04:00</updated-at>
+                          <tree-id type="integer">26605</tree-id>
+                          <id type="integer">1074361</id>
+                          <alt-names>Amawaka, Ameuhaque, Sayaco, Ipitineri</alt-names>
+                          <tree-val>Pano-Tacanan: Composite</tree-val>
+                          <sureness type="integer">0</sureness>
+                          <updater-id type="integer">10824</updater-id>
+                          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                          <node-status-id nil="true"/>
+                          <status nil="true"/>
+                          <start-date nil="true"/>
+                          <other-codes/>
+                          <end-date nil="true"/>
+                        </child>
+                      </children>
+                      <updated-at type="datetime">2017-07-20T10:15:08-04:00</updated-at>
+                      <tree-id type="integer">26605</tree-id>
+                      <id type="integer">1074360</id>
+                      <alt-names/>
+                      <tree-val>Pano-Tacanan: Composite</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <updater-id type="integer">10824</updater-id>
+                      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                      <node-status-id nil="true"/>
+                      <status nil="true"/>
+                      <start-date nil="true"/>
+                      <other-codes/>
+                      <end-date nil="true"/>
+                    </child>
+                    <child>
+                      <pri-name>Puinaua</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <is-default type="integer">1</is-default>
+                      <creator-id type="integer">10824</creator-id>
+                      <created-at type="datetime">2017-07-20T10:15:08-04:00</created-at>
+                      <codes>pyn</codes>
+                      <updated-by>jacobh</updated-by>
+                      <geography>Acre, Brazil</geography>
+                      <confidence>y</confidence>
+                      <deleted-at nil="true"/>
+                      <created-by>jacobh</created-by>
+                      <pub-comments>Speakers: 310</pub-comments>
+                      <node-type>Language</node-type>
+                      <children type="array"/>
+                      <updated-at type="datetime">2017-07-20T10:15:08-04:00</updated-at>
+                      <tree-id type="integer">26605</tree-id>
+                      <id type="integer">1074368</id>
+                      <alt-names>Poyanawa</alt-names>
+                      <tree-val>Pano-Tacanan: Composite</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <updater-id type="integer">10824</updater-id>
+                      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                      <node-status-id nil="true"/>
+                      <status nil="true"/>
+                      <start-date nil="true"/>
+                      <other-codes/>
+                      <end-date nil="true"/>
+                    </child>
+                    <child>
+                      <pri-name>Parannawa</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <is-default type="integer">1</is-default>
+                      <creator-id type="integer">10824</creator-id>
+                      <created-at type="datetime">2017-07-20T10:15:08-04:00</created-at>
+                      <codes>qn7</codes>
+                      <updated-by>jacobh</updated-by>
+                      <geography>Acre, Brazil</geography>
+                      <confidence>y</confidence>
+                      <deleted-at nil="true"/>
+                      <created-by>jacobh</created-by>
+                      <pub-comments/>
+                      <node-type>Language</node-type>
+                      <children type="array"/>
+                      <updated-at type="datetime">2017-07-20T10:15:08-04:00</updated-at>
+                      <tree-id type="integer">26605</tree-id>
+                      <id type="integer">1074367</id>
+                      <alt-names/>
+                      <tree-val>Pano-Tacanan: Composite</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <updater-id type="integer">10824</updater-id>
+                      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <status>Extinct</status>
+                      <start-date nil="true"/>
+                      <other-codes/>
+                      <end-date nil="true"/>
+                    </child>
+                    <child>
+                      <pri-name>Sharanawa</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <is-default type="integer">1</is-default>
+                      <creator-id type="integer">10824</creator-id>
+                      <created-at type="datetime">2017-07-20T10:15:08-04:00</created-at>
+                      <codes>mcd</codes>
+                      <updated-by>jacobh</updated-by>
+                      <geography>Acre, Brazil; Loreto, Peru</geography>
+                      <confidence>y</confidence>
+                      <deleted-at nil="true"/>
+                      <created-by>jacobh</created-by>
+                      <pub-comments>Speakers: 850</pub-comments>
+                      <node-type>Language</node-type>
+                      <children type="array"/>
+                      <updated-at type="datetime">2017-07-20T10:15:08-04:00</updated-at>
+                      <tree-id type="integer">26605</tree-id>
+                      <id type="integer">1074366</id>
+                      <alt-names>Marinahua, Mastanahua, Parquenahua</alt-names>
+                      <tree-val>Pano-Tacanan: Composite</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <updater-id type="integer">10824</updater-id>
+                      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                      <node-status-id nil="true"/>
+                      <status nil="true"/>
+                      <start-date nil="true"/>
+                      <other-codes/>
+                      <end-date nil="true"/>
+                    </child>
+                    <child>
+                      <pri-name>Yaminawa</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <is-default type="integer">1</is-default>
+                      <creator-id type="integer">10824</creator-id>
+                      <created-at type="datetime">2017-07-20T10:15:08-04:00</created-at>
+                      <codes>yaa, ywn</codes>
+                      <updated-by>jacobh</updated-by>
+                      <geography>Acre, Brazil; Huacapishetea, Mapuya, Peru; Pando, Bolovia</geography>
+                      <confidence>y</confidence>
+                      <deleted-at nil="true"/>
+                      <created-by>jacobh</created-by>
+                      <pub-comments>Speakers: 1700</pub-comments>
+                      <node-type>Language</node-type>
+                      <children type="array"/>
+                      <updated-at type="datetime">2017-07-20T10:15:08-04:00</updated-at>
+                      <tree-id type="integer">26605</tree-id>
+                      <id type="integer">1074365</id>
+                      <alt-names>Yaminahua, Yawanawa, Morunahua</alt-names>
+                      <tree-val>Pano-Tacanan: Composite</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <updater-id type="integer">10824</updater-id>
+                      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                      <node-status-id nil="true"/>
+                      <status nil="true"/>
+                      <start-date nil="true"/>
+                      <other-codes/>
+                      <end-date nil="true"/>
+                    </child>
+                    <child>
+                      <pri-name>Cashinahua</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <is-default type="integer">1</is-default>
+                      <creator-id type="integer">10824</creator-id>
+                      <created-at type="datetime">2017-07-20T10:15:09-04:00</created-at>
+                      <codes>cbs</codes>
+                      <updated-by>jacobh</updated-by>
+                      <geography>Amazonas, Brazil; Curanja and Purus Rivers, Peru</geography>
+                      <confidence>y</confidence>
+                      <deleted-at nil="true"/>
+                      <created-by>jacobh</created-by>
+                      <pub-comments>Speakers: 1600</pub-comments>
+                      <node-type>Language</node-type>
+                      <children type="array"/>
+                      <updated-at type="datetime">2017-07-20T10:15:09-04:00</updated-at>
+                      <tree-id type="integer">26605</tree-id>
+                      <id type="integer">1074371</id>
+                      <alt-names>Caxinawa, Kashinawa Kaxinawá, Tuxinawa</alt-names>
+                      <tree-val>Pano-Tacanan: Composite</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <updater-id type="integer">10824</updater-id>
+                      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                      <node-status-id nil="true"/>
+                      <status nil="true"/>
+                      <start-date nil="true"/>
+                      <other-codes/>
+                      <end-date nil="true"/>
+                    </child>
+                    <child>
+                      <pri-name>Shipinawa</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <is-default type="integer">1</is-default>
+                      <creator-id type="integer">10824</creator-id>
+                      <created-at type="datetime">2017-07-20T10:15:09-04:00</created-at>
+                      <codes>xip</codes>
+                      <updated-by>jacobh</updated-by>
+                      <geography>Amazonas, Acre, Brazil</geography>
+                      <confidence>y</confidence>
+                      <deleted-at nil="true"/>
+                      <created-by>jacobh</created-by>
+                      <pub-comments/>
+                      <node-type>Language</node-type>
+                      <children type="array"/>
+                      <updated-at type="datetime">2017-07-20T10:15:09-04:00</updated-at>
+                      <tree-id type="integer">26605</tree-id>
+                      <id type="integer">1074370</id>
+                      <alt-names>Xipinahua</alt-names>
+                      <tree-val>Pano-Tacanan: Composite</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <updater-id type="integer">10824</updater-id>
+                      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <status>Extinct</status>
+                      <start-date nil="true"/>
+                      <other-codes/>
+                      <end-date nil="true"/>
+                    </child>
+                    <child>
+                      <pri-name>Atsahuaca-Yamiaca</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <is-default type="integer">1</is-default>
+                      <creator-id type="integer">10824</creator-id>
+                      <created-at type="datetime">2017-07-20T10:15:08-04:00</created-at>
+                      <codes>atc</codes>
+                      <updated-by>jacobh</updated-by>
+                      <geography>Madre de Dios, Peru</geography>
+                      <confidence>y</confidence>
+                      <deleted-at nil="true"/>
+                      <created-by>jacobh</created-by>
+                      <pub-comments/>
+                      <node-type>Language</node-type>
+                      <children type="array"/>
+                      <updated-at type="datetime">2017-07-20T10:15:09-04:00</updated-at>
+                      <tree-id type="integer">26605</tree-id>
+                      <id type="integer">1074369</id>
+                      <alt-names>Atsahuaca, Yamiaka</alt-names>
+                      <tree-val>Pano-Tacanan: Composite</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <updater-id type="integer">10824</updater-id>
+                      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <status>Extinct</status>
+                      <start-date nil="true"/>
+                      <other-codes/>
+                      <end-date nil="true"/>
+                    </child>
+                  </children>
+                  <updated-at type="datetime">2017-07-20T10:15:07-04:00</updated-at>
+                  <tree-id type="integer">26605</tree-id>
+                  <id type="integer">1074359</id>
+                  <alt-names>Amawak-Jaminawa</alt-names>
+                  <tree-val>Pano-Tacanan: Composite</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <updater-id type="integer">10824</updater-id>
+                  <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                  <node-status-id nil="true"/>
+                  <status nil="true"/>
+                  <start-date nil="true"/>
+                  <other-codes/>
+                  <end-date nil="true"/>
+                </child>
+                <child>
+                  <pri-name>Shipibo</pri-name>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <is-default type="integer">1</is-default>
+                  <creator-id type="integer">10824</creator-id>
+                  <created-at type="datetime">2017-07-20T10:15:09-04:00</created-at>
+                  <codes>ncpn</codes>
+                  <updated-by>jacobh</updated-by>
+                  <geography nil="true"/>
+                  <confidence>y</confidence>
+                  <deleted-at nil="true"/>
+                  <created-by>jacobh</created-by>
+                  <pub-comments/>
+                  <node-type>Subgroup</node-type>
+                  <children type="array">
+                    <child>
+                      <pri-name>Marubo</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <is-default type="integer">1</is-default>
+                      <creator-id type="integer">10824</creator-id>
+                      <created-at type="datetime">2017-07-20T10:15:10-04:00</created-at>
+                      <codes>mzr</codes>
+                      <updated-by>jacobh</updated-by>
+                      <geography>Amazonas, Peru</geography>
+                      <confidence>y</confidence>
+                      <deleted-at nil="true"/>
+                      <created-by>jacobh</created-by>
+                      <pub-comments>Speakers: 594</pub-comments>
+                      <node-type>Language</node-type>
+                      <children type="array"/>
+                      <updated-at type="datetime">2017-07-20T10:15:10-04:00</updated-at>
+                      <tree-id type="integer">26605</tree-id>
+                      <id type="integer">1074380</id>
+                      <alt-names>Marobo</alt-names>
+                      <tree-val>Pano-Tacanan: Composite</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <updater-id type="integer">10824</updater-id>
+                      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                      <node-status-id nil="true"/>
+                      <status nil="true"/>
+                      <start-date nil="true"/>
+                      <other-codes/>
+                      <end-date nil="true"/>
+                    </child>
+                    <child>
+                      <pri-name>Tushinawa</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <is-default type="integer">1</is-default>
+                      <creator-id type="integer">10824</creator-id>
+                      <created-at type="datetime">2017-07-20T10:15:09-04:00</created-at>
+                      <codes>tux</codes>
+                      <updated-by>jacobh</updated-by>
+                      <geography>Acre, Brazil</geography>
+                      <confidence>y</confidence>
+                      <deleted-at nil="true"/>
+                      <created-by>jacobh</created-by>
+                      <pub-comments/>
+                      <node-type>Language</node-type>
+                      <children type="array"/>
+                      <updated-at type="datetime">2017-07-20T10:15:09-04:00</updated-at>
+                      <tree-id type="integer">26605</tree-id>
+                      <id type="integer">1074373</id>
+                      <alt-names>Tutxinawa, Tuxinaua</alt-names>
+                      <tree-val>Pano-Tacanan: Composite</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <updater-id type="integer">10824</updater-id>
+                      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                      <node-status-id nil="true"/>
+                      <status nil="true"/>
+                      <start-date nil="true"/>
+                      <other-codes/>
+                      <end-date nil="true"/>
+                    </child>
+                    <child>
+                      <pri-name>Shipibo</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <is-default type="integer">1</is-default>
+                      <creator-id type="integer">10824</creator-id>
+                      <created-at type="datetime">2017-07-20T10:15:09-04:00</created-at>
+                      <codes>shp</codes>
+                      <updated-by>jacobh</updated-by>
+                      <geography>Ucayali River, Peru</geography>
+                      <confidence>y</confidence>
+                      <deleted-at nil="true"/>
+                      <created-by>jacobh</created-by>
+                      <pub-comments>Speakers: 30000</pub-comments>
+                      <node-type>Language</node-type>
+                      <children type="array">
+                        <child>
+                          <pri-name>Conibo</pri-name>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <is-default type="integer">1</is-default>
+                          <creator-id type="integer">10824</creator-id>
+                          <created-at type="datetime">2017-07-20T10:15:09-04:00</created-at>
+                          <codes>shp-con</codes>
+                          <updated-by>jacobh</updated-by>
+                          <geography nil="true"/>
+                          <confidence>y</confidence>
+                          <deleted-at nil="true"/>
+                          <created-by>jacobh</created-by>
+                          <pub-comments/>
+                          <node-type>Dialect</node-type>
+                          <children type="array"/>
+                          <updated-at type="datetime">2017-07-20T10:15:09-04:00</updated-at>
+                          <tree-id type="integer">26605</tree-id>
+                          <id type="integer">1074377</id>
+                          <alt-names/>
+                          <tree-val>Pano-Tacanan: Composite</tree-val>
+                          <sureness type="integer">0</sureness>
+                          <updater-id type="integer">10824</updater-id>
+                          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                          <node-status-id nil="true"/>
+                          <status nil="true"/>
+                          <start-date nil="true"/>
+                          <other-codes/>
+                          <end-date nil="true"/>
+                        </child>
+                        <child>
+                          <pri-name>Shetebo</pri-name>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <is-default type="integer">1</is-default>
+                          <creator-id type="integer">10824</creator-id>
+                          <created-at type="datetime">2017-07-20T10:15:09-04:00</created-at>
+                          <codes>shp-she</codes>
+                          <updated-by>jacobh</updated-by>
+                          <geography nil="true"/>
+                          <confidence>y</confidence>
+                          <deleted-at nil="true"/>
+                          <created-by>jacobh</created-by>
+                          <pub-comments/>
+                          <node-type>Dialect</node-type>
+                          <children type="array"/>
+                          <updated-at type="datetime">2017-07-20T10:15:10-04:00</updated-at>
+                          <tree-id type="integer">26605</tree-id>
+                          <id type="integer">1074378</id>
+                          <alt-names>Setebo, Setibo, Xitibo, Xetebo, Manoita</alt-names>
+                          <tree-val>Pano-Tacanan: Composite</tree-val>
+                          <sureness type="integer">0</sureness>
+                          <updater-id type="integer">10824</updater-id>
+                          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                          <node-status-id nil="true"/>
+                          <status nil="true"/>
+                          <start-date nil="true"/>
+                          <other-codes/>
+                          <end-date nil="true"/>
+                        </child>
+                        <child>
+                          <pri-name>Shipibo</pri-name>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <is-default type="integer">1</is-default>
+                          <creator-id type="integer">10824</creator-id>
+                          <created-at type="datetime">2017-07-20T10:15:09-04:00</created-at>
+                          <codes>shp-shi</codes>
+                          <updated-by>jacobh</updated-by>
+                          <geography nil="true"/>
+                          <confidence>y</confidence>
+                          <deleted-at nil="true"/>
+                          <created-by>jacobh</created-by>
+                          <pub-comments/>
+                          <node-type>Dialect</node-type>
+                          <children type="array"/>
+                          <updated-at type="datetime">2017-07-20T10:15:09-04:00</updated-at>
+                          <tree-id type="integer">26605</tree-id>
+                          <id type="integer">1074376</id>
+                          <alt-names/>
+                          <tree-val>Pano-Tacanan: Composite</tree-val>
+                          <sureness type="integer">0</sureness>
+                          <updater-id type="integer">10824</updater-id>
+                          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                          <node-status-id nil="true"/>
+                          <status nil="true"/>
+                          <start-date nil="true"/>
+                          <other-codes/>
+                          <end-date nil="true"/>
+                        </child>
+                        <child>
+                          <pri-name>Pisquibo</pri-name>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <is-default type="integer">1</is-default>
+                          <creator-id type="integer">10824</creator-id>
+                          <created-at type="datetime">2017-07-20T10:15:10-04:00</created-at>
+                          <codes>shp-pis</codes>
+                          <updated-by>jacobh</updated-by>
+                          <geography nil="true"/>
+                          <confidence>y</confidence>
+                          <deleted-at nil="true"/>
+                          <created-by>jacobh</created-by>
+                          <pub-comments/>
+                          <node-type>Dialect</node-type>
+                          <children type="array"/>
+                          <updated-at type="datetime">2017-07-20T10:15:10-04:00</updated-at>
+                          <tree-id type="integer">26605</tree-id>
+                          <id type="integer">1074379</id>
+                          <alt-names/>
+                          <tree-val>Pano-Tacanan: Composite</tree-val>
+                          <sureness type="integer">0</sureness>
+                          <updater-id type="integer">10824</updater-id>
+                          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                          <node-status-id nil="true"/>
+                          <status nil="true"/>
+                          <start-date nil="true"/>
+                          <other-codes/>
+                          <end-date nil="true"/>
+                        </child>
+                      </children>
+                      <updated-at type="datetime">2017-07-20T10:15:09-04:00</updated-at>
+                      <tree-id type="integer">26605</tree-id>
+                      <id type="integer">1074375</id>
+                      <alt-names>Shipibo-Conibo</alt-names>
+                      <tree-val>Pano-Tacanan: Composite</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <updater-id type="integer">10824</updater-id>
+                      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                      <node-status-id nil="true"/>
+                      <status nil="true"/>
+                      <start-date nil="true"/>
+                      <other-codes/>
+                      <end-date nil="true"/>
+                    </child>
+                    <child>
+                      <pri-name>Waninnawa</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <is-default type="integer">1</is-default>
+                      <creator-id type="integer">10824</creator-id>
+                      <created-at type="datetime">2017-07-20T10:15:10-04:00</created-at>
+                      <codes>knt</codes>
+                      <updated-by>jacobh</updated-by>
+                      <geography>Acre, Brazil</geography>
+                      <confidence>y</confidence>
+                      <deleted-at nil="true"/>
+                      <created-by>jacobh</created-by>
+                      <pub-comments>Not to be confused with Katukina of the Katukinan family.</pub-comments>
+                      <node-type>Language</node-type>
+                      <children type="array"/>
+                      <updated-at type="datetime">2017-07-20T10:15:10-04:00</updated-at>
+                      <tree-id type="integer">26605</tree-id>
+                      <id type="integer">1074382</id>
+                      <alt-names>Katukina</alt-names>
+                      <tree-val>Pano-Tacanan: Composite</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <updater-id type="integer">10824</updater-id>
+                      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                      <node-status-id nil="true"/>
+                      <status nil="true"/>
+                      <start-date nil="true"/>
+                      <other-codes/>
+                      <end-date nil="true"/>
+                    </child>
+                    <child>
+                      <pri-name>Capanahua</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <is-default type="integer">1</is-default>
+                      <creator-id type="integer">10824</creator-id>
+                      <created-at type="datetime">2017-07-20T10:15:10-04:00</created-at>
+                      <codes>kaq</codes>
+                      <updated-by>jacobh</updated-by>
+                      <geography>Loreto, Peru</geography>
+                      <confidence>y</confidence>
+                      <deleted-at nil="true"/>
+                      <created-by>jacobh</created-by>
+                      <pub-comments>Speakers: 350</pub-comments>
+                      <node-type>Language</node-type>
+                      <children type="array"/>
+                      <updated-at type="datetime">2017-07-20T10:15:10-04:00</updated-at>
+                      <tree-id type="integer">26605</tree-id>
+                      <id type="integer">1074381</id>
+                      <alt-names>Kapanawa</alt-names>
+                      <tree-val>Pano-Tacanan: Composite</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <updater-id type="integer">10824</updater-id>
+                      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                      <node-status-id nil="true"/>
+                      <status nil="true"/>
+                      <start-date nil="true"/>
+                      <other-codes/>
+                      <end-date nil="true"/>
+                    </child>
+                    <child>
+                      <pri-name>Remo</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <is-default type="integer">1</is-default>
+                      <creator-id type="integer">10824</creator-id>
+                      <created-at type="datetime">2017-07-20T10:15:09-04:00</created-at>
+                      <codes>rem</codes>
+                      <updated-by>jacobh</updated-by>
+                      <geography>Amazonas, Brazil</geography>
+                      <confidence>y</confidence>
+                      <deleted-at nil="true"/>
+                      <created-by>jacobh</created-by>
+                      <pub-comments/>
+                      <node-type>Language</node-type>
+                      <children type="array"/>
+                      <updated-at type="datetime">2017-07-20T10:15:09-04:00</updated-at>
+                      <tree-id type="integer">26605</tree-id>
+                      <id type="integer">1074374</id>
+                      <alt-names>Sakuya, Kukuini</alt-names>
+                      <tree-val>Pano-Tacanan: Composite</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <updater-id type="integer">10824</updater-id>
+                      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <status>Extinct</status>
+                      <start-date nil="true"/>
+                      <other-codes/>
+                      <end-date nil="true"/>
+                    </child>
+                  </children>
+                  <updated-at type="datetime">2017-07-20T10:15:09-04:00</updated-at>
+                  <tree-id type="integer">26605</tree-id>
+                  <id type="integer">1074372</id>
+                  <alt-names/>
+                  <tree-val>Pano-Tacanan: Composite</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <updater-id type="integer">10824</updater-id>
+                  <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                  <node-status-id nil="true"/>
+                  <status nil="true"/>
+                  <start-date nil="true"/>
+                  <other-codes/>
+                  <end-date nil="true"/>
+                </child>
+                <child>
+                  <pri-name>Cashibo</pri-name>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <is-default type="integer">1</is-default>
+                  <creator-id type="integer">10824</creator-id>
+                  <created-at type="datetime">2017-07-20T10:15:10-04:00</created-at>
+                  <codes>wpan</codes>
+                  <updated-by>jacobh</updated-by>
+                  <geography nil="true"/>
+                  <confidence>y</confidence>
+                  <deleted-at nil="true"/>
+                  <created-by>jacobh</created-by>
+                  <pub-comments>Campbell calls this a group.</pub-comments>
+                  <node-type>Subgroup</node-type>
+                  <children type="array">
+                    <child>
+                      <pri-name>Nocamán</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <is-default type="integer">1</is-default>
+                      <creator-id type="integer">10824</creator-id>
+                      <created-at type="datetime">2017-07-20T10:15:10-04:00</created-at>
+                      <codes>nom</codes>
+                      <updated-by>jacobh</updated-by>
+                      <geography>Loreto, Peru</geography>
+                      <confidence>y</confidence>
+                      <deleted-at nil="true"/>
+                      <created-by>jacobh</created-by>
+                      <pub-comments/>
+                      <node-type>Language</node-type>
+                      <children type="array"/>
+                      <updated-at type="datetime">2017-07-20T10:15:10-04:00</updated-at>
+                      <tree-id type="integer">26605</tree-id>
+                      <id type="integer">1074384</id>
+                      <alt-names>Nocomán, Nokamán</alt-names>
+                      <tree-val>Pano-Tacanan: Composite</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <updater-id type="integer">10824</updater-id>
+                      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <status>Extinct</status>
+                      <start-date nil="true"/>
+                      <other-codes/>
+                      <end-date nil="true"/>
+                    </child>
+                    <child>
+                      <pri-name>Cashibo</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <is-default type="integer">1</is-default>
+                      <creator-id type="integer">10824</creator-id>
+                      <created-at type="datetime">2017-07-20T10:15:10-04:00</created-at>
+                      <codes>cbr</codes>
+                      <updated-by>jacobh</updated-by>
+                      <geography>Loreto, Peru</geography>
+                      <confidence>y</confidence>
+                      <deleted-at nil="true"/>
+                      <created-by>jacobh</created-by>
+                      <pub-comments>Speakers: 1500</pub-comments>
+                      <node-type>Language</node-type>
+                      <children type="array"/>
+                      <updated-at type="datetime">2017-07-20T10:15:10-04:00</updated-at>
+                      <tree-id type="integer">26605</tree-id>
+                      <id type="integer">1074385</id>
+                      <alt-names>Cacataibo</alt-names>
+                      <tree-val>Pano-Tacanan: Composite</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <updater-id type="integer">10824</updater-id>
+                      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                      <node-status-id nil="true"/>
+                      <status nil="true"/>
+                      <start-date nil="true"/>
+                      <other-codes/>
+                      <end-date nil="true"/>
+                    </child>
+                  </children>
+                  <updated-at type="datetime">2017-07-20T10:15:10-04:00</updated-at>
+                  <tree-id type="integer">26605</tree-id>
+                  <id type="integer">1074383</id>
+                  <alt-names>Kashibo</alt-names>
+                  <tree-val>Pano-Tacanan: Composite</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <updater-id type="integer">10824</updater-id>
+                  <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                  <node-status-id nil="true"/>
+                  <status nil="true"/>
+                  <start-date nil="true"/>
+                  <other-codes/>
+                  <end-date nil="true"/>
+                </child>
+                <child>
+                  <pri-name>Pano</pri-name>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <is-default type="integer">1</is-default>
+                  <creator-id type="integer">10824</creator-id>
+                  <created-at type="datetime">2017-07-20T10:15:07-04:00</created-at>
+                  <codes>pnno</codes>
+                  <updated-by>jacobh</updated-by>
+                  <geography nil="true"/>
+                  <confidence>y</confidence>
+                  <deleted-at nil="true"/>
+                  <created-by>jacobh</created-by>
+                  <pub-comments>Campbell calls this a language area.</pub-comments>
+                  <node-type>Subgroup</node-type>
+                  <children type="array">
+                    <child>
+                      <pri-name>Huariapano</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <is-default type="integer">1</is-default>
+                      <creator-id type="integer">10824</creator-id>
+                      <created-at type="datetime">2017-07-20T10:15:07-04:00</created-at>
+                      <codes>qq2</codes>
+                      <updated-by>jacobh</updated-by>
+                      <geography nil="true"/>
+                      <confidence>y</confidence>
+                      <deleted-at nil="true"/>
+                      <created-by>jacobh</created-by>
+                      <pub-comments>Kaufman calls this an 'emergent language', which signifies that it is not quite distinct from other languages in the language area.</pub-comments>
+                      <node-type>Language</node-type>
+                      <children type="array"/>
+                      <updated-at type="datetime">2017-07-20T10:15:07-04:00</updated-at>
+                      <tree-id type="integer">26605</tree-id>
+                      <id type="integer">1074357</id>
+                      <alt-names>Pano, Wariapano</alt-names>
+                      <tree-val>Pano-Tacanan: Composite</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <updater-id type="integer">10824</updater-id>
+                      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <status>Extinct</status>
+                      <start-date nil="true"/>
+                      <other-codes/>
+                      <end-date nil="true"/>
+                    </child>
+                    <child>
+                      <pri-name>Pánobo</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <is-default type="integer">1</is-default>
+                      <creator-id type="integer">10824</creator-id>
+                      <created-at type="datetime">2017-07-20T10:15:07-04:00</created-at>
+                      <codes>pno</codes>
+                      <updated-by>jacobh</updated-by>
+                      <geography>Peru</geography>
+                      <confidence>y</confidence>
+                      <deleted-at nil="true"/>
+                      <created-by>jacobh</created-by>
+                      <pub-comments>Kaufman calls this an 'emergent language', which signifies that it is not quite distinct from other languages in the language area.</pub-comments>
+                      <node-type>Language</node-type>
+                      <children type="array"/>
+                      <updated-at type="datetime">2017-07-20T10:15:07-04:00</updated-at>
+                      <tree-id type="integer">26605</tree-id>
+                      <id type="integer">1074358</id>
+                      <alt-names/>
+                      <tree-val>Pano-Tacanan: Composite</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <updater-id type="integer">10824</updater-id>
+                      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <status>Extinct</status>
+                      <start-date nil="true"/>
+                      <other-codes/>
+                      <end-date nil="true"/>
+                    </child>
+                  </children>
+                  <updated-at type="datetime">2017-07-20T10:15:07-04:00</updated-at>
+                  <tree-id type="integer">26605</tree-id>
+                  <id type="integer">1074356</id>
+                  <alt-names/>
+                  <tree-val>Pano-Tacanan: Composite</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <updater-id type="integer">10824</updater-id>
+                  <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                  <node-status-id nil="true"/>
+                  <status nil="true"/>
+                  <start-date nil="true"/>
+                  <other-codes/>
+                  <end-date nil="true"/>
+                </child>
+              </children>
+              <updated-at type="datetime">2017-07-20T10:15:07-04:00</updated-at>
+              <tree-id type="integer">26605</tree-id>
+              <id type="integer">1074355</id>
+              <alt-names/>
+              <tree-val>Pano-Tacanan: Composite</tree-val>
+              <sureness type="integer">0</sureness>
+              <updater-id type="integer">10824</updater-id>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+              <node-status-id nil="true"/>
+              <status nil="true"/>
+              <start-date nil="true"/>
+              <other-codes/>
+              <end-date nil="true"/>
+            </child>
+            <child>
+              <pri-name>Panoan Outliers</pri-name>
+              <node-type-id type="integer">10000</node-type-id>
+              <is-default type="integer">1</is-default>
+              <creator-id type="integer">10824</creator-id>
+              <created-at type="datetime">2017-07-20T10:15:10-04:00</created-at>
+              <codes>unpa</codes>
+              <updated-by>jacobh</updated-by>
+              <geography nil="true"/>
+              <confidence>y</confidence>
+              <deleted-at nil="true"/>
+              <created-by>jacobh</created-by>
+              <pub-comments>Campbell calls these outliers.</pub-comments>
+              <node-type>Subgroup</node-type>
+              <children type="array">
+                <child>
+                  <pri-name>Kaxararí</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">1</is-default>
+                  <creator-id type="integer">10824</creator-id>
+                  <created-at type="datetime">2017-07-20T10:15:10-04:00</created-at>
+                  <codes>ktx</codes>
+                  <updated-by>jacobh</updated-by>
+                  <geography>Rondonia, Crazil</geography>
+                  <confidence>y</confidence>
+                  <deleted-at nil="true"/>
+                  <created-by>jacobh</created-by>
+                  <pub-comments>Speakers: 220</pub-comments>
+                  <node-type>Language</node-type>
+                  <children type="array"/>
+                  <updated-at type="datetime">2017-07-20T10:15:10-04:00</updated-at>
+                  <tree-id type="integer">26605</tree-id>
+                  <id type="integer">1074387</id>
+                  <alt-names>Kaxariri</alt-names>
+                  <tree-val>Pano-Tacanan: Composite</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <updater-id type="integer">10824</updater-id>
+                  <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                  <node-status-id nil="true"/>
+                  <status nil="true"/>
+                  <start-date nil="true"/>
+                  <other-codes/>
+                  <end-date nil="true"/>
+                </child>
+                <child>
+                  <pri-name>Kulino</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">1</is-default>
+                  <creator-id type="integer">10824</creator-id>
+                  <created-at type="datetime">2017-07-20T10:15:10-04:00</created-at>
+                  <codes>xpk</codes>
+                  <updated-by>jacobh</updated-by>
+                  <geography>Amazonas, Brazil</geography>
+                  <confidence>y</confidence>
+                  <deleted-at nil="true"/>
+                  <created-by>jacobh</created-by>
+                  <pub-comments/>
+                  <node-type>Language</node-type>
+                  <children type="array"/>
+                  <updated-at type="datetime">2017-07-20T10:15:11-04:00</updated-at>
+                  <tree-id type="integer">26605</tree-id>
+                  <id type="integer">1074388</id>
+                  <alt-names>Culino</alt-names>
+                  <tree-val>Pano-Tacanan: Composite</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <updater-id type="integer">10824</updater-id>
+                  <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <status>Extinct</status>
+                  <start-date nil="true"/>
+                  <other-codes/>
+                  <end-date nil="true"/>
+                </child>
+              </children>
+              <updated-at type="datetime">2017-07-20T10:15:10-04:00</updated-at>
+              <tree-id type="integer">26605</tree-id>
+              <id type="integer">1074386</id>
+              <alt-names/>
+              <tree-val>Pano-Tacanan: Composite</tree-val>
+              <sureness type="integer">0</sureness>
+              <updater-id type="integer">10824</updater-id>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+              <node-status-id nil="true"/>
+              <status nil="true"/>
+              <start-date nil="true"/>
+              <other-codes/>
+              <end-date nil="true"/>
+            </child>
+            <child>
+              <pri-name>Bolivian</pri-name>
+              <node-type-id type="integer">10000</node-type-id>
+              <is-default type="integer">1</is-default>
+              <creator-id type="integer">10824</creator-id>
+              <created-at type="datetime">2017-07-20T10:15:11-04:00</created-at>
+              <codes>bpnn</codes>
+              <updated-by>jacobh</updated-by>
+              <geography nil="true"/>
+              <confidence>y</confidence>
+              <deleted-at nil="true"/>
+              <created-by>jacobh</created-by>
+              <pub-comments/>
+              <node-type>Subgroup</node-type>
+              <children type="array">
+                <child>
+                  <pri-name>Chákobo</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">1</is-default>
+                  <creator-id type="integer">10824</creator-id>
+                  <created-at type="datetime">2017-07-20T10:15:11-04:00</created-at>
+                  <codes>cao</codes>
+                  <updated-by>jacobh</updated-by>
+                  <geography>Beni, Brazil</geography>
+                  <confidence>y</confidence>
+                  <deleted-at nil="true"/>
+                  <created-by>jacobh</created-by>
+                  <pub-comments>Speakers: 520</pub-comments>
+                  <node-type>Language</node-type>
+                  <children type="array"/>
+                  <updated-at type="datetime">2017-07-20T10:15:11-04:00</updated-at>
+                  <tree-id type="integer">26605</tree-id>
+                  <id type="integer">1074391</id>
+                  <alt-names>Chácobo</alt-names>
+                  <tree-val>Pano-Tacanan: Composite</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <updater-id type="integer">10824</updater-id>
+                  <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                  <node-status-id nil="true"/>
+                  <status nil="true"/>
+                  <start-date nil="true"/>
+                  <other-codes/>
+                  <end-date nil="true"/>
+                </child>
+                <child>
+                  <pri-name>Sensi</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">1</is-default>
+                  <creator-id type="integer">10824</creator-id>
+                  <created-at type="datetime">2017-07-20T10:15:11-04:00</created-at>
+                  <codes>sni</codes>
+                  <updated-by>jacobh</updated-by>
+                  <geography>Loreto, Peru</geography>
+                  <confidence>y</confidence>
+                  <deleted-at nil="true"/>
+                  <created-by>jacobh</created-by>
+                  <pub-comments/>
+                  <node-type>Language</node-type>
+                  <children type="array"/>
+                  <updated-at type="datetime">2017-07-20T10:15:11-04:00</updated-at>
+                  <tree-id type="integer">26605</tree-id>
+                  <id type="integer">1074390</id>
+                  <alt-names>Senti, Tenti, Mananahua</alt-names>
+                  <tree-val>Pano-Tacanan: Composite</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <updater-id type="integer">10824</updater-id>
+                  <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <status>Extinct</status>
+                  <start-date nil="true"/>
+                  <other-codes/>
+                  <end-date nil="true"/>
+                </child>
+                <child>
+                  <pri-name>Karipuna</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">1</is-default>
+                  <creator-id type="integer">10824</creator-id>
+                  <created-at type="datetime">2017-07-20T10:15:11-04:00</created-at>
+                  <codes>097</codes>
+                  <updated-by>jacobh</updated-by>
+                  <geography>Rondonia, Brazil</geography>
+                  <confidence>y</confidence>
+                  <deleted-at nil="true"/>
+                  <created-by>jacobh</created-by>
+                  <pub-comments>Speakers: 12</pub-comments>
+                  <node-type>Language</node-type>
+                  <children type="array"/>
+                  <updated-at type="datetime">2017-07-20T10:15:11-04:00</updated-at>
+                  <tree-id type="integer">26605</tree-id>
+                  <id type="integer">1074393</id>
+                  <alt-names>Karipuná</alt-names>
+                  <tree-val>Pano-Tacanan: Composite</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <updater-id type="integer">10824</updater-id>
+                  <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                  <node-status-id type="integer">10001</node-status-id>
+                  <status>Nearly Extinct</status>
+                  <start-date nil="true"/>
+                  <other-codes/>
+                  <end-date nil="true"/>
+                </child>
+                <child>
+                  <pri-name>Mayoruna-Matsés</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">1</is-default>
+                  <creator-id type="integer">10824</creator-id>
+                  <created-at type="datetime">2017-07-20T10:15:11-04:00</created-at>
+                  <codes>myma</codes>
+                  <updated-by>jacobh</updated-by>
+                  <geography nil="true"/>
+                  <confidence nil="true"/>
+                  <deleted-at nil="true"/>
+                  <created-by>jacobh</created-by>
+                  <pub-comments/>
+                  <node-type>Language</node-type>
+                  <children type="array">
+                    <child>
+                      <pri-name>Mayoruna-Matsés</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <is-default type="integer">1</is-default>
+                      <creator-id type="integer">10824</creator-id>
+                      <created-at type="datetime">2017-07-20T10:15:11-04:00</created-at>
+                      <codes>mcf, mpq</codes>
+                      <updated-by>jacobh</updated-by>
+                      <geography>Amazonas, Brazil, Peru</geography>
+                      <confidence>y</confidence>
+                      <deleted-at nil="true"/>
+                      <created-by>jacobh</created-by>
+                      <pub-comments>"This language may be a mixture of various refugee Panoan languages." (Kaufman, pg.71) Speakers: 2000 Ethnologue lists Matse and Matis as two separate languages, but Campbell lists them as one.</pub-comments>
+                      <node-type>Language</node-type>
+                      <children type="array"/>
+                      <updated-at type="datetime">2017-07-20T10:15:11-04:00</updated-at>
+                      <tree-id type="integer">26605</tree-id>
+                      <id type="integer">1074396</id>
+                      <alt-names>Matse, Matis</alt-names>
+                      <tree-val>Pano-Tacanan: Composite</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <updater-id type="integer">10824</updater-id>
+                      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                      <node-status-id nil="true"/>
+                      <status nil="true"/>
+                      <start-date nil="true"/>
+                      <other-codes/>
+                      <end-date nil="true"/>
+                    </child>
+                    <child>
+                      <pri-name>Dëmushbo</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <is-default type="integer">1</is-default>
+                      <creator-id type="integer">10824</creator-id>
+                      <created-at type="datetime">2017-07-20T10:15:11-04:00</created-at>
+                      <codes>1at</codes>
+                      <updated-by>jacobh</updated-by>
+                      <geography nil="true"/>
+                      <confidence nil="true"/>
+                      <deleted-at nil="true"/>
+                      <created-by>jacobh</created-by>
+                      <pub-comments/>
+                      <node-type>Language</node-type>
+                      <children type="array"/>
+                      <updated-at type="datetime">2017-07-20T10:15:12-04:00</updated-at>
+                      <tree-id type="integer">26605</tree-id>
+                      <id type="integer">1074397</id>
+                      <alt-names/>
+                      <tree-val>Pano-Tacanan: Composite</tree-val>
+                      <sureness nil="true"/>
+                      <updater-id type="integer">10824</updater-id>
+                      <publications>Fleck, David. 2010. Documentation of the Mayoruna Languages of Western Amazonia: A Compilation of Recordings of Oral History Narratives and Other Speech Genres. London: HRELP. </publications>
+                      <node-status-id type="integer">10021</node-status-id>
+                      <status>Critically Endangered</status>
+                      <start-date nil="true"/>
+                      <other-codes/>
+                      <end-date nil="true"/>
+                    </child>
+                  </children>
+                  <updated-at type="datetime">2017-07-20T10:15:11-04:00</updated-at>
+                  <tree-id type="integer">26605</tree-id>
+                  <id type="integer">1074395</id>
+                  <alt-names/>
+                  <tree-val>Pano-Tacanan: Composite</tree-val>
+                  <sureness nil="true"/>
+                  <updater-id type="integer">10824</updater-id>
+                  <publications>Fleck, David. 2010. Documentation of the Mayoruna Languages of Western Amazonia: A Compilation of Recordings of Oral History Narratives and Other Speech Genres. London: HRELP. </publications>
+                  <node-status-id nil="true"/>
+                  <status nil="true"/>
+                  <start-date nil="true"/>
+                  <other-codes/>
+                  <end-date nil="true"/>
+                </child>
+                <child>
+                  <pri-name>Shaninawa</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">1</is-default>
+                  <creator-id type="integer">10824</creator-id>
+                  <created-at type="datetime">2017-07-20T10:15:11-04:00</created-at>
+                  <codes>qe4</codes>
+                  <updated-by>jacobh</updated-by>
+                  <geography>Acre, Brazil</geography>
+                  <confidence>y</confidence>
+                  <deleted-at nil="true"/>
+                  <created-by>jacobh</created-by>
+                  <pub-comments/>
+                  <node-type>Language</node-type>
+                  <children type="array"/>
+                  <updated-at type="datetime">2017-07-20T10:15:11-04:00</updated-at>
+                  <tree-id type="integer">26605</tree-id>
+                  <id type="integer">1074394</id>
+                  <alt-names>Xaninaua</alt-names>
+                  <tree-val>Pano-Tacanan: Composite</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <updater-id type="integer">10824</updater-id>
+                  <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <status>Extinct</status>
+                  <start-date nil="true"/>
+                  <other-codes/>
+                  <end-date nil="true"/>
+                </child>
+                <child>
+                  <pri-name>Pacahuara</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">1</is-default>
+                  <creator-id type="integer">10824</creator-id>
+                  <created-at type="datetime">2017-07-20T10:15:11-04:00</created-at>
+                  <codes>pcp</codes>
+                  <updated-by>jacobh</updated-by>
+                  <geography>Beni, Brazil</geography>
+                  <confidence>y</confidence>
+                  <deleted-at nil="true"/>
+                  <created-by>jacobh</created-by>
+                  <pub-comments>Speakers: one family</pub-comments>
+                  <node-type>Language</node-type>
+                  <children type="array"/>
+                  <updated-at type="datetime">2017-07-20T10:15:11-04:00</updated-at>
+                  <tree-id type="integer">26605</tree-id>
+                  <id type="integer">1074392</id>
+                  <alt-names>Pacaguara</alt-names>
+                  <tree-val>Pano-Tacanan: Composite</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <updater-id type="integer">10824</updater-id>
+                  <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+                  <node-status-id type="integer">10001</node-status-id>
+                  <status>Nearly Extinct</status>
+                  <start-date nil="true"/>
+                  <other-codes/>
+                  <end-date nil="true"/>
+                </child>
+              </children>
+              <updated-at type="datetime">2017-07-20T10:15:11-04:00</updated-at>
+              <tree-id type="integer">26605</tree-id>
+              <id type="integer">1074389</id>
+              <alt-names/>
+              <tree-val>Pano-Tacanan: Composite</tree-val>
+              <sureness type="integer">0</sureness>
+              <updater-id type="integer">10824</updater-id>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+              <node-status-id nil="true"/>
+              <status nil="true"/>
+              <start-date nil="true"/>
+              <other-codes/>
+              <end-date nil="true"/>
+            </child>
+          </children>
+          <updated-at type="datetime">2017-07-20T10:15:07-04:00</updated-at>
+          <tree-id type="integer">26605</tree-id>
+          <id type="integer">1074354</id>
+          <alt-names/>
+          <tree-val>Pano-Tacanan: Composite</tree-val>
+          <sureness type="integer">0</sureness>
+          <updater-id type="integer">10824</updater-id>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+          <node-status-id nil="true"/>
+          <status nil="true"/>
+          <start-date nil="true"/>
+          <other-codes/>
+          <end-date nil="true"/>
+        </child>
+      </children>
+      <updated-at type="datetime">2017-07-20T10:15:07-04:00</updated-at>
+      <tree-id type="integer">26605</tree-id>
+      <id type="integer">1074353</id>
+      <alt-names/>
+      <tree-val>Pano-Tacanan: Composite</tree-val>
+      <sureness type="integer">0</sureness>
+      <updater-id type="integer">10824</updater-id>
+      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Verónica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70-71. London, New York: Routledge. </publications>
+      <node-status-id nil="true"/>
+      <status nil="true"/>
+      <start-date nil="true"/>
+      <other-codes/>
+      <end-date nil="true"/>
+    </root>
+  </tree>
+</hash>

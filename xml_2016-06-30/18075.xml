@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <tree-id type="integer">18075</tree-id>
+      <other-codes></other-codes>
+      <geography nil="true"></geography>
+      <end-date nil="true"></end-date>
+      <created-by>joe_leif</created-by>
+      <pub-comments>Became extinct after 1930 (pg. 9).</pub-comments>
+      <updated-at type="datetime">2010-07-28T14:28:51-04:00</updated-at>
+      <status nil="true"></status>
+      <start-date nil="true"></start-date>
+      <node-type-id type="integer">10000</node-type-id>
+      <node-type>Subgroup</node-type>
+      <is-default type="integer">1</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <created-at type="datetime">2010-07-28T14:28:50-04:00</created-at>
+      <alt-names></alt-names>
+      <sureness type="integer">0</sureness>
+      <confidence>y</confidence>
+      <codes>chum</codes>
+      <children type="array">
+        <child>
+          <tree-id type="integer">18075</tree-id>
+          <other-codes></other-codes>
+          <geography nil="true"></geography>
+          <end-date nil="true"></end-date>
+          <created-by>joe_leif</created-by>
+          <pub-comments></pub-comments>
+          <updated-at type="datetime">2010-07-28T14:28:51-04:00</updated-at>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-type>Subgroup</node-type>
+          <is-default type="integer">1</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2010-07-28T14:28:51-04:00</created-at>
+          <alt-names></alt-names>
+          <sureness type="integer">0</sureness>
+          <confidence>y</confidence>
+          <codes>ktsp</codes>
+          <children type="array">
+            <child>
+              <tree-id type="integer">18075</tree-id>
+              <other-codes></other-codes>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-by>joe_leif</created-by>
+              <pub-comments>Obispeno was the Chumash language spoken at San Luis Obispo mission, quite distinct from the other varieties of Chumash.</pub-comments>
+              <updated-at type="datetime">2010-07-28T14:28:51-04:00</updated-at>
+              <status>Extinct</status>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-type>Language</node-type>
+              <is-default type="integer">1</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2010-07-28T14:28:51-04:00</created-at>
+              <alt-names></alt-names>
+              <sureness type="integer">0</sureness>
+              <confidence>y</confidence>
+              <codes>obi</codes>
+              <children type="array">
+                <child>
+                  <tree-id type="integer">18075</tree-id>
+                  <other-codes></other-codes>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments></pub-comments>
+                  <updated-at type="datetime">2010-07-28T14:28:51-04:00</updated-at>
+                  <status>Extinct</status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <node-type>Dialect</node-type>
+                  <is-default type="integer">1</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2010-07-28T14:28:51-04:00</created-at>
+                  <alt-names></alt-names>
+                  <sureness type="integer">0</sureness>
+                  <confidence>y</confidence>
+                  <codes>obi-nor</codes>
+                  <children type="array"/>
+                  <tree-val>Chumashan: Composite</tree-val>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <id type="integer">717406</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Northern Obispe&#241;o</pri-name>
+                  <publications>Mithun, Marianne. 1999. The Languages of Native North America, 389. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                </child>
+                <child>
+                  <tree-id type="integer">18075</tree-id>
+                  <other-codes></other-codes>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments></pub-comments>
+                  <updated-at type="datetime">2010-07-28T14:28:51-04:00</updated-at>
+                  <status>Extinct</status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <node-type>Dialect</node-type>
+                  <is-default type="integer">1</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2010-07-28T14:28:51-04:00</created-at>
+                  <alt-names></alt-names>
+                  <sureness type="integer">0</sureness>
+                  <confidence>y</confidence>
+                  <codes>obi-sou</codes>
+                  <children type="array"/>
+                  <tree-val>Chumashan: Composite</tree-val>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <id type="integer">717407</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Southern Obispe&#241;o</pri-name>
+                  <publications>Mithun, Marianne. 1999. The Languages of Native North America, 389. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                </child>
+              </children>
+              <tree-val>Chumashan: Composite</tree-val>
+              <node-status-id type="integer">10000</node-status-id>
+              <id type="integer">717404</id>
+              <creator-id type="integer">10740</creator-id>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Obsipe&#241;o</pri-name>
+              <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 9. London, New York: Routledge. , Mithun, Marianne. 1999. The Languages of Native North America, 389. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+            </child>
+          </children>
+          <tree-val>Chumashan: Composite</tree-val>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">717403</id>
+          <creator-id type="integer">10740</creator-id>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <pri-name>Northern Chumash</pri-name>
+          <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 9. London, New York: Routledge. , Mithun, Marianne. 1999. The Languages of Native North America, 389. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+        </child>
+        <child>
+          <tree-id type="integer">18075</tree-id>
+          <other-codes></other-codes>
+          <geography nil="true"></geography>
+          <end-date nil="true"></end-date>
+          <created-by>joe_leif</created-by>
+          <pub-comments></pub-comments>
+          <updated-at type="datetime">2010-07-28T14:28:51-04:00</updated-at>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-type>Subgroup</node-type>
+          <is-default type="integer">1</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2010-07-28T14:28:51-04:00</created-at>
+          <alt-names></alt-names>
+          <sureness type="integer">0</sureness>
+          <confidence>y</confidence>
+          <codes>vpsc</codes>
+          <children type="array">
+            <child>
+              <tree-id type="integer">18075</tree-id>
+              <other-codes></other-codes>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-by>joe_leif</created-by>
+              <pub-comments></pub-comments>
+              <updated-at type="datetime">2010-07-28T14:28:51-04:00</updated-at>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-type>Subgroup</node-type>
+              <is-default type="integer">1</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2010-07-28T14:28:51-04:00</created-at>
+              <alt-names></alt-names>
+              <sureness type="integer">0</sureness>
+              <confidence>y</confidence>
+              <codes>cchu</codes>
+              <children type="array">
+                <child>
+                  <tree-id type="integer">18075</tree-id>
+                  <other-codes></other-codes>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments>Ventureno, a Chumash language, was spoken at San Buenaventura mission and in most of ventura County. There were at least six different dialects.</pub-comments>
+                  <updated-at type="datetime">2010-07-28T14:28:51-04:00</updated-at>
+                  <status>Extinct</status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">1</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2010-07-28T14:28:51-04:00</created-at>
+                  <alt-names></alt-names>
+                  <sureness type="integer">0</sureness>
+                  <confidence>y</confidence>
+                  <codes>veo</codes>
+                  <children type="array">
+                    <child>
+                      <tree-id type="integer">18075</tree-id>
+                      <other-codes></other-codes>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>joe_leif</created-by>
+                      <pub-comments></pub-comments>
+                      <updated-at type="datetime">2010-07-28T14:28:52-04:00</updated-at>
+                      <status>Extinct</status>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <node-type>Dialect</node-type>
+                      <is-default type="integer">1</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2010-07-28T14:28:52-04:00</created-at>
+                      <alt-names></alt-names>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <codes>veo-shi</codes>
+                      <children type="array"/>
+                      <tree-val>Chumashan: Composite</tree-val>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <id type="integer">717412</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <pri-name>Shisholop</pri-name>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America, 389. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                    </child>
+                    <child>
+                      <tree-id type="integer">18075</tree-id>
+                      <other-codes></other-codes>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>joe_leif</created-by>
+                      <pub-comments></pub-comments>
+                      <updated-at type="datetime">2010-07-28T14:28:52-04:00</updated-at>
+                      <status>Extinct</status>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <node-type>Dialect</node-type>
+                      <is-default type="integer">1</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2010-07-28T14:28:52-04:00</created-at>
+                      <alt-names></alt-names>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <codes>veo-mug</codes>
+                      <children type="array"/>
+                      <tree-val>Chumashan: Composite</tree-val>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <id type="integer">717410</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <pri-name>Mugu</pri-name>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America, 389. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                    </child>
+                    <child>
+                      <tree-id type="integer">18075</tree-id>
+                      <other-codes></other-codes>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>joe_leif</created-by>
+                      <pub-comments></pub-comments>
+                      <updated-at type="datetime">2010-07-28T14:28:52-04:00</updated-at>
+                      <status>Extinct</status>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <node-type>Dialect</node-type>
+                      <is-default type="integer">1</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2010-07-28T14:28:52-04:00</created-at>
+                      <alt-names></alt-names>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <codes>veo-mat</codes>
+                      <children type="array"/>
+                      <tree-val>Chumashan: Composite</tree-val>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <id type="integer">717413</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <pri-name>Matilija</pri-name>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America, 389. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                    </child>
+                    <child>
+                      <tree-id type="integer">18075</tree-id>
+                      <other-codes></other-codes>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>joe_leif</created-by>
+                      <pub-comments></pub-comments>
+                      <updated-at type="datetime">2010-07-28T14:28:52-04:00</updated-at>
+                      <status>Extinct</status>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <node-type>Dialect</node-type>
+                      <is-default type="integer">1</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2010-07-28T14:28:52-04:00</created-at>
+                      <alt-names></alt-names>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <codes>veo-oja</codes>
+                      <children type="array"/>
+                      <tree-val>Chumashan: Composite</tree-val>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <id type="integer">717414</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <pri-name>Ojai-Santa Paula-Sespe-Castac</pri-name>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America, 389. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                    </child>
+                    <child>
+                      <tree-id type="integer">18075</tree-id>
+                      <other-codes></other-codes>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>joe_leif</created-by>
+                      <pub-comments></pub-comments>
+                      <updated-at type="datetime">2010-07-28T14:28:52-04:00</updated-at>
+                      <status>Extinct</status>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <node-type>Dialect</node-type>
+                      <is-default type="integer">1</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2010-07-28T14:28:52-04:00</created-at>
+                      <alt-names></alt-names>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <codes>veo-mal</codes>
+                      <children type="array"/>
+                      <tree-val>Chumashan: Composite</tree-val>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <id type="integer">717411</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <pri-name>Malibu</pri-name>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America, 389. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                    </child>
+                  </children>
+                  <tree-val>Chumashan: Composite</tree-val>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <id type="integer">717399</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Venture&#241;o</pri-name>
+                  <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 9. London, New York: Routledge. , Mithun, Marianne. 1999. The Languages of Native North America, 389. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                </child>
+                <child>
+                  <tree-id type="integer">18075</tree-id>
+                  <other-codes></other-codes>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments>Barbareno is the chumash language once spoken at Santa Barbara mission and along the southern coast of Santa Barbara County from Point Conception to Carpineria. The last Chumash speaker, a fluent barbareno, died in 1965.</pub-comments>
+                  <updated-at type="datetime">2010-07-28T14:28:51-04:00</updated-at>
+                  <status>Extinct</status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">1</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2010-07-28T14:28:51-04:00</created-at>
+                  <alt-names></alt-names>
+                  <sureness type="integer">0</sureness>
+                  <confidence>y</confidence>
+                  <codes>boi</codes>
+                  <children type="array">
+                    <child>
+                      <tree-id type="integer">18075</tree-id>
+                      <other-codes></other-codes>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>joe_leif</created-by>
+                      <pub-comments></pub-comments>
+                      <updated-at type="datetime">2010-07-28T14:28:52-04:00</updated-at>
+                      <status>Extinct</status>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <node-type>Dialect</node-type>
+                      <is-default type="integer">1</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2010-07-28T14:28:52-04:00</created-at>
+                      <alt-names></alt-names>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <codes>boi-dos</codes>
+                      <children type="array"/>
+                      <tree-val>Chumashan: Composite</tree-val>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <id type="integer">717409</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <pri-name>Dos Pueblos</pri-name>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America, 389. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                    </child>
+                    <child>
+                      <tree-id type="integer">18075</tree-id>
+                      <other-codes></other-codes>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>joe_leif</created-by>
+                      <pub-comments></pub-comments>
+                      <updated-at type="datetime">2010-07-28T14:28:52-04:00</updated-at>
+                      <status>Extinct</status>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <node-type>Dialect</node-type>
+                      <is-default type="integer">1</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2010-07-28T14:28:51-04:00</created-at>
+                      <alt-names></alt-names>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <codes>boi-sba</codes>
+                      <children type="array"/>
+                      <tree-val>Chumashan: Composite</tree-val>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <id type="integer">717408</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <pri-name>Santa Barbara-Goleta</pri-name>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America, 389. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                    </child>
+                  </children>
+                  <tree-val>Chumashan: Composite</tree-val>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <id type="integer">717400</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Barbare&#241;o</pri-name>
+                  <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 9. London, New York: Routledge. , Mithun, Marianne. 1999. The Languages of Native North America, 389. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                </child>
+                <child>
+                  <tree-id type="integer">18075</tree-id>
+                  <other-codes></other-codes>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments>Purisimeno is the chumash language once spoken at mission La Purisima Concepcion in the lwoer valley of the Santa Ynez Riverm Near modern Lompoc, California, and in the territory to the north as far as Santa Maria.</pub-comments>
+                  <updated-at type="datetime">2010-07-28T14:28:51-04:00</updated-at>
+                  <status>Extinct</status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">1</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2010-07-28T14:28:51-04:00</created-at>
+                  <alt-names></alt-names>
+                  <sureness type="integer">0</sureness>
+                  <confidence>y</confidence>
+                  <codes>puy</codes>
+                  <children type="array"/>
+                  <tree-val>Chumashan: Composite</tree-val>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <id type="integer">717401</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Purisime&#241;o</pri-name>
+                  <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 9. London, New York: Routledge. , Mithun, Marianne. 1999. The Languages of Native North America, 389. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                </child>
+                <child>
+                  <tree-id type="integer">18075</tree-id>
+                  <other-codes></other-codes>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments>Became extinct before 1930 (pg. 9).</pub-comments>
+                  <updated-at type="datetime">2010-07-28T14:28:51-04:00</updated-at>
+                  <status>Extinct</status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">1</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2010-07-28T14:28:51-04:00</created-at>
+                  <alt-names></alt-names>
+                  <sureness type="integer">0</sureness>
+                  <confidence>y</confidence>
+                  <codes>inz</codes>
+                  <children type="array"/>
+                  <tree-val>Chumashan: Composite</tree-val>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <id type="integer">717402</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Inese&#241;o</pri-name>
+                  <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 9. London, New York: Routledge. , Mithun, Marianne. 1999. The Languages of Native North America, 389. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                </child>
+              </children>
+              <tree-val>Chumashan: Composite</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">717398</id>
+              <creator-id type="integer">10740</creator-id>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Central Chumash</pri-name>
+              <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 9. London, New York: Routledge. , Mithun, Marianne. 1999. The Languages of Native North America, 389. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+            </child>
+            <child>
+              <tree-id type="integer">18075</tree-id>
+              <other-codes></other-codes>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-by>joe_leif</created-by>
+              <pub-comments></pub-comments>
+              <updated-at type="datetime">2010-07-28T14:28:51-04:00</updated-at>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-type>Subgroup</node-type>
+              <is-default type="integer">1</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2010-07-28T14:28:51-04:00</created-at>
+              <alt-names></alt-names>
+              <sureness type="integer">0</sureness>
+              <confidence>y</confidence>
+              <codes>ichm</codes>
+              <children type="array">
+                <child>
+                  <tree-id type="integer">18075</tree-id>
+                  <other-codes></other-codes>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments>Island Chumash was the chumash language spoken on three islands in the Santa Barbara channel - San Miguel, Santa Rosa, and Santa Cruz - but with the establishment of the Spanish missions, the Island communities were relocated on the mainland, primarily at San Buenaventura. It was quite distinct from the Chumash languages of adjacent mainland, Barbareno and Ventureno.</pub-comments>
+                  <updated-at type="datetime">2010-07-28T14:28:51-04:00</updated-at>
+                  <status>Extinct</status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">1</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2010-07-28T14:28:51-04:00</created-at>
+                  <alt-names>Cruze&#241;o</alt-names>
+                  <sureness type="integer">0</sureness>
+                  <confidence>y</confidence>
+                  <codes>crz</codes>
+                  <children type="array">
+                    <child>
+                      <tree-id type="integer">18075</tree-id>
+                      <other-codes></other-codes>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>joe_leif</created-by>
+                      <pub-comments></pub-comments>
+                      <updated-at type="datetime">2010-07-28T14:28:52-04:00</updated-at>
+                      <status>Extinct</status>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <node-type>Dialect</node-type>
+                      <is-default type="integer">1</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2010-07-28T14:28:52-04:00</created-at>
+                      <alt-names></alt-names>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <codes>crz-ros</codes>
+                      <children type="array"/>
+                      <tree-val>Chumashan: Composite</tree-val>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <id type="integer">717415</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <pri-name>Rose&#241;o</pri-name>
+                      <publications>Mithun, Marianne. 1999. The Languages of Native North America, 389. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                    </child>
+                  </children>
+                  <tree-val>Chumashan: Composite</tree-val>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <id type="integer">717397</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Island Chumash</pri-name>
+                  <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 9. London, New York: Routledge. , Mithun, Marianne. 1999. The Languages of Native North America, 389. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+                </child>
+              </children>
+              <tree-val>Chumashan: Composite</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">717396</id>
+              <creator-id type="integer">10740</creator-id>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Island Chumash</pri-name>
+              <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 9. London, New York: Routledge. , Mithun, Marianne. 1999. The Languages of Native North America, 389. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+            </child>
+          </children>
+          <tree-val>Chumashan: Composite</tree-val>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">717395</id>
+          <creator-id type="integer">10740</creator-id>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <pri-name>Southern Chumash</pri-name>
+          <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 9. London, New York: Routledge. , Mithun, Marianne. 1999. The Languages of Native North America, 389. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+        </child>
+        <child>
+          <tree-id type="integer">18075</tree-id>
+          <other-codes></other-codes>
+          <geography nil="true"></geography>
+          <end-date nil="true"></end-date>
+          <created-by>joe_leif</created-by>
+          <pub-comments>The authors find essentially no linguistic data on which to base a classification; ethnographic and historical evidence permits Cuyama to be linked to the Chumashan family (pg. 37).</pub-comments>
+          <updated-at type="datetime">2010-07-28T14:28:51-04:00</updated-at>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10001</node-type-id>
+          <node-type>Language</node-type>
+          <is-default type="integer">1</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2010-07-28T14:28:51-04:00</created-at>
+          <alt-names></alt-names>
+          <sureness type="integer">-1</sureness>
+          <confidence>n</confidence>
+          <codes>066</codes>
+          <children type="array"/>
+          <tree-val>Chumashan: Composite</tree-val>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">717405</id>
+          <creator-id type="integer">10740</creator-id>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <pri-name>Cuyama</pri-name>
+          <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 32-43. London, New York: Routledge. </publications>
+        </child>
+      </children>
+      <tree-val>Chumashan: Composite</tree-val>
+      <node-status-id nil="true"></node-status-id>
+      <id type="integer">717394</id>
+      <creator-id type="integer">10740</creator-id>
+      <updater-id type="integer">10740</updater-id>
+      <updated-by>joe_leif</updated-by>
+      <pri-name>Chumashan</pri-name>
+      <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 9. London, New York: Routledge. , Mithun, Marianne. 1999. The Languages of Native North America, 389. Cambridge: Cambridge University Press. ISBN 0-521-23228-7</publications>
+    </root>
+    <description>Chumashan: Composite</description>
+  </tree>
+</hash>

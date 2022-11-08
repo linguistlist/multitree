@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <updated-at type="datetime">2009-05-19T17:32:33-04:00</updated-at>
+      <other-codes></other-codes>
+      <node-status-id nil="true"></node-status-id>
+      <codes>tcme</codes>
+      <sureness type="integer">0</sureness>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <node-type>Subgroup</node-type>
+      <deleted-at nil="true"></deleted-at>
+      <children type="array">
+        <child>
+          <updated-at type="datetime">2009-05-19T17:32:33-04:00</updated-at>
+          <other-codes>esm</other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <codes>rld</codes>
+          <sureness type="integer">0</sureness>
+          <pub-comments></pub-comments>
+          <node-type>Language</node-type>
+          <deleted-at nil="true"></deleted-at>
+          <children type="array"/>
+          <tree-id type="integer">12441</tree-id>
+          <status nil="true"></status>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <id type="integer">418073</id>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names></alt-names>
+          <updated-by>joe_leif</updated-by>
+          <pri-name>Esmeralde&#241;o</pri-name>
+          <is-default type="integer">0</is-default>
+          <geography>Country: Ecuador; Lat.: 0.33; Long.: -79.83</geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-05-19T17:32:33-04:00</created-at>
+          <tree-val>Tacame: Dryer 2005</tree-val>
+          <start-date nil="true"></start-date>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637. New York: Oxford University Press. ISBN 0199255911</publications>
+          <node-type-id type="integer">10001</node-type-id>
+          <confidence>y</confidence>
+        </child>
+      </children>
+      <tree-id type="integer">12441</tree-id>
+      <status nil="true"></status>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <id type="integer">418072</id>
+      <creator-id type="integer">10740</creator-id>
+      <alt-names></alt-names>
+      <updated-by>joe_leif</updated-by>
+      <pri-name>Tacame</pri-name>
+      <is-default type="integer">0</is-default>
+      <geography nil="true"></geography>
+      <end-date nil="true"></end-date>
+      <created-at type="datetime">2009-05-19T17:32:33-04:00</created-at>
+      <tree-val>Tacame: Dryer 2005</tree-val>
+      <start-date nil="true"></start-date>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637. New York: Oxford University Press. ISBN 0199255911</publications>
+      <node-type-id type="integer">10000</node-type-id>
+      <confidence>y</confidence>
+    </root>
+    <description>Tacame: Dryer 2005</description>
+  </tree>
+</hash>

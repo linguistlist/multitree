@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <pri-name>North American Deaf Sign Languages</pri-name>
+      <node-type>Subgroup</node-type>
+      <node-status-id nil="true"></node-status-id>
+      <id type="integer">1073653</id>
+      <creator-id type="integer">10824</creator-id>
+      <confidence>y</confidence>
+      <alt-names></alt-names>
+      <sureness type="integer">0</sureness>
+      <start-date nil="true"></start-date>
+      <node-type-id type="integer">10000</node-type-id>
+      <codes>ndsl</codes>
+      <children type="array">
+        <child>
+          <pri-name>International Sign</pri-name>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">1073662</id>
+          <creator-id type="integer">10824</creator-id>
+          <confidence>y</confidence>
+          <alt-names>IS</alt-names>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10001</node-type-id>
+          <codes>ils</codes>
+          <children type="array"/>
+          <updated-by>jacobh</updated-by>
+          <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+          <created-by>jacobh</created-by>
+          <tree-id type="integer">26592</tree-id>
+          <status nil="true"></status>
+          <pub-comments>1.  There is a historical connection between International Sign and an invented body of
+vocabulary called Gestuno, and because of the connection the two are sometimes
+associated with each other. Gestuno, as such, is not used any more, and there appears to
+only have been one publication that can be identified as being about Gestuno.  2.  IS varies considerably depending on the language background of those using it. As such, it tends to borrow heavily from the local sign language in whatever country a conference is
+being held (Woll 1990). As such, it is more properly considered a pidgin, rather than a full
+language, although it has more grammatical complexity than a typical pidgin.</pub-comments>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2016-11-08T13:56:44-05:00</updated-at>
+          <geography>Worldwide</geography>
+          <tree-val>North American Deaf Sign Languages: Composite</tree-val>
+          <other-codes></other-codes>
+          <is-default type="integer">1</is-default>
+          <created-at type="datetime">2016-11-08T13:56:44-05:00</created-at>
+          <updater-id type="integer">10824</updater-id>
+        </child>
+        <child>
+          <pri-name>American Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">1073659</id>
+          <creator-id type="integer">10824</creator-id>
+          <confidence>y</confidence>
+          <alt-names>Ameslan, ASL</alt-names>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10001</node-type-id>
+          <codes>ase</codes>
+          <children type="array">
+            <child>
+              <pri-name>Black American Sign Language</pri-name>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">1073660</id>
+              <creator-id type="integer">10824</creator-id>
+              <confidence>Y</confidence>
+              <alt-names></alt-names>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10003</node-type-id>
+              <codes>ase-bla</codes>
+              <children type="array"/>
+              <updated-by>jacobh</updated-by>
+              <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+              <created-by>jacobh</created-by>
+              <tree-id type="integer">26592</tree-id>
+              <status nil="true"></status>
+              <pub-comments>Black American Sign Language developed in segregated schools in the south. It contains much sign vocabulary not in ASL and some different grammatical structure.</pub-comments>
+              <end-date nil="true"></end-date>
+              <deleted-at nil="true"></deleted-at>
+              <updated-at type="datetime">2016-11-08T13:56:44-05:00</updated-at>
+              <geography>USA</geography>
+              <tree-val>North American Deaf Sign Languages: Composite</tree-val>
+              <other-codes></other-codes>
+              <is-default type="integer">1</is-default>
+              <created-at type="datetime">2016-11-08T13:56:44-05:00</created-at>
+              <updater-id type="integer">10824</updater-id>
+            </child>
+            <child>
+              <pri-name>Tactile Sign Language</pri-name>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">1073661</id>
+              <creator-id type="integer">10824</creator-id>
+              <confidence>Y</confidence>
+              <alt-names></alt-names>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10003</node-type-id>
+              <codes>ase-tal</codes>
+              <children type="array"/>
+              <updated-by>jacobh</updated-by>
+              <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+              <created-by>jacobh</created-by>
+              <tree-id type="integer">26592</tree-id>
+              <status nil="true"></status>
+              <pub-comments>Tactile Sign Language is used by over 900 persons in Louisiana who know ASL, but have lost their sight from a generic cause: Usher's Syndrome. They communicate by touch on each other's wrists.</pub-comments>
+              <end-date nil="true"></end-date>
+              <deleted-at nil="true"></deleted-at>
+              <updated-at type="datetime">2016-11-08T13:56:44-05:00</updated-at>
+              <geography>USA</geography>
+              <tree-val>North American Deaf Sign Languages: Composite</tree-val>
+              <other-codes></other-codes>
+              <is-default type="integer">1</is-default>
+              <created-at type="datetime">2016-11-08T13:56:44-05:00</created-at>
+              <updater-id type="integer">10824</updater-id>
+            </child>
+          </children>
+          <updated-by>jacobh</updated-by>
+          <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+          <created-by>jacobh</created-by>
+          <tree-id type="integer">26592</tree-id>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2016-11-08T13:56:44-05:00</updated-at>
+          <geography>USA</geography>
+          <tree-val>North American Deaf Sign Languages: Composite</tree-val>
+          <other-codes></other-codes>
+          <is-default type="integer">1</is-default>
+          <created-at type="datetime">2016-11-08T13:56:44-05:00</created-at>
+          <updater-id type="integer">10824</updater-id>
+        </child>
+        <child>
+          <pri-name>Cuba Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">1073654</id>
+          <creator-id type="integer">10824</creator-id>
+          <confidence>y</confidence>
+          <alt-names></alt-names>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10001</node-type-id>
+          <codes>csf</codes>
+          <children type="array"/>
+          <updated-by>jacobh</updated-by>
+          <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+          <created-by>jacobh</created-by>
+          <tree-id type="integer">26592</tree-id>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2016-11-08T13:56:43-05:00</updated-at>
+          <geography>Cuba</geography>
+          <tree-val>North American Deaf Sign Languages: Composite</tree-val>
+          <other-codes></other-codes>
+          <is-default type="integer">1</is-default>
+          <created-at type="datetime">2016-11-08T13:56:43-05:00</created-at>
+          <updater-id type="integer">10824</updater-id>
+        </child>
+        <child>
+          <pri-name>Inuit Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">1073664</id>
+          <creator-id type="integer">10824</creator-id>
+          <confidence nil="true"></confidence>
+          <alt-names></alt-names>
+          <sureness nil="true"></sureness>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10001</node-type-id>
+          <codes>iks</codes>
+          <children type="array"/>
+          <updated-by>jacobh</updated-by>
+          <publications>Schuit, Joke. Typological Aspects of Inuit Sign Language (Canada). </publications>
+          <created-by>jacobh</created-by>
+          <tree-id type="integer">26592</tree-id>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2016-11-08T13:56:44-05:00</updated-at>
+          <geography nil="true"></geography>
+          <tree-val>North American Deaf Sign Languages: Composite</tree-val>
+          <other-codes></other-codes>
+          <is-default type="integer">1</is-default>
+          <created-at type="datetime">2016-11-08T13:56:44-05:00</created-at>
+          <updater-id type="integer">10824</updater-id>
+        </child>
+        <child>
+          <pri-name>Martha's Vineyard Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">1073655</id>
+          <creator-id type="integer">10824</creator-id>
+          <confidence>y</confidence>
+          <alt-names>MVSL</alt-names>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10001</node-type-id>
+          <codes>mre</codes>
+          <children type="array"/>
+          <updated-by>jacobh</updated-by>
+          <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+          <created-by>jacobh</created-by>
+          <tree-id type="integer">26592</tree-id>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2016-11-08T13:56:43-05:00</updated-at>
+          <geography>USA</geography>
+          <tree-val>North American Deaf Sign Languages: Composite</tree-val>
+          <other-codes></other-codes>
+          <is-default type="integer">1</is-default>
+          <created-at type="datetime">2016-11-08T13:56:43-05:00</created-at>
+          <updater-id type="integer">10824</updater-id>
+        </child>
+        <child>
+          <pri-name>Yucatec Maya Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">1073663</id>
+          <creator-id type="integer">10824</creator-id>
+          <confidence>y</confidence>
+          <alt-names>Nohya Sign Language</alt-names>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10001</node-type-id>
+          <codes>msd</codes>
+          <children type="array"/>
+          <updated-by>jacobh</updated-by>
+          <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+          <created-by>jacobh</created-by>
+          <tree-id type="integer">26592</tree-id>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2016-11-08T13:56:44-05:00</updated-at>
+          <geography>Mexico</geography>
+          <tree-val>North American Deaf Sign Languages: Composite</tree-val>
+          <other-codes></other-codes>
+          <is-default type="integer">1</is-default>
+          <created-at type="datetime">2016-11-08T13:56:44-05:00</created-at>
+          <updater-id type="integer">10824</updater-id>
+        </child>
+        <child>
+          <pri-name>Maritime Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10001</node-status-id>
+          <id type="integer">1073657</id>
+          <creator-id type="integer">10824</creator-id>
+          <confidence>Y</confidence>
+          <alt-names>Nova Scotian Sign Language</alt-names>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10001</node-type-id>
+          <codes>nsr</codes>
+          <children type="array"/>
+          <updated-by>jacobh</updated-by>
+          <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+          <created-by>jacobh</created-by>
+          <tree-id type="integer">26592</tree-id>
+          <status>Nearly Extinct</status>
+          <pub-comments>Based on British Sign Language. Distinct from American and Quebec sign languages.</pub-comments>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2016-11-08T13:56:43-05:00</updated-at>
+          <geography>Canada, Nova Scotia, New Brunswick, and Prince Edward Island.</geography>
+          <tree-val>North American Deaf Sign Languages: Composite</tree-val>
+          <other-codes></other-codes>
+          <is-default type="integer">1</is-default>
+          <created-at type="datetime">2016-11-08T13:56:43-05:00</created-at>
+          <updater-id type="integer">10824</updater-id>
+        </child>
+        <child>
+          <pri-name>Quebec Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">1073656</id>
+          <creator-id type="integer">10824</creator-id>
+          <confidence>y</confidence>
+          <alt-names>Langue des Signes Qu&#233;b&#233;coise, Langue des Signes du Qu&#233;bec, LSQ, Langue Signe Quebecars</alt-names>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10001</node-type-id>
+          <codes>fcs</codes>
+          <children type="array"/>
+          <updated-by>jacobh</updated-by>
+          <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+          <created-by>jacobh</created-by>
+          <tree-id type="integer">26592</tree-id>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2016-11-08T13:56:43-05:00</updated-at>
+          <geography>Canada</geography>
+          <tree-val>North American Deaf Sign Languages: Composite</tree-val>
+          <other-codes></other-codes>
+          <is-default type="integer">1</is-default>
+          <created-at type="datetime">2016-11-08T13:56:43-05:00</created-at>
+          <updater-id type="integer">10824</updater-id>
+        </child>
+        <child>
+          <pri-name>Mexican Sign Language</pri-name>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">1073658</id>
+          <creator-id type="integer">10824</creator-id>
+          <confidence>y</confidence>
+          <alt-names>Lenguaje de Signos Mexicano, Lenguaje Manual Mexicana, Lenguaje de las Manos    LSM</alt-names>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10001</node-type-id>
+          <codes>mfs</codes>
+          <children type="array"/>
+          <updated-by>jacobh</updated-by>
+          <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+          <created-by>jacobh</created-by>
+          <tree-id type="integer">26592</tree-id>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2016-11-08T13:56:44-05:00</updated-at>
+          <geography>Mexico</geography>
+          <tree-val>North American Deaf Sign Languages: Composite</tree-val>
+          <other-codes></other-codes>
+          <is-default type="integer">1</is-default>
+          <created-at type="datetime">2016-11-08T13:56:43-05:00</created-at>
+          <updater-id type="integer">10824</updater-id>
+        </child>
+      </children>
+      <updated-by>jacobh</updated-by>
+      <publications>Multiple sources Integrated by The LINGUIST List. </publications>
+      <created-by>jacobh</created-by>
+      <tree-id type="integer">26592</tree-id>
+      <status nil="true"></status>
+      <pub-comments></pub-comments>
+      <end-date nil="true"></end-date>
+      <deleted-at nil="true"></deleted-at>
+      <updated-at type="datetime">2016-11-08T13:56:43-05:00</updated-at>
+      <geography>North America</geography>
+      <tree-val>North American Deaf Sign Languages: Composite</tree-val>
+      <other-codes></other-codes>
+      <is-default type="integer">1</is-default>
+      <created-at type="datetime">2016-11-08T13:56:43-05:00</created-at>
+      <updater-id type="integer">10824</updater-id>
+    </root>
+    <description>North American Deaf Sign Languages: Composite</description>
+  </tree>
+</hash>

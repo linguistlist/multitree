@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Pacific</region>
+    <root>
+      <updated-at type="datetime">2013-07-31T12:40:06-04:00</updated-at>
+      <codes>anes</codes>
+      <pub-comments>"I claim (somewhat tentatively) that PAn [Proto Austronesian] underwent a primary four-way split into Puyuma, Tsou, Rukai and Proto Nuclear Austronesian (PNAn)" (Ross 2009:295).</pub-comments>
+      <other-codes></other-codes>
+      <creator-id type="integer">10720</creator-id>
+      <tree-val>Austronesian: Ross 2009</tree-val>
+      <pri-name>Austronesian</pri-name>
+      <node-type>Subgroup</node-type>
+      <deleted-at nil="true"></deleted-at>
+      <alt-names>Proto Austronesian</alt-names>
+      <children type="array">
+        <child>
+          <updated-at type="datetime">2013-07-31T12:41:43-04:00</updated-at>
+          <codes>nuan</codes>
+          <pub-comments>"The set of innovations [&#8230;] is complex, and it is improbable that they occurred independently in different languages. Instead, they probably occurred once, in PNAn [Proto Nuclear Austronesian]" (Ross 2009:314).</pub-comments>
+          <other-codes></other-codes>
+          <creator-id type="integer">10720</creator-id>
+          <tree-val>Austronesian: Ross 2009</tree-val>
+          <pri-name>Nuclear Austronesian</pri-name>
+          <node-type>Subgroup</node-type>
+          <deleted-at nil="true"></deleted-at>
+          <alt-names>Proto Nuclear Austronesian</alt-names>
+          <children type="array">
+            <child>
+              <updated-at type="datetime">2013-07-31T12:40:08-04:00</updated-at>
+              <codes>bnn</codes>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <creator-id type="integer">10720</creator-id>
+              <tree-val>Austronesian: Ross 2009</tree-val>
+              <pri-name>Bunun</pri-name>
+              <node-type>Language</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <alt-names></alt-names>
+              <children type="array">
+                <child>
+                  <updated-at type="datetime">2013-07-31T12:40:08-04:00</updated-at>
+                  <codes>bnn-shi</codes>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <creator-id type="integer">10720</creator-id>
+                  <tree-val>Austronesian: Ross 2009</tree-val>
+                  <pri-name>Ishbukun Bunun</pri-name>
+                  <node-type>Dialect</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <children type="array"/>
+                  <created-at type="datetime">2013-07-31T12:40:08-04:00</created-at>
+                  <id type="integer">959321</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <tree-id type="integer">24537</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10720</updater-id>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <sureness type="integer">0</sureness>
+                  <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+                  <geography nil="true"></geography>
+                </child>
+              </children>
+              <created-at type="datetime">2013-07-31T12:40:08-04:00</created-at>
+              <id type="integer">959320</id>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <tree-id type="integer">24537</tree-id>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10720</updater-id>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10001</node-type-id>
+              <sureness type="integer">0</sureness>
+              <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+              <geography nil="true"></geography>
+            </child>
+            <child>
+              <updated-at type="datetime">2013-07-31T12:40:07-04:00</updated-at>
+              <codes>atay</codes>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <creator-id type="integer">10720</creator-id>
+              <tree-val>Austronesian: Ross 2009</tree-val>
+              <pri-name>Atayalic</pri-name>
+              <node-type>Subgroup</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <alt-names></alt-names>
+              <children type="array">
+                <child>
+                  <updated-at type="datetime">2013-07-31T12:40:08-04:00</updated-at>
+                  <codes>tay</codes>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <creator-id type="integer">10720</creator-id>
+                  <tree-val>Austronesian: Ross 2009</tree-val>
+                  <pri-name>Atayal</pri-name>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <children type="array">
+                    <child>
+                      <updated-at type="datetime">2013-07-31T12:40:08-04:00</updated-at>
+                      <codes>tay-may</codes>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <creator-id type="integer">10720</creator-id>
+                      <tree-val>Austronesian: Ross 2009</tree-val>
+                      <pri-name>Mayrinax Atayal</pri-name>
+                      <node-type>Dialect</node-type>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <created-at type="datetime">2013-07-31T12:40:08-04:00</created-at>
+                      <id type="integer">959312</id>
+                      <end-date nil="true"></end-date>
+                      <confidence>y</confidence>
+                      <tree-id type="integer">24537</tree-id>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <updater-id type="integer">10720</updater-id>
+                      <status nil="true"></status>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <sureness type="integer">0</sureness>
+                      <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+                      <geography nil="true"></geography>
+                    </child>
+                  </children>
+                  <created-at type="datetime">2013-07-31T12:40:07-04:00</created-at>
+                  <id type="integer">959311</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <tree-id type="integer">24537</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10720</updater-id>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <sureness type="integer">0</sureness>
+                  <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+                  <geography nil="true"></geography>
+                </child>
+                <child>
+                  <updated-at type="datetime">2013-07-31T12:40:08-04:00</updated-at>
+                  <codes>trv</codes>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <creator-id type="integer">10720</creator-id>
+                  <tree-val>Austronesian: Ross 2009</tree-val>
+                  <pri-name>Seediq</pri-name>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <children type="array"/>
+                  <created-at type="datetime">2013-07-31T12:40:08-04:00</created-at>
+                  <id type="integer">959313</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <tree-id type="integer">24537</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10720</updater-id>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <sureness type="integer">0</sureness>
+                  <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+                  <geography nil="true"></geography>
+                </child>
+              </children>
+              <created-at type="datetime">2013-07-31T12:40:07-04:00</created-at>
+              <id type="integer">959310</id>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <tree-id type="integer">24537</tree-id>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10720</updater-id>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <sureness type="integer">0</sureness>
+              <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+              <geography nil="true"></geography>
+            </child>
+            <child>
+              <updated-at type="datetime">2013-07-31T12:40:07-04:00</updated-at>
+              <codes>kksa</codes>
+              <pub-comments>Node not named by author.</pub-comments>
+              <other-codes></other-codes>
+              <creator-id type="integer">10720</creator-id>
+              <tree-val>Austronesian: Ross 2009</tree-val>
+              <pri-name>Kanakanavu-Saaroa</pri-name>
+              <node-type>Subgroup</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <alt-names></alt-names>
+              <children type="array">
+                <child>
+                  <updated-at type="datetime">2013-07-31T12:40:07-04:00</updated-at>
+                  <codes>xnb</codes>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <creator-id type="integer">10720</creator-id>
+                  <tree-val>Austronesian: Ross 2009</tree-val>
+                  <pri-name>Kanakanavu</pri-name>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <children type="array"/>
+                  <created-at type="datetime">2013-07-31T12:40:07-04:00</created-at>
+                  <id type="integer">959305</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <tree-id type="integer">24537</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10720</updater-id>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <sureness type="integer">0</sureness>
+                  <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+                  <geography nil="true"></geography>
+                </child>
+                <child>
+                  <updated-at type="datetime">2013-07-31T12:40:07-04:00</updated-at>
+                  <codes>sxr</codes>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <creator-id type="integer">10720</creator-id>
+                  <tree-val>Austronesian: Ross 2009</tree-val>
+                  <pri-name>Saaroa</pri-name>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <children type="array"/>
+                  <created-at type="datetime">2013-07-31T12:40:07-04:00</created-at>
+                  <id type="integer">959306</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <tree-id type="integer">24537</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10720</updater-id>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <sureness type="integer">0</sureness>
+                  <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+                  <geography nil="true"></geography>
+                </child>
+              </children>
+              <created-at type="datetime">2013-07-31T12:40:07-04:00</created-at>
+              <id type="integer">959304</id>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <tree-id type="integer">24537</tree-id>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10720</updater-id>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <sureness type="integer">0</sureness>
+              <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+              <geography nil="true"></geography>
+            </child>
+            <child>
+              <updated-at type="datetime">2013-07-31T12:40:09-04:00</updated-at>
+              <codes>mlpo</codes>
+              <pub-comments>Author specifies that the Malayo-Polynesian group contains "all extra-Formosan Austronesian languages (including Yami, which lies within Taiwan's political boundary)" (Ross 2009:316).</pub-comments>
+              <other-codes></other-codes>
+              <creator-id type="integer">10720</creator-id>
+              <tree-val>Austronesian: Ross 2009</tree-val>
+              <pri-name>Malayo-Polynesian</pri-name>
+              <node-type>Subgroup</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <alt-names>Proto Malayo-Polynesian</alt-names>
+              <children type="array">
+                <child>
+                  <updated-at type="datetime">2013-07-31T12:40:09-04:00</updated-at>
+                  <codes>tao</codes>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <creator-id type="integer">10720</creator-id>
+                  <tree-val>Austronesian: Ross 2009</tree-val>
+                  <pri-name>Yami</pri-name>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <children type="array"/>
+                  <created-at type="datetime">2013-07-31T12:40:09-04:00</created-at>
+                  <id type="integer">959329</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <tree-id type="integer">24537</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10720</updater-id>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <sureness type="integer">0</sureness>
+                  <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+                  <geography nil="true"></geography>
+                </child>
+              </children>
+              <created-at type="datetime">2013-07-31T12:40:09-04:00</created-at>
+              <id type="integer">959328</id>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <tree-id type="integer">24537</tree-id>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10720</updater-id>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <sureness type="integer">0</sureness>
+              <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+              <geography nil="true"></geography>
+            </child>
+            <child>
+              <updated-at type="datetime">2013-07-31T12:40:08-04:00</updated-at>
+              <codes>hfoe</codes>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <creator-id type="integer">10720</creator-id>
+              <tree-val>Austronesian: Ross 2009</tree-val>
+              <pri-name>East Formosan</pri-name>
+              <node-type>Subgroup</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <alt-names></alt-names>
+              <children type="array">
+                <child>
+                  <updated-at type="datetime">2013-07-31T12:40:09-04:00</updated-at>
+                  <codes>ckv</codes>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <creator-id type="integer">10720</creator-id>
+                  <tree-val>Austronesian: Ross 2009</tree-val>
+                  <pri-name>Kavalan</pri-name>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <children type="array"/>
+                  <created-at type="datetime">2013-07-31T12:40:09-04:00</created-at>
+                  <id type="integer">959325</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <tree-id type="integer">24537</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10720</updater-id>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <sureness type="integer">0</sureness>
+                  <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+                  <geography nil="true"></geography>
+                </child>
+                <child>
+                  <updated-at type="datetime">2013-07-31T12:40:09-04:00</updated-at>
+                  <codes>byq, byq-tro</codes>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <creator-id type="integer">10720</creator-id>
+                  <tree-val>Austronesian: Ross 2009</tree-val>
+                  <pri-name>Basay-Trobiawan</pri-name>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <children type="array"/>
+                  <created-at type="datetime">2013-07-31T12:40:08-04:00</created-at>
+                  <id type="integer">959324</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <tree-id type="integer">24537</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10720</updater-id>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <sureness type="integer">0</sureness>
+                  <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+                  <geography nil="true"></geography>
+                </child>
+                <child>
+                  <updated-at type="datetime">2013-07-31T12:40:09-04:00</updated-at>
+                  <codes>ami, ais</codes>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <creator-id type="integer">10720</creator-id>
+                  <tree-val>Austronesian: Ross 2009</tree-val>
+                  <pri-name>Amis</pri-name>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <children type="array"/>
+                  <created-at type="datetime">2013-07-31T12:40:09-04:00</created-at>
+                  <id type="integer">959326</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <tree-id type="integer">24537</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10720</updater-id>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <sureness type="integer">0</sureness>
+                  <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+                  <geography nil="true"></geography>
+                </child>
+                <child>
+                  <updated-at type="datetime">2013-07-31T12:40:09-04:00</updated-at>
+                  <codes>fos</codes>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <creator-id type="integer">10720</creator-id>
+                  <tree-val>Austronesian: Ross 2009</tree-val>
+                  <pri-name>Siraya</pri-name>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <children type="array"/>
+                  <created-at type="datetime">2013-07-31T12:40:09-04:00</created-at>
+                  <id type="integer">959327</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <tree-id type="integer">24537</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10720</updater-id>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <sureness type="integer">0</sureness>
+                  <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+                  <geography nil="true"></geography>
+                </child>
+              </children>
+              <created-at type="datetime">2013-07-31T12:40:08-04:00</created-at>
+              <id type="integer">959323</id>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <tree-id type="integer">24537</tree-id>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10720</updater-id>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <sureness type="integer">0</sureness>
+              <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+              <geography nil="true"></geography>
+            </child>
+            <child>
+              <updated-at type="datetime">2013-07-31T12:40:08-04:00</updated-at>
+              <codes>zcka</codes>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <creator-id type="integer">10720</creator-id>
+              <tree-val>Austronesian: Ross 2009</tree-val>
+              <pri-name>Western Plains</pri-name>
+              <node-type>Subgroup</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <alt-names></alt-names>
+              <children type="array">
+                <child>
+                  <updated-at type="datetime">2013-07-31T12:40:08-04:00</updated-at>
+                  <codes>bzg</codes>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <creator-id type="integer">10720</creator-id>
+                  <tree-val>Austronesian: Ross 2009</tree-val>
+                  <pri-name>Favorlang-Babuza</pri-name>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <children type="array"/>
+                  <created-at type="datetime">2013-07-31T12:40:08-04:00</created-at>
+                  <id type="integer">959317</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <tree-id type="integer">24537</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10720</updater-id>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <sureness type="integer">0</sureness>
+                  <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+                  <geography nil="true"></geography>
+                </child>
+                <child>
+                  <updated-at type="datetime">2013-07-31T12:40:08-04:00</updated-at>
+                  <codes>ssf</codes>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <creator-id type="integer">10720</creator-id>
+                  <tree-val>Austronesian: Ross 2009</tree-val>
+                  <pri-name>Thao</pri-name>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <children type="array"/>
+                  <created-at type="datetime">2013-07-31T12:40:08-04:00</created-at>
+                  <id type="integer">959315</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <tree-id type="integer">24537</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10720</updater-id>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <sureness type="integer">0</sureness>
+                  <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+                  <geography nil="true"></geography>
+                </child>
+                <child>
+                  <updated-at type="datetime">2013-07-31T12:40:08-04:00</updated-at>
+                  <codes>ppu, ppu-hoa</codes>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <creator-id type="integer">10720</creator-id>
+                  <tree-val>Austronesian: Ross 2009</tree-val>
+                  <pri-name>Hoanya</pri-name>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <children type="array"/>
+                  <created-at type="datetime">2013-07-31T12:40:08-04:00</created-at>
+                  <id type="integer">959319</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <tree-id type="integer">24537</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10720</updater-id>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <sureness type="integer">0</sureness>
+                  <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+                  <geography nil="true"></geography>
+                </child>
+                <child>
+                  <updated-at type="datetime">2013-07-31T12:40:08-04:00</updated-at>
+                  <codes>bzg-tao</codes>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <creator-id type="integer">10720</creator-id>
+                  <tree-val>Austronesian: Ross 2009</tree-val>
+                  <pri-name>Taokas</pri-name>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <children type="array"/>
+                  <created-at type="datetime">2013-07-31T12:40:08-04:00</created-at>
+                  <id type="integer">959316</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <tree-id type="integer">24537</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10720</updater-id>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <sureness type="integer">0</sureness>
+                  <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+                  <geography nil="true"></geography>
+                </child>
+                <child>
+                  <updated-at type="datetime">2013-07-31T12:40:08-04:00</updated-at>
+                  <codes>ppu, ppu-pap</codes>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <creator-id type="integer">10720</creator-id>
+                  <tree-val>Austronesian: Ross 2009</tree-val>
+                  <pri-name>Papora</pri-name>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <children type="array"/>
+                  <created-at type="datetime">2013-07-31T12:40:08-04:00</created-at>
+                  <id type="integer">959318</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <tree-id type="integer">24537</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10720</updater-id>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <sureness type="integer">0</sureness>
+                  <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+                  <geography nil="true"></geography>
+                </child>
+              </children>
+              <created-at type="datetime">2013-07-31T12:40:08-04:00</created-at>
+              <id type="integer">959314</id>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <tree-id type="integer">24537</tree-id>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10720</updater-id>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <sureness type="integer">0</sureness>
+              <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+              <geography nil="true"></geography>
+            </child>
+            <child>
+              <updated-at type="datetime">2013-07-31T12:40:07-04:00</updated-at>
+              <codes>bvqr</codes>
+              <pub-comments>In a footnote: "The evidence for Northwest Formosan is weak, and I would prefer to treat Saisiyat and Kulon-Pazih as separate subgroups, but this issue lies beyond the scope of this paper" (Ross 2009:316).</pub-comments>
+              <other-codes></other-codes>
+              <creator-id type="integer">10720</creator-id>
+              <tree-val>Austronesian: Ross 2009</tree-val>
+              <pri-name>Northwest Formosan</pri-name>
+              <node-type>Subgroup</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <alt-names></alt-names>
+              <children type="array">
+                <child>
+                  <updated-at type="datetime">2013-07-31T12:40:07-04:00</updated-at>
+                  <codes>uun</codes>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <creator-id type="integer">10720</creator-id>
+                  <tree-val>Austronesian: Ross 2009</tree-val>
+                  <pri-name>Kulon-Pazih</pri-name>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <children type="array"/>
+                  <created-at type="datetime">2013-07-31T12:40:07-04:00</created-at>
+                  <id type="integer">959309</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <tree-id type="integer">24537</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10720</updater-id>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <sureness type="integer">0</sureness>
+                  <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+                  <geography nil="true"></geography>
+                </child>
+                <child>
+                  <updated-at type="datetime">2013-07-31T12:40:07-04:00</updated-at>
+                  <codes>xsy</codes>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <creator-id type="integer">10720</creator-id>
+                  <tree-val>Austronesian: Ross 2009</tree-val>
+                  <pri-name>Saisiyat</pri-name>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <children type="array"/>
+                  <created-at type="datetime">2013-07-31T12:40:07-04:00</created-at>
+                  <id type="integer">959308</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <tree-id type="integer">24537</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <updater-id type="integer">10720</updater-id>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <sureness type="integer">0</sureness>
+                  <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+                  <geography nil="true"></geography>
+                </child>
+              </children>
+              <created-at type="datetime">2013-07-31T12:40:07-04:00</created-at>
+              <id type="integer">959307</id>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <tree-id type="integer">24537</tree-id>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10720</updater-id>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <sureness type="integer">-1</sureness>
+              <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+              <geography nil="true"></geography>
+            </child>
+            <child>
+              <updated-at type="datetime">2013-07-31T12:40:08-04:00</updated-at>
+              <codes>pwn</codes>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <creator-id type="integer">10720</creator-id>
+              <tree-val>Austronesian: Ross 2009</tree-val>
+              <pri-name>Paiwan</pri-name>
+              <node-type>Language</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <alt-names></alt-names>
+              <children type="array"/>
+              <created-at type="datetime">2013-07-31T12:40:08-04:00</created-at>
+              <id type="integer">959322</id>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <tree-id type="integer">24537</tree-id>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10720</updater-id>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10001</node-type-id>
+              <sureness type="integer">0</sureness>
+              <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+              <geography nil="true"></geography>
+            </child>
+          </children>
+          <created-at type="datetime">2013-07-31T12:40:07-04:00</created-at>
+          <id type="integer">959303</id>
+          <end-date nil="true"></end-date>
+          <confidence>y</confidence>
+          <tree-id type="integer">24537</tree-id>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <updater-id type="integer">10720</updater-id>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10000</node-type-id>
+          <sureness type="integer">0</sureness>
+          <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+          <geography nil="true"></geography>
+        </child>
+        <child>
+          <updated-at type="datetime">2013-07-31T12:40:07-04:00</updated-at>
+          <codes>tsu</codes>
+          <pub-comments>"No shared innovations have been found supporting a subgroup containing two or three of Puyuma, Tsou, Rukai and PNAn, and so each is assumed to form a primary subgroup of Austronesian in its own right" (Ross 2009:314).</pub-comments>
+          <other-codes></other-codes>
+          <creator-id type="integer">10720</creator-id>
+          <tree-val>Austronesian: Ross 2009</tree-val>
+          <pri-name>Tsou</pri-name>
+          <node-type>Language</node-type>
+          <deleted-at nil="true"></deleted-at>
+          <alt-names></alt-names>
+          <children type="array"/>
+          <created-at type="datetime">2013-07-31T12:40:07-04:00</created-at>
+          <id type="integer">959302</id>
+          <end-date nil="true"></end-date>
+          <confidence>y</confidence>
+          <tree-id type="integer">24537</tree-id>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <updater-id type="integer">10720</updater-id>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10001</node-type-id>
+          <sureness type="integer">0</sureness>
+          <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+          <geography nil="true"></geography>
+        </child>
+        <child>
+          <updated-at type="datetime">2013-07-31T12:40:07-04:00</updated-at>
+          <codes>dru</codes>
+          <pub-comments>"No shared innovations have been found supporting a subgroup containing two or three of Puyuma, Tsou, Rukai and PNAn, and so each is assumed to form a primary subgroup of Austronesian in its own right" (Ross 2009:314).</pub-comments>
+          <other-codes></other-codes>
+          <creator-id type="integer">10720</creator-id>
+          <tree-val>Austronesian: Ross 2009</tree-val>
+          <pri-name>Rukai</pri-name>
+          <node-type>Language</node-type>
+          <deleted-at nil="true"></deleted-at>
+          <alt-names>Proto Rukai</alt-names>
+          <children type="array">
+            <child>
+              <updated-at type="datetime">2013-07-31T12:40:07-04:00</updated-at>
+              <codes>dru-man</codes>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <creator-id type="integer">10720</creator-id>
+              <tree-val>Austronesian: Ross 2009</tree-val>
+              <pri-name>Mantauran</pri-name>
+              <node-type>Dialect</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <alt-names></alt-names>
+              <children type="array"/>
+              <created-at type="datetime">2013-07-31T12:40:07-04:00</created-at>
+              <id type="integer">959300</id>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <tree-id type="integer">24537</tree-id>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10720</updater-id>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10003</node-type-id>
+              <sureness type="integer">0</sureness>
+              <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+              <geography nil="true"></geography>
+            </child>
+            <child>
+              <updated-at type="datetime">2013-07-31T12:40:07-04:00</updated-at>
+              <codes>dru-mag</codes>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <creator-id type="integer">10720</creator-id>
+              <tree-val>Austronesian: Ross 2009</tree-val>
+              <pri-name>Maga</pri-name>
+              <node-type>Dialect</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <alt-names></alt-names>
+              <children type="array"/>
+              <created-at type="datetime">2013-07-31T12:40:07-04:00</created-at>
+              <id type="integer">959301</id>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <tree-id type="integer">24537</tree-id>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10720</updater-id>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10003</node-type-id>
+              <sureness type="integer">0</sureness>
+              <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+              <geography nil="true"></geography>
+            </child>
+          </children>
+          <created-at type="datetime">2013-07-31T12:40:06-04:00</created-at>
+          <id type="integer">959299</id>
+          <end-date nil="true"></end-date>
+          <confidence>y</confidence>
+          <tree-id type="integer">24537</tree-id>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <updater-id type="integer">10720</updater-id>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10001</node-type-id>
+          <sureness type="integer">0</sureness>
+          <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+          <geography nil="true"></geography>
+        </child>
+        <child>
+          <updated-at type="datetime">2013-07-31T12:40:06-04:00</updated-at>
+          <codes>pyu</codes>
+          <pub-comments>"No shared innovations have been found supporting a subgroup containing two or three of Puyuma, Tsou, Rukai and PNAn, and so each is assumed to form a primary subgroup of Austronesian in its own right" (Ross 2009:314).</pub-comments>
+          <other-codes></other-codes>
+          <creator-id type="integer">10720</creator-id>
+          <tree-val>Austronesian: Ross 2009</tree-val>
+          <pri-name>Puyuma</pri-name>
+          <node-type>Language</node-type>
+          <deleted-at nil="true"></deleted-at>
+          <alt-names></alt-names>
+          <children type="array">
+            <child>
+              <updated-at type="datetime">2013-07-31T12:40:06-04:00</updated-at>
+              <codes>pyu-tam</codes>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <creator-id type="integer">10720</creator-id>
+              <tree-val>Austronesian: Ross 2009</tree-val>
+              <pri-name>Tamalakaw</pri-name>
+              <node-type>Dialect</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <alt-names></alt-names>
+              <children type="array"/>
+              <created-at type="datetime">2013-07-31T12:40:06-04:00</created-at>
+              <id type="integer">959298</id>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <tree-id type="integer">24537</tree-id>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10720</updater-id>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10003</node-type-id>
+              <sureness type="integer">0</sureness>
+              <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+              <geography nil="true"></geography>
+            </child>
+            <child>
+              <updated-at type="datetime">2013-07-31T12:40:06-04:00</updated-at>
+              <codes>pyu-kat</codes>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <creator-id type="integer">10720</creator-id>
+              <tree-val>Austronesian: Ross 2009</tree-val>
+              <pri-name>Katipul</pri-name>
+              <node-type>Dialect</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <alt-names></alt-names>
+              <children type="array"/>
+              <created-at type="datetime">2013-07-31T12:40:06-04:00</created-at>
+              <id type="integer">959295</id>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <tree-id type="integer">24537</tree-id>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10720</updater-id>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10003</node-type-id>
+              <sureness type="integer">0</sureness>
+              <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+              <geography nil="true"></geography>
+            </child>
+            <child>
+              <updated-at type="datetime">2013-07-31T12:40:06-04:00</updated-at>
+              <codes>pyu-uli</codes>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <creator-id type="integer">10720</creator-id>
+              <tree-val>Austronesian: Ross 2009</tree-val>
+              <pri-name>Ulivelivek</pri-name>
+              <node-type>Dialect</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <alt-names></alt-names>
+              <children type="array"/>
+              <created-at type="datetime">2013-07-31T12:40:06-04:00</created-at>
+              <id type="integer">959296</id>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <tree-id type="integer">24537</tree-id>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10720</updater-id>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10003</node-type-id>
+              <sureness type="integer">0</sureness>
+              <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+              <geography nil="true"></geography>
+            </child>
+            <child>
+              <updated-at type="datetime">2013-07-31T12:40:06-04:00</updated-at>
+              <codes>pyu-nan</codes>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <creator-id type="integer">10720</creator-id>
+              <tree-val>Austronesian: Ross 2009</tree-val>
+              <pri-name>Nanwang</pri-name>
+              <node-type>Dialect</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <alt-names></alt-names>
+              <children type="array"/>
+              <created-at type="datetime">2013-07-31T12:40:06-04:00</created-at>
+              <id type="integer">959297</id>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <tree-id type="integer">24537</tree-id>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10720</updater-id>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10003</node-type-id>
+              <sureness type="integer">0</sureness>
+              <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+              <geography nil="true"></geography>
+            </child>
+          </children>
+          <created-at type="datetime">2013-07-31T12:40:06-04:00</created-at>
+          <id type="integer">959294</id>
+          <end-date nil="true"></end-date>
+          <confidence>y</confidence>
+          <tree-id type="integer">24537</tree-id>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <updater-id type="integer">10720</updater-id>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10001</node-type-id>
+          <sureness type="integer">0</sureness>
+          <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+          <geography nil="true"></geography>
+        </child>
+      </children>
+      <created-at type="datetime">2013-07-31T12:40:05-04:00</created-at>
+      <id type="integer">959293</id>
+      <end-date nil="true"></end-date>
+      <confidence>y</confidence>
+      <tree-id type="integer">24537</tree-id>
+      <node-status-id nil="true"></node-status-id>
+      <is-default type="integer">0</is-default>
+      <updater-id type="integer">10720</updater-id>
+      <status nil="true"></status>
+      <start-date nil="true"></start-date>
+      <node-type-id type="integer">10000</node-type-id>
+      <sureness type="integer">-1</sureness>
+      <publications>Ross, Malcolm D. 2009. Proto Austronesian verbal morphology: a reappraisal. In K. Alexander  Adelaar &amp; Andrew K Pawley (eds.), Austronesian historical linguistics and culture history: a festschrift for Robert Blust, Pacific Linguistics, vol. 601, 295-326. Canberra: Pacific Linguistics. </publications>
+      <geography nil="true"></geography>
+    </root>
+    <description>Austronesian: Ross 2009</description>
+  </tree>
+</hash>

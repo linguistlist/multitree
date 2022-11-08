@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Africa</region>    <region>Africa</region>    <region>Africa</region>
+    <root>
+      <updated-by>joe_leif</updated-by>
+      <is-default type="integer">0</is-default>
+      <updater-id type="integer">10740</updater-id>
+      <node-status-id nil="true"></node-status-id>
+      <geography nil="true"></geography>
+      <start-date nil="true"></start-date>
+      <id type="integer">393934</id>
+      <end-date nil="true"></end-date>
+      <created-at type="datetime">2009-05-07T18:05:00-04:00</created-at>
+      <status nil="true"></status>
+      <pri-name>Khoisan</pri-name>
+      <updated-at type="datetime">2009-05-07T18:05:00-04:00</updated-at>
+      <pub-comments>WALS doesn&#8217;t distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.  WALS note on this tree: The status of Khoisan as a family is controversial. Ethnologue also includes Hadza, which is treated here as a language isolate.</pub-comments>
+      <deleted-at nil="true"></deleted-at>
+      <node-type>Subgroup</node-type>
+      <creator-id type="integer">10740</creator-id>
+      <codes>khoi</codes>
+      <tree-val>Khoisan: Dryer 2005</tree-val>
+      <children type="array">
+        <child>
+          <updated-by>joe_leif</updated-by>
+          <is-default type="integer">0</is-default>
+          <updater-id type="integer">10740</updater-id>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <start-date nil="true"></start-date>
+          <id type="integer">393945</id>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-05-07T18:05:01-04:00</created-at>
+          <status nil="true"></status>
+          <pri-name>Sandawe</pri-name>
+          <updated-at type="datetime">2009-05-07T18:05:01-04:00</updated-at>
+          <pub-comments></pub-comments>
+          <deleted-at nil="true"></deleted-at>
+          <node-type>Subgroup</node-type>
+          <creator-id type="integer">10740</creator-id>
+          <codes>sand</codes>
+          <tree-val>Khoisan: Dryer 2005</tree-val>
+          <children type="array">
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Country: Tanzania; Lat.: -5; Long.: 35</geography>
+              <start-date nil="true"></start-date>
+              <id type="integer">393946</id>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-05-07T18:05:01-04:00</created-at>
+              <status nil="true"></status>
+              <pri-name>Sandawe</pri-name>
+              <updated-at type="datetime">2009-05-07T18:05:01-04:00</updated-at>
+              <pub-comments></pub-comments>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Language</node-type>
+              <creator-id type="integer">10740</creator-id>
+              <codes>sad</codes>
+              <tree-val>Khoisan: Dryer 2005</tree-val>
+              <children type="array"/>
+              <tree-id type="integer">12184</tree-id>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <sureness type="integer">0</sureness>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 584-585. New York: Oxford University Press. ISBN 0199255911</publications>
+              <other-codes>sdw</other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <confidence>y</confidence>
+            </child>
+          </children>
+          <tree-id type="integer">12184</tree-id>
+          <created-by>joe_leif</created-by>
+          <alt-names></alt-names>
+          <sureness type="integer">0</sureness>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 584-585. New York: Oxford University Press. ISBN 0199255911</publications>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10000</node-type-id>
+          <confidence>y</confidence>
+        </child>
+        <child>
+          <updated-by>joe_leif</updated-by>
+          <is-default type="integer">0</is-default>
+          <updater-id type="integer">10740</updater-id>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <start-date nil="true"></start-date>
+          <id type="integer">393935</id>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-05-07T18:05:00-04:00</created-at>
+          <status nil="true"></status>
+          <pri-name>Central Khoisan</pri-name>
+          <updated-at type="datetime">2009-05-07T18:05:00-04:00</updated-at>
+          <pub-comments></pub-comments>
+          <deleted-at nil="true"></deleted-at>
+          <node-type>Subgroup</node-type>
+          <creator-id type="integer">10740</creator-id>
+          <codes>cskh</codes>
+          <tree-val>Khoisan: Dryer 2005</tree-val>
+          <children type="array">
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Country: Botswana, Namibia; Lat.: -22.33; Long.: 20.5</geography>
+              <start-date nil="true"></start-date>
+              <id type="integer">393941</id>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-05-07T18:05:00-04:00</created-at>
+              <status nil="true"></status>
+              <pri-name>Nharo</pri-name>
+              <updated-at type="datetime">2009-05-07T18:05:01-04:00</updated-at>
+              <pub-comments></pub-comments>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Language</node-type>
+              <creator-id type="integer">10740</creator-id>
+              <codes>nhr</codes>
+              <tree-val>Khoisan: Dryer 2005</tree-val>
+              <children type="array"/>
+              <tree-id type="integer">12184</tree-id>
+              <created-by>joe_leif</created-by>
+              <alt-names>Naro</alt-names>
+              <sureness type="integer">0</sureness>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 584-585. New York: Oxford University Press. ISBN 0199255911</publications>
+              <other-codes>nro</other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <confidence>y</confidence>
+            </child>
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Country: Angola, Namibia; Lat.: -17.5; Long.: 22.5</geography>
+              <start-date nil="true"></start-date>
+              <id type="integer">393940</id>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-05-07T18:05:00-04:00</created-at>
+              <status nil="true"></status>
+              <pri-name>Kxoe</pri-name>
+              <updated-at type="datetime">2009-05-07T18:05:00-04:00</updated-at>
+              <pub-comments></pub-comments>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Language</node-type>
+              <creator-id type="integer">10740</creator-id>
+              <codes>xuu</codes>
+              <tree-val>Khoisan: Dryer 2005</tree-val>
+              <children type="array"/>
+              <tree-id type="integer">12184</tree-id>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <sureness type="integer">0</sureness>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 584-585. New York: Oxford University Press. ISBN 0199255911</publications>
+              <other-codes>kxo</other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <confidence>y</confidence>
+            </child>
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Country: Botswana; Lat.: -18.92; Long.: 21.92</geography>
+              <start-date nil="true"></start-date>
+              <id type="integer">393936</id>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-05-07T18:05:00-04:00</created-at>
+              <status nil="true"></status>
+              <pri-name>//Ani</pri-name>
+              <updated-at type="datetime">2009-05-07T18:05:00-04:00</updated-at>
+              <pub-comments></pub-comments>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Language</node-type>
+              <creator-id type="integer">10740</creator-id>
+              <codes>hnh</codes>
+              <tree-val>Khoisan: Dryer 2005</tree-val>
+              <children type="array"/>
+              <tree-id type="integer">12184</tree-id>
+              <created-by>joe_leif</created-by>
+              <alt-names>/Anda</alt-names>
+              <sureness type="integer">0</sureness>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 584-585. New York: Oxford University Press. ISBN 0199255911</publications>
+              <other-codes>ani</other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <confidence>y</confidence>
+            </child>
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Country: Botswana; Lat.: -20.5; Long.: 24.5</geography>
+              <start-date nil="true"></start-date>
+              <id type="integer">393937</id>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-05-07T18:05:00-04:00</created-at>
+              <status nil="true"></status>
+              <pri-name>Deti</pri-name>
+              <updated-at type="datetime">2009-05-07T18:05:00-04:00</updated-at>
+              <pub-comments></pub-comments>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Language</node-type>
+              <creator-id type="integer">10740</creator-id>
+              <codes>shg-det</codes>
+              <tree-val>Khoisan: Dryer 2005</tree-val>
+              <children type="array"/>
+              <tree-id type="integer">12184</tree-id>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <sureness type="integer">0</sureness>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 584-585. New York: Oxford University Press. ISBN 0199255911</publications>
+              <other-codes>det</other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <confidence>y</confidence>
+            </child>
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Country: Namibia; Lat.: -25.5; Long.: 18</geography>
+              <start-date nil="true"></start-date>
+              <id type="integer">393938</id>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-05-07T18:05:00-04:00</created-at>
+              <status nil="true"></status>
+              <pri-name>Khoekhoe</pri-name>
+              <updated-at type="datetime">2009-05-07T18:05:00-04:00</updated-at>
+              <pub-comments></pub-comments>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Language</node-type>
+              <creator-id type="integer">10740</creator-id>
+              <codes>naq</codes>
+              <tree-val>Khoisan: Dryer 2005</tree-val>
+              <children type="array"/>
+              <tree-id type="integer">12184</tree-id>
+              <created-by>joe_leif</created-by>
+              <alt-names>Nama</alt-names>
+              <sureness type="integer">0</sureness>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 584-585. New York: Oxford University Press. ISBN 0199255911</publications>
+              <other-codes>kho</other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <confidence>y</confidence>
+            </child>
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Country: South Africa; Lat.: -29.5; Long.: 20.5</geography>
+              <start-date nil="true"></start-date>
+              <id type="integer">393939</id>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-05-07T18:05:00-04:00</created-at>
+              <status nil="true"></status>
+              <pri-name>Korana</pri-name>
+              <updated-at type="datetime">2009-05-07T18:05:00-04:00</updated-at>
+              <pub-comments></pub-comments>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Language</node-type>
+              <creator-id type="integer">10740</creator-id>
+              <codes>kqz</codes>
+              <tree-val>Khoisan: Dryer 2005</tree-val>
+              <children type="array"/>
+              <tree-id type="integer">12184</tree-id>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <sureness type="integer">0</sureness>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 584-585. New York: Oxford University Press. ISBN 0199255911</publications>
+              <other-codes>krn</other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <confidence>y</confidence>
+            </child>
+          </children>
+          <tree-id type="integer">12184</tree-id>
+          <created-by>joe_leif</created-by>
+          <alt-names></alt-names>
+          <sureness type="integer">0</sureness>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 584-585. New York: Oxford University Press. ISBN 0199255911</publications>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10000</node-type-id>
+          <confidence>y</confidence>
+        </child>
+        <child>
+          <updated-by>joe_leif</updated-by>
+          <is-default type="integer">0</is-default>
+          <updater-id type="integer">10740</updater-id>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <start-date nil="true"></start-date>
+          <id type="integer">393947</id>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-05-07T18:05:01-04:00</created-at>
+          <status nil="true"></status>
+          <pri-name>Southern Khoisan</pri-name>
+          <updated-at type="datetime">2009-05-07T18:05:01-04:00</updated-at>
+          <pub-comments></pub-comments>
+          <deleted-at nil="true"></deleted-at>
+          <node-type>Subgroup</node-type>
+          <creator-id type="integer">10740</creator-id>
+          <codes>ssak</codes>
+          <tree-val>Khoisan: Dryer 2005</tree-val>
+          <children type="array">
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Country: Botswana; Lat.: -24; Long.: 21.5</geography>
+              <start-date nil="true"></start-date>
+              <id type="integer">393949</id>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-05-07T18:05:01-04:00</created-at>
+              <status nil="true"></status>
+              <pri-name>!X&#243;&#245;</pri-name>
+              <updated-at type="datetime">2009-05-07T18:05:02-04:00</updated-at>
+              <pub-comments></pub-comments>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Language</node-type>
+              <creator-id type="integer">10740</creator-id>
+              <codes>nmn</codes>
+              <tree-val>Khoisan: Dryer 2005</tree-val>
+              <children type="array"/>
+              <tree-id type="integer">12184</tree-id>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <sureness type="integer">0</sureness>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 584-585. New York: Oxford University Press. ISBN 0199255911</publications>
+              <other-codes>xoo</other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <confidence>y</confidence>
+            </child>
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Country: South Africa; Lat.: -31; Long.: 21</geography>
+              <start-date nil="true"></start-date>
+              <id type="integer">393948</id>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-05-07T18:05:01-04:00</created-at>
+              <status nil="true"></status>
+              <pri-name>/Xam</pri-name>
+              <updated-at type="datetime">2009-05-07T18:05:01-04:00</updated-at>
+              <pub-comments></pub-comments>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Language</node-type>
+              <creator-id type="integer">10740</creator-id>
+              <codes>xam</codes>
+              <tree-val>Khoisan: Dryer 2005</tree-val>
+              <children type="array"/>
+              <tree-id type="integer">12184</tree-id>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <sureness type="integer">0</sureness>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 584-585. New York: Oxford University Press. ISBN 0199255911</publications>
+              <other-codes>xam</other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <confidence>y</confidence>
+            </child>
+          </children>
+          <tree-id type="integer">12184</tree-id>
+          <created-by>joe_leif</created-by>
+          <alt-names></alt-names>
+          <sureness type="integer">0</sureness>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 584-585. New York: Oxford University Press. ISBN 0199255911</publications>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10000</node-type-id>
+          <confidence>y</confidence>
+        </child>
+        <child>
+          <updated-by>joe_leif</updated-by>
+          <is-default type="integer">0</is-default>
+          <updater-id type="integer">10740</updater-id>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <start-date nil="true"></start-date>
+          <id type="integer">393942</id>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-05-07T18:05:01-04:00</created-at>
+          <status nil="true"></status>
+          <pri-name>Northern Khoisan</pri-name>
+          <updated-at type="datetime">2009-05-07T18:05:01-04:00</updated-at>
+          <pub-comments></pub-comments>
+          <deleted-at nil="true"></deleted-at>
+          <node-type>Subgroup</node-type>
+          <creator-id type="integer">10740</creator-id>
+          <codes>nsak</codes>
+          <tree-val>Khoisan: Dryer 2005</tree-val>
+          <children type="array">
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Country: Angola, Namibia, Botswana; Lat.: -19; Long.: 21</geography>
+              <start-date nil="true"></start-date>
+              <id type="integer">393943</id>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-05-07T18:05:01-04:00</created-at>
+              <status nil="true"></status>
+              <pri-name>Ju|'hoan</pri-name>
+              <updated-at type="datetime">2009-05-07T18:05:01-04:00</updated-at>
+              <pub-comments></pub-comments>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Language</node-type>
+              <creator-id type="integer">10740</creator-id>
+              <codes>ktz</codes>
+              <tree-val>Khoisan: Dryer 2005</tree-val>
+              <children type="array"/>
+              <tree-id type="integer">12184</tree-id>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <sureness type="integer">0</sureness>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 584-585. New York: Oxford University Press. ISBN 0199255911</publications>
+              <other-codes>juh</other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <confidence>y</confidence>
+            </child>
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <is-default type="integer">0</is-default>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Country: Namibia, Angola; Lat.: -19.67; Long.: 18</geography>
+              <start-date nil="true"></start-date>
+              <id type="integer">393944</id>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2009-05-07T18:05:01-04:00</created-at>
+              <status nil="true"></status>
+              <pri-name>!Xun (Ekoka)</pri-name>
+              <updated-at type="datetime">2009-05-07T18:05:01-04:00</updated-at>
+              <pub-comments></pub-comments>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Language</node-type>
+              <creator-id type="integer">10740</creator-id>
+              <codes>knw</codes>
+              <tree-val>Khoisan: Dryer 2005</tree-val>
+              <children type="array"/>
+              <tree-id type="integer">12184</tree-id>
+              <created-by>joe_leif</created-by>
+              <alt-names>Kung-Ekoka</alt-names>
+              <sureness type="integer">0</sureness>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 584-585. New York: Oxford University Press. ISBN 0199255911</publications>
+              <other-codes>xun</other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <confidence>y</confidence>
+            </child>
+          </children>
+          <tree-id type="integer">12184</tree-id>
+          <created-by>joe_leif</created-by>
+          <alt-names></alt-names>
+          <sureness type="integer">0</sureness>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 584-585. New York: Oxford University Press. ISBN 0199255911</publications>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10000</node-type-id>
+          <confidence>y</confidence>
+        </child>
+      </children>
+      <tree-id type="integer">12184</tree-id>
+      <created-by>joe_leif</created-by>
+      <alt-names></alt-names>
+      <sureness type="integer">0</sureness>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 584-585. New York: Oxford University Press. ISBN 0199255911</publications>
+      <other-codes></other-codes>
+      <node-type-id type="integer">10000</node-type-id>
+      <confidence>y</confidence>
+    </root>
+    <description>Khoisan: Dryer 2005</description>
+  </tree>
+</hash>

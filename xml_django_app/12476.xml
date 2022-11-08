@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <updated-by>joe_leif</updated-by>
+      <tree-id type="integer">12476</tree-id>
+      <is-default type="integer">0</is-default>
+      <created-at type="datetime">2009-05-19T18:49:31-04:00</created-at>
+      <geography nil="true"></geography>
+      <node-type-id type="integer">10000</node-type-id>
+      <confidence>y</confidence>
+      <children type="array">
+        <child>
+          <updated-by>joe_leif</updated-by>
+          <tree-id type="integer">12476</tree-id>
+          <is-default type="integer">0</is-default>
+          <created-at type="datetime">2009-05-19T18:49:31-04:00</created-at>
+          <geography>Country: Paraguay; Lat.: -20.25; Long.: -59.25</geography>
+          <node-type-id type="integer">10001</node-type-id>
+          <confidence>y</confidence>
+          <children type="array"/>
+          <status nil="true"></status>
+          <id type="integer">418175</id>
+          <updater-id type="integer">10740</updater-id>
+          <updated-at type="datetime">2009-05-19T18:49:31-04:00</updated-at>
+          <tree-val>Zamucoan: Dryer 2005</tree-val>
+          <node-type>Language</node-type>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 641. New York: Oxford University Press. ISBN 0199255911</publications>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <codes>ayo</codes>
+          <alt-names>Avoreo</alt-names>
+          <start-date nil="true"></start-date>
+          <pri-name>Ayoreo</pri-name>
+          <other-codes>ayr</other-codes>
+          <deleted-at nil="true"></deleted-at>
+        </child>
+      </children>
+      <status nil="true"></status>
+      <id type="integer">418174</id>
+      <updater-id type="integer">10740</updater-id>
+      <updated-at type="datetime">2009-05-19T18:49:31-04:00</updated-at>
+      <tree-val>Zamucoan: Dryer 2005</tree-val>
+      <node-type>Subgroup</node-type>
+      <created-by>joe_leif</created-by>
+      <sureness type="integer">0</sureness>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 641. New York: Oxford University Press. ISBN 0199255911</publications>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <end-date nil="true"></end-date>
+      <creator-id type="integer">10740</creator-id>
+      <codes>zamu</codes>
+      <alt-names></alt-names>
+      <start-date nil="true"></start-date>
+      <pri-name>Zamucoan</pri-name>
+      <other-codes></other-codes>
+      <deleted-at nil="true"></deleted-at>
+    </root>
+    <description>Zamucoan: Dryer 2005</description>
+  </tree>
+</hash>

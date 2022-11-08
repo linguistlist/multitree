@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <start-date nil="true"></start-date>
+      <node-type>Subgroup</node-type>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <node-type>Language</node-type>
+          <children type="array"/>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2009-09-01T17:21:00-04:00</updated-at>
+          <is-default type="integer">0</is-default>
+          <creator-id type="integer">10740</creator-id>
+          <status nil="true"></status>
+          <other-codes>cmc</other-codes>
+          <sureness type="integer">0</sureness>
+          <id type="integer">608425</id>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 626. New York: Oxford University Press. ISBN 0199255911</publications>
+          <pub-comments></pub-comments>
+          <created-by>joe_leif</created-by>
+          <tree-val>Comecrudan: Dryer 2005</tree-val>
+          <node-status-id nil="true"></node-status-id>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-09-01T17:20:59-04:00</created-at>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <pri-name>Comecrudo</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Country: Mexico; Lat.: 25.83; Long.: -99</geography>
+          <tree-id type="integer">15298</tree-id>
+          <codes>xcm</codes>
+          <alt-names></alt-names>
+        </child>
+      </children>
+      <deleted-at nil="true"></deleted-at>
+      <updated-at type="datetime">2009-09-01T17:20:59-04:00</updated-at>
+      <is-default type="integer">0</is-default>
+      <creator-id type="integer">10740</creator-id>
+      <status nil="true"></status>
+      <other-codes></other-codes>
+      <sureness type="integer">0</sureness>
+      <id type="integer">608424</id>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 626. New York: Oxford University Press. ISBN 0199255911</publications>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <created-by>joe_leif</created-by>
+      <tree-val>Comecrudan: Dryer 2005</tree-val>
+      <node-status-id nil="true"></node-status-id>
+      <end-date nil="true"></end-date>
+      <created-at type="datetime">2009-09-01T17:20:59-04:00</created-at>
+      <confidence>y</confidence>
+      <updater-id type="integer">10740</updater-id>
+      <updated-by>joe_leif</updated-by>
+      <pri-name>Comecrudan</pri-name>
+      <node-type-id type="integer">10000</node-type-id>
+      <geography nil="true"></geography>
+      <tree-id type="integer">15298</tree-id>
+      <codes>ccrd</codes>
+      <alt-names></alt-names>
+    </root>
+    <description>Comecrudan: Dryer 2005</description>
+  </tree>
+</hash>

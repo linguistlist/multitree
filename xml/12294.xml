@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Europe</region>
+    <region>Asia</region>
+    <region>Asia</region>
+    <region>Europe</region>
+    <description>Ural-Altaic: Boller 1857</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2009-05-12T20:32:18-04:00</created-at>
+      <confidence>N</confidence>
+      <tree-val>Ural-Altaic: Boller 1857</tree-val>
+      <pub-comments></pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2009-05-12T20:32:18-04:00</updated-at>
+      <pri-name>Ural-Altaisch-Japanisch</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">410163</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">12294</tree-id>
+      <codes>uaja</codes>
+      <status nil="true"></status>
+      <publications>Boller, Anton. 1857. Nachweis dass das Japanische zum Ural-Alt&#228;ischen Stamme geh&#246;rt. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-05-12T20:32:18-04:00</created-at>
+          <confidence>Y</confidence>
+          <tree-val>Ural-Altaic: Boller 1857</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2009-05-12T20:32:19-04:00</updated-at>
+          <pri-name>ural-altaische Sprachen</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">410164</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">12294</tree-id>
+          <codes>ualt</codes>
+          <status nil="true"></status>
+          <publications>Boller, Anton. 1857. Nachweis dass das Japanische zum Ural-Alt&#228;ischen Stamme geh&#246;rt. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-05-12T20:32:19-04:00</created-at>
+          <confidence>N</confidence>
+          <tree-val>Ural-Altaic: Boller 1857</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2009-05-12T20:32:19-04:00</updated-at>
+          <pri-name>Japanisch</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">410165</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">12294</tree-id>
+          <codes>jpn</codes>
+          <status nil="true"></status>
+          <publications>Boller, Anton. 1857. Nachweis dass das Japanische zum Ural-Alt&#228;ischen Stamme geh&#246;rt. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

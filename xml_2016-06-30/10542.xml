@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Pacific</region>
+    <root>
+      <updater-id type="integer">10740</updater-id>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <node-type>Subgroup</node-type>
+      <geography nil="true"></geography>
+      <pri-name>Austronesian</pri-name>
+      <children type="array">
+        <child>
+          <updater-id type="integer">10740</updater-id>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <node-type>Subgroup</node-type>
+          <geography nil="true"></geography>
+          <pri-name>Atayalic</pri-name>
+          <children type="array"/>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updated-by>joe_leif</updated-by>
+          <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+          <sureness type="integer">0</sureness>
+          <pub-comments></pub-comments>
+          <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+          <status nil="true"></status>
+          <codes>atay</codes>
+          <tree-val>Austronesian: Reid 1981</tree-val>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+          <alt-names></alt-names>
+          <tree-id type="integer">10542</tree-id>
+          <confidence>y</confidence>
+          <is-default type="integer">0</is-default>
+          <id type="integer">128248</id>
+          <deleted-at nil="true"></deleted-at>
+        </child>
+        <child>
+          <updater-id type="integer">10740</updater-id>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <node-type>Subgroup</node-type>
+          <geography nil="true"></geography>
+          <pri-name>Tsouic</pri-name>
+          <children type="array"/>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updated-by>joe_leif</updated-by>
+          <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+          <sureness type="integer">0</sureness>
+          <pub-comments>Between Tsouic and Formosan, it reads 'other.'</pub-comments>
+          <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+          <status nil="true"></status>
+          <codes>tsou</codes>
+          <tree-val>Austronesian: Reid 1981</tree-val>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+          <alt-names></alt-names>
+          <tree-id type="integer">10542</tree-id>
+          <confidence>y</confidence>
+          <is-default type="integer">0</is-default>
+          <id type="integer">128249</id>
+          <deleted-at nil="true"></deleted-at>
+        </child>
+        <child>
+          <updater-id type="integer">10740</updater-id>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <node-type>Subgroup</node-type>
+          <geography nil="true"></geography>
+          <pri-name>Formosan</pri-name>
+          <children type="array"/>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updated-by>joe_leif</updated-by>
+          <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+          <sureness type="integer">-1</sureness>
+          <pub-comments>Dashed line leading to Formosan while the other subgroups have a solid line.</pub-comments>
+          <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+          <status nil="true"></status>
+          <codes>form</codes>
+          <tree-val>Austronesian: Reid 1981</tree-val>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+          <alt-names></alt-names>
+          <tree-id type="integer">10542</tree-id>
+          <confidence>y</confidence>
+          <is-default type="integer">0</is-default>
+          <id type="integer">128250</id>
+          <deleted-at nil="true"></deleted-at>
+        </child>
+        <child>
+          <updater-id type="integer">10740</updater-id>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <node-type>Subgroup</node-type>
+          <geography nil="true"></geography>
+          <pri-name>Amis-Extra-Formosan</pri-name>
+          <children type="array">
+            <child>
+              <updater-id type="integer">10740</updater-id>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <geography nil="true"></geography>
+              <pri-name>Amis</pri-name>
+              <children type="array"/>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updated-by>joe_leif</updated-by>
+              <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+              <sureness type="integer">0</sureness>
+              <pub-comments></pub-comments>
+              <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+              <status nil="true"></status>
+              <codes>cytc</codes>
+              <tree-val>Austronesian: Reid 1981</tree-val>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+              <alt-names></alt-names>
+              <tree-id type="integer">10542</tree-id>
+              <confidence>y</confidence>
+              <is-default type="integer">0</is-default>
+              <id type="integer">128252</id>
+              <deleted-at nil="true"></deleted-at>
+            </child>
+            <child>
+              <updater-id type="integer">10740</updater-id>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <geography nil="true"></geography>
+              <pri-name>Extra-Formosan</pri-name>
+              <children type="array">
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <node-type>Subgroup</node-type>
+                  <geography nil="true"></geography>
+                  <pri-name>Outer Philippines</pri-name>
+                  <children type="array">
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <node-type>Subgroup</node-type>
+                      <geography nil="true"></geography>
+                      <pri-name>Northern Philippines</pri-name>
+                      <children type="array">
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <node-type>Subgroup</node-type>
+                          <geography nil="true"></geography>
+                          <pri-name>Bashiic-Central Luz-Mindoro</pri-name>
+                          <children type="array">
+                            <child>
+                              <updater-id type="integer">10740</updater-id>
+                              <start-date nil="true"></start-date>
+                              <other-codes></other-codes>
+                              <node-type>Subgroup</node-type>
+                              <geography nil="true"></geography>
+                              <pri-name>Bashiic</pri-name>
+                              <children type="array">
+                                <child>
+                                  <updater-id type="integer">10740</updater-id>
+                                  <start-date nil="true"></start-date>
+                                  <other-codes></other-codes>
+                                  <node-type>Subgroup</node-type>
+                                  <geography nil="true"></geography>
+                                  <pri-name>Yami</pri-name>
+                                  <children type="array"/>
+                                  <creator-id type="integer">10740</creator-id>
+                                  <created-by>joe_leif</created-by>
+                                  <updated-by>joe_leif</updated-by>
+                                  <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                                  <sureness type="integer">0</sureness>
+                                  <pub-comments></pub-comments>
+                                  <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+                                  <status nil="true"></status>
+                                  <codes>yami</codes>
+                                  <tree-val>Austronesian: Reid 1981</tree-val>
+                                  <node-type-id type="integer">10000</node-type-id>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <end-date nil="true"></end-date>
+                                  <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+                                  <alt-names></alt-names>
+                                  <tree-id type="integer">10542</tree-id>
+                                  <confidence>y</confidence>
+                                  <is-default type="integer">0</is-default>
+                                  <id type="integer">128258</id>
+                                  <deleted-at nil="true"></deleted-at>
+                                </child>
+                                <child>
+                                  <updater-id type="integer">10740</updater-id>
+                                  <start-date nil="true"></start-date>
+                                  <other-codes></other-codes>
+                                  <node-type>Subgroup</node-type>
+                                  <geography nil="true"></geography>
+                                  <pri-name>Ivatan</pri-name>
+                                  <children type="array"/>
+                                  <creator-id type="integer">10740</creator-id>
+                                  <created-by>joe_leif</created-by>
+                                  <updated-by>joe_leif</updated-by>
+                                  <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                                  <sureness type="integer">0</sureness>
+                                  <pub-comments></pub-comments>
+                                  <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+                                  <status nil="true"></status>
+                                  <codes>ivat</codes>
+                                  <tree-val>Austronesian: Reid 1981</tree-val>
+                                  <node-type-id type="integer">10000</node-type-id>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <end-date nil="true"></end-date>
+                                  <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+                                  <alt-names></alt-names>
+                                  <tree-id type="integer">10542</tree-id>
+                                  <confidence>y</confidence>
+                                  <is-default type="integer">0</is-default>
+                                  <id type="integer">128259</id>
+                                  <deleted-at nil="true"></deleted-at>
+                                </child>
+                              </children>
+                              <creator-id type="integer">10740</creator-id>
+                              <created-by>joe_leif</created-by>
+                              <updated-by>joe_leif</updated-by>
+                              <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                              <sureness type="integer">0</sureness>
+                              <pub-comments></pub-comments>
+                              <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+                              <status nil="true"></status>
+                              <codes>bash</codes>
+                              <tree-val>Austronesian: Reid 1981</tree-val>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <node-status-id nil="true"></node-status-id>
+                              <end-date nil="true"></end-date>
+                              <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">10542</tree-id>
+                              <confidence>y</confidence>
+                              <is-default type="integer">0</is-default>
+                              <id type="integer">128257</id>
+                              <deleted-at nil="true"></deleted-at>
+                            </child>
+                          </children>
+                          <creator-id type="integer">10740</creator-id>
+                          <created-by>joe_leif</created-by>
+                          <updated-by>joe_leif</updated-by>
+                          <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                          <sureness type="integer">0</sureness>
+                          <pub-comments></pub-comments>
+                          <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+                          <status nil="true"></status>
+                          <codes>bclm</codes>
+                          <tree-val>Austronesian: Reid 1981</tree-val>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <node-status-id nil="true"></node-status-id>
+                          <end-date nil="true"></end-date>
+                          <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">10542</tree-id>
+                          <confidence>n</confidence>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">128256</id>
+                          <deleted-at nil="true"></deleted-at>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <node-type>Subgroup</node-type>
+                          <geography nil="true"></geography>
+                          <pri-name>Northern Luzon</pri-name>
+                          <children type="array">
+                            <child>
+                              <updater-id type="integer">10740</updater-id>
+                              <start-date nil="true"></start-date>
+                              <other-codes></other-codes>
+                              <node-type>Subgroup</node-type>
+                              <geography nil="true"></geography>
+                              <pri-name>Northern Cordilleran</pri-name>
+                              <children type="array"/>
+                              <creator-id type="integer">10740</creator-id>
+                              <created-by>joe_leif</created-by>
+                              <updated-by>joe_leif</updated-by>
+                              <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                              <sureness type="integer">0</sureness>
+                              <pub-comments></pub-comments>
+                              <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+                              <status nil="true"></status>
+                              <codes>ncor</codes>
+                              <tree-val>Austronesian: Reid 1981</tree-val>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <node-status-id nil="true"></node-status-id>
+                              <end-date nil="true"></end-date>
+                              <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">10542</tree-id>
+                              <confidence>y</confidence>
+                              <is-default type="integer">0</is-default>
+                              <id type="integer">128261</id>
+                              <deleted-at nil="true"></deleted-at>
+                            </child>
+                            <child>
+                              <updater-id type="integer">10740</updater-id>
+                              <start-date nil="true"></start-date>
+                              <other-codes></other-codes>
+                              <node-type>Subgroup</node-type>
+                              <geography nil="true"></geography>
+                              <pri-name>Ilokano</pri-name>
+                              <children type="array"/>
+                              <creator-id type="integer">10740</creator-id>
+                              <created-by>joe_leif</created-by>
+                              <updated-by>joe_leif</updated-by>
+                              <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                              <sureness type="integer">0</sureness>
+                              <pub-comments></pub-comments>
+                              <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+                              <status nil="true"></status>
+                              <codes>iloc</codes>
+                              <tree-val>Austronesian: Reid 1981</tree-val>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <node-status-id nil="true"></node-status-id>
+                              <end-date nil="true"></end-date>
+                              <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">10542</tree-id>
+                              <confidence>y</confidence>
+                              <is-default type="integer">0</is-default>
+                              <id type="integer">128262</id>
+                              <deleted-at nil="true"></deleted-at>
+                            </child>
+                            <child>
+                              <updater-id type="integer">10740</updater-id>
+                              <start-date nil="true"></start-date>
+                              <other-codes></other-codes>
+                              <node-type>Subgroup</node-type>
+                              <geography nil="true"></geography>
+                              <pri-name>South-Central Cordilleran</pri-name>
+                              <children type="array">
+                                <child>
+                                  <updater-id type="integer">10740</updater-id>
+                                  <start-date nil="true"></start-date>
+                                  <other-codes></other-codes>
+                                  <node-type>Subgroup</node-type>
+                                  <geography nil="true"></geography>
+                                  <pri-name>Southern Cordilleran</pri-name>
+                                  <children type="array"/>
+                                  <creator-id type="integer">10740</creator-id>
+                                  <created-by>joe_leif</created-by>
+                                  <updated-by>joe_leif</updated-by>
+                                  <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                                  <sureness type="integer">0</sureness>
+                                  <pub-comments></pub-comments>
+                                  <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+                                  <status nil="true"></status>
+                                  <codes>scor</codes>
+                                  <tree-val>Austronesian: Reid 1981</tree-val>
+                                  <node-type-id type="integer">10000</node-type-id>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <end-date nil="true"></end-date>
+                                  <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+                                  <alt-names></alt-names>
+                                  <tree-id type="integer">10542</tree-id>
+                                  <confidence>y</confidence>
+                                  <is-default type="integer">0</is-default>
+                                  <id type="integer">128264</id>
+                                  <deleted-at nil="true"></deleted-at>
+                                </child>
+                                <child>
+                                  <updater-id type="integer">10740</updater-id>
+                                  <start-date nil="true"></start-date>
+                                  <other-codes></other-codes>
+                                  <node-type>Subgroup</node-type>
+                                  <geography nil="true"></geography>
+                                  <pri-name>Central Cordilleran</pri-name>
+                                  <children type="array"/>
+                                  <creator-id type="integer">10740</creator-id>
+                                  <created-by>joe_leif</created-by>
+                                  <updated-by>joe_leif</updated-by>
+                                  <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                                  <sureness type="integer">0</sureness>
+                                  <pub-comments></pub-comments>
+                                  <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+                                  <status nil="true"></status>
+                                  <codes>ccor</codes>
+                                  <tree-val>Austronesian: Reid 1981</tree-val>
+                                  <node-type-id type="integer">10000</node-type-id>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <end-date nil="true"></end-date>
+                                  <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+                                  <alt-names></alt-names>
+                                  <tree-id type="integer">10542</tree-id>
+                                  <confidence>y</confidence>
+                                  <is-default type="integer">0</is-default>
+                                  <id type="integer">128265</id>
+                                  <deleted-at nil="true"></deleted-at>
+                                </child>
+                              </children>
+                              <creator-id type="integer">10740</creator-id>
+                              <created-by>joe_leif</created-by>
+                              <updated-by>joe_leif</updated-by>
+                              <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                              <sureness type="integer">0</sureness>
+                              <pub-comments></pub-comments>
+                              <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+                              <status nil="true"></status>
+                              <codes>scco</codes>
+                              <tree-val>Austronesian: Reid 1981</tree-val>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <node-status-id nil="true"></node-status-id>
+                              <end-date nil="true"></end-date>
+                              <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">10542</tree-id>
+                              <confidence>y</confidence>
+                              <is-default type="integer">0</is-default>
+                              <id type="integer">128263</id>
+                              <deleted-at nil="true"></deleted-at>
+                            </child>
+                          </children>
+                          <creator-id type="integer">10740</creator-id>
+                          <created-by>joe_leif</created-by>
+                          <updated-by>joe_leif</updated-by>
+                          <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                          <sureness type="integer">0</sureness>
+                          <pub-comments></pub-comments>
+                          <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+                          <status nil="true"></status>
+                          <codes>nluz</codes>
+                          <tree-val>Austronesian: Reid 1981</tree-val>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <node-status-id nil="true"></node-status-id>
+                          <end-date nil="true"></end-date>
+                          <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">10542</tree-id>
+                          <confidence>y</confidence>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">128260</id>
+                          <deleted-at nil="true"></deleted-at>
+                        </child>
+                      </children>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updated-by>joe_leif</updated-by>
+                      <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                      <sureness type="integer">0</sureness>
+                      <pub-comments></pub-comments>
+                      <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+                      <status nil="true"></status>
+                      <codes>nphi</codes>
+                      <tree-val>Austronesian: Reid 1981</tree-val>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                      <end-date nil="true"></end-date>
+                      <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">10542</tree-id>
+                      <confidence>y</confidence>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">128255</id>
+                      <deleted-at nil="true"></deleted-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <node-type>Subgroup</node-type>
+                      <geography nil="true"></geography>
+                      <pri-name>Southern Philippines</pri-name>
+                      <children type="array">
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <node-type>Subgroup</node-type>
+                          <geography nil="true"></geography>
+                          <pri-name>Subanon</pri-name>
+                          <children type="array"/>
+                          <creator-id type="integer">10740</creator-id>
+                          <created-by>joe_leif</created-by>
+                          <updated-by>joe_leif</updated-by>
+                          <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                          <sureness type="integer">0</sureness>
+                          <pub-comments></pub-comments>
+                          <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+                          <status nil="true"></status>
+                          <codes>suba</codes>
+                          <tree-val>Austronesian: Reid 1981</tree-val>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <node-status-id nil="true"></node-status-id>
+                          <end-date nil="true"></end-date>
+                          <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">10542</tree-id>
+                          <confidence>y</confidence>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">128267</id>
+                          <deleted-at nil="true"></deleted-at>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <node-type>Subgroup</node-type>
+                          <geography nil="true"></geography>
+                          <pri-name>Manobo</pri-name>
+                          <children type="array"/>
+                          <creator-id type="integer">10740</creator-id>
+                          <created-by>joe_leif</created-by>
+                          <updated-by>joe_leif</updated-by>
+                          <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                          <sureness type="integer">0</sureness>
+                          <pub-comments></pub-comments>
+                          <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+                          <status nil="true"></status>
+                          <codes>manb</codes>
+                          <tree-val>Austronesian: Reid 1981</tree-val>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <node-status-id nil="true"></node-status-id>
+                          <end-date nil="true"></end-date>
+                          <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">10542</tree-id>
+                          <confidence>y</confidence>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">128268</id>
+                          <deleted-at nil="true"></deleted-at>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <node-type>Subgroup</node-type>
+                          <geography nil="true"></geography>
+                          <pri-name>Danao</pri-name>
+                          <children type="array"/>
+                          <creator-id type="integer">10740</creator-id>
+                          <created-by>joe_leif</created-by>
+                          <updated-by>joe_leif</updated-by>
+                          <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                          <sureness type="integer">0</sureness>
+                          <pub-comments></pub-comments>
+                          <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+                          <status nil="true"></status>
+                          <codes>dana</codes>
+                          <tree-val>Austronesian: Reid 1981</tree-val>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <node-status-id nil="true"></node-status-id>
+                          <end-date nil="true"></end-date>
+                          <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">10542</tree-id>
+                          <confidence>y</confidence>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">128269</id>
+                          <deleted-at nil="true"></deleted-at>
+                        </child>
+                      </children>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updated-by>joe_leif</updated-by>
+                      <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                      <sureness type="integer">0</sureness>
+                      <pub-comments></pub-comments>
+                      <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+                      <status nil="true"></status>
+                      <codes>sphi</codes>
+                      <tree-val>Austronesian: Reid 1981</tree-val>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                      <end-date nil="true"></end-date>
+                      <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">10542</tree-id>
+                      <confidence>y</confidence>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">128266</id>
+                      <deleted-at nil="true"></deleted-at>
+                    </child>
+                  </children>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updated-by>joe_leif</updated-by>
+                  <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                  <sureness type="integer">0</sureness>
+                  <pub-comments></pub-comments>
+                  <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+                  <status nil="true"></status>
+                  <codes>oupn</codes>
+                  <tree-val>Austronesian: Reid 1981</tree-val>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <end-date nil="true"></end-date>
+                  <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">10542</tree-id>
+                  <confidence>y</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">128254</id>
+                  <deleted-at nil="true"></deleted-at>
+                </child>
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <node-type>Subgroup</node-type>
+                  <geography nil="true"></geography>
+                  <pri-name>Malayo-Polynesian</pri-name>
+                  <children type="array">
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <node-type>Subgroup</node-type>
+                      <geography nil="true"></geography>
+                      <pri-name>Western Malayo-Polynesian</pri-name>
+                      <children type="array">
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <start-date nil="true"></start-date>
+                          <other-codes></other-codes>
+                          <node-type>Subgroup</node-type>
+                          <geography nil="true"></geography>
+                          <pri-name>Meso-Philippine</pri-name>
+                          <children type="array">
+                            <child>
+                              <updater-id type="integer">10740</updater-id>
+                              <start-date nil="true"></start-date>
+                              <other-codes></other-codes>
+                              <node-type>Subgroup</node-type>
+                              <geography nil="true"></geography>
+                              <pri-name>South Mangyan</pri-name>
+                              <children type="array"/>
+                              <creator-id type="integer">10740</creator-id>
+                              <created-by>joe_leif</created-by>
+                              <updated-by>joe_leif</updated-by>
+                              <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                              <sureness type="integer">0</sureness>
+                              <pub-comments></pub-comments>
+                              <updated-at type="datetime">2008-08-15T14:13:55-04:00</updated-at>
+                              <status nil="true"></status>
+                              <codes>smng</codes>
+                              <tree-val>Austronesian: Reid 1981</tree-val>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <node-status-id nil="true"></node-status-id>
+                              <end-date nil="true"></end-date>
+                              <created-at type="datetime">2008-08-15T14:13:55-04:00</created-at>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">10542</tree-id>
+                              <confidence>n</confidence>
+                              <is-default type="integer">0</is-default>
+                              <id type="integer">128273</id>
+                              <deleted-at nil="true"></deleted-at>
+                            </child>
+                            <child>
+                              <updater-id type="integer">10740</updater-id>
+                              <start-date nil="true"></start-date>
+                              <other-codes></other-codes>
+                              <node-type>Subgroup</node-type>
+                              <geography nil="true"></geography>
+                              <pri-name>Palawan</pri-name>
+                              <children type="array"/>
+                              <creator-id type="integer">10740</creator-id>
+                              <created-by>joe_leif</created-by>
+                              <updated-by>joe_leif</updated-by>
+                              <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                              <sureness type="integer">0</sureness>
+                              <pub-comments></pub-comments>
+                              <updated-at type="datetime">2008-08-15T14:13:55-04:00</updated-at>
+                              <status nil="true"></status>
+                              <codes>palw</codes>
+                              <tree-val>Austronesian: Reid 1981</tree-val>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <node-status-id nil="true"></node-status-id>
+                              <end-date nil="true"></end-date>
+                              <created-at type="datetime">2008-08-15T14:13:55-04:00</created-at>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">10542</tree-id>
+                              <confidence>y</confidence>
+                              <is-default type="integer">0</is-default>
+                              <id type="integer">128274</id>
+                              <deleted-at nil="true"></deleted-at>
+                            </child>
+                            <child>
+                              <updater-id type="integer">10740</updater-id>
+                              <start-date nil="true"></start-date>
+                              <other-codes></other-codes>
+                              <node-type>Subgroup</node-type>
+                              <geography nil="true"></geography>
+                              <pri-name>Central Philippine</pri-name>
+                              <children type="array">
+                                <child>
+                                  <updater-id type="integer">10740</updater-id>
+                                  <start-date nil="true"></start-date>
+                                  <other-codes></other-codes>
+                                  <node-type>Subgroup</node-type>
+                                  <geography nil="true"></geography>
+                                  <pri-name>Tagalog</pri-name>
+                                  <children type="array"/>
+                                  <creator-id type="integer">10740</creator-id>
+                                  <created-by>joe_leif</created-by>
+                                  <updated-by>joe_leif</updated-by>
+                                  <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                                  <sureness type="integer">0</sureness>
+                                  <pub-comments></pub-comments>
+                                  <updated-at type="datetime">2008-08-15T14:13:55-04:00</updated-at>
+                                  <status nil="true"></status>
+                                  <codes>taga</codes>
+                                  <tree-val>Austronesian: Reid 1981</tree-val>
+                                  <node-type-id type="integer">10000</node-type-id>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <end-date nil="true"></end-date>
+                                  <created-at type="datetime">2008-08-15T14:13:55-04:00</created-at>
+                                  <alt-names></alt-names>
+                                  <tree-id type="integer">10542</tree-id>
+                                  <confidence>y</confidence>
+                                  <is-default type="integer">0</is-default>
+                                  <id type="integer">128276</id>
+                                  <deleted-at nil="true"></deleted-at>
+                                </child>
+                                <child>
+                                  <updater-id type="integer">10740</updater-id>
+                                  <start-date nil="true"></start-date>
+                                  <other-codes></other-codes>
+                                  <node-type>Subgroup</node-type>
+                                  <geography nil="true"></geography>
+                                  <pri-name>Bikol</pri-name>
+                                  <children type="array"/>
+                                  <creator-id type="integer">10740</creator-id>
+                                  <created-by>joe_leif</created-by>
+                                  <updated-by>joe_leif</updated-by>
+                                  <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                                  <sureness type="integer">0</sureness>
+                                  <pub-comments></pub-comments>
+                                  <updated-at type="datetime">2008-08-15T14:13:55-04:00</updated-at>
+                                  <status nil="true"></status>
+                                  <codes>biko</codes>
+                                  <tree-val>Austronesian: Reid 1981</tree-val>
+                                  <node-type-id type="integer">10000</node-type-id>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <end-date nil="true"></end-date>
+                                  <created-at type="datetime">2008-08-15T14:13:55-04:00</created-at>
+                                  <alt-names></alt-names>
+                                  <tree-id type="integer">10542</tree-id>
+                                  <confidence>y</confidence>
+                                  <is-default type="integer">0</is-default>
+                                  <id type="integer">128277</id>
+                                  <deleted-at nil="true"></deleted-at>
+                                </child>
+                                <child>
+                                  <updater-id type="integer">10740</updater-id>
+                                  <start-date nil="true"></start-date>
+                                  <other-codes></other-codes>
+                                  <node-type>Subgroup</node-type>
+                                  <geography nil="true"></geography>
+                                  <pri-name>Bisayan</pri-name>
+                                  <children type="array"/>
+                                  <creator-id type="integer">10740</creator-id>
+                                  <created-by>joe_leif</created-by>
+                                  <updated-by>joe_leif</updated-by>
+                                  <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                                  <sureness type="integer">0</sureness>
+                                  <pub-comments></pub-comments>
+                                  <updated-at type="datetime">2008-08-15T14:13:55-04:00</updated-at>
+                                  <status nil="true"></status>
+                                  <codes>bisn</codes>
+                                  <tree-val>Austronesian: Reid 1981</tree-val>
+                                  <node-type-id type="integer">10000</node-type-id>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <end-date nil="true"></end-date>
+                                  <created-at type="datetime">2008-08-15T14:13:55-04:00</created-at>
+                                  <alt-names></alt-names>
+                                  <tree-id type="integer">10542</tree-id>
+                                  <confidence>y</confidence>
+                                  <is-default type="integer">0</is-default>
+                                  <id type="integer">128278</id>
+                                  <deleted-at nil="true"></deleted-at>
+                                </child>
+                                <child>
+                                  <updater-id type="integer">10740</updater-id>
+                                  <start-date nil="true"></start-date>
+                                  <other-codes></other-codes>
+                                  <node-type>Subgroup</node-type>
+                                  <geography nil="true"></geography>
+                                  <pri-name>Mansakan</pri-name>
+                                  <children type="array"/>
+                                  <creator-id type="integer">10740</creator-id>
+                                  <created-by>joe_leif</created-by>
+                                  <updated-by>joe_leif</updated-by>
+                                  <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                                  <sureness type="integer">0</sureness>
+                                  <pub-comments></pub-comments>
+                                  <updated-at type="datetime">2008-08-15T14:13:55-04:00</updated-at>
+                                  <status nil="true"></status>
+                                  <codes>mans</codes>
+                                  <tree-val>Austronesian: Reid 1981</tree-val>
+                                  <node-type-id type="integer">10000</node-type-id>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <end-date nil="true"></end-date>
+                                  <created-at type="datetime">2008-08-15T14:13:55-04:00</created-at>
+                                  <alt-names></alt-names>
+                                  <tree-id type="integer">10542</tree-id>
+                                  <confidence>y</confidence>
+                                  <is-default type="integer">0</is-default>
+                                  <id type="integer">128279</id>
+                                  <deleted-at nil="true"></deleted-at>
+                                </child>
+                                <child>
+                                  <updater-id type="integer">10740</updater-id>
+                                  <start-date nil="true"></start-date>
+                                  <other-codes></other-codes>
+                                  <node-type>Subgroup</node-type>
+                                  <geography nil="true"></geography>
+                                  <pri-name>Mamanwa</pri-name>
+                                  <children type="array"/>
+                                  <creator-id type="integer">10740</creator-id>
+                                  <created-by>joe_leif</created-by>
+                                  <updated-by>joe_leif</updated-by>
+                                  <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                                  <sureness type="integer">0</sureness>
+                                  <pub-comments></pub-comments>
+                                  <updated-at type="datetime">2008-08-15T14:13:55-04:00</updated-at>
+                                  <status nil="true"></status>
+                                  <codes>mama</codes>
+                                  <tree-val>Austronesian: Reid 1981</tree-val>
+                                  <node-type-id type="integer">10000</node-type-id>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <end-date nil="true"></end-date>
+                                  <created-at type="datetime">2008-08-15T14:13:55-04:00</created-at>
+                                  <alt-names></alt-names>
+                                  <tree-id type="integer">10542</tree-id>
+                                  <confidence>y</confidence>
+                                  <is-default type="integer">0</is-default>
+                                  <id type="integer">128280</id>
+                                  <deleted-at nil="true"></deleted-at>
+                                </child>
+                              </children>
+                              <creator-id type="integer">10740</creator-id>
+                              <created-by>joe_leif</created-by>
+                              <updated-by>joe_leif</updated-by>
+                              <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                              <sureness type="integer">0</sureness>
+                              <pub-comments></pub-comments>
+                              <updated-at type="datetime">2008-08-15T14:13:55-04:00</updated-at>
+                              <status nil="true"></status>
+                              <codes>ceph</codes>
+                              <tree-val>Austronesian: Reid 1981</tree-val>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <node-status-id nil="true"></node-status-id>
+                              <end-date nil="true"></end-date>
+                              <created-at type="datetime">2008-08-15T14:13:55-04:00</created-at>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">10542</tree-id>
+                              <confidence>y</confidence>
+                              <is-default type="integer">0</is-default>
+                              <id type="integer">128275</id>
+                              <deleted-at nil="true"></deleted-at>
+                            </child>
+                          </children>
+                          <creator-id type="integer">10740</creator-id>
+                          <created-by>joe_leif</created-by>
+                          <updated-by>joe_leif</updated-by>
+                          <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                          <sureness type="integer">0</sureness>
+                          <pub-comments></pub-comments>
+                          <updated-at type="datetime">2008-08-15T14:13:55-04:00</updated-at>
+                          <status nil="true"></status>
+                          <codes>mesp</codes>
+                          <tree-val>Austronesian: Reid 1981</tree-val>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <node-status-id nil="true"></node-status-id>
+                          <end-date nil="true"></end-date>
+                          <created-at type="datetime">2008-08-15T14:13:55-04:00</created-at>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">10542</tree-id>
+                          <confidence>y</confidence>
+                          <is-default type="integer">0</is-default>
+                          <id type="integer">128272</id>
+                          <deleted-at nil="true"></deleted-at>
+                        </child>
+                      </children>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updated-by>joe_leif</updated-by>
+                      <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                      <sureness type="integer">0</sureness>
+                      <pub-comments></pub-comments>
+                      <updated-at type="datetime">2008-08-15T14:13:55-04:00</updated-at>
+                      <status nil="true"></status>
+                      <codes>wemp</codes>
+                      <tree-val>Austronesian: Reid 1981</tree-val>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                      <end-date nil="true"></end-date>
+                      <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">10542</tree-id>
+                      <confidence>y</confidence>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">128271</id>
+                      <deleted-at nil="true"></deleted-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <node-type>Subgroup</node-type>
+                      <geography nil="true"></geography>
+                      <pri-name>Javanic</pri-name>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updated-by>joe_leif</updated-by>
+                      <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                      <sureness type="integer">0</sureness>
+                      <pub-comments>Has an 'etc' after Javanic.</pub-comments>
+                      <updated-at type="datetime">2008-08-15T14:13:55-04:00</updated-at>
+                      <status nil="true"></status>
+                      <codes>java</codes>
+                      <tree-val>Austronesian: Reid 1981</tree-val>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                      <end-date nil="true"></end-date>
+                      <created-at type="datetime">2008-08-15T14:13:55-04:00</created-at>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">10542</tree-id>
+                      <confidence>y</confidence>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">128281</id>
+                      <deleted-at nil="true"></deleted-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <node-type>Subgroup</node-type>
+                      <geography nil="true"></geography>
+                      <pri-name>Central-Eastern Malayo-Polynesian</pri-name>
+                      <children type="array"/>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updated-by>joe_leif</updated-by>
+                      <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                      <sureness type="integer">0</sureness>
+                      <pub-comments></pub-comments>
+                      <updated-at type="datetime">2008-08-15T14:13:55-04:00</updated-at>
+                      <status nil="true"></status>
+                      <codes>cemp</codes>
+                      <tree-val>Austronesian: Reid 1981</tree-val>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                      <end-date nil="true"></end-date>
+                      <created-at type="datetime">2008-08-15T14:13:55-04:00</created-at>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">10542</tree-id>
+                      <confidence>y</confidence>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">128282</id>
+                      <deleted-at nil="true"></deleted-at>
+                    </child>
+                  </children>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updated-by>joe_leif</updated-by>
+                  <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+                  <sureness type="integer">0</sureness>
+                  <pub-comments></pub-comments>
+                  <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+                  <status nil="true"></status>
+                  <codes>mlpo</codes>
+                  <tree-val>Austronesian: Reid 1981</tree-val>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <end-date nil="true"></end-date>
+                  <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">10542</tree-id>
+                  <confidence>y</confidence>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">128270</id>
+                  <deleted-at nil="true"></deleted-at>
+                </child>
+              </children>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updated-by>joe_leif</updated-by>
+              <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+              <sureness type="integer">0</sureness>
+              <pub-comments></pub-comments>
+              <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+              <status nil="true"></status>
+              <codes>exfo</codes>
+              <tree-val>Austronesian: Reid 1981</tree-val>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+              <alt-names></alt-names>
+              <tree-id type="integer">10542</tree-id>
+              <confidence>y</confidence>
+              <is-default type="integer">0</is-default>
+              <id type="integer">128253</id>
+              <deleted-at nil="true"></deleted-at>
+            </child>
+          </children>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updated-by>joe_leif</updated-by>
+          <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+          <sureness type="integer">0</sureness>
+          <pub-comments></pub-comments>
+          <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+          <status nil="true"></status>
+          <codes>amef</codes>
+          <tree-val>Austronesian: Reid 1981</tree-val>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2008-08-15T14:13:54-04:00</created-at>
+          <alt-names></alt-names>
+          <tree-id type="integer">10542</tree-id>
+          <confidence>y</confidence>
+          <is-default type="integer">0</is-default>
+          <id type="integer">128251</id>
+          <deleted-at nil="true"></deleted-at>
+        </child>
+        <child>
+          <updater-id type="integer">10740</updater-id>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <node-type>Subgroup</node-type>
+          <geography nil="true"></geography>
+          <pri-name>Southern Mindanao</pri-name>
+          <children type="array">
+            <child>
+              <updater-id type="integer">10740</updater-id>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <geography nil="true"></geography>
+              <pri-name>Bilic</pri-name>
+              <children type="array"/>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updated-by>joe_leif</updated-by>
+              <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+              <sureness type="integer">0</sureness>
+              <pub-comments></pub-comments>
+              <updated-at type="datetime">2008-08-15T14:13:55-04:00</updated-at>
+              <status nil="true"></status>
+              <codes>bilc</codes>
+              <tree-val>Austronesian: Reid 1981</tree-val>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2008-08-15T14:13:55-04:00</created-at>
+              <alt-names></alt-names>
+              <tree-id type="integer">10542</tree-id>
+              <confidence>y</confidence>
+              <is-default type="integer">0</is-default>
+              <id type="integer">128284</id>
+              <deleted-at nil="true"></deleted-at>
+            </child>
+            <child>
+              <updater-id type="integer">10740</updater-id>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <geography nil="true"></geography>
+              <pri-name>Bagobo</pri-name>
+              <children type="array"/>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updated-by>joe_leif</updated-by>
+              <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+              <sureness type="integer">0</sureness>
+              <pub-comments></pub-comments>
+              <updated-at type="datetime">2008-08-15T14:13:55-04:00</updated-at>
+              <status nil="true"></status>
+              <codes>bago</codes>
+              <tree-val>Austronesian: Reid 1981</tree-val>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2008-08-15T14:13:55-04:00</created-at>
+              <alt-names></alt-names>
+              <tree-id type="integer">10542</tree-id>
+              <confidence>y</confidence>
+              <is-default type="integer">0</is-default>
+              <id type="integer">128285</id>
+              <deleted-at nil="true"></deleted-at>
+            </child>
+            <child>
+              <updater-id type="integer">10740</updater-id>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <geography nil="true"></geography>
+              <pri-name>Tiruray</pri-name>
+              <children type="array"/>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updated-by>joe_leif</updated-by>
+              <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+              <sureness type="integer">0</sureness>
+              <pub-comments></pub-comments>
+              <updated-at type="datetime">2008-08-15T14:13:55-04:00</updated-at>
+              <status nil="true"></status>
+              <codes>tiru</codes>
+              <tree-val>Austronesian: Reid 1981</tree-val>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2008-08-15T14:13:55-04:00</created-at>
+              <alt-names></alt-names>
+              <tree-id type="integer">10542</tree-id>
+              <confidence>y</confidence>
+              <is-default type="integer">0</is-default>
+              <id type="integer">128286</id>
+              <deleted-at nil="true"></deleted-at>
+            </child>
+            <child>
+              <updater-id type="integer">10740</updater-id>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <geography nil="true"></geography>
+              <pri-name>Kalamian</pri-name>
+              <children type="array"/>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updated-by>joe_leif</updated-by>
+              <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+              <sureness type="integer">-1</sureness>
+              <pub-comments>Question mark next to this subgroup.</pub-comments>
+              <updated-at type="datetime">2008-08-15T14:13:55-04:00</updated-at>
+              <status nil="true"></status>
+              <codes>kaln</codes>
+              <tree-val>Austronesian: Reid 1981</tree-val>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <end-date nil="true"></end-date>
+              <created-at type="datetime">2008-08-15T14:13:55-04:00</created-at>
+              <alt-names></alt-names>
+              <tree-id type="integer">10542</tree-id>
+              <confidence>y</confidence>
+              <is-default type="integer">0</is-default>
+              <id type="integer">128287</id>
+              <deleted-at nil="true"></deleted-at>
+            </child>
+          </children>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updated-by>joe_leif</updated-by>
+          <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+          <sureness type="integer">0</sureness>
+          <pub-comments></pub-comments>
+          <updated-at type="datetime">2008-08-15T14:13:55-04:00</updated-at>
+          <status nil="true"></status>
+          <codes>smin</codes>
+          <tree-val>Austronesian: Reid 1981</tree-val>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2008-08-15T14:13:55-04:00</created-at>
+          <alt-names></alt-names>
+          <tree-id type="integer">10542</tree-id>
+          <confidence>y</confidence>
+          <is-default type="integer">0</is-default>
+          <id type="integer">128283</id>
+          <deleted-at nil="true"></deleted-at>
+        </child>
+      </children>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updated-by>joe_leif</updated-by>
+      <publications>Reid, Lawrence Andrew. 1981. Austronesian High Order Subgrouping. </publications>
+      <sureness type="integer">0</sureness>
+      <pub-comments></pub-comments>
+      <updated-at type="datetime">2008-08-15T14:13:54-04:00</updated-at>
+      <status nil="true"></status>
+      <codes>anes</codes>
+      <tree-val>Austronesian: Reid 1981</tree-val>
+      <node-type-id type="integer">10000</node-type-id>
+      <node-status-id nil="true"></node-status-id>
+      <end-date nil="true"></end-date>
+      <created-at type="datetime">2008-08-15T14:13:53-04:00</created-at>
+      <alt-names></alt-names>
+      <tree-id type="integer">10542</tree-id>
+      <confidence>y</confidence>
+      <is-default type="integer">0</is-default>
+      <id type="integer">128247</id>
+      <deleted-at nil="true"></deleted-at>
+    </root>
+    <description>Austronesian: Reid 1981</description>
+  </tree>
+</hash>

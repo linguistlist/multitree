@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <description>Kamakanan: Composite</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2010-05-20T11:44:09-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Kamakanan: Composite</tree-val>
+      <pub-comments>Typically listed as part of the Macro-J&#234; hypothesis. Loukotka (1968:74-5) included the following additional names of extinct languages in his &#8220;Southern Languages&#8221; branch of his &#8220;Kamakan stock&#8221;: Mangal&#243; (Mongoyo, Monshoko), Dendi, Catol&#233;, Imbor&#233; (Ambor&#233;), Piripiri, Payaya, saying nothing was known of any except the first.</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2010-05-20T11:44:09-04:00</updated-at>
+      <pri-name>Kamakanan</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">true</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">695781</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography>Brazil</geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">17457</tree-id>
+      <codes>kamr</codes>
+      <status nil="true"></status>
+      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 72-73. London, New York: Routledge. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-05-20T11:44:09-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Kamakanan: Composite</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <updated-at type="datetime">2010-05-20T11:44:09-04:00</updated-at>
+          <pri-name>Masakar&#225;</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">true</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">695787</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Bahia, Brazil</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Masacar&#225;</alt-names>
+          <tree-id type="integer">17457</tree-id>
+          <codes>qlz</codes>
+          <status>Extinct</status>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 72-73. London, New York: Routledge. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-05-20T11:44:09-04:00</created-at>
+          <confidence>n</confidence>
+          <tree-val>Kamakanan: Composite</tree-val>
+          <pub-comments>These could be languages or dialects.</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-05-20T11:44:09-04:00</updated-at>
+          <pri-name>Kamak&#225;n</pri-name>
+          <node-type>Dialect Group</node-type>
+          <is-default type="boolean">true</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">-1</sureness>
+          <id type="integer">695782</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10004</node-type-id>
+          <alt-names>Camac&#225;n</alt-names>
+          <tree-id type="integer">17457</tree-id>
+          <codes>vkm</codes>
+          <status nil="true"></status>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 72-73. London, New York: Routledge. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-20T11:44:09-04:00</created-at>
+              <confidence>n</confidence>
+              <tree-val>Kamakanan: Composite</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2010-05-20T11:44:09-04:00</updated-at>
+              <pri-name>Kutax&#243;</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">true</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">-1</sureness>
+              <id type="integer">695785</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Bahia, Minas Gerais, Brazil</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names>Catash&#243;, Cotox&#243;, Catath&#243;y</alt-names>
+              <tree-id type="integer">17457</tree-id>
+              <codes>vkm-kut</codes>
+              <status>Extinct</status>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 72-73. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-20T11:44:09-04:00</created-at>
+              <confidence>n</confidence>
+              <tree-val>Kamakanan: Composite</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2010-05-20T11:44:09-04:00</updated-at>
+              <pri-name>Kamak&#225;n</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">true</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">-1</sureness>
+              <id type="integer">695783</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names>Camac&#225;n, Ezeshio</alt-names>
+              <tree-id type="integer">17457</tree-id>
+              <codes>vkm-kam</codes>
+              <status>Extinct</status>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 72-73. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-20T11:44:09-04:00</created-at>
+              <confidence>n</confidence>
+              <tree-val>Kamakanan: Composite</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2010-05-20T11:44:09-04:00</updated-at>
+              <pri-name>Mangal&#243;</pri-name>
+              <node-type>Dialect</node-type>
+              <is-default type="boolean">true</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">-1</sureness>
+              <id type="integer">695784</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Bahia, Minas Gerais, Brazil</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10003</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">17457</tree-id>
+              <codes>vkm-man</codes>
+              <status>Extinct</status>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 72-73. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-05-20T11:44:09-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Kamakanan: Composite</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id type="integer">10000</node-status-id>
+          <updated-at type="datetime">2010-05-20T11:44:09-04:00</updated-at>
+          <pri-name>Menien</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">true</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">695786</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Bahia, Minas Gerais, Brazil</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Many&#227;</alt-names>
+          <tree-id type="integer">17457</tree-id>
+          <codes>qc6</codes>
+          <status>Extinct</status>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 72-73. London, New York: Routledge. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

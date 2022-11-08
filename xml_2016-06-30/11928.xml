@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <updated-by>joe_leif</updated-by>
+      <creator-id type="integer">10740</creator-id>
+      <tree-val>Timucua: Dryer 2005</tree-val>
+      <tree-id type="integer">11928</tree-id>
+      <sureness type="integer">0</sureness>
+      <end-date nil="true"></end-date>
+      <created-by>joe_leif</created-by>
+      <alt-names></alt-names>
+      <updated-at type="datetime">2009-04-27T16:19:50-04:00</updated-at>
+      <status nil="true"></status>
+      <deleted-at nil="true"></deleted-at>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <confidence>y</confidence>
+      <pri-name>Timucua</pri-name>
+      <node-type-id type="integer">10000</node-type-id>
+      <node-status-id nil="true"></node-status-id>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <created-at type="datetime">2009-04-27T16:19:50-04:00</created-at>
+      <is-default type="integer">0</is-default>
+      <id type="integer">370507</id>
+      <geography nil="true"></geography>
+      <updater-id type="integer">10740</updater-id>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 625. New York: Oxford University Press. ISBN 0199255911</publications>
+      <node-type>Subgroup</node-type>
+      <codes>colr</codes>
+      <children type="array">
+        <child>
+          <updated-by>joe_leif</updated-by>
+          <creator-id type="integer">10740</creator-id>
+          <tree-val>Timucua: Dryer 2005</tree-val>
+          <tree-id type="integer">11928</tree-id>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <created-by>joe_leif</created-by>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-04-27T16:19:50-04:00</updated-at>
+          <status nil="true"></status>
+          <deleted-at nil="true"></deleted-at>
+          <start-date nil="true"></start-date>
+          <other-codes>tnc</other-codes>
+          <confidence>y</confidence>
+          <pri-name>Timucua</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <pub-comments></pub-comments>
+          <created-at type="datetime">2009-04-27T16:19:50-04:00</created-at>
+          <is-default type="integer">0</is-default>
+          <id type="integer">370508</id>
+          <geography>Country: United States; Lat.: 30.25; Long.: -82.5</geography>
+          <updater-id type="integer">10740</updater-id>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 625. New York: Oxford University Press. ISBN 0199255911</publications>
+          <node-type>Language</node-type>
+          <codes>tjm</codes>
+          <children type="array"/>
+        </child>
+      </children>
+    </root>
+    <description>Timucua: Dryer 2005</description>
+  </tree>
+</hash>

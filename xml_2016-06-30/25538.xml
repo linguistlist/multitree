@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>
+    <root>
+      <created-at type="datetime">2013-09-09T13:34:34-04:00</created-at>
+      <updater-id type="integer">10720</updater-id>
+      <pub-comments></pub-comments>
+      <node-type-id type="integer">10000</node-type-id>
+      <end-date nil="true"></end-date>
+      <start-date nil="true"></start-date>
+      <deleted-at nil="true"></deleted-at>
+      <updated-at type="datetime">2013-09-09T13:34:34-04:00</updated-at>
+      <alt-names></alt-names>
+      <tree-id type="integer">25538</tree-id>
+      <status nil="true"></status>
+      <other-codes></other-codes>
+      <node-type>Subgroup</node-type>
+      <id type="integer">1002063</id>
+      <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+      <node-status-id nil="true"></node-status-id>
+      <is-default type="integer">0</is-default>
+      <geography nil="true"></geography>
+      <pri-name>Sino-Tibetan</pri-name>
+      <creator-id type="integer">10720</creator-id>
+      <confidence>y</confidence>
+      <sureness type="integer">0</sureness>
+      <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+      <codes>sitb</codes>
+      <children type="array">
+        <child>
+          <created-at type="datetime">2013-09-09T13:34:36-04:00</created-at>
+          <updater-id type="integer">10720</updater-id>
+          <pub-comments>"Sinitic (= Chinese), consisting of many languages ("Chinese dialects")" (Egerod 1991:207). The author does not specify whether the branches of Sinitic that he provides here are individual languages or subgroups, so for the purposes of this tree they are represented as dialect groups in order to reflect the possibility of broader membership in this group as well as the differing terminology of the various lects being called 'languages' or 'dialects'.</pub-comments>
+          <node-type-id type="integer">10000</node-type-id>
+          <end-date nil="true"></end-date>
+          <start-date nil="true"></start-date>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2013-09-09T13:34:36-04:00</updated-at>
+          <alt-names>Chinese</alt-names>
+          <tree-id type="integer">25538</tree-id>
+          <status nil="true"></status>
+          <other-codes></other-codes>
+          <node-type>Subgroup</node-type>
+          <id type="integer">1002091</id>
+          <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <geography nil="true"></geography>
+          <pri-name>Sinitic</pri-name>
+          <creator-id type="integer">10720</creator-id>
+          <confidence>y</confidence>
+          <sureness type="integer">0</sureness>
+          <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+          <codes>chin</codes>
+          <children type="array">
+            <child>
+              <created-at type="datetime">2013-09-09T13:34:37-04:00</created-at>
+              <updater-id type="integer">10720</updater-id>
+              <pub-comments>"In the very south of China the Sinitic Yu&#232; languages are spoken, of which Cantonese (Canton = Gu&#462;ngzh&#333;u) is best known (it is also the standard language of Hong Kong and Macau)" (Egerod 1991:213).</pub-comments>
+              <node-type-id type="integer">10004</node-type-id>
+              <end-date nil="true"></end-date>
+              <start-date nil="true"></start-date>
+              <deleted-at nil="true"></deleted-at>
+              <updated-at type="datetime">2013-09-09T13:34:37-04:00</updated-at>
+              <alt-names></alt-names>
+              <tree-id type="integer">25538</tree-id>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type>Dialect Group</node-type>
+              <id type="integer">1002097</id>
+              <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <geography>In the very south of China</geography>
+              <pri-name>Yue</pri-name>
+              <creator-id type="integer">10720</creator-id>
+              <confidence>y</confidence>
+              <sureness type="integer">0</sureness>
+              <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+              <codes>yuue</codes>
+              <children type="array">
+                <child>
+                  <created-at type="datetime">2013-09-09T13:34:37-04:00</created-at>
+                  <updater-id type="integer">10720</updater-id>
+                  <pub-comments>"In the very south of China the Sinitic Yu&#232; languages are spoken, of which Cantonese (Canton = Gu&#462;ngzh&#333;u) is best known (it is also the standard language of Hong Kong and Macau)" (Egerod 1991:213).</pub-comments>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <end-date nil="true"></end-date>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-at type="datetime">2013-09-09T13:34:37-04:00</updated-at>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25538</tree-id>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <node-type>Dialect</node-type>
+                  <id type="integer">1002098</id>
+                  <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <geography nil="true"></geography>
+                  <pri-name>Cantonese</pri-name>
+                  <creator-id type="integer">10720</creator-id>
+                  <confidence>y</confidence>
+                  <sureness type="integer">0</sureness>
+                  <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                  <codes>yue, yue-can</codes>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <created-at type="datetime">2013-09-09T13:34:37-04:00</created-at>
+              <updater-id type="integer">10720</updater-id>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10004</node-type-id>
+              <end-date nil="true"></end-date>
+              <start-date nil="true"></start-date>
+              <deleted-at nil="true"></deleted-at>
+              <updated-at type="datetime">2013-09-09T13:34:37-04:00</updated-at>
+              <alt-names></alt-names>
+              <tree-id type="integer">25538</tree-id>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type>Dialect Group</node-type>
+              <id type="integer">1002094</id>
+              <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pri-name>Wu</pri-name>
+              <creator-id type="integer">10720</creator-id>
+              <confidence>y</confidence>
+              <sureness type="integer">0</sureness>
+              <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+              <codes>wuu</codes>
+              <children type="array"/>
+            </child>
+            <child>
+              <created-at type="datetime">2013-09-09T13:34:36-04:00</created-at>
+              <updater-id type="integer">10720</updater-id>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10004</node-type-id>
+              <end-date nil="true"></end-date>
+              <start-date nil="true"></start-date>
+              <deleted-at nil="true"></deleted-at>
+              <updated-at type="datetime">2013-09-09T13:34:37-04:00</updated-at>
+              <alt-names></alt-names>
+              <tree-id type="integer">25538</tree-id>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type>Dialect Group</node-type>
+              <id type="integer">1002093</id>
+              <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pri-name>Xiang</pri-name>
+              <creator-id type="integer">10720</creator-id>
+              <confidence>y</confidence>
+              <sureness type="integer">0</sureness>
+              <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+              <codes>hsn</codes>
+              <children type="array"/>
+            </child>
+            <child>
+              <created-at type="datetime">2013-09-09T13:34:37-04:00</created-at>
+              <updater-id type="integer">10720</updater-id>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10004</node-type-id>
+              <end-date nil="true"></end-date>
+              <start-date nil="true"></start-date>
+              <deleted-at nil="true"></deleted-at>
+              <updated-at type="datetime">2013-09-09T13:34:37-04:00</updated-at>
+              <alt-names></alt-names>
+              <tree-id type="integer">25538</tree-id>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type>Dialect Group</node-type>
+              <id type="integer">1002096</id>
+              <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pri-name>Min</pri-name>
+              <creator-id type="integer">10720</creator-id>
+              <confidence>y</confidence>
+              <sureness type="integer">0</sureness>
+              <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+              <codes>minn</codes>
+              <children type="array"/>
+            </child>
+            <child>
+              <created-at type="datetime">2013-09-09T13:34:36-04:00</created-at>
+              <updater-id type="integer">10720</updater-id>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10004</node-type-id>
+              <end-date nil="true"></end-date>
+              <start-date nil="true"></start-date>
+              <deleted-at nil="true"></deleted-at>
+              <updated-at type="datetime">2013-09-09T13:34:36-04:00</updated-at>
+              <alt-names>Mandarin</alt-names>
+              <tree-id type="integer">25538</tree-id>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type>Dialect Group</node-type>
+              <id type="integer">1002092</id>
+              <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pri-name>Bei</pri-name>
+              <creator-id type="integer">10720</creator-id>
+              <confidence>y</confidence>
+              <sureness type="integer">0</sureness>
+              <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+              <codes>cmn</codes>
+              <children type="array"/>
+            </child>
+            <child>
+              <created-at type="datetime">2013-09-09T13:34:37-04:00</created-at>
+              <updater-id type="integer">10720</updater-id>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10004</node-type-id>
+              <end-date nil="true"></end-date>
+              <start-date nil="true"></start-date>
+              <deleted-at nil="true"></deleted-at>
+              <updated-at type="datetime">2013-09-09T13:34:37-04:00</updated-at>
+              <alt-names></alt-names>
+              <tree-id type="integer">25538</tree-id>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type>Dialect Group</node-type>
+              <id type="integer">1002095</id>
+              <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pri-name>Gan</pri-name>
+              <creator-id type="integer">10720</creator-id>
+              <confidence>y</confidence>
+              <sureness type="integer">0</sureness>
+              <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+              <codes>gan</codes>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <created-at type="datetime">2013-09-09T13:34:34-04:00</created-at>
+          <updater-id type="integer">10720</updater-id>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10000</node-type-id>
+          <end-date nil="true"></end-date>
+          <start-date nil="true"></start-date>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2013-09-09T13:34:34-04:00</updated-at>
+          <alt-names></alt-names>
+          <tree-id type="integer">25538</tree-id>
+          <status nil="true"></status>
+          <other-codes></other-codes>
+          <node-type>Subgroup</node-type>
+          <id type="integer">1002064</id>
+          <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <geography nil="true"></geography>
+          <pri-name>Tibeto-Karenic</pri-name>
+          <creator-id type="integer">10720</creator-id>
+          <confidence>y</confidence>
+          <sureness type="integer">0</sureness>
+          <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+          <codes>tbkr</codes>
+          <children type="array">
+            <child>
+              <created-at type="datetime">2013-09-09T13:34:34-04:00</created-at>
+              <updater-id type="integer">10720</updater-id>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <end-date nil="true"></end-date>
+              <start-date nil="true"></start-date>
+              <deleted-at nil="true"></deleted-at>
+              <updated-at type="datetime">2013-09-09T13:34:34-04:00</updated-at>
+              <alt-names></alt-names>
+              <tree-id type="integer">25538</tree-id>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <id type="integer">1002066</id>
+              <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pri-name>Tibeto-Burman</pri-name>
+              <creator-id type="integer">10720</creator-id>
+              <confidence>y</confidence>
+              <sureness type="integer">0</sureness>
+              <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+              <codes>tbur</codes>
+              <children type="array">
+                <child>
+                  <created-at type="datetime">2013-09-09T13:34:35-04:00</created-at>
+                  <updater-id type="integer">10720</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <end-date nil="true"></end-date>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-at type="datetime">2013-09-09T13:34:35-04:00</updated-at>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25538</tree-id>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <node-type>Subgroup</node-type>
+                  <id type="integer">1002079</id>
+                  <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <geography nil="true"></geography>
+                  <pri-name>Burmic</pri-name>
+                  <creator-id type="integer">10720</creator-id>
+                  <confidence>y</confidence>
+                  <sureness type="integer">0</sureness>
+                  <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                  <codes>bric</codes>
+                  <children type="array">
+                    <child>
+                      <created-at type="datetime">2013-09-09T13:34:36-04:00</created-at>
+                      <updater-id type="integer">10720</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <end-date nil="true"></end-date>
+                      <start-date nil="true"></start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-09-09T13:34:36-04:00</updated-at>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">25538</tree-id>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type>Subgroup</node-type>
+                      <id type="integer">1002082</id>
+                      <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <geography nil="true"></geography>
+                      <pri-name>Burmish</pri-name>
+                      <creator-id type="integer">10720</creator-id>
+                      <confidence>y</confidence>
+                      <sureness type="integer">0</sureness>
+                      <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                      <codes>lolb</codes>
+                      <children type="array">
+                        <child>
+                          <created-at type="datetime">2013-09-09T13:34:36-04:00</created-at>
+                          <updater-id type="integer">10720</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <end-date nil="true"></end-date>
+                          <start-date nil="true"></start-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <updated-at type="datetime">2013-09-09T13:34:36-04:00</updated-at>
+                          <alt-names>Yipho</alt-names>
+                          <tree-id type="integer">25538</tree-id>
+                          <status nil="true"></status>
+                          <other-codes></other-codes>
+                          <node-type>Subgroup</node-type>
+                          <id type="integer">1002088</id>
+                          <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <geography nil="true"></geography>
+                          <pri-name>Lolo-Moso</pri-name>
+                          <creator-id type="integer">10720</creator-id>
+                          <confidence>y</confidence>
+                          <sureness type="integer">0</sureness>
+                          <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                          <codes>lols</codes>
+                          <children type="array">
+                            <child>
+                              <created-at type="datetime">2013-09-09T13:34:36-04:00</created-at>
+                              <updater-id type="integer">10720</updater-id>
+                              <pub-comments></pub-comments>
+                              <node-type-id type="integer">10001</node-type-id>
+                              <end-date nil="true"></end-date>
+                              <start-date nil="true"></start-date>
+                              <deleted-at nil="true"></deleted-at>
+                              <updated-at type="datetime">2013-09-09T13:34:36-04:00</updated-at>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">25538</tree-id>
+                              <status nil="true"></status>
+                              <other-codes></other-codes>
+                              <node-type>Language</node-type>
+                              <id type="integer">1002090</id>
+                              <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                              <node-status-id nil="true"></node-status-id>
+                              <is-default type="integer">0</is-default>
+                              <geography nil="true"></geography>
+                              <pri-name>Moso</pri-name>
+                              <creator-id type="integer">10720</creator-id>
+                              <confidence>y</confidence>
+                              <sureness type="integer">0</sureness>
+                              <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                              <codes>nru, nxq</codes>
+                              <children type="array"/>
+                            </child>
+                            <child>
+                              <created-at type="datetime">2013-09-09T13:34:36-04:00</created-at>
+                              <updater-id type="integer">10720</updater-id>
+                              <pub-comments></pub-comments>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <end-date nil="true"></end-date>
+                              <start-date nil="true"></start-date>
+                              <deleted-at nil="true"></deleted-at>
+                              <updated-at type="datetime">2013-09-09T13:34:36-04:00</updated-at>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">25538</tree-id>
+                              <status nil="true"></status>
+                              <other-codes></other-codes>
+                              <node-type>Subgroup</node-type>
+                              <id type="integer">1002089</id>
+                              <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                              <node-status-id nil="true"></node-status-id>
+                              <is-default type="integer">0</is-default>
+                              <geography nil="true"></geography>
+                              <pri-name>Lolo</pri-name>
+                              <creator-id type="integer">10720</creator-id>
+                              <confidence>y</confidence>
+                              <sureness type="integer">0</sureness>
+                              <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                              <codes>lolo</codes>
+                              <children type="array"/>
+                            </child>
+                          </children>
+                        </child>
+                        <child>
+                          <created-at type="datetime">2013-09-09T13:34:36-04:00</created-at>
+                          <updater-id type="integer">10720</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <end-date nil="true"></end-date>
+                          <start-date nil="true"></start-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <updated-at type="datetime">2013-09-09T13:34:36-04:00</updated-at>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">25538</tree-id>
+                          <status nil="true"></status>
+                          <other-codes></other-codes>
+                          <node-type>Subgroup</node-type>
+                          <id type="integer">1002083</id>
+                          <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <geography nil="true"></geography>
+                          <pri-name>Burmo-Maru</pri-name>
+                          <creator-id type="integer">10720</creator-id>
+                          <confidence>y</confidence>
+                          <sureness type="integer">0</sureness>
+                          <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                          <codes>burm</codes>
+                          <children type="array">
+                            <child>
+                              <created-at type="datetime">2013-09-09T13:34:36-04:00</created-at>
+                              <updater-id type="integer">10720</updater-id>
+                              <pub-comments></pub-comments>
+                              <node-type-id type="integer">10001</node-type-id>
+                              <end-date nil="true"></end-date>
+                              <start-date nil="true"></start-date>
+                              <deleted-at nil="true"></deleted-at>
+                              <updated-at type="datetime">2013-09-09T13:34:36-04:00</updated-at>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">25538</tree-id>
+                              <status nil="true"></status>
+                              <other-codes></other-codes>
+                              <node-type>Language</node-type>
+                              <id type="integer">1002085</id>
+                              <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                              <node-status-id nil="true"></node-status-id>
+                              <is-default type="integer">0</is-default>
+                              <geography nil="true"></geography>
+                              <pri-name>Lashi</pri-name>
+                              <creator-id type="integer">10720</creator-id>
+                              <confidence>y</confidence>
+                              <sureness type="integer">0</sureness>
+                              <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                              <codes>lsi</codes>
+                              <children type="array"/>
+                            </child>
+                            <child>
+                              <created-at type="datetime">2013-09-09T13:34:36-04:00</created-at>
+                              <updater-id type="integer">10720</updater-id>
+                              <pub-comments></pub-comments>
+                              <node-type-id type="integer">10001</node-type-id>
+                              <end-date nil="true"></end-date>
+                              <start-date nil="true"></start-date>
+                              <deleted-at nil="true"></deleted-at>
+                              <updated-at type="datetime">2013-09-09T13:34:36-04:00</updated-at>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">25538</tree-id>
+                              <status nil="true"></status>
+                              <other-codes></other-codes>
+                              <node-type>Language</node-type>
+                              <id type="integer">1002086</id>
+                              <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                              <node-status-id nil="true"></node-status-id>
+                              <is-default type="integer">0</is-default>
+                              <geography nil="true"></geography>
+                              <pri-name>Atsi</pri-name>
+                              <creator-id type="integer">10720</creator-id>
+                              <confidence>y</confidence>
+                              <sureness type="integer">0</sureness>
+                              <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                              <codes>atb</codes>
+                              <children type="array"/>
+                            </child>
+                            <child>
+                              <created-at type="datetime">2013-09-09T13:34:36-04:00</created-at>
+                              <updater-id type="integer">10720</updater-id>
+                              <pub-comments></pub-comments>
+                              <node-type-id type="integer">10001</node-type-id>
+                              <end-date nil="true"></end-date>
+                              <start-date nil="true"></start-date>
+                              <deleted-at nil="true"></deleted-at>
+                              <updated-at type="datetime">2013-09-09T13:34:36-04:00</updated-at>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">25538</tree-id>
+                              <status nil="true"></status>
+                              <other-codes></other-codes>
+                              <node-type>Language</node-type>
+                              <id type="integer">1002087</id>
+                              <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                              <node-status-id nil="true"></node-status-id>
+                              <is-default type="integer">0</is-default>
+                              <geography nil="true"></geography>
+                              <pri-name>Maru</pri-name>
+                              <creator-id type="integer">10720</creator-id>
+                              <confidence>y</confidence>
+                              <sureness type="integer">0</sureness>
+                              <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                              <codes>mhx</codes>
+                              <children type="array"/>
+                            </child>
+                            <child>
+                              <created-at type="datetime">2013-09-09T13:34:36-04:00</created-at>
+                              <updater-id type="integer">10720</updater-id>
+                              <pub-comments></pub-comments>
+                              <node-type-id type="integer">10001</node-type-id>
+                              <end-date nil="true"></end-date>
+                              <start-date nil="true"></start-date>
+                              <deleted-at nil="true"></deleted-at>
+                              <updated-at type="datetime">2013-09-09T13:34:36-04:00</updated-at>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">25538</tree-id>
+                              <status nil="true"></status>
+                              <other-codes></other-codes>
+                              <node-type>Language</node-type>
+                              <id type="integer">1002084</id>
+                              <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                              <node-status-id nil="true"></node-status-id>
+                              <is-default type="integer">0</is-default>
+                              <geography nil="true"></geography>
+                              <pri-name>Burmese</pri-name>
+                              <creator-id type="integer">10720</creator-id>
+                              <confidence>y</confidence>
+                              <sureness type="integer">0</sureness>
+                              <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                              <codes>mya</codes>
+                              <children type="array"/>
+                            </child>
+                          </children>
+                        </child>
+                      </children>
+                    </child>
+                    <child>
+                      <created-at type="datetime">2013-09-09T13:34:35-04:00</created-at>
+                      <updater-id type="integer">10720</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <end-date nil="true"></end-date>
+                      <start-date nil="true"></start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-09-09T13:34:35-04:00</updated-at>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">25538</tree-id>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type>Subgroup</node-type>
+                      <id type="integer">1002080</id>
+                      <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <geography nil="true"></geography>
+                      <pri-name>Kuki</pri-name>
+                      <creator-id type="integer">10720</creator-id>
+                      <confidence>y</confidence>
+                      <sureness type="integer">0</sureness>
+                      <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                      <codes>kuki</codes>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <created-at type="datetime">2013-09-09T13:34:35-04:00</created-at>
+                      <updater-id type="integer">10720</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <end-date nil="true"></end-date>
+                      <start-date nil="true"></start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-09-09T13:34:36-04:00</updated-at>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">25538</tree-id>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type>Subgroup</node-type>
+                      <id type="integer">1002081</id>
+                      <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <geography nil="true"></geography>
+                      <pri-name>Kachin</pri-name>
+                      <creator-id type="integer">10720</creator-id>
+                      <confidence>y</confidence>
+                      <sureness type="integer">0</sureness>
+                      <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                      <codes>jing</codes>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <created-at type="datetime">2013-09-09T13:34:34-04:00</created-at>
+                  <updater-id type="integer">10720</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <end-date nil="true"></end-date>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-at type="datetime">2013-09-09T13:34:34-04:00</updated-at>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25538</tree-id>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <node-type>Subgroup</node-type>
+                  <id type="integer">1002067</id>
+                  <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <geography nil="true"></geography>
+                  <pri-name>Tibetic</pri-name>
+                  <creator-id type="integer">10720</creator-id>
+                  <confidence>y</confidence>
+                  <sureness type="integer">0</sureness>
+                  <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                  <codes>tbtc</codes>
+                  <children type="array">
+                    <child>
+                      <created-at type="datetime">2013-09-09T13:34:35-04:00</created-at>
+                      <updater-id type="integer">10720</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <end-date nil="true"></end-date>
+                      <start-date nil="true"></start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-09-09T13:34:35-04:00</updated-at>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">25538</tree-id>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type>Subgroup</node-type>
+                      <id type="integer">1002072</id>
+                      <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <geography nil="true"></geography>
+                      <pri-name>Mirish</pri-name>
+                      <creator-id type="integer">10720</creator-id>
+                      <confidence>y</confidence>
+                      <sureness type="integer">0</sureness>
+                      <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                      <codes>tani</codes>
+                      <children type="array">
+                        <child>
+                          <created-at type="datetime">2013-09-09T13:34:35-04:00</created-at>
+                          <updater-id type="integer">10720</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <end-date nil="true"></end-date>
+                          <start-date nil="true"></start-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <updated-at type="datetime">2013-09-09T13:34:35-04:00</updated-at>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">25538</tree-id>
+                          <status nil="true"></status>
+                          <other-codes></other-codes>
+                          <node-type>Language</node-type>
+                          <id type="integer">1002074</id>
+                          <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <geography nil="true"></geography>
+                          <pri-name>Mirish</pri-name>
+                          <creator-id type="integer">10720</creator-id>
+                          <confidence>y</confidence>
+                          <sureness type="integer">0</sureness>
+                          <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                          <codes>mrg</codes>
+                          <children type="array"/>
+                        </child>
+                        <child>
+                          <created-at type="datetime">2013-09-09T13:34:35-04:00</created-at>
+                          <updater-id type="integer">10720</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <end-date nil="true"></end-date>
+                          <start-date nil="true"></start-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <updated-at type="datetime">2013-09-09T13:34:35-04:00</updated-at>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">25538</tree-id>
+                          <status nil="true"></status>
+                          <other-codes></other-codes>
+                          <node-type>Language</node-type>
+                          <id type="integer">1002073</id>
+                          <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <geography nil="true"></geography>
+                          <pri-name>Abor</pri-name>
+                          <creator-id type="integer">10720</creator-id>
+                          <confidence>y</confidence>
+                          <sureness type="integer">0</sureness>
+                          <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                          <codes>adi</codes>
+                          <children type="array"/>
+                        </child>
+                        <child>
+                          <created-at type="datetime">2013-09-09T13:34:35-04:00</created-at>
+                          <updater-id type="integer">10720</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <end-date nil="true"></end-date>
+                          <start-date nil="true"></start-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <updated-at type="datetime">2013-09-09T13:34:35-04:00</updated-at>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">25538</tree-id>
+                          <status nil="true"></status>
+                          <other-codes></other-codes>
+                          <node-type>Language</node-type>
+                          <id type="integer">1002075</id>
+                          <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <geography nil="true"></geography>
+                          <pri-name>Dafla</pri-name>
+                          <creator-id type="integer">10720</creator-id>
+                          <confidence>y</confidence>
+                          <sureness type="integer">0</sureness>
+                          <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                          <codes>njz</codes>
+                          <children type="array"/>
+                        </child>
+                      </children>
+                    </child>
+                    <child>
+                      <created-at type="datetime">2013-09-09T13:34:34-04:00</created-at>
+                      <updater-id type="integer">10720</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <end-date nil="true"></end-date>
+                      <start-date nil="true"></start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-09-09T13:34:34-04:00</updated-at>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">25538</tree-id>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type>Subgroup</node-type>
+                      <id type="integer">1002069</id>
+                      <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <geography nil="true"></geography>
+                      <pri-name>Kirantish</pri-name>
+                      <creator-id type="integer">10720</creator-id>
+                      <confidence>y</confidence>
+                      <sureness type="integer">0</sureness>
+                      <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                      <codes>maha</codes>
+                      <children type="array">
+                        <child>
+                          <created-at type="datetime">2013-09-09T13:34:35-04:00</created-at>
+                          <updater-id type="integer">10720</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <end-date nil="true"></end-date>
+                          <start-date nil="true"></start-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <updated-at type="datetime">2013-09-09T13:34:35-04:00</updated-at>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">25538</tree-id>
+                          <status nil="true"></status>
+                          <other-codes></other-codes>
+                          <node-type>Language</node-type>
+                          <id type="integer">1002071</id>
+                          <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <geography nil="true"></geography>
+                          <pri-name>Vayu</pri-name>
+                          <creator-id type="integer">10720</creator-id>
+                          <confidence>y</confidence>
+                          <sureness type="integer">0</sureness>
+                          <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                          <codes>vay</codes>
+                          <children type="array"/>
+                        </child>
+                        <child>
+                          <created-at type="datetime">2013-09-09T13:34:34-04:00</created-at>
+                          <updater-id type="integer">10720</updater-id>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <end-date nil="true"></end-date>
+                          <start-date nil="true"></start-date>
+                          <deleted-at nil="true"></deleted-at>
+                          <updated-at type="datetime">2013-09-09T13:34:35-04:00</updated-at>
+                          <alt-names></alt-names>
+                          <tree-id type="integer">25538</tree-id>
+                          <status nil="true"></status>
+                          <other-codes></other-codes>
+                          <node-type>Language</node-type>
+                          <id type="integer">1002070</id>
+                          <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <geography nil="true"></geography>
+                          <pri-name>Bahing</pri-name>
+                          <creator-id type="integer">10720</creator-id>
+                          <confidence>y</confidence>
+                          <sureness type="integer">0</sureness>
+                          <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                          <codes>bhj</codes>
+                          <children type="array"/>
+                        </child>
+                      </children>
+                    </child>
+                    <child>
+                      <created-at type="datetime">2013-09-09T13:34:34-04:00</created-at>
+                      <updater-id type="integer">10720</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <end-date nil="true"></end-date>
+                      <start-date nil="true"></start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-09-09T13:34:34-04:00</updated-at>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">25538</tree-id>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type>Subgroup</node-type>
+                      <id type="integer">1002068</id>
+                      <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <geography nil="true"></geography>
+                      <pri-name>Tibeto-Himalyish</pri-name>
+                      <creator-id type="integer">10720</creator-id>
+                      <confidence>y</confidence>
+                      <sureness type="integer">0</sureness>
+                      <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                      <codes>tika</codes>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <created-at type="datetime">2013-09-09T13:34:35-04:00</created-at>
+                  <updater-id type="integer">10720</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <end-date nil="true"></end-date>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-at type="datetime">2013-09-09T13:34:35-04:00</updated-at>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">25538</tree-id>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <node-type>Subgroup</node-type>
+                  <id type="integer">1002076</id>
+                  <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <geography nil="true"></geography>
+                  <pri-name>Baric</pri-name>
+                  <creator-id type="integer">10720</creator-id>
+                  <confidence>y</confidence>
+                  <sureness type="integer">0</sureness>
+                  <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                  <codes>bodg</codes>
+                  <children type="array">
+                    <child>
+                      <created-at type="datetime">2013-09-09T13:34:35-04:00</created-at>
+                      <updater-id type="integer">10720</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <end-date nil="true"></end-date>
+                      <start-date nil="true"></start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-09-09T13:34:35-04:00</updated-at>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">25538</tree-id>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type>Subgroup</node-type>
+                      <id type="integer">1002078</id>
+                      <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <geography nil="true"></geography>
+                      <pri-name>Garo</pri-name>
+                      <creator-id type="integer">10720</creator-id>
+                      <confidence>y</confidence>
+                      <sureness type="integer">0</sureness>
+                      <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                      <codes>baro</codes>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <created-at type="datetime">2013-09-09T13:34:35-04:00</created-at>
+                      <updater-id type="integer">10720</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <end-date nil="true"></end-date>
+                      <start-date nil="true"></start-date>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-09-09T13:34:35-04:00</updated-at>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">25538</tree-id>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type>Subgroup</node-type>
+                      <id type="integer">1002077</id>
+                      <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <geography nil="true"></geography>
+                      <pri-name>Bodo</pri-name>
+                      <creator-id type="integer">10720</creator-id>
+                      <confidence>y</confidence>
+                      <sureness type="integer">0</sureness>
+                      <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+                      <codes>bodo</codes>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+              </children>
+            </child>
+            <child>
+              <created-at type="datetime">2013-09-09T13:34:34-04:00</created-at>
+              <updater-id type="integer">10720</updater-id>
+              <pub-comments>Author notes that Karenic "may however have sprung from the Sinitic side" (Egerod 1991:207).</pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <end-date nil="true"></end-date>
+              <start-date nil="true"></start-date>
+              <deleted-at nil="true"></deleted-at>
+              <updated-at type="datetime">2013-09-09T13:34:34-04:00</updated-at>
+              <alt-names>Karenic</alt-names>
+              <tree-id type="integer">25538</tree-id>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <id type="integer">1002065</id>
+              <tree-val>Sino-Tibetan: Egerod 1991</tree-val>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pri-name>Karen</pri-name>
+              <creator-id type="integer">10720</creator-id>
+              <confidence>y</confidence>
+              <sureness type="integer">-1</sureness>
+              <publications>Egerod, S&#248;ren. 1991. Far Eastern Languages. In Sydney M. Lamb &amp; E. Douglas Mitchell (eds.), Sprung from Some Common Source, 205-231. Stanford, California: Stanford University Press. </publications>
+              <codes>kare</codes>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+      </children>
+    </root>
+    <description>Sino-Tibetan: Egerod 1991</description>
+  </tree>
+</hash>

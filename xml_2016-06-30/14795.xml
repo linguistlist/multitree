@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <updated-by>joe_leif</updated-by>
+      <sureness type="integer">0</sureness>
+      <pri-name>Coahuiltecan</pri-name>
+      <created-at type="datetime">2009-07-28T19:59:15-04:00</created-at>
+      <updater-id type="integer">10740</updater-id>
+      <id type="integer">588074</id>
+      <node-type-id type="integer">10000</node-type-id>
+      <confidence>y</confidence>
+      <start-date nil="true"></start-date>
+      <updated-at type="datetime">2009-07-28T19:59:15-04:00</updated-at>
+      <tree-val>Coahuiltecan: Dryer 2005</tree-val>
+      <status nil="true"></status>
+      <alt-names></alt-names>
+      <tree-id type="integer">14795</tree-id>
+      <node-status-id nil="true"></node-status-id>
+      <is-default type="integer">0</is-default>
+      <node-type>Subgroup</node-type>
+      <created-by>joe_leif</created-by>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 626. New York: Oxford University Press. ISBN 0199255911</publications>
+      <geography nil="true"></geography>
+      <deleted-at nil="true"></deleted-at>
+      <creator-id type="integer">10740</creator-id>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <end-date nil="true"></end-date>
+      <codes>coah</codes>
+      <children type="array">
+        <child>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <pri-name>Coahuiltecan</pri-name>
+          <created-at type="datetime">2009-07-28T19:59:15-04:00</created-at>
+          <updater-id type="integer">10740</updater-id>
+          <id type="integer">588075</id>
+          <node-type-id type="integer">10001</node-type-id>
+          <confidence>y</confidence>
+          <start-date nil="true"></start-date>
+          <updated-at type="datetime">2009-07-28T19:59:16-04:00</updated-at>
+          <tree-val>Coahuiltecan: Dryer 2005</tree-val>
+          <status nil="true"></status>
+          <alt-names></alt-names>
+          <tree-id type="integer">14795</tree-id>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <node-type>Language</node-type>
+          <created-by>joe_leif</created-by>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 626. New York: Oxford University Press. ISBN 0199255911</publications>
+          <geography>Country: Mexico; Lat.: 28; Long.: -100</geography>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <pub-comments></pub-comments>
+          <end-date nil="true"></end-date>
+          <codes>xcw</codes>
+          <children type="array"/>
+          <other-codes>coa</other-codes>
+        </child>
+      </children>
+      <other-codes></other-codes>
+    </root>
+    <description>Coahuiltecan: Dryer 2005</description>
+  </tree>
+</hash>

@@ -1,0 +1,1532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Pacific</region>
+    <root>
+      <sureness type="integer">0</sureness>
+      <other-codes></other-codes>
+      <end-date nil="true"></end-date>
+      <confidence>n</confidence>
+      <pub-comments></pub-comments>
+      <id type="integer">852031</id>
+      <pri-name>South-Central Papuan</pri-name>
+      <node-status-id nil="true"></node-status-id>
+      <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <updated-by>joe_leif</updated-by>
+      <status nil="true"></status>
+      <deleted-at nil="true"></deleted-at>
+      <creator-id type="integer">10740</creator-id>
+      <codes>scpa</codes>
+      <start-date nil="true"></start-date>
+      <geography>Papua New Guinea and Indonesia (Papua)</geography>
+      <children type="array">
+        <child>
+          <sureness type="integer">0</sureness>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <confidence>y</confidence>
+          <pub-comments></pub-comments>
+          <id type="integer">852068</id>
+          <pri-name>Pahoturi</pri-name>
+          <node-status-id nil="true"></node-status-id>
+          <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <codes>paho</codes>
+          <start-date nil="true"></start-date>
+          <geography>Papua New Guinea</geography>
+          <children type="array">
+            <child>
+              <sureness type="integer">0</sureness>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <pub-comments>"One end of a dialect chain stretching to Idi [idi]. Ende and Kawam most similar to Agob" (Ethnologue 2009).</pub-comments>
+              <id type="integer">852069</id>
+              <pri-name>Agob</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <codes>kit</codes>
+              <start-date nil="true"></start-date>
+              <geography>Papua New Guinea: Western Province, Pahoturi River area, and south coast.</geography>
+              <children type="array">
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <id type="integer">852072</id>
+                  <pri-name>Kawam</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>kit-kaw</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Papua New Guinea: Western Province, Pahoturi River area, and south coast.</geography>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:57-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:57-05:00</updated-at>
+                  <node-type>Dialect</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <id type="integer">852071</id>
+                  <pri-name>Ende</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>kit-end</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Papua New Guinea: Western Province, Pahoturi River area, and south coast.</geography>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:56-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:57-05:00</updated-at>
+                  <node-type>Dialect</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <id type="integer">852070</id>
+                  <pri-name>Agob</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>kit-ago</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Papua New Guinea: Western Province, Pahoturi River area, and south coast.</geography>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:56-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:56-05:00</updated-at>
+                  <node-type>Dialect</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+              </children>
+              <alt-names>Dabu</alt-names>
+              <node-type-id type="integer">10001</node-type-id>
+              <is-default type="integer">0</is-default>
+              <created-at type="datetime">2013-01-23T14:08:56-05:00</created-at>
+              <updated-at type="datetime">2013-01-23T14:08:56-05:00</updated-at>
+              <node-type>Language</node-type>
+              <tree-id type="integer">21271</tree-id>
+              <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+            </child>
+            <child>
+              <sureness type="integer">0</sureness>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <pub-comments>"One end of a dialect subgroup stretching to Agob" (Ethnologue 2009).</pub-comments>
+              <id type="integer">852073</id>
+              <pri-name>Idi</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <codes>idi</codes>
+              <start-date nil="true"></start-date>
+              <geography>Papua New Guinea: Western Province, northwest of Agob [kit], east of Nambo [ncm].</geography>
+              <children type="array">
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <id type="integer">852074</id>
+                  <pri-name>Tame</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>idi-tam</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Papua New Guinea: Western Province, northwest of Agob [kit], east of Nambo [ncm].</geography>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:57-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:57-05:00</updated-at>
+                  <node-type>Dialect</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <id type="integer">852075</id>
+                  <pri-name>Idi</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>idi-idi</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Papua New Guinea: Western Province, northwest of Agob [kit], east of Nambo [ncm].</geography>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:57-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:57-05:00</updated-at>
+                  <node-type>Dialect</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+              </children>
+              <alt-names>Diblaeg, Dimisi, Dimsisi, Tame</alt-names>
+              <node-type-id type="integer">10001</node-type-id>
+              <is-default type="integer">0</is-default>
+              <created-at type="datetime">2013-01-23T14:08:57-05:00</created-at>
+              <updated-at type="datetime">2013-01-23T14:08:57-05:00</updated-at>
+              <node-type>Language</node-type>
+              <tree-id type="integer">21271</tree-id>
+              <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+            </child>
+          </children>
+          <alt-names></alt-names>
+          <node-type-id type="integer">10000</node-type-id>
+          <is-default type="integer">0</is-default>
+          <created-at type="datetime">2013-01-23T14:08:56-05:00</created-at>
+          <updated-at type="datetime">2013-01-23T14:08:56-05:00</updated-at>
+          <node-type>Subgroup</node-type>
+          <tree-id type="integer">21271</tree-id>
+          <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+        </child>
+        <child>
+          <sureness type="integer">0</sureness>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <confidence>y</confidence>
+          <pub-comments></pub-comments>
+          <id type="integer">852032</id>
+          <pri-name>Morehead-Upper Maro</pri-name>
+          <node-status-id nil="true"></node-status-id>
+          <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <codes>mumr</codes>
+          <start-date nil="true"></start-date>
+          <geography>Papua New Guinea and Indonesia (Papua)</geography>
+          <children type="array">
+            <child>
+              <sureness type="integer">0</sureness>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <pub-comments></pub-comments>
+              <id type="integer">852042</id>
+              <pri-name>Tonda</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <codes>tond</codes>
+              <start-date nil="true"></start-date>
+              <geography>Papua New Guinea and Indonesia (Papua)</geography>
+              <children type="array">
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <id type="integer">852053</id>
+                  <pri-name>Kunja</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>pep</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Papua New Guinea: Western Province, extreme southwest.</geography>
+                  <children type="array">
+                    <child>
+                      <sureness type="integer">0</sureness>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                      <id type="integer">852055</id>
+                      <pri-name>Semariji</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>pep-sem</codes>
+                      <start-date nil="true"></start-date>
+                      <geography>Papua New Guinea: Western Province, extreme southwest.</geography>
+                      <children type="array"/>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2013-01-23T14:08:55-05:00</created-at>
+                      <updated-at type="datetime">2013-01-23T14:08:55-05:00</updated-at>
+                      <node-type>Dialect</node-type>
+                      <tree-id type="integer">21271</tree-id>
+                      <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                    </child>
+                    <child>
+                      <sureness type="integer">0</sureness>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                      <id type="integer">852054</id>
+                      <pri-name>Gambadi</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>pep-gam</codes>
+                      <start-date nil="true"></start-date>
+                      <geography>Papua New Guinea: Western Province, extreme southwest.</geography>
+                      <children type="array"/>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2013-01-23T14:08:55-05:00</created-at>
+                      <updated-at type="datetime">2013-01-23T14:08:55-05:00</updated-at>
+                      <node-type>Dialect</node-type>
+                      <tree-id type="integer">21271</tree-id>
+                      <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                    </child>
+                    <child>
+                      <sureness type="integer">0</sureness>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                      <id type="integer">852057</id>
+                      <pri-name>K&#225;m&#225;</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>pep-kam</codes>
+                      <start-date nil="true"></start-date>
+                      <geography>Papua New Guinea: Western Province, extreme southwest.</geography>
+                      <children type="array"/>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2013-01-23T14:08:55-05:00</created-at>
+                      <updated-at type="datetime">2013-01-23T14:08:55-05:00</updated-at>
+                      <node-type>Dialect</node-type>
+                      <tree-id type="integer">21271</tree-id>
+                      <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                    </child>
+                    <child>
+                      <sureness type="integer">0</sureness>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                      <id type="integer">852056</id>
+                      <pri-name>K&#225;nch&#225;</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>pep-kan</codes>
+                      <start-date nil="true"></start-date>
+                      <geography>Papua New Guinea: Western Province, extreme southwest.</geography>
+                      <children type="array"/>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2013-01-23T14:08:55-05:00</created-at>
+                      <updated-at type="datetime">2013-01-23T14:08:55-05:00</updated-at>
+                      <node-type>Dialect</node-type>
+                      <tree-id type="integer">21271</tree-id>
+                      <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                    </child>
+                  </children>
+                  <alt-names>Lower Morehead, Peremka, Thundai-Kanza</alt-names>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:55-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:55-05:00</updated-at>
+                  <node-type>Language</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments>"Has also been classified as Australian, Pama-Nyungan" (Ethnologue 2009).</pub-comments>
+                  <id type="integer">852050</id>
+                  <pri-name>Kanum, Ngk&#226;lmpw</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>kcd</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Indonesia (Papua): South coast border area, east of Merauke, southeast of Marind [mrz], north and west of Sm&#228;rky Kanum [kxq], Yanggandur, Tomer, Onggaya villages.</geography>
+                  <children type="array"/>
+                  <alt-names>Enkelembu, Kenume, Knwne</alt-names>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:55-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:55-05:00</updated-at>
+                  <node-type>Language</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <id type="integer">852059</id>
+                  <pri-name>W&#225;ra</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>tci</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Papua New Guinea: Western Province, Morehead District, villages immediately west of Morehead.</geography>
+                  <children type="array">
+                    <child>
+                      <sureness type="integer">0</sureness>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                      <id type="integer">852062</id>
+                      <pri-name>Anta</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>tci-ant</codes>
+                      <start-date nil="true"></start-date>
+                      <geography>Papua New Guinea: Western Province, Morehead District, villages immediately west of Morehead.</geography>
+                      <children type="array"/>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2013-01-23T14:08:56-05:00</created-at>
+                      <updated-at type="datetime">2013-01-23T14:08:56-05:00</updated-at>
+                      <node-type>Dialect</node-type>
+                      <tree-id type="integer">21271</tree-id>
+                      <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                    </child>
+                    <child>
+                      <sureness type="integer">0</sureness>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                      <id type="integer">852060</id>
+                      <pri-name>W&#225;ra</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>tci-war</codes>
+                      <start-date nil="true"></start-date>
+                      <geography>Papua New Guinea: Western Province, Morehead District, villages immediately west of Morehead.</geography>
+                      <children type="array"/>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2013-01-23T14:08:56-05:00</created-at>
+                      <updated-at type="datetime">2013-01-23T14:08:56-05:00</updated-at>
+                      <node-type>Dialect</node-type>
+                      <tree-id type="integer">21271</tree-id>
+                      <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                    </child>
+                    <child>
+                      <sureness type="integer">0</sureness>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                      <id type="integer">852061</id>
+                      <pri-name>K&#243;mnjo</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>tci-kom</codes>
+                      <start-date nil="true"></start-date>
+                      <geography>Papua New Guinea: Western Province, Morehead District, villages immediately west of Morehead.</geography>
+                      <children type="array"/>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2013-01-23T14:08:56-05:00</created-at>
+                      <updated-at type="datetime">2013-01-23T14:08:56-05:00</updated-at>
+                      <node-type>Dialect</node-type>
+                      <tree-id type="integer">21271</tree-id>
+                      <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                    </child>
+                    <child>
+                      <sureness type="integer">0</sureness>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                      <id type="integer">852063</id>
+                      <pri-name>W&#232;r&#233;</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>tci-wer</codes>
+                      <start-date nil="true"></start-date>
+                      <geography>Papua New Guinea: Western Province, Morehead District, villages immediately west of Morehead.</geography>
+                      <children type="array"/>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2013-01-23T14:08:56-05:00</created-at>
+                      <updated-at type="datetime">2013-01-23T14:08:56-05:00</updated-at>
+                      <node-type>Dialect</node-type>
+                      <tree-id type="integer">21271</tree-id>
+                      <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                    </child>
+                  </children>
+                  <alt-names>Ara, Kamindjo, Rouku, Tjokwai, Tokwasa, Upper Morehead, Vara, W&#228;r&#228;, Yumbar</alt-names>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:56-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:56-05:00</updated-at>
+                  <node-type>Language</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <id type="integer">852047</id>
+                  <pri-name>Guntai</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>gnt</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Papua New Guinea: Western Province, Morehead District.</geography>
+                  <children type="array">
+                    <child>
+                      <sureness type="integer">0</sureness>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                      <id type="integer">852048</id>
+                      <pri-name>Kan</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>gnt-kan</codes>
+                      <start-date nil="true"></start-date>
+                      <geography>Papua New Guinea: Western Province, Morehead District.</geography>
+                      <children type="array"/>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2013-01-23T14:08:55-05:00</created-at>
+                      <updated-at type="datetime">2013-01-23T14:08:55-05:00</updated-at>
+                      <node-type>Dialect</node-type>
+                      <tree-id type="integer">21271</tree-id>
+                      <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                    </child>
+                  </children>
+                  <alt-names></alt-names>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:55-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:55-05:00</updated-at>
+                  <node-type>Language</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments>"Has also been classified as Australian, Pama-Nyungan" (Ethnologue 2009).</pub-comments>
+                  <id type="integer">852051</id>
+                  <pri-name>Kanum, Sm&#228;rky</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>kxq</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Indonesia (Papua): South coast border area, east of Merauke, southeast of Marind [mrz] and the other Kanum language areas. Yanggandur, Tomer, Tomerau, Rawa Biru, and Kondo villages, bordering Papua New Guinea.</geography>
+                  <children type="array"/>
+                  <alt-names>Enkelembu, Kenume, Knwne</alt-names>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:55-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:55-05:00</updated-at>
+                  <node-type>Language</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <id type="integer">852044</id>
+                  <pri-name>Blafe</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>bfh</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Papua New Guinea: Western Province, west of Nambo language. Indorodoro town is center.</geography>
+                  <children type="array">
+                    <child>
+                      <sureness type="integer">0</sureness>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                      <id type="integer">852046</id>
+                      <pri-name>R&#225;nmo</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>bfh-ran</codes>
+                      <start-date nil="true"></start-date>
+                      <geography>Papua New Guinea: Western Province, west of Nambo language. Indorodoro town is center.</geography>
+                      <children type="array"/>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2013-01-23T14:08:54-05:00</created-at>
+                      <updated-at type="datetime">2013-01-23T14:08:55-05:00</updated-at>
+                      <node-type>Dialect</node-type>
+                      <tree-id type="integer">21271</tree-id>
+                      <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                    </child>
+                    <child>
+                      <sureness type="integer">0</sureness>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                      <id type="integer">852045</id>
+                      <pri-name>Mblafe</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>bfh-mbl</codes>
+                      <start-date nil="true"></start-date>
+                      <geography>Papua New Guinea: Western Province, west of Nambo language. Indorodoro town is center.</geography>
+                      <children type="array"/>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2013-01-23T14:08:54-05:00</created-at>
+                      <updated-at type="datetime">2013-01-23T14:08:54-05:00</updated-at>
+                      <node-type>Dialect</node-type>
+                      <tree-id type="integer">21271</tree-id>
+                      <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                    </child>
+                  </children>
+                  <alt-names>Indorodoro, Tonda</alt-names>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:54-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:54-05:00</updated-at>
+                  <node-type>Language</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments>"Has also been classified as Australian, Pama-Nyungan" (Ethnologue 2009).</pub-comments>
+                  <id type="integer">852049</id>
+                  <pri-name>Kanum, B&#228;di</pri-name>
+                  <node-status-id type="integer">10001</node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status>Nearly Extinct</status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>khd</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Indonesia (Papua): South coast border area, east of Merauke, southeast of Marind [mrz], north and west of Sm&#228;rky Kanum [kxq], Tomer and Onggaya villages.</geography>
+                  <children type="array"/>
+                  <alt-names>Enkelembu, Kenume, Knwne</alt-names>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:55-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:55-05:00</updated-at>
+                  <node-type>Language</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments>"Has also been classified as Australian, Pama-Nyungan" (Ethnologue 2009).</pub-comments>
+                  <id type="integer">852052</id>
+                  <pri-name>Kanum, Sota</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>krz</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Indonesia (Papua): South coast border area, east of Merauke, southeast of Marind [mrz], south of Yei [jei], Sota village.</geography>
+                  <children type="array"/>
+                  <alt-names>Enkelembu, Kenume, Knwne</alt-names>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:55-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:55-05:00</updated-at>
+                  <node-type>Language</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <id type="integer">852058</id>
+                  <pri-name>Rema</pri-name>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status>Extinct</status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>bow</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Papua New Guinea: Western Province, Morehead District.</geography>
+                  <children type="array"/>
+                  <alt-names>Bothar</alt-names>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:55-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:56-05:00</updated-at>
+                  <node-type>Language</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <id type="integer">852043</id>
+                  <pri-name>Arammba</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>stk</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Papua New Guinea: Western Province, Morehead SubProvince, southwest of Suki.</geography>
+                  <children type="array"/>
+                  <alt-names>Aramba, Serki, Serkisetavi, Upper Morehead</alt-names>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:54-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:54-05:00</updated-at>
+                  <node-type>Language</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+              </children>
+              <alt-names></alt-names>
+              <node-type-id type="integer">10000</node-type-id>
+              <is-default type="integer">0</is-default>
+              <created-at type="datetime">2013-01-23T14:08:54-05:00</created-at>
+              <updated-at type="datetime">2013-01-23T14:08:54-05:00</updated-at>
+              <node-type>Subgroup</node-type>
+              <tree-id type="integer">21271</tree-id>
+              <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+            </child>
+            <child>
+              <sureness type="integer">0</sureness>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <pub-comments></pub-comments>
+              <id type="integer">852033</id>
+              <pri-name>Nambu</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <codes>namq</codes>
+              <start-date nil="true"></start-date>
+              <geography>Papua New Guinea</geography>
+              <children type="array">
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <id type="integer">852041</id>
+                  <pri-name>Nen</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>nqn</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Papua New Guinea: Western Province, Morehead District, Bimadeben village, between Nambo [ncm] and Idi [idi].</geography>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:54-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:54-05:00</updated-at>
+                  <node-type>Language</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <id type="integer">852040</id>
+                  <pri-name>Neme</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>nex</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Papua New Guinea: Western Province, Morehead District, northeast of Morehead, Keru and Mitere villages.</geography>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:54-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:54-05:00</updated-at>
+                  <node-type>Language</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments>"Different from Mari [mbx] of East Sepik Province, and Mari [hob] of Madang Province" (Ethnologue 2009).</pub-comments>
+                  <id type="integer">852039</id>
+                  <pri-name>Namo</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>mxw</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Papua New Guinea: Western Province, Morehead District, south coast and inland, Mari and Tais villages.</geography>
+                  <children type="array"/>
+                  <alt-names>Dorro, Mari</alt-names>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:54-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:54-05:00</updated-at>
+                  <node-type>Language</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <id type="integer">852036</id>
+                  <pri-name>Nambo</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>ncm</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Papua New Guinea: Western Province, Morehead District, 4 villages (Arufe, Gubam, Bebdeben, Pongariki and Derideri) bordering Idi [idi] and Nen [nqn].</geography>
+                  <children type="array">
+                    <child>
+                      <sureness type="integer">0</sureness>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                      <id type="integer">852037</id>
+                      <pri-name>Nambo</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>ncm-nab</codes>
+                      <start-date nil="true"></start-date>
+                      <geography>Papua New Guinea: Western Province, Morehead District, 4 villages (Arufe, Gubam, Bebdeben, Pongariki and Derideri) bordering Idi [idi] and Nen [nqn].</geography>
+                      <children type="array"/>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2013-01-23T14:08:54-05:00</created-at>
+                      <updated-at type="datetime">2013-01-23T14:08:54-05:00</updated-at>
+                      <node-type>Dialect</node-type>
+                      <tree-id type="integer">21271</tree-id>
+                      <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                    </child>
+                    <child>
+                      <sureness type="integer">0</sureness>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                      <id type="integer">852038</id>
+                      <pri-name>Namna</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>ncm-nam</codes>
+                      <start-date nil="true"></start-date>
+                      <geography>Papua New Guinea: Western Province, Morehead District, 4 villages (Arufe, Gubam, Bebdeben, Pongariki and Derideri) bordering Idi [idi] and Nen [nqn].</geography>
+                      <children type="array"/>
+                      <alt-names>Nama</alt-names>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2013-01-23T14:08:54-05:00</created-at>
+                      <updated-at type="datetime">2013-01-23T14:08:54-05:00</updated-at>
+                      <node-type>Dialect</node-type>
+                      <tree-id type="integer">21271</tree-id>
+                      <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                    </child>
+                  </children>
+                  <alt-names>Arufe, Nambu, Namna</alt-names>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:54-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:54-05:00</updated-at>
+                  <node-type>Language</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <id type="integer">852034</id>
+                  <pri-name>Nama</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>nmx</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Papua New Guinea: Western Province, Morehead District, east of Morehead, Ngaraita, Mata and Daraia villages.</geography>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:54-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:54-05:00</updated-at>
+                  <node-type>Language</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <id type="integer">852035</id>
+                  <pri-name>Namat</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>nkm</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Papua New Guinea: Western Province, Morehead District, Mibini village south of Morehead.</geography>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:54-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:54-05:00</updated-at>
+                  <node-type>Language</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+              </children>
+              <alt-names></alt-names>
+              <node-type-id type="integer">10000</node-type-id>
+              <is-default type="integer">0</is-default>
+              <created-at type="datetime">2013-01-23T14:08:54-05:00</created-at>
+              <updated-at type="datetime">2013-01-23T14:08:54-05:00</updated-at>
+              <node-type>Subgroup</node-type>
+              <tree-id type="integer">21271</tree-id>
+              <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+            </child>
+            <child>
+              <sureness type="integer">0</sureness>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <pub-comments></pub-comments>
+              <id type="integer">852064</id>
+              <pri-name>Yey</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <codes>yeyy</codes>
+              <start-date nil="true"></start-date>
+              <geography>Indonesia (Papua)</geography>
+              <children type="array">
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <id type="integer">852065</id>
+                  <pri-name>Yei</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>jei</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Indonesia (Papua): South coast border area, east of Marind along Maro River. 6 villages.</geography>
+                  <children type="array">
+                    <child>
+                      <sureness type="integer">0</sureness>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                      <id type="integer">852067</id>
+                      <pri-name>Lower Yei</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>jei-low</codes>
+                      <start-date nil="true"></start-date>
+                      <geography>Indonesia (Papua): South coast border area, east of Marind along Maro River. 6 villages.</geography>
+                      <children type="array"/>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2013-01-23T14:08:56-05:00</created-at>
+                      <updated-at type="datetime">2013-01-23T14:08:56-05:00</updated-at>
+                      <node-type>Dialect</node-type>
+                      <tree-id type="integer">21271</tree-id>
+                      <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                    </child>
+                    <child>
+                      <sureness type="integer">0</sureness>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                      <id type="integer">852066</id>
+                      <pri-name>Upper Yei</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <status nil="true"></status>
+                      <deleted-at nil="true"></deleted-at>
+                      <creator-id type="integer">10740</creator-id>
+                      <codes>jei-upp</codes>
+                      <start-date nil="true"></start-date>
+                      <geography>Indonesia (Papua): South coast border area, east of Marind along Maro River. 6 villages.</geography>
+                      <children type="array"/>
+                      <alt-names></alt-names>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <is-default type="integer">0</is-default>
+                      <created-at type="datetime">2013-01-23T14:08:56-05:00</created-at>
+                      <updated-at type="datetime">2013-01-23T14:08:56-05:00</updated-at>
+                      <node-type>Dialect</node-type>
+                      <tree-id type="integer">21271</tree-id>
+                      <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                    </child>
+                  </children>
+                  <alt-names>Je, Jei, Yei-Nan, Yey</alt-names>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:56-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:56-05:00</updated-at>
+                  <node-type>Language</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+              </children>
+              <alt-names></alt-names>
+              <node-type-id type="integer">10000</node-type-id>
+              <is-default type="integer">0</is-default>
+              <created-at type="datetime">2013-01-23T14:08:56-05:00</created-at>
+              <updated-at type="datetime">2013-01-23T14:08:56-05:00</updated-at>
+              <node-type>Subgroup</node-type>
+              <tree-id type="integer">21271</tree-id>
+              <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+            </child>
+          </children>
+          <alt-names></alt-names>
+          <node-type-id type="integer">10000</node-type-id>
+          <is-default type="integer">0</is-default>
+          <created-at type="datetime">2013-01-23T14:08:53-05:00</created-at>
+          <updated-at type="datetime">2013-01-23T14:08:54-05:00</updated-at>
+          <node-type>Subgroup</node-type>
+          <tree-id type="integer">21271</tree-id>
+          <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+        </child>
+        <child>
+          <sureness type="integer">0</sureness>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <confidence>y</confidence>
+          <pub-comments></pub-comments>
+          <id type="integer">852080</id>
+          <pri-name>Yelmek-Maklew</pri-name>
+          <node-status-id nil="true"></node-status-id>
+          <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <codes>bulr</codes>
+          <start-date nil="true"></start-date>
+          <geography>Indonesia (Papua)</geography>
+          <children type="array">
+            <child>
+              <sureness type="integer">0</sureness>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <pub-comments></pub-comments>
+              <id type="integer">852081</id>
+              <pri-name>Maklew</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <codes>mgf</codes>
+              <start-date nil="true"></start-date>
+              <geography>Indonesia (Papua): South coast area, east side of Marianne strait, west of Marind [mrz] and east of Yelmek [jel] languages.</geography>
+              <children type="array"/>
+              <alt-names>Makleu</alt-names>
+              <node-type-id type="integer">10001</node-type-id>
+              <is-default type="integer">0</is-default>
+              <created-at type="datetime">2013-01-23T14:08:57-05:00</created-at>
+              <updated-at type="datetime">2013-01-23T14:08:57-05:00</updated-at>
+              <node-type>Language</node-type>
+              <tree-id type="integer">21271</tree-id>
+              <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+            </child>
+            <child>
+              <sureness type="integer">0</sureness>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <pub-comments></pub-comments>
+              <id type="integer">852082</id>
+              <pri-name>Yelmek</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <codes>jel</codes>
+              <start-date nil="true"></start-date>
+              <geography>Indonesia (Papua): South coast area, east side of Marianne Strait between Kolopom (Frederik Hendrik) Island and mainland.</geography>
+              <children type="array"/>
+              <alt-names>Jab, Jabsch, Jelmek, Jelmik</alt-names>
+              <node-type-id type="integer">10001</node-type-id>
+              <is-default type="integer">0</is-default>
+              <created-at type="datetime">2013-01-23T14:08:57-05:00</created-at>
+              <updated-at type="datetime">2013-01-23T14:08:57-05:00</updated-at>
+              <node-type>Language</node-type>
+              <tree-id type="integer">21271</tree-id>
+              <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+            </child>
+          </children>
+          <alt-names></alt-names>
+          <node-type-id type="integer">10000</node-type-id>
+          <is-default type="integer">0</is-default>
+          <created-at type="datetime">2013-01-23T14:08:57-05:00</created-at>
+          <updated-at type="datetime">2013-01-23T14:08:57-05:00</updated-at>
+          <node-type>Subgroup</node-type>
+          <tree-id type="integer">21271</tree-id>
+          <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+        </child>
+        <child>
+          <sureness type="integer">0</sureness>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <confidence>y</confidence>
+          <pub-comments></pub-comments>
+          <id type="integer">852076</id>
+          <pri-name>Waia</pri-name>
+          <node-status-id nil="true"></node-status-id>
+          <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <codes>waia</codes>
+          <start-date nil="true"></start-date>
+          <geography>Papua New Guinea</geography>
+          <children type="array">
+            <child>
+              <sureness type="integer">0</sureness>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <pub-comments></pub-comments>
+              <id type="integer">852077</id>
+              <pri-name>Tabo</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <status nil="true"></status>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <codes>knv</codes>
+              <start-date nil="true"></start-date>
+              <geography>Papua New Guinea: Western Province, lower Aramia River, Waya, Saiwase, Galu, Alagi villages; Bamu River, Alikinapi village; lower Fly River, Kenedibi, Urio, Wagumi-Sarau villages; Segero Creek, Segero village.</geography>
+              <children type="array">
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <id type="integer">852078</id>
+                  <pri-name>Aramia River</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>knv-ara</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Papua New Guinea: Western Province, lower Aramia River, Waya, Saiwase, Galu, Alagi villages; Bamu River, Alikinapi village; lower Fly River, Kenedibi, Urio, Wagumi-Sarau villages; Segero Creek, Segero village.</geography>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:57-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:57-05:00</updated-at>
+                  <node-type>Dialect</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                  <id type="integer">852079</id>
+                  <pri-name>Fly River</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>South-Central Papuan: Ethnologue 2009</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <codes>knv-fly</codes>
+                  <start-date nil="true"></start-date>
+                  <geography>Papua New Guinea: Western Province, lower Aramia River, Waya, Saiwase, Galu, Alagi villages; Bamu River, Alikinapi village; lower Fly River, Kenedibi, Urio, Wagumi-Sarau villages; Segero Creek, Segero village.</geography>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-at type="datetime">2013-01-23T14:08:57-05:00</created-at>
+                  <updated-at type="datetime">2013-01-23T14:08:57-05:00</updated-at>
+                  <node-type>Dialect</node-type>
+                  <tree-id type="integer">21271</tree-id>
+                  <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+                </child>
+              </children>
+              <alt-names>Waya</alt-names>
+              <node-type-id type="integer">10001</node-type-id>
+              <is-default type="integer">0</is-default>
+              <created-at type="datetime">2013-01-23T14:08:57-05:00</created-at>
+              <updated-at type="datetime">2013-01-23T14:08:57-05:00</updated-at>
+              <node-type>Language</node-type>
+              <tree-id type="integer">21271</tree-id>
+              <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+            </child>
+          </children>
+          <alt-names></alt-names>
+          <node-type-id type="integer">10000</node-type-id>
+          <is-default type="integer">0</is-default>
+          <created-at type="datetime">2013-01-23T14:08:57-05:00</created-at>
+          <updated-at type="datetime">2013-01-23T14:08:57-05:00</updated-at>
+          <node-type>Subgroup</node-type>
+          <tree-id type="integer">21271</tree-id>
+          <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+        </child>
+      </children>
+      <alt-names></alt-names>
+      <node-type-id type="integer">10000</node-type-id>
+      <is-default type="integer">0</is-default>
+      <created-at type="datetime">2013-01-23T14:08:53-05:00</created-at>
+      <updated-at type="datetime">2013-01-23T14:08:53-05:00</updated-at>
+      <node-type>Subgroup</node-type>
+      <tree-id type="integer">21271</tree-id>
+      <publications>Lewis, M. Paul (ed.). 2009. Ethnologue: Languages of the World, 16 edn. http://www.ethnologue.com/home.asp.  (15 February, 2011.)</publications>
+    </root>
+    <description>South-Central Papuan: Ethnologue 2009</description>
+  </tree>
+</hash>

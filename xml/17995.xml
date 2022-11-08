@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Australia</region>
+    <description>Nyulnyulan: McGregor and Stokes 2003</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2010-07-09T10:00:15-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+      <pub-comments>&quot;The term Nyulnyulan refers to a small cluster of non-pama-Nyungan languages technically spoken on the Dampier Land peninsula and neighbouring regions in the Kimberley mainland, in the far north-west of Western Australia&#8230; It consists of around 10 languages, half of which come in two or more dialectal variants&quot; (McGregor and Stokes 2003: 29). &quot;This classification is somewhat tentative in terms of details, though we are relatively confident of the validity of the main picture. The placement of Ngumbarl is the least certain aspect of the tree: information is severely restricted - in all, only about fifty lexical items are known, and grammatical information is virtually non-existent&quot; (McGregor and Stokes 2003: 31).</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2010-07-09T10:00:15-04:00</updated-at>
+      <pri-name>Nyulnyulan</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">-1</sureness>
+      <id type="integer">715314</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography>Kimberly</geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">17995</tree-id>
+      <codes>nyul</codes>
+      <status nil="true"></status>
+      <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-07-09T10:00:16-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+          <pub-comments>&quot;Based on their relative location, the two groups might be better labelled Northern and Southern. Our use of the terms Western and Eastern is based on the way that, in our experience, Dampier Land people tend to view the location of the language: the former group is associated with costal people who are predominantly located to the west; the latter group is considered to be inland, and hence located in the east&quot; (McGregor and Stokes 2003: 31).</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-07-09T10:00:16-04:00</updated-at>
+          <pri-name>Western Nyulnyulan</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">715327</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">17995</tree-id>
+          <codes>wnyu</codes>
+          <status nil="true"></status>
+          <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-07-09T10:00:16-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2010-07-09T10:00:16-04:00</updated-at>
+              <pri-name>Nyulnyulic</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">715328</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">17995</tree-id>
+              <codes>nylc</codes>
+              <status nil="true"></status>
+              <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2010-07-09T10:00:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2010-07-09T10:00:16-04:00</updated-at>
+                  <pri-name>Nyulnyul</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">715331</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">17995</tree-id>
+                  <codes>nyv</codes>
+                  <status nil="true"></status>
+                  <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2010-07-09T10:00:16-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2010-07-09T10:00:16-04:00</updated-at>
+                      <pri-name>Inland Nyulnyul</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">715333</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">17995</tree-id>
+                      <codes>nyv-inl</codes>
+                      <status nil="true"></status>
+                      <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2010-07-09T10:00:16-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2010-07-09T10:00:16-04:00</updated-at>
+                      <pri-name>Coastal Nyulnyul</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">715332</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names>Beagle Bay Nyulnyul, Yowera</alt-names>
+                      <tree-id type="integer">17995</tree-id>
+                      <codes>nyv-coa</codes>
+                      <status nil="true"></status>
+                      <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2010-07-09T10:00:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2010-07-09T10:00:16-04:00</updated-at>
+                  <pri-name>Jabirrjabirr</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">715334</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">17995</tree-id>
+                  <codes>dyb</codes>
+                  <status nil="true"></status>
+                  <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2010-07-09T10:00:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2010-07-09T10:00:16-04:00</updated-at>
+                  <pri-name>Nimanburru</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">715330</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">17995</tree-id>
+                  <codes>nmp</codes>
+                  <status nil="true"></status>
+                  <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2010-07-09T10:00:16-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+                  <pub-comments>&quot;The placement of Ngumbarl is the least certain aspect of the tree: information is severely restricted - in all, only about fifty lexical items are known, and grammatical information is virtually non-existent&quot; (McGregor and Stokes 2003: 31).</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2010-07-09T10:00:16-04:00</updated-at>
+                  <pri-name>Ngumbarl</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">-1</sureness>
+                  <id type="integer">715329</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">17995</tree-id>
+                  <codes>08s</codes>
+                  <status nil="true"></status>
+                  <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-07-09T10:00:16-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2010-07-09T10:00:17-04:00</updated-at>
+              <pri-name>Bardic</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">715335</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">17995</tree-id>
+              <codes>bard</codes>
+              <status nil="true"></status>
+              <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2010-07-09T10:00:17-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2011-02-25T14:41:06-05:00</updated-at>
+                  <pri-name>Jawi</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">715339</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">17995</tree-id>
+                  <codes>djw, bcj-jaw</codes>
+                  <status nil="true"></status>
+                  <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2010-07-09T10:00:17-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2010-07-09T10:00:17-04:00</updated-at>
+                  <pri-name>Bardi</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">715336</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">17995</tree-id>
+                  <codes>bcj, bcj-bar</codes>
+                  <status nil="true"></status>
+                  <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2010-07-09T10:00:17-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2010-07-09T10:00:17-04:00</updated-at>
+                      <pri-name>Mainland Bardi</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">715337</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">17995</tree-id>
+                      <codes>bcj-mai</codes>
+                      <status nil="true"></status>
+                      <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2010-07-09T10:00:17-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2010-07-09T10:00:17-04:00</updated-at>
+                      <pri-name>Island Bardi</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">715338</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">17995</tree-id>
+                      <codes>bcj-isl</codes>
+                      <status nil="true"></status>
+                      <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-07-09T10:00:15-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+          <pub-comments>&quot;Based on their relative location, the two groups might be better labelled Northern and Southern. Our use of the terms Western and Eastern is based on the way that, in our experience, Dampier Land people tend to view the location of the language: the former group is associated with costal people who are predominantly located to the west; the latter group is considered to be inland, and hence located in the east&quot; (McGregor and Stokes 2003: 31).</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-07-09T10:00:15-04:00</updated-at>
+          <pri-name>Eastern Nyulnyulan</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">715315</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">17995</tree-id>
+          <codes>enyu</codes>
+          <status nil="true"></status>
+          <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-07-09T10:00:15-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2010-07-09T10:00:15-04:00</updated-at>
+              <pri-name>Yawuric</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">715321</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">17995</tree-id>
+              <codes>yawu</codes>
+              <status nil="true"></status>
+              <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2010-07-09T10:00:16-04:00</created-at>
+                  <confidence>n</confidence>
+                  <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+                  <pub-comments>Jukun is listed both as a dialect of Yawuru and a language within the Yawuric subgroup. &quot;Although Jukun is often treated as a separate language (Bates (n.d.), Nekes and Worms (1953), and McGregor (1988a)), it is, according to Hosokawa (1991:5), a dialect of Yawuru, spoken by three local groups, Kukun, Minyirr and Walman. Nekes and Worms (1953:499) agree that it is 'closely related to Yaoro'&quot; (McGregor and Stokes 2003: 30).</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2010-07-09T10:00:16-04:00</updated-at>
+                  <pri-name>Jukun</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">-1</sureness>
+                  <id type="integer">715326</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">17995</tree-id>
+                  <codes>dyd</codes>
+                  <status nil="true"></status>
+                  <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2010-07-09T10:00:15-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2010-07-09T10:00:15-04:00</updated-at>
+                  <pri-name>Yawuru</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">715322</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>Yaoro</alt-names>
+                  <tree-id type="integer">17995</tree-id>
+                  <codes>ywr</codes>
+                  <status nil="true"></status>
+                  <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2010-07-09T10:00:15-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2011-02-25T15:23:26-05:00</updated-at>
+                      <pri-name>Marangan</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">715324</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names>Eastern Inland Yawuru</alt-names>
+                      <tree-id type="integer">17995</tree-id>
+                      <codes>ywr-eas</codes>
+                      <status nil="true"></status>
+                      <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2010-07-09T10:00:16-04:00</created-at>
+                      <confidence>n</confidence>
+                      <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+                      <pub-comments>Jukun is listed both as a dialect of Yawuru and a language within the Yawuric subgroup. &quot;Although Jukun is often treated as a separate language (Bates (n.d.), Nekes and Worms (1953), and McGregor (1988a)), it is, according to Hosokawa (1991:5), a dialect of Yawuru, spoken by three local groups, Kukun, Minyirr and Walman. Nekes and Worms (1953:499) agree that it is 'closely related to Yaoro'&quot; (McGregor and Stokes 2003: 30).</pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2010-07-09T10:00:16-04:00</updated-at>
+                      <pri-name>Jukun</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">-1</sureness>
+                      <id type="integer">715325</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">17995</tree-id>
+                      <codes>ywr-juk</codes>
+                      <status nil="true"></status>
+                      <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2010-07-09T10:00:15-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2011-02-25T15:24:23-05:00</updated-at>
+                      <pri-name>Julbayi</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">715323</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names>Southern Coastal Yawuru</alt-names>
+                      <tree-id type="integer">17995</tree-id>
+                      <codes>ywr-sou</codes>
+                      <status nil="true"></status>
+                      <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-07-09T10:00:15-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2010-07-09T10:00:15-04:00</updated-at>
+              <pri-name>Nykinic</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">715316</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">17995</tree-id>
+              <codes>nyki</codes>
+              <status nil="true"></status>
+              <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2010-07-09T10:00:15-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2010-07-09T10:00:15-04:00</updated-at>
+                  <pri-name>Nyikina</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">715318</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">17995</tree-id>
+                  <codes>nyh</codes>
+                  <status nil="true"></status>
+                  <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array">
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2010-07-09T10:00:15-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2010-07-09T10:00:15-04:00</updated-at>
+                      <pri-name>Small Nyikina</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">715320</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">17995</tree-id>
+                      <codes>nyh-sma</codes>
+                      <status nil="true"></status>
+                      <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                    <child>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <created-at type="datetime">2010-07-09T10:00:15-04:00</created-at>
+                      <confidence>y</confidence>
+                      <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <updated-at type="datetime">2010-07-09T10:00:15-04:00</updated-at>
+                      <pri-name>Big Nyikina</pri-name>
+                      <node-type>Dialect</node-type>
+                      <is-default type="boolean">false</is-default>
+                      <deleted-at nil="true"></deleted-at>
+                      <sureness type="integer">0</sureness>
+                      <id type="integer">715319</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <updater-id type="integer">10740</updater-id>
+                      <geography nil="true"></geography>
+                      <updated-by>joe_leif</updated-by>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">17995</tree-id>
+                      <codes>nyh-big</codes>
+                      <status nil="true"></status>
+                      <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+                      <end-date nil="true"></end-date>
+                      <children type="array"/>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <created-at type="datetime">2010-07-09T10:00:15-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Nyulnyulan: McGregor and Stokes 2003</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2010-07-09T10:00:15-04:00</updated-at>
+                  <pri-name>Warrwa</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">715317</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography nil="true"></geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">17995</tree-id>
+                  <codes>wwr</codes>
+                  <status nil="true"></status>
+                  <publications>McGregor, William B &amp; Bronwyn  Stokes. 2003. Classification and Subclassification of the Nyulnyulan Languages. In Nicholas  Evans (ed.), The Non-Pama-Nyungan Languages of Northern Australia: Comparative Studies of the Continent's Most Linguistically Complex Region, 29-74. Canberra: Pacific Linguistics. ISBN 085883538</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

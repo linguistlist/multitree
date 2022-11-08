@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <description>Tonikan: Powell 1891</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2009-07-27T15:10:44-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Tonikan: Powell 1891</tree-val>
+      <pub-comments>Positive linguistic proof of this family's classification was not present until the author's contemporary Gatschet declared it an isolate.</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2009-07-27T15:10:45-04:00</updated-at>
+      <pri-name>Tonikan</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">560914</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography>Spoken in the Lower Yazoo River, east shore of the Mississippi, and in Louisiana</geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">14559</tree-id>
+      <codes>tuni</codes>
+      <status nil="true"></status>
+      <publications>Powell, J. W. 1891. Indian Linguistic Families of America North of Mexico, 1-142. Washington D.C.: Government Printing Office. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2009-07-27T15:10:45-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Tonikan: Powell 1891</tree-val>
+          <pub-comments>Speakers: 25</pub-comments>
+          <node-status-id type="integer">10001</node-status-id>
+          <updated-at type="datetime">2009-07-27T15:10:45-04:00</updated-at>
+          <pri-name>Tonika</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">560915</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">14559</tree-id>
+          <codes>tun</codes>
+          <status>Nearly Extinct</status>
+          <publications>Powell, J. W. 1891. Indian Linguistic Families of America North of Mexico, 1-142. Washington D.C.: Government Printing Office. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Pacific</region>
+    <root>
+      <node-type-id type="integer">10000</node-type-id>
+      <id type="integer">871387</id>
+      <geography>all languages spoken in the Amanab sub-district of the Sepik district, Papua New Guinea</geography>
+      <deleted-at nil="true"></deleted-at>
+      <confidence>y</confidence>
+      <pub-comments></pub-comments>
+      <node-type>Subgroup</node-type>
+      <created-at type="datetime">2013-05-29T11:46:36-04:00</created-at>
+      <codes>kwba</codes>
+      <is-default type="integer">0</is-default>
+      <updated-by>joe_leif</updated-by>
+      <start-date nil="true"></start-date>
+      <node-status-id nil="true"></node-status-id>
+      <children type="array">
+        <child>
+          <node-type-id type="integer">10000</node-type-id>
+          <id type="integer">871388</id>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <pub-comments></pub-comments>
+          <node-type>Subgroup</node-type>
+          <created-at type="datetime">2013-05-29T11:46:36-04:00</created-at>
+          <codes>kwfa</codes>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+          <node-status-id nil="true"></node-status-id>
+          <children type="array">
+            <child>
+              <node-type-id type="integer">10001</node-type-id>
+              <id type="integer">871389</id>
+              <geography>also spoken in two villages of Mango and Kwomtari of the Kwomtari West Census Division, as do most villages of the Kwomtari East Census Division, and in the Wagroni village of the Nagu Census Division</geography>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <pub-comments>Population: 782.</pub-comments>
+              <node-type>Language</node-type>
+              <created-at type="datetime">2013-05-29T11:46:36-04:00</created-at>
+              <codes>kwo</codes>
+              <is-default type="integer">0</is-default>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <node-status-id nil="true"></node-status-id>
+              <children type="array">
+                <child>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <id type="integer">871390</id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <pub-comments>"There are slight dialectal changes between the central and western villages in this language.  Informants have indicated that a marked change occurs between the northern villages of Ekos, Yenabi, and Maragin" (Loving 1964:2).</pub-comments>
+                  <node-type>Dialect</node-type>
+                  <created-at type="datetime">2013-05-29T11:46:36-04:00</created-at>
+                  <codes>kwo-wes</codes>
+                  <is-default type="integer">0</is-default>
+                  <updated-by>joe_leif</updated-by>
+                  <start-date nil="true"></start-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <children type="array"/>
+                  <updater-id type="integer">10740</updater-id>
+                  <tree-val>Kwomtari: Loving 1964</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <end-date nil="true"></end-date>
+                  <publications>Bass, Jack  &amp; Richard  Loving. 1964. Languages of the Amanab Sub-district, 8. Port Moresby: The Department of Information and Extension Services. </publications>
+                  <other-codes></other-codes>
+                  <creator-id type="integer">10740</creator-id>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2013-05-29T11:46:36-04:00</updated-at>
+                  <status nil="true"></status>
+                  <tree-id type="integer">22070</tree-id>
+                  <created-by>joe_leif</created-by>
+                  <pri-name>Central Western</pri-name>
+                </child>
+                <child>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <id type="integer">871391</id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <pub-comments>"There are slight dialectal changes between the central and western villages in this language.  Informants have indicated that a marked change occurs between the northern villages of Ekos, Yenabi, and Maragin" (Loving 1964:2).</pub-comments>
+                  <node-type>Dialect</node-type>
+                  <created-at type="datetime">2013-05-29T11:46:36-04:00</created-at>
+                  <codes>kwo-eko</codes>
+                  <is-default type="integer">0</is-default>
+                  <updated-by>joe_leif</updated-by>
+                  <start-date nil="true"></start-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <children type="array"/>
+                  <updater-id type="integer">10740</updater-id>
+                  <tree-val>Kwomtari: Loving 1964</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <end-date nil="true"></end-date>
+                  <publications>Bass, Jack  &amp; Richard  Loving. 1964. Languages of the Amanab Sub-district, 8. Port Moresby: The Department of Information and Extension Services. </publications>
+                  <other-codes></other-codes>
+                  <creator-id type="integer">10740</creator-id>
+                  <alt-names>Northern</alt-names>
+                  <updated-at type="datetime">2013-05-29T11:46:37-04:00</updated-at>
+                  <status nil="true"></status>
+                  <tree-id type="integer">22070</tree-id>
+                  <created-by>joe_leif</created-by>
+                  <pri-name>Ekos-Yenabi-Maragin</pri-name>
+                </child>
+              </children>
+              <updater-id type="integer">10740</updater-id>
+              <tree-val>Kwomtari: Loving 1964</tree-val>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <publications>Bass, Jack  &amp; Richard  Loving. 1964. Languages of the Amanab Sub-district, 8. Port Moresby: The Department of Information and Extension Services. </publications>
+              <other-codes></other-codes>
+              <creator-id type="integer">10740</creator-id>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2013-05-29T11:46:36-04:00</updated-at>
+              <status nil="true"></status>
+              <tree-id type="integer">22070</tree-id>
+              <created-by>joe_leif</created-by>
+              <pri-name>Kwomtari</pri-name>
+            </child>
+            <child>
+              <node-type-id type="integer">10001</node-type-id>
+              <id type="integer">871392</id>
+              <geography>also spoken in Biaka, Konabasi, and Amini in the Nai-Faringi Census Division</geography>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <pub-comments>Population: 401.</pub-comments>
+              <node-type>Language</node-type>
+              <created-at type="datetime">2013-05-29T11:46:37-04:00</created-at>
+              <codes>bio</codes>
+              <is-default type="integer">0</is-default>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <node-status-id nil="true"></node-status-id>
+              <children type="array"/>
+              <updater-id type="integer">10740</updater-id>
+              <tree-val>Kwomtari: Loving 1964</tree-val>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <publications>Bass, Jack  &amp; Richard  Loving. 1964. Languages of the Amanab Sub-district, 8. Port Moresby: The Department of Information and Extension Services. </publications>
+              <other-codes></other-codes>
+              <creator-id type="integer">10740</creator-id>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2013-05-29T11:46:37-04:00</updated-at>
+              <status nil="true"></status>
+              <tree-id type="integer">22070</tree-id>
+              <created-by>joe_leif</created-by>
+              <pri-name>Biaka</pri-name>
+            </child>
+          </children>
+          <updater-id type="integer">10740</updater-id>
+          <tree-val>Kwomtari: Loving 1964</tree-val>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <publications>Bass, Jack  &amp; Richard  Loving. 1964. Languages of the Amanab Sub-district, 8. Port Moresby: The Department of Information and Extension Services. </publications>
+          <other-codes></other-codes>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2013-05-29T11:46:36-04:00</updated-at>
+          <status nil="true"></status>
+          <tree-id type="integer">22070</tree-id>
+          <created-by>joe_leif</created-by>
+          <pri-name>Kwomtari Family</pri-name>
+        </child>
+        <child>
+          <node-type-id type="integer">10000</node-type-id>
+          <id type="integer">871393</id>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <pub-comments></pub-comments>
+          <node-type>Subgroup</node-type>
+          <created-at type="datetime">2013-05-29T11:46:37-04:00</created-at>
+          <codes>faas</codes>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+          <node-status-id nil="true"></node-status-id>
+          <children type="array">
+            <child>
+              <node-type-id type="integer">10001</node-type-id>
+              <id type="integer">871395</id>
+              <geography>also spoken in the four villages of Baibai, Itomi, Piemi, and Yebtibi of the Kwomtari West Census Division</geography>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <pub-comments>"Note that Baibai has 14% cognates with Kwomtari and 13% cognates with Fas.  However, since Baibai has only 6% cognates with Biaka It cannot be assigned to the same language stock as Kwomtari which has more cognates (30% versus 13%) with Biaka than Baibai; hence Baibai is assigned to the same language stock as Fas even though it has a lower percentage of cognates" (Loving 1964:3).  Population: 313.</pub-comments>
+              <node-type>Language</node-type>
+              <created-at type="datetime">2013-05-29T11:46:37-04:00</created-at>
+              <codes>bbf</codes>
+              <is-default type="integer">0</is-default>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <node-status-id nil="true"></node-status-id>
+              <children type="array"/>
+              <updater-id type="integer">10740</updater-id>
+              <tree-val>Kwomtari: Loving 1964</tree-val>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <publications>Bass, Jack  &amp; Richard  Loving. 1964. Languages of the Amanab Sub-district, 8. Port Moresby: The Department of Information and Extension Services. </publications>
+              <other-codes></other-codes>
+              <creator-id type="integer">10740</creator-id>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2013-05-29T11:46:37-04:00</updated-at>
+              <status nil="true"></status>
+              <tree-id type="integer">22070</tree-id>
+              <created-by>joe_leif</created-by>
+              <pri-name>Baibai</pri-name>
+            </child>
+            <child>
+              <node-type-id type="integer">10001</node-type-id>
+              <id type="integer">871394</id>
+              <geography>also spoken in the three villages of Utai, Finamoi, and Aiamina of the Kwomtari East Census Division; extends across the sub-district boundary into both the Aitape and Lumi sub-districts</geography>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <pub-comments>Population: 866.</pub-comments>
+              <node-type>Language</node-type>
+              <created-at type="datetime">2013-05-29T11:46:37-04:00</created-at>
+              <codes>fqs</codes>
+              <is-default type="integer">0</is-default>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <node-status-id nil="true"></node-status-id>
+              <children type="array"/>
+              <updater-id type="integer">10740</updater-id>
+              <tree-val>Kwomtari: Loving 1964</tree-val>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <publications>Bass, Jack  &amp; Richard  Loving. 1964. Languages of the Amanab Sub-district, 8. Port Moresby: The Department of Information and Extension Services. </publications>
+              <other-codes></other-codes>
+              <creator-id type="integer">10740</creator-id>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2013-05-29T11:46:37-04:00</updated-at>
+              <status nil="true"></status>
+              <tree-id type="integer">22070</tree-id>
+              <created-by>joe_leif</created-by>
+              <pri-name>Fas</pri-name>
+            </child>
+          </children>
+          <updater-id type="integer">10740</updater-id>
+          <tree-val>Kwomtari: Loving 1964</tree-val>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <publications>Bass, Jack  &amp; Richard  Loving. 1964. Languages of the Amanab Sub-district, 8. Port Moresby: The Department of Information and Extension Services. </publications>
+          <other-codes></other-codes>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2013-05-29T11:46:37-04:00</updated-at>
+          <status nil="true"></status>
+          <tree-id type="integer">22070</tree-id>
+          <created-by>joe_leif</created-by>
+          <pri-name>Fas Stock</pri-name>
+        </child>
+      </children>
+      <updater-id type="integer">10740</updater-id>
+      <tree-val>Kwomtari: Loving 1964</tree-val>
+      <sureness type="integer">0</sureness>
+      <end-date nil="true"></end-date>
+      <publications>Bass, Jack  &amp; Richard  Loving. 1964. Languages of the Amanab Sub-district, 8. Port Moresby: The Department of Information and Extension Services. </publications>
+      <other-codes></other-codes>
+      <creator-id type="integer">10740</creator-id>
+      <alt-names></alt-names>
+      <updated-at type="datetime">2013-05-29T11:46:36-04:00</updated-at>
+      <status nil="true"></status>
+      <tree-id type="integer">22070</tree-id>
+      <created-by>joe_leif</created-by>
+      <pri-name>Kwomtari Phylum</pri-name>
+    </root>
+    <description>Kwomtari: Loving 1964</description>
+  </tree>
+</hash>

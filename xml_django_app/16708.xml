@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <start-date nil="true"></start-date>
+      <deleted-at nil="true"></deleted-at>
+      <node-type-id type="integer">10000</node-type-id>
+      <confidence>y</confidence>
+      <updated-at type="datetime">2010-02-19T16:34:29-05:00</updated-at>
+      <tree-id type="integer">16708</tree-id>
+      <sureness type="integer">0</sureness>
+      <status nil="true"></status>
+      <pub-comments></pub-comments>
+      <pri-name>Eskimo-Aleut</pri-name>
+      <updater-id type="integer">10740</updater-id>
+      <other-codes></other-codes>
+      <is-default type="integer">0</is-default>
+      <id type="integer">683363</id>
+      <end-date nil="true"></end-date>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <deleted-at nil="true"></deleted-at>
+          <node-type-id type="integer">10000</node-type-id>
+          <confidence>y</confidence>
+          <updated-at type="datetime">2010-02-19T16:34:29-05:00</updated-at>
+          <tree-id type="integer">16708</tree-id>
+          <sureness type="integer">0</sureness>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <pri-name>Eskimoan</pri-name>
+          <updater-id type="integer">10740</updater-id>
+          <other-codes></other-codes>
+          <is-default type="integer">0</is-default>
+          <id type="integer">683364</id>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <deleted-at nil="true"></deleted-at>
+              <node-type-id type="integer">10000</node-type-id>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2010-02-19T16:34:29-05:00</updated-at>
+              <tree-id type="integer">16708</tree-id>
+              <sureness type="integer">0</sureness>
+              <status nil="true"></status>
+              <pub-comments></pub-comments>
+              <pri-name>Western Eskimo</pri-name>
+              <updater-id type="integer">10740</updater-id>
+              <other-codes></other-codes>
+              <is-default type="integer">0</is-default>
+              <id type="integer">683365</id>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2010-02-19T16:34:29-05:00</updated-at>
+                  <tree-id type="integer">16708</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <pri-name>Pacific Yupik</pri-name>
+                  <updater-id type="integer">10740</updater-id>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">683370</id>
+                  <end-date nil="true"></end-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <children type="array"/>
+                  <alt-names>Alutiiq</alt-names>
+                  <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 7. London, New York: Routledge. </publications>
+                  <geography nil="true"></geography>
+                  <codes>ems</codes>
+                  <tree-val>Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007</tree-val>
+                  <node-type>Language</node-type>
+                  <created-at type="datetime">2010-02-19T16:34:29-05:00</created-at>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2010-02-19T16:34:29-05:00</updated-at>
+                  <tree-id type="integer">16708</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <pri-name>East Cape Yupik</pri-name>
+                  <updater-id type="integer">10740</updater-id>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">683367</id>
+                  <end-date nil="true"></end-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <children type="array"/>
+                  <alt-names>Naukan Yupik</alt-names>
+                  <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 7. London, New York: Routledge. </publications>
+                  <geography nil="true"></geography>
+                  <codes>ynk</codes>
+                  <tree-val>Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007</tree-val>
+                  <node-type>Language</node-type>
+                  <created-at type="datetime">2010-02-19T16:34:29-05:00</created-at>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2010-02-19T16:34:29-05:00</updated-at>
+                  <tree-id type="integer">16708</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <status>Extinct</status>
+                  <pub-comments>Became extinct after 1930 (pg. 7).</pub-comments>
+                  <pri-name>Sirenik</pri-name>
+                  <updater-id type="integer">10740</updater-id>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">683366</id>
+                  <end-date nil="true"></end-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 7. London, New York: Routledge. </publications>
+                  <geography nil="true"></geography>
+                  <codes>ysr</codes>
+                  <tree-val>Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007</tree-val>
+                  <node-type>Language</node-type>
+                  <created-at type="datetime">2010-02-19T16:34:29-05:00</created-at>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id type="integer">10000</node-status-id>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2010-02-19T16:34:29-05:00</updated-at>
+                  <tree-id type="integer">16708</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <pri-name>Central Siberian Yupik</pri-name>
+                  <updater-id type="integer">10740</updater-id>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">683368</id>
+                  <end-date nil="true"></end-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 7. London, New York: Routledge. </publications>
+                  <geography nil="true"></geography>
+                  <codes>ess</codes>
+                  <tree-val>Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007</tree-val>
+                  <node-type>Language</node-type>
+                  <created-at type="datetime">2010-02-19T16:34:29-05:00</created-at>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2010-02-19T16:34:29-05:00</updated-at>
+                  <tree-id type="integer">16708</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <pri-name>Central Alaskan Yup'ik</pri-name>
+                  <updater-id type="integer">10740</updater-id>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">683369</id>
+                  <end-date nil="true"></end-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 7. London, New York: Routledge. </publications>
+                  <geography nil="true"></geography>
+                  <codes>esu</codes>
+                  <tree-val>Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007</tree-val>
+                  <node-type>Language</node-type>
+                  <created-at type="datetime">2010-02-19T16:34:29-05:00</created-at>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+              </children>
+              <alt-names>Yupik</alt-names>
+              <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 7. London, New York: Routledge. </publications>
+              <geography nil="true"></geography>
+              <codes>yupi</codes>
+              <tree-val>Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007</tree-val>
+              <node-type>Subgroup</node-type>
+              <created-at type="datetime">2010-02-19T16:34:29-05:00</created-at>
+              <updated-by>joe_leif</updated-by>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <deleted-at nil="true"></deleted-at>
+              <node-type-id type="integer">10000</node-type-id>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2010-02-19T16:34:29-05:00</updated-at>
+              <tree-id type="integer">16708</tree-id>
+              <sureness type="integer">0</sureness>
+              <status nil="true"></status>
+              <pub-comments></pub-comments>
+              <pri-name>Eastern Eskimo</pri-name>
+              <updater-id type="integer">10740</updater-id>
+              <other-codes></other-codes>
+              <is-default type="integer">0</is-default>
+              <id type="integer">683371</id>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2010-02-19T16:34:30-05:00</updated-at>
+                  <tree-id type="integer">16708</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <pri-name>Eastern Canadian Inuktitut</pri-name>
+                  <updater-id type="integer">10740</updater-id>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">683375</id>
+                  <end-date nil="true"></end-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 7. London, New York: Routledge. </publications>
+                  <geography nil="true"></geography>
+                  <codes>ike</codes>
+                  <tree-val>Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007</tree-val>
+                  <node-type>Language</node-type>
+                  <created-at type="datetime">2010-02-19T16:34:30-05:00</created-at>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2010-02-19T16:34:30-05:00</updated-at>
+                  <tree-id type="integer">16708</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <pri-name>East Greenlandic</pri-name>
+                  <updater-id type="integer">10740</updater-id>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">683377</id>
+                  <end-date nil="true"></end-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 7. London, New York: Routledge. </publications>
+                  <geography nil="true"></geography>
+                  <codes>kal-eas, kal</codes>
+                  <tree-val>Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007</tree-val>
+                  <node-type>Language</node-type>
+                  <created-at type="datetime">2010-02-19T16:34:30-05:00</created-at>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2010-02-19T16:34:29-05:00</updated-at>
+                  <tree-id type="integer">16708</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <pri-name>North Alaska Inupiaq</pri-name>
+                  <updater-id type="integer">10740</updater-id>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">683373</id>
+                  <end-date nil="true"></end-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 7. London, New York: Routledge. </publications>
+                  <geography nil="true"></geography>
+                  <codes>esi</codes>
+                  <tree-val>Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007</tree-val>
+                  <node-type>Language</node-type>
+                  <created-at type="datetime">2010-02-19T16:34:29-05:00</created-at>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2010-02-19T16:34:30-05:00</updated-at>
+                  <tree-id type="integer">16708</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <pri-name>West Greenlandic</pri-name>
+                  <updater-id type="integer">10740</updater-id>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">683376</id>
+                  <end-date nil="true"></end-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 7. London, New York: Routledge. </publications>
+                  <geography nil="true"></geography>
+                  <codes>kal-wes, kal</codes>
+                  <tree-val>Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007</tree-val>
+                  <node-type>Language</node-type>
+                  <created-at type="datetime">2010-02-19T16:34:30-05:00</created-at>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2010-02-19T16:34:30-05:00</updated-at>
+                  <tree-id type="integer">16708</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <pri-name>Western Canadian Inuktitut</pri-name>
+                  <updater-id type="integer">10740</updater-id>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">683374</id>
+                  <end-date nil="true"></end-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 7. London, New York: Routledge. </publications>
+                  <geography nil="true"></geography>
+                  <codes>ikt</codes>
+                  <tree-val>Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007</tree-val>
+                  <node-type>Language</node-type>
+                  <created-at type="datetime">2010-02-19T16:34:29-05:00</created-at>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2010-02-19T16:34:29-05:00</updated-at>
+                  <tree-id type="integer">16708</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <pri-name>Seward Peninsula Inupiaq</pri-name>
+                  <updater-id type="integer">10740</updater-id>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">683372</id>
+                  <end-date nil="true"></end-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 7. London, New York: Routledge. </publications>
+                  <geography nil="true"></geography>
+                  <codes>esk</codes>
+                  <tree-val>Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007</tree-val>
+                  <node-type>Language</node-type>
+                  <created-at type="datetime">2010-02-19T16:34:29-05:00</created-at>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+              </children>
+              <alt-names>Inuit</alt-names>
+              <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 7. London, New York: Routledge. </publications>
+              <geography nil="true"></geography>
+              <codes>inui</codes>
+              <tree-val>Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007</tree-val>
+              <node-type>Subgroup</node-type>
+              <created-at type="datetime">2010-02-19T16:34:29-05:00</created-at>
+              <updated-by>joe_leif</updated-by>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+          </children>
+          <alt-names></alt-names>
+          <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 7. London, New York: Routledge. </publications>
+          <geography nil="true"></geography>
+          <codes>eski</codes>
+          <tree-val>Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007</tree-val>
+          <node-type>Subgroup</node-type>
+          <created-at type="datetime">2010-02-19T16:34:29-05:00</created-at>
+          <updated-by>joe_leif</updated-by>
+          <node-status-id nil="true"></node-status-id>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <deleted-at nil="true"></deleted-at>
+          <node-type-id type="integer">10000</node-type-id>
+          <confidence>y</confidence>
+          <updated-at type="datetime">2010-02-19T16:34:30-05:00</updated-at>
+          <tree-id type="integer">16708</tree-id>
+          <sureness type="integer">0</sureness>
+          <status nil="true"></status>
+          <pub-comments></pub-comments>
+          <pri-name>Aleut</pri-name>
+          <updater-id type="integer">10740</updater-id>
+          <other-codes></other-codes>
+          <is-default type="integer">0</is-default>
+          <id type="integer">683378</id>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <deleted-at nil="true"></deleted-at>
+              <node-type-id type="integer">10000</node-type-id>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2010-02-19T16:34:30-05:00</updated-at>
+              <tree-id type="integer">16708</tree-id>
+              <sureness type="integer">0</sureness>
+              <status nil="true"></status>
+              <pub-comments></pub-comments>
+              <pri-name>Aleut</pri-name>
+              <updater-id type="integer">10740</updater-id>
+              <other-codes></other-codes>
+              <is-default type="integer">0</is-default>
+              <id type="integer">683379</id>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2010-02-19T16:34:30-05:00</updated-at>
+                  <tree-id type="integer">16708</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <pri-name>Aleut</pri-name>
+                  <updater-id type="integer">10740</updater-id>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">683380</id>
+                  <end-date nil="true"></end-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 7. London, New York: Routledge. </publications>
+                  <geography nil="true"></geography>
+                  <codes>ale</codes>
+                  <tree-val>Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007</tree-val>
+                  <node-type>Language</node-type>
+                  <created-at type="datetime">2010-02-19T16:34:30-05:00</created-at>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+              </children>
+              <alt-names></alt-names>
+              <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 7. London, New York: Routledge. </publications>
+              <geography nil="true"></geography>
+              <codes>alut</codes>
+              <tree-val>Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007</tree-val>
+              <node-type>Subgroup</node-type>
+              <created-at type="datetime">2010-02-19T16:34:30-05:00</created-at>
+              <updated-by>joe_leif</updated-by>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <deleted-at nil="true"></deleted-at>
+              <node-type-id type="integer">10000</node-type-id>
+              <confidence>y</confidence>
+              <updated-at type="datetime">2010-02-19T16:34:30-05:00</updated-at>
+              <tree-id type="integer">16708</tree-id>
+              <sureness type="integer">0</sureness>
+              <status nil="true"></status>
+              <pub-comments></pub-comments>
+              <pri-name>Aleut-Russian Mixed Language</pri-name>
+              <updater-id type="integer">10740</updater-id>
+              <other-codes></other-codes>
+              <is-default type="integer">0</is-default>
+              <id type="integer">683381</id>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <confidence>y</confidence>
+                  <updated-at type="datetime">2010-02-19T16:34:30-05:00</updated-at>
+                  <tree-id type="integer">16708</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <status nil="true"></status>
+                  <pub-comments></pub-comments>
+                  <pri-name>Copper Island Aleut</pri-name>
+                  <updater-id type="integer">10740</updater-id>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">683382</id>
+                  <end-date nil="true"></end-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 7. London, New York: Routledge. </publications>
+                  <geography nil="true"></geography>
+                  <codes>mud</codes>
+                  <tree-val>Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007</tree-val>
+                  <node-type>Language</node-type>
+                  <created-at type="datetime">2010-02-19T16:34:30-05:00</created-at>
+                  <updated-by>joe_leif</updated-by>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+              </children>
+              <alt-names></alt-names>
+              <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 7. London, New York: Routledge. </publications>
+              <geography nil="true"></geography>
+              <codes>arml</codes>
+              <tree-val>Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007</tree-val>
+              <node-type>Subgroup</node-type>
+              <created-at type="datetime">2010-02-19T16:34:30-05:00</created-at>
+              <updated-by>joe_leif</updated-by>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+          </children>
+          <alt-names></alt-names>
+          <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 7. London, New York: Routledge. </publications>
+          <geography nil="true"></geography>
+          <codes>aleu</codes>
+          <tree-val>Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007</tree-val>
+          <node-type>Subgroup</node-type>
+          <created-at type="datetime">2010-02-19T16:34:30-05:00</created-at>
+          <updated-by>joe_leif</updated-by>
+          <node-status-id nil="true"></node-status-id>
+        </child>
+      </children>
+      <alt-names></alt-names>
+      <publications>Campbell, Lyle , Ives  Goddard, Victor  Golla, J. Lachlan Mackenzie, Marianne  Mithun &amp; Mauricio J. Mixco. 2007. Atlas of the World's Languages, 2 edn., 7. London, New York: Routledge. </publications>
+      <geography nil="true"></geography>
+      <codes>eska</codes>
+      <tree-val>Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007</tree-val>
+      <node-type>Subgroup</node-type>
+      <created-at type="datetime">2010-02-19T16:34:29-05:00</created-at>
+      <updated-by>joe_leif</updated-by>
+      <node-status-id nil="true"></node-status-id>
+    </root>
+    <description>Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007</description>
+  </tree>
+</hash>

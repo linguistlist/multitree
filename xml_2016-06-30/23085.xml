@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Pacific</region>
+    <root>
+      <tree-id type="integer">23085</tree-id>
+      <pub-comments></pub-comments>
+      <node-type-id type="integer">10000</node-type-id>
+      <id type="integer">906384</id>
+      <created-by>joe_leif</created-by>
+      <node-type>Subgroup</node-type>
+      <updated-at type="datetime">2013-06-19T09:03:03-04:00</updated-at>
+      <status nil="true"></status>
+      <publications>Voorhoeve, C L. 1975. Isolates: Irian Jaya. In Stephen A Wurm (ed.),  Papuan languages and the New Guinea linguistic scene: New Guinea area languages and language study, vol. 1, 887-889. Canberra: Dept. of Linguistics, Research School of Pacific Studies, Australian National University. </publications>
+      <other-codes></other-codes>
+      <tree-val>Irian Jaya Isolates: Voorhoeve 1975</tree-val>
+      <sureness type="integer">0</sureness>
+      <node-status-id nil="true"></node-status-id>
+      <created-at type="datetime">2013-06-19T09:03:03-04:00</created-at>
+      <children type="array">
+        <child>
+          <tree-id type="integer">23085</tree-id>
+          <pub-comments>Voorhoeve writes that, though uncertain, the number of speakers is "unlikely to exceed a few hundred." (Voorhoeve 1975: 887). He also notes that the language "shares about 10% cognates with its western neighbor Baropasi of the East Geelvink Bay stock-level Family of the Geelvink Bay Phylum". This low percentage of cognates likely reflects borrowing. (Voorhoeve 1975: 887)</pub-comments>
+          <node-type-id type="integer">10001</node-type-id>
+          <id type="integer">906385</id>
+          <created-by>joe_leif</created-by>
+          <node-type>Language</node-type>
+          <updated-at type="datetime">2013-06-19T09:03:04-04:00</updated-at>
+          <status nil="true"></status>
+          <publications>Voorhoeve, C L. 1975. Isolates: Irian Jaya. In Stephen A Wurm (ed.),  Papuan languages and the New Guinea linguistic scene: New Guinea area languages and language study, vol. 1, 887-889. Canberra: Dept. of Linguistics, Research School of Pacific Studies, Australian National University. </publications>
+          <other-codes></other-codes>
+          <tree-val>Irian Jaya Isolates: Voorhoeve 1975</tree-val>
+          <sureness type="integer">0</sureness>
+          <node-status-id nil="true"></node-status-id>
+          <created-at type="datetime">2013-06-19T09:03:03-04:00</created-at>
+          <children type="array"/>
+          <is-default type="integer">0</is-default>
+          <start-date nil="true"></start-date>
+          <end-date nil="true"></end-date>
+          <alt-names></alt-names>
+          <pri-name>Warenbori</pri-name>
+          <geography>Two or three villages in the delta of the Mamberamo River.</geography>
+          <deleted-at nil="true"></deleted-at>
+          <codes>wsa</codes>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <creator-id type="integer">10740</creator-id>
+          <confidence>y</confidence>
+        </child>
+        <child>
+          <tree-id type="integer">23085</tree-id>
+          <pub-comments>Voorhoeve writes that this language is spoken by the Monao (Borumeso) tribe, whose population and overall inhabitation area are both unknown. (Voorhoeve 1975: 888)</pub-comments>
+          <node-type-id type="integer">10001</node-type-id>
+          <id type="integer">906386</id>
+          <created-by>joe_leif</created-by>
+          <node-type>Language</node-type>
+          <updated-at type="datetime">2013-06-19T09:03:04-04:00</updated-at>
+          <status nil="true"></status>
+          <publications>Voorhoeve, C L. 1975. Isolates: Irian Jaya. In Stephen A Wurm (ed.),  Papuan languages and the New Guinea linguistic scene: New Guinea area languages and language study, vol. 1, 887-889. Canberra: Dept. of Linguistics, Research School of Pacific Studies, Australian National University. </publications>
+          <other-codes></other-codes>
+          <tree-val>Irian Jaya Isolates: Voorhoeve 1975</tree-val>
+          <sureness type="integer">0</sureness>
+          <node-status-id nil="true"></node-status-id>
+          <created-at type="datetime">2013-06-19T09:03:04-04:00</created-at>
+          <children type="array"/>
+          <is-default type="integer">0</is-default>
+          <start-date nil="true"></start-date>
+          <end-date nil="true"></end-date>
+          <alt-names>Borumeso</alt-names>
+          <pri-name>Taurap</pri-name>
+          <geography>Southwest of the Mamberamo River, south of Pioniersbivak.</geography>
+          <deleted-at nil="true"></deleted-at>
+          <codes>buz</codes>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <creator-id type="integer">10740</creator-id>
+          <confidence>y</confidence>
+        </child>
+      </children>
+      <is-default type="integer">0</is-default>
+      <start-date nil="true"></start-date>
+      <end-date nil="true"></end-date>
+      <alt-names></alt-names>
+      <pri-name>Irian Jaya Isolates</pri-name>
+      <geography>Irian Jaya</geography>
+      <deleted-at nil="true"></deleted-at>
+      <codes>ocis</codes>
+      <updater-id type="integer">10740</updater-id>
+      <updated-by>joe_leif</updated-by>
+      <creator-id type="integer">10740</creator-id>
+      <confidence>y</confidence>
+    </root>
+    <description>Irian Jaya Isolates: Voorhoeve 1975</description>
+  </tree>
+</hash>

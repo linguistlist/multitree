@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>
+    <root>
+      <other-codes></other-codes>
+      <node-type>Subgroup</node-type>
+      <pub-comments>"The essential classification presented in Figure 1 [this tree] is that found in Benedict (1975:135 and chart there). The idea of using Kadai to designate the larger group with Tai under it is due to Haudricourt. The internal subgrouping of Kam-Sui represents an addition to the original configuration" (Thurgood 1988:180).</pub-comments>
+      <created-at type="datetime">2013-08-06T10:36:33-04:00</created-at>
+      <tree-val>Kadai: Thurgood 1988</tree-val>
+      <updated-at type="datetime">2013-08-06T10:36:33-04:00</updated-at>
+      <node-type-id type="integer">10000</node-type-id>
+      <geography nil="true"></geography>
+      <end-date nil="true"></end-date>
+      <pri-name>Kadai</pri-name>
+      <start-date nil="true"></start-date>
+      <creator-id type="integer">10720</creator-id>
+      <confidence>y</confidence>
+      <node-status-id nil="true"></node-status-id>
+      <is-default type="integer">0</is-default>
+      <codes>taik</codes>
+      <children type="array">
+        <child>
+          <other-codes></other-codes>
+          <node-type>Subgroup</node-type>
+          <pub-comments></pub-comments>
+          <created-at type="datetime">2013-08-06T10:36:33-04:00</created-at>
+          <tree-val>Kadai: Thurgood 1988</tree-val>
+          <updated-at type="datetime">2013-08-06T10:36:34-04:00</updated-at>
+          <node-type-id type="integer">10000</node-type-id>
+          <geography nil="true"></geography>
+          <end-date nil="true"></end-date>
+          <pri-name>Hli/Kam-Tai</pri-name>
+          <start-date nil="true"></start-date>
+          <creator-id type="integer">10720</creator-id>
+          <confidence>y</confidence>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <codes>likt</codes>
+          <children type="array">
+            <child>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <pub-comments>Node not named by author.</pub-comments>
+              <created-at type="datetime">2013-08-06T10:36:34-04:00</created-at>
+              <tree-val>Kadai: Thurgood 1988</tree-val>
+              <updated-at type="datetime">2013-08-06T10:36:34-04:00</updated-at>
+              <node-type-id type="integer">10000</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <pri-name>Hlai/Laqua/Laha</pri-name>
+              <start-date nil="true"></start-date>
+              <creator-id type="integer">10720</creator-id>
+              <confidence>y</confidence>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <codes>lilq</codes>
+              <children type="array">
+                <child>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <pub-comments></pub-comments>
+                  <created-at type="datetime">2013-08-06T10:36:34-04:00</created-at>
+                  <tree-val>Kadai: Thurgood 1988</tree-val>
+                  <updated-at type="datetime">2013-08-06T10:36:34-04:00</updated-at>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <pri-name>Laqua/Laha</pri-name>
+                  <start-date nil="true"></start-date>
+                  <creator-id type="integer">10720</creator-id>
+                  <confidence>n</confidence>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <codes>laq, lha</codes>
+                  <children type="array"/>
+                  <updater-id type="integer">10720</updater-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24617</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                  <id type="integer">959878</id>
+                  <status nil="true"></status>
+                </child>
+                <child>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <pub-comments></pub-comments>
+                  <created-at type="datetime">2013-08-06T10:36:34-04:00</created-at>
+                  <tree-val>Kadai: Thurgood 1988</tree-val>
+                  <updated-at type="datetime">2013-08-06T10:36:34-04:00</updated-at>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <pri-name>Hlai</pri-name>
+                  <start-date nil="true"></start-date>
+                  <creator-id type="integer">10720</creator-id>
+                  <confidence>y</confidence>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <codes>lic</codes>
+                  <children type="array"/>
+                  <updater-id type="integer">10720</updater-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names>Li</alt-names>
+                  <tree-id type="integer">24617</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                  <id type="integer">959877</id>
+                  <status nil="true"></status>
+                </child>
+              </children>
+              <updater-id type="integer">10720</updater-id>
+              <deleted-at nil="true"></deleted-at>
+              <alt-names></alt-names>
+              <tree-id type="integer">24617</tree-id>
+              <sureness type="integer">0</sureness>
+              <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+              <id type="integer">959876</id>
+              <status nil="true"></status>
+            </child>
+            <child>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <pub-comments></pub-comments>
+              <created-at type="datetime">2013-08-06T10:36:34-04:00</created-at>
+              <tree-val>Kadai: Thurgood 1988</tree-val>
+              <updated-at type="datetime">2013-08-06T10:36:34-04:00</updated-at>
+              <node-type-id type="integer">10000</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <pri-name>Be/Kam-Tai</pri-name>
+              <start-date nil="true"></start-date>
+              <creator-id type="integer">10720</creator-id>
+              <confidence>y</confidence>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <codes>blkt</codes>
+              <children type="array">
+                <child>
+                  <other-codes></other-codes>
+                  <node-type>Subgroup</node-type>
+                  <pub-comments></pub-comments>
+                  <created-at type="datetime">2013-08-06T10:36:34-04:00</created-at>
+                  <tree-val>Kadai: Thurgood 1988</tree-val>
+                  <updated-at type="datetime">2013-08-06T10:36:34-04:00</updated-at>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <pri-name>Lakkia/Kam-Tai</pri-name>
+                  <start-date nil="true"></start-date>
+                  <creator-id type="integer">10720</creator-id>
+                  <confidence>y</confidence>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <codes>lakt</codes>
+                  <children type="array">
+                    <child>
+                      <other-codes></other-codes>
+                      <node-type>Subgroup</node-type>
+                      <pub-comments></pub-comments>
+                      <created-at type="datetime">2013-08-06T10:36:34-04:00</created-at>
+                      <tree-val>Kadai: Thurgood 1988</tree-val>
+                      <updated-at type="datetime">2013-08-06T10:36:34-04:00</updated-at>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <pri-name>Kam-Tai</pri-name>
+                      <start-date nil="true"></start-date>
+                      <creator-id type="integer">10720</creator-id>
+                      <confidence>y</confidence>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <codes>kamt</codes>
+                      <children type="array">
+                        <child>
+                          <other-codes></other-codes>
+                          <node-type>Subgroup</node-type>
+                          <pub-comments></pub-comments>
+                          <created-at type="datetime">2013-08-06T10:36:34-04:00</created-at>
+                          <tree-val>Kadai: Thurgood 1988</tree-val>
+                          <updated-at type="datetime">2013-08-06T10:36:34-04:00</updated-at>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <pri-name>Kam-Sui</pri-name>
+                          <start-date nil="true"></start-date>
+                          <creator-id type="integer">10720</creator-id>
+                          <confidence>y</confidence>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <codes>kams</codes>
+                          <children type="array">
+                            <child>
+                              <other-codes></other-codes>
+                              <node-type>Subgroup</node-type>
+                              <pub-comments>Node not named by author.</pub-comments>
+                              <created-at type="datetime">2013-08-06T10:36:34-04:00</created-at>
+                              <tree-val>Kadai: Thurgood 1988</tree-val>
+                              <updated-at type="datetime">2013-08-06T10:36:35-04:00</updated-at>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <geography nil="true"></geography>
+                              <end-date nil="true"></end-date>
+                              <pri-name>Mulam-Kam</pri-name>
+                              <start-date nil="true"></start-date>
+                              <creator-id type="integer">10720</creator-id>
+                              <confidence>y</confidence>
+                              <node-status-id nil="true"></node-status-id>
+                              <is-default type="integer">0</is-default>
+                              <codes>kmlm</codes>
+                              <children type="array">
+                                <child>
+                                  <other-codes></other-codes>
+                                  <node-type>Language</node-type>
+                                  <pub-comments></pub-comments>
+                                  <created-at type="datetime">2013-08-06T10:36:35-04:00</created-at>
+                                  <tree-val>Kadai: Thurgood 1988</tree-val>
+                                  <updated-at type="datetime">2013-08-06T10:36:35-04:00</updated-at>
+                                  <node-type-id type="integer">10001</node-type-id>
+                                  <geography nil="true"></geography>
+                                  <end-date nil="true"></end-date>
+                                  <pri-name>Kam</pri-name>
+                                  <start-date nil="true"></start-date>
+                                  <creator-id type="integer">10720</creator-id>
+                                  <confidence>y</confidence>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <is-default type="integer">0</is-default>
+                                  <codes>kmc, doc</codes>
+                                  <children type="array"/>
+                                  <updater-id type="integer">10720</updater-id>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <alt-names>D&#242;ng, Tung</alt-names>
+                                  <tree-id type="integer">24617</tree-id>
+                                  <sureness type="integer">0</sureness>
+                                  <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                  <id type="integer">959890</id>
+                                  <status nil="true"></status>
+                                </child>
+                                <child>
+                                  <other-codes></other-codes>
+                                  <node-type>Language</node-type>
+                                  <pub-comments></pub-comments>
+                                  <created-at type="datetime">2013-08-06T10:36:35-04:00</created-at>
+                                  <tree-val>Kadai: Thurgood 1988</tree-val>
+                                  <updated-at type="datetime">2013-08-06T10:36:35-04:00</updated-at>
+                                  <node-type-id type="integer">10001</node-type-id>
+                                  <geography nil="true"></geography>
+                                  <end-date nil="true"></end-date>
+                                  <pri-name>Mulam</pri-name>
+                                  <start-date nil="true"></start-date>
+                                  <creator-id type="integer">10720</creator-id>
+                                  <confidence>y</confidence>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <is-default type="integer">0</is-default>
+                                  <codes>mlm</codes>
+                                  <children type="array">
+                                    <child>
+                                      <other-codes></other-codes>
+                                      <node-type>Dialect</node-type>
+                                      <pub-comments></pub-comments>
+                                      <created-at type="datetime">2013-08-06T10:36:35-04:00</created-at>
+                                      <tree-val>Kadai: Thurgood 1988</tree-val>
+                                      <updated-at type="datetime">2013-08-06T10:36:35-04:00</updated-at>
+                                      <node-type-id type="integer">10003</node-type-id>
+                                      <geography nil="true"></geography>
+                                      <end-date nil="true"></end-date>
+                                      <pri-name>Dayin</pri-name>
+                                      <start-date nil="true"></start-date>
+                                      <creator-id type="integer">10720</creator-id>
+                                      <confidence>y</confidence>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <is-default type="integer">0</is-default>
+                                      <codes>mlm-day</codes>
+                                      <children type="array"/>
+                                      <updater-id type="integer">10720</updater-id>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <alt-names></alt-names>
+                                      <tree-id type="integer">24617</tree-id>
+                                      <sureness type="integer">0</sureness>
+                                      <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                      <id type="integer">959889</id>
+                                      <status nil="true"></status>
+                                    </child>
+                                    <child>
+                                      <other-codes></other-codes>
+                                      <node-type>Dialect</node-type>
+                                      <pub-comments></pub-comments>
+                                      <created-at type="datetime">2013-08-06T10:36:35-04:00</created-at>
+                                      <tree-val>Kadai: Thurgood 1988</tree-val>
+                                      <updated-at type="datetime">2013-08-06T10:36:35-04:00</updated-at>
+                                      <node-type-id type="integer">10003</node-type-id>
+                                      <geography nil="true"></geography>
+                                      <end-date nil="true"></end-date>
+                                      <pri-name>Luocheng</pri-name>
+                                      <start-date nil="true"></start-date>
+                                      <creator-id type="integer">10720</creator-id>
+                                      <confidence>y</confidence>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <is-default type="integer">0</is-default>
+                                      <codes>mlm-luo</codes>
+                                      <children type="array"/>
+                                      <updater-id type="integer">10720</updater-id>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <alt-names></alt-names>
+                                      <tree-id type="integer">24617</tree-id>
+                                      <sureness type="integer">0</sureness>
+                                      <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                      <id type="integer">959888</id>
+                                      <status nil="true"></status>
+                                    </child>
+                                    <child>
+                                      <other-codes></other-codes>
+                                      <node-type>Dialect</node-type>
+                                      <pub-comments></pub-comments>
+                                      <created-at type="datetime">2013-08-06T10:36:35-04:00</created-at>
+                                      <tree-val>Kadai: Thurgood 1988</tree-val>
+                                      <updated-at type="datetime">2013-08-06T10:36:35-04:00</updated-at>
+                                      <node-type-id type="integer">10003</node-type-id>
+                                      <geography nil="true"></geography>
+                                      <end-date nil="true"></end-date>
+                                      <pri-name>Dawu</pri-name>
+                                      <start-date nil="true"></start-date>
+                                      <creator-id type="integer">10720</creator-id>
+                                      <confidence>y</confidence>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <is-default type="integer">0</is-default>
+                                      <codes>mlm-daw</codes>
+                                      <children type="array"/>
+                                      <updater-id type="integer">10720</updater-id>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <alt-names></alt-names>
+                                      <tree-id type="integer">24617</tree-id>
+                                      <sureness type="integer">0</sureness>
+                                      <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                      <id type="integer">959887</id>
+                                      <status nil="true"></status>
+                                    </child>
+                                  </children>
+                                  <updater-id type="integer">10720</updater-id>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <alt-names>M&#249;l&#462;o</alt-names>
+                                  <tree-id type="integer">24617</tree-id>
+                                  <sureness type="integer">0</sureness>
+                                  <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                  <id type="integer">959886</id>
+                                  <status nil="true"></status>
+                                </child>
+                              </children>
+                              <updater-id type="integer">10720</updater-id>
+                              <deleted-at nil="true"></deleted-at>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">24617</tree-id>
+                              <sureness type="integer">0</sureness>
+                              <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                              <id type="integer">959885</id>
+                              <status nil="true"></status>
+                            </child>
+                            <child>
+                              <other-codes></other-codes>
+                              <node-type>Subgroup</node-type>
+                              <pub-comments>Node not named by author.</pub-comments>
+                              <created-at type="datetime">2013-08-06T10:36:35-04:00</created-at>
+                              <tree-val>Kadai: Thurgood 1988</tree-val>
+                              <updated-at type="datetime">2013-08-06T10:36:35-04:00</updated-at>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <geography nil="true"></geography>
+                              <end-date nil="true"></end-date>
+                              <pri-name>Then-Mak</pri-name>
+                              <start-date nil="true"></start-date>
+                              <creator-id type="integer">10720</creator-id>
+                              <confidence>y</confidence>
+                              <node-status-id nil="true"></node-status-id>
+                              <is-default type="integer">0</is-default>
+                              <codes>tnmn</codes>
+                              <children type="array">
+                                <child>
+                                  <other-codes></other-codes>
+                                  <node-type>Subgroup</node-type>
+                                  <pub-comments>Node not named by author.</pub-comments>
+                                  <created-at type="datetime">2013-08-06T10:36:35-04:00</created-at>
+                                  <tree-val>Kadai: Thurgood 1988</tree-val>
+                                  <updated-at type="datetime">2013-08-06T10:36:36-04:00</updated-at>
+                                  <node-type-id type="integer">10000</node-type-id>
+                                  <geography nil="true"></geography>
+                                  <end-date nil="true"></end-date>
+                                  <pri-name>Maonan-Sui-Mak</pri-name>
+                                  <start-date nil="true"></start-date>
+                                  <creator-id type="integer">10720</creator-id>
+                                  <confidence>y</confidence>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <is-default type="integer">0</is-default>
+                                  <codes>smmn</codes>
+                                  <children type="array">
+                                    <child>
+                                      <other-codes></other-codes>
+                                      <node-type>Language</node-type>
+                                      <pub-comments></pub-comments>
+                                      <created-at type="datetime">2013-08-06T10:36:36-04:00</created-at>
+                                      <tree-val>Kadai: Thurgood 1988</tree-val>
+                                      <updated-at type="datetime">2013-08-06T10:36:36-04:00</updated-at>
+                                      <node-type-id type="integer">10001</node-type-id>
+                                      <geography nil="true"></geography>
+                                      <end-date nil="true"></end-date>
+                                      <pri-name>Sui</pri-name>
+                                      <start-date nil="true"></start-date>
+                                      <creator-id type="integer">10720</creator-id>
+                                      <confidence>y</confidence>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <is-default type="integer">0</is-default>
+                                      <codes>swi</codes>
+                                      <children type="array">
+                                        <child>
+                                          <other-codes></other-codes>
+                                          <node-type>Dialect</node-type>
+                                          <pub-comments></pub-comments>
+                                          <created-at type="datetime">2013-08-06T10:36:36-04:00</created-at>
+                                          <tree-val>Kadai: Thurgood 1988</tree-val>
+                                          <updated-at type="datetime">2013-08-06T10:36:36-04:00</updated-at>
+                                          <node-type-id type="integer">10003</node-type-id>
+                                          <geography nil="true"></geography>
+                                          <end-date nil="true"></end-date>
+                                          <pri-name>Li-Ngam</pri-name>
+                                          <start-date nil="true"></start-date>
+                                          <creator-id type="integer">10720</creator-id>
+                                          <confidence>y</confidence>
+                                          <node-status-id nil="true"></node-status-id>
+                                          <is-default type="integer">0</is-default>
+                                          <codes>swi-lng</codes>
+                                          <children type="array"/>
+                                          <updater-id type="integer">10720</updater-id>
+                                          <deleted-at nil="true"></deleted-at>
+                                          <alt-names>Li-Ngam Sui</alt-names>
+                                          <tree-id type="integer">24617</tree-id>
+                                          <sureness type="integer">0</sureness>
+                                          <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                          <id type="integer">959896</id>
+                                          <status nil="true"></status>
+                                        </child>
+                                      </children>
+                                      <updater-id type="integer">10720</updater-id>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <alt-names>Shu&#464;</alt-names>
+                                      <tree-id type="integer">24617</tree-id>
+                                      <sureness type="integer">0</sureness>
+                                      <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                      <id type="integer">959895</id>
+                                      <status nil="true"></status>
+                                    </child>
+                                    <child>
+                                      <other-codes></other-codes>
+                                      <node-type>Language</node-type>
+                                      <pub-comments></pub-comments>
+                                      <created-at type="datetime">2013-08-06T10:36:36-04:00</created-at>
+                                      <tree-val>Kadai: Thurgood 1988</tree-val>
+                                      <updated-at type="datetime">2013-08-06T10:36:36-04:00</updated-at>
+                                      <node-type-id type="integer">10001</node-type-id>
+                                      <geography nil="true"></geography>
+                                      <end-date nil="true"></end-date>
+                                      <pri-name>Maonan</pri-name>
+                                      <start-date nil="true"></start-date>
+                                      <creator-id type="integer">10720</creator-id>
+                                      <confidence>y</confidence>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <is-default type="integer">0</is-default>
+                                      <codes>mmd</codes>
+                                      <children type="array"/>
+                                      <updater-id type="integer">10720</updater-id>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <alt-names></alt-names>
+                                      <tree-id type="integer">24617</tree-id>
+                                      <sureness type="integer">0</sureness>
+                                      <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                      <id type="integer">959894</id>
+                                      <status nil="true"></status>
+                                    </child>
+                                    <child>
+                                      <other-codes></other-codes>
+                                      <node-type>Language</node-type>
+                                      <pub-comments></pub-comments>
+                                      <created-at type="datetime">2013-08-06T10:36:36-04:00</created-at>
+                                      <tree-val>Kadai: Thurgood 1988</tree-val>
+                                      <updated-at type="datetime">2013-08-06T10:36:37-04:00</updated-at>
+                                      <node-type-id type="integer">10001</node-type-id>
+                                      <geography nil="true"></geography>
+                                      <end-date nil="true"></end-date>
+                                      <pri-name>Mak</pri-name>
+                                      <start-date nil="true"></start-date>
+                                      <creator-id type="integer">10720</creator-id>
+                                      <confidence>y</confidence>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <is-default type="integer">0</is-default>
+                                      <codes>mkg</codes>
+                                      <children type="array"/>
+                                      <updater-id type="integer">10720</updater-id>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <alt-names>M&#242;</alt-names>
+                                      <tree-id type="integer">24617</tree-id>
+                                      <sureness type="integer">0</sureness>
+                                      <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                      <id type="integer">959897</id>
+                                      <status nil="true"></status>
+                                    </child>
+                                  </children>
+                                  <updater-id type="integer">10720</updater-id>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <alt-names></alt-names>
+                                  <tree-id type="integer">24617</tree-id>
+                                  <sureness type="integer">0</sureness>
+                                  <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                  <id type="integer">959893</id>
+                                  <status nil="true"></status>
+                                </child>
+                                <child>
+                                  <other-codes></other-codes>
+                                  <node-type>Language</node-type>
+                                  <pub-comments></pub-comments>
+                                  <created-at type="datetime">2013-08-06T10:36:35-04:00</created-at>
+                                  <tree-val>Kadai: Thurgood 1988</tree-val>
+                                  <updated-at type="datetime">2013-08-06T10:36:35-04:00</updated-at>
+                                  <node-type-id type="integer">10001</node-type-id>
+                                  <geography nil="true"></geography>
+                                  <end-date nil="true"></end-date>
+                                  <pri-name>Then</pri-name>
+                                  <start-date nil="true"></start-date>
+                                  <creator-id type="integer">10720</creator-id>
+                                  <confidence>y</confidence>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <is-default type="integer">0</is-default>
+                                  <codes>tct</codes>
+                                  <children type="array"/>
+                                  <updater-id type="integer">10720</updater-id>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <alt-names>Y&#225;nghu&#225;ng</alt-names>
+                                  <tree-id type="integer">24617</tree-id>
+                                  <sureness type="integer">0</sureness>
+                                  <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                  <id type="integer">959892</id>
+                                  <status nil="true"></status>
+                                </child>
+                              </children>
+                              <updater-id type="integer">10720</updater-id>
+                              <deleted-at nil="true"></deleted-at>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">24617</tree-id>
+                              <sureness type="integer">0</sureness>
+                              <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                              <id type="integer">959891</id>
+                              <status nil="true"></status>
+                            </child>
+                          </children>
+                          <updater-id type="integer">10720</updater-id>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names>Proto-Kam-Sui</alt-names>
+                          <tree-id type="integer">24617</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                          <id type="integer">959884</id>
+                          <status nil="true"></status>
+                        </child>
+                        <child>
+                          <other-codes></other-codes>
+                          <node-type>Subgroup</node-type>
+                          <pub-comments></pub-comments>
+                          <created-at type="datetime">2013-08-06T10:36:37-04:00</created-at>
+                          <tree-val>Kadai: Thurgood 1988</tree-val>
+                          <updated-at type="datetime">2013-08-06T10:36:37-04:00</updated-at>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <pri-name>Tai</pri-name>
+                          <start-date nil="true"></start-date>
+                          <creator-id type="integer">10720</creator-id>
+                          <confidence>y</confidence>
+                          <node-status-id nil="true"></node-status-id>
+                          <is-default type="integer">0</is-default>
+                          <codes>taix</codes>
+                          <children type="array">
+                            <child>
+                              <other-codes></other-codes>
+                              <node-type>Subgroup</node-type>
+                              <pub-comments></pub-comments>
+                              <created-at type="datetime">2013-08-06T10:36:37-04:00</created-at>
+                              <tree-val>Kadai: Thurgood 1988</tree-val>
+                              <updated-at type="datetime">2013-08-06T10:36:37-04:00</updated-at>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <geography nil="true"></geography>
+                              <end-date nil="true"></end-date>
+                              <pri-name>SWC Tai</pri-name>
+                              <start-date nil="true"></start-date>
+                              <creator-id type="integer">10720</creator-id>
+                              <confidence>y</confidence>
+                              <node-status-id nil="true"></node-status-id>
+                              <is-default type="integer">0</is-default>
+                              <codes>swct</codes>
+                              <children type="array">
+                                <child>
+                                  <other-codes></other-codes>
+                                  <node-type>Subgroup</node-type>
+                                  <pub-comments></pub-comments>
+                                  <created-at type="datetime">2013-08-06T10:36:37-04:00</created-at>
+                                  <tree-val>Kadai: Thurgood 1988</tree-val>
+                                  <updated-at type="datetime">2013-08-06T10:36:38-04:00</updated-at>
+                                  <node-type-id type="integer">10000</node-type-id>
+                                  <geography nil="true"></geography>
+                                  <end-date nil="true"></end-date>
+                                  <pri-name>C. Tai</pri-name>
+                                  <start-date nil="true"></start-date>
+                                  <creator-id type="integer">10720</creator-id>
+                                  <confidence>y</confidence>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <is-default type="integer">0</is-default>
+                                  <codes>ctai</codes>
+                                  <children type="array">
+                                    <child>
+                                      <other-codes></other-codes>
+                                      <node-type>Language</node-type>
+                                      <pub-comments></pub-comments>
+                                      <created-at type="datetime">2013-08-06T10:36:38-04:00</created-at>
+                                      <tree-val>Kadai: Thurgood 1988</tree-val>
+                                      <updated-at type="datetime">2013-08-06T10:36:38-04:00</updated-at>
+                                      <node-type-id type="integer">10001</node-type-id>
+                                      <geography nil="true"></geography>
+                                      <end-date nil="true"></end-date>
+                                      <pri-name>Nung</pri-name>
+                                      <start-date nil="true"></start-date>
+                                      <creator-id type="integer">10720</creator-id>
+                                      <confidence>y</confidence>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <is-default type="integer">0</is-default>
+                                      <codes>nut</codes>
+                                      <children type="array"/>
+                                      <updater-id type="integer">10720</updater-id>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <alt-names></alt-names>
+                                      <tree-id type="integer">24617</tree-id>
+                                      <sureness type="integer">0</sureness>
+                                      <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                      <id type="integer">959908</id>
+                                      <status nil="true"></status>
+                                    </child>
+                                    <child>
+                                      <other-codes></other-codes>
+                                      <node-type>Language</node-type>
+                                      <pub-comments></pub-comments>
+                                      <created-at type="datetime">2013-08-06T10:36:38-04:00</created-at>
+                                      <tree-val>Kadai: Thurgood 1988</tree-val>
+                                      <updated-at type="datetime">2013-08-06T10:36:38-04:00</updated-at>
+                                      <node-type-id type="integer">10001</node-type-id>
+                                      <geography nil="true"></geography>
+                                      <end-date nil="true"></end-date>
+                                      <pri-name>T'ien-pao</pri-name>
+                                      <start-date nil="true"></start-date>
+                                      <creator-id type="integer">10720</creator-id>
+                                      <confidence>y</confidence>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <is-default type="integer">0</is-default>
+                                      <codes>tpo</codes>
+                                      <children type="array"/>
+                                      <updater-id type="integer">10720</updater-id>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <alt-names></alt-names>
+                                      <tree-id type="integer">24617</tree-id>
+                                      <sureness type="integer">0</sureness>
+                                      <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                      <id type="integer">959910</id>
+                                      <status nil="true"></status>
+                                    </child>
+                                    <child>
+                                      <other-codes></other-codes>
+                                      <node-type>Language</node-type>
+                                      <pub-comments></pub-comments>
+                                      <created-at type="datetime">2013-08-06T10:36:38-04:00</created-at>
+                                      <tree-val>Kadai: Thurgood 1988</tree-val>
+                                      <updated-at type="datetime">2013-08-06T10:36:38-04:00</updated-at>
+                                      <node-type-id type="integer">10001</node-type-id>
+                                      <geography nil="true"></geography>
+                                      <end-date nil="true"></end-date>
+                                      <pri-name>Tay</pri-name>
+                                      <start-date nil="true"></start-date>
+                                      <creator-id type="integer">10720</creator-id>
+                                      <confidence>y</confidence>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <is-default type="integer">0</is-default>
+                                      <codes>tyz</codes>
+                                      <children type="array"/>
+                                      <updater-id type="integer">10720</updater-id>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <alt-names></alt-names>
+                                      <tree-id type="integer">24617</tree-id>
+                                      <sureness type="integer">0</sureness>
+                                      <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                      <id type="integer">959909</id>
+                                      <status nil="true"></status>
+                                    </child>
+                                    <child>
+                                      <other-codes></other-codes>
+                                      <node-type>Language</node-type>
+                                      <pub-comments></pub-comments>
+                                      <created-at type="datetime">2013-08-06T10:36:38-04:00</created-at>
+                                      <tree-val>Kadai: Thurgood 1988</tree-val>
+                                      <updated-at type="datetime">2013-08-06T10:36:38-04:00</updated-at>
+                                      <node-type-id type="integer">10001</node-type-id>
+                                      <geography nil="true"></geography>
+                                      <end-date nil="true"></end-date>
+                                      <pri-name>Tho</pri-name>
+                                      <start-date nil="true"></start-date>
+                                      <creator-id type="integer">10720</creator-id>
+                                      <confidence>y</confidence>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <is-default type="integer">0</is-default>
+                                      <codes>zzj</codes>
+                                      <children type="array"/>
+                                      <updater-id type="integer">10720</updater-id>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <alt-names></alt-names>
+                                      <tree-id type="integer">24617</tree-id>
+                                      <sureness type="integer">0</sureness>
+                                      <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                      <id type="integer">959907</id>
+                                      <status nil="true"></status>
+                                    </child>
+                                  </children>
+                                  <updater-id type="integer">10720</updater-id>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <alt-names></alt-names>
+                                  <tree-id type="integer">24617</tree-id>
+                                  <sureness type="integer">0</sureness>
+                                  <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                  <id type="integer">959906</id>
+                                  <status nil="true"></status>
+                                </child>
+                                <child>
+                                  <other-codes></other-codes>
+                                  <node-type>Subgroup</node-type>
+                                  <pub-comments></pub-comments>
+                                  <created-at type="datetime">2013-08-06T10:36:37-04:00</created-at>
+                                  <tree-val>Kadai: Thurgood 1988</tree-val>
+                                  <updated-at type="datetime">2013-08-06T10:36:37-04:00</updated-at>
+                                  <node-type-id type="integer">10000</node-type-id>
+                                  <geography nil="true"></geography>
+                                  <end-date nil="true"></end-date>
+                                  <pri-name>SW Tai</pri-name>
+                                  <start-date nil="true"></start-date>
+                                  <creator-id type="integer">10720</creator-id>
+                                  <confidence>y</confidence>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <is-default type="integer">0</is-default>
+                                  <codes>swta</codes>
+                                  <children type="array">
+                                    <child>
+                                      <other-codes></other-codes>
+                                      <node-type>Language</node-type>
+                                      <pub-comments></pub-comments>
+                                      <created-at type="datetime">2013-08-06T10:36:37-04:00</created-at>
+                                      <tree-val>Kadai: Thurgood 1988</tree-val>
+                                      <updated-at type="datetime">2013-08-06T10:36:37-04:00</updated-at>
+                                      <node-type-id type="integer">10001</node-type-id>
+                                      <geography nil="true"></geography>
+                                      <end-date nil="true"></end-date>
+                                      <pri-name>Siamese</pri-name>
+                                      <start-date nil="true"></start-date>
+                                      <creator-id type="integer">10720</creator-id>
+                                      <confidence>y</confidence>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <is-default type="integer">0</is-default>
+                                      <codes>tha</codes>
+                                      <children type="array"/>
+                                      <updater-id type="integer">10720</updater-id>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <alt-names></alt-names>
+                                      <tree-id type="integer">24617</tree-id>
+                                      <sureness type="integer">0</sureness>
+                                      <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                      <id type="integer">959901</id>
+                                      <status nil="true"></status>
+                                    </child>
+                                    <child>
+                                      <other-codes></other-codes>
+                                      <node-type>Language</node-type>
+                                      <pub-comments></pub-comments>
+                                      <created-at type="datetime">2013-08-06T10:36:37-04:00</created-at>
+                                      <tree-val>Kadai: Thurgood 1988</tree-val>
+                                      <updated-at type="datetime">2013-08-06T10:36:37-04:00</updated-at>
+                                      <node-type-id type="integer">10001</node-type-id>
+                                      <geography nil="true"></geography>
+                                      <end-date nil="true"></end-date>
+                                      <pri-name>Shan/L&#252;</pri-name>
+                                      <start-date nil="true"></start-date>
+                                      <creator-id type="integer">10720</creator-id>
+                                      <confidence>y</confidence>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <is-default type="integer">0</is-default>
+                                      <codes>shn, khb</codes>
+                                      <children type="array"/>
+                                      <updater-id type="integer">10720</updater-id>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <alt-names></alt-names>
+                                      <tree-id type="integer">24617</tree-id>
+                                      <sureness type="integer">0</sureness>
+                                      <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                      <id type="integer">959905</id>
+                                      <status nil="true"></status>
+                                    </child>
+                                    <child>
+                                      <other-codes></other-codes>
+                                      <node-type>Language</node-type>
+                                      <pub-comments></pub-comments>
+                                      <created-at type="datetime">2013-08-06T10:36:37-04:00</created-at>
+                                      <tree-val>Kadai: Thurgood 1988</tree-val>
+                                      <updated-at type="datetime">2013-08-06T10:36:37-04:00</updated-at>
+                                      <node-type-id type="integer">10001</node-type-id>
+                                      <geography nil="true"></geography>
+                                      <end-date nil="true"></end-date>
+                                      <pri-name>Lao</pri-name>
+                                      <start-date nil="true"></start-date>
+                                      <creator-id type="integer">10720</creator-id>
+                                      <confidence>y</confidence>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <is-default type="integer">0</is-default>
+                                      <codes>lao</codes>
+                                      <children type="array"/>
+                                      <updater-id type="integer">10720</updater-id>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <alt-names></alt-names>
+                                      <tree-id type="integer">24617</tree-id>
+                                      <sureness type="integer">0</sureness>
+                                      <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                      <id type="integer">959902</id>
+                                      <status nil="true"></status>
+                                    </child>
+                                    <child>
+                                      <other-codes></other-codes>
+                                      <node-type>Language</node-type>
+                                      <pub-comments></pub-comments>
+                                      <created-at type="datetime">2013-08-06T10:36:37-04:00</created-at>
+                                      <tree-val>Kadai: Thurgood 1988</tree-val>
+                                      <updated-at type="datetime">2013-08-06T10:36:37-04:00</updated-at>
+                                      <node-type-id type="integer">10001</node-type-id>
+                                      <geography nil="true"></geography>
+                                      <end-date nil="true"></end-date>
+                                      <pri-name>White Tai</pri-name>
+                                      <start-date nil="true"></start-date>
+                                      <creator-id type="integer">10720</creator-id>
+                                      <confidence>y</confidence>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <is-default type="integer">0</is-default>
+                                      <codes>twh</codes>
+                                      <children type="array"/>
+                                      <updater-id type="integer">10720</updater-id>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <alt-names></alt-names>
+                                      <tree-id type="integer">24617</tree-id>
+                                      <sureness type="integer">0</sureness>
+                                      <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                      <id type="integer">959903</id>
+                                      <status nil="true"></status>
+                                    </child>
+                                    <child>
+                                      <other-codes></other-codes>
+                                      <node-type>Language</node-type>
+                                      <pub-comments></pub-comments>
+                                      <created-at type="datetime">2013-08-06T10:36:37-04:00</created-at>
+                                      <tree-val>Kadai: Thurgood 1988</tree-val>
+                                      <updated-at type="datetime">2013-08-06T10:36:37-04:00</updated-at>
+                                      <node-type-id type="integer">10001</node-type-id>
+                                      <geography nil="true"></geography>
+                                      <end-date nil="true"></end-date>
+                                      <pri-name>Black Tai</pri-name>
+                                      <start-date nil="true"></start-date>
+                                      <creator-id type="integer">10720</creator-id>
+                                      <confidence>y</confidence>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <is-default type="integer">0</is-default>
+                                      <codes>blt</codes>
+                                      <children type="array"/>
+                                      <updater-id type="integer">10720</updater-id>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <alt-names></alt-names>
+                                      <tree-id type="integer">24617</tree-id>
+                                      <sureness type="integer">0</sureness>
+                                      <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                      <id type="integer">959904</id>
+                                      <status nil="true"></status>
+                                    </child>
+                                  </children>
+                                  <updater-id type="integer">10720</updater-id>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <alt-names></alt-names>
+                                  <tree-id type="integer">24617</tree-id>
+                                  <sureness type="integer">0</sureness>
+                                  <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                  <id type="integer">959900</id>
+                                  <status nil="true"></status>
+                                </child>
+                              </children>
+                              <updater-id type="integer">10720</updater-id>
+                              <deleted-at nil="true"></deleted-at>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">24617</tree-id>
+                              <sureness type="integer">0</sureness>
+                              <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                              <id type="integer">959899</id>
+                              <status nil="true"></status>
+                            </child>
+                            <child>
+                              <other-codes></other-codes>
+                              <node-type>Subgroup</node-type>
+                              <pub-comments></pub-comments>
+                              <created-at type="datetime">2013-08-06T10:36:38-04:00</created-at>
+                              <tree-val>Kadai: Thurgood 1988</tree-val>
+                              <updated-at type="datetime">2013-08-06T10:36:38-04:00</updated-at>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <geography nil="true"></geography>
+                              <end-date nil="true"></end-date>
+                              <pri-name>N. Tai</pri-name>
+                              <start-date nil="true"></start-date>
+                              <creator-id type="integer">10720</creator-id>
+                              <confidence>y</confidence>
+                              <node-status-id nil="true"></node-status-id>
+                              <is-default type="integer">0</is-default>
+                              <codes>ntai</codes>
+                              <children type="array">
+                                <child>
+                                  <other-codes></other-codes>
+                                  <node-type>Language</node-type>
+                                  <pub-comments></pub-comments>
+                                  <created-at type="datetime">2013-08-06T10:36:38-04:00</created-at>
+                                  <tree-val>Kadai: Thurgood 1988</tree-val>
+                                  <updated-at type="datetime">2013-08-06T10:36:38-04:00</updated-at>
+                                  <node-type-id type="integer">10001</node-type-id>
+                                  <geography nil="true"></geography>
+                                  <end-date nil="true"></end-date>
+                                  <pri-name>Bouyei</pri-name>
+                                  <start-date nil="true"></start-date>
+                                  <creator-id type="integer">10720</creator-id>
+                                  <confidence>y</confidence>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <is-default type="integer">0</is-default>
+                                  <codes>pcc</codes>
+                                  <children type="array"/>
+                                  <updater-id type="integer">10720</updater-id>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <alt-names></alt-names>
+                                  <tree-id type="integer">24617</tree-id>
+                                  <sureness type="integer">0</sureness>
+                                  <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                  <id type="integer">959913</id>
+                                  <status nil="true"></status>
+                                </child>
+                                <child>
+                                  <other-codes></other-codes>
+                                  <node-type>Language</node-type>
+                                  <pub-comments></pub-comments>
+                                  <created-at type="datetime">2013-08-06T10:36:38-04:00</created-at>
+                                  <tree-val>Kadai: Thurgood 1988</tree-val>
+                                  <updated-at type="datetime">2013-08-06T10:36:39-04:00</updated-at>
+                                  <node-type-id type="integer">10001</node-type-id>
+                                  <geography nil="true"></geography>
+                                  <end-date nil="true"></end-date>
+                                  <pri-name>Zhuang</pri-name>
+                                  <start-date nil="true"></start-date>
+                                  <creator-id type="integer">10720</creator-id>
+                                  <confidence>y</confidence>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <is-default type="integer">0</is-default>
+                                  <codes>zln, zyb, zlq, zeh, zch, zyj, zgb, zqe, zlj, zgn, zyn, zyg, zhn, zhd, zgm</codes>
+                                  <children type="array"/>
+                                  <updater-id type="integer">10720</updater-id>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <alt-names></alt-names>
+                                  <tree-id type="integer">24617</tree-id>
+                                  <sureness type="integer">0</sureness>
+                                  <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                  <id type="integer">959914</id>
+                                  <status nil="true"></status>
+                                </child>
+                                <child>
+                                  <other-codes></other-codes>
+                                  <node-type>Language</node-type>
+                                  <pub-comments></pub-comments>
+                                  <created-at type="datetime">2013-08-06T10:36:38-04:00</created-at>
+                                  <tree-val>Kadai: Thurgood 1988</tree-val>
+                                  <updated-at type="datetime">2013-08-06T10:36:38-04:00</updated-at>
+                                  <node-type-id type="integer">10001</node-type-id>
+                                  <geography nil="true"></geography>
+                                  <end-date nil="true"></end-date>
+                                  <pri-name>Saek</pri-name>
+                                  <start-date nil="true"></start-date>
+                                  <creator-id type="integer">10720</creator-id>
+                                  <confidence>y</confidence>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <is-default type="integer">0</is-default>
+                                  <codes>skb</codes>
+                                  <children type="array"/>
+                                  <updater-id type="integer">10720</updater-id>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <alt-names></alt-names>
+                                  <tree-id type="integer">24617</tree-id>
+                                  <sureness type="integer">0</sureness>
+                                  <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                                  <id type="integer">959912</id>
+                                  <status nil="true"></status>
+                                </child>
+                              </children>
+                              <updater-id type="integer">10720</updater-id>
+                              <deleted-at nil="true"></deleted-at>
+                              <alt-names></alt-names>
+                              <tree-id type="integer">24617</tree-id>
+                              <sureness type="integer">0</sureness>
+                              <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                              <id type="integer">959911</id>
+                              <status nil="true"></status>
+                            </child>
+                          </children>
+                          <updater-id type="integer">10720</updater-id>
+                          <deleted-at nil="true"></deleted-at>
+                          <alt-names>Proto-Tai</alt-names>
+                          <tree-id type="integer">24617</tree-id>
+                          <sureness type="integer">0</sureness>
+                          <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                          <id type="integer">959898</id>
+                          <status nil="true"></status>
+                        </child>
+                      </children>
+                      <updater-id type="integer">10720</updater-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24617</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                      <id type="integer">959883</id>
+                      <status nil="true"></status>
+                    </child>
+                    <child>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <pub-comments></pub-comments>
+                      <created-at type="datetime">2013-08-06T10:36:34-04:00</created-at>
+                      <tree-val>Kadai: Thurgood 1988</tree-val>
+                      <updated-at type="datetime">2013-08-06T10:36:34-04:00</updated-at>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <pri-name>Lakkia</pri-name>
+                      <start-date nil="true"></start-date>
+                      <creator-id type="integer">10720</creator-id>
+                      <confidence>y</confidence>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <codes>lbc</codes>
+                      <children type="array"/>
+                      <updater-id type="integer">10720</updater-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24617</tree-id>
+                      <sureness type="integer">0</sureness>
+                      <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                      <id type="integer">959882</id>
+                      <status nil="true"></status>
+                    </child>
+                  </children>
+                  <updater-id type="integer">10720</updater-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24617</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                  <id type="integer">959881</id>
+                  <status nil="true"></status>
+                </child>
+                <child>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <pub-comments></pub-comments>
+                  <created-at type="datetime">2013-08-06T10:36:34-04:00</created-at>
+                  <tree-val>Kadai: Thurgood 1988</tree-val>
+                  <updated-at type="datetime">2013-08-06T10:36:34-04:00</updated-at>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <pri-name>Be</pri-name>
+                  <start-date nil="true"></start-date>
+                  <creator-id type="integer">10720</creator-id>
+                  <confidence>y</confidence>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <codes>onb</codes>
+                  <children type="array"/>
+                  <updater-id type="integer">10720</updater-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24617</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+                  <id type="integer">959880</id>
+                  <status nil="true"></status>
+                </child>
+              </children>
+              <updater-id type="integer">10720</updater-id>
+              <deleted-at nil="true"></deleted-at>
+              <alt-names></alt-names>
+              <tree-id type="integer">24617</tree-id>
+              <sureness type="integer">0</sureness>
+              <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+              <id type="integer">959879</id>
+              <status nil="true"></status>
+            </child>
+          </children>
+          <updater-id type="integer">10720</updater-id>
+          <deleted-at nil="true"></deleted-at>
+          <alt-names></alt-names>
+          <tree-id type="integer">24617</tree-id>
+          <sureness type="integer">0</sureness>
+          <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+          <id type="integer">959875</id>
+          <status nil="true"></status>
+        </child>
+        <child>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <pub-comments></pub-comments>
+          <created-at type="datetime">2013-08-06T10:36:33-04:00</created-at>
+          <tree-val>Kadai: Thurgood 1988</tree-val>
+          <updated-at type="datetime">2013-08-06T10:36:33-04:00</updated-at>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography nil="true"></geography>
+          <end-date nil="true"></end-date>
+          <pri-name>Gelao</pri-name>
+          <start-date nil="true"></start-date>
+          <creator-id type="integer">10720</creator-id>
+          <confidence>y</confidence>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <codes>gir, giq, giw</codes>
+          <children type="array"/>
+          <updater-id type="integer">10720</updater-id>
+          <deleted-at nil="true"></deleted-at>
+          <alt-names></alt-names>
+          <tree-id type="integer">24617</tree-id>
+          <sureness type="integer">0</sureness>
+          <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+          <id type="integer">959874</id>
+          <status nil="true"></status>
+        </child>
+      </children>
+      <updater-id type="integer">10720</updater-id>
+      <deleted-at nil="true"></deleted-at>
+      <alt-names>Proto-Kadai</alt-names>
+      <tree-id type="integer">24617</tree-id>
+      <sureness type="integer">0</sureness>
+      <publications>Thurgood, Graham Ward. 1988. Notes on the Reconstruction of Proto-Kam-Sui. In Jerold A. Edmondson &amp; David B. Solnit, Comparative Kadai: Linguistic studies beyond Tai, 179-218. ISBN 0-88312-066-6</publications>
+      <id type="integer">959873</id>
+      <status nil="true"></status>
+    </root>
+    <description>Kadai: Thurgood 1988</description>
+  </tree>
+</hash>

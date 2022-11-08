@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <start-date nil="true"></start-date>
+      <is-default type="integer">0</is-default>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 631. New York: Oxford University Press. ISBN 0199255911</publications>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <geography nil="true"></geography>
+      <created-by>joe_leif</created-by>
+      <pri-name>Karok</pri-name>
+      <node-type-id type="integer">10000</node-type-id>
+      <deleted-at nil="true"></deleted-at>
+      <creator-id type="integer">10740</creator-id>
+      <alt-names></alt-names>
+      <updated-by>joe_leif</updated-by>
+      <status nil="true"></status>
+      <confidence>y</confidence>
+      <node-type>Subgroup</node-type>
+      <id type="integer">608517</id>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <is-default type="integer">0</is-default>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 631. New York: Oxford University Press. ISBN 0199255911</publications>
+          <pub-comments></pub-comments>
+          <geography>Country: United States; Lat.: 41.67; Long.: -123</geography>
+          <created-by>joe_leif</created-by>
+          <pri-name>Karok</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <alt-names></alt-names>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <confidence>y</confidence>
+          <node-type>Language</node-type>
+          <id type="integer">608518</id>
+          <children type="array"/>
+          <tree-id type="integer">15319</tree-id>
+          <created-at type="datetime">2009-09-01T18:54:25-04:00</created-at>
+          <updated-at type="datetime">2009-09-01T18:54:25-04:00</updated-at>
+          <end-date nil="true"></end-date>
+          <updater-id type="integer">10740</updater-id>
+          <tree-val>Karok: Dryer 2005</tree-val>
+          <sureness type="integer">0</sureness>
+          <other-codes>krk</other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <codes>kyh</codes>
+        </child>
+      </children>
+      <tree-id type="integer">15319</tree-id>
+      <created-at type="datetime">2009-09-01T18:54:25-04:00</created-at>
+      <updated-at type="datetime">2009-09-01T18:54:25-04:00</updated-at>
+      <end-date nil="true"></end-date>
+      <updater-id type="integer">10740</updater-id>
+      <tree-val>Karok: Dryer 2005</tree-val>
+      <sureness type="integer">0</sureness>
+      <other-codes></other-codes>
+      <node-status-id nil="true"></node-status-id>
+      <codes>kark</codes>
+    </root>
+    <description>Karok: Dryer 2005</description>
+  </tree>
+</hash>

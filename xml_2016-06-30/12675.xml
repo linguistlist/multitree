@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Africa</region>
+    <root>
+      <tree-id type="integer">12675</tree-id>
+      <created-at type="datetime">2009-06-01T16:12:22-04:00</created-at>
+      <updated-at type="datetime">2009-06-01T16:12:22-04:00</updated-at>
+      <status nil="true"></status>
+      <node-type-id type="integer">10000</node-type-id>
+      <tree-val>Omotic Hypothesis 1: Bender 1975</tree-val>
+      <node-type>Subgroup</node-type>
+      <node-status-id nil="true"></node-status-id>
+      <id type="integer">423034</id>
+      <confidence>y</confidence>
+      <alt-names></alt-names>
+      <pub-comments>This tree structure is based on grammar.  "On the basis of distribution of grammatical isomorphs, Semitic, Berber, Egyptian, and Cushitic form an "orthodox core" of Afroasiatic" (218). Based on various interpretations of movement patterns, Bender describes the Afroasiatic homeland as being located in northeast Africa (220).</pub-comments>
+      <sureness type="integer">-1</sureness>
+      <pri-name>Afroasiatic</pri-name>
+      <created-by>joe_leif</created-by>
+      <updated-by>joe_leif</updated-by>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <is-default type="integer">0</is-default>
+      <geography nil="true"></geography>
+      <creator-id type="integer">10740</creator-id>
+      <children type="array">
+        <child>
+          <tree-id type="integer">12675</tree-id>
+          <created-at type="datetime">2009-06-01T16:12:22-04:00</created-at>
+          <updated-at type="datetime">2009-06-01T16:12:23-04:00</updated-at>
+          <status nil="true"></status>
+          <node-type-id type="integer">10000</node-type-id>
+          <tree-val>Omotic Hypothesis 1: Bender 1975</tree-val>
+          <node-type>Subgroup</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">423035</id>
+          <confidence>y</confidence>
+          <alt-names></alt-names>
+          <pub-comments>"We see Semitic as having arisen in Africa rather than Asia and by complicated movements arriving in their classical and present-day locations" (221). "Semitic must have already been in northeast Africa well-prior to 2500 B.P." (222).</pub-comments>
+          <sureness type="integer">0</sureness>
+          <pri-name>Semitic</pri-name>
+          <created-by>joe_leif</created-by>
+          <updated-by>joe_leif</updated-by>
+          <start-date>2500 BC</start-date>
+          <other-codes></other-codes>
+          <is-default type="integer">0</is-default>
+          <geography nil="true"></geography>
+          <creator-id type="integer">10740</creator-id>
+          <children type="array">
+            <child>
+              <tree-id type="integer">12675</tree-id>
+              <created-at type="datetime">2009-06-01T16:12:23-04:00</created-at>
+              <updated-at type="datetime">2009-06-01T16:12:23-04:00</updated-at>
+              <status nil="true"></status>
+              <node-type-id type="integer">10000</node-type-id>
+              <tree-val>Omotic Hypothesis 1: Bender 1975</tree-val>
+              <node-type>Subgroup</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">423037</id>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <pub-comments></pub-comments>
+              <sureness type="integer">0</sureness>
+              <pri-name>Egyptian</pri-name>
+              <created-by>joe_leif</created-by>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <is-default type="integer">0</is-default>
+              <geography>Lower Nile</geography>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <updater-id type="integer">10740</updater-id>
+              <publications>Bender, M. Lionel. 1975. Omotic: A New Afroasiatic Language Family, 218-224. Carbondale, Illinois: University Museum Series, 3.ISBN B0006W4242</publications>
+              <codes>egyp</codes>
+              <end-date nil="true"></end-date>
+              <deleted-at nil="true"></deleted-at>
+            </child>
+            <child>
+              <tree-id type="integer">12675</tree-id>
+              <created-at type="datetime">2009-06-01T16:12:23-04:00</created-at>
+              <updated-at type="datetime">2009-06-01T16:12:23-04:00</updated-at>
+              <status nil="true"></status>
+              <node-type-id type="integer">10000</node-type-id>
+              <tree-val>Omotic Hypothesis 1: Bender 1975</tree-val>
+              <node-type>Subgroup</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">423038</id>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <pub-comments>"Cushitic&#8230;spread to the south, where it once was widespread but has now survived only in remnant pockets, and to the east" (221).</pub-comments>
+              <sureness type="integer">-1</sureness>
+              <pri-name>Cushitic</pri-name>
+              <created-by>joe_leif</created-by>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <updater-id type="integer">10740</updater-id>
+              <publications>Bender, M. Lionel. 1975. Omotic: A New Afroasiatic Language Family, 218-224. Carbondale, Illinois: University Museum Series, 3.ISBN B0006W4242</publications>
+              <codes>cush</codes>
+              <end-date nil="true"></end-date>
+              <deleted-at nil="true"></deleted-at>
+            </child>
+            <child>
+              <tree-id type="integer">12675</tree-id>
+              <created-at type="datetime">2009-06-01T16:12:23-04:00</created-at>
+              <updated-at type="datetime">2009-06-01T16:12:23-04:00</updated-at>
+              <status nil="true"></status>
+              <node-type-id type="integer">10000</node-type-id>
+              <tree-val>Omotic Hypothesis 1: Bender 1975</tree-val>
+              <node-type>Subgroup</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">423039</id>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <pub-comments>"The Chadic movement shifts slightly in being more westward than southward" (221).</pub-comments>
+              <sureness type="integer">0</sureness>
+              <pri-name>Chadic</pri-name>
+              <created-by>joe_leif</created-by>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <updater-id type="integer">10740</updater-id>
+              <publications>Bender, M. Lionel. 1975. Omotic: A New Afroasiatic Language Family, 218-224. Carbondale, Illinois: University Museum Series, 3.ISBN B0006W4242</publications>
+              <codes>chad</codes>
+              <end-date nil="true"></end-date>
+              <deleted-at nil="true"></deleted-at>
+            </child>
+            <child>
+              <tree-id type="integer">12675</tree-id>
+              <created-at type="datetime">2009-06-01T16:12:23-04:00</created-at>
+              <updated-at type="datetime">2009-06-01T16:12:23-04:00</updated-at>
+              <status nil="true"></status>
+              <node-type-id type="integer">10000</node-type-id>
+              <tree-val>Omotic Hypothesis 1: Bender 1975</tree-val>
+              <node-type>Subgroup</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">423036</id>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <pub-comments>"Berber and Semitic may have shared a common period, after which Berber moved west&#8230;" (222).</pub-comments>
+              <sureness type="integer">0</sureness>
+              <pri-name>Berber</pri-name>
+              <created-by>joe_leif</created-by>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <creator-id type="integer">10740</creator-id>
+              <children type="array"/>
+              <updater-id type="integer">10740</updater-id>
+              <publications>Bender, M. Lionel. 1975. Omotic: A New Afroasiatic Language Family, 218-224. Carbondale, Illinois: University Museum Series, 3.ISBN B0006W4242</publications>
+              <codes>berb</codes>
+              <end-date nil="true"></end-date>
+              <deleted-at nil="true"></deleted-at>
+            </child>
+          </children>
+          <updater-id type="integer">10740</updater-id>
+          <publications>Bender, M. Lionel. 1975. Omotic: A New Afroasiatic Language Family, 218-224. Carbondale, Illinois: University Museum Series, 3.ISBN B0006W4242</publications>
+          <codes>afsm</codes>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+        </child>
+        <child>
+          <tree-id type="integer">12675</tree-id>
+          <created-at type="datetime">2009-06-01T16:12:23-04:00</created-at>
+          <updated-at type="datetime">2009-06-01T16:12:23-04:00</updated-at>
+          <status nil="true"></status>
+          <node-type-id type="integer">10000</node-type-id>
+          <tree-val>Omotic Hypothesis 1: Bender 1975</tree-val>
+          <node-type>Subgroup</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">423040</id>
+          <confidence>y</confidence>
+          <alt-names></alt-names>
+          <pub-comments>"Omotic is seen to be quantitatively weak in Afroasiatic characteristics to the point of being suspect. However, Omotic still shares enough with the control groups investigated, that we must conclude that it is a member, though the most divergent one" (218).</pub-comments>
+          <sureness type="integer">-1</sureness>
+          <pri-name>Omotic</pri-name>
+          <created-by>joe_leif</created-by>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <is-default type="integer">0</is-default>
+          <geography nil="true"></geography>
+          <creator-id type="integer">10740</creator-id>
+          <children type="array"/>
+          <updater-id type="integer">10740</updater-id>
+          <publications>Bender, M. Lionel. 1975. Omotic: A New Afroasiatic Language Family, 218-224. Carbondale, Illinois: University Museum Series, 3.ISBN B0006W4242</publications>
+          <codes>omot</codes>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+        </child>
+      </children>
+      <updater-id type="integer">10740</updater-id>
+      <publications>Bender, M. Lionel. 1975. Omotic: A New Afroasiatic Language Family, 218-224. Carbondale, Illinois: University Museum Series, 3.ISBN B0006W4242</publications>
+      <codes>afas</codes>
+      <end-date nil="true"></end-date>
+      <deleted-at nil="true"></deleted-at>
+    </root>
+    <description>Omotic Hypothesis 1: Bender 1975</description>
+  </tree>
+</hash>

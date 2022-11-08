@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <description>S&#225;liban: Campbell, Grondona 2012</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2013-05-22T10:01:27-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>S&#225;liban: Campbell, Grondona 2012</tree-val>
+      <pub-comments>Ethnologue lists Maco (Mako, Itoto, Wotuja, Jojod) in Venezuela as a third, separate, S&#225;liban language. Kaufman (2007:77) says &#8220;Piaroa and Mako may be distinct languages with mutual bilingualism.&#8221; Loukotka (1968:151) listed these three (Piaroa, Maco, S&#225;liva) plus extinct Ature, of which he said nothing was known,&#160;as members of his &#8220;Piaroa stock&#8221;.</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2013-05-22T10:01:27-04:00</updated-at>
+      <pri-name>S&#225;liban</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">870799</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names>S&#225;livan, S&#225;liba-Piaroan</alt-names>
+      <tree-id type="integer">21959</tree-id>
+      <codes>slvn</codes>
+      <status nil="true"></status>
+      <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-05-22T10:01:27-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>S&#225;liban: Campbell, Grondona 2012</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-05-22T10:01:27-04:00</updated-at>
+          <pri-name>S&#225;liva</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">870801</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Colombia, Venezuela</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>S&#225;liba</alt-names>
+          <tree-id type="integer">21959</tree-id>
+          <codes>slc</codes>
+          <status nil="true"></status>
+          <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2013-05-22T10:01:27-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>S&#225;liban: Campbell, Grondona 2012</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2013-05-22T10:01:27-04:00</updated-at>
+          <pri-name>Piaroa</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">870800</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Colombia, Venezuela</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Piaroa-Maco, Woth&#252;ha, Guagua, Quaqua</alt-names>
+          <tree-id type="integer">21959</tree-id>
+          <codes>wpc, pid</codes>
+          <status nil="true"></status>
+          <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

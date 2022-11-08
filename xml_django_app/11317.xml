@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <node-status-id nil="true"></node-status-id>
+      <codes>tsim</codes>
+      <pub-comments></pub-comments>
+      <geography>British Columbia, Alaska</geography>
+      <created-at type="datetime">2009-01-28T12:43:05-05:00</created-at>
+      <node-type>Subgroup</node-type>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <node-status-id nil="true"></node-status-id>
+          <codes>tsi-sou</codes>
+          <pub-comments></pub-comments>
+          <geography nil="true"></geography>
+          <created-at type="datetime">2009-01-28T12:43:05-05:00</created-at>
+          <node-type>Language</node-type>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+          <tree-val>Tsimishian: Campbell 1997</tree-val>
+          <sureness type="integer">0</sureness>
+          <alt-names>Klemtu</alt-names>
+          <updated-by>joe_leif</updated-by>
+          <tree-id type="integer">11317</tree-id>
+          <node-type-id type="integer">10001</node-type-id>
+          <deleted-at nil="true"></deleted-at>
+          <created-by>joe_leif</created-by>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <id type="integer">272069</id>
+          <creator-id type="integer">10740</creator-id>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <updated-at type="datetime">2009-01-28T12:43:05-05:00</updated-at>
+          <publications>Campbell, Lyle. 1997. American Indian Languages: The Historical Linguistics of Native America, 115. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <pri-name>Southern Tsimshian</pri-name>
+          <other-codes></other-codes>
+          <is-default type="integer">0</is-default>
+        </child>
+        <child>
+          <node-status-id nil="true"></node-status-id>
+          <codes>tsi-coa</codes>
+          <pub-comments></pub-comments>
+          <geography nil="true"></geography>
+          <created-at type="datetime">2009-01-28T12:43:05-05:00</created-at>
+          <node-type>Language</node-type>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+          <tree-val>Tsimishian: Campbell 1997</tree-val>
+          <sureness type="integer">0</sureness>
+          <alt-names></alt-names>
+          <updated-by>joe_leif</updated-by>
+          <tree-id type="integer">11317</tree-id>
+          <node-type-id type="integer">10001</node-type-id>
+          <deleted-at nil="true"></deleted-at>
+          <created-by>joe_leif</created-by>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <id type="integer">272068</id>
+          <creator-id type="integer">10740</creator-id>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <updated-at type="datetime">2009-01-28T12:43:05-05:00</updated-at>
+          <publications>Campbell, Lyle. 1997. American Indian Languages: The Historical Linguistics of Native America, 115. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <pri-name>Coast Tsimshian</pri-name>
+          <other-codes></other-codes>
+          <is-default type="integer">0</is-default>
+        </child>
+        <child>
+          <node-status-id nil="true"></node-status-id>
+          <codes>git, ncg</codes>
+          <pub-comments></pub-comments>
+          <geography>Alaska</geography>
+          <created-at type="datetime">2009-01-28T12:43:05-05:00</created-at>
+          <node-type>Language</node-type>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <node-status-id nil="true"></node-status-id>
+              <codes>git-eas</codes>
+              <pub-comments></pub-comments>
+              <geography nil="true"></geography>
+              <created-at type="datetime">2009-01-28T12:43:05-05:00</created-at>
+              <node-type>Dialect</node-type>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <tree-val>Tsimishian: Campbell 1997</tree-val>
+              <sureness type="integer">0</sureness>
+              <alt-names></alt-names>
+              <updated-by>joe_leif</updated-by>
+              <tree-id type="integer">11317</tree-id>
+              <node-type-id type="integer">10003</node-type-id>
+              <deleted-at nil="true"></deleted-at>
+              <created-by>joe_leif</created-by>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <id type="integer">272066</id>
+              <creator-id type="integer">10740</creator-id>
+              <confidence>y</confidence>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2009-01-28T12:43:05-05:00</updated-at>
+              <publications>Campbell, Lyle. 1997. American Indian Languages: The Historical Linguistics of Native America, 115. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <pri-name>Eastern Gitksan</pri-name>
+              <other-codes></other-codes>
+              <is-default type="integer">0</is-default>
+            </child>
+            <child>
+              <node-status-id nil="true"></node-status-id>
+              <codes>git-nis</codes>
+              <pub-comments></pub-comments>
+              <geography nil="true"></geography>
+              <created-at type="datetime">2009-01-28T12:43:05-05:00</created-at>
+              <node-type>Dialect</node-type>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <tree-val>Tsimishian: Campbell 1997</tree-val>
+              <sureness type="integer">0</sureness>
+              <alt-names>Niska</alt-names>
+              <updated-by>joe_leif</updated-by>
+              <tree-id type="integer">11317</tree-id>
+              <node-type-id type="integer">10003</node-type-id>
+              <deleted-at nil="true"></deleted-at>
+              <created-by>joe_leif</created-by>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <id type="integer">272065</id>
+              <creator-id type="integer">10740</creator-id>
+              <confidence>y</confidence>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2009-01-28T12:43:05-05:00</updated-at>
+              <publications>Campbell, Lyle. 1997. American Indian Languages: The Historical Linguistics of Native America, 115. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <pri-name>Nishga</pri-name>
+              <other-codes></other-codes>
+              <is-default type="integer">0</is-default>
+            </child>
+            <child>
+              <node-status-id nil="true"></node-status-id>
+              <codes>git-sou</codes>
+              <pub-comments></pub-comments>
+              <geography nil="true"></geography>
+              <created-at type="datetime">2009-01-28T12:43:05-05:00</created-at>
+              <node-type>Dialect</node-type>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <tree-val>Tsimishian: Campbell 1997</tree-val>
+              <sureness type="integer">0</sureness>
+              <alt-names></alt-names>
+              <updated-by>joe_leif</updated-by>
+              <tree-id type="integer">11317</tree-id>
+              <node-type-id type="integer">10003</node-type-id>
+              <deleted-at nil="true"></deleted-at>
+              <created-by>joe_leif</created-by>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <id type="integer">272067</id>
+              <creator-id type="integer">10740</creator-id>
+              <confidence>y</confidence>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2009-01-28T12:43:05-05:00</updated-at>
+              <publications>Campbell, Lyle. 1997. American Indian Languages: The Historical Linguistics of Native America, 115. Oxford: Oxford University Press. ISBN 0195094271</publications>
+              <pri-name>Southern Gitksan</pri-name>
+              <other-codes></other-codes>
+              <is-default type="integer">0</is-default>
+            </child>
+          </children>
+          <tree-val>Tsimishian: Campbell 1997</tree-val>
+          <sureness type="integer">0</sureness>
+          <alt-names></alt-names>
+          <updated-by>joe_leif</updated-by>
+          <tree-id type="integer">11317</tree-id>
+          <node-type-id type="integer">10001</node-type-id>
+          <deleted-at nil="true"></deleted-at>
+          <created-by>joe_leif</created-by>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <id type="integer">272064</id>
+          <creator-id type="integer">10740</creator-id>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <updated-at type="datetime">2009-01-28T12:43:05-05:00</updated-at>
+          <publications>Campbell, Lyle. 1997. American Indian Languages: The Historical Linguistics of Native America, 115. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <pri-name>Nass-Gitksan</pri-name>
+          <other-codes></other-codes>
+          <is-default type="integer">0</is-default>
+        </child>
+      </children>
+      <tree-val>Tsimishian: Campbell 1997</tree-val>
+      <sureness type="integer">0</sureness>
+      <alt-names></alt-names>
+      <updated-by>joe_leif</updated-by>
+      <tree-id type="integer">11317</tree-id>
+      <node-type-id type="integer">10000</node-type-id>
+      <deleted-at nil="true"></deleted-at>
+      <created-by>joe_leif</created-by>
+      <status nil="true"></status>
+      <start-date nil="true"></start-date>
+      <id type="integer">272063</id>
+      <creator-id type="integer">10740</creator-id>
+      <confidence>y</confidence>
+      <updater-id type="integer">10740</updater-id>
+      <updated-at type="datetime">2009-01-28T12:43:05-05:00</updated-at>
+      <publications>Campbell, Lyle. 1997. American Indian Languages: The Historical Linguistics of Native America, 115. Oxford: Oxford University Press. ISBN 0195094271</publications>
+      <pri-name>Tsimshian</pri-name>
+      <other-codes></other-codes>
+      <is-default type="integer">0</is-default>
+    </root>
+    <description>Tsimishian: Campbell 1997</description>
+  </tree>
+</hash>

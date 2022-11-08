@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <status nil="true"></status>
+      <node-type-id type="integer">10000</node-type-id>
+      <created-at type="datetime">2009-05-19T17:01:26-04:00</created-at>
+      <tree-val>S&#225;liban: Dryer 2005</tree-val>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <node-type>Subgroup</node-type>
+      <codes>pisa</codes>
+      <geography nil="true"></geography>
+      <updated-at type="datetime">2009-05-19T17:01:26-04:00</updated-at>
+      <tree-id type="integer">12428</tree-id>
+      <updater-id type="integer">10740</updater-id>
+      <node-status-id nil="true"></node-status-id>
+      <alt-names></alt-names>
+      <sureness type="integer">0</sureness>
+      <end-date nil="true"></end-date>
+      <start-date nil="true"></start-date>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 635. New York: Oxford University Press. ISBN 0199255911</publications>
+      <pri-name>S&#225;liban</pri-name>
+      <other-codes></other-codes>
+      <created-by>joe_leif</created-by>
+      <confidence>y</confidence>
+      <deleted-at nil="true"></deleted-at>
+      <creator-id type="integer">10740</creator-id>
+      <children type="array">
+        <child>
+          <status nil="true"></status>
+          <node-type-id type="integer">10001</node-type-id>
+          <created-at type="datetime">2009-05-19T17:01:26-04:00</created-at>
+          <tree-val>S&#225;liban: Dryer 2005</tree-val>
+          <pub-comments></pub-comments>
+          <node-type>Language</node-type>
+          <codes>pid</codes>
+          <geography>Country: Venezuela; Lat.: 5; Long.: -67</geography>
+          <updated-at type="datetime">2009-05-19T17:01:26-04:00</updated-at>
+          <tree-id type="integer">12428</tree-id>
+          <updater-id type="integer">10740</updater-id>
+          <node-status-id nil="true"></node-status-id>
+          <alt-names></alt-names>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <start-date nil="true"></start-date>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 635. New York: Oxford University Press. ISBN 0199255911</publications>
+          <pri-name>Piaroa</pri-name>
+          <other-codes>pia</other-codes>
+          <created-by>joe_leif</created-by>
+          <confidence>y</confidence>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <children type="array"/>
+          <updated-by>joe_leif</updated-by>
+          <is-default type="integer">0</is-default>
+          <id type="integer">418039</id>
+        </child>
+        <child>
+          <status nil="true"></status>
+          <node-type-id type="integer">10001</node-type-id>
+          <created-at type="datetime">2009-05-19T17:01:26-04:00</created-at>
+          <tree-val>S&#225;liban: Dryer 2005</tree-val>
+          <pub-comments></pub-comments>
+          <node-type>Language</node-type>
+          <codes>slc</codes>
+          <geography>Country: Colombia, Venezuela; Lat.: 6; Long.: -70</geography>
+          <updated-at type="datetime">2009-05-19T17:01:26-04:00</updated-at>
+          <tree-id type="integer">12428</tree-id>
+          <updater-id type="integer">10740</updater-id>
+          <node-status-id nil="true"></node-status-id>
+          <alt-names>Saliba</alt-names>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <start-date nil="true"></start-date>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 635. New York: Oxford University Press. ISBN 0199255911</publications>
+          <pri-name>S&#225;liba (in Colombia)</pri-name>
+          <other-codes>sba</other-codes>
+          <created-by>joe_leif</created-by>
+          <confidence>y</confidence>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <children type="array"/>
+          <updated-by>joe_leif</updated-by>
+          <is-default type="integer">0</is-default>
+          <id type="integer">418040</id>
+        </child>
+      </children>
+      <updated-by>joe_leif</updated-by>
+      <is-default type="integer">0</is-default>
+      <id type="integer">418038</id>
+    </root>
+    <description>S&#225;liban: Dryer 2005</description>
+  </tree>
+</hash>

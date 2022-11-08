@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <is-default type="integer">0</is-default>
+      <geography>U.S. Norhtwest and British Columbia, along the Pacific coast in Washington, Oregon, and British Columbia, and inland to interior British Columbia, the Idaho panhandle, and northwestern Montana.</geography>
+      <pub-comments>The author bases the grouping of these languages according to the schema proposed by Czaykowska-Higgins and Kinkade (1998).</pub-comments>
+      <other-codes></other-codes>
+      <node-type-id type="integer">10000</node-type-id>
+      <creator-id type="integer">10740</creator-id>
+      <created-at type="datetime">2010-05-03T12:22:49-04:00</created-at>
+      <confidence>y</confidence>
+      <codes>sali</codes>
+      <status nil="true"></status>
+      <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <is-default type="integer">0</is-default>
+          <geography nil="true"></geography>
+          <pub-comments></pub-comments>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10000</node-type-id>
+          <creator-id type="integer">10740</creator-id>
+          <created-at type="datetime">2010-05-03T12:22:50-04:00</created-at>
+          <confidence>y</confidence>
+          <codes>insa</codes>
+          <status nil="true"></status>
+          <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10000</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2010-05-03T12:22:51-04:00</created-at>
+              <confidence>y</confidence>
+              <codes>sins</codes>
+              <status nil="true"></status>
+              <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <geography>Canada</geography>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-at type="datetime">2010-05-03T12:22:51-04:00</created-at>
+                  <confidence>y</confidence>
+                  <codes>col</codes>
+                  <status nil="true"></status>
+                  <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Columbian</pri-name>
+                  <sureness type="integer">0</sureness>
+                  <tree-val>Salishan:  Thomason 2006</tree-val>
+                  <updated-at type="datetime">2010-05-03T12:22:51-04:00</updated-at>
+                  <node-type>Language</node-type>
+                  <id type="integer">689911</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <start-date nil="true"></start-date>
+                  <created-by>joe_leif</created-by>
+                  <alt-names></alt-names>
+                  <updater-id type="integer">10740</updater-id>
+                  <tree-id type="integer">17258</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <geography>Canada</geography>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-at type="datetime">2010-05-03T12:22:51-04:00</created-at>
+                  <confidence>y</confidence>
+                  <codes>oka</codes>
+                  <status nil="true"></status>
+                  <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Colville-Okanagan</pri-name>
+                  <sureness type="integer">0</sureness>
+                  <tree-val>Salishan:  Thomason 2006</tree-val>
+                  <updated-at type="datetime">2010-05-03T12:22:51-04:00</updated-at>
+                  <node-type>Language</node-type>
+                  <id type="integer">689910</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <start-date nil="true"></start-date>
+                  <created-by>joe_leif</created-by>
+                  <alt-names></alt-names>
+                  <updater-id type="integer">10740</updater-id>
+                  <tree-id type="integer">17258</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <geography>Canada</geography>
+                  <pub-comments>"Different tribes speak closely related dialects of a single (nameless) language" pg. 732).</pub-comments>
+                  <other-codes></other-codes>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-at type="datetime">2010-05-03T12:22:51-04:00</created-at>
+                  <confidence>y</confidence>
+                  <codes>spo, fla</codes>
+                  <status nil="true"></status>
+                  <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Montana Salish-Kalispel-Spokane</pri-name>
+                  <sureness type="integer">0</sureness>
+                  <tree-val>Salishan:  Thomason 2006</tree-val>
+                  <updated-at type="datetime">2010-05-03T12:22:51-04:00</updated-at>
+                  <node-type>Language</node-type>
+                  <id type="integer">689913</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <start-date nil="true"></start-date>
+                  <created-by>joe_leif</created-by>
+                  <alt-names>Flathead-Kalispel-Spokane, Flathead-Pend d'Oreille-Spokane, Montana Salish-Pend d'Oreille-Spokane</alt-names>
+                  <updater-id type="integer">10740</updater-id>
+                  <tree-id type="integer">17258</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <geography>Canada</geography>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-at type="datetime">2010-05-03T12:22:51-04:00</created-at>
+                  <confidence>y</confidence>
+                  <codes>crd</codes>
+                  <status nil="true"></status>
+                  <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Coeur d'Alene</pri-name>
+                  <sureness type="integer">0</sureness>
+                  <tree-val>Salishan:  Thomason 2006</tree-val>
+                  <updated-at type="datetime">2010-05-03T12:22:51-04:00</updated-at>
+                  <node-type>Language</node-type>
+                  <id type="integer">689912</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <start-date nil="true"></start-date>
+                  <created-by>joe_leif</created-by>
+                  <alt-names></alt-names>
+                  <updater-id type="integer">10740</updater-id>
+                  <tree-id type="integer">17258</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+              </children>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Southern Interior Salish</pri-name>
+              <sureness type="integer">0</sureness>
+              <tree-val>Salishan:  Thomason 2006</tree-val>
+              <updated-at type="datetime">2010-05-03T12:22:51-04:00</updated-at>
+              <node-type>Subgroup</node-type>
+              <id type="integer">689909</id>
+              <deleted-at nil="true"></deleted-at>
+              <start-date nil="true"></start-date>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">17258</tree-id>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10000</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2010-05-03T12:22:50-04:00</created-at>
+              <confidence>y</confidence>
+              <codes>nsal</codes>
+              <status nil="true"></status>
+              <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <geography>Interior British Columbia</geography>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-at type="datetime">2010-05-03T12:22:50-04:00</created-at>
+                  <confidence>y</confidence>
+                  <codes>lil</codes>
+                  <status nil="true"></status>
+                  <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Lillooet</pri-name>
+                  <sureness type="integer">0</sureness>
+                  <tree-val>Salishan:  Thomason 2006</tree-val>
+                  <updated-at type="datetime">2010-05-03T12:22:51-04:00</updated-at>
+                  <node-type>Language</node-type>
+                  <id type="integer">689907</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <start-date nil="true"></start-date>
+                  <created-by>joe_leif</created-by>
+                  <alt-names></alt-names>
+                  <updater-id type="integer">10740</updater-id>
+                  <tree-id type="integer">17258</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <geography>Interior British Columbia</geography>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-at type="datetime">2010-05-03T12:22:51-04:00</created-at>
+                  <confidence>y</confidence>
+                  <codes>thp</codes>
+                  <status nil="true"></status>
+                  <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Thompson River Salish</pri-name>
+                  <sureness type="integer">0</sureness>
+                  <tree-val>Salishan:  Thomason 2006</tree-val>
+                  <updated-at type="datetime">2010-05-03T12:22:51-04:00</updated-at>
+                  <node-type>Language</node-type>
+                  <id type="integer">689908</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <start-date nil="true"></start-date>
+                  <created-by>joe_leif</created-by>
+                  <alt-names></alt-names>
+                  <updater-id type="integer">10740</updater-id>
+                  <tree-id type="integer">17258</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <geography>Interior British Columbia</geography>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-at type="datetime">2010-05-03T12:22:50-04:00</created-at>
+                  <confidence>y</confidence>
+                  <codes>shs</codes>
+                  <status nil="true"></status>
+                  <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Shuswap</pri-name>
+                  <sureness type="integer">0</sureness>
+                  <tree-val>Salishan:  Thomason 2006</tree-val>
+                  <updated-at type="datetime">2010-05-03T12:22:50-04:00</updated-at>
+                  <node-type>Language</node-type>
+                  <id type="integer">689906</id>
+                  <deleted-at nil="true"></deleted-at>
+                  <start-date nil="true"></start-date>
+                  <created-by>joe_leif</created-by>
+                  <alt-names></alt-names>
+                  <updater-id type="integer">10740</updater-id>
+                  <tree-id type="integer">17258</tree-id>
+                  <node-status-id nil="true"></node-status-id>
+                </child>
+              </children>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Northern Interior Salish</pri-name>
+              <sureness type="integer">0</sureness>
+              <tree-val>Salishan:  Thomason 2006</tree-val>
+              <updated-at type="datetime">2010-05-06T10:16:45-04:00</updated-at>
+              <node-type>Subgroup</node-type>
+              <id type="integer">689905</id>
+              <deleted-at nil="true"></deleted-at>
+              <start-date nil="true"></start-date>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">17258</tree-id>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+          </children>
+          <updated-by>joe_leif</updated-by>
+          <pri-name>Interior Salish</pri-name>
+          <sureness type="integer">0</sureness>
+          <tree-val>Salishan:  Thomason 2006</tree-val>
+          <updated-at type="datetime">2010-05-03T12:22:50-04:00</updated-at>
+          <node-type>Subgroup</node-type>
+          <id type="integer">689904</id>
+          <deleted-at nil="true"></deleted-at>
+          <start-date nil="true"></start-date>
+          <created-by>joe_leif</created-by>
+          <alt-names></alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">17258</tree-id>
+          <node-status-id nil="true"></node-status-id>
+        </child>
+        <child>
+          <is-default type="integer">0</is-default>
+          <geography nil="true"></geography>
+          <pub-comments></pub-comments>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10000</node-type-id>
+          <creator-id type="integer">10740</creator-id>
+          <created-at type="datetime">2010-05-03T12:22:50-04:00</created-at>
+          <confidence>y</confidence>
+          <codes>tsam</codes>
+          <status nil="true"></status>
+          <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2010-05-03T12:22:50-04:00</created-at>
+              <confidence>y</confidence>
+              <codes>cow</codes>
+              <status nil="true"></status>
+              <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Cowlitz</pri-name>
+              <sureness type="integer">0</sureness>
+              <tree-val>Salishan:  Thomason 2006</tree-val>
+              <updated-at type="datetime">2010-05-03T12:22:50-04:00</updated-at>
+              <node-type>Language</node-type>
+              <id type="integer">689902</id>
+              <deleted-at nil="true"></deleted-at>
+              <start-date nil="true"></start-date>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">17258</tree-id>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2010-05-03T12:22:50-04:00</created-at>
+              <confidence>y</confidence>
+              <codes>cjh</codes>
+              <status nil="true"></status>
+              <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Upper Chehalis</pri-name>
+              <sureness type="integer">0</sureness>
+              <tree-val>Salishan:  Thomason 2006</tree-val>
+              <updated-at type="datetime">2010-05-03T12:22:50-04:00</updated-at>
+              <node-type>Language</node-type>
+              <id type="integer">689901</id>
+              <deleted-at nil="true"></deleted-at>
+              <start-date nil="true"></start-date>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">17258</tree-id>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2010-05-03T12:22:50-04:00</created-at>
+              <confidence>y</confidence>
+              <codes>cea</codes>
+              <status nil="true"></status>
+              <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Lower Chehalis</pri-name>
+              <sureness type="integer">0</sureness>
+              <tree-val>Salishan:  Thomason 2006</tree-val>
+              <updated-at type="datetime">2010-05-03T12:22:50-04:00</updated-at>
+              <node-type>Language</node-type>
+              <id type="integer">689900</id>
+              <deleted-at nil="true"></deleted-at>
+              <start-date nil="true"></start-date>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">17258</tree-id>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2010-05-03T12:22:50-04:00</created-at>
+              <confidence>y</confidence>
+              <codes>qun</codes>
+              <status nil="true"></status>
+              <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Quinault</pri-name>
+              <sureness type="integer">0</sureness>
+              <tree-val>Salishan:  Thomason 2006</tree-val>
+              <updated-at type="datetime">2010-05-03T12:22:50-04:00</updated-at>
+              <node-type>Language</node-type>
+              <id type="integer">689899</id>
+              <deleted-at nil="true"></deleted-at>
+              <start-date nil="true"></start-date>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">17258</tree-id>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+          </children>
+          <updated-by>joe_leif</updated-by>
+          <pri-name>Tsamosan</pri-name>
+          <sureness type="integer">0</sureness>
+          <tree-val>Salishan:  Thomason 2006</tree-val>
+          <updated-at type="datetime">2010-05-03T12:22:50-04:00</updated-at>
+          <node-type>Subgroup</node-type>
+          <id type="integer">689898</id>
+          <deleted-at nil="true"></deleted-at>
+          <start-date nil="true"></start-date>
+          <created-by>joe_leif</created-by>
+          <alt-names></alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">17258</tree-id>
+          <node-status-id nil="true"></node-status-id>
+        </child>
+        <child>
+          <is-default type="integer">0</is-default>
+          <geography nil="true"></geography>
+          <pub-comments></pub-comments>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10000</node-type-id>
+          <creator-id type="integer">10740</creator-id>
+          <created-at type="datetime">2010-05-03T12:22:49-04:00</created-at>
+          <confidence>y</confidence>
+          <codes>csal</codes>
+          <status nil="true"></status>
+          <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2010-05-03T12:22:50-04:00</created-at>
+              <confidence>y</confidence>
+              <codes>lut</codes>
+              <status nil="true"></status>
+              <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Lushootseed</pri-name>
+              <sureness type="integer">0</sureness>
+              <tree-val>Salishan:  Thomason 2006</tree-val>
+              <updated-at type="datetime">2010-05-03T12:22:50-04:00</updated-at>
+              <node-type>Language</node-type>
+              <id type="integer">689896</id>
+              <deleted-at nil="true"></deleted-at>
+              <start-date nil="true"></start-date>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">17258</tree-id>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2010-05-03T12:22:49-04:00</created-at>
+              <confidence>y</confidence>
+              <codes>squ</codes>
+              <status nil="true"></status>
+              <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Squamish</pri-name>
+              <sureness type="integer">0</sureness>
+              <tree-val>Salishan:  Thomason 2006</tree-val>
+              <updated-at type="datetime">2010-05-03T12:22:49-04:00</updated-at>
+              <node-type>Language</node-type>
+              <id type="integer">689891</id>
+              <deleted-at nil="true"></deleted-at>
+              <start-date nil="true"></start-date>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">17258</tree-id>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2010-05-03T12:22:49-04:00</created-at>
+              <confidence>y</confidence>
+              <codes>ptw</codes>
+              <status nil="true"></status>
+              <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Pentlatch</pri-name>
+              <sureness type="integer">0</sureness>
+              <tree-val>Salishan:  Thomason 2006</tree-val>
+              <updated-at type="datetime">2010-05-03T12:22:49-04:00</updated-at>
+              <node-type>Language</node-type>
+              <id type="integer">689889</id>
+              <deleted-at nil="true"></deleted-at>
+              <start-date nil="true"></start-date>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">17258</tree-id>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2010-05-03T12:22:49-04:00</created-at>
+              <confidence>y</confidence>
+              <codes>coo</codes>
+              <status nil="true"></status>
+              <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Comox-Sliammon</pri-name>
+              <sureness type="integer">0</sureness>
+              <tree-val>Salishan:  Thomason 2006</tree-val>
+              <updated-at type="datetime">2010-05-03T12:22:49-04:00</updated-at>
+              <node-type>Language</node-type>
+              <id type="integer">689888</id>
+              <deleted-at nil="true"></deleted-at>
+              <start-date nil="true"></start-date>
+              <created-by>joe_leif</created-by>
+              <alt-names>Comox</alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">17258</tree-id>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2010-05-03T12:22:50-04:00</created-at>
+              <confidence>y</confidence>
+              <codes>clm</codes>
+              <status nil="true"></status>
+              <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Klallam</pri-name>
+              <sureness type="integer">0</sureness>
+              <tree-val>Salishan:  Thomason 2006</tree-val>
+              <updated-at type="datetime">2010-05-03T12:22:50-04:00</updated-at>
+              <node-type>Language</node-type>
+              <id type="integer">689894</id>
+              <deleted-at nil="true"></deleted-at>
+              <start-date nil="true"></start-date>
+              <created-by>joe_leif</created-by>
+              <alt-names>Clallam</alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">17258</tree-id>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2010-05-03T12:22:49-04:00</created-at>
+              <confidence>y</confidence>
+              <codes>hur</codes>
+              <status nil="true"></status>
+              <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Halkomelem</pri-name>
+              <sureness type="integer">0</sureness>
+              <tree-val>Salishan:  Thomason 2006</tree-val>
+              <updated-at type="datetime">2010-05-03T12:22:50-04:00</updated-at>
+              <node-type>Language</node-type>
+              <id type="integer">689892</id>
+              <deleted-at nil="true"></deleted-at>
+              <start-date nil="true"></start-date>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">17258</tree-id>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2010-05-03T12:22:50-04:00</created-at>
+              <confidence>y</confidence>
+              <codes>str</codes>
+              <status nil="true"></status>
+              <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Northern Straits</pri-name>
+              <sureness type="integer">0</sureness>
+              <tree-val>Salishan:  Thomason 2006</tree-val>
+              <updated-at type="datetime">2010-05-03T12:22:50-04:00</updated-at>
+              <node-type>Language</node-type>
+              <id type="integer">689893</id>
+              <deleted-at nil="true"></deleted-at>
+              <start-date nil="true"></start-date>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">17258</tree-id>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2010-05-03T12:22:49-04:00</created-at>
+              <confidence>y</confidence>
+              <codes>sec</codes>
+              <status nil="true"></status>
+              <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Sechelt</pri-name>
+              <sureness type="integer">0</sureness>
+              <tree-val>Salishan:  Thomason 2006</tree-val>
+              <updated-at type="datetime">2010-05-03T12:22:49-04:00</updated-at>
+              <node-type>Language</node-type>
+              <id type="integer">689890</id>
+              <deleted-at nil="true"></deleted-at>
+              <start-date nil="true"></start-date>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">17258</tree-id>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2010-05-03T12:22:50-04:00</created-at>
+              <confidence>y</confidence>
+              <codes>twa</codes>
+              <status nil="true"></status>
+              <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Twana</pri-name>
+              <sureness type="integer">0</sureness>
+              <tree-val>Salishan:  Thomason 2006</tree-val>
+              <updated-at type="datetime">2010-05-03T12:22:50-04:00</updated-at>
+              <node-type>Language</node-type>
+              <id type="integer">689897</id>
+              <deleted-at nil="true"></deleted-at>
+              <start-date nil="true"></start-date>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">17258</tree-id>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <created-at type="datetime">2010-05-03T12:22:50-04:00</created-at>
+              <confidence>y</confidence>
+              <codes>nok</codes>
+              <status nil="true"></status>
+              <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Nooksack</pri-name>
+              <sureness type="integer">0</sureness>
+              <tree-val>Salishan:  Thomason 2006</tree-val>
+              <updated-at type="datetime">2010-05-03T12:22:50-04:00</updated-at>
+              <node-type>Language</node-type>
+              <id type="integer">689895</id>
+              <deleted-at nil="true"></deleted-at>
+              <start-date nil="true"></start-date>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">17258</tree-id>
+              <node-status-id nil="true"></node-status-id>
+            </child>
+          </children>
+          <updated-by>joe_leif</updated-by>
+          <pri-name>Central Salish</pri-name>
+          <sureness type="integer">0</sureness>
+          <tree-val>Salishan:  Thomason 2006</tree-val>
+          <updated-at type="datetime">2010-05-03T12:22:49-04:00</updated-at>
+          <node-type>Subgroup</node-type>
+          <id type="integer">689887</id>
+          <deleted-at nil="true"></deleted-at>
+          <start-date nil="true"></start-date>
+          <created-by>joe_leif</created-by>
+          <alt-names>Coast Salish</alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">17258</tree-id>
+          <node-status-id nil="true"></node-status-id>
+        </child>
+        <child>
+          <is-default type="integer">0</is-default>
+          <geography>Oregon</geography>
+          <pub-comments></pub-comments>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <creator-id type="integer">10740</creator-id>
+          <created-at type="datetime">2010-05-03T12:22:50-04:00</created-at>
+          <confidence>y</confidence>
+          <codes>til</codes>
+          <status nil="true"></status>
+          <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+          <updated-by>joe_leif</updated-by>
+          <pri-name>Tillamook</pri-name>
+          <sureness type="integer">0</sureness>
+          <tree-val>Salishan:  Thomason 2006</tree-val>
+          <updated-at type="datetime">2010-05-03T12:22:50-04:00</updated-at>
+          <node-type>Language</node-type>
+          <id type="integer">689903</id>
+          <deleted-at nil="true"></deleted-at>
+          <start-date nil="true"></start-date>
+          <created-by>joe_leif</created-by>
+          <alt-names></alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">17258</tree-id>
+          <node-status-id nil="true"></node-status-id>
+        </child>
+        <child>
+          <is-default type="integer">0</is-default>
+          <geography nil="true"></geography>
+          <pub-comments></pub-comments>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <creator-id type="integer">10740</creator-id>
+          <created-at type="datetime">2010-05-03T12:22:49-04:00</created-at>
+          <confidence>y</confidence>
+          <codes>blc</codes>
+          <status nil="true"></status>
+          <publications>Thomason, Sarah G. 2006. Encyclopedia of Language and Linguistics, vol. 10, 732-734. Oxford: Elsevier. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+          <updated-by>joe_leif</updated-by>
+          <pri-name>Bella Coola</pri-name>
+          <sureness type="integer">0</sureness>
+          <tree-val>Salishan:  Thomason 2006</tree-val>
+          <updated-at type="datetime">2010-05-03T12:22:49-04:00</updated-at>
+          <node-type>Language</node-type>
+          <id type="integer">689886</id>
+          <deleted-at nil="true"></deleted-at>
+          <start-date nil="true"></start-date>
+          <created-by>joe_leif</created-by>
+          <alt-names></alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">17258</tree-id>
+          <node-status-id nil="true"></node-status-id>
+        </child>
+      </children>
+      <updated-by>joe_leif</updated-by>
+      <pri-name>Salish</pri-name>
+      <sureness type="integer">0</sureness>
+      <tree-val>Salishan:  Thomason 2006</tree-val>
+      <updated-at type="datetime">2010-05-03T12:22:49-04:00</updated-at>
+      <node-type>Subgroup</node-type>
+      <id type="integer">689885</id>
+      <deleted-at nil="true"></deleted-at>
+      <start-date nil="true"></start-date>
+      <created-by>joe_leif</created-by>
+      <alt-names></alt-names>
+      <updater-id type="integer">10740</updater-id>
+      <tree-id type="integer">17258</tree-id>
+      <node-status-id nil="true"></node-status-id>
+    </root>
+    <description>Salishan:  Thomason 2006</description>
+  </tree>
+</hash>

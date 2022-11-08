@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Africa</region>
+    <root>
+      <tree-id type="integer">24121</tree-id>
+      <is-default type="integer">0</is-default>
+      <updated-by>emily</updated-by>
+      <start-date nil="true"></start-date>
+      <node-type-id type="integer">10000</node-type-id>
+      <created-by>emily</created-by>
+      <codes>afas</codes>
+      <alt-names>Afrasian</alt-names>
+      <updater-id type="integer">10640</updater-id>
+      <geography nil="true"></geography>
+      <end-date nil="true"></end-date>
+      <creator-id type="integer">10640</creator-id>
+      <children type="array">
+        <child>
+          <tree-id type="integer">24121</tree-id>
+          <is-default type="integer">0</is-default>
+          <updated-by>emily</updated-by>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10000</node-type-id>
+          <created-by>emily</created-by>
+          <codes>eryt</codes>
+          <alt-names></alt-names>
+          <updater-id type="integer">10640</updater-id>
+          <geography nil="true"></geography>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10640</creator-id>
+          <children type="array">
+            <child>
+              <tree-id type="integer">24121</tree-id>
+              <is-default type="integer">0</is-default>
+              <updated-by>emily</updated-by>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <created-by>emily</created-by>
+              <codes>cush</codes>
+              <alt-names></alt-names>
+              <updater-id type="integer">10640</updater-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10640</creator-id>
+              <children type="array">
+                <child>
+                  <tree-id type="integer">24121</tree-id>
+                  <is-default type="integer">0</is-default>
+                  <updated-by>emily</updated-by>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <created-by>emily</created-by>
+                  <codes>escu</codes>
+                  <alt-names></alt-names>
+                  <updater-id type="integer">10640</updater-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <creator-id type="integer">10640</creator-id>
+                  <children type="array">
+                    <child>
+                      <tree-id type="integer">24121</tree-id>
+                      <is-default type="integer">0</is-default>
+                      <updated-by>emily</updated-by>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <created-by>emily</created-by>
+                      <codes>ecus</codes>
+                      <alt-names></alt-names>
+                      <updater-id type="integer">10640</updater-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <creator-id type="integer">10640</creator-id>
+                      <children type="array"/>
+                      <tree-val>Afroasiatic: Ehret 2000</tree-val>
+                      <pri-name>Eastern Cushitic</pri-name>
+                      <other-codes></other-codes>
+                      <publications>Ehret, Christopher. 1995. Reconstructing Proto-Afroasiatic (Proto-Afrasian). Berkeley: University of California Press. ISBN 0-520-09799-8</publications>
+                      <updated-at type="datetime">2013-07-15T09:26:13-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <status nil="true"></status>
+                      <id type="integer">941591</id>
+                      <created-at type="datetime">2013-07-15T09:26:13-04:00</created-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <node-type>Subgroup</node-type>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                    </child>
+                    <child>
+                      <tree-id type="integer">24121</tree-id>
+                      <is-default type="integer">0</is-default>
+                      <updated-by>emily</updated-by>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <created-by>emily</created-by>
+                      <codes>scus</codes>
+                      <alt-names></alt-names>
+                      <updater-id type="integer">10640</updater-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <creator-id type="integer">10640</creator-id>
+                      <children type="array"/>
+                      <tree-val>Afroasiatic: Ehret 2000</tree-val>
+                      <pri-name>Southern Cushitic</pri-name>
+                      <other-codes></other-codes>
+                      <publications>Ehret, Christopher. 1995. Reconstructing Proto-Afroasiatic (Proto-Afrasian). Berkeley: University of California Press. ISBN 0-520-09799-8</publications>
+                      <updated-at type="datetime">2013-07-15T09:26:13-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <status nil="true"></status>
+                      <id type="integer">941592</id>
+                      <created-at type="datetime">2013-07-15T09:26:13-04:00</created-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <node-type>Subgroup</node-type>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                    </child>
+                  </children>
+                  <tree-val>Afroasiatic: Ehret 2000</tree-val>
+                  <pri-name>East-South Cushitic</pri-name>
+                  <other-codes></other-codes>
+                  <publications>Ehret, Christopher. 1995. Reconstructing Proto-Afroasiatic (Proto-Afrasian). Berkeley: University of California Press. ISBN 0-520-09799-8</publications>
+                  <updated-at type="datetime">2013-07-15T09:26:13-04:00</updated-at>
+                  <sureness type="integer">0</sureness>
+                  <status nil="true"></status>
+                  <id type="integer">941590</id>
+                  <created-at type="datetime">2013-07-15T09:26:13-04:00</created-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type>Subgroup</node-type>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                </child>
+                <child>
+                  <tree-id type="integer">24121</tree-id>
+                  <is-default type="integer">0</is-default>
+                  <updated-by>emily</updated-by>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <created-by>emily</created-by>
+                  <codes>ccus</codes>
+                  <alt-names></alt-names>
+                  <updater-id type="integer">10640</updater-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <creator-id type="integer">10640</creator-id>
+                  <children type="array"/>
+                  <tree-val>Afroasiatic: Ehret 2000</tree-val>
+                  <pri-name>Agaw</pri-name>
+                  <other-codes></other-codes>
+                  <publications>Ehret, Christopher. 1995. Reconstructing Proto-Afroasiatic (Proto-Afrasian). Berkeley: University of California Press. ISBN 0-520-09799-8</publications>
+                  <updated-at type="datetime">2013-07-15T09:26:13-04:00</updated-at>
+                  <sureness type="integer">0</sureness>
+                  <status nil="true"></status>
+                  <id type="integer">941589</id>
+                  <created-at type="datetime">2013-07-15T09:26:13-04:00</created-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type>Subgroup</node-type>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                </child>
+                <child>
+                  <tree-id type="integer">24121</tree-id>
+                  <is-default type="integer">0</is-default>
+                  <updated-by>emily</updated-by>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <created-by>emily</created-by>
+                  <codes>ncus</codes>
+                  <alt-names></alt-names>
+                  <updater-id type="integer">10640</updater-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <creator-id type="integer">10640</creator-id>
+                  <children type="array"/>
+                  <tree-val>Afroasiatic: Ehret 2000</tree-val>
+                  <pri-name>Beja</pri-name>
+                  <other-codes></other-codes>
+                  <publications>Ehret, Christopher. 1995. Reconstructing Proto-Afroasiatic (Proto-Afrasian). Berkeley: University of California Press. ISBN 0-520-09799-8</publications>
+                  <updated-at type="datetime">2013-07-15T09:26:13-04:00</updated-at>
+                  <sureness type="integer">0</sureness>
+                  <status nil="true"></status>
+                  <id type="integer">941588</id>
+                  <created-at type="datetime">2013-07-15T09:26:13-04:00</created-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type>Subgroup</node-type>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                </child>
+              </children>
+              <tree-val>Afroasiatic: Ehret 2000</tree-val>
+              <pri-name>Cushitic</pri-name>
+              <other-codes></other-codes>
+              <publications>Ehret, Christopher. 1995. Reconstructing Proto-Afroasiatic (Proto-Afrasian). Berkeley: University of California Press. ISBN 0-520-09799-8</publications>
+              <updated-at type="datetime">2013-07-15T09:26:13-04:00</updated-at>
+              <sureness type="integer">0</sureness>
+              <status nil="true"></status>
+              <id type="integer">941587</id>
+              <created-at type="datetime">2013-07-15T09:26:13-04:00</created-at>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Subgroup</node-type>
+              <confidence>y</confidence>
+              <pub-comments></pub-comments>
+            </child>
+            <child>
+              <tree-id type="integer">24121</tree-id>
+              <is-default type="integer">0</is-default>
+              <updated-by>emily</updated-by>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <created-by>emily</created-by>
+              <codes>prne</codes>
+              <alt-names></alt-names>
+              <updater-id type="integer">10640</updater-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10640</creator-id>
+              <children type="array">
+                <child>
+                  <tree-id type="integer">24121</tree-id>
+                  <is-default type="integer">0</is-default>
+                  <updated-by>emily</updated-by>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <created-by>emily</created-by>
+                  <codes>nafa</codes>
+                  <alt-names></alt-names>
+                  <updater-id type="integer">10640</updater-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <creator-id type="integer">10640</creator-id>
+                  <children type="array">
+                    <child>
+                      <tree-id type="integer">24121</tree-id>
+                      <is-default type="integer">0</is-default>
+                      <updated-by>emily</updated-by>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <created-by>emily</created-by>
+                      <codes>afsm</codes>
+                      <alt-names></alt-names>
+                      <updater-id type="integer">10640</updater-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <creator-id type="integer">10640</creator-id>
+                      <children type="array"/>
+                      <tree-val>Afroasiatic: Ehret 2000</tree-val>
+                      <pri-name>Semitic</pri-name>
+                      <other-codes></other-codes>
+                      <publications>Ehret, Christopher. 1995. Reconstructing Proto-Afroasiatic (Proto-Afrasian). Berkeley: University of California Press. ISBN 0-520-09799-8</publications>
+                      <updated-at type="datetime">2013-07-15T09:26:14-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <status nil="true"></status>
+                      <id type="integer">941598</id>
+                      <created-at type="datetime">2013-07-15T09:26:14-04:00</created-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <node-type>Subgroup</node-type>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                    </child>
+                    <child>
+                      <tree-id type="integer">24121</tree-id>
+                      <is-default type="integer">0</is-default>
+                      <updated-by>emily</updated-by>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <created-by>emily</created-by>
+                      <codes>areg</codes>
+                      <alt-names></alt-names>
+                      <updater-id type="integer">10640</updater-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <creator-id type="integer">10640</creator-id>
+                      <children type="array"/>
+                      <tree-val>Afroasiatic: Ehret 2000</tree-val>
+                      <pri-name>Egyptian</pri-name>
+                      <other-codes></other-codes>
+                      <publications>Ehret, Christopher. 1995. Reconstructing Proto-Afroasiatic (Proto-Afrasian). Berkeley: University of California Press. ISBN 0-520-09799-8</publications>
+                      <updated-at type="datetime">2013-07-15T09:26:14-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <status nil="true"></status>
+                      <id type="integer">941596</id>
+                      <created-at type="datetime">2013-07-15T09:26:14-04:00</created-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <node-type>Subgroup</node-type>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                    </child>
+                    <child>
+                      <tree-id type="integer">24121</tree-id>
+                      <is-default type="integer">0</is-default>
+                      <updated-by>emily</updated-by>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <created-by>emily</created-by>
+                      <codes>berb</codes>
+                      <alt-names></alt-names>
+                      <updater-id type="integer">10640</updater-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <creator-id type="integer">10640</creator-id>
+                      <children type="array"/>
+                      <tree-val>Afroasiatic: Ehret 2000</tree-val>
+                      <pri-name>Berber</pri-name>
+                      <other-codes></other-codes>
+                      <publications>Ehret, Christopher. 1995. Reconstructing Proto-Afroasiatic (Proto-Afrasian). Berkeley: University of California Press. ISBN 0-520-09799-8</publications>
+                      <updated-at type="datetime">2013-07-15T09:26:14-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <status nil="true"></status>
+                      <id type="integer">941597</id>
+                      <created-at type="datetime">2013-07-15T09:26:14-04:00</created-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <node-type>Subgroup</node-type>
+                      <confidence>y</confidence>
+                      <pub-comments></pub-comments>
+                    </child>
+                  </children>
+                  <tree-val>Afroasiatic: Ehret 2000</tree-val>
+                  <pri-name>Boreafrasian</pri-name>
+                  <other-codes></other-codes>
+                  <publications>Ehret, Christopher. 1995. Reconstructing Proto-Afroasiatic (Proto-Afrasian). Berkeley: University of California Press. ISBN 0-520-09799-8</publications>
+                  <updated-at type="datetime">2013-07-15T09:26:14-04:00</updated-at>
+                  <sureness type="integer">-1</sureness>
+                  <status nil="true"></status>
+                  <id type="integer">941595</id>
+                  <created-at type="datetime">2013-07-15T09:26:14-04:00</created-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type>Subgroup</node-type>
+                  <confidence>y</confidence>
+                  <pub-comments>"Within Boreafrasian, the relationships among Semitic, Egyptian, and Berber need to be reexamined in the light of the materials developed here; for now; these three are treated as if they were equidistantly related members of the subgroup, although some evidence can be adduced for the proposition that Egyptian and Berbe might form a North African subgroup coordinate with Semitic" (Ehret: 1995 489).</pub-comments>
+                </child>
+                <child>
+                  <tree-id type="integer">24121</tree-id>
+                  <is-default type="integer">0</is-default>
+                  <updated-by>emily</updated-by>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <created-by>emily</created-by>
+                  <codes>chad</codes>
+                  <alt-names></alt-names>
+                  <updater-id type="integer">10640</updater-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <creator-id type="integer">10640</creator-id>
+                  <children type="array"/>
+                  <tree-val>Afroasiatic: Ehret 2000</tree-val>
+                  <pri-name>Chadic</pri-name>
+                  <other-codes></other-codes>
+                  <publications>Ehret, Christopher. 1995. Reconstructing Proto-Afroasiatic (Proto-Afrasian). Berkeley: University of California Press. ISBN 0-520-09799-8</publications>
+                  <updated-at type="datetime">2013-07-15T09:26:14-04:00</updated-at>
+                  <sureness type="integer">0</sureness>
+                  <status nil="true"></status>
+                  <id type="integer">941594</id>
+                  <created-at type="datetime">2013-07-15T09:26:13-04:00</created-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type>Subgroup</node-type>
+                  <confidence>y</confidence>
+                  <pub-comments></pub-comments>
+                </child>
+              </children>
+              <tree-val>Afroasiatic: Ehret 2000</tree-val>
+              <pri-name>North Erythrean</pri-name>
+              <other-codes></other-codes>
+              <publications>Ehret, Christopher. 1995. Reconstructing Proto-Afroasiatic (Proto-Afrasian). Berkeley: University of California Press. ISBN 0-520-09799-8</publications>
+              <updated-at type="datetime">2013-07-15T09:26:13-04:00</updated-at>
+              <sureness type="integer">1</sureness>
+              <status nil="true"></status>
+              <id type="integer">941593</id>
+              <created-at type="datetime">2013-07-15T09:26:13-04:00</created-at>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Subgroup</node-type>
+              <confidence>n</confidence>
+              <pub-comments></pub-comments>
+            </child>
+          </children>
+          <tree-val>Afroasiatic: Ehret 2000</tree-val>
+          <pri-name>Erythrean</pri-name>
+          <other-codes></other-codes>
+          <publications>Ehret, Christopher. 1995. Reconstructing Proto-Afroasiatic (Proto-Afrasian). Berkeley: University of California Press. ISBN 0-520-09799-8</publications>
+          <updated-at type="datetime">2013-07-15T09:26:13-04:00</updated-at>
+          <sureness type="integer">-1</sureness>
+          <status nil="true"></status>
+          <id type="integer">941586</id>
+          <created-at type="datetime">2013-07-15T09:26:13-04:00</created-at>
+          <node-status-id nil="true"></node-status-id>
+          <deleted-at nil="true"></deleted-at>
+          <node-type>Subgroup</node-type>
+          <confidence>y</confidence>
+          <pub-comments></pub-comments>
+        </child>
+        <child>
+          <tree-id type="integer">24121</tree-id>
+          <is-default type="integer">0</is-default>
+          <updated-by>emily</updated-by>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10000</node-type-id>
+          <created-by>emily</created-by>
+          <codes>omot</codes>
+          <alt-names></alt-names>
+          <updater-id type="integer">10640</updater-id>
+          <geography nil="true"></geography>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10640</creator-id>
+          <children type="array">
+            <child>
+              <tree-id type="integer">24121</tree-id>
+              <is-default type="integer">0</is-default>
+              <updated-by>emily</updated-by>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <created-by>emily</created-by>
+              <codes>somo</codes>
+              <alt-names></alt-names>
+              <updater-id type="integer">10640</updater-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10640</creator-id>
+              <children type="array"/>
+              <tree-val>Afroasiatic: Ehret 2000</tree-val>
+              <pri-name>South Omotic</pri-name>
+              <other-codes></other-codes>
+              <publications>Ehret, Christopher. 1995. Reconstructing Proto-Afroasiatic (Proto-Afrasian). Berkeley: University of California Press. ISBN 0-520-09799-8</publications>
+              <updated-at type="datetime">2013-07-15T09:26:13-04:00</updated-at>
+              <sureness type="integer">0</sureness>
+              <status nil="true"></status>
+              <id type="integer">941585</id>
+              <created-at type="datetime">2013-07-15T09:26:13-04:00</created-at>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Subgroup</node-type>
+              <confidence>y</confidence>
+              <pub-comments></pub-comments>
+            </child>
+            <child>
+              <tree-id type="integer">24121</tree-id>
+              <is-default type="integer">0</is-default>
+              <updated-by>emily</updated-by>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <created-by>emily</created-by>
+              <codes>nomo</codes>
+              <alt-names></alt-names>
+              <updater-id type="integer">10640</updater-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10640</creator-id>
+              <children type="array"/>
+              <tree-val>Afroasiatic: Ehret 2000</tree-val>
+              <pri-name>North Omotic</pri-name>
+              <other-codes></other-codes>
+              <publications>Ehret, Christopher. 1995. Reconstructing Proto-Afroasiatic (Proto-Afrasian). Berkeley: University of California Press. ISBN 0-520-09799-8</publications>
+              <updated-at type="datetime">2013-07-15T09:26:13-04:00</updated-at>
+              <sureness type="integer">0</sureness>
+              <status nil="true"></status>
+              <id type="integer">941584</id>
+              <created-at type="datetime">2013-07-15T09:26:13-04:00</created-at>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Subgroup</node-type>
+              <confidence>y</confidence>
+              <pub-comments></pub-comments>
+            </child>
+          </children>
+          <tree-val>Afroasiatic: Ehret 2000</tree-val>
+          <pri-name>Omotic</pri-name>
+          <other-codes></other-codes>
+          <publications>Ehret, Christopher. 1995. Reconstructing Proto-Afroasiatic (Proto-Afrasian). Berkeley: University of California Press. ISBN 0-520-09799-8</publications>
+          <updated-at type="datetime">2013-07-15T09:26:13-04:00</updated-at>
+          <sureness type="integer">-1</sureness>
+          <status nil="true"></status>
+          <id type="integer">941583</id>
+          <created-at type="datetime">2013-07-15T09:26:13-04:00</created-at>
+          <node-status-id nil="true"></node-status-id>
+          <deleted-at nil="true"></deleted-at>
+          <node-type>Subgroup</node-type>
+          <confidence>y</confidence>
+          <pub-comments></pub-comments>
+        </child>
+      </children>
+      <tree-val>Afroasiatic: Ehret 2000</tree-val>
+      <pri-name>Afroasiatic</pri-name>
+      <other-codes></other-codes>
+      <publications>Ehret, Christopher. 1995. Reconstructing Proto-Afroasiatic (Proto-Afrasian). Berkeley: University of California Press. ISBN 0-520-09799-8</publications>
+      <updated-at type="datetime">2013-07-15T09:26:13-04:00</updated-at>
+      <sureness type="integer">0</sureness>
+      <status nil="true"></status>
+      <id type="integer">941582</id>
+      <created-at type="datetime">2013-07-15T09:26:13-04:00</created-at>
+      <node-status-id nil="true"></node-status-id>
+      <deleted-at nil="true"></deleted-at>
+      <node-type>Subgroup</node-type>
+      <confidence>y</confidence>
+      <pub-comments></pub-comments>
+    </root>
+    <description>Afroasiatic: Ehret 2000</description>
+  </tree>
+</hash>

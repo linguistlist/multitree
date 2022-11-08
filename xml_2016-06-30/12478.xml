@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <node-status-id nil="true"></node-status-id>
+      <created-by>joe_leif</created-by>
+      <children type="array">
+        <child>
+          <node-status-id nil="true"></node-status-id>
+          <created-by>joe_leif</created-by>
+          <children type="array"/>
+          <alt-names></alt-names>
+          <node-type>Language</node-type>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <updated-by>joe_leif</updated-by>
+          <sureness type="integer">0</sureness>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10001</node-type-id>
+          <end-date nil="true"></end-date>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 642. New York: Oxford University Press. ISBN 0199255911</publications>
+          <pri-name>Lule</pri-name>
+          <created-at type="datetime">2009-05-19T18:59:29-04:00</created-at>
+          <codes>ule</codes>
+          <tree-val>Lule-Vilela: Dryer 2005</tree-val>
+          <other-codes>lul</other-codes>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2009-05-19T18:59:30-04:00</updated-at>
+          <tree-id type="integer">12478</tree-id>
+          <is-default type="integer">0</is-default>
+          <geography>Country: Argentina; Lat.: -28; Long.: -64</geography>
+          <creator-id type="integer">10740</creator-id>
+          <confidence>n</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <id type="integer">418180</id>
+        </child>
+      </children>
+      <alt-names></alt-names>
+      <node-type>Subgroup</node-type>
+      <status nil="true"></status>
+      <start-date nil="true"></start-date>
+      <updated-by>joe_leif</updated-by>
+      <sureness type="integer">0</sureness>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <node-type-id type="integer">10000</node-type-id>
+      <end-date nil="true"></end-date>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 642. New York: Oxford University Press. ISBN 0199255911</publications>
+      <pri-name>Lule-Vilela</pri-name>
+      <created-at type="datetime">2009-05-19T18:59:29-04:00</created-at>
+      <codes>luvi</codes>
+      <tree-val>Lule-Vilela: Dryer 2005</tree-val>
+      <other-codes></other-codes>
+      <deleted-at nil="true"></deleted-at>
+      <updated-at type="datetime">2009-05-19T18:59:29-04:00</updated-at>
+      <tree-id type="integer">12478</tree-id>
+      <is-default type="integer">0</is-default>
+      <geography nil="true"></geography>
+      <creator-id type="integer">10740</creator-id>
+      <confidence>y</confidence>
+      <updater-id type="integer">10740</updater-id>
+      <id type="integer">418179</id>
+    </root>
+    <description>Lule-Vilela: Dryer 2005</description>
+  </tree>
+</hash>

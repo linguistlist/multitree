@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <sureness type="integer">0</sureness>
+      <geography nil="true"></geography>
+      <codes>zuni</codes>
+      <updated-by>joe_leif</updated-by>
+      <tree-id type="integer">12323</tree-id>
+      <other-codes></other-codes>
+      <is-default type="integer">0</is-default>
+      <node-status-id nil="true"></node-status-id>
+      <created-at type="datetime">2009-05-13T20:21:41-04:00</created-at>
+      <confidence>y</confidence>
+      <alt-names></alt-names>
+      <updated-at type="datetime">2009-05-13T20:21:41-04:00</updated-at>
+      <status nil="true"></status>
+      <pri-name>Zuni</pri-name>
+      <creator-id type="integer">10740</creator-id>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 627. New York: Oxford University Press. ISBN 0199255911</publications>
+      <id type="integer">410190</id>
+      <deleted-at nil="true"></deleted-at>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <node-type-id type="integer">10000</node-type-id>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <sureness type="integer">0</sureness>
+          <geography>Country: United States; Lat.: 35.8; Long.: -108.83</geography>
+          <codes>zun</codes>
+          <updated-by>joe_leif</updated-by>
+          <tree-id type="integer">12323</tree-id>
+          <other-codes>zun</other-codes>
+          <is-default type="integer">0</is-default>
+          <node-status-id nil="true"></node-status-id>
+          <created-at type="datetime">2009-05-13T20:21:41-04:00</created-at>
+          <confidence>y</confidence>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-05-13T20:21:41-04:00</updated-at>
+          <status nil="true"></status>
+          <pri-name>Zuni</pri-name>
+          <creator-id type="integer">10740</creator-id>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 627. New York: Oxford University Press. ISBN 0199255911</publications>
+          <id type="integer">410191</id>
+          <deleted-at nil="true"></deleted-at>
+          <pub-comments>WALS Code: zun</pub-comments>
+          <node-type-id type="integer">10001</node-type-id>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+          <updater-id type="integer">10740</updater-id>
+          <tree-val>Zuni: Dryer 2005</tree-val>
+          <node-type>Language</node-type>
+          <created-by>joe_leif</created-by>
+          <start-date nil="true"></start-date>
+        </child>
+      </children>
+      <updater-id type="integer">10740</updater-id>
+      <tree-val>Zuni: Dryer 2005</tree-val>
+      <node-type>Subgroup</node-type>
+      <created-by>joe_leif</created-by>
+      <start-date nil="true"></start-date>
+    </root>
+    <description>Zuni: Dryer 2005</description>
+  </tree>
+</hash>

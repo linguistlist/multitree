@@ -1,0 +1,1823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>    <region>Europe</region>
+    <root>
+      <updater-id type="integer">10740</updater-id>
+      <updated-by>joe_leif</updated-by>
+      <deleted-at nil="true"></deleted-at>
+      <confidence>y</confidence>
+      <pri-name>uralische Sprachklasse</pri-name>
+      <node-type-id type="integer">10000</node-type-id>
+      <start-date nil="true"></start-date>
+      <node-status-id nil="true"></node-status-id>
+      <alt-names></alt-names>
+      <children type="array">
+        <child>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <pri-name>finnisch-ugrische Sprachen</pri-name>
+          <node-type-id type="integer">10000</node-type-id>
+          <start-date nil="true"></start-date>
+          <node-status-id nil="true"></node-status-id>
+          <alt-names></alt-names>
+          <children type="array">
+            <child>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <pri-name>finnisch-permische Sprachgemeinschaft</pri-name>
+              <node-type-id type="integer">10000</node-type-id>
+              <start-date nil="true"></start-date>
+              <node-status-id nil="true"></node-status-id>
+              <alt-names></alt-names>
+              <children type="array">
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <pri-name>ostseefinnische Sprachen</pri-name>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <start-date nil="true"></start-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <alt-names></alt-names>
+                  <children type="array">
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>Finnisch</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array">
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <pri-name>westliche Mundart</pri-name>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <node-status-id nil="true"></node-status-id>
+                          <alt-names></alt-names>
+                          <children type="array"/>
+                          <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <id type="integer">370293</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <tree-id type="integer">11909</tree-id>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                          <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                          <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                          <sureness type="integer">0</sureness>
+                          <end-date nil="true"></end-date>
+                          <codes>fin-wes</codes>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <pri-name>&#246;stliche Mundart</pri-name>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <node-status-id nil="true"></node-status-id>
+                          <alt-names></alt-names>
+                          <children type="array"/>
+                          <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <id type="integer">370292</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <tree-id type="integer">11909</tree-id>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                          <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                          <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                          <sureness type="integer">0</sureness>
+                          <end-date nil="true"></end-date>
+                          <codes>fin-eas</codes>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                        </child>
+                      </children>
+                      <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370291</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>fin</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>Estnisch</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array">
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <pri-name>n&#246;rdliche Mundart</pri-name>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <node-status-id nil="true"></node-status-id>
+                          <alt-names>revalsche Mundart</alt-names>
+                          <children type="array"/>
+                          <updated-at type="datetime">2009-04-23T17:52:45-04:00</updated-at>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <id type="integer">370301</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <tree-id type="integer">11909</tree-id>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                          <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                          <created-at type="datetime">2009-04-23T17:52:45-04:00</created-at>
+                          <sureness type="integer">0</sureness>
+                          <end-date nil="true"></end-date>
+                          <codes>est-nor</codes>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <pri-name>s&#252;dliche Mundart</pri-name>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <node-status-id nil="true"></node-status-id>
+                          <alt-names>dorpatsche Mundart</alt-names>
+                          <children type="array"/>
+                          <updated-at type="datetime">2009-04-23T17:52:45-04:00</updated-at>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <id type="integer">370302</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <tree-id type="integer">11909</tree-id>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                          <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                          <created-at type="datetime">2009-04-23T17:52:45-04:00</created-at>
+                          <sureness type="integer">0</sureness>
+                          <end-date nil="true"></end-date>
+                          <codes>est-sou</codes>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                        </child>
+                      </children>
+                      <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370300</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>est</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>Wepsisch</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370298</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>vep</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>Ingrisch</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370296</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>izh</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>Livisch</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id type="integer">10001</node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:45-04:00</updated-at>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370303</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:45-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>liv</codes>
+                      <status>Nearly Extinct</status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>Wotisch</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id type="integer">10001</node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370299</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>vot</codes>
+                      <status>Nearly Extinct</status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>L&#252;disch</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370297</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>lud</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>Karelisch</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370294</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>krl</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>Olonetzisch</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370295</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>olo</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                  </children>
+                  <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                  <node-type>Subgroup</node-type>
+                  <created-by>joe_leif</created-by>
+                  <id type="integer">370290</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <tree-id type="integer">11909</tree-id>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                  <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                  <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                  <sureness type="integer">0</sureness>
+                  <end-date nil="true"></end-date>
+                  <codes>bfin</codes>
+                  <status nil="true"></status>
+                  <geography nil="true"></geography>
+                </child>
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <pri-name>Mordvinisch</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <start-date nil="true"></start-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <alt-names></alt-names>
+                  <children type="array">
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>Mokscha-Mundart</pri-name>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                      <node-type>Dialect</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370288</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>mdf</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>Ers&#228;-Mundart</pri-name>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                      <node-type>Dialect</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370289</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>myv</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                  </children>
+                  <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                  <node-type>Language</node-type>
+                  <created-by>joe_leif</created-by>
+                  <id type="integer">370287</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <tree-id type="integer">11909</tree-id>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                  <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                  <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                  <sureness type="integer">0</sureness>
+                  <end-date nil="true"></end-date>
+                  <codes>myv, mdf</codes>
+                  <status nil="true"></status>
+                  <geography nil="true"></geography>
+                </child>
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <pri-name>Lappisch</pri-name>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <start-date nil="true"></start-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <alt-names></alt-names>
+                  <children type="array">
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>n</confidence>
+                      <pri-name>Schweden-Lappisch</pri-name>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array">
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <pri-name>Lule-Lappisch</pri-name>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <node-status-id nil="true"></node-status-id>
+                          <alt-names></alt-names>
+                          <children type="array">
+                            <child>
+                              <updater-id type="integer">10740</updater-id>
+                              <updated-by>joe_leif</updated-by>
+                              <deleted-at nil="true"></deleted-at>
+                              <confidence>n</confidence>
+                              <pri-name>Pite-Lappisch</pri-name>
+                              <node-type-id type="integer">10003</node-type-id>
+                              <start-date nil="true"></start-date>
+                              <node-status-id nil="true"></node-status-id>
+                              <alt-names></alt-names>
+                              <children type="array"/>
+                              <updated-at type="datetime">2009-04-23T17:52:45-04:00</updated-at>
+                              <node-type>Dialect</node-type>
+                              <created-by>joe_leif</created-by>
+                              <id type="integer">370310</id>
+                              <creator-id type="integer">10740</creator-id>
+                              <tree-id type="integer">11909</tree-id>
+                              <pub-comments>"Lule-Lappische samt dem nahverwandten Pite-Lappischen", not clear whether two different languages or whether Pite Lappish is dialect of Lule Lappish</pub-comments>
+                              <other-codes></other-codes>
+                              <is-default type="integer">0</is-default>
+                              <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                              <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                              <created-at type="datetime">2009-04-23T17:52:45-04:00</created-at>
+                              <sureness type="integer">0</sureness>
+                              <end-date nil="true"></end-date>
+                              <codes>sje</codes>
+                              <status nil="true"></status>
+                              <geography nil="true"></geography>
+                            </child>
+                          </children>
+                          <updated-at type="datetime">2009-04-23T17:52:45-04:00</updated-at>
+                          <node-type>Language</node-type>
+                          <created-by>joe_leif</created-by>
+                          <id type="integer">370309</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <tree-id type="integer">11909</tree-id>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                          <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                          <created-at type="datetime">2009-04-23T17:52:45-04:00</created-at>
+                          <sureness type="integer">0</sureness>
+                          <end-date nil="true"></end-date>
+                          <codes>smj</codes>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <pri-name>Ume-Lappisch</pri-name>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <node-status-id nil="true"></node-status-id>
+                          <alt-names></alt-names>
+                          <children type="array"/>
+                          <updated-at type="datetime">2009-04-23T17:52:45-04:00</updated-at>
+                          <node-type>Language</node-type>
+                          <created-by>joe_leif</created-by>
+                          <id type="integer">370311</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <tree-id type="integer">11909</tree-id>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                          <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                          <created-at type="datetime">2009-04-23T17:52:45-04:00</created-at>
+                          <sureness type="integer">0</sureness>
+                          <end-date nil="true"></end-date>
+                          <codes>sju</codes>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                        </child>
+                      </children>
+                      <updated-at type="datetime">2009-04-23T17:52:45-04:00</updated-at>
+                      <node-type>Subgroup</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370308</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:45-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>nwsa</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>Kola-Lappisch</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:45-04:00</updated-at>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370305</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:45-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>qxx</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>n</confidence>
+                      <pri-name>Norwegisch-Lappisch</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:45-04:00</updated-at>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370307</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:45-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>sma</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>S&#252;d-Lappisch</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:45-04:00</updated-at>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370312</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:45-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>slap</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>Enare-Lappisch</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:45-04:00</updated-at>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370306</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:45-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>smn</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                  </children>
+                  <updated-at type="datetime">2009-04-23T17:52:45-04:00</updated-at>
+                  <node-type>Subgroup</node-type>
+                  <created-by>joe_leif</created-by>
+                  <id type="integer">370304</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <tree-id type="integer">11909</tree-id>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                  <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                  <created-at type="datetime">2009-04-23T17:52:45-04:00</created-at>
+                  <sureness type="integer">0</sureness>
+                  <end-date nil="true"></end-date>
+                  <codes>lapp</codes>
+                  <status nil="true"></status>
+                  <geography nil="true"></geography>
+                </child>
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <pri-name>Tscheremissisch</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <start-date nil="true"></start-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <alt-names></alt-names>
+                  <children type="array">
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>&#246;stliches Mundartgebiet</pri-name>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                      <node-type>Dialect Group</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370286</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>mhr-est</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>westliches Mundartgebiet</pri-name>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                      <node-type>Dialect Group</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370285</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>mrj</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                  </children>
+                  <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                  <node-type>Language</node-type>
+                  <created-by>joe_leif</created-by>
+                  <id type="integer">370284</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <tree-id type="integer">11909</tree-id>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                  <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                  <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                  <sureness type="integer">0</sureness>
+                  <end-date nil="true"></end-date>
+                  <codes>mhr, mrj</codes>
+                  <status nil="true"></status>
+                  <geography nil="true"></geography>
+                </child>
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <pri-name>permische Sprachgruppe</pri-name>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <start-date nil="true"></start-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <alt-names></alt-names>
+                  <children type="array">
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>Syr&#228;nisch</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370282</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>kpv</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>Wotjakisch</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370283</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>udm</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                  </children>
+                  <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                  <node-type>Subgroup</node-type>
+                  <created-by>joe_leif</created-by>
+                  <id type="integer">370281</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <tree-id type="integer">11909</tree-id>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                  <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                  <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                  <sureness type="integer">0</sureness>
+                  <end-date nil="true"></end-date>
+                  <codes>perm</codes>
+                  <status nil="true"></status>
+                  <geography nil="true"></geography>
+                </child>
+              </children>
+              <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+              <node-type>Subgroup</node-type>
+              <created-by>joe_leif</created-by>
+              <id type="integer">370280</id>
+              <creator-id type="integer">10740</creator-id>
+              <tree-id type="integer">11909</tree-id>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <is-default type="integer">0</is-default>
+              <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+              <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+              <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <codes>fper</codes>
+              <status nil="true"></status>
+              <geography nil="true"></geography>
+            </child>
+            <child>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <pri-name>ugrische Sprachen</pri-name>
+              <node-type-id type="integer">10000</node-type-id>
+              <start-date nil="true"></start-date>
+              <node-status-id nil="true"></node-status-id>
+              <alt-names>ugrische Sprachgemeinschaft</alt-names>
+              <children type="array">
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <pri-name>Ob-ugrische Sprachen</pri-name>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <start-date nil="true"></start-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <alt-names></alt-names>
+                  <children type="array">
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>Ostjakisch</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array">
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <pri-name>beresowische Mundart</pri-name>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <node-status-id nil="true"></node-status-id>
+                          <alt-names></alt-names>
+                          <children type="array"/>
+                          <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <id type="integer">370274</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <tree-id type="integer">11909</tree-id>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                          <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                          <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                          <sureness type="integer">0</sureness>
+                          <end-date nil="true"></end-date>
+                          <codes>kca-ber</codes>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <pri-name>surgutische Mundart</pri-name>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <node-status-id nil="true"></node-status-id>
+                          <alt-names></alt-names>
+                          <children type="array"/>
+                          <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <id type="integer">370277</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <tree-id type="integer">11909</tree-id>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                          <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                          <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                          <sureness type="integer">0</sureness>
+                          <end-date nil="true"></end-date>
+                          <codes>kca-sur</codes>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <pri-name>obdorskische Mundart</pri-name>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <node-status-id nil="true"></node-status-id>
+                          <alt-names></alt-names>
+                          <children type="array"/>
+                          <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <id type="integer">370273</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <tree-id type="integer">11909</tree-id>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                          <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                          <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                          <sureness type="integer">0</sureness>
+                          <end-date nil="true"></end-date>
+                          <codes>kca-obd</codes>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <pri-name>oberische Mundart</pri-name>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <node-status-id nil="true"></node-status-id>
+                          <alt-names>Wasjugan-Mundart</alt-names>
+                          <children type="array"/>
+                          <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <id type="integer">370279</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <tree-id type="integer">11909</tree-id>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                          <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                          <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                          <sureness type="integer">0</sureness>
+                          <end-date nil="true"></end-date>
+                          <codes>kca-vas</codes>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <pri-name>kondinskische Mundart</pri-name>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <node-status-id nil="true"></node-status-id>
+                          <alt-names></alt-names>
+                          <children type="array"/>
+                          <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <id type="integer">370275</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <tree-id type="integer">11909</tree-id>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                          <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                          <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                          <sureness type="integer">0</sureness>
+                          <end-date nil="true"></end-date>
+                          <codes>kca-kon</codes>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>n</confidence>
+                          <pri-name>Irtysch- und Konda-Mundart</pri-name>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <node-status-id nil="true"></node-status-id>
+                          <alt-names></alt-names>
+                          <children type="array"/>
+                          <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <id type="integer">370276</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <tree-id type="integer">11909</tree-id>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                          <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                          <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                          <sureness type="integer">0</sureness>
+                          <end-date nil="true"></end-date>
+                          <codes>kca-irt</codes>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <pri-name>Wach-Mundart</pri-name>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <node-status-id nil="true"></node-status-id>
+                          <alt-names></alt-names>
+                          <children type="array"/>
+                          <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <id type="integer">370278</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <tree-id type="integer">11909</tree-id>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                          <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                          <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                          <sureness type="integer">0</sureness>
+                          <end-date nil="true"></end-date>
+                          <codes>kca-vac</codes>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                        </child>
+                      </children>
+                      <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370272</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>kca</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>Wogulisch</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id type="integer">10001</node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array">
+                        <child>
+                          <updater-id type="integer">10400</updater-id>
+                          <updated-by>gosia</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <pri-name>westliches Mundartgebiet</pri-name>
+                          <node-type-id type="integer">10004</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <node-status-id nil="true"></node-status-id>
+                          <alt-names></alt-names>
+                          <children type="array"/>
+                          <updated-at type="datetime">2013-11-20T11:00:33-05:00</updated-at>
+                          <node-type>Dialect Group</node-type>
+                          <created-by>joe_leif</created-by>
+                          <id type="integer">370270</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <tree-id type="integer">11909</tree-id>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                          <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                          <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                          <sureness type="integer">0</sureness>
+                          <end-date nil="true"></end-date>
+                          <codes>mns-wes</codes>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10400</updater-id>
+                          <updated-by>gosia</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <pri-name>n&#246;rdliches Mundartgebiet</pri-name>
+                          <node-type-id type="integer">10004</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <node-status-id nil="true"></node-status-id>
+                          <alt-names></alt-names>
+                          <children type="array"/>
+                          <updated-at type="datetime">2013-11-20T10:54:53-05:00</updated-at>
+                          <node-type>Dialect Group</node-type>
+                          <created-by>joe_leif</created-by>
+                          <id type="integer">370268</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <tree-id type="integer">11909</tree-id>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                          <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                          <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                          <sureness type="integer">0</sureness>
+                          <end-date nil="true"></end-date>
+                          <codes>mns-nor</codes>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10400</updater-id>
+                          <updated-by>gosia</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <pri-name>&#246;stliches Mundartgebiet</pri-name>
+                          <node-type-id type="integer">10004</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <node-status-id nil="true"></node-status-id>
+                          <alt-names></alt-names>
+                          <children type="array"/>
+                          <updated-at type="datetime">2013-11-20T11:03:59-05:00</updated-at>
+                          <node-type>Dialect Group</node-type>
+                          <created-by>joe_leif</created-by>
+                          <id type="integer">370269</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <tree-id type="integer">11909</tree-id>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                          <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                          <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                          <sureness type="integer">0</sureness>
+                          <end-date nil="true"></end-date>
+                          <codes>mns-eas</codes>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <pri-name>s&#252;dliches Mundartgebiet</pri-name>
+                          <node-type-id type="integer">10004</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <node-status-id nil="true"></node-status-id>
+                          <alt-names></alt-names>
+                          <children type="array"/>
+                          <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                          <node-type>Dialect Group</node-type>
+                          <created-by>joe_leif</created-by>
+                          <id type="integer">370271</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <tree-id type="integer">11909</tree-id>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                          <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                          <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                          <sureness type="integer">0</sureness>
+                          <end-date nil="true"></end-date>
+                          <codes>mns-sou</codes>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                        </child>
+                      </children>
+                      <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                      <node-type>Language</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370267</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>mns</codes>
+                      <status>Nearly Extinct</status>
+                      <geography nil="true"></geography>
+                    </child>
+                  </children>
+                  <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                  <node-type>Subgroup</node-type>
+                  <created-by>joe_leif</created-by>
+                  <id type="integer">370266</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <tree-id type="integer">11909</tree-id>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                  <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                  <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                  <sureness type="integer">0</sureness>
+                  <end-date nil="true"></end-date>
+                  <codes>obug</codes>
+                  <status nil="true"></status>
+                  <geography nil="true"></geography>
+                </child>
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <pri-name>Ungarisch</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <start-date nil="true"></start-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <alt-names></alt-names>
+                  <children type="array">
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>nordwestliches Mundartgebiet</pri-name>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:43-04:00</updated-at>
+                      <node-type>Dialect Group</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370260</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:43-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>hun-now</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>Seklergebiet</pri-name>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array">
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <pri-name>Mundart der ungarischen Ansiedlungen in der Bukowina</pri-name>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <node-status-id nil="true"></node-status-id>
+                          <alt-names></alt-names>
+                          <children type="array"/>
+                          <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <id type="integer">370264</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <tree-id type="integer">11909</tree-id>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                          <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                          <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                          <sureness type="integer">0</sureness>
+                          <end-date nil="true"></end-date>
+                          <codes>hun-buk</codes>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <pri-name>Mundart der ungarischen Ansiedlungen in der Moldau</pri-name>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <start-date nil="true"></start-date>
+                          <node-status-id nil="true"></node-status-id>
+                          <alt-names></alt-names>
+                          <children type="array"/>
+                          <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                          <node-type>Dialect</node-type>
+                          <created-by>joe_leif</created-by>
+                          <id type="integer">370265</id>
+                          <creator-id type="integer">10740</creator-id>
+                          <tree-id type="integer">11909</tree-id>
+                          <pub-comments></pub-comments>
+                          <other-codes></other-codes>
+                          <is-default type="integer">0</is-default>
+                          <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                          <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                          <created-at type="datetime">2009-04-23T17:52:44-04:00</created-at>
+                          <sureness type="integer">0</sureness>
+                          <end-date nil="true"></end-date>
+                          <codes>hun-mol</codes>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                        </child>
+                      </children>
+                      <updated-at type="datetime">2009-04-23T17:52:44-04:00</updated-at>
+                      <node-type>Dialect Group</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370263</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:43-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>hun-sze</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>Mundartgebiet jenseits der Donau</pri-name>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:43-04:00</updated-at>
+                      <node-type>Dialect Group</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370257</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:43-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>hun-wes</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>westliches Mundartgebiet</pri-name>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:43-04:00</updated-at>
+                      <node-type>Dialect Group</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370256</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:43-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>hun-weh</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>Mundartgebiet jenseits des K&#246;nigsteigs</pri-name>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:43-04:00</updated-at>
+                      <node-type>Dialect Group</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370262</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:43-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>hun-kin</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>Alf&#246;lder Mundartgebiet</pri-name>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:43-04:00</updated-at>
+                      <node-type>Dialect Group</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370258</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:43-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>hun-alf</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>nord&#246;stliches Mundartgebiet</pri-name>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:43-04:00</updated-at>
+                      <node-type>Dialect Group</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370261</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:43-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>hun-nor</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <pri-name>Donau-Thei&#223;gebiet</pri-name>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <start-date nil="true"></start-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <alt-names></alt-names>
+                      <children type="array"/>
+                      <updated-at type="datetime">2009-04-23T17:52:43-04:00</updated-at>
+                      <node-type>Dialect Group</node-type>
+                      <created-by>joe_leif</created-by>
+                      <id type="integer">370259</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <tree-id type="integer">11909</tree-id>
+                      <pub-comments></pub-comments>
+                      <other-codes></other-codes>
+                      <is-default type="integer">0</is-default>
+                      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                      <created-at type="datetime">2009-04-23T17:52:43-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <end-date nil="true"></end-date>
+                      <codes>hun-dan</codes>
+                      <status nil="true"></status>
+                      <geography nil="true"></geography>
+                    </child>
+                  </children>
+                  <updated-at type="datetime">2009-04-23T17:52:43-04:00</updated-at>
+                  <node-type>Language</node-type>
+                  <created-by>joe_leif</created-by>
+                  <id type="integer">370255</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <tree-id type="integer">11909</tree-id>
+                  <pub-comments></pub-comments>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+                  <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+                  <created-at type="datetime">2009-04-23T17:52:43-04:00</created-at>
+                  <sureness type="integer">0</sureness>
+                  <end-date nil="true"></end-date>
+                  <codes>hun</codes>
+                  <status nil="true"></status>
+                  <geography nil="true"></geography>
+                </child>
+              </children>
+              <updated-at type="datetime">2009-04-23T17:52:43-04:00</updated-at>
+              <node-type>Subgroup</node-type>
+              <created-by>joe_leif</created-by>
+              <id type="integer">370254</id>
+              <creator-id type="integer">10740</creator-id>
+              <tree-id type="integer">11909</tree-id>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <is-default type="integer">0</is-default>
+              <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+              <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+              <created-at type="datetime">2009-04-23T17:52:43-04:00</created-at>
+              <sureness type="integer">0</sureness>
+              <end-date nil="true"></end-date>
+              <codes>ugri</codes>
+              <status nil="true"></status>
+              <geography nil="true"></geography>
+            </child>
+          </children>
+          <updated-at type="datetime">2009-04-23T17:52:43-04:00</updated-at>
+          <node-type>Subgroup</node-type>
+          <created-by>joe_leif</created-by>
+          <id type="integer">370253</id>
+          <creator-id type="integer">10740</creator-id>
+          <tree-id type="integer">11909</tree-id>
+          <pub-comments></pub-comments>
+          <other-codes></other-codes>
+          <is-default type="integer">0</is-default>
+          <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+          <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+          <created-at type="datetime">2009-04-23T17:52:43-04:00</created-at>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <codes>fugr</codes>
+          <status nil="true"></status>
+          <geography nil="true"></geography>
+        </child>
+        <child>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <pri-name>samojedische Sprachfamilie</pri-name>
+          <node-type-id type="integer">10000</node-type-id>
+          <start-date nil="true"></start-date>
+          <node-status-id nil="true"></node-status-id>
+          <alt-names></alt-names>
+          <children type="array"/>
+          <updated-at type="datetime">2009-04-23T17:52:45-04:00</updated-at>
+          <node-type>Subgroup</node-type>
+          <created-by>joe_leif</created-by>
+          <id type="integer">370313</id>
+          <creator-id type="integer">10740</creator-id>
+          <tree-id type="integer">11909</tree-id>
+          <pub-comments></pub-comments>
+          <other-codes></other-codes>
+          <is-default type="integer">0</is-default>
+          <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+          <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+          <created-at type="datetime">2009-04-23T17:52:45-04:00</created-at>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <codes>smoy</codes>
+          <status nil="true"></status>
+          <geography nil="true"></geography>
+        </child>
+      </children>
+      <updated-at type="datetime">2009-04-23T17:52:43-04:00</updated-at>
+      <node-type>Subgroup</node-type>
+      <created-by>joe_leif</created-by>
+      <id type="integer">370252</id>
+      <creator-id type="integer">10740</creator-id>
+      <tree-id type="integer">11909</tree-id>
+      <pub-comments>Szinnyei mentions a possible connection of Uralic languages with Turkic-Tataric languages, Mongolian and Manchu-Tungus as Ural-Altaic languages, but calls this connection scientifically unproven</pub-comments>
+      <other-codes></other-codes>
+      <is-default type="integer">0</is-default>
+      <tree-val>Uralische Sprachklasse: Szinnyei 1922</tree-val>
+      <publications>Szinnyei, J&#243;zsef. 1922. Finnisch-Ugrische Sprachwissenschaft, 9-19. Berlin: Walter de Gruyter. </publications>
+      <created-at type="datetime">2009-04-23T17:52:43-04:00</created-at>
+      <sureness type="integer">0</sureness>
+      <end-date nil="true"></end-date>
+      <codes>urlc</codes>
+      <status nil="true"></status>
+      <geography nil="true"></geography>
+    </root>
+    <description>Uralische Sprachklasse: Szinnyei 1922</description>
+  </tree>
+</hash>

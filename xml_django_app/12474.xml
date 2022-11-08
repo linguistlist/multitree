@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <tree-id type="integer">12474</tree-id>
+      <id type="integer">418170</id>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 641. New York: Oxford University Press. ISBN 0199255911</publications>
+      <node-type-id type="integer">10000</node-type-id>
+      <node-type>Subgroup</node-type>
+      <alt-names></alt-names>
+      <sureness type="integer">0</sureness>
+      <pri-name>Kunza</pri-name>
+      <updated-by>joe_leif</updated-by>
+      <status nil="true"></status>
+      <created-by>joe_leif</created-by>
+      <creator-id type="integer">10740</creator-id>
+      <confidence>y</confidence>
+      <children type="array">
+        <child>
+          <tree-id type="integer">12474</tree-id>
+          <id type="integer">418171</id>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 641. New York: Oxford University Press. ISBN 0199255911</publications>
+          <node-type-id type="integer">10001</node-type-id>
+          <node-type>Language</node-type>
+          <alt-names>Kunza</alt-names>
+          <sureness type="integer">0</sureness>
+          <pri-name>Atacame&#241;o</pri-name>
+          <updated-by>joe_leif</updated-by>
+          <status nil="true"></status>
+          <created-by>joe_leif</created-by>
+          <creator-id type="integer">10740</creator-id>
+          <confidence>y</confidence>
+          <children type="array"/>
+          <updater-id type="integer">10740</updater-id>
+          <node-status-id nil="true"></node-status-id>
+          <codes>kuz</codes>
+          <pub-comments></pub-comments>
+          <updated-at type="datetime">2009-05-19T18:46:40-04:00</updated-at>
+          <start-date nil="true"></start-date>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2009-05-19T18:46:40-04:00</created-at>
+          <other-codes>atm</other-codes>
+          <is-default type="integer">0</is-default>
+          <geography>Country: Chile, Bolivia, Argentina; Lat.: -23; Long.: -69</geography>
+          <tree-val>Kunza: Dryer 2005</tree-val>
+          <deleted-at nil="true"></deleted-at>
+        </child>
+      </children>
+      <updater-id type="integer">10740</updater-id>
+      <node-status-id nil="true"></node-status-id>
+      <codes>knza</codes>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <updated-at type="datetime">2009-05-19T18:46:40-04:00</updated-at>
+      <start-date nil="true"></start-date>
+      <end-date nil="true"></end-date>
+      <created-at type="datetime">2009-05-19T18:46:40-04:00</created-at>
+      <other-codes></other-codes>
+      <is-default type="integer">0</is-default>
+      <geography nil="true"></geography>
+      <tree-val>Kunza: Dryer 2005</tree-val>
+      <deleted-at nil="true"></deleted-at>
+    </root>
+    <description>Kunza: Dryer 2005</description>
+  </tree>
+</hash>

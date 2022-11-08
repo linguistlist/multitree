@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Africa</region>
+    <root>
+      <confidence>Y</confidence>
+      <updater-id type="integer">10740</updater-id>
+      <updated-by>joe_leif</updated-by>
+      <pri-name>African Language Isolate</pri-name>
+      <end-date nil="true"></end-date>
+      <alt-names></alt-names>
+      <tree-val>African Language Isolates: Ethnologue 2005</tree-val>
+      <deleted-at nil="true"></deleted-at>
+      <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+      <id type="integer">322861</id>
+      <node-type-id type="integer">10000</node-type-id>
+      <updated-at type="datetime">2009-03-11T18:37:28-04:00</updated-at>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <node-status-id nil="true"></node-status-id>
+      <children type="array">
+        <child>
+          <confidence>Y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <pri-name>Cent&#250;&#250;m</pri-name>
+          <end-date nil="true"></end-date>
+          <alt-names>Cen Tuum</alt-names>
+          <tree-val>African Language Isolates: Ethnologue 2005</tree-val>
+          <deleted-at nil="true"></deleted-at>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <id type="integer">322862</id>
+          <node-type-id type="integer">10001</node-type-id>
+          <updated-at type="datetime">2009-03-11T18:37:28-04:00</updated-at>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <children type="array"/>
+          <status nil="true"></status>
+          <created-by>joe_leif</created-by>
+          <codes>cet</codes>
+          <pub-comments></pub-comments>
+          <node-type>Language</node-type>
+          <is-default type="integer">0</is-default>
+          <geography>Bauchi State, Balanga LGA, Cham town, among the Dijim</geography>
+          <creator-id type="integer">10740</creator-id>
+          <tree-id type="integer">11557</tree-id>
+          <sureness type="integer">0</sureness>
+          <created-at type="datetime">2009-03-11T18:37:28-04:00</created-at>
+        </child>
+      </children>
+      <status nil="true"></status>
+      <created-by>joe_leif</created-by>
+      <codes>afis</codes>
+      <pub-comments>This is a subtree of the isolates tree provided in Ethnologue. It has been broken into regions for ease of searching.</pub-comments>
+      <node-type>Subgroup</node-type>
+      <is-default type="integer">0</is-default>
+      <geography nil="true"></geography>
+      <creator-id type="integer">10740</creator-id>
+      <tree-id type="integer">11557</tree-id>
+      <sureness type="integer">0</sureness>
+      <created-at type="datetime">2009-03-11T18:37:28-04:00</created-at>
+    </root>
+    <description>African Language Isolates: Ethnologue 2005</description>
+  </tree>
+</hash>

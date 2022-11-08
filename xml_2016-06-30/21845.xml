@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Pacific</region>
+    <root>
+      <updated-by>joe_leif</updated-by>
+      <pub-comments>"The results show a remarkably geographically consistent pattern: The major clades represent archipelagos, and within each archipelago nearest neighbors tend to form sister clades, despite a nearly complete absence of lexical relatedness." (Dunn et al 2005: 2074)</pub-comments>
+      <node-type>Subgroup</node-type>
+      <updater-id type="integer">10740</updater-id>
+      <status nil="true"></status>
+      <pri-name>Island Melanesian Papuan</pri-name>
+      <is-default type="integer">0</is-default>
+      <confidence>y</confidence>
+      <end-date nil="true"></end-date>
+      <other-codes></other-codes>
+      <id type="integer">870064</id>
+      <codes>epap</codes>
+      <children type="array">
+        <child>
+          <updated-by>joe_leif</updated-by>
+          <pub-comments></pub-comments>
+          <node-type>Subgroup</node-type>
+          <updater-id type="integer">10740</updater-id>
+          <status nil="true"></status>
+          <pri-name>Bougainville</pri-name>
+          <is-default type="integer">0</is-default>
+          <confidence>y</confidence>
+          <end-date nil="true"></end-date>
+          <other-codes></other-codes>
+          <id type="integer">870065</id>
+          <codes>boug</codes>
+          <children type="array">
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments>Node not named by author</pub-comments>
+              <node-type>Subgroup</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <pri-name>East-Bougainville</pri-name>
+              <is-default type="integer">0</is-default>
+              <confidence>n</confidence>
+              <end-date nil="true"></end-date>
+              <other-codes></other-codes>
+              <id type="integer">870067</id>
+              <codes>ebou</codes>
+              <children type="array">
+                <child>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <node-type>Language</node-type>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <pri-name>Nasioi</pri-name>
+                  <is-default type="integer">0</is-default>
+                  <confidence>y</confidence>
+                  <end-date nil="true"></end-date>
+                  <other-codes></other-codes>
+                  <id type="integer">870070</id>
+                  <codes>nas</codes>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2013-05-20T12:16:37-04:00</updated-at>
+                  <sureness type="integer">0</sureness>
+                  <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+                  <created-by>joe_leif</created-by>
+                  <start-date nil="true"></start-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-id type="integer">21845</tree-id>
+                  <created-at type="datetime">2013-05-20T12:16:37-04:00</created-at>
+                </child>
+                <child>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <node-type>Language</node-type>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <pri-name>Motuna</pri-name>
+                  <is-default type="integer">0</is-default>
+                  <confidence>y</confidence>
+                  <end-date nil="true"></end-date>
+                  <other-codes></other-codes>
+                  <id type="integer">870068</id>
+                  <codes>siw</codes>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2013-05-20T12:16:36-04:00</updated-at>
+                  <sureness type="integer">0</sureness>
+                  <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+                  <created-by>joe_leif</created-by>
+                  <start-date nil="true"></start-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-id type="integer">21845</tree-id>
+                  <created-at type="datetime">2013-05-20T12:16:36-04:00</created-at>
+                </child>
+                <child>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <node-type>Language</node-type>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <pri-name>Buin</pri-name>
+                  <is-default type="integer">0</is-default>
+                  <confidence>y</confidence>
+                  <end-date nil="true"></end-date>
+                  <other-codes></other-codes>
+                  <id type="integer">870069</id>
+                  <codes>buo</codes>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2013-05-20T12:16:37-04:00</updated-at>
+                  <sureness type="integer">0</sureness>
+                  <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+                  <created-by>joe_leif</created-by>
+                  <start-date nil="true"></start-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-id type="integer">21845</tree-id>
+                  <created-at type="datetime">2013-05-20T12:16:36-04:00</created-at>
+                </child>
+              </children>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2013-05-20T12:16:36-04:00</updated-at>
+              <sureness type="integer">0</sureness>
+              <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+              <created-by>joe_leif</created-by>
+              <start-date nil="true"></start-date>
+              <creator-id type="integer">10740</creator-id>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <tree-id type="integer">21845</tree-id>
+              <created-at type="datetime">2013-05-20T12:16:36-04:00</created-at>
+            </child>
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <node-type>Language</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <pri-name>Rotokas</pri-name>
+              <is-default type="integer">0</is-default>
+              <confidence>y</confidence>
+              <end-date nil="true"></end-date>
+              <other-codes></other-codes>
+              <id type="integer">870066</id>
+              <codes>roo</codes>
+              <children type="array"/>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2013-05-20T12:16:36-04:00</updated-at>
+              <sureness type="integer">0</sureness>
+              <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+              <created-by>joe_leif</created-by>
+              <start-date nil="true"></start-date>
+              <creator-id type="integer">10740</creator-id>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <tree-id type="integer">21845</tree-id>
+              <created-at type="datetime">2013-05-20T12:16:36-04:00</created-at>
+            </child>
+          </children>
+          <alt-names>Bougainville clade</alt-names>
+          <updated-at type="datetime">2013-05-20T12:16:36-04:00</updated-at>
+          <sureness type="integer">0</sureness>
+          <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+          <created-by>joe_leif</created-by>
+          <start-date nil="true"></start-date>
+          <creator-id type="integer">10740</creator-id>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <tree-id type="integer">21845</tree-id>
+          <created-at type="datetime">2013-05-20T12:16:36-04:00</created-at>
+        </child>
+        <child>
+          <updated-by>joe_leif</updated-by>
+          <pub-comments></pub-comments>
+          <node-type>Subgroup</node-type>
+          <updater-id type="integer">10740</updater-id>
+          <status nil="true"></status>
+          <pri-name>Central Solomons</pri-name>
+          <is-default type="integer">0</is-default>
+          <confidence>y</confidence>
+          <end-date nil="true"></end-date>
+          <other-codes></other-codes>
+          <id type="integer">870073</id>
+          <codes>csol</codes>
+          <children type="array">
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <node-type>Language</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <pri-name>Lavukaleve</pri-name>
+              <is-default type="integer">0</is-default>
+              <confidence>y</confidence>
+              <end-date nil="true"></end-date>
+              <other-codes></other-codes>
+              <id type="integer">870075</id>
+              <codes>lvk</codes>
+              <children type="array"/>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2013-05-20T12:16:38-04:00</updated-at>
+              <sureness type="integer">0</sureness>
+              <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+              <created-by>joe_leif</created-by>
+              <start-date nil="true"></start-date>
+              <creator-id type="integer">10740</creator-id>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <tree-id type="integer">21845</tree-id>
+              <created-at type="datetime">2013-05-20T12:16:37-04:00</created-at>
+            </child>
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments>Node not named by author</pub-comments>
+              <node-type>Subgroup</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <pri-name>Tuovo-Savosavo</pri-name>
+              <is-default type="integer">0</is-default>
+              <confidence>n</confidence>
+              <end-date nil="true"></end-date>
+              <other-codes></other-codes>
+              <id type="integer">870076</id>
+              <codes>tosv</codes>
+              <children type="array">
+                <child>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <node-type>Language</node-type>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <pri-name>Touo</pri-name>
+                  <is-default type="integer">0</is-default>
+                  <confidence>y</confidence>
+                  <end-date nil="true"></end-date>
+                  <other-codes></other-codes>
+                  <id type="integer">870077</id>
+                  <codes>tqu</codes>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2013-05-20T12:16:38-04:00</updated-at>
+                  <sureness type="integer">0</sureness>
+                  <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+                  <created-by>joe_leif</created-by>
+                  <start-date nil="true"></start-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-id type="integer">21845</tree-id>
+                  <created-at type="datetime">2013-05-20T12:16:38-04:00</created-at>
+                </child>
+                <child>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <node-type>Language</node-type>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <pri-name>Savosavo</pri-name>
+                  <is-default type="integer">0</is-default>
+                  <confidence>y</confidence>
+                  <end-date nil="true"></end-date>
+                  <other-codes></other-codes>
+                  <id type="integer">870078</id>
+                  <codes>svs</codes>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2013-05-20T12:16:38-04:00</updated-at>
+                  <sureness type="integer">0</sureness>
+                  <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+                  <created-by>joe_leif</created-by>
+                  <start-date nil="true"></start-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-id type="integer">21845</tree-id>
+                  <created-at type="datetime">2013-05-20T12:16:38-04:00</created-at>
+                </child>
+              </children>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2013-05-20T12:16:38-04:00</updated-at>
+              <sureness type="integer">0</sureness>
+              <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+              <created-by>joe_leif</created-by>
+              <start-date nil="true"></start-date>
+              <creator-id type="integer">10740</creator-id>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <tree-id type="integer">21845</tree-id>
+              <created-at type="datetime">2013-05-20T12:16:38-04:00</created-at>
+            </child>
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <node-type>Language</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <pri-name>Bilua</pri-name>
+              <is-default type="integer">0</is-default>
+              <confidence>y</confidence>
+              <end-date nil="true"></end-date>
+              <other-codes></other-codes>
+              <id type="integer">870074</id>
+              <codes>blb</codes>
+              <children type="array"/>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2013-05-20T12:16:37-04:00</updated-at>
+              <sureness type="integer">0</sureness>
+              <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+              <created-by>joe_leif</created-by>
+              <start-date nil="true"></start-date>
+              <creator-id type="integer">10740</creator-id>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <tree-id type="integer">21845</tree-id>
+              <created-at type="datetime">2013-05-20T12:16:37-04:00</created-at>
+            </child>
+          </children>
+          <alt-names>Solomon Island languages</alt-names>
+          <updated-at type="datetime">2013-05-20T12:16:37-04:00</updated-at>
+          <sureness type="integer">0</sureness>
+          <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+          <created-by>joe_leif</created-by>
+          <start-date nil="true"></start-date>
+          <creator-id type="integer">10740</creator-id>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <tree-id type="integer">21845</tree-id>
+          <created-at type="datetime">2013-05-20T12:16:37-04:00</created-at>
+        </child>
+        <child>
+          <updated-by>joe_leif</updated-by>
+          <pub-comments></pub-comments>
+          <node-type>Subgroup</node-type>
+          <updater-id type="integer">10740</updater-id>
+          <status nil="true"></status>
+          <pri-name>Bismarck Archipelago</pri-name>
+          <is-default type="integer">0</is-default>
+          <confidence>y</confidence>
+          <end-date nil="true"></end-date>
+          <other-codes></other-codes>
+          <id type="integer">870079</id>
+          <codes>nbrit</codes>
+          <children type="array">
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <node-type>Language</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <pri-name>An&#234;m</pri-name>
+              <is-default type="integer">0</is-default>
+              <confidence>y</confidence>
+              <end-date nil="true"></end-date>
+              <other-codes></other-codes>
+              <id type="integer">870082</id>
+              <codes>anz</codes>
+              <children type="array"/>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2013-05-20T12:16:38-04:00</updated-at>
+              <sureness type="integer">0</sureness>
+              <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+              <created-by>joe_leif</created-by>
+              <start-date nil="true"></start-date>
+              <creator-id type="integer">10740</creator-id>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <tree-id type="integer">21845</tree-id>
+              <created-at type="datetime">2013-05-20T12:16:38-04:00</created-at>
+            </child>
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <node-type>Language</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <pri-name>Ata</pri-name>
+              <is-default type="integer">0</is-default>
+              <confidence>y</confidence>
+              <end-date nil="true"></end-date>
+              <other-codes></other-codes>
+              <id type="integer">870083</id>
+              <codes>ata</codes>
+              <children type="array"/>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2013-05-20T12:16:38-04:00</updated-at>
+              <sureness type="integer">0</sureness>
+              <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+              <created-by>joe_leif</created-by>
+              <start-date nil="true"></start-date>
+              <creator-id type="integer">10740</creator-id>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <tree-id type="integer">21845</tree-id>
+              <created-at type="datetime">2013-05-20T12:16:38-04:00</created-at>
+            </child>
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments>Node not named by author</pub-comments>
+              <node-type>Subgroup</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <pri-name>Sulka-Kol</pri-name>
+              <is-default type="integer">0</is-default>
+              <confidence>n</confidence>
+              <end-date nil="true"></end-date>
+              <other-codes></other-codes>
+              <id type="integer">870084</id>
+              <codes>slkl</codes>
+              <children type="array">
+                <child>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <node-type>Language</node-type>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <pri-name>Kol</pri-name>
+                  <is-default type="integer">0</is-default>
+                  <confidence>y</confidence>
+                  <end-date nil="true"></end-date>
+                  <other-codes></other-codes>
+                  <id type="integer">870086</id>
+                  <codes>kol</codes>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2013-05-20T12:16:38-04:00</updated-at>
+                  <sureness type="integer">0</sureness>
+                  <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+                  <created-by>joe_leif</created-by>
+                  <start-date nil="true"></start-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-id type="integer">21845</tree-id>
+                  <created-at type="datetime">2013-05-20T12:16:38-04:00</created-at>
+                </child>
+                <child>
+                  <updated-by>joe_leif</updated-by>
+                  <pub-comments></pub-comments>
+                  <node-type>Language</node-type>
+                  <updater-id type="integer">10740</updater-id>
+                  <status nil="true"></status>
+                  <pri-name>Sulka</pri-name>
+                  <is-default type="integer">0</is-default>
+                  <confidence>y</confidence>
+                  <end-date nil="true"></end-date>
+                  <other-codes></other-codes>
+                  <id type="integer">870085</id>
+                  <codes>sua</codes>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                  <updated-at type="datetime">2013-05-20T12:16:38-04:00</updated-at>
+                  <sureness type="integer">0</sureness>
+                  <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+                  <created-by>joe_leif</created-by>
+                  <start-date nil="true"></start-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-id type="integer">21845</tree-id>
+                  <created-at type="datetime">2013-05-20T12:16:38-04:00</created-at>
+                </child>
+              </children>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2013-05-20T12:16:38-04:00</updated-at>
+              <sureness type="integer">0</sureness>
+              <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+              <created-by>joe_leif</created-by>
+              <start-date nil="true"></start-date>
+              <creator-id type="integer">10740</creator-id>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <tree-id type="integer">21845</tree-id>
+              <created-at type="datetime">2013-05-20T12:16:38-04:00</created-at>
+            </child>
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <node-type>Language</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <pri-name>Kuot</pri-name>
+              <is-default type="integer">0</is-default>
+              <confidence>y</confidence>
+              <end-date nil="true"></end-date>
+              <other-codes></other-codes>
+              <id type="integer">870080</id>
+              <codes>kto</codes>
+              <children type="array"/>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2013-05-20T12:16:38-04:00</updated-at>
+              <sureness type="integer">0</sureness>
+              <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+              <created-by>joe_leif</created-by>
+              <start-date nil="true"></start-date>
+              <creator-id type="integer">10740</creator-id>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <tree-id type="integer">21845</tree-id>
+              <created-at type="datetime">2013-05-20T12:16:38-04:00</created-at>
+            </child>
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <node-type>Language</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <pri-name>Mali</pri-name>
+              <is-default type="integer">0</is-default>
+              <confidence>y</confidence>
+              <end-date nil="true"></end-date>
+              <other-codes></other-codes>
+              <id type="integer">870081</id>
+              <codes>gcc</codes>
+              <children type="array"/>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2013-05-20T12:16:38-04:00</updated-at>
+              <sureness type="integer">0</sureness>
+              <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+              <created-by>joe_leif</created-by>
+              <start-date nil="true"></start-date>
+              <creator-id type="integer">10740</creator-id>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <tree-id type="integer">21845</tree-id>
+              <created-at type="datetime">2013-05-20T12:16:38-04:00</created-at>
+            </child>
+          </children>
+          <alt-names>Bismarcks clade</alt-names>
+          <updated-at type="datetime">2013-05-20T12:16:38-04:00</updated-at>
+          <sureness type="integer">0</sureness>
+          <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+          <created-by>joe_leif</created-by>
+          <start-date nil="true"></start-date>
+          <creator-id type="integer">10740</creator-id>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <tree-id type="integer">21845</tree-id>
+          <created-at type="datetime">2013-05-20T12:16:38-04:00</created-at>
+        </child>
+        <child>
+          <updated-by>joe_leif</updated-by>
+          <pub-comments></pub-comments>
+          <node-type>Subgroup</node-type>
+          <updater-id type="integer">10740</updater-id>
+          <status nil="true"></status>
+          <pri-name>Louisiade Archipelago</pri-name>
+          <is-default type="integer">0</is-default>
+          <confidence>y</confidence>
+          <end-date nil="true"></end-date>
+          <other-codes></other-codes>
+          <id type="integer">870071</id>
+          <codes>yele</codes>
+          <children type="array">
+            <child>
+              <updated-by>joe_leif</updated-by>
+              <pub-comments></pub-comments>
+              <node-type>Language</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <status nil="true"></status>
+              <pri-name>Y&#233;l&#238; Dnye</pri-name>
+              <is-default type="integer">0</is-default>
+              <confidence>y</confidence>
+              <end-date nil="true"></end-date>
+              <other-codes></other-codes>
+              <id type="integer">870072</id>
+              <codes>yle</codes>
+              <children type="array"/>
+              <alt-names></alt-names>
+              <updated-at type="datetime">2013-05-20T12:16:37-04:00</updated-at>
+              <sureness type="integer">0</sureness>
+              <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+              <created-by>joe_leif</created-by>
+              <start-date nil="true"></start-date>
+              <creator-id type="integer">10740</creator-id>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <tree-id type="integer">21845</tree-id>
+              <created-at type="datetime">2013-05-20T12:16:37-04:00</created-at>
+            </child>
+          </children>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2013-05-20T12:16:37-04:00</updated-at>
+          <sureness type="integer">0</sureness>
+          <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+          <created-by>joe_leif</created-by>
+          <start-date nil="true"></start-date>
+          <creator-id type="integer">10740</creator-id>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <tree-id type="integer">21845</tree-id>
+          <created-at type="datetime">2013-05-20T12:16:37-04:00</created-at>
+        </child>
+      </children>
+      <alt-names></alt-names>
+      <updated-at type="datetime">2013-05-20T12:16:36-04:00</updated-at>
+      <sureness type="integer">0</sureness>
+      <publications>Dunn, Michael , Robert A Foley, Stephen Curtis Levinson, Ger P Reesink &amp; Angela  Terrill. Structural Phylogenetics and the Reconstruction of Ancient Language History, Science Magazine, 23 Sep 2005 edn., vol. 309, 2072-2075. United States: American Association for the Advancement of Science. </publications>
+      <created-by>joe_leif</created-by>
+      <start-date nil="true"></start-date>
+      <creator-id type="integer">10740</creator-id>
+      <geography nil="true"></geography>
+      <deleted-at nil="true"></deleted-at>
+      <tree-val>Island Melanesian Papuan: Dunn 2005</tree-val>
+      <node-type-id type="integer">10000</node-type-id>
+      <node-status-id nil="true"></node-status-id>
+      <tree-id type="integer">21845</tree-id>
+      <created-at type="datetime">2013-05-20T12:16:36-04:00</created-at>
+    </root>
+    <description>Island Melanesian Papuan: Dunn 2005</description>
+  </tree>
+</hash>

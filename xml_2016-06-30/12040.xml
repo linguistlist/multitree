@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 631. New York: Oxford University Press. ISBN 0199255911</publications>
+      <pri-name>Washo</pri-name>
+      <codes>wash</codes>
+      <updated-by>joe_leif</updated-by>
+      <other-codes></other-codes>
+      <node-status-id nil="true"></node-status-id>
+      <geography nil="true"></geography>
+      <created-by>joe_leif</created-by>
+      <creator-id type="integer">10740</creator-id>
+      <confidence>y</confidence>
+      <node-type-id type="integer">10000</node-type-id>
+      <deleted-at nil="true"></deleted-at>
+      <created-at type="datetime">2009-05-04T17:32:00-04:00</created-at>
+      <alt-names></alt-names>
+      <updated-at type="datetime">2009-05-04T17:32:01-04:00</updated-at>
+      <node-type>Subgroup</node-type>
+      <start-date nil="true"></start-date>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <status nil="true"></status>
+      <id type="integer">381480</id>
+      <children type="array">
+        <child>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 631. New York: Oxford University Press. ISBN 0199255911</publications>
+          <pri-name>Washo</pri-name>
+          <codes>was</codes>
+          <updated-by>joe_leif</updated-by>
+          <other-codes>was</other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <geography>Country: United States; Lat.: 39.25; Long.: -120</geography>
+          <created-by>joe_leif</created-by>
+          <creator-id type="integer">10740</creator-id>
+          <confidence>y</confidence>
+          <node-type-id type="integer">10001</node-type-id>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2009-05-04T17:32:01-04:00</created-at>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-05-04T17:32:01-04:00</updated-at>
+          <node-type>Language</node-type>
+          <start-date nil="true"></start-date>
+          <pub-comments>WALS Code: was</pub-comments>
+          <status nil="true"></status>
+          <id type="integer">381481</id>
+          <children type="array"/>
+          <updater-id type="integer">10740</updater-id>
+          <is-default type="integer">0</is-default>
+          <tree-val>Washo: Dryer 2005</tree-val>
+          <tree-id type="integer">12040</tree-id>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+        </child>
+      </children>
+      <updater-id type="integer">10740</updater-id>
+      <is-default type="integer">0</is-default>
+      <tree-val>Washo: Dryer 2005</tree-val>
+      <tree-id type="integer">12040</tree-id>
+      <sureness type="integer">0</sureness>
+      <end-date nil="true"></end-date>
+    </root>
+    <description>Washo: Dryer 2005</description>
+  </tree>
+</hash>

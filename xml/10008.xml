@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>
+    <region>Europe</region>
+    <description>Uralic: Dryer 2005</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2008-07-04T19:48:58-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Uralic: Dryer 2005</tree-val>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2008-07-04T19:48:59-04:00</updated-at>
+      <pri-name>Uralic</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">false</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">10043</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography nil="true"></geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <tree-id type="integer">10008</tree-id>
+      <codes>urlc</codes>
+      <status nil="true"></status>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2008-07-04T19:48:59-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Uralic: Dryer 2005</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2008-07-04T19:48:59-04:00</updated-at>
+          <pri-name>Finno-Ugric</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">10044</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">10008</tree-id>
+          <codes>fugr</codes>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2008-07-04T19:48:59-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic: Dryer 2005</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2008-07-04T19:48:59-04:00</updated-at>
+              <pri-name>Finnic</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">10045</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">10008</tree-id>
+              <codes>finn</codes>
+              <status nil="true"></status>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes>est</other-codes>
+                  <created-at type="datetime">2008-07-04T19:48:59-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Dryer 2005</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2008-07-04T19:48:59-04:00</updated-at>
+                  <pri-name>Estonian</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10046</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Country: Estonia; Lat.: 59; Long.: 26</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">10008</tree-id>
+                  <codes>est</codes>
+                  <status nil="true"></status>
+                  <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes>fin</other-codes>
+                  <created-at type="datetime">2008-07-04T19:48:59-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Dryer 2005</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2008-07-04T19:48:59-04:00</updated-at>
+                  <pri-name>Finnish</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10047</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Country: Finland; Lat.: 62; Long.: 25</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">10008</tree-id>
+                  <codes>fin</codes>
+                  <status nil="true"></status>
+                  <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes>izh</other-codes>
+                  <created-at type="datetime">2008-07-04T19:48:59-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Dryer 2005</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2008-07-04T19:48:59-04:00</updated-at>
+                  <pri-name>Izhor</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10048</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Country: Russia; Lat.: 59; Long.: 29</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>Ingrian</alt-names>
+                  <tree-id type="integer">10008</tree-id>
+                  <codes>izh</codes>
+                  <status nil="true"></status>
+                  <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes>krl</other-codes>
+                  <created-at type="datetime">2008-07-04T19:48:59-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Dryer 2005</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2008-07-04T19:48:59-04:00</updated-at>
+                  <pri-name>Karelian</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10049</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Country: Russia; Lat.: 64; Long.: 32</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">10008</tree-id>
+                  <codes>krl</codes>
+                  <status nil="true"></status>
+                  <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes>kop</other-codes>
+                  <created-at type="datetime">2008-07-04T19:48:59-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Dryer 2005</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2008-07-04T19:48:59-04:00</updated-at>
+                  <pri-name>Komi-Permyak</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10050</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Country: Russia; Lat.: 59.5; Long.: 54.5</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">10008</tree-id>
+                  <codes>koi</codes>
+                  <status nil="true"></status>
+                  <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes>kzy</other-codes>
+                  <created-at type="datetime">2008-07-04T19:48:59-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Dryer 2005</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2008-07-04T19:48:59-04:00</updated-at>
+                  <pri-name>Komi-Zyrian</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10051</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Country: Russia; Lat.: 65; Long.: 55</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">10008</tree-id>
+                  <codes>kpv</codes>
+                  <status nil="true"></status>
+                  <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes>liv</other-codes>
+                  <created-at type="datetime">2008-07-04T19:48:59-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Dryer 2005</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2008-07-04T19:48:59-04:00</updated-at>
+                  <pri-name>Liv</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10052</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Country: Latvia; Lat.: 56.83; Long.: 24</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">10008</tree-id>
+                  <codes>liv</codes>
+                  <status nil="true"></status>
+                  <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes>mah</other-codes>
+                  <created-at type="datetime">2008-07-04T19:48:59-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Dryer 2005</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2008-07-04T19:48:59-04:00</updated-at>
+                  <pri-name>Mari (Hill)</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10053</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Country: Russia; Lat.: 57; Long.: 58</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>Mari (High)</alt-names>
+                  <tree-id type="integer">10008</tree-id>
+                  <codes>mrj</codes>
+                  <status nil="true"></status>
+                  <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes>mme</other-codes>
+                  <created-at type="datetime">2008-07-04T19:48:59-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Dryer 2005</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2008-07-04T19:48:59-04:00</updated-at>
+                  <pri-name>Mari (Meadow)</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10054</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Country: Russia; Lat.: 57; Long.: 48</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>Mari (Low)</alt-names>
+                  <tree-id type="integer">10008</tree-id>
+                  <codes>mhr</codes>
+                  <status nil="true"></status>
+                  <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes>moe</other-codes>
+                  <created-at type="datetime">2008-07-04T19:48:59-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Dryer 2005</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2008-07-04T19:48:59-04:00</updated-at>
+                  <pri-name>Mordvin (Erzya)</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10055</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Country: Russia, Kazakhstan; Lat.: 53; Long.: 45.5</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>Erzya</alt-names>
+                  <tree-id type="integer">10008</tree-id>
+                  <codes>myv</codes>
+                  <status nil="true"></status>
+                  <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes>mmo</other-codes>
+                  <created-at type="datetime">2008-07-04T19:48:59-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Dryer 2005</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2008-07-04T19:48:59-04:00</updated-at>
+                  <pri-name>Mordvin (Moksha)</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10056</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Country: Russia; Lat.: 54; Long.: 44</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>Moksha</alt-names>
+                  <tree-id type="integer">10008</tree-id>
+                  <codes>mdf</codes>
+                  <status nil="true"></status>
+                  <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes>scs</other-codes>
+                  <created-at type="datetime">2008-07-04T19:48:59-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Dryer 2005</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2008-07-04T19:48:59-04:00</updated-at>
+                  <pri-name>Saami (Central-South)</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10057</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Country: Sweden; Lat.: 64.67; Long.: 16.75</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>Saami (Southern)</alt-names>
+                  <tree-id type="integer">10008</tree-id>
+                  <codes>sma</codes>
+                  <status nil="true"></status>
+                  <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes>ski</other-codes>
+                  <created-at type="datetime">2008-07-04T19:48:59-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Dryer 2005</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2008-07-04T19:49:00-04:00</updated-at>
+                  <pri-name>Saami (Kildin)</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10058</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Country: Russia; Lat.: 67; Long.: 37</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">10008</tree-id>
+                  <codes>sjd</codes>
+                  <status nil="true"></status>
+                  <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes>sno</other-codes>
+                  <created-at type="datetime">2008-07-04T19:49:00-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Dryer 2005</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2008-07-04T19:49:00-04:00</updated-at>
+                  <pri-name>Saami (Northern)</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10059</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Country: Norway, Finland, Sweden; Lat.: 69; Long.: 24</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">10008</tree-id>
+                  <codes>sme</codes>
+                  <status nil="true"></status>
+                  <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes>udm</other-codes>
+                  <created-at type="datetime">2008-07-04T19:49:00-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Dryer 2005</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2008-07-04T19:49:00-04:00</updated-at>
+                  <pri-name>Udmurt</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10060</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Country: Russia; Lat.: 57.5; Long.: 52.5</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">10008</tree-id>
+                  <codes>udm</codes>
+                  <status nil="true"></status>
+                  <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes>vep</other-codes>
+                  <created-at type="datetime">2008-07-04T19:49:00-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Dryer 2005</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2008-07-04T19:49:00-04:00</updated-at>
+                  <pri-name>Veps</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10061</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Country: Russia; Lat.: 60; Long.: 35</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">10008</tree-id>
+                  <codes>vep</codes>
+                  <status nil="true"></status>
+                  <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes>vot</other-codes>
+                  <created-at type="datetime">2008-07-04T19:49:00-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Dryer 2005</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2008-07-04T19:49:00-04:00</updated-at>
+                  <pri-name>Votic</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10062</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Country: Russia; Lat.: 59.5; Long.: 30</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>Vod</alt-names>
+                  <tree-id type="integer">10008</tree-id>
+                  <codes>vot</codes>
+                  <status nil="true"></status>
+                  <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes>yzv</other-codes>
+                  <created-at type="datetime">2008-07-04T19:49:00-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Dryer 2005</tree-val>
+                  <pub-comments>in Ethnologue: dialect of Komi-Zyrian</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2008-07-04T19:49:00-04:00</updated-at>
+                  <pri-name>Yazva</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10063</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Country: Russia; Lat.: 65; Long.: 55</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">10008</tree-id>
+                  <codes>kpv-yaz</codes>
+                  <status nil="true"></status>
+                  <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2008-07-04T19:49:00-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic: Dryer 2005</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2008-07-04T19:49:00-04:00</updated-at>
+              <pri-name>Ugric</pri-name>
+              <node-type>Subgroup</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">10064</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography nil="true"></geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">10008</tree-id>
+              <codes>ugri</codes>
+              <status nil="true"></status>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+              <end-date nil="true"></end-date>
+              <children type="array">
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes>hun</other-codes>
+                  <created-at type="datetime">2008-07-04T19:49:00-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Dryer 2005</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2008-07-04T19:49:00-04:00</updated-at>
+                  <pri-name>Hungarian</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10065</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Country: Hungary; Lat.: 47; Long.: 20</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">10008</tree-id>
+                  <codes>hun</codes>
+                  <status nil="true"></status>
+                  <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes>kty</other-codes>
+                  <created-at type="datetime">2008-07-04T19:49:00-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Dryer 2005</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2008-07-04T19:49:00-04:00</updated-at>
+                  <pri-name>Khanty</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10066</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Country: Russia; Lat.: 65; Long.: 65</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">10008</tree-id>
+                  <codes>kca</codes>
+                  <status nil="true"></status>
+                  <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <start-date nil="true"></start-date>
+                  <other-codes>mns</other-codes>
+                  <created-at type="datetime">2008-07-04T19:49:00-04:00</created-at>
+                  <confidence>y</confidence>
+                  <tree-val>Uralic: Dryer 2005</tree-val>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <updated-at type="datetime">2008-07-04T19:49:00-04:00</updated-at>
+                  <pri-name>Mansi</pri-name>
+                  <node-type>Language</node-type>
+                  <is-default type="boolean">false</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <sureness type="integer">0</sureness>
+                  <id type="integer">10067</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <updater-id type="integer">10740</updater-id>
+                  <geography>Country: Russia; Lat.: 62; Long.: 62</geography>
+                  <updated-by>joe_leif</updated-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">10008</tree-id>
+                  <codes>mns</codes>
+                  <status nil="true"></status>
+                  <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+                  <end-date nil="true"></end-date>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2008-07-04T19:49:00-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Uralic: Dryer 2005</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2008-07-04T19:49:00-04:00</updated-at>
+          <pri-name>Samoyedic</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">false</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">10068</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">10008</tree-id>
+          <codes>smoy</codes>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes>ene</other-codes>
+              <created-at type="datetime">2008-07-04T19:49:00-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic: Dryer 2005</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2008-07-04T19:49:00-04:00</updated-at>
+              <pri-name>Enets</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">10069</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Country: Russia; Lat.: 67.5; Long.: 86.5</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">10008</tree-id>
+              <codes>enf, enh</codes>
+              <status nil="true"></status>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes>kms</other-codes>
+              <created-at type="datetime">2008-07-04T19:49:00-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic: Dryer 2005</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2008-07-04T19:49:00-04:00</updated-at>
+              <pri-name>Kamass</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">10070</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Country: Russia; Lat.: 52; Long.: 92</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Kamas</alt-names>
+              <tree-id type="integer">10008</tree-id>
+              <codes>xas</codes>
+              <status nil="true"></status>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes>nen</other-codes>
+              <created-at type="datetime">2008-07-04T19:49:00-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic: Dryer 2005</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2008-07-04T19:49:00-04:00</updated-at>
+              <pri-name>Nenets</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">10071</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Country: Russia; Lat.: 69; Long.: 72</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">10008</tree-id>
+              <codes>yrk</codes>
+              <status nil="true"></status>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes>ntu</other-codes>
+              <created-at type="datetime">2008-07-04T19:49:00-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic: Dryer 2005</tree-val>
+              <pub-comments>in Ethnologue: dialect of Nenets</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2008-07-04T19:49:00-04:00</updated-at>
+              <pri-name>Nenets (Tundra)</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">10072</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Country: Russia; Lat.: 70; Long.: 76</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">10008</tree-id>
+              <codes>yrk-for</codes>
+              <status nil="true"></status>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes>nga</other-codes>
+              <created-at type="datetime">2008-07-04T19:49:00-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic: Dryer 2005</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2008-07-04T19:49:00-04:00</updated-at>
+              <pri-name>Nganasan</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">10073</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Country: Russia; Lat.: 71; Long.: 93</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">10008</tree-id>
+              <codes>nio</codes>
+              <status nil="true"></status>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes>skp</other-codes>
+              <created-at type="datetime">2008-07-04T19:49:00-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Uralic: Dryer 2005</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2008-07-04T19:49:00-04:00</updated-at>
+              <pri-name>Selkup</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">false</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">10074</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Country: Russia; Lat.: 65; Long.: 82</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">10008</tree-id>
+              <codes>sel</codes>
+              <status nil="true"></status>
+              <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 599. New York: Oxford University Press. ISBN 0199255911</publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

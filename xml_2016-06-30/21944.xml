@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <node-type-id type="integer">10000</node-type-id>
+      <sureness type="integer">0</sureness>
+      <pri-name>Kaweskaran</pri-name>
+      <end-date nil="true"></end-date>
+      <deleted-at nil="true"></deleted-at>
+      <creator-id type="integer">10740</creator-id>
+      <codes>alac</codes>
+      <updated-by>joe_leif</updated-by>
+      <id type="integer">870608</id>
+      <created-by>joe_leif</created-by>
+      <tree-id type="integer">21944</tree-id>
+      <other-codes></other-codes>
+      <node-status-id nil="true"></node-status-id>
+      <geography>Chile</geography>
+      <confidence>y</confidence>
+      <alt-names>Alacalufan</alt-names>
+      <start-date nil="true"></start-date>
+      <pub-comments>The classification of this Kaweskar(an) varies. Viegas Barros (2005:37-43) presents a reasonable case that three languages need to be recognized in this family. Adelaar (2004:617) has Kawesqar (Alacaluf, Aksan&#225;s) as an isolate; Kaufman (1994:67) has two emergent languages, Aksan&#225; (Kaweskar) and Hekaine, though Campbell (1997:14, 192), following Clairis (1985:756), argues that Aksan&#225; is a mistaken identity.</pub-comments>
+      <children type="array">
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <sureness type="integer">0</sureness>
+          <pri-name>Southern Alacaluf</pri-name>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <codes>alc</codes>
+          <updated-by>joe_leif</updated-by>
+          <id type="integer">870610</id>
+          <created-by>joe_leif</created-by>
+          <tree-id type="integer">21944</tree-id>
+          <other-codes></other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <confidence>y</confidence>
+          <alt-names>Halakwalup, Pecher&#233;</alt-names>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <children type="array"/>
+          <status nil="true"></status>
+          <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+          <is-default type="integer">0</is-default>
+          <updated-at type="datetime">2013-05-22T09:58:54-04:00</updated-at>
+          <node-type>Language</node-type>
+          <created-at type="datetime">2013-05-22T09:58:54-04:00</created-at>
+          <tree-val>Kaweskaran: Campbell, Grondona 2012</tree-val>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <sureness type="integer">0</sureness>
+          <pri-name>Kaweskar</pri-name>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <codes>alc</codes>
+          <updated-by>joe_leif</updated-by>
+          <id type="integer">870611</id>
+          <created-by>joe_leif</created-by>
+          <tree-id type="integer">21944</tree-id>
+          <other-codes></other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <confidence>y</confidence>
+          <alt-names>Northern Alacaluf, Alacaluf, Kaw&#233;sqar, Kawaskar, Qawasqar, Aks&#225;nas</alt-names>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <children type="array">
+            <child>
+              <node-type-id type="integer">10003</node-type-id>
+              <sureness type="integer">0</sureness>
+              <pri-name>Tawoskser</pri-name>
+              <end-date nil="true"></end-date>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <codes>alc-taw</codes>
+              <updated-by>joe_leif</updated-by>
+              <id type="integer">870613</id>
+              <created-by>joe_leif</created-by>
+              <tree-id type="integer">21944</tree-id>
+              <other-codes></other-codes>
+              <node-status-id nil="true"></node-status-id>
+              <geography nil="true"></geography>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <children type="array"/>
+              <status nil="true"></status>
+              <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+              <is-default type="integer">0</is-default>
+              <updated-at type="datetime">2013-05-22T09:58:54-04:00</updated-at>
+              <node-type>Dialect</node-type>
+              <created-at type="datetime">2013-05-22T09:58:54-04:00</created-at>
+              <tree-val>Kaweskaran: Campbell, Grondona 2012</tree-val>
+              <updater-id type="integer">10740</updater-id>
+            </child>
+            <child>
+              <node-type-id type="integer">10003</node-type-id>
+              <sureness type="integer">0</sureness>
+              <pri-name>Kaw&#233;sqar</pri-name>
+              <end-date nil="true"></end-date>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <codes>alc-kaw</codes>
+              <updated-by>joe_leif</updated-by>
+              <id type="integer">870612</id>
+              <created-by>joe_leif</created-by>
+              <tree-id type="integer">21944</tree-id>
+              <other-codes></other-codes>
+              <node-status-id nil="true"></node-status-id>
+              <geography nil="true"></geography>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <children type="array"/>
+              <status nil="true"></status>
+              <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+              <is-default type="integer">0</is-default>
+              <updated-at type="datetime">2013-05-22T09:58:54-04:00</updated-at>
+              <node-type>Dialect</node-type>
+              <created-at type="datetime">2013-05-22T09:58:54-04:00</created-at>
+              <tree-val>Kaweskaran: Campbell, Grondona 2012</tree-val>
+              <updater-id type="integer">10740</updater-id>
+            </child>
+          </children>
+          <status nil="true"></status>
+          <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+          <is-default type="integer">0</is-default>
+          <updated-at type="datetime">2013-05-22T09:58:54-04:00</updated-at>
+          <node-type>Language</node-type>
+          <created-at type="datetime">2013-05-22T09:58:54-04:00</created-at>
+          <tree-val>Kaweskaran: Campbell, Grondona 2012</tree-val>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+        <child>
+          <node-type-id type="integer">10001</node-type-id>
+          <sureness type="integer">0</sureness>
+          <pri-name>Alacaluf</pri-name>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <codes>alc</codes>
+          <updated-by>joe_leif</updated-by>
+          <id type="integer">870609</id>
+          <created-by>joe_leif</created-by>
+          <tree-id type="integer">21944</tree-id>
+          <other-codes></other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <confidence>y</confidence>
+          <alt-names>Central Alacaluf, Hekaine</alt-names>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <children type="array"/>
+          <status nil="true"></status>
+          <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+          <is-default type="integer">0</is-default>
+          <updated-at type="datetime">2013-05-22T09:58:54-04:00</updated-at>
+          <node-type>Language</node-type>
+          <created-at type="datetime">2013-05-22T09:58:54-04:00</created-at>
+          <tree-val>Kaweskaran: Campbell, Grondona 2012</tree-val>
+          <updater-id type="integer">10740</updater-id>
+        </child>
+      </children>
+      <status nil="true"></status>
+      <publications>Campbell, Lyle , Ver&#243;nica  Grondona &amp; Hans Henrich Hock (eds.). 2012. The Indigenous Languages of South America: A Comprehensive Guide. Berlin:  Mouton de Gruyter. </publications>
+      <is-default type="integer">0</is-default>
+      <updated-at type="datetime">2013-05-22T09:58:54-04:00</updated-at>
+      <node-type>Subgroup</node-type>
+      <created-at type="datetime">2013-05-22T09:58:54-04:00</created-at>
+      <tree-val>Kaweskaran: Campbell, Grondona 2012</tree-val>
+      <updater-id type="integer">10740</updater-id>
+    </root>
+    <description>Kaweskaran: Campbell, Grondona 2012</description>
+  </tree>
+</hash>

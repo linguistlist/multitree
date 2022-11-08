@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Pacific</region>
+    <root>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <pri-name>Gapun</pri-name>
+      <node-type>Subgroup</node-type>
+      <node-status-id nil="true"></node-status-id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <start-date nil="true"></start-date>
+      <id type="integer">387703</id>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <pub-comments></pub-comments>
+          <pri-name>Taiap</pri-name>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <start-date nil="true"></start-date>
+          <id type="integer">387704</id>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+          <alt-names></alt-names>
+          <tree-val>Gapun: Dryer 2005</tree-val>
+          <tree-id type="integer">12139</tree-id>
+          <status nil="true"></status>
+          <sureness type="integer">0</sureness>
+          <is-default type="integer">0</is-default>
+          <created-at type="datetime">2009-05-07T14:34:08-04:00</created-at>
+          <updated-by>joe_leif</updated-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Country: Papua New Guinea; Lat.: -4.08; Long.: 144.5</geography>
+          <other-codes>tap</other-codes>
+          <codes>gpn</codes>
+          <updated-at type="datetime">2009-05-07T14:34:08-04:00</updated-at>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 615. New York: Oxford University Press. ISBN 0199255911</publications>
+          <node-type-id type="integer">10001</node-type-id>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+        </child>
+      </children>
+      <alt-names></alt-names>
+      <tree-val>Gapun: Dryer 2005</tree-val>
+      <tree-id type="integer">12139</tree-id>
+      <status nil="true"></status>
+      <sureness type="integer">0</sureness>
+      <is-default type="integer">0</is-default>
+      <created-at type="datetime">2009-05-07T14:34:08-04:00</created-at>
+      <updated-by>joe_leif</updated-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography nil="true"></geography>
+      <other-codes></other-codes>
+      <codes>gapu</codes>
+      <updated-at type="datetime">2009-05-07T14:34:08-04:00</updated-at>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 615. New York: Oxford University Press. ISBN 0199255911</publications>
+      <node-type-id type="integer">10000</node-type-id>
+      <deleted-at nil="true"></deleted-at>
+      <confidence>y</confidence>
+    </root>
+    <description>Gapun: Dryer 2005</description>
+  </tree>
+</hash>

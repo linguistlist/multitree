@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <updated-at type="datetime">2009-05-05T20:53:58-04:00</updated-at>
+      <tree-id type="integer">12095</tree-id>
+      <status nil="true"></status>
+      <start-date nil="true"></start-date>
+      <confidence>y</confidence>
+      <updater-id type="integer">10740</updater-id>
+      <pri-name>Chimakuan</pri-name>
+      <is-default type="integer">0</is-default>
+      <id type="integer">385975</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <tree-val>Chimakuan: Campbell 1997</tree-val>
+      <node-type-id type="integer">10000</node-type-id>
+      <end-date nil="true"></end-date>
+      <sureness type="integer">0</sureness>
+      <publications>Campbell, Lyle. 1997. American Indian Languages: The Historical Linguistics of Native America, 116. Oxford: Oxford University Press. ISBN 0195094271</publications>
+      <deleted-at nil="true"></deleted-at>
+      <created-at type="datetime">2009-05-05T20:53:58-04:00</created-at>
+      <alt-names></alt-names>
+      <updated-by>joe_leif</updated-by>
+      <node-type>Subgroup</node-type>
+      <node-status-id nil="true"></node-status-id>
+      <pub-comments></pub-comments>
+      <other-codes></other-codes>
+      <geography>Washington</geography>
+      <codes>chmn</codes>
+      <children type="array">
+        <child>
+          <updated-at type="datetime">2009-05-05T20:53:58-04:00</updated-at>
+          <tree-id type="integer">12095</tree-id>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <pri-name>Quileute</pri-name>
+          <is-default type="integer">0</is-default>
+          <id type="integer">385977</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <tree-val>Chimakuan: Campbell 1997</tree-val>
+          <node-type-id type="integer">10001</node-type-id>
+          <end-date nil="true"></end-date>
+          <sureness type="integer">0</sureness>
+          <publications>Campbell, Lyle. 1997. American Indian Languages: The Historical Linguistics of Native America, 116. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2009-05-05T20:53:58-04:00</created-at>
+          <alt-names></alt-names>
+          <updated-by>joe_leif</updated-by>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <pub-comments></pub-comments>
+          <other-codes></other-codes>
+          <geography nil="true"></geography>
+          <codes>qui</codes>
+          <children type="array"/>
+        </child>
+        <child>
+          <updated-at type="datetime">2009-05-05T20:53:58-04:00</updated-at>
+          <tree-id type="integer">12095</tree-id>
+          <status>Extinct</status>
+          <start-date nil="true"></start-date>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <pri-name>Chemakum</pri-name>
+          <is-default type="integer">0</is-default>
+          <id type="integer">385976</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <tree-val>Chimakuan: Campbell 1997</tree-val>
+          <node-type-id type="integer">10001</node-type-id>
+          <end-date nil="true"></end-date>
+          <sureness type="integer">0</sureness>
+          <publications>Campbell, Lyle. 1997. American Indian Languages: The Historical Linguistics of Native America, 116. Oxford: Oxford University Press. ISBN 0195094271</publications>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2009-05-05T20:53:58-04:00</created-at>
+          <alt-names></alt-names>
+          <updated-by>joe_leif</updated-by>
+          <node-type>Language</node-type>
+          <node-status-id type="integer">10000</node-status-id>
+          <pub-comments></pub-comments>
+          <other-codes></other-codes>
+          <geography nil="true"></geography>
+          <codes>xch</codes>
+          <children type="array"/>
+        </child>
+      </children>
+    </root>
+    <description>Chimakuan: Campbell 1997</description>
+  </tree>
+</hash>

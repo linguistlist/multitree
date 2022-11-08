@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <description>Guaicuruan: Composite</description>
+    <root>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <created-at type="datetime">2010-05-20T12:53:46-04:00</created-at>
+      <confidence>y</confidence>
+      <tree-val>Guaicuruan: Composite</tree-val>
+      <pub-comments>Guach&#237; (Brazil) and Payagu&#225; (Paraguay), both extinct, are often attributed to Guaicuruan, but without sufficient evidence to confirm this. (See Viegas Barros 2004.)</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2010-05-20T12:53:46-04:00</updated-at>
+      <pri-name>Guaicuruan</pri-name>
+      <node-type>Subgroup</node-type>
+      <is-default type="boolean">true</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <sureness type="integer">0</sureness>
+      <id type="integer">696048</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <geography>Argentina, Paraguay, Brazil</geography>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names>Waikuruan, Waykuruan</alt-names>
+      <tree-id type="integer">17478</tree-id>
+      <codes>guay</codes>
+      <status nil="true"></status>
+      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 72. London, New York: Routledge. </publications>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-05-20T12:53:47-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Guaicuruan: Composite</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-05-20T12:53:47-04:00</updated-at>
+          <pri-name>Eastern</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">true</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">696055</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">17478</tree-id>
+          <codes>egyk</codes>
+          <status nil="true"></status>
+          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 72. London, New York: Routledge. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-20T12:53:47-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Guaicuruan: Composite</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2010-05-20T12:53:47-04:00</updated-at>
+              <pri-name>Payaw&#225;</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">true</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696057</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Colonia Capitan Bado, Paraguay</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Payagu&#225;</alt-names>
+              <tree-id type="integer">17478</tree-id>
+              <codes>qho</codes>
+              <status>Extinct</status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 72. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-20T12:53:47-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Guaicuruan: Composite</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2010-05-20T12:53:47-04:00</updated-at>
+              <pri-name>Wach&#237;</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">true</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696056</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Mato Grosso, Brazil</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Guach&#237;</alt-names>
+              <tree-id type="integer">17478</tree-id>
+              <codes>qfk</codes>
+              <status>Extinct</status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 72. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-05-20T12:53:46-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Guaicuruan: Composite</tree-val>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-05-20T12:53:46-04:00</updated-at>
+          <pri-name>Southern Guaicuruan</pri-name>
+          <node-type>Subgroup</node-type>
+          <is-default type="boolean">true</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">696050</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography nil="true"></geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+          <tree-id type="integer">17478</tree-id>
+          <codes>sguk</codes>
+          <status nil="true"></status>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 72. London, New York: Routledge. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-20T12:53:47-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Guaicuruan: Composite</tree-val>
+              <pub-comments></pub-comments>
+              <node-status-id type="integer">10000</node-status-id>
+              <updated-at type="datetime">2010-05-20T12:53:47-04:00</updated-at>
+              <pri-name>Abip&#243;n</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">true</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696054</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Chaco, Argentina/Paraguay</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+              <tree-id type="integer">17478</tree-id>
+              <codes>axb</codes>
+              <status>Extinct</status>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 72. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-20T12:53:46-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Guaicuruan: Composite</tree-val>
+              <pub-comments>Speakers: 2000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2010-05-20T12:53:47-04:00</updated-at>
+              <pri-name>Pilag&#225;</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">true</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696051</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Formosa, Chaco, Salta, Argentina</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Pilaca</alt-names>
+              <tree-id type="integer">17478</tree-id>
+              <codes>plg</codes>
+              <status nil="true"></status>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 72. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-20T12:53:47-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Guaicuruan: Composite</tree-val>
+              <pub-comments>Speakers: 3000</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2010-05-20T12:53:47-04:00</updated-at>
+              <pri-name>Mocov&#237;</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">true</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696053</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Chaco, Argentina</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Mocob&#237;</alt-names>
+              <tree-id type="integer">17478</tree-id>
+              <codes>moc</codes>
+              <status nil="true"></status>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 72. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+            <child>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <created-at type="datetime">2010-05-20T12:53:47-04:00</created-at>
+              <confidence>y</confidence>
+              <tree-val>Guaicuruan: Composite</tree-val>
+              <pub-comments>Speakers: 15500</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <updated-at type="datetime">2010-05-20T12:53:47-04:00</updated-at>
+              <pri-name>Toba</pri-name>
+              <node-type>Language</node-type>
+              <is-default type="boolean">true</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <sureness type="integer">0</sureness>
+              <id type="integer">696052</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <updater-id type="integer">10740</updater-id>
+              <geography>Chaco, Argentina; Paraguay; Gran Chaco, Bolivia</geography>
+              <updated-by>joe_leif</updated-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names>Qom, Namqom</alt-names>
+              <tree-id type="integer">17478</tree-id>
+              <codes>tob</codes>
+              <status nil="true"></status>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 72. London, New York: Routledge. </publications>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <created-at type="datetime">2010-05-20T12:53:46-04:00</created-at>
+          <confidence>y</confidence>
+          <tree-val>Guaicuruan: Composite</tree-val>
+          <pub-comments>Speakers: 1200</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2010-05-20T12:53:46-04:00</updated-at>
+          <pri-name>Kadiw&#233;u</pri-name>
+          <node-type>Language</node-type>
+          <is-default type="boolean">true</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <sureness type="integer">0</sureness>
+          <id type="integer">696049</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <geography>Mato Grosso, Brazil; Gran Chaco, Paraguay</geography>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names>Caduveo, Mbay&#225;, Ediu-Adig</alt-names>
+          <tree-id type="integer">17478</tree-id>
+          <codes>kbc</codes>
+          <status nil="true"></status>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 72. London, New York: Routledge. </publications>
+          <end-date nil="true"></end-date>
+          <children type="array"/>
+        </child>
+      </children>
+    </root>
+  </tree>
+</hash>

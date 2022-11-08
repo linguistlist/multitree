@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <node-type>Subgroup</node-type>
+      <updated-by>joe_leif</updated-by>
+      <start-date nil="true"></start-date>
+      <updater-id type="integer">10740</updater-id>
+      <node-status-id nil="true"></node-status-id>
+      <end-date nil="true"></end-date>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <alt-names></alt-names>
+      <codes>kark</codes>
+      <children type="array">
+        <child>
+          <node-type>Language</node-type>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+          <updater-id type="integer">10740</updater-id>
+          <node-status-id nil="true"></node-status-id>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <alt-names></alt-names>
+          <codes>kyh</codes>
+          <children type="array"/>
+          <updated-at type="datetime">2009-09-01T18:54:25-04:00</updated-at>
+          <tree-val>Karok: Dryer 2005</tree-val>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 631. New York: Oxford University Press. ISBN 0199255911</publications>
+          <other-codes>krk</other-codes>
+          <pub-comments></pub-comments>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2009-09-01T18:54:25-04:00</created-at>
+          <confidence>y</confidence>
+          <sureness type="integer">0</sureness>
+          <status nil="true"></status>
+          <pri-name>Karok</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+          <geography>Country: United States; Lat.: 41.67; Long.: -123</geography>
+          <tree-id type="integer">15319</tree-id>
+          <is-default type="integer">0</is-default>
+          <id type="integer">608518</id>
+        </child>
+      </children>
+      <updated-at type="datetime">2009-09-01T18:54:25-04:00</updated-at>
+      <tree-val>Karok: Dryer 2005</tree-val>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 631. New York: Oxford University Press. ISBN 0199255911</publications>
+      <other-codes></other-codes>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <deleted-at nil="true"></deleted-at>
+      <created-at type="datetime">2009-09-01T18:54:25-04:00</created-at>
+      <confidence>y</confidence>
+      <sureness type="integer">0</sureness>
+      <status nil="true"></status>
+      <pri-name>Karok</pri-name>
+      <node-type-id type="integer">10000</node-type-id>
+      <geography nil="true"></geography>
+      <tree-id type="integer">15319</tree-id>
+      <is-default type="integer">0</is-default>
+      <id type="integer">608517</id>
+    </root>
+    <description>Karok: Dryer 2005</description>
+  </tree>
+</hash>

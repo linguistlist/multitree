@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <pub-comments>This is a subtree of the mixed language tree provided in Ethnologue. It has been broken into regions for ease of searching.</pub-comments>
+      <pri-name>South American Mixed Language</pri-name>
+      <updated-by>joe_leif</updated-by>
+      <children type="array">
+        <child>
+          <pub-comments></pub-comments>
+          <pri-name>Spanish-Quechua</pri-name>
+          <updated-by>joe_leif</updated-by>
+          <children type="array">
+            <child>
+              <pub-comments>Has a Quechua grammatical system and a Spanish vocabulary.</pub-comments>
+              <pri-name>Media Lengua</pri-name>
+              <updated-by>joe_leif</updated-by>
+              <children type="array"/>
+              <tree-id type="integer">11622</tree-id>
+              <sureness type="integer">0</sureness>
+              <node-type>Language</node-type>
+              <geography>Ecuador</geography>
+              <created-by>joe_leif</created-by>
+              <status nil="true"></status>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <updated-at type="datetime">2009-03-18T16:38:03-04:00</updated-at>
+              <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+              <id type="integer">329492</id>
+              <tree-val>South American Mixed Language: Ethnologue 2005</tree-val>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <is-default type="integer">0</is-default>
+              <codes>mue</codes>
+              <created-at type="datetime">2009-03-18T16:38:03-04:00</created-at>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id nil="true"></node-status-id>
+              <node-type-id type="integer">10001</node-type-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>Y</confidence>
+            </child>
+          </children>
+          <tree-id type="integer">11622</tree-id>
+          <sureness type="integer">0</sureness>
+          <node-type>Subgroup</node-type>
+          <geography nil="true"></geography>
+          <created-by>joe_leif</created-by>
+          <status nil="true"></status>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <updated-at type="datetime">2009-03-18T16:38:03-04:00</updated-at>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <id type="integer">329491</id>
+          <tree-val>South American Mixed Language: Ethnologue 2005</tree-val>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <is-default type="integer">0</is-default>
+          <codes>spqu</codes>
+          <created-at type="datetime">2009-03-18T16:38:03-04:00</created-at>
+          <alt-names></alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <node-status-id nil="true"></node-status-id>
+          <node-type-id type="integer">10000</node-type-id>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>Y</confidence>
+        </child>
+        <child>
+          <pub-comments></pub-comments>
+          <pri-name>Iberian-Romani</pri-name>
+          <updated-by>joe_leif</updated-by>
+          <children type="array">
+            <child>
+              <pub-comments>A Gypsy language very different from other Romani. A cryptological variety of Spanish (I. Hancock 1995). McLane found 300 to 400 words based on Romani, but no individual was acquainted with more than 100. The Iberian base for Calo is regional dialects, where the overlap is not distinct between Spanish and Portuguese.</pub-comments>
+              <pri-name>Cal&#243;</pri-name>
+              <updated-by>joe_leif</updated-by>
+              <children type="array">
+                <child>
+                  <pub-comments></pub-comments>
+                  <pri-name>Brazilian Cal&#227;o</pri-name>
+                  <updated-by>joe_leif</updated-by>
+                  <children type="array"/>
+                  <tree-id type="integer">11622</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <node-type>Dialect</node-type>
+                  <geography>Brazil</geography>
+                  <created-by>joe_leif</created-by>
+                  <status nil="true"></status>
+                  <end-date nil="true"></end-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <updated-at type="datetime">2009-03-18T16:38:02-04:00</updated-at>
+                  <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+                  <id type="integer">329488</id>
+                  <tree-val>South American Mixed Language: Ethnologue 2005</tree-val>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <is-default type="integer">0</is-default>
+                  <codes>rmq-bra</codes>
+                  <created-at type="datetime">2009-03-18T16:38:02-04:00</created-at>
+                  <alt-names></alt-names>
+                  <updater-id type="integer">10740</updater-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>Y</confidence>
+                </child>
+              </children>
+              <tree-id type="integer">11622</tree-id>
+              <sureness type="integer">0</sureness>
+              <node-type>Language</node-type>
+              <geography>Spain, also spoken in Brazil, France, Portugal.</geography>
+              <created-by>joe_leif</created-by>
+              <status nil="true"></status>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <updated-at type="datetime">2009-03-18T16:38:02-04:00</updated-at>
+              <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+              <id type="integer">329487</id>
+              <tree-val>South American Mixed Language: Ethnologue 2005</tree-val>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <is-default type="integer">0</is-default>
+              <codes>rmr</codes>
+              <created-at type="datetime">2009-03-18T16:38:02-04:00</created-at>
+              <alt-names>Gitano, Iberian Romani, Calo</alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id nil="true"></node-status-id>
+              <node-type-id type="integer">10001</node-type-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>Y</confidence>
+            </child>
+          </children>
+          <tree-id type="integer">11622</tree-id>
+          <sureness type="integer">0</sureness>
+          <node-type>Subgroup</node-type>
+          <geography nil="true"></geography>
+          <created-by>joe_leif</created-by>
+          <status nil="true"></status>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <updated-at type="datetime">2009-03-18T16:38:02-04:00</updated-at>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <id type="integer">329486</id>
+          <tree-val>South American Mixed Language: Ethnologue 2005</tree-val>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <is-default type="integer">0</is-default>
+          <codes>irro</codes>
+          <created-at type="datetime">2009-03-18T16:38:02-04:00</created-at>
+          <alt-names></alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <node-status-id nil="true"></node-status-id>
+          <node-type-id type="integer">10000</node-type-id>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>Y</confidence>
+        </child>
+        <child>
+          <pub-comments></pub-comments>
+          <pri-name>Quechua-Puquina</pri-name>
+          <updated-by>joe_leif</updated-by>
+          <children type="array">
+            <child>
+              <pub-comments>The language seems to have Quechua affixes and syntactic patterns, but distinctive roots from a dialect of the extinct Puquina language (Girault 1990). May be extinct.</pub-comments>
+              <pri-name>Callawalla</pri-name>
+              <updated-by>joe_leif</updated-by>
+              <children type="array"/>
+              <tree-id type="integer">11622</tree-id>
+              <sureness type="integer">0</sureness>
+              <node-type>Language</node-type>
+              <geography>Bolivia, Highlands and high valleys, eastern Andes north of La Paz, Charazani area north of Lake Titicaca.</geography>
+              <created-by>joe_leif</created-by>
+              <status>Nearly Extinct</status>
+              <end-date nil="true"></end-date>
+              <creator-id type="integer">10740</creator-id>
+              <updated-at type="datetime">2009-03-18T16:38:03-04:00</updated-at>
+              <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+              <id type="integer">329490</id>
+              <tree-val>South American Mixed Language: Ethnologue 2005</tree-val>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <is-default type="integer">0</is-default>
+              <codes>caw</codes>
+              <created-at type="datetime">2009-03-18T16:38:02-04:00</created-at>
+              <alt-names>Callahuaya</alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <node-status-id type="integer">10001</node-status-id>
+              <node-type-id type="integer">10001</node-type-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>Y</confidence>
+            </child>
+          </children>
+          <tree-id type="integer">11622</tree-id>
+          <sureness type="integer">0</sureness>
+          <node-type>Subgroup</node-type>
+          <geography nil="true"></geography>
+          <created-by>joe_leif</created-by>
+          <status nil="true"></status>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <updated-at type="datetime">2009-03-18T16:38:02-04:00</updated-at>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <id type="integer">329489</id>
+          <tree-val>South American Mixed Language: Ethnologue 2005</tree-val>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <is-default type="integer">0</is-default>
+          <codes>qpuq</codes>
+          <created-at type="datetime">2009-03-18T16:38:02-04:00</created-at>
+          <alt-names></alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <node-status-id nil="true"></node-status-id>
+          <node-type-id type="integer">10000</node-type-id>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>Y</confidence>
+        </child>
+      </children>
+      <tree-id type="integer">11622</tree-id>
+      <sureness type="integer">0</sureness>
+      <node-type>Subgroup</node-type>
+      <geography>South America</geography>
+      <created-by>joe_leif</created-by>
+      <status nil="true"></status>
+      <end-date nil="true"></end-date>
+      <creator-id type="integer">10740</creator-id>
+      <updated-at type="datetime">2009-03-18T16:38:02-04:00</updated-at>
+      <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+      <id type="integer">329485</id>
+      <tree-val>South American Mixed Language: Ethnologue 2005</tree-val>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <is-default type="integer">0</is-default>
+      <codes>saml</codes>
+      <created-at type="datetime">2009-03-18T16:38:02-04:00</created-at>
+      <alt-names></alt-names>
+      <updater-id type="integer">10740</updater-id>
+      <node-status-id nil="true"></node-status-id>
+      <node-type-id type="integer">10000</node-type-id>
+      <deleted-at nil="true"></deleted-at>
+      <confidence>Y</confidence>
+    </root>
+    <description>South American Mixed Language: Ethnologue 2005</description>
+  </tree>
+</hash>
