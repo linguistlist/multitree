@@ -5,31 +5,36 @@ from cldfbench import Dataset as BaseDataset
 from lxml import etree
 import newick
 from clldutils.misc import lazyproperty
-from clldutils.iso_639_3 import ISO
 from pyglottolog import Glottolog
 from unidecode import unidecode
-from csvw.dsv import UnicodeWriter
+import nexus
+from nexus.handlers.tree import Tree as NexusTree
+from pycldf.sources import Sources
 
 
 def text(e, tag):
     n = e.find(tag)
     if n is not None:
-        return n.text
+        return n.text or None
 
 
 def norm_codes(c):
-    codes = [s.strip() for s in c.split(',') if s.strip()]
+    codes = [unidecode(s.strip().replace('.', '-').replace(' ', '_')) for s in c.split(',') if s.strip()]
     return '_'.join(sorted(codes))
 
 
 class Node:
     def __init__(self, e):
+        self.e = e
+        self.id = text(e, 'id')
         self.name = text(e, 'pri-name').replace('”', '')
-        self.codes = norm_codes(text(e, 'codes'))
+        self.raw_codes = text(e, 'codes')
+        self.codes = norm_codes(self.raw_codes)
         self.type = text(e, 'node-type')
         assert self.name and self.codes
-        #self.newick_name = self.codes.replace('(', '_').replace(')', '_').replace(',', '_').replace(':', '_').replace(';', '_')
 
+    def __getitem__(self, item):
+        return text(self.e, item)
 
     def __hash__(self):
         return hash(self.codes)
@@ -37,9 +42,11 @@ class Node:
 
 class Tree:
     def __init__(self, p):
+        self.p = p
         self.tree = etree.parse(str(p)).find('./tree')
         self.root = self.tree.find('root')
         self.description = self.tree.find('description').text
+        self.regions = [e.text for e in self.root.findall('region')]
         self.nodes = []
 
     @staticmethod
@@ -52,12 +59,22 @@ class Tree:
 
     @lazyproperty
     def newick(self):
+        nodes = {}
+
         def tree(e):
             nn = Node(e)
+            nid = (nn.id, nn.name)
+            children = len(e.findall('children/child'))
+            if nid in nodes:
+                assert nodes[nid] == children, 'duplicate note with different number of children!'
+                return
+            nodes[nid] = children
             self.nodes.append(nn)
             n = newick.Node(nn.codes)
             for c in e.findall('children/child'):
-                n.add_descendant(tree(c))
+                nn = tree(c)
+                if nn:
+                    n.add_descendant(nn)
             return n
 
         return tree(self.root)
@@ -71,40 +88,139 @@ class Dataset(BaseDataset):
         return super().cldf_specs()
 
     def cmd_download(self, args):
-        """
-        Download files to the raw/ directory. You can use helpers methods of `self.raw_dir`, e.g.
-
-        >>> self.raw_dir.download(url, fname)
-        """
         pass
 
     def cmd_makecldf(self, args):
-        #
-        # FIXME: We need a table "names" with fk into LanguageTable and list-valued fk into TreeTable
-        #
-        args.writer.cldf.add_component('LanguageTable')
-        args.writer.cldf.add_component(
+        self.schema(args.writer.cldf)
+
+        args.writer.cldf.sources = Sources.from_file(self.etc_dir / 'sources.bib')
+        pubs2source = {
+            r['Citations']: r['Source'].split(';') if r['Source'] else []
+            for r in self.etc_dir.read_csv('sources.csv', dicts=True)}
+
+        langs = collections.defaultdict(set)
+        trees = collections.OrderedDict()
+        for p in sorted(self.dir.joinpath('xml_django_app').glob('*.xml'), key=lambda pp: int(pp.stem)):
+            tree = Tree(p)
+            pubs = (text(tree.root, 'publications') or '').strip()
+            trees[p.stem] = tree.newick#.ascii_art()
+            if len(tree.nodes) < 2:
+                #print('empty tree: {}'.format(p))
+                del trees[p.stem]
+                continue
+
+            for n in tree.nodes:
+                if n.codes not in langs:
+                    args.writer.objects['LanguageTable'].append(dict(
+                        ID=n.codes,
+                    ))
+                args.writer.objects['nodes.csv'].append(dict(
+                    ID=n.id,
+                    Language_ID=n.codes,
+                    Name=n.name,
+                    Tree_ID=p.stem,
+                    Node_Type=n.type,
+                    Comment=n['pubcomments'],
+                    Geography=n['geography'],
+                    Status=n['status'],
+                    Alternative_Names=n['alt-names'],
+                ))
+                langs[n.codes].add(n.name)
+
+            args.writer.objects['TreeTable'].append(dict(
+                ID=p.stem,
+                Name=p.stem,
+                Description=tree.description,
+                Media_ID='trees',
+                Region=tree.regions,
+                Source=pubs2source[pubs],
+            ))
+
+        args.writer.objects['MediaTable'].append(dict(
+            ID='trees',
+            Media_Type='text/plain',
+            Download_URL='trees.nex',
+        ))
+
+        nex = nexus.NexusWriter()
+        for name, t in trees.items():
+            nex.trees.append(NexusTree.from_newick(t, name=name, rooted=True))
+        nex.write_to_file(args.writer.cldf_spec.dir / 'trees.nex')
+
+        gl = Glottolog('/home/robert_forkel/projects/glottolog/glottolog')
+        by_mt = {}
+        by_name = {}
+        for lang in gl.languoids():
+            try:
+                for name in lang.names['multitree']:
+                    #assert name not in by_name, 'duplicate multitree name!'
+                    by_name[unidecode(name)] = lang
+            except KeyError:
+                pass
+            try:
+                by_mt[lang.identifier['multitree']] = lang
+            except KeyError:
+                pass
+
+        for lg in args.writer.objects['LanguageTable']:
+            glang = by_mt.get(lg['ID'])
+            if not glang:
+                for name in langs[lg['ID']]:
+                    if unidecode(name) in by_name:
+                        glang = by_name[unidecode(name)]
+                        break
+
+            if glang:
+                lg['Name'] = glang.name
+                lg['Latitude'] = glang.latitude
+                lg['Longitude'] = glang.longitude
+                lg['Glottocode'] = glang.id
+
+    def schema(self, cldf):
+        cldf.add_component('LanguageTable')
+        cldf.add_component(
             'TreeTable',
-            'region',  # FIXME: list-valued!
+            {
+                'name': 'Region',  # FIXME: list-valued!
+                'separator': ';',
+                'propertyUrl': "http://purl.org/dc/terms/spatial",
+            }
             # publications -> Source
         )
-        args.writer.cldf.add_component('MediaTable')
-        args.writer.cldf.add_table(
+        cldf.add_component('MediaTable')
+        cldf.add_table(
             'nodes.csv',
-            # id
-            # languageReference
-            # tree-reference
-            # pri-name
-            # node-type
-            #<node-type>Dialect Group</node-type>
-            #<node-type>Dialect</node-type>
-            #<node-type>Language</node-type>
-            #<node-type>Language Subgroup</node-type>
-            #<node-type>Macro Code</node-type>
-            #<node-type>Stock</node-type>
-            #<node-type>Subgroup</node-type>
-            # pub-comments
-            # geography
+            {
+                "datatype": {
+                    "base": "string",
+                    "format": "[a-zA-Z0-9_\\-]+"
+                },
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                "required": True,
+                "name": "ID"
+            },
+            {
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                "name": "Language_ID"
+            },
+            {
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                "name": "Comment"
+            },
+            "Tree_ID",
+            {
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                "name": "Name"
+            },
+            {
+                "name": "Node_Type",
+                "datatype": {
+                    "base": "string",
+                    "format": "Dialect Group|Dialect|Language|Language Subgroup|Macro Code|Stock|Subgroup"}
+            },
+            "Geography",
+            "Alternative_Names",
+            "Status",
             # confidence
             #<confidence>0.0</confidence>
             #<confidence>0</confidence>
@@ -122,65 +238,7 @@ class Dataset(BaseDataset):
             #<sureness type="integer">-1</sureness>
             #<sureness type="integer">1</sureness>
             #<sureness type="integer">2</sureness>
-            # other-codes
-            # status
-            # alt-names
-            # node-type
+            # other-codes -> most probably WALS codes
             # start-date
             # end-date
         )
-
-        names = collections.defaultdict(list)
-        langs = collections.defaultdict(set)
-        gl = Glottolog('/home/robert_forkel/projects/glottolog/glottolog')
-        by_mt = {}
-        by_name = {}
-        for lang in gl.languoids():
-            try:
-                for name in lang.names['multitree']:
-                    #assert name not in by_name, 'duplicate multitree name!'
-                    by_name[unidecode(name)] = lang
-            except KeyError:
-                pass
-            try:
-                by_mt[lang.identifier['multitree']] = lang
-            except KeyError:
-                pass
-
-        src = set()
-        for p in self.dir.joinpath('xml_django_app').glob('*.xml'):
-            tree = Tree(p)
-            pubs = text(tree.root, 'publications')
-            if pubs.strip():
-                src.add(pubs.strip())
-            s = tree.newick#.ascii_art()
-
-            for n in tree.nodes:
-                langs[n.codes].add(n.name)
-                if n.type == 'Language':
-                    names[n.name].append(n.codes)
-
-        #print(len(langs))
-        unmatched = {k: v for k, v in langs.items() if k not in by_mt}
-        #print(len(unmatched))
-        unmatched = {k: v for k, v in unmatched.items() if not any(unidecode(n) in by_name for n in v)}
-        #print(len(unmatched))
-
-        i = 0
-        for k, v in unmatched.items():
-            i += 1
-            if i > 10:
-                break
-            #print(k, v)
-
-        #for lg in langs:
-        #    if lg.codes not in iso:
-        #        print(lg.name, lg.codes)
-
-        #for code, names in by_code.items():
-        #    if len(names) > 1:
-        #        print(code, names)
-
-        #for name, occs in sorted(names.items(), key=lambda i: -len(i[1])):
-        #    if len(occs) > 10:
-        #        print(name, occs)
