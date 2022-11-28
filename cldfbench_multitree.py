@@ -19,7 +19,8 @@ def text(e, tag):
 
 
 def norm_codes(c):
-    codes = [unidecode(s.strip().replace('.', '-').replace(' ', '_')) for s in c.split(',') if s.strip()]
+    codes = [
+        unidecode(s.strip().replace('.', '-').replace(' ', '_')) for s in c.split(',') if s.strip()]
     return '_'.join(sorted(codes))
 
 
@@ -66,7 +67,9 @@ class Tree:
             nid = (nn.id, nn.name)
             children = len(e.findall('children/child'))
             if nid in nodes:
-                assert nodes[nid] == children, 'duplicate note with different number of children!'
+                # There are a couple of duplicate nodes in the trees. If they have the same
+                # number of children, we just drop them.
+                assert nodes[nid] == children, 'duplicate node with different number of children!'
                 return
             nodes[nid] = children
             self.nodes.append(nn)
@@ -100,20 +103,21 @@ class Dataset(BaseDataset):
 
         langs = collections.defaultdict(set)
         trees = collections.OrderedDict()
-        for p in sorted(self.dir.joinpath('xml_django_app').glob('*.xml'), key=lambda pp: int(pp.stem)):
+        # We read the XML from the django app, because the other directories contain non-XML, like
+        # "read timeout at /usr/share/perl5/Net/HTTP/Methods.pm".
+        for p in sorted(
+                self.dir.joinpath('xml_django_app').glob('*.xml'), key=lambda pp: int(pp.stem)):
             tree = Tree(p)
             pubs = (text(tree.root, 'publications') or '').strip()
             trees[p.stem] = tree.newick#.ascii_art()
             if len(tree.nodes) < 2:
-                #print('empty tree: {}'.format(p))
+                # A handful of trees have only one node. We skip these.
                 del trees[p.stem]
                 continue
 
             for n in tree.nodes:
                 if n.codes not in langs:
-                    args.writer.objects['LanguageTable'].append(dict(
-                        ID=n.codes,
-                    ))
+                    args.writer.objects['LanguageTable'].append(dict(ID=n.codes))
                 args.writer.objects['nodes.csv'].append(dict(
                     ID=n.id,
                     Language_ID=n.codes,
@@ -147,17 +151,19 @@ class Dataset(BaseDataset):
             nex.trees.append(NexusTree.from_newick(t, name=name, rooted=True))
         nex.write_to_file(args.writer.cldf_spec.dir / 'trees.nex')
 
-        gl = Glottolog('/home/robert_forkel/projects/glottolog/glottolog')
+        # Now we try to supplement the language metadata with data from Glottolog.
         by_mt = {}
         by_name = {}
-        for lang in gl.languoids():
+        # To match multitree languoids with Glottolog, we use ...
+        for lang in args.glottolog.api.languoids():
             try:
+                # ... alternative names of type "multitree" ...
                 for name in lang.names['multitree']:
-                    #assert name not in by_name, 'duplicate multitree name!'
                     by_name[unidecode(name)] = lang
             except KeyError:
                 pass
             try:
+                # ... and identifiers of type "multitree" in Glottolog.
                 by_mt[lang.identifier['multitree']] = lang
             except KeyError:
                 pass
@@ -169,7 +175,6 @@ class Dataset(BaseDataset):
                     if unidecode(name) in by_name:
                         glang = by_name[unidecode(name)]
                         break
-
             if glang:
                 lg['Name'] = glang.name
                 lg['Latitude'] = glang.latitude
@@ -181,11 +186,10 @@ class Dataset(BaseDataset):
         cldf.add_component(
             'TreeTable',
             {
-                'name': 'Region',  # FIXME: list-valued!
+                'name': 'Region',
                 'separator': ';',
                 'propertyUrl': "http://purl.org/dc/terms/spatial",
             }
-            # publications -> Source
         )
         cldf.add_component('MediaTable')
         cldf.add_table(
