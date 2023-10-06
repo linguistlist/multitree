@@ -1,3 +1,4 @@
+import argparse
 import pathlib
 import collections
 
@@ -5,11 +6,46 @@ from cldfbench import Dataset as BaseDataset
 from lxml import etree
 import newick
 from clldutils.misc import lazyproperty
-from pyglottolog import Glottolog
+from clldutils.markup import add_markdown_text
 from unidecode import unidecode
-import nexus
-from nexus.handlers.tree import Tree as NexusTree
 from pycldf.sources import Sources
+from commonnexus import Nexus
+from commonnexus.blocks.trees import Trees
+
+NOTES = """
+From the former MultiTree website:
+
+### Why MultiTree?
+
+MultiTree provides a unique approach to historical linguistic research, representing the most
+complete collection of language relationship hypotheses in a user-friendly, visually-appealing,
+and interactive format. Not only is it fun and informative, but it is a useful resource that gathers
+scholarly work and makes it accessible to academics and the public alike.
+                            
+MultiTree is also an innovative tool for typological analysis, especially among lesser-known
+languages. It facilitates interdisciplinary collaboration with linguists to reach
+more accurate conclusions about human language, culture, and history.
+
+
+### Disclaimer
+
+The trees in MultiTree are intended to be faithful representations of their sources,
+but sometimes it can be difficult to capture a scholar's intentions in a graphical
+representation. Whenever possible, editors have added comments to disambiguate or
+clarify their interpretations. However, it is always recommended that users refer to the
+original source for a better understanding of the scholar's hypothesis.
+                            
+MultiTree aims to collect as many hypotheses about language relationships as possible
+so that users may compare them. Inclusion of a tree does not indicate validity of the
+scholar's hypothesis or acceptance by the academic community.
+                            
+**Regarding contact languages (creoles, pidgins, mixed languages) and language isolates**
+Although isolates have no known genetic affiliation, and the origins of contact
+languages are heavily contested, they have been included in the MultiTree
+database in order to make information about them available to scholars and to accurately
+represent whatever hypothesis the original scholar is making. "Trees" that include these
+languages do not reflect genetic affiliation unless this was the intention of the author.
+"""
 
 
 def text(e, tag):
@@ -25,6 +61,26 @@ def norm_codes(c):
 
 
 class Node:
+    """
+    codes 102561
+
+    sureness 75682   ['-1', '0', '1', '2']
+    confidence 75669
+
+    other-codes 2501   ['0g3', '0h2', '0x1', '1jm', 'aab']
+    start-date 665
+    end-date 663
+    """
+    __metadata__ = [
+        ('Comment', 'pub-comments'),
+        ('Geography', 'geography'),
+        ('Status', 'status'),
+        ('Alternative_Names', 'alt-names'),
+        ('Other_Codes', 'other-codes'),
+        ('Start_Date', 'start-date'),
+        ('End_Date', 'end-date'),
+    ]
+
     def __init__(self, e):
         self.e = e
         self.id = text(e, 'id')
@@ -93,6 +149,9 @@ class Dataset(BaseDataset):
     def cmd_download(self, args):
         pass
 
+    def cmd_readme(self, args):
+        return add_markdown_text(super().cmd_readme(args), '', section='Description')
+
     def cmd_makecldf(self, args):
         self.schema(args.writer.cldf)
 
@@ -103,32 +162,33 @@ class Dataset(BaseDataset):
 
         langs = collections.defaultdict(set)
         trees = collections.OrderedDict()
-        # We read the XML from the django app, because the other directories contain non-XML, like
-        # "read timeout at /usr/share/perl5/Net/HTTP/Methods.pm".
-        for p in sorted(
-                self.dir.joinpath('xml_django_app').glob('*.xml'), key=lambda pp: int(pp.stem)):
+        for p in sorted(self.raw_dir.glob('*.xml'), key=lambda pp: int(pp.stem)):
             tree = Tree(p)
             pubs = (text(tree.root, 'publications') or '').strip()
-            trees[p.stem] = tree.newick#.ascii_art()
+            trees[p.stem] = tree.newick
             if len(tree.nodes) < 2:
                 # A handful of trees have only one node. We skip these.
                 del trees[p.stem]
                 continue
 
+            node_metadata = set()
+
             for n in tree.nodes:
                 if n.codes not in langs:
-                    args.writer.objects['LanguageTable'].append(dict(ID=n.codes))
+                    args.writer.objects['LanguageTable'].append(dict(ID=n.codes, Name=n.codes))
+                md = {}
+                for attr, key in Node.__metadata__:
+                    if n[key]:
+                        node_metadata.add(attr)
+                        md[attr] = n[key]
+
                 args.writer.objects['nodes.csv'].append(dict(
                     ID=n.id,
                     Language_ID=n.codes,
                     Name=n.name,
                     Tree_ID=p.stem,
                     Node_Type=n.type,
-                    Comment=n['pubcomments'],
-                    Geography=n['geography'],
-                    Status=n['status'],
-                    Alternative_Names=n['alt-names'],
-                ))
+                    **md))
                 langs[n.codes].add(n.name)
 
             args.writer.objects['TreeTable'].append(dict(
@@ -138,6 +198,7 @@ class Dataset(BaseDataset):
                 Media_ID='trees',
                 Region=tree.regions,
                 Source=pubs2source[pubs],
+                Node_Metadata=sorted(node_metadata)
             ))
 
         args.writer.objects['MediaTable'].append(dict(
@@ -146,10 +207,9 @@ class Dataset(BaseDataset):
             Download_URL='trees.nex',
         ))
 
-        nex = nexus.NexusWriter()
-        for name, t in trees.items():
-            nex.trees.append(NexusTree.from_newick(t, name=name, rooted=True))
-        nex.write_to_file(args.writer.cldf_spec.dir / 'trees.nex')
+        nex = Nexus('#NEXUS')
+        nex.append_block(Trees.from_data(*[(name, t, True) for name, t in trees.items()]))
+        args.writer.cldf_spec.dir.joinpath('trees.nex').write_text(str(nex))
 
         # Now we try to supplement the language metadata with data from Glottolog.
         by_mt = {}
@@ -189,10 +249,15 @@ class Dataset(BaseDataset):
                 'name': 'Region',
                 'separator': ';',
                 'propertyUrl': "http://purl.org/dc/terms/spatial",
+            },
+            {
+                'name': 'Node_Metadata',
+                'dc:description': "",
+                'separator': ';',
             }
         )
         cldf.add_component('MediaTable')
-        cldf.add_table(
+        t = cldf.add_table(
             'nodes.csv',
             {
                 "datatype": {
@@ -211,7 +276,9 @@ class Dataset(BaseDataset):
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
                 "name": "Comment"
             },
+
             "Tree_ID",
+
             {
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
                 "name": "Name"
@@ -224,25 +291,34 @@ class Dataset(BaseDataset):
             },
             "Geography",
             "Alternative_Names",
-            "Status",
-            # confidence
-            #<confidence>0.0</confidence>
-            #<confidence>0</confidence>
-            #<confidence>-1.0</confidence>
-            #<confidence></confidence>
-            #<confidence>n</confidence>
-            #<confidence>N</confidence>
-            #<confidence nil="true"/>
-            #<confidence nil="true"></confidence>
-            #<confidence>v</confidence>
-            #<confidence>y</confidence>
-            #<confidence>Y</confidence>
-            # sureness
-            #<sureness type="integer">0</sureness>
-            #<sureness type="integer">-1</sureness>
-            #<sureness type="integer">1</sureness>
-            #<sureness type="integer">2</sureness>
-            # other-codes -> most probably WALS codes
-            # start-date
-            # end-date
+            {
+                "name": "Status",
+                "dc:description": "Endangerment status of the languoid",
+                "datatype": {"base": "string", "format":
+                    "Critically Endangered|Extinct|Extinct but still in Use|Extinct with children|Nearly Extinct|Revived|Vulnerable"},
+            },
+            {
+                "name": "Other_Codes",
+                "dc:description": "Other language codes assigned to the languoid",
+            },
+            {
+                "name": "Start_Date",
+                "dc:description": "Earliest time of documentation",
+            },
+            {
+                "name": "End_Date",
+                "dc:description": "Latest time of documentation",
+            },
+            {
+                "name": "Confidence",
+                "dc:description": "",
+            },
+            {
+                "name": "Sureness",
+                "dc:description": "",
+            },
         )
+        t.common_props['dc:description'] = \
+            ("Nodes in MultiTree trees are associated with a languoid, i.e. a language group, "
+             "language or dialect, and carry metadata.")
+        cldf.add_foreign_key('nodes.csv', 'Tree_ID', 'TreeTable', 'ID')

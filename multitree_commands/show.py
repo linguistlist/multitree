@@ -1,5 +1,5 @@
 """
-
+Print a summary of a MultiTree to the screen.
 """
 from pycldf.trees import TreeTable
 from pycldf.sources import Sources
@@ -12,6 +12,7 @@ from cldfbench_multitree import Dataset
 def register(parser):
     parser.add_argument('tree_id')
     add_format(parser, 'simple')
+    parser.add_argument('--named-nodes', action='store_true', default=False)
 
 
 def run(args):
@@ -36,18 +37,22 @@ def run(args):
                 print('    {}{}'.format(src.refkey(), ' [{}]'.format(pages) if pages else ''))
                 refs.append(src)
 
-            print(tree.newick().ascii_art())
+            nwk = tree.newick()
+            if args.named_nodes:
+                # rename nodes
+                nwk.rename(auto_quote=True, **{row['Language_ID']: row['Name'] for row in nodes})
+
+            print(nwk.ascii_art())
             print('')
 
-            with Table(args, 'Label', 'Name', 'Glottocode', 'Type', 'Status', 'Geography') as t:
+            with Table(args, 'Label', 'Name', 'Glottocode', 'Type', *tree.row['Node_Metadata']) as t:
                 for row in nodes:
                     t.append([
                         row['Language_ID'],
                         row['Name'],
                         langs[row['Language_ID']]['Glottocode'],
                         row['Node_Type'],
-                        row['Status'],
-                        row['Geography']])
+                    ] + [row[key] for key in tree.row['Node_Metadata']])
             print('')
 
             if refs:
