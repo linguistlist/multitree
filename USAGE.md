@@ -2,7 +2,7 @@
 
 ## It's just CLDF
 
-Thus, you can do whatever can be done with CLDF, see https://github.com/cldf/cookbook
+Thus, you can do whatever can be done with CLDF, see: https://github.com/cldf/cookbook.
 
 
 ## Showing a tree
@@ -41,15 +41,18 @@ Campbell, Lyle. 1997. American Indian Languages: The Historical Linguistics of N
 
 ## Using CLDF SQL
 
-The SQLite database which can be created from the dataset running
+The SQLite database can be created from the dataset running:
+
 ```shell
 cldf createdb cldf multitree.sqlite
 ```
-has the following schema:
+
+It has the following schema:
 
 ![](erd.svg)
 
-So to list the 10 biggest trees in terms of number of nodes, you could run
+So to list the 10 biggest trees in terms of number of nodes, you can run:
+
 ```sql
 sqlite> SELECT t.cldf_description AS name, count(n.cldf_id) AS nc
 FROM TreeTable AS t, "nodes.csv" AS n
@@ -58,7 +61,7 @@ GROUP BY t.cldf_id
 ORDER BY nc DESC 
 LIMIT 10;
 ```
-resulting in
+resulting in:
 
 name | nc
 --- | ---:
@@ -75,7 +78,7 @@ Trans-New Guinea: Composite|1405
 
 
 A more interesting question might be how many (and which) MultiTree classification proposals contain
-languages which are classified as isolates in Glottolog.
+languages which are classified as isolates in [Glottolog](https://glottolog.org), e.g.:
 
 ```sql
 ATTACH DATABASE "PATH/TO/glottolog-cldf/glottolog-cldf.sqlite" AS glottolog;
@@ -101,7 +104,8 @@ WHERE
     );
 ```
 
-This query returns quite a few trees, including expected candidates such as 
+This query returns quite a few trees, including expected candidates such as:
+
 "26162|Sino-Caucasian Macrophylum: Bengtson 1991":
 
 ```shell
