@@ -1,0 +1,32 @@
+#NEXUS
+[MultiTree: Northern Paman, subtree of Pama-Nyungan: Hale 1964]
+BEGIN TREES;
+TRANSLATE 08l Lut̯iγ,
+0gt Ŋkot̯,
+0gw_mam Mamŋayt̯,
+0gw_ntr Ntʳwaˀŋayt̯,
+0gw_thy T̯yan̯ŋayt̯,
+0gx Mbiywom,
+aid Alŋit̯,
+dgt Ntʳaˀŋit̯,
+gwm Awŋt̯im,
+lnj Linŋit̯iγ,
+npam 'Northern Paman',
+nrpa 'Northern Paman A',
+nrpb 'Northern Paman B',
+nrpc 'Northern Paman C',
+nrpd 'Northern Paman D',
+nrpe 'Northern Paman E',
+nrpf 'Northern Paman F',
+nrpg 'Northern Paman G',
+nrph 'Northern Paman H',
+rrt Aritinŋit̯iγ,
+urf Uraδi,
+urf_ang Ngamiti,
+urf_mut 'Mu:tyati',
+urf_wut 'Wɔ:tati',
+urf_yum Yumakundyi,
+urf_yxm Yinwum,
+xpj MpalitYan̯;
+TREE 18297 = [&R] ((08l,xpj)nrpb,((urf_ang,urf_yum,urf_wut,urf_mut)urf)nrpa,((0gw_mam,0gw_thy,0gw_ntr)gwm,dgt)nrpe,(urf_yxm)nrpc,(aid,lnj)nrpd,(0gt)nrpf,(rrt)nrpg,(0gx)nrph)npam;
+END;

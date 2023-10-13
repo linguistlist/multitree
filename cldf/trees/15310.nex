@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Haida: Campbell 1997]
+BEGIN TREES;
+TRANSLATE haid Haida,
+hax Skidegate,
+hdn Masset;
+TREE 15310 = [&R] (hdn,hax)haid;
+END;

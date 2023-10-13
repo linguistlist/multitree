@@ -1,0 +1,28 @@
+#NEXUS
+[MultiTree: Chibcha: Krickeberg & Jimenez Moreno 1937]
+BEGIN TREES;
+TRANSLATE 00h Lile,
+1na Dabaibe,
+1nb Nori,
+1nc Panche,
+1nd Muzo,
+1ne Lache,
+arh Arhuaco,
+barb Barbacoa,
+cbg Chimila,
+cbi Cayapa,
+cca_ttk Totoró,
+chb Chibcha,
+chib Chibcha,
+cof Colorado,
+cuk_kvn 'Cueva-Cuna',
+gum Moguex,
+kwi Cuaiquer,
+pbb Paez,
+pij 'Pijao Paniquitá',
+qge Quimbaya,
+qnj Cara,
+qqv Tairona,
+qtd Betoi;
+TREE 20795 = [&R] (cca_ttk,arh,qtd,cuk_kvn,chb,1nd,(cof,kwi,cbi)barb,1ne,1nc,pbb,00h,1na,pij,1nb,qge,qnj,cbg,gum,qqv)chib;
+END;

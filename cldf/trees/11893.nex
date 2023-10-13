@@ -1,0 +1,24 @@
+#NEXUS
+[MultiTree: Asian Pidgins and Creoles: Composite]
+BEGIN TREES;
+TRANSLATE ascr 'Asian Creoles',
+aspc 'Asian Pidgins and Creoles',
+aspi 'Asian Pidgin',
+ccm 'Malaccan Creole Malay',
+hca 'Andaman Creole Hindi',
+idb 'Indo-Portuguese',
+mbf 'Malay, Baba',
+mzs Macanese,
+nag 'Naga Pidgin',
+nef Nefamese,
+sabc 'Assamese based',
+sabp 'Assamese based',
+sci 'Sri Lankan Creole Malay',
+sfbp 'French based',
+shbc 'Hindi-Based Creoles',
+smbc 'Malay based',
+spbc 'Portuguese based',
+tas 'Tay Boi',
+vkp 'Korlai Creole Portuguese';
+TREE 11893 = [&R] (((hca)shbc,(ccm,sci,mbf)smbc,(nag)sabc,(vkp,mzs,idb)spbc)ascr,((tas)sfbp,(nef)sabp)aspi)aspc;
+END;

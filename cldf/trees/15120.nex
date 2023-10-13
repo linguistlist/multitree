@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Tiniwan: Kaufman 2007]
+BEGIN TREES;
+TRANSLATE qpl Pamiwa,
+tini Tiniwan,
+tit Tiniwa;
+TREE 15120 = [&R] (qpl,tit)tini;
+END;

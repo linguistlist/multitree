@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Eastern Daly: Tryon 2007]
+BEGIN TREES;
+TRANSLATE 1ek Yunggor,
+dalp 'Eastern Daly',
+xmu Kamu,
+zml Matngele;
+TREE 19748 = [&R] (xmu,zml,1ek)dalp;
+END;

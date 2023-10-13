@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Yuki: Composite]
+BEGIN TREES;
+TRANSLATE qdw_qiq_ykx_yuk Yuki,
+wao Wappo,
+yuk_coa 'Coast Yuki',
+yuk_huc Huchnom,
+yuk_yuk 'Yuki proper',
+yuki Yukian;
+TREE 18076 = [&R] ((yuk_coa,yuk_yuk,yuk_huc)qdw_qiq_ykx_yuk,wao)yuki;
+END;

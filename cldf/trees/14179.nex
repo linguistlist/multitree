@@ -1,0 +1,38 @@
+#NEXUS
+[MultiTree: North American Unclassified Languages: Campbell 1997]
+BEGIN TREES;
+TRANSLATE bue Beothuk,
+ctm Chitimacha,
+esq Esselen,
+hax_hdn Haida,
+kla 'Klamath-Modoc',
+kla_kla Klamath,
+kla_mod Modoc,
+mbe Molala,
+naun 'North American Unclassified Languages',
+sis Siuslaw,
+sis_low 'Lower Umpqua',
+sis_siu Siuslaw,
+sln Salinan,
+tjm Timucua,
+tjm_acu Acuera,
+tjm_afr 'Agua Fresca',
+tjm_asa 'Agua Salada',
+tjm_ita Itafi,
+tjm_moc Mocama,
+tjm_oco Oconi,
+tjm_pot Potano,
+tjm_pro 'Timucua proper',
+tjm_taw Tawasa,
+tjm_tuc Tucururu,
+tjm_yuf Yufera,
+tli Tlingit,
+xad Adai,
+xcn Cotoname,
+xcw Coahuilteco,
+xcy Cayuse,
+xrt 'Araname-Tamique',
+xso Solano,
+zkk Karankawa;
+TREE 14179 = [&R] ((tjm_taw,tjm_yuf,tjm_pot,tjm_acu,tjm_moc,tjm_ita,tjm_tuc,tjm_pro,tjm_oco,tjm_afr,tjm_asa)tjm,xcn,xcw,xcy,(kla_kla,kla_mod)kla,xso,bue,esq,(sis_low,sis_siu)sis,mbe,ctm,tli,xad,hax_hdn,zkk,xrt,sln)naun;
+END;

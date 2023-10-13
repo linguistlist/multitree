@@ -1,0 +1,25 @@
+#NEXUS
+[MultiTree: California and Plateau Penutian (According to Burman): Campbell 1997]
+BEGIN TREES;
+TRANSLATE calp 'California Penutian',
+maid Maiduan,
+mbe Molala,
+mjd Konkow,
+mwcn 'Miwok-Costanoan',
+ncvv Klamath,
+nez 'Nez Perce',
+nol Nomlaki,
+penu Penutian,
+plpn 'Plateau Penutian',
+pwi Patwin,
+qb1 Nisesan,
+qp2 Maidu,
+shap Sahaptian,
+tqn_uma_waa_yak Sahaptin,
+ufxk 'Yokuts-Maiduan-Utian',
+wint Wintuan,
+wnw Wintu,
+xcy Cayuse,
+yoku Yokuts;
+TREE 15258 = [&R] ((xcy,(nez,tqn_uma_waa_yak)shap,mbe,ncvv)plpn,((yoku,(qb1,qp2,mjd)maid,mwcn)ufxk,(nol,wnw,pwi)wint)calp)penu;
+END;

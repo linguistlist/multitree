@@ -1,0 +1,34 @@
+#NEXUS
+[MultiTree: Hokan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE acv Achumawi,
+atw Atsugewi,
+cid Chimariko,
+coc Cocopa,
+dih 'Diegueño (Mesa Grande)',
+dih_tip 'Tiipay (Jamul)',
+hoka Hokan,
+huf_yav Havasupai,
+kju Kashaya,
+klb Kiliwa,
+krkp Palaihnihan,
+mov Mojave,
+mrc Maricopa,
+peb 'Pomo (Eastern)',
+pej 'Pomo (Northern)',
+pom 'Pomo (Southeastern)',
+pomo Pomoan,
+poo 'Pomo (Central)',
+sei Seri,
+shas Shasta,
+sht Shasta,
+uapz Chimariko,
+vqdj Seri,
+yana Yana,
+ynn Yana,
+yuf_wal Hualapai,
+yuf_yav Yavapai,
+yum Quechan,
+yuma Yuman;
+TREE 14237 = [&R] ((ynn)yana,(kju,peb,pom,poo,pej)pomo,(klb,coc,yuf_wal,dih,yuf_yav,yum,huf_yav,dih_tip,mrc,mov)yuma,(sei)vqdj,(cid)uapz,(atw,acv)krkp,(sht)shas)hoka;
+END;

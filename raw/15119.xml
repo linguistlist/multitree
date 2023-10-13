@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>    <region>South America</region>
+    <root>
+      <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+      <tree-id type="integer">15119</tree-id>
+      <node-type>Subgroup</node-type>
+      <updated-at type="datetime">2009-08-10T18:48:59-04:00</updated-at>
+      <end-date nil="true"></end-date>
+      <created-by>joe_leif</created-by>
+      <pub-comments>"The Macro-Paesan cluster contrains certain of the genetic units grouped by Greenberg in his more inclusive 'Paezan'.  Swadesh (1959) links Kapishan&#225; to Kunsa, and they in fact do share lexical similarities.  He links Kunda, Kapishan&#225;, Paes-Barbak&#243;an and Itonama as part of his more inclusive 'Macro-Paez'. Suarez (1974) links Betoi, Paes-Barbak&#243;an, Itonama and Warao within his more inclusive 'Macro-Chibchan'.  Loukotka specifically links Betoi and Paes-Barbak&#243;an within his more inclusive 'Chibchan'.  The Macro-Paesan cluster is thus supported from many quarters, though the work needed for developing the arguements in favour of this hypothesis remains to be done.  See Kaufman (1990), which offers a somewhat different formulation." (64)  The author considers a cluster as a genetic relationship hypothesized by at least two other scholars with a time depth greater than 50 centuries.</pub-comments>
+      <alt-names></alt-names>
+      <pri-name>Macro-Paesan</pri-name>
+      <node-type-id type="integer">10000</node-type-id>
+      <codes>mcps</codes>
+      <children type="array">
+        <child>
+          <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+          <tree-id type="integer">15119</tree-id>
+          <node-type>Language</node-type>
+          <updated-at type="datetime">2009-08-10T18:49:01-04:00</updated-at>
+          <end-date nil="true"></end-date>
+          <created-by>joe_leif</created-by>
+          <pub-comments>Speakers: 18000</pub-comments>
+          <alt-names>Guarao</alt-names>
+          <pri-name>Warao</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+          <codes>wba</codes>
+          <children type="array"/>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2009-08-10T18:49:01-04:00</created-at>
+          <geography nil="true"></geography>
+          <status nil="true"></status>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <id type="integer">606469</id>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+          <creator-id type="integer">10740</creator-id>
+        </child>
+        <child>
+          <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+          <tree-id type="integer">15119</tree-id>
+          <node-type>Stock</node-type>
+          <updated-at type="datetime">2009-08-10T18:49:00-04:00</updated-at>
+          <end-date nil="true"></end-date>
+          <created-by>joe_leif</created-by>
+          <pub-comments>"Without the inclusion of Andaki, this grouping is often called 'Interandine'.  Andaki seems in fact to be more closely similar to the Paes group than to the Kokonuko group.  The data cited in Loukotka (1968) do not support including Pansaleo in Paesan." (63)</pub-comments>
+          <alt-names></alt-names>
+          <pri-name>Paes-Barbak&#243;an</pri-name>
+          <node-type-id type="integer">10005</node-type-id>
+          <codes>psbk</codes>
+          <children type="array">
+            <child>
+              <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+              <tree-id type="integer">15119</tree-id>
+              <node-type>Subgroup</node-type>
+              <updated-at type="datetime">2009-08-10T18:49:00-04:00</updated-at>
+              <end-date nil="true"></end-date>
+              <created-by>joe_leif</created-by>
+              <pub-comments></pub-comments>
+              <alt-names></alt-names>
+              <pri-name>Barbak&#243;an</pri-name>
+              <node-type-id type="integer">10000</node-type-id>
+              <codes>barb</codes>
+              <children type="array">
+                <child>
+                  <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+                  <tree-id type="integer">15119</tree-id>
+                  <node-type>Subgroup</node-type>
+                  <updated-at type="datetime">2009-08-10T18:49:00-04:00</updated-at>
+                  <end-date nil="true"></end-date>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments></pub-comments>
+                  <alt-names></alt-names>
+                  <pri-name>Southern Barbak&#243;an</pri-name>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <codes>sbar</codes>
+                  <children type="array">
+                    <child>
+                      <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+                      <tree-id type="integer">15119</tree-id>
+                      <node-type>Language</node-type>
+                      <updated-at type="datetime">2009-08-10T18:49:00-04:00</updated-at>
+                      <end-date nil="true"></end-date>
+                      <created-by>joe_leif</created-by>
+                      <pub-comments>Speakers: 2100</pub-comments>
+                      <alt-names>Colorado, Ts&#225;chela</alt-names>
+                      <pri-name>Ts&#225;fiki</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <codes>cof</codes>
+                      <children type="array"/>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2009-08-10T18:49:00-04:00</created-at>
+                      <geography>Pichincha, Los Rios, Ecuador</geography>
+                      <status nil="true"></status>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">606466</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+                      <creator-id type="integer">10740</creator-id>
+                    </child>
+                    <child>
+                      <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+                      <tree-id type="integer">15119</tree-id>
+                      <node-type>Language</node-type>
+                      <updated-at type="datetime">2009-08-10T18:49:01-04:00</updated-at>
+                      <end-date nil="true"></end-date>
+                      <created-by>joe_leif</created-by>
+                      <pub-comments></pub-comments>
+                      <alt-names>Karani, Caranqui, Imbaya</alt-names>
+                      <pri-name>Kara</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <codes>qnj</codes>
+                      <children type="array"/>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2009-08-10T18:49:00-04:00</created-at>
+                      <geography>Imbabura, Ecuador</geography>
+                      <status>Extinct</status>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">606467</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+                      <creator-id type="integer">10740</creator-id>
+                    </child>
+                    <child>
+                      <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+                      <tree-id type="integer">15119</tree-id>
+                      <node-type>Language</node-type>
+                      <updated-at type="datetime">2009-08-10T18:49:00-04:00</updated-at>
+                      <end-date nil="true"></end-date>
+                      <created-by>joe_leif</created-by>
+                      <pub-comments>Speakers: 5000</pub-comments>
+                      <alt-names>Cayapa, Chachi</alt-names>
+                      <pri-name>Kayapa</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <codes>cbi</codes>
+                      <children type="array"/>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2009-08-10T18:49:00-04:00</created-at>
+                      <geography>Esmeralda, Ecuador</geography>
+                      <status nil="true"></status>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">606465</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+                      <creator-id type="integer">10740</creator-id>
+                    </child>
+                  </children>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2009-08-10T18:49:00-04:00</created-at>
+                  <geography nil="true"></geography>
+                  <status nil="true"></status>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">606464</id>
+                  <confidence>y</confidence>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+                  <creator-id type="integer">10740</creator-id>
+                </child>
+                <child>
+                  <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+                  <tree-id type="integer">15119</tree-id>
+                  <node-type>Subgroup</node-type>
+                  <updated-at type="datetime">2009-08-10T18:49:00-04:00</updated-at>
+                  <end-date nil="true"></end-date>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments></pub-comments>
+                  <alt-names></alt-names>
+                  <pri-name>Northern Barbak&#243;an</pri-name>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <codes>nbar</codes>
+                  <children type="array">
+                    <child>
+                      <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+                      <tree-id type="integer">15119</tree-id>
+                      <node-type>Language</node-type>
+                      <updated-at type="datetime">2009-08-10T18:49:00-04:00</updated-at>
+                      <end-date nil="true"></end-date>
+                      <created-by>joe_leif</created-by>
+                      <pub-comments></pub-comments>
+                      <alt-names>Muellama</alt-names>
+                      <pri-name>Muelyama</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <codes>qcd</codes>
+                      <children type="array"/>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2009-08-10T18:49:00-04:00</created-at>
+                      <geography>Nari&#241;o, Colombia</geography>
+                      <status>Extinct</status>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">606462</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+                      <creator-id type="integer">10740</creator-id>
+                    </child>
+                    <child>
+                      <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+                      <tree-id type="integer">15119</tree-id>
+                      <node-type>Language</node-type>
+                      <updated-at type="datetime">2009-08-10T18:49:00-04:00</updated-at>
+                      <end-date nil="true"></end-date>
+                      <created-by>joe_leif</created-by>
+                      <pub-comments>Speakers: 21000</pub-comments>
+                      <alt-names>(Awa-)Coaiquer</alt-names>
+                      <pri-name>Koaiker</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <codes>kwi</codes>
+                      <children type="array"/>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2009-08-10T18:49:00-04:00</created-at>
+                      <geography>Cauca, Colombia; Carchi, Ecudaor</geography>
+                      <status nil="true"></status>
+                      <node-status-id nil="true"></node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">606461</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+                      <creator-id type="integer">10740</creator-id>
+                    </child>
+                    <child>
+                      <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+                      <tree-id type="integer">15119</tree-id>
+                      <node-type>Language</node-type>
+                      <updated-at type="datetime">2009-08-10T18:49:00-04:00</updated-at>
+                      <end-date nil="true"></end-date>
+                      <created-by>joe_leif</created-by>
+                      <pub-comments></pub-comments>
+                      <alt-names></alt-names>
+                      <pri-name>Pasto</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <codes>bpb</codes>
+                      <children type="array"/>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <other-codes></other-codes>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2009-08-10T18:49:00-04:00</created-at>
+                      <geography>Carchi, Ecudaor; Nari&#241;o, Colombia</geography>
+                      <status>Extinct</status>
+                      <node-status-id type="integer">10000</node-status-id>
+                      <is-default type="integer">0</is-default>
+                      <id type="integer">606463</id>
+                      <confidence>y</confidence>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+                      <creator-id type="integer">10740</creator-id>
+                    </child>
+                  </children>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2009-08-10T18:49:00-04:00</created-at>
+                  <geography nil="true"></geography>
+                  <status nil="true"></status>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">606460</id>
+                  <confidence>y</confidence>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+                  <creator-id type="integer">10740</creator-id>
+                </child>
+              </children>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2009-08-10T18:49:00-04:00</created-at>
+              <geography nil="true"></geography>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <id type="integer">606459</id>
+              <confidence>y</confidence>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+              <creator-id type="integer">10740</creator-id>
+            </child>
+            <child>
+              <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+              <tree-id type="integer">15119</tree-id>
+              <node-type>Subgroup</node-type>
+              <updated-at type="datetime">2009-08-10T18:49:00-04:00</updated-at>
+              <end-date nil="true"></end-date>
+              <created-by>joe_leif</created-by>
+              <pub-comments></pub-comments>
+              <alt-names></alt-names>
+              <pri-name>Kokonuko Group</pri-name>
+              <node-type-id type="integer">10000</node-type-id>
+              <codes>coco</codes>
+              <children type="array">
+                <child>
+                  <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+                  <tree-id type="integer">15119</tree-id>
+                  <node-type>Language</node-type>
+                  <updated-at type="datetime">2009-08-10T18:49:00-04:00</updated-at>
+                  <end-date nil="true"></end-date>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments></pub-comments>
+                  <alt-names></alt-names>
+                  <pri-name>Totor&#243;</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <codes>ttk</codes>
+                  <children type="array"/>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2009-08-10T18:49:00-04:00</created-at>
+                  <geography>Cauca, Colombia</geography>
+                  <status>Extinct</status>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">606457</id>
+                  <confidence>y</confidence>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+                  <creator-id type="integer">10740</creator-id>
+                </child>
+                <child>
+                  <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+                  <tree-id type="integer">15119</tree-id>
+                  <node-type>Language</node-type>
+                  <updated-at type="datetime">2009-08-10T18:49:00-04:00</updated-at>
+                  <end-date nil="true"></end-date>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments></pub-comments>
+                  <alt-names>Coconuco</alt-names>
+                  <pri-name>Kokonuko</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <codes>cca</codes>
+                  <children type="array"/>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2009-08-10T18:49:00-04:00</created-at>
+                  <geography>Cauca, Colombia</geography>
+                  <status>Extinct</status>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">606456</id>
+                  <confidence>y</confidence>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+                  <creator-id type="integer">10740</creator-id>
+                </child>
+                <child>
+                  <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+                  <tree-id type="integer">15119</tree-id>
+                  <node-type>Language</node-type>
+                  <updated-at type="datetime">2009-08-10T18:49:00-04:00</updated-at>
+                  <end-date nil="true"></end-date>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments>Speakers: 9000</pub-comments>
+                  <alt-names>Guambiano, Mog&#233;s</alt-names>
+                  <pri-name>Wambiano</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <codes>gum</codes>
+                  <children type="array"/>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2009-08-10T18:49:00-04:00</created-at>
+                  <geography>Cauca, Colombia</geography>
+                  <status nil="true"></status>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">606458</id>
+                  <confidence>y</confidence>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+                  <creator-id type="integer">10740</creator-id>
+                </child>
+              </children>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2009-08-10T18:49:00-04:00</created-at>
+              <geography nil="true"></geography>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <id type="integer">606455</id>
+              <confidence>y</confidence>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+              <creator-id type="integer">10740</creator-id>
+            </child>
+            <child>
+              <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+              <tree-id type="integer">15119</tree-id>
+              <node-type>Subgroup</node-type>
+              <updated-at type="datetime">2009-08-10T18:49:00-04:00</updated-at>
+              <end-date nil="true"></end-date>
+              <created-by>joe_leif</created-by>
+              <pub-comments></pub-comments>
+              <alt-names></alt-names>
+              <pri-name>Paes Group</pri-name>
+              <node-type-id type="integer">10000</node-type-id>
+              <codes>paez</codes>
+              <children type="array">
+                <child>
+                  <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+                  <tree-id type="integer">15119</tree-id>
+                  <node-type>Language</node-type>
+                  <updated-at type="datetime">2009-08-10T18:49:00-04:00</updated-at>
+                  <end-date nil="true"></end-date>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments>Speakers: 50000?</pub-comments>
+                  <alt-names>Paez</alt-names>
+                  <pri-name>Paes</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <codes>pbb</codes>
+                  <children type="array"/>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2009-08-10T18:49:00-04:00</created-at>
+                  <geography>Huila, Colombia</geography>
+                  <status nil="true"></status>
+                  <node-status-id nil="true"></node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">606453</id>
+                  <confidence>y</confidence>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+                  <creator-id type="integer">10740</creator-id>
+                </child>
+                <child>
+                  <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+                  <tree-id type="integer">15119</tree-id>
+                  <node-type>Language</node-type>
+                  <updated-at type="datetime">2009-08-10T18:49:00-04:00</updated-at>
+                  <end-date nil="true"></end-date>
+                  <created-by>joe_leif</created-by>
+                  <pub-comments></pub-comments>
+                  <alt-names>Panzaleo</alt-names>
+                  <pri-name>Pansaleo</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <codes>qcv</codes>
+                  <children type="array"/>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2009-08-10T18:49:00-04:00</created-at>
+                  <geography>Pichincha, Cotopaxi, Ecuador</geography>
+                  <status>Extinct</status>
+                  <node-status-id type="integer">10000</node-status-id>
+                  <is-default type="integer">0</is-default>
+                  <id type="integer">606454</id>
+                  <confidence>y</confidence>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+                  <creator-id type="integer">10740</creator-id>
+                </child>
+              </children>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2009-08-10T18:49:00-04:00</created-at>
+              <geography nil="true"></geography>
+              <status nil="true"></status>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <id type="integer">606452</id>
+              <confidence>y</confidence>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+              <creator-id type="integer">10740</creator-id>
+            </child>
+            <child>
+              <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+              <tree-id type="integer">15119</tree-id>
+              <node-type>Language</node-type>
+              <updated-at type="datetime">2009-08-10T18:49:00-04:00</updated-at>
+              <end-date nil="true"></end-date>
+              <created-by>joe_leif</created-by>
+              <pub-comments></pub-comments>
+              <alt-names>Andaqu&#237;</alt-names>
+              <pri-name>Andak&#237;</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <codes>ana</codes>
+              <children type="array"/>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2009-08-10T18:49:00-04:00</created-at>
+              <geography>Huila, Caqueta, Colombia</geography>
+              <status>Extinct</status>
+              <node-status-id type="integer">10000</node-status-id>
+              <is-default type="integer">0</is-default>
+              <id type="integer">606451</id>
+              <confidence>y</confidence>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+              <creator-id type="integer">10740</creator-id>
+            </child>
+          </children>
+          <sureness type="integer">0</sureness>
+          <start-date>3400 BCE</start-date>
+          <other-codes></other-codes>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2009-08-10T18:49:00-04:00</created-at>
+          <geography nil="true"></geography>
+          <status nil="true"></status>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <id type="integer">606450</id>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+          <creator-id type="integer">10740</creator-id>
+        </child>
+        <child>
+          <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+          <tree-id type="integer">15119</tree-id>
+          <node-type>Language</node-type>
+          <updated-at type="datetime">2009-08-10T18:49:00-04:00</updated-at>
+          <end-date nil="true"></end-date>
+          <created-by>joe_leif</created-by>
+          <pub-comments>"Loukotka (1968), Suarez (1974) and even Numuendaju (1981) all include Betoi in Chibchan (which for them includes Paesan), and Greenberg locates it more specifically in Paczan." (63)</pub-comments>
+          <alt-names>Hirara, Jirara</alt-names>
+          <pri-name>Betoi</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+          <codes>qtd</codes>
+          <children type="array"/>
+          <sureness type="integer">-1</sureness>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2009-08-10T18:49:00-04:00</created-at>
+          <geography>Arauca, Colombia</geography>
+          <status>Extinct</status>
+          <node-status-id type="integer">10000</node-status-id>
+          <is-default type="integer">0</is-default>
+          <id type="integer">606449</id>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+          <creator-id type="integer">10740</creator-id>
+        </child>
+        <child>
+          <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+          <tree-id type="integer">15119</tree-id>
+          <node-type>Stock</node-type>
+          <updated-at type="datetime">2009-08-10T18:49:00-04:00</updated-at>
+          <end-date nil="true"></end-date>
+          <created-by>joe_leif</created-by>
+          <pub-comments>"Swadesh (1959) groups these together with a fairly low time depth and the lexical evidence looks promising, but Greenberg does not agree.  Both Swadesh and Greenberg link Kunsa to their versions of Macro-Paesan." (63)</pub-comments>
+          <alt-names></alt-names>
+          <pri-name>Kunsa-Kapishan&#225;</pri-name>
+          <node-type-id type="integer">10005</node-type-id>
+          <codes>knsp</codes>
+          <children type="array">
+            <child>
+              <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+              <tree-id type="integer">15119</tree-id>
+              <node-type>Language</node-type>
+              <updated-at type="datetime">2009-08-10T18:49:00-04:00</updated-at>
+              <end-date nil="true"></end-date>
+              <created-by>joe_leif</created-by>
+              <pub-comments></pub-comments>
+              <alt-names>Kapixan&#225;/Kano&#233;</alt-names>
+              <pri-name>Kapishan&#225;</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <codes>qfe</codes>
+              <children type="array"/>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2009-08-10T18:49:00-04:00</created-at>
+              <geography>Rondonia, Brazil</geography>
+              <status>Extinct</status>
+              <node-status-id type="integer">10000</node-status-id>
+              <is-default type="integer">0</is-default>
+              <id type="integer">606448</id>
+              <confidence>y</confidence>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+              <creator-id type="integer">10740</creator-id>
+            </child>
+            <child>
+              <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+              <tree-id type="integer">15119</tree-id>
+              <node-type>Language</node-type>
+              <updated-at type="datetime">2009-08-10T18:49:00-04:00</updated-at>
+              <end-date nil="true"></end-date>
+              <created-by>joe_leif</created-by>
+              <pub-comments></pub-comments>
+              <alt-names>Cunza</alt-names>
+              <pri-name>Kunsa</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <codes>kuz</codes>
+              <children type="array"/>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2009-08-10T18:49:00-04:00</created-at>
+              <geography>Atacama, Chile; Potosi, Bolivia</geography>
+              <status>Extinct</status>
+              <node-status-id type="integer">10000</node-status-id>
+              <is-default type="integer">0</is-default>
+              <id type="integer">606447</id>
+              <confidence>y</confidence>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+              <creator-id type="integer">10740</creator-id>
+            </child>
+          </children>
+          <sureness type="integer">0</sureness>
+          <start-date>2900 BCE</start-date>
+          <other-codes></other-codes>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2009-08-10T18:48:59-04:00</created-at>
+          <geography nil="true"></geography>
+          <status nil="true"></status>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <id type="integer">606446</id>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+          <creator-id type="integer">10740</creator-id>
+        </child>
+        <child>
+          <tree-val>Macro-Paesan Cluster: Kaufman 2007</tree-val>
+          <tree-id type="integer">15119</tree-id>
+          <node-type>Language</node-type>
+          <updated-at type="datetime">2009-08-10T18:49:01-04:00</updated-at>
+          <end-date nil="true"></end-date>
+          <created-by>joe_leif</created-by>
+          <pub-comments>Speakers: &gt;110</pub-comments>
+          <alt-names>Machoto</alt-names>
+          <pri-name>Itonama</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+          <codes>ito</codes>
+          <children type="array"/>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2009-08-10T18:49:01-04:00</created-at>
+          <geography>Beni, Bolivia</geography>
+          <status nil="true"></status>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <id type="integer">606468</id>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+          <creator-id type="integer">10740</creator-id>
+        </child>
+      </children>
+      <sureness type="integer">0</sureness>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <deleted-at nil="true"></deleted-at>
+      <created-at type="datetime">2009-08-10T18:48:59-04:00</created-at>
+      <geography nil="true"></geography>
+      <status nil="true"></status>
+      <node-status-id nil="true"></node-status-id>
+      <is-default type="integer">0</is-default>
+      <id type="integer">606445</id>
+      <confidence>y</confidence>
+      <updater-id type="integer">10740</updater-id>
+      <updated-by>joe_leif</updated-by>
+      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63-64. London, New York: Routledge. </publications>
+      <creator-id type="integer">10740</creator-id>
+    </root>
+    <description>Macro-Paesan Cluster: Kaufman 2007</description>
+  </tree>
+</hash>

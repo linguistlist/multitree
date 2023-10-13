@@ -1,0 +1,34 @@
+#NEXUS
+[MultiTree: Proto Post-Central Malayo-Polynesian, a subtree of Austronesian: Mills 1991]
+BEGIN TREES;
+TRANSLATE aoz Timorese,
+bpz_dnk_llg_rgu_row_twu_txq Roti,
+cmpo 'Proto Post-Central Malayo-Polynesian',
+enti 'Proto East Timor',
+frd Fordata,
+gal_gal_gal Galoli,
+jmd Yamdena,
+kei Kei,
+keif 'Fordata-Kei',
+keit 'Proto Tanimbar-Kei',
+kje Kisar,
+lex_lex_lua 'Luang-Sermata',
+lex_moa Moa,
+lex_wet Wetan,
+lmrw 'Leti-Moa-Luang',
+lti Leti,
+nil Nila,
+ntim 'Proto Timor',
+pbds 'Proto Barat Daya-Selaru',
+plet 'Proto Lettic',
+psmk 'Proto Southern Maluku',
+rmm Roma,
+slu Selaru,
+srw Serua,
+swma 'Proto Barat Daya',
+tdt_tet Tettum,
+tnse 'Proto Damar',
+tve Teun,
+wnti 'Proto West Timor';
+TREE 23617 = [&R] ((((frd,kei)keif,jmd)keit,((((lex_lex_lua,lti,lex_wet,lex_moa,rmm)lmrw,kje)plet,(srw,tve,nil)tnse)swma,slu)pbds)psmk,((tdt_tet,gal_gal_gal)enti,(bpz_dnk_llg_rgu_row_twu_txq,aoz)wnti)ntim)cmpo;
+END;

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <other-codes></other-codes>
+      <node-type>Subgroup</node-type>
+      <confidence>y</confidence>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <tree-id type="integer">15316</tree-id>
+      <status nil="true"></status>
+      <deleted-at nil="true"></deleted-at>
+      <alt-names></alt-names>
+      <tree-val>Salinan: Dryer 2005</tree-val>
+      <updated-by>joe_leif</updated-by>
+      <start-date nil="true"></start-date>
+      <node-type-id type="integer">10000</node-type-id>
+      <node-status-id nil="true"></node-status-id>
+      <end-date nil="true"></end-date>
+      <updater-id type="integer">10740</updater-id>
+      <created-at type="datetime">2009-09-01T18:47:21-04:00</created-at>
+      <sureness type="integer">0</sureness>
+      <is-default type="integer">0</is-default>
+      <children type="array">
+        <child>
+          <other-codes>sal</other-codes>
+          <node-type>Language</node-type>
+          <confidence>y</confidence>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <tree-id type="integer">15316</tree-id>
+          <status nil="true"></status>
+          <deleted-at nil="true"></deleted-at>
+          <alt-names></alt-names>
+          <tree-val>Salinan: Dryer 2005</tree-val>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10001</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <end-date nil="true"></end-date>
+          <updater-id type="integer">10740</updater-id>
+          <created-at type="datetime">2009-09-01T18:47:21-04:00</created-at>
+          <sureness type="integer">0</sureness>
+          <is-default type="integer">0</is-default>
+          <children type="array"/>
+          <pub-comments></pub-comments>
+          <updated-at type="datetime">2009-09-01T18:47:21-04:00</updated-at>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 631. New York: Oxford University Press. ISBN 0199255911</publications>
+          <pri-name>Salinan</pri-name>
+          <id type="integer">608509</id>
+          <codes>sln</codes>
+          <geography>Country: United States; Lat.: 36; Long.: -121</geography>
+        </child>
+      </children>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <updated-at type="datetime">2009-09-01T18:47:21-04:00</updated-at>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 631. New York: Oxford University Press. ISBN 0199255911</publications>
+      <pri-name>Salinan</pri-name>
+      <id type="integer">608508</id>
+      <codes>slnn</codes>
+      <geography nil="true"></geography>
+    </root>
+    <description>Salinan: Dryer 2005</description>
+  </tree>
+</hash>

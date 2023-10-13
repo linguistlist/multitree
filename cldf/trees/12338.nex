@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Kiowa-Tanoan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE kio Kiowa,
+kita 'Kiowa-Tanoan',
+tew 'Tewa (Arizona)',
+tew_rio 'Tewa (Rio Grande)',
+tew_san 'Tewa (San Juan Pueblo)',
+tix 'Tiwa (Southern)',
+tow Jemez,
+twf 'Tiwa (Northern)';
+TREE 12338 = [&R] (tix,twf,tew,kio,tow,tew_san,tew_rio)kita;
+END;

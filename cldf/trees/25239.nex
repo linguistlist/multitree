@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Djeragan: Composite]
+BEGIN TREES;
+TRANSLATE 08j Doolboong,
+djer Djeragan,
+gdh Gadjerawang,
+gia Kitja,
+mep Miriwung;
+TREE 25239 = [&R] (gdh,mep,08j,gia)djer;
+END;

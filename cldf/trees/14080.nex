@@ -1,0 +1,24 @@
+#NEXUS
+[MultiTree: Copehan: Powell 1891]
+BEGIN TREES;
+TRANSLATE 0t4 Makhelchel,
+0t5 Malaka,
+0z5 Guilito,
+nol Nomlaki,
+pwi Patwin,
+wint Copehan,
+wit_cac Olposel,
+wit_cls Waikosel,
+wit_cor Napa,
+wit_hay Norelmuk,
+wit_hpa Topadisel,
+wit_nor Normuk,
+wit_put Liwaito,
+wit_rwk Wailaki,
+wit_sti Daupom,
+wit_sui Suisun,
+wit_teb Lolsel,
+wit_win Wintu,
+xso Olelato;
+TREE 14080 = [&R] ((wit_sti,wit_hay,nol,wit_rwk,wit_nor)wit_win,(xso,wit_cls,0t5,wit_hpa,wit_cls,wit_cac,wit_put,wit_cor,0t4,wit_teb,wit_sui,wit_teb,0z5)pwi)wint;
+END;

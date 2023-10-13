@@ -1,0 +1,22 @@
+#NEXUS
+[MultiTree: Cochimi-Yuman: Campbell 1997]
+BEGIN TREES;
+TRANSLATE coc Cocopa,
+coj Cochimí,
+cyum 'Cochimi-Yuman',
+dcal 'Delta-California Subgroup',
+dih Diegueño,
+dih_kum Kumeyaay,
+dih_pay Iipay,
+dih_tii Tiipay,
+klb Kiliwa,
+mov Mojave,
+mrc Maricopa,
+paii 'Pai Subgroup',
+ppi Paipai,
+ryum 'River Subgroup',
+yuf Upland,
+yum Quechan,
+yuma Yuman;
+TREE 11231 = [&R] ((klb,((dih_tii,dih_kum,dih_pay)dih,coc)dcal,((yum,mrc)mov)ryum,(ppi,yuf)paii)yuma,coj)cyum;
+END;

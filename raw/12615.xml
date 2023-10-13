@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>
+    <root>
+      <tree-val>Yukaghir: Dryer 2005</tree-val>
+      <tree-id type="integer">12615</tree-id>
+      <geography nil="true"></geography>
+      <created-at type="datetime">2009-05-27T09:43:21-04:00</created-at>
+      <node-type>Subgroup</node-type>
+      <children type="array">
+        <child>
+          <tree-val>Yukaghir: Dryer 2005</tree-val>
+          <tree-id type="integer">12615</tree-id>
+          <geography>Country: Russia; Lat.: 65.75; Long.: 150.83</geography>
+          <created-at type="datetime">2009-05-27T09:43:21-04:00</created-at>
+          <node-type>Language</node-type>
+          <children type="array"/>
+          <sureness type="integer">0</sureness>
+          <other-codes>yko</other-codes>
+          <updated-by>joe_leif</updated-by>
+          <pub-comments></pub-comments>
+          <pri-name>Yukaghir (Kolyma)</pri-name>
+          <alt-names>Yukaghir (Southern)</alt-names>
+          <node-type-id type="integer">10001</node-type-id>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <status nil="true"></status>
+          <is-default type="integer">0</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2009-05-27T09:43:21-04:00</updated-at>
+          <id type="integer">421655</id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <start-date nil="true"></start-date>
+          <confidence>y</confidence>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 600. New York: Oxford University Press. ISBN 0199255911</publications>
+          <codes>yux</codes>
+        </child>
+        <child>
+          <tree-val>Yukaghir: Dryer 2005</tree-val>
+          <tree-id type="integer">12615</tree-id>
+          <geography>Country: Russia; Lat.: 69; Long.: 155</geography>
+          <created-at type="datetime">2009-05-27T09:43:21-04:00</created-at>
+          <node-type>Language</node-type>
+          <children type="array"/>
+          <sureness type="integer">0</sureness>
+          <other-codes>ytu</other-codes>
+          <updated-by>joe_leif</updated-by>
+          <pub-comments></pub-comments>
+          <pri-name>Yukaghir (Tundra)</pri-name>
+          <alt-names>Yukaghir (Northern)</alt-names>
+          <node-type-id type="integer">10001</node-type-id>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <status nil="true"></status>
+          <is-default type="integer">0</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <node-status-id nil="true"></node-status-id>
+          <updated-at type="datetime">2009-05-27T09:43:22-04:00</updated-at>
+          <id type="integer">421656</id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <start-date nil="true"></start-date>
+          <confidence>y</confidence>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 600. New York: Oxford University Press. ISBN 0199255911</publications>
+          <codes>ykg</codes>
+        </child>
+      </children>
+      <sureness type="integer">0</sureness>
+      <other-codes></other-codes>
+      <updated-by>joe_leif</updated-by>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <pri-name>Yukaghir</pri-name>
+      <alt-names></alt-names>
+      <node-type-id type="integer">10000</node-type-id>
+      <end-date nil="true"></end-date>
+      <creator-id type="integer">10740</creator-id>
+      <status nil="true"></status>
+      <is-default type="integer">0</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <node-status-id nil="true"></node-status-id>
+      <updated-at type="datetime">2009-05-27T09:43:21-04:00</updated-at>
+      <id type="integer">421654</id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <start-date nil="true"></start-date>
+      <confidence>y</confidence>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 600. New York: Oxford University Press. ISBN 0199255911</publications>
+      <codes>yuka</codes>
+    </root>
+    <description>Yukaghir: Dryer 2005</description>
+  </tree>
+</hash>

@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Yuat: Foley 2005]
+BEGIN TREES;
+TRANSLATE buv Bun,
+bwm Biwat,
+kql Miyak,
+yuat Yuat;
+TREE 22109 = [&R] (bwm,buv,kql)yuat;
+END;

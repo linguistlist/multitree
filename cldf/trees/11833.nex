@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Timotean: Campbell 1997]
+BEGIN TREES;
+TRANSLATE qcx 'Mucuchí-Maripú',
+qpj 'Timote-Cuica',
+tmte Timotean;
+TREE 11833 = [&R] (qpj,qcx)tmte;
+END;

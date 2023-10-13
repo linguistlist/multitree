@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Semitische: Lepsius 1880]
+BEGIN TREES;
+TRANSLATE afet Habeš,
+afsm 'Semitische Sprachen',
+amh Amharisch,
+arab Arabisch,
+gez 'Ge''ez',
+har Harari,
+tig Tigré;
+TREE 12555 = [&R] (arab,(har,amh,gez,tig)afet)afsm;
+END;

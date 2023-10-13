@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Arawan: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE arau Arawan,
+aru Arawá,
+cul Culina,
+dncl 'Dení-Kulina',
+dny Deni,
+dny_ina Inauini,
+jap Madi,
+pad Paumarí,
+pad_kur Kurukuru,
+pad_pad Paumarí,
+pad_way Uaiai,
+swx Zuruahá;
+TREE 21906 = [&R] (((dny_ina)dny,cul)dncl,jap,(pad_kur,pad_pad,pad_way)pad,aru,swx)arau;
+END;

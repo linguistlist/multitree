@@ -1,0 +1,32 @@
+#NEXUS
+[MultiTree: Ok group, a subtree of Trans New Guinea: Voorhoeve 2005]
+BEGIN TREES;
+TRANSLATE aah_awu_awv_yir Axu,
+aax Kaeti,
+awdu 'Awyu-Dumut family',
+aws_awy Syiaxa,
+awyu 'Awyu sub-family',
+bhl Bimin,
+dumu 'Dumut sub-family',
+fai Faiwol,
+khe Korowai,
+kti_kts Kati,
+kti_kts_yon Yonggom,
+ktt_wms 'North Wambon',
+kvz Tsakwambo,
+look 'Lowland Ok sub-family',
+mook 'Mountain Ok sub-family',
+mpt Mianmin,
+ntsk 'Ngalum-Tsakwambo',
+nxr Ninggerum,
+okad 'Ok Group',
+okkk 'Ok family',
+psa Pisa,
+saw Sawuy,
+szb Ngalum,
+tif Tifal,
+tlf Telefol,
+tyn Kombai,
+wms 'South Wambon';
+TREE 22745 = [&R] (((kvz,szb)ntsk,(kti_kts,kti_kts_yon,nxr)look,(fai,tlf,bhl,tif,mpt)mook)okkk,((aax,wms,ktt_wms)dumu,(aws_awy,aah_awu_awv_yir,psa)awyu,khe,saw,tyn)awdu)okad;
+END;

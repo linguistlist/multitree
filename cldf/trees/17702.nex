@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Artifical Languages: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE clan 'Artificial language',
+epo Esperanto,
+eur Europanto,
+ina Interlingua;
+TREE 17702 = [&R] (ina,epo,eur)clan;
+END;

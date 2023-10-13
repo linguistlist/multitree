@@ -1,0 +1,20 @@
+#NEXUS
+[MultiTree: Muskogean: Composite]
+BEGIN TREES;
+TRANSLATE akz Alabama,
+cho Choctaw,
+cic Chickasaw,
+cku Koasati,
+emsk 'Eastern Muskogean',
+mik Mikasuki,
+mik_hit Hitchiti,
+mik_mik Mikasuki,
+mus Muskogee,
+mus_cre Creek,
+mus_sem Seminole,
+musk Muskogean,
+umus 'Unclassified Muskogean',
+wmsk 'Western Muskogean',
+xap Apalachee;
+TREE 11081 = [&R] (((mus_sem,mus_cre)mus,cku,(mik_mik,mik_hit)mik,akz)emsk,(xap)umus,(cic,cho)wmsk)musk;
+END;

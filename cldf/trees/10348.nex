@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Zamucoan: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE ayo Ayoreo,
+ayo_tsi Tsiracua,
+ceg Chamacoco,
+ceg_cha 'Chamacoco Bravo',
+ceg_ebi Ebitoso,
+zamu Zamucoan;
+TREE 10348 = [&R] ((ayo_tsi)ayo,(ceg_cha,ceg_ebi)ceg)zamu;
+END;

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <created-by>joe_leif</created-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <creator-id type="integer">10740</creator-id>
+      <updated-at type="datetime">2009-08-10T18:49:51-04:00</updated-at>
+      <confidence>y</confidence>
+      <sureness type="integer">-1</sureness>
+      <node-status-id nil="true"></node-status-id>
+      <id type="integer">606473</id>
+      <node-type>Subgroup</node-type>
+      <created-at type="datetime">2009-08-10T18:49:51-04:00</created-at>
+      <tree-id type="integer">15121</tree-id>
+      <geography nil="true"></geography>
+      <alt-names></alt-names>
+      <updater-id type="integer">10740</updater-id>
+      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65. London, New York: Routledge. </publications>
+      <pub-comments>"Macro-Otomakoan represents the intersection of Greenberg's more inclusive 'Equatorial' and Swadesh's more inclusive 'Macro-Macu'. No systematic effort has yet been made to validate this particular grouping.  The geographical discontinuity is considerable, but the same can be said for many other larger groupings, some of which are not controversial.  See Kaufman (1990) for a slightly different forumlation." (65)</pub-comments>
+      <other-codes></other-codes>
+      <pri-name>Macro-Otomakon</pri-name>
+      <deleted-at nil="true"></deleted-at>
+      <codes>mcmk</codes>
+      <status nil="true"></status>
+      <start-date nil="true"></start-date>
+      <is-default type="integer">0</is-default>
+      <updated-by>joe_leif</updated-by>
+      <end-date nil="true"></end-date>
+      <children type="array">
+        <child>
+          <created-by>joe_leif</created-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <creator-id type="integer">10740</creator-id>
+          <updated-at type="datetime">2009-08-10T18:49:52-04:00</updated-at>
+          <confidence>y</confidence>
+          <sureness type="integer">0</sureness>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">606477</id>
+          <node-type>Subgroup</node-type>
+          <created-at type="datetime">2009-08-10T18:49:51-04:00</created-at>
+          <tree-id type="integer">15121</tree-id>
+          <geography nil="true"></geography>
+          <alt-names></alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65. London, New York: Routledge. </publications>
+          <pub-comments></pub-comments>
+          <other-codes></other-codes>
+          <pri-name>Otomakoan</pri-name>
+          <deleted-at nil="true"></deleted-at>
+          <codes>otmc</codes>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <created-by>joe_leif</created-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <updated-at type="datetime">2009-08-10T18:49:52-04:00</updated-at>
+              <confidence>y</confidence>
+              <sureness type="integer">0</sureness>
+              <node-status-id type="integer">10000</node-status-id>
+              <id type="integer">606478</id>
+              <node-type>Language</node-type>
+              <created-at type="datetime">2009-08-10T18:49:52-04:00</created-at>
+              <tree-id type="integer">15121</tree-id>
+              <geography>Apure, Venezuela</geography>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65. London, New York: Routledge. </publications>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <pri-name>Otomako</pri-name>
+              <deleted-at nil="true"></deleted-at>
+              <codes>qpg</codes>
+              <status>Extinct</status>
+              <start-date nil="true"></start-date>
+              <is-default type="integer">0</is-default>
+              <updated-by>joe_leif</updated-by>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <tree-val>Macro-Otomakoan: Kaufman 2007</tree-val>
+            </child>
+            <child>
+              <created-by>joe_leif</created-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <updated-at type="datetime">2009-08-10T18:49:52-04:00</updated-at>
+              <confidence>y</confidence>
+              <sureness type="integer">0</sureness>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">606480</id>
+              <node-type>Language</node-type>
+              <created-at type="datetime">2009-08-10T18:49:52-04:00</created-at>
+              <tree-id type="integer">15121</tree-id>
+              <geography>Mato Grosso, Brazil</geography>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65. London, New York: Routledge. </publications>
+              <pub-comments>Speakers: 78</pub-comments>
+              <other-codes></other-codes>
+              <pri-name>Trumai</pri-name>
+              <deleted-at nil="true"></deleted-at>
+              <codes>tpy</codes>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <is-default type="integer">0</is-default>
+              <updated-by>joe_leif</updated-by>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <tree-val>Macro-Otomakoan: Kaufman 2007</tree-val>
+            </child>
+            <child>
+              <created-by>joe_leif</created-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <updated-at type="datetime">2009-08-10T18:49:52-04:00</updated-at>
+              <confidence>y</confidence>
+              <sureness type="integer">0</sureness>
+              <node-status-id type="integer">10000</node-status-id>
+              <id type="integer">606479</id>
+              <node-type>Language</node-type>
+              <created-at type="datetime">2009-08-10T18:49:52-04:00</created-at>
+              <tree-id type="integer">15121</tree-id>
+              <geography>Apure, Venezuela</geography>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65. London, New York: Routledge. </publications>
+              <pub-comments></pub-comments>
+              <other-codes></other-codes>
+              <pri-name>Taparita</pri-name>
+              <deleted-at nil="true"></deleted-at>
+              <codes>qlf</codes>
+              <status>Extinct</status>
+              <start-date nil="true"></start-date>
+              <is-default type="integer">0</is-default>
+              <updated-by>joe_leif</updated-by>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <tree-val>Macro-Otomakoan: Kaufman 2007</tree-val>
+            </child>
+          </children>
+          <tree-val>Macro-Otomakoan: Kaufman 2007</tree-val>
+        </child>
+        <child>
+          <created-by>joe_leif</created-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <creator-id type="integer">10740</creator-id>
+          <updated-at type="datetime">2009-08-10T18:49:51-04:00</updated-at>
+          <confidence>y</confidence>
+          <sureness type="integer">0</sureness>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">606474</id>
+          <node-type>Subgroup</node-type>
+          <created-at type="datetime">2009-08-10T18:49:51-04:00</created-at>
+          <tree-id type="integer">15121</tree-id>
+          <geography nil="true"></geography>
+          <alt-names></alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65. London, New York: Routledge. </publications>
+          <pub-comments>The author considers a language area a geographical location where what is spoken within are not quite individual languages.</pub-comments>
+          <other-codes></other-codes>
+          <pri-name>Tuyoneri language area</pri-name>
+          <deleted-at nil="true"></deleted-at>
+          <codes>tuyo</codes>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <end-date nil="true"></end-date>
+          <children type="array">
+            <child>
+              <created-by>joe_leif</created-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <updated-at type="datetime">2009-08-10T18:49:51-04:00</updated-at>
+              <confidence>y</confidence>
+              <sureness type="integer">0</sureness>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">606475</id>
+              <node-type>Language</node-type>
+              <created-at type="datetime">2009-08-10T18:49:51-04:00</created-at>
+              <tree-id type="integer">15121</tree-id>
+              <geography>Cuzco, Madre de Dios, Peru</geography>
+              <alt-names>Huachipaeri, Harakmbut</alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65. London, New York: Routledge. </publications>
+              <pub-comments>The author considers emergent languages not quite distinct as languages. Speakers: 130</pub-comments>
+              <other-codes></other-codes>
+              <pri-name>Wachipa&#233;ri</pri-name>
+              <deleted-at nil="true"></deleted-at>
+              <codes>hug</codes>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <is-default type="integer">0</is-default>
+              <updated-by>joe_leif</updated-by>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <tree-val>Macro-Otomakoan: Kaufman 2007</tree-val>
+            </child>
+            <child>
+              <created-by>joe_leif</created-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10740</creator-id>
+              <updated-at type="datetime">2009-08-10T18:49:51-04:00</updated-at>
+              <confidence>y</confidence>
+              <sureness type="integer">0</sureness>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">606476</id>
+              <node-type>Language</node-type>
+              <created-at type="datetime">2009-08-10T18:49:51-04:00</created-at>
+              <tree-id type="integer">15121</tree-id>
+              <geography>Madre de Dios, Peru</geography>
+              <alt-names></alt-names>
+              <updater-id type="integer">10740</updater-id>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65. London, New York: Routledge. </publications>
+              <pub-comments>The author considers emergent languages not quite distinct as languages. Speakers: 500</pub-comments>
+              <other-codes></other-codes>
+              <pri-name>Amaraka&#233;ri</pri-name>
+              <deleted-at nil="true"></deleted-at>
+              <codes>amr</codes>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <is-default type="integer">0</is-default>
+              <updated-by>joe_leif</updated-by>
+              <end-date nil="true"></end-date>
+              <children type="array"/>
+              <tree-val>Macro-Otomakoan: Kaufman 2007</tree-val>
+            </child>
+          </children>
+          <tree-val>Macro-Otomakoan: Kaufman 2007</tree-val>
+        </child>
+      </children>
+      <tree-val>Macro-Otomakoan: Kaufman 2007</tree-val>
+    </root>
+    <description>Macro-Otomakoan: Kaufman 2007</description>
+  </tree>
+</hash>

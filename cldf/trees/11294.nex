@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Proto-Witotoan: Campbell 1997]
+BEGIN TREES;
+TRANSLATE bmr Muinane,
+boa Bora,
+boa_mir Miriña,
+bora 'Proto-Bora-Muinane',
+hto Mɨnɨca,
+huu Murui,
+hux Nipode,
+mimu 'Proto-Mɨnɨca-Murai',
+oca Ocaina,
+wipr 'Early Huitoto',
+wita 'Proto-Witotoan',
+wito 'Proto-Huitoto-Ocaina';
+TREE 11294 = [&R] (((hux,(hto,huu)mimu)wipr,oca)wito,(bmr,(boa_mir)boa)bora)wita;
+END;

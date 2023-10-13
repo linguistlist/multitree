@@ -1,0 +1,25 @@
+#NEXUS
+[MultiTree: Asian Language Isolates: Composite]
+BEGIN TREES;
+TRANSLATE 0ss Kassite,
+1ot Amur,
+ain Ainu,
+ain_clas 'Classical Ainu',
+ain_hok Hokkaido,
+ain_kur Kuril,
+ain_sak Sakhalin,
+ain_tar Taraika,
+asis 'Asian Language Isolate',
+bsk Burushaski,
+bsk_hun Hunza,
+bsk_nag Nagar,
+bsk_yas Yasin,
+niv Gilyak,
+niv_eas 'East Sakhalin Gilyak',
+niv_nor 'North Sakhalin Gilyak',
+nll Nihali,
+sux Sumerian,
+sux_gir 'Eme-ĝir [emeŋir]',
+sux_sal 'Eme-sal';
+TREE 12995 = [&R] ((ain_hok,ain_tar,ain_sak,ain_kur,ain_clas)ain,(niv_nor,1ot,niv_eas)niv,nll,(bsk_nag,bsk_yas,bsk_hun)bsk,0ss,(sux_gir,sux_sal)sux)asis;
+END;

@@ -1,0 +1,24 @@
+#NEXUS
+[MultiTree: Altaic: Miller 1971]
+BEGIN TREES;
+TRANSLATE altc 'Proto-Altaic',
+chv Chuvash,
+ealt 'Proto-Eastern-Altaic',
+eve Lamut,
+evn Evenki,
+gld Goldi,
+koja 'Proto-Peninsular and Pelagic',
+mnc Manchu,
+mong Mongol,
+ojp 'Old Japanese',
+okm 'Middle Korean',
+otk 'Old Turkish',
+pnpa 'Proto-Northern and Peninsular Altaic',
+rdia '*r, *l',
+ryuk Ryūkyū,
+tung 'Proto-Tungus',
+walt 'Proto-Western-Altaic',
+xbo 'Old Bulgarian',
+zdtk '*z, *š';
+TREE 12957 = [&R] ((((ryuk,ojp,okm)koja,(mnc,evn,eve,gld)tung)pnpa,(mong)mong)ealt,((chv,xbo)rdia,(otk)zdtk)walt)altc;
+END;

@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Miao-Dai: Kosaka 2002]
+BEGIN TREES;
+TRANSLATE anes 'Proto-Austronesian',
+hmom 'Proto-Miao-Yao',
+mdai 'Proto-Miao-Dai',
+taik 'Proto-Kadai';
+TREE 24462 = [&R] (taik,anes,hmom)mdai;
+END;

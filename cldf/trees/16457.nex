@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: Tarasko: Kaufman 2007]
+BEGIN TREES;
+TRANSLATE pua_tsz Tarasko,
+tara Tarasko;
+TREE 16457 = [&R] (pua_tsz)tara;
+END;

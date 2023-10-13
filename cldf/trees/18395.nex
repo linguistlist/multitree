@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Southern Daly: Green 2003]
+BEGIN TREES;
+TRANSLATE murr 'Southern Daly',
+mwf 'Murrinh-patha',
+mwf_muk 'Murrinh-kura',
+mwf_mup 'Murrinh-patha',
+mwf_mur 'Murrinh-rdiminin',
+nam_nam_nan_nam_tye 'Ngan''gikurunggurr',
+nam_nam_nga_nam_tye 'Ngan''gityemeri',
+nam_nge_nam_ngw 'Ngan''giwumirri';
+TREE 18395 = [&R] ((mwf_muk,mwf_mup,mwf_mur)mwf,(nam_nge_nam_ngw,nam_nam_nan_nam_tye)nam_nam_nga_nam_tye)murr;
+END;

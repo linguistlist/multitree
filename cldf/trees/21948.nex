@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Mascoyan: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE aqt Angaité,
+emo_tmf Enenlhet,
+enl Enlhet,
+enl_enx Enlhet,
+enx Enxet,
+gva Guaná,
+masc Mascoyan,
+spn Sanapaná;
+TREE 21948 = [&R] ((enl,enx)enl_enx,spn,emo_tmf,aqt,gva)masc;
+END;

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <start-date nil="true"></start-date>
+      <node-type-id type="integer">10000</node-type-id>
+      <updater-id type="integer">10740</updater-id>
+      <tree-id type="integer">10613</tree-id>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <alt-names></alt-names>
+      <tree-val>Barbacoan: Dryer 2005</tree-val>
+      <sureness nil="true"></sureness>
+      <created-at type="datetime">2008-09-02T16:42:35-04:00</created-at>
+      <updated-at type="datetime">2008-09-02T16:42:35-04:00</updated-at>
+      <geography nil="true"></geography>
+      <deleted-at nil="true"></deleted-at>
+      <end-date nil="true"></end-date>
+      <creator-id type="integer">10740</creator-id>
+      <status nil="true"></status>
+      <node-status-id nil="true"></node-status-id>
+      <confidence nil="true"></confidence>
+      <codes>barb</codes>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10001</node-type-id>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">10613</tree-id>
+          <pub-comments></pub-comments>
+          <alt-names>Awa-Quaiquer</alt-names>
+          <tree-val>Barbacoan: Dryer 2005</tree-val>
+          <sureness type="integer">0</sureness>
+          <created-at type="datetime">2008-09-02T16:42:35-04:00</created-at>
+          <updated-at type="datetime">2008-09-02T16:42:35-04:00</updated-at>
+          <geography>Country: Colombia, Ecuador; Lat.: 1.5; Long.: -78.25</geography>
+          <deleted-at nil="true"></deleted-at>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <status nil="true"></status>
+          <node-status-id nil="true"></node-status-id>
+          <confidence>y</confidence>
+          <codes>kwi</codes>
+          <children type="array"/>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 635. New York: Oxford University Press. ISBN 0199255911</publications>
+          <pri-name>Pit</pri-name>
+          <id type="integer">135707</id>
+          <other-codes>awp</other-codes>
+          <node-type>Language</node-type>
+          <created-by>joe_leif</created-by>
+          <updated-by>joe_leif</updated-by>
+          <is-default type="integer">0</is-default>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10001</node-type-id>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">10613</tree-id>
+          <pub-comments></pub-comments>
+          <alt-names>Chachi</alt-names>
+          <tree-val>Barbacoan: Dryer 2005</tree-val>
+          <sureness type="integer">0</sureness>
+          <created-at type="datetime">2008-09-02T16:42:35-04:00</created-at>
+          <updated-at type="datetime">2008-09-02T16:42:35-04:00</updated-at>
+          <geography>Country: Ecuador; Lat.: 0.67; Long.: -79</geography>
+          <deleted-at nil="true"></deleted-at>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <status nil="true"></status>
+          <node-status-id nil="true"></node-status-id>
+          <confidence>y</confidence>
+          <codes>cbi</codes>
+          <children type="array"/>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 635. New York: Oxford University Press. ISBN 0199255911</publications>
+          <pri-name>Cayapa</pri-name>
+          <id type="integer">135708</id>
+          <other-codes>cay</other-codes>
+          <node-type>Language</node-type>
+          <created-by>joe_leif</created-by>
+          <updated-by>joe_leif</updated-by>
+          <is-default type="integer">0</is-default>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10001</node-type-id>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">10613</tree-id>
+          <pub-comments></pub-comments>
+          <alt-names></alt-names>
+          <tree-val>Barbacoan: Dryer 2005</tree-val>
+          <sureness type="integer">0</sureness>
+          <created-at type="datetime">2008-09-02T16:42:35-04:00</created-at>
+          <updated-at type="datetime">2008-09-02T16:42:35-04:00</updated-at>
+          <geography>Country: Colombia; Lat.: 2.5; Long.: -76.67</geography>
+          <deleted-at nil="true"></deleted-at>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <status nil="true"></status>
+          <node-status-id nil="true"></node-status-id>
+          <confidence>y</confidence>
+          <codes>gum</codes>
+          <children type="array"/>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 635. New York: Oxford University Press. ISBN 0199255911</publications>
+          <pri-name>Guambiano</pri-name>
+          <id type="integer">135709</id>
+          <other-codes>gmb</other-codes>
+          <node-type>Language</node-type>
+          <created-by>joe_leif</created-by>
+          <updated-by>joe_leif</updated-by>
+          <is-default type="integer">0</is-default>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10001</node-type-id>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">10613</tree-id>
+          <pub-comments></pub-comments>
+          <alt-names>Colorado</alt-names>
+          <tree-val>Barbacoan: Dryer 2005</tree-val>
+          <sureness type="integer">0</sureness>
+          <created-at type="datetime">2008-09-02T16:42:35-04:00</created-at>
+          <updated-at type="datetime">2008-09-02T16:42:35-04:00</updated-at>
+          <geography>Country: Ecuador; Lat.: -1; Long.: -79.33</geography>
+          <deleted-at nil="true"></deleted-at>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <status nil="true"></status>
+          <node-status-id nil="true"></node-status-id>
+          <confidence>y</confidence>
+          <codes>cof</codes>
+          <children type="array"/>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 635. New York: Oxford University Press. ISBN 0199255911</publications>
+          <pri-name>Tsafiki</pri-name>
+          <id type="integer">135710</id>
+          <other-codes>tsf</other-codes>
+          <node-type>Language</node-type>
+          <created-by>joe_leif</created-by>
+          <updated-by>joe_leif</updated-by>
+          <is-default type="integer">0</is-default>
+        </child>
+      </children>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 635. New York: Oxford University Press. ISBN 0199255911</publications>
+      <pri-name>Barbacoan</pri-name>
+      <id type="integer">135706</id>
+      <other-codes></other-codes>
+      <node-type>Subgroup</node-type>
+      <created-by>joe_leif</created-by>
+      <updated-by>joe_leif</updated-by>
+      <is-default type="integer">0</is-default>
+    </root>
+    <description>Barbacoan: Dryer 2005</description>
+  </tree>
+</hash>

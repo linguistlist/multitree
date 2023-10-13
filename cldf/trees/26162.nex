@@ -1,0 +1,34 @@
+#NEXUS
+[MultiTree: Sino-Caucasian Macrophylum: Bengtson 1991]
+BEGIN TREES;
+TRANSLATE 6og Gutian,
+atha Athapaskan,
+bbib 'Basque-Burushaski-Iberian',
+bsbr 'Basque-Burushaski',
+bsk Burushaski,
+bsk_hun Hunza,
+bsk_nag Nagir,
+bsk_yas Werchikwar,
+eus Basque,
+eya Eyak,
+hax_hdn Haida,
+ket Ket,
+nadn 'Na-Dene',
+ncau 'North Caucasian',
+ncht 'North Caucasian-Hatti',
+ncsm 'North Caucasian-Sumerian',
+sica 'Sino-Caucasian Macrophylum',
+sitb 'Sino-Tibetan',
+sux Sumerian,
+tli Tlingit,
+xht Hatti,
+xhu Hurrian,
+xib Iberian,
+xpm Pumpokol,
+xrn Arin,
+xss Assan,
+xur Urartean,
+yeos Yeniseian,
+zko Kot;
+TREE 26162 = [&R] ((xpm,xss,xrn,zko,ket)yeos,(sux,(xur,ncau,xht,xhu,6og)ncht)ncsm,(eya,tli,hax_hdn,atha)nadn,((eus,(bsk_hun,bsk_yas,bsk_nag)bsk)bsbr,xib)bbib,sitb)sica;
+END;

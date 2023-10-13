@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Darwin region: Composite]
+BEGIN TREES;
+TRANSLATE darr 'Darwin Region',
+lmc Limilngan,
+lmln Limilngan,
+lrg Larrakiya,
+nrx Ngomburr,
+umr Umbugarla,
+umr_umb Umbukarla,
+wux Wulna;
+TREE 25217 = [&R] (lrg,(lmc,wux)lmln,(umr_umb)umr,nrx)darr;
+END;

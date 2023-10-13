@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Maku: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE cbv Cacua,
+cbv_mac 'Macú-Paraná Cacua',
+cbv_vau 'Vaupés Cacua',
+jup Hupdë,
+jup_hup Hupdë,
+jup_neh Nëhup,
+jup_tuh Tuhup,
+kwa Dâw,
+maku Maku,
+mbj Nadëb,
+mbr 'Nukak Makú',
+yab Yuhup;
+TREE 12510 = [&R] ((cbv_mac,cbv_vau)cbv,(jup_tuh,jup_neh,jup_hup)jup,yab,mbr,mbj,kwa)maku;
+END;

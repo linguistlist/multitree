@@ -1,0 +1,30 @@
+#NEXUS
+[MultiTree: Border (Border Trans-New Guinea): Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE aic Ainbai,
+amn Amanab,
+aos Taikat,
+auw Awyi,
+bewn Bewani,
+btng Border,
+dnd Daonda,
+imn Imonda,
+jet Manem,
+kih Kilmeri,
+kih_eas 'Eastern Kilmeri',
+kih_wes 'Western Kilmeri',
+nby Ningera,
+pgi Pagi,
+pgi_eas 'Eastern Pagi',
+pgi_wes 'Western Pagi',
+smf Auwe,
+snu Viid,
+sow Sowanda,
+sow_pun 'Punda-Umeda',
+sow_wai Waina,
+takt Taikat,
+upi Umeda,
+wars Waris,
+wrs Waris;
+TREE 21209 = [&R] (((kih_eas,kih_wes)kih,upi,(pgi_wes,pgi_eas)pgi,nby,aic)bewn,(smf,wrs,amn,jet,snu,dnd,(sow_pun,sow_wai)sow,imn)wars,(auw,aos)takt)btng;
+END;

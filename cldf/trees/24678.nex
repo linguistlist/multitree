@@ -1,0 +1,36 @@
+#NEXUS
+[MultiTree: Ethiosemitic: Bender 1971]
+BEGIN TREES;
+TRANSLATE afeg 'East Gurage',
+afet Ethiosemitic,
+afwg 'West Gurage',
+agj Argobba,
+agj_nth 'North Argobba',
+agj_sth 'South Argobba',
+amh Amharic,
+amha 'Amharic-Argobba',
+ceth Central,
+cpwg 'Chaha Cluster',
+gez Geez,
+gft Gafat,
+har Harari,
+ior Ener,
+mvz Mesqan,
+mys Indegegn,
+neth North,
+qql_ion Innemor,
+seth South,
+sgw_cha Chaha,
+sgw_ezh Izha,
+sgw_gum Gumer,
+sgw_gur Gura,
+sgw_gye Geto,
+stv Selti,
+stv_enn Inneqor,
+stv_ulb Urbareg,
+tig Tigre,
+tir Tigrinya,
+wle Walani,
+zwa Zway;
+TREE 24678 = [&R] ((((sgw_ezh,ior,sgw_gum,sgw_gye,qql_ion,sgw_cha,mvz,sgw_gur)cpwg,(mys,mys)mys)afwg,(har,stv_ulb,zwa,wle,stv_enn,stv)afeg)seth,(((agj_sth,agj_nth)agj,amh)amha,gft)ceth,(gez,tir,tig)neth)afet;
+END;

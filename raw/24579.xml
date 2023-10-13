@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Africa</region>
+    <root>
+      <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+      <creator-id type="integer">10720</creator-id>
+      <confidence>n</confidence>
+      <pri-name>Langues Afro-Asiatiques</pri-name>
+      <status nil="true"></status>
+      <other-codes></other-codes>
+      <end-date nil="true"></end-date>
+      <pub-comments>Delafosse does not explicitly claim that the three groups making up Afro-Asiatic (s&#233;mitique, hamito-berb&#232;re, hamito-kouchitique) descend from a common ancestor; rather, he groups them together on the basis that they were 'imported' into Africa from the Arabian peninsula and the Mediterranean basin (1914: 9) and that they share a number of characteristics (1914: 22). Additionally, this text deals primarily with languages of French Africa and is not intended as an exhaustive list.</pub-comments>
+      <node-type-id type="integer">10000</node-type-id>
+      <node-status-id nil="true"></node-status-id>
+      <id type="integer">959725</id>
+      <created-at type="datetime">2013-08-01T13:59:29-04:00</created-at>
+      <codes>afas</codes>
+      <alt-names></alt-names>
+      <tree-id type="integer">24579</tree-id>
+      <geography nil="true"></geography>
+      <updater-id type="integer">10720</updater-id>
+      <updated-at type="datetime">2013-08-01T13:59:29-04:00</updated-at>
+      <is-default type="integer">0</is-default>
+      <children type="array">
+        <child>
+          <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+          <creator-id type="integer">10720</creator-id>
+          <confidence>y</confidence>
+          <pri-name>Groupe hamito-kouchitique</pri-name>
+          <status nil="true"></status>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">959747</id>
+          <created-at type="datetime">2013-08-01T13:59:31-04:00</created-at>
+          <codes>cush</codes>
+          <alt-names></alt-names>
+          <tree-id type="integer">24579</tree-id>
+          <geography nil="true"></geography>
+          <updater-id type="integer">10720</updater-id>
+          <updated-at type="datetime">2013-08-01T13:59:32-04:00</updated-at>
+          <is-default type="integer">0</is-default>
+          <children type="array">
+            <child>
+              <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+              <creator-id type="integer">10720</creator-id>
+              <confidence>y</confidence>
+              <pri-name>Massa&#239;</pri-name>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">959752</id>
+              <created-at type="datetime">2013-08-01T13:59:32-04:00</created-at>
+              <codes>mcn</codes>
+              <alt-names></alt-names>
+              <tree-id type="integer">24579</tree-id>
+              <geography nil="true"></geography>
+              <updater-id type="integer">10720</updater-id>
+              <updated-at type="datetime">2013-08-01T13:59:32-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <children type="array"/>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Language</node-type>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+            </child>
+            <child>
+              <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+              <creator-id type="integer">10720</creator-id>
+              <confidence>y</confidence>
+              <pri-name>Somali</pri-name>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">959749</id>
+              <created-at type="datetime">2013-08-01T13:59:32-04:00</created-at>
+              <codes>som</codes>
+              <alt-names></alt-names>
+              <tree-id type="integer">24579</tree-id>
+              <geography>R&#233;gion sud (C&#244;te des Somalis)</geography>
+              <updater-id type="integer">10720</updater-id>
+              <updated-at type="datetime">2013-08-01T13:59:32-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <children type="array"/>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Language</node-type>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+            </child>
+            <child>
+              <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+              <creator-id type="integer">10720</creator-id>
+              <confidence>y</confidence>
+              <pri-name>Bedja</pri-name>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">959750</id>
+              <created-at type="datetime">2013-08-01T13:59:32-04:00</created-at>
+              <codes>bej</codes>
+              <alt-names></alt-names>
+              <tree-id type="integer">24579</tree-id>
+              <geography nil="true"></geography>
+              <updater-id type="integer">10720</updater-id>
+              <updated-at type="datetime">2013-08-01T13:59:32-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <children type="array"/>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Language</node-type>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+            </child>
+            <child>
+              <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+              <creator-id type="integer">10720</creator-id>
+              <confidence>y</confidence>
+              <pri-name>Afar</pri-name>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">959748</id>
+              <created-at type="datetime">2013-08-01T13:59:32-04:00</created-at>
+              <codes>aar</codes>
+              <alt-names></alt-names>
+              <tree-id type="integer">24579</tree-id>
+              <geography>R&#233;gion nord (C&#244;te des Somalis)</geography>
+              <updater-id type="integer">10720</updater-id>
+              <updated-at type="datetime">2013-08-01T13:59:32-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <children type="array"/>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Language</node-type>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+            </child>
+            <child>
+              <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+              <creator-id type="integer">10720</creator-id>
+              <confidence>y</confidence>
+              <pri-name>Galla</pri-name>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">959751</id>
+              <created-at type="datetime">2013-08-01T13:59:32-04:00</created-at>
+              <codes>gax</codes>
+              <alt-names></alt-names>
+              <tree-id type="integer">24579</tree-id>
+              <geography nil="true"></geography>
+              <updater-id type="integer">10720</updater-id>
+              <updated-at type="datetime">2013-08-01T13:59:32-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <children type="array"/>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Language</node-type>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+            </child>
+          </children>
+          <deleted-at nil="true"></deleted-at>
+          <node-type>Subgroup</node-type>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+        </child>
+        <child>
+          <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+          <creator-id type="integer">10720</creator-id>
+          <confidence>y</confidence>
+          <pri-name>Groupe hamito-berb&#232;re</pri-name>
+          <status nil="true"></status>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">959739</id>
+          <created-at type="datetime">2013-08-01T13:59:30-04:00</created-at>
+          <codes>berb</codes>
+          <alt-names></alt-names>
+          <tree-id type="integer">24579</tree-id>
+          <geography>Tunisie, Alg&#233;rie, Maroc</geography>
+          <updater-id type="integer">10720</updater-id>
+          <updated-at type="datetime">2013-08-01T13:59:30-04:00</updated-at>
+          <is-default type="integer">0</is-default>
+          <children type="array">
+            <child>
+              <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+              <creator-id type="integer">10720</creator-id>
+              <confidence>y</confidence>
+              <pri-name>Berb&#232;re</pri-name>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">959740</id>
+              <created-at type="datetime">2013-08-01T13:59:30-04:00</created-at>
+              <codes>zen, gnc, shi, jbe, tzm, kab, tjo, grr, mzb, oua, tia, jbn, sds, gha, gho, rif, sjs, shy, cnu, nxm, thv, taq, thz, ttq, siz, auj, swn</codes>
+              <alt-names></alt-names>
+              <tree-id type="integer">24579</tree-id>
+              <geography nil="true"></geography>
+              <updater-id type="integer">10720</updater-id>
+              <updated-at type="datetime">2013-08-01T13:59:31-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <children type="array">
+                <child>
+                  <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+                  <creator-id type="integer">10720</creator-id>
+                  <confidence>n</confidence>
+                  <pri-name>Rifain</pri-name>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">959745</id>
+                  <created-at type="datetime">2013-08-01T13:59:31-04:00</created-at>
+                  <codes>rif</codes>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24579</tree-id>
+                  <geography nil="true"></geography>
+                  <updater-id type="integer">10720</updater-id>
+                  <updated-at type="datetime">2013-08-01T13:59:31-04:00</updated-at>
+                  <is-default type="integer">0</is-default>
+                  <children type="array"/>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type>Dialect</node-type>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+                </child>
+                <child>
+                  <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+                  <creator-id type="integer">10720</creator-id>
+                  <confidence>y</confidence>
+                  <pri-name>Chaou&#239;a</pri-name>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <pub-comments>Author lists Chaou&#239;a followed by "etc.", seeming to indicate that there are other similar dialects which are not listed (Delafosse 1914: 41).</pub-comments>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">959742</id>
+                  <created-at type="datetime">2013-08-01T13:59:31-04:00</created-at>
+                  <codes>shy</codes>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24579</tree-id>
+                  <geography>Aur&#232;s (Alg&#233;rie et Tunisie)</geography>
+                  <updater-id type="integer">10720</updater-id>
+                  <updated-at type="datetime">2013-08-01T13:59:31-04:00</updated-at>
+                  <is-default type="integer">0</is-default>
+                  <children type="array"/>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type>Dialect</node-type>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+                </child>
+                <child>
+                  <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+                  <creator-id type="integer">10720</creator-id>
+                  <confidence>y</confidence>
+                  <pri-name>Z&#233;n&#233;ga</pri-name>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">959744</id>
+                  <created-at type="datetime">2013-08-01T13:59:31-04:00</created-at>
+                  <codes>zen</codes>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24579</tree-id>
+                  <geography>Trarza, etc. (Mauritanie)</geography>
+                  <updater-id type="integer">10720</updater-id>
+                  <updated-at type="datetime">2013-08-01T13:59:31-04:00</updated-at>
+                  <is-default type="integer">0</is-default>
+                  <children type="array"/>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type>Dialect</node-type>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+                </child>
+                <child>
+                  <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+                  <creator-id type="integer">10720</creator-id>
+                  <confidence>n</confidence>
+                  <pri-name>Chleuh</pri-name>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <pub-comments>Author lists Chleuh followed by "etc.", seeming to indicate that there are other similar dialects which are not listed (Delafosse 1914: 41).</pub-comments>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">959743</id>
+                  <created-at type="datetime">2013-08-01T13:59:31-04:00</created-at>
+                  <codes>shi</codes>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24579</tree-id>
+                  <geography>Centre marocain (Maroc)</geography>
+                  <updater-id type="integer">10720</updater-id>
+                  <updated-at type="datetime">2013-08-01T13:59:31-04:00</updated-at>
+                  <is-default type="integer">0</is-default>
+                  <children type="array"/>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type>Dialect</node-type>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+                </child>
+                <child>
+                  <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+                  <creator-id type="integer">10720</creator-id>
+                  <confidence>y</confidence>
+                  <pri-name>Kabyle</pri-name>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">959741</id>
+                  <created-at type="datetime">2013-08-01T13:59:31-04:00</created-at>
+                  <codes>kab</codes>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24579</tree-id>
+                  <geography>Kabylie (Alg&#233;rie)</geography>
+                  <updater-id type="integer">10720</updater-id>
+                  <updated-at type="datetime">2013-08-01T13:59:31-04:00</updated-at>
+                  <is-default type="integer">0</is-default>
+                  <children type="array"/>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type>Dialect</node-type>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+                </child>
+              </children>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Language</node-type>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+            </child>
+            <child>
+              <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+              <creator-id type="integer">10720</creator-id>
+              <confidence>y</confidence>
+              <pri-name>Tamacheq</pri-name>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <pub-comments>Author states that Tamacheq has several dialects which are not listed (Delafosse 1914: 41).</pub-comments>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">959746</id>
+              <created-at type="datetime">2013-08-01T13:59:31-04:00</created-at>
+              <codes>ttq, thz, taq, thv</codes>
+              <alt-names></alt-names>
+              <tree-id type="integer">24579</tree-id>
+              <geography>Sahara, Azaouad, A&#239;r (Alg&#233;rie, Haut S&#233;n&#233;gal Niger, Territoire militaire du Niger)</geography>
+              <updater-id type="integer">10720</updater-id>
+              <updated-at type="datetime">2013-08-01T13:59:31-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <children type="array"/>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Language</node-type>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+            </child>
+          </children>
+          <deleted-at nil="true"></deleted-at>
+          <node-type>Subgroup</node-type>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+        </child>
+        <child>
+          <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+          <creator-id type="integer">10720</creator-id>
+          <confidence>y</confidence>
+          <pri-name>Groupe s&#233;mitique</pri-name>
+          <status nil="true"></status>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">959726</id>
+          <created-at type="datetime">2013-08-01T13:59:29-04:00</created-at>
+          <codes>afsm</codes>
+          <alt-names></alt-names>
+          <tree-id type="integer">24579</tree-id>
+          <geography>&#201;gypte, Tripolitaine, l'Afrique Fran&#231;aise, Tunisie, Alg&#233;rie, Maroc, Mauritaine, dans le Hodh et la r&#233;gion de Tombouctou, dans le territoire du Tchad, la c&#244;te des Somalis, Comores, Abyssinie</geography>
+          <updater-id type="integer">10720</updater-id>
+          <updated-at type="datetime">2013-08-01T13:59:29-04:00</updated-at>
+          <is-default type="integer">0</is-default>
+          <children type="array">
+            <child>
+              <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+              <creator-id type="integer">10720</creator-id>
+              <confidence>y</confidence>
+              <pri-name>Arabique</pri-name>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">959727</id>
+              <created-at type="datetime">2013-08-01T13:59:29-04:00</created-at>
+              <codes>prar</codes>
+              <alt-names></alt-names>
+              <tree-id type="integer">24579</tree-id>
+              <geography>&#201;gypte, Tripolitaine</geography>
+              <updater-id type="integer">10720</updater-id>
+              <updated-at type="datetime">2013-08-01T13:59:29-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <children type="array">
+                <child>
+                  <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+                  <creator-id type="integer">10720</creator-id>
+                  <confidence>y</confidence>
+                  <pri-name>Arabe</pri-name>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">959728</id>
+                  <created-at type="datetime">2013-08-01T13:59:29-04:00</created-at>
+                  <codes>arb</codes>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24579</tree-id>
+                  <geography nil="true"></geography>
+                  <updater-id type="integer">10720</updater-id>
+                  <updated-at type="datetime">2013-08-01T13:59:29-04:00</updated-at>
+                  <is-default type="integer">0</is-default>
+                  <children type="array">
+                    <child>
+                      <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+                      <creator-id type="integer">10720</creator-id>
+                      <confidence>y</confidence>
+                      <pri-name>Tchadien</pri-name>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">959733</id>
+                      <created-at type="datetime">2013-08-01T13:59:29-04:00</created-at>
+                      <codes>shu</codes>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24579</tree-id>
+                      <geography>Kanem, Ouada&#239;, etc. (Territoire du Tchad)</geography>
+                      <updater-id type="integer">10720</updater-id>
+                      <updated-at type="datetime">2013-08-01T13:59:29-04:00</updated-at>
+                      <is-default type="integer">0</is-default>
+                      <children type="array"/>
+                      <deleted-at nil="true"></deleted-at>
+                      <node-type>Dialect</node-type>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+                    </child>
+                    <child>
+                      <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+                      <creator-id type="integer">10720</creator-id>
+                      <confidence>y</confidence>
+                      <pri-name>Kounti</pri-name>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">959731</id>
+                      <created-at type="datetime">2013-08-01T13:59:29-04:00</created-at>
+                      <codes>148</codes>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24579</tree-id>
+                      <geography>Azouad, Tombouctou (Haut S&#233;n&#233;gal Niger)</geography>
+                      <updater-id type="integer">10720</updater-id>
+                      <updated-at type="datetime">2013-08-01T13:59:29-04:00</updated-at>
+                      <is-default type="integer">0</is-default>
+                      <children type="array"/>
+                      <deleted-at nil="true"></deleted-at>
+                      <node-type>Dialect</node-type>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+                    </child>
+                    <child>
+                      <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+                      <creator-id type="integer">10720</creator-id>
+                      <confidence>y</confidence>
+                      <pri-name>Hassani</pri-name>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">959730</id>
+                      <created-at type="datetime">2013-08-01T13:59:29-04:00</created-at>
+                      <codes>mey</codes>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24579</tree-id>
+                      <geography>Trarza, Brakna, Adrar, Tagant, Hodh (Mauritanie, Haut S&#233;n&#233;gal Niger)</geography>
+                      <updater-id type="integer">10720</updater-id>
+                      <updated-at type="datetime">2013-08-01T13:59:29-04:00</updated-at>
+                      <is-default type="integer">0</is-default>
+                      <children type="array"/>
+                      <deleted-at nil="true"></deleted-at>
+                      <node-type>Dialect</node-type>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+                    </child>
+                    <child>
+                      <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+                      <creator-id type="integer">10720</creator-id>
+                      <confidence>y</confidence>
+                      <pri-name>Tripolitain</pri-name>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">959732</id>
+                      <created-at type="datetime">2013-08-01T13:59:29-04:00</created-at>
+                      <codes>ayl-tri</codes>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24579</tree-id>
+                      <geography>Bilma (Territoire militaire du Niger)</geography>
+                      <updater-id type="integer">10720</updater-id>
+                      <updated-at type="datetime">2013-08-01T13:59:29-04:00</updated-at>
+                      <is-default type="integer">0</is-default>
+                      <children type="array"/>
+                      <deleted-at nil="true"></deleted-at>
+                      <node-type>Dialect</node-type>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+                    </child>
+                    <child>
+                      <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+                      <creator-id type="integer">10720</creator-id>
+                      <confidence>y</confidence>
+                      <pri-name>Mascatais</pri-name>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">959734</id>
+                      <created-at type="datetime">2013-08-01T13:59:30-04:00</created-at>
+                      <codes>568</codes>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24579</tree-id>
+                      <geography>Comores</geography>
+                      <updater-id type="integer">10720</updater-id>
+                      <updated-at type="datetime">2013-08-01T13:59:30-04:00</updated-at>
+                      <is-default type="integer">0</is-default>
+                      <children type="array"/>
+                      <deleted-at nil="true"></deleted-at>
+                      <node-type>Dialect</node-type>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+                    </child>
+                    <child>
+                      <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+                      <creator-id type="integer">10720</creator-id>
+                      <confidence>y</confidence>
+                      <pri-name>Maghr&#233;bin</pri-name>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">959729</id>
+                      <created-at type="datetime">2013-08-01T13:59:29-04:00</created-at>
+                      <codes>ary, aeb, arq</codes>
+                      <alt-names></alt-names>
+                      <tree-id type="integer">24579</tree-id>
+                      <geography>Tunisie, Alg&#233;rie, Maroc</geography>
+                      <updater-id type="integer">10720</updater-id>
+                      <updated-at type="datetime">2013-08-01T13:59:29-04:00</updated-at>
+                      <is-default type="integer">0</is-default>
+                      <children type="array"/>
+                      <deleted-at nil="true"></deleted-at>
+                      <node-type>Dialect</node-type>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+                    </child>
+                  </children>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type>Language</node-type>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+                </child>
+              </children>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Subgroup</node-type>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+            </child>
+            <child>
+              <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+              <creator-id type="integer">10720</creator-id>
+              <confidence>y</confidence>
+              <pri-name>&#201;thiopique</pri-name>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">959735</id>
+              <created-at type="datetime">2013-08-01T13:59:30-04:00</created-at>
+              <codes>afet</codes>
+              <alt-names></alt-names>
+              <tree-id type="integer">24579</tree-id>
+              <geography>l'Afrique Fran&#231;aise, Tunisie, Alg&#233;rie, Maroc, Mauritaine, dans le Hodh et la r&#233;gion de Tombouctou, dans le territoire du Tchad, la c&#244;te des Somalis, Comores</geography>
+              <updater-id type="integer">10720</updater-id>
+              <updated-at type="datetime">2013-08-01T13:59:30-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <children type="array">
+                <child>
+                  <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+                  <creator-id type="integer">10720</creator-id>
+                  <confidence>n</confidence>
+                  <pri-name>Harrari</pri-name>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">959738</id>
+                  <created-at type="datetime">2013-08-01T13:59:30-04:00</created-at>
+                  <codes>har</codes>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24579</tree-id>
+                  <geography nil="true"></geography>
+                  <updater-id type="integer">10720</updater-id>
+                  <updated-at type="datetime">2013-08-01T13:59:30-04:00</updated-at>
+                  <is-default type="integer">0</is-default>
+                  <children type="array"/>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type>Language</node-type>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+                </child>
+                <child>
+                  <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+                  <creator-id type="integer">10720</creator-id>
+                  <confidence>y</confidence>
+                  <pri-name>Amharique</pri-name>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">959736</id>
+                  <created-at type="datetime">2013-08-01T13:59:30-04:00</created-at>
+                  <codes>amh</codes>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24579</tree-id>
+                  <geography>C&#244;te des Somalis</geography>
+                  <updater-id type="integer">10720</updater-id>
+                  <updated-at type="datetime">2013-08-01T13:59:30-04:00</updated-at>
+                  <is-default type="integer">0</is-default>
+                  <children type="array"/>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type>Language</node-type>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+                </child>
+                <child>
+                  <tree-val>Langues Afro-Asiatiques: Delafosse 1914</tree-val>
+                  <creator-id type="integer">10720</creator-id>
+                  <confidence>n</confidence>
+                  <pri-name>Tigra&#239;</pri-name>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">959737</id>
+                  <created-at type="datetime">2013-08-01T13:59:30-04:00</created-at>
+                  <codes>tig</codes>
+                  <alt-names></alt-names>
+                  <tree-id type="integer">24579</tree-id>
+                  <geography nil="true"></geography>
+                  <updater-id type="integer">10720</updater-id>
+                  <updated-at type="datetime">2013-08-01T13:59:30-04:00</updated-at>
+                  <is-default type="integer">0</is-default>
+                  <children type="array"/>
+                  <deleted-at nil="true"></deleted-at>
+                  <node-type>Language</node-type>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+                </child>
+              </children>
+              <deleted-at nil="true"></deleted-at>
+              <node-type>Subgroup</node-type>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+            </child>
+          </children>
+          <deleted-at nil="true"></deleted-at>
+          <node-type>Subgroup</node-type>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+        </child>
+      </children>
+      <deleted-at nil="true"></deleted-at>
+      <node-type>Subgroup</node-type>
+      <sureness type="integer">-1</sureness>
+      <start-date nil="true"></start-date>
+      <publications>Delafosse, Maurice. 1914. Esquisse g&#233;n&#233;rale des langues de l'Afrique et plus particuli&#232;rement de l'Afrique Fran&#231;aise. Paris: Masson &amp; Cie. </publications>
+    </root>
+    <description>Langues Afro-Asiatiques: Delafosse 1914</description>
+  </tree>
+</hash>

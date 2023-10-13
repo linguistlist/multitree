@@ -1,0 +1,35 @@
+#NEXUS
+[MultiTree: Austric: Egerod 1991]
+BEGIN TREES;
+TRANSLATE ausa 'Austro-Viet',
+ausr Austric,
+auth 'Austro-Tai',
+auwx Philippine,
+cpol 'Central Polynesian',
+cvqz Melanesian,
+form Formosan,
+hfoe 'East Formosan',
+hmom 'Miao-Yao',
+hmon Miao,
+iixi Indonesian,
+japc Japanese,
+khas Khasi,
+khmr Khmer,
+malg Malagasy,
+maly Malay,
+micr Micronesian,
+mien Yao,
+mkhm 'Mon-Khmer',
+mlpo 'Malayo-Polynesian',
+moni Mon,
+mund Muṇḍa,
+muon Muong,
+nfor 'North Formosan',
+ocea Oceanic,
+poly Polynesian,
+ppol 'Peripheral Polynesian',
+taix Tai,
+viem 'Viet-Muong',
+viet Viet;
+TREE 25537 = [&R] (((((cpol,ppol)poly,cvqz,micr)ocea,(auwx,malg,maly)iixi,(hfoe,nfor)form)mlpo,japc,taix,(mien,hmon)hmom)auth,((viet,muon)viem,(moni,mund,khas,khmr)mkhm)ausa)ausr;
+END;

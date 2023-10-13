@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Chinookan: Campbell 1997]
+BEGIN TREES;
+TRANSLATE chh 'Lower Chinookan',
+chik Chinookan,
+wac 'Upper Chinookan',
+wac_cat Cathlamet,
+wac_cla Clackamas,
+wac_kik Kiksht,
+wac_mul Multnomah,
+wac_was Wasco,
+wac_wis Wishram;
+TREE 11223 = [&R] (((wac_was,wac_wis,wac_cla)wac_kik,wac_cat,wac_mul)wac,chh)chik;
+END;

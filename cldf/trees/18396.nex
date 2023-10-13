@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Gunwinyguan: Baker 2004]
+BEGIN TREES;
+TRANSLATE egun 'Eastern Gunwinyguan',
+gunw Gunwinyguan,
+nid Ngandi,
+nig Ngalakgan,
+nuy Wubuy,
+remb Jala,
+rmb Rembarrnga;
+TREE 18396 = [&R] ((nig,rmb)remb,(nuy,nid)egun)gunw;
+END;

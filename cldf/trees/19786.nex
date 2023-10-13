@@ -1,0 +1,24 @@
+#NEXUS
+[MultiTree: Nyulnyulan: Composite]
+BEGIN TREES;
+TRANSLATE 08s Ngumbarl,
+bcj Bardi,
+bcj_bar Bardi,
+bcj_jaw Jawi,
+djw Djawi,
+dyb Dyaberdyaber,
+dyd Dyugun,
+nmp Nimanbur,
+nyh Nyigina,
+nyh_big 'Big Nykina',
+nyh_sma 'Small Nyikina',
+nyul Nyulnyulan,
+nyv Nyulnyul,
+wwr Warrwa,
+ywr Yawuru,
+ywr_eas 'Eastern Inland Yawuru',
+ywr_juk Jukun,
+ywr_nor 'Northern Yawuru',
+ywr_sou 'Southern Coastal Yawuru';
+TREE 19786 = [&R] (nyv,dyb,(ywr_juk,ywr_eas,ywr_nor,ywr_sou)ywr,(nyh_sma,nyh_big)nyh,dyd,(bcj_jaw,bcj_bar)bcj,nmp,djw,wwr,08s)nyul;
+END;

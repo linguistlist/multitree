@@ -1,0 +1,31 @@
+#NEXUS
+[MultiTree: Jêan: Composite]
+BEGIN TREES;
+TRANSLATE acs Akroá,
+apn Apinayé,
+cege 'Central Jê',
+geka Jêan,
+gvp_xra_xre_xri Timbira,
+kain 'Southern Jê',
+kgp_ckg 'Central Kaingang',
+kgp_pkg 'Paraná Kaingang',
+kgp_sek 'Southeast Kaingang',
+kgp_swk 'Southwest Kaingang',
+kgp_zkp Kaingang,
+kre 'Kreen-Akorore',
+nwge 'Northeastern Jê',
+qr7 Wayaná,
+ram Kanela,
+suy Suyá,
+suy_bdp 'Beiço de Pau',
+suy_tar Yaruma,
+txu Kayapó,
+txu_kkd 'Kayapó-Kradaú',
+txu_krr Kararaó,
+txu_xkn Xikrin,
+xav Xavante,
+xer Xerente,
+xkr Xakriabá,
+xok Xokleng;
+TREE 17469 = [&R] ((xav,xer,acs,xkr)cege,((suy_bdp,suy_tar)suy,(txu_kkd,txu_xkn,txu_krr)txu,(ram)gvp_xra_xre_xri,kre,apn)nwge,((kgp_sek,kgp_swk,kgp_ckg,kgp_pkg)kgp_zkp,qr7,xok)kain)geka;
+END;

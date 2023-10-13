@@ -1,0 +1,2441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Africa</region>
+    <root>
+      <updated-by>gosia</updated-by>
+      <other-codes></other-codes>
+      <node-type>Subgroup</node-type>
+      <is-default type="integer">0</is-default>
+      <pub-comments></pub-comments>
+      <node-type-id type="integer">10000</node-type-id>
+      <geography nil="true"></geography>
+      <end-date nil="true"></end-date>
+      <created-by>gosia</created-by>
+      <pri-name>Kuschitisch</pri-name>
+      <creator-id type="integer">10400</creator-id>
+      <alt-names></alt-names>
+      <status nil="true"></status>
+      <start-date nil="true"></start-date>
+      <children type="array">
+        <child>
+          <updated-by>gosia</updated-by>
+          <other-codes></other-codes>
+          <node-type>Subgroup</node-type>
+          <is-default type="integer">0</is-default>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10000</node-type-id>
+          <geography nil="true"></geography>
+          <end-date nil="true"></end-date>
+          <created-by>gosia</created-by>
+          <pri-name>Ostkuschitisch</pri-name>
+          <creator-id type="integer">10400</creator-id>
+          <alt-names></alt-names>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <children type="array">
+            <child>
+              <updated-by>gosia</updated-by>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <is-default type="integer">0</is-default>
+              <pub-comments>"Die Einordnung der Gruppe 4. beruht auf Feldmaterial von A.N. Tucker [Tucker 1969:81]. Das Wata wird von W. Andrzejewski als Dialekt des Galla angesehen, w&#228;hrend das Awera-Material  sowohl Galla- als auch Somali-Beziehungen besitzt" (K&#246;hler 1975:291).</pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-by>gosia</created-by>
+              <pri-name>Boni-Wata</pri-name>
+              <creator-id type="integer">10400</creator-id>
+              <alt-names></alt-names>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <children type="array">
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Boni</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names>Awera</alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020468</id>
+                  <created-at type="datetime">2013-11-01T11:54:18-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>bob</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:18-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Wata</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names></alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array">
+                    <child>
+                      <updated-by>gosia</updated-by>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>gosia</created-by>
+                      <pri-name>Ariangulo</pri-name>
+                      <creator-id type="integer">10400</creator-id>
+                      <alt-names></alt-names>
+                      <status nil="true"></status>
+                      <start-date nil="true"></start-date>
+                      <children type="array"/>
+                      <updater-id type="integer">10400</updater-id>
+                      <id type="integer">1020470</id>
+                      <created-at type="datetime">2013-11-01T11:54:18-04:00</created-at>
+                      <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                      <codes>ssn</codes>
+                      <updated-at type="datetime">2013-11-01T11:54:18-04:00</updated-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                      <tree-id type="integer">26098</tree-id>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                    <child>
+                      <updated-by>gosia</updated-by>
+                      <other-codes></other-codes>
+                      <node-type>Dialect</node-type>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>gosia</created-by>
+                      <pri-name>Korkoro</pri-name>
+                      <creator-id type="integer">10400</creator-id>
+                      <alt-names></alt-names>
+                      <status nil="true"></status>
+                      <start-date nil="true"></start-date>
+                      <children type="array"/>
+                      <updater-id type="integer">10400</updater-id>
+                      <id type="integer">1020471</id>
+                      <created-at type="datetime">2013-11-01T11:54:18-04:00</created-at>
+                      <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                      <codes>hae</codes>
+                      <updated-at type="datetime">2013-11-01T11:54:18-04:00</updated-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>n</confidence>
+                      <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                      <tree-id type="integer">26098</tree-id>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                  </children>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020469</id>
+                  <created-at type="datetime">2013-11-01T11:54:18-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>ssn</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:18-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+              </children>
+              <updater-id type="integer">10400</updater-id>
+              <id type="integer">1020467</id>
+              <created-at type="datetime">2013-11-01T11:54:17-04:00</created-at>
+              <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+              <codes>bowa</codes>
+              <updated-at type="datetime">2013-11-01T11:54:18-04:00</updated-at>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+              <tree-id type="integer">26098</tree-id>
+              <sureness type="integer">0</sureness>
+            </child>
+            <child>
+              <updated-by>gosia</updated-by>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <is-default type="integer">0</is-default>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-by>gosia</created-by>
+              <pri-name>Somali-Baiso</pri-name>
+              <creator-id type="integer">10400</creator-id>
+              <alt-names></alt-names>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <children type="array">
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Somali-Haruro</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names></alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array">
+                    <child>
+                      <updated-by>gosia</updated-by>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>gosia</created-by>
+                      <pri-name>Haruro</pri-name>
+                      <creator-id type="integer">10400</creator-id>
+                      <alt-names>Hano, Gidijo</alt-names>
+                      <status nil="true"></status>
+                      <start-date nil="true"></start-date>
+                      <children type="array"/>
+                      <updater-id type="integer">10400</updater-id>
+                      <id type="integer">1020479</id>
+                      <created-at type="datetime">2013-11-01T11:54:18-04:00</created-at>
+                      <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                      <codes>jii</codes>
+                      <updated-at type="datetime">2013-11-01T11:54:18-04:00</updated-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                      <tree-id type="integer">26098</tree-id>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                    <child>
+                      <updated-by>gosia</updated-by>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>gosia</created-by>
+                      <pri-name>Somali</pri-name>
+                      <creator-id type="integer">10400</creator-id>
+                      <alt-names></alt-names>
+                      <status nil="true"></status>
+                      <start-date nil="true"></start-date>
+                      <children type="array">
+                        <child>
+                          <updated-by>gosia</updated-by>
+                          <other-codes></other-codes>
+                          <node-type>Dialect</node-type>
+                          <is-default type="integer">0</is-default>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <created-by>gosia</created-by>
+                          <pri-name>Isaq</pri-name>
+                          <creator-id type="integer">10400</creator-id>
+                          <alt-names></alt-names>
+                          <status nil="true"></status>
+                          <start-date nil="true"></start-date>
+                          <children type="array"/>
+                          <updater-id type="integer">10400</updater-id>
+                          <id type="integer">1020475</id>
+                          <created-at type="datetime">2013-11-01T11:54:18-04:00</created-at>
+                          <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                          <codes>som-afa</codes>
+                          <updated-at type="datetime">2013-11-01T11:54:18-04:00</updated-at>
+                          <node-status-id nil="true"></node-status-id>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>n</confidence>
+                          <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                          <tree-id type="integer">26098</tree-id>
+                          <sureness type="integer">0</sureness>
+                        </child>
+                        <child>
+                          <updated-by>gosia</updated-by>
+                          <other-codes></other-codes>
+                          <node-type>Dialect</node-type>
+                          <is-default type="integer">0</is-default>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <created-by>gosia</created-by>
+                          <pri-name>Hawiya-Benadir</pri-name>
+                          <creator-id type="integer">10400</creator-id>
+                          <alt-names></alt-names>
+                          <status nil="true"></status>
+                          <start-date nil="true"></start-date>
+                          <children type="array"/>
+                          <updater-id type="integer">10400</updater-id>
+                          <id type="integer">1020477</id>
+                          <created-at type="datetime">2013-11-01T11:54:18-04:00</created-at>
+                          <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                          <codes>som-ben</codes>
+                          <updated-at type="datetime">2013-11-01T11:54:18-04:00</updated-at>
+                          <node-status-id nil="true"></node-status-id>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                          <tree-id type="integer">26098</tree-id>
+                          <sureness type="integer">0</sureness>
+                        </child>
+                        <child>
+                          <updated-by>gosia</updated-by>
+                          <other-codes></other-codes>
+                          <node-type>Dialect</node-type>
+                          <is-default type="integer">0</is-default>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <created-by>gosia</created-by>
+                          <pri-name>Darod</pri-name>
+                          <creator-id type="integer">10400</creator-id>
+                          <alt-names></alt-names>
+                          <status nil="true"></status>
+                          <start-date nil="true"></start-date>
+                          <children type="array"/>
+                          <updater-id type="integer">10400</updater-id>
+                          <id type="integer">1020476</id>
+                          <created-at type="datetime">2013-11-01T11:54:18-04:00</created-at>
+                          <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                          <codes>som-daa</codes>
+                          <updated-at type="datetime">2013-11-01T11:54:18-04:00</updated-at>
+                          <node-status-id nil="true"></node-status-id>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>n</confidence>
+                          <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                          <tree-id type="integer">26098</tree-id>
+                          <sureness type="integer">0</sureness>
+                        </child>
+                        <child>
+                          <updated-by>gosia</updated-by>
+                          <other-codes></other-codes>
+                          <node-type>Dialect</node-type>
+                          <is-default type="integer">0</is-default>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <created-by>gosia</created-by>
+                          <pri-name>Diguil-Rahanwin</pri-name>
+                          <creator-id type="integer">10400</creator-id>
+                          <alt-names></alt-names>
+                          <status nil="true"></status>
+                          <start-date nil="true"></start-date>
+                          <children type="array"/>
+                          <updater-id type="integer">10400</updater-id>
+                          <id type="integer">1020478</id>
+                          <created-at type="datetime">2013-11-01T11:54:18-04:00</created-at>
+                          <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                          <codes>ymm</codes>
+                          <updated-at type="datetime">2013-11-01T11:54:18-04:00</updated-at>
+                          <node-status-id nil="true"></node-status-id>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                          <tree-id type="integer">26098</tree-id>
+                          <sureness type="integer">0</sureness>
+                        </child>
+                      </children>
+                      <updater-id type="integer">10400</updater-id>
+                      <id type="integer">1020474</id>
+                      <created-at type="datetime">2013-11-01T11:54:18-04:00</created-at>
+                      <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                      <codes>som</codes>
+                      <updated-at type="datetime">2013-11-01T11:54:18-04:00</updated-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                      <tree-id type="integer">26098</tree-id>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                  </children>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020473</id>
+                  <created-at type="datetime">2013-11-01T11:54:18-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>soma</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:18-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Rendile-Elmodo-Baiso</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names></alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array">
+                    <child>
+                      <updated-by>gosia</updated-by>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>gosia</created-by>
+                      <pri-name>Baiso</pri-name>
+                      <creator-id type="integer">10400</creator-id>
+                      <alt-names></alt-names>
+                      <status nil="true"></status>
+                      <start-date nil="true"></start-date>
+                      <children type="array"/>
+                      <updater-id type="integer">10400</updater-id>
+                      <id type="integer">1020483</id>
+                      <created-at type="datetime">2013-11-01T11:54:19-04:00</created-at>
+                      <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                      <codes>bsw</codes>
+                      <updated-at type="datetime">2013-11-01T11:54:19-04:00</updated-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                      <tree-id type="integer">26098</tree-id>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                    <child>
+                      <updated-by>gosia</updated-by>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>gosia</created-by>
+                      <pri-name>Elmodo</pri-name>
+                      <creator-id type="integer">10400</creator-id>
+                      <alt-names></alt-names>
+                      <status nil="true"></status>
+                      <start-date nil="true"></start-date>
+                      <children type="array"/>
+                      <updater-id type="integer">10400</updater-id>
+                      <id type="integer">1020482</id>
+                      <created-at type="datetime">2013-11-01T11:54:19-04:00</created-at>
+                      <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                      <codes>elo</codes>
+                      <updated-at type="datetime">2013-11-01T11:54:19-04:00</updated-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>n</confidence>
+                      <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                      <tree-id type="integer">26098</tree-id>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                    <child>
+                      <updated-by>gosia</updated-by>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>gosia</created-by>
+                      <pri-name>Rendile</pri-name>
+                      <creator-id type="integer">10400</creator-id>
+                      <alt-names></alt-names>
+                      <status nil="true"></status>
+                      <start-date nil="true"></start-date>
+                      <children type="array"/>
+                      <updater-id type="integer">10400</updater-id>
+                      <id type="integer">1020481</id>
+                      <created-at type="datetime">2013-11-01T11:54:19-04:00</created-at>
+                      <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                      <codes>rel</codes>
+                      <updated-at type="datetime">2013-11-01T11:54:19-04:00</updated-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                      <tree-id type="integer">26098</tree-id>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                  </children>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020480</id>
+                  <created-at type="datetime">2013-11-01T11:54:18-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>womt</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:19-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>n</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+              </children>
+              <updater-id type="integer">10400</updater-id>
+              <id type="integer">1020472</id>
+              <created-at type="datetime">2013-11-01T11:54:18-04:00</created-at>
+              <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+              <codes>soba</codes>
+              <updated-at type="datetime">2013-11-01T11:54:18-04:00</updated-at>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+              <tree-id type="integer">26098</tree-id>
+              <sureness type="integer">0</sureness>
+            </child>
+            <child>
+              <updated-by>gosia</updated-by>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <is-default type="integer">0</is-default>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-by>gosia</created-by>
+              <pri-name>Galla-Konso</pri-name>
+              <creator-id type="integer">10400</creator-id>
+              <alt-names></alt-names>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <children type="array">
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Galla</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names></alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array">
+                    <child>
+                      <updated-by>gosia</updated-by>
+                      <other-codes></other-codes>
+                      <node-type>Dialect Group</node-type>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments>&#8220;[...]Moreno 1939&#8221;  (K&#246;hler 1975:290).</pub-comments>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>gosia</created-by>
+                      <pri-name>Nordgalla</pri-name>
+                      <creator-id type="integer">10400</creator-id>
+                      <alt-names></alt-names>
+                      <status nil="true"></status>
+                      <start-date nil="true"></start-date>
+                      <children type="array">
+                        <child>
+                          <updated-by>gosia</updated-by>
+                          <other-codes></other-codes>
+                          <node-type>Dialect</node-type>
+                          <is-default type="integer">0</is-default>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <created-by>gosia</created-by>
+                          <pri-name>Ma&#269;&#269;&#257;</pri-name>
+                          <creator-id type="integer">10400</creator-id>
+                          <alt-names></alt-names>
+                          <status nil="true"></status>
+                          <start-date nil="true"></start-date>
+                          <children type="array"/>
+                          <updater-id type="integer">10400</updater-id>
+                          <id type="integer">1020457</id>
+                          <created-at type="datetime">2013-11-01T11:54:17-04:00</created-at>
+                          <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                          <codes>gax-mec</codes>
+                          <updated-at type="datetime">2013-11-01T11:54:17-04:00</updated-at>
+                          <node-status-id nil="true"></node-status-id>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                          <tree-id type="integer">26098</tree-id>
+                          <sureness type="integer">0</sureness>
+                        </child>
+                        <child>
+                          <updated-by>gosia</updated-by>
+                          <other-codes></other-codes>
+                          <node-type>Dialect</node-type>
+                          <is-default type="integer">0</is-default>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <created-by>gosia</created-by>
+                          <pri-name>Borana</pri-name>
+                          <creator-id type="integer">10400</creator-id>
+                          <alt-names></alt-names>
+                          <status nil="true"></status>
+                          <start-date nil="true"></start-date>
+                          <children type="array"/>
+                          <updater-id type="integer">10400</updater-id>
+                          <id type="integer">1020459</id>
+                          <created-at type="datetime">2013-11-01T11:54:17-04:00</created-at>
+                          <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                          <codes>gax-bor</codes>
+                          <updated-at type="datetime">2013-11-01T11:54:17-04:00</updated-at>
+                          <node-status-id nil="true"></node-status-id>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                          <tree-id type="integer">26098</tree-id>
+                          <sureness type="integer">0</sureness>
+                        </child>
+                        <child>
+                          <updated-by>gosia</updated-by>
+                          <other-codes></other-codes>
+                          <node-type>Dialect</node-type>
+                          <is-default type="integer">0</is-default>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <created-by>gosia</created-by>
+                          <pri-name>Tulama</pri-name>
+                          <creator-id type="integer">10400</creator-id>
+                          <alt-names></alt-names>
+                          <status nil="true"></status>
+                          <start-date nil="true"></start-date>
+                          <children type="array"/>
+                          <updater-id type="integer">10400</updater-id>
+                          <id type="integer">1020458</id>
+                          <created-at type="datetime">2013-11-01T11:54:17-04:00</created-at>
+                          <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                          <codes>gax-tul</codes>
+                          <updated-at type="datetime">2013-11-01T11:54:17-04:00</updated-at>
+                          <node-status-id nil="true"></node-status-id>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                          <tree-id type="integer">26098</tree-id>
+                          <sureness type="integer">0</sureness>
+                        </child>
+                      </children>
+                      <updater-id type="integer">10400</updater-id>
+                      <id type="integer">1020456</id>
+                      <created-at type="datetime">2013-11-01T11:54:17-04:00</created-at>
+                      <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                      <codes>gax-nor</codes>
+                      <updated-at type="datetime">2013-11-01T11:54:17-04:00</updated-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                      <tree-id type="integer">26098</tree-id>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                    <child>
+                      <updated-by>gosia</updated-by>
+                      <other-codes></other-codes>
+                      <node-type>Dialect Group</node-type>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10004</node-type-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>gosia</created-by>
+                      <pri-name>S&#252;dgalla</pri-name>
+                      <creator-id type="integer">10400</creator-id>
+                      <alt-names></alt-names>
+                      <status nil="true"></status>
+                      <start-date nil="true"></start-date>
+                      <children type="array">
+                        <child>
+                          <updated-by>gosia</updated-by>
+                          <other-codes></other-codes>
+                          <node-type>Dialect</node-type>
+                          <is-default type="integer">0</is-default>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <created-by>gosia</created-by>
+                          <pri-name>Kofira-Galla</pri-name>
+                          <creator-id type="integer">10400</creator-id>
+                          <alt-names></alt-names>
+                          <status nil="true"></status>
+                          <start-date nil="true"></start-date>
+                          <children type="array"/>
+                          <updater-id type="integer">10400</updater-id>
+                          <id type="integer">1020455</id>
+                          <created-at type="datetime">2013-11-01T11:54:16-04:00</created-at>
+                          <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                          <codes>qsg</codes>
+                          <updated-at type="datetime">2013-11-01T11:54:17-04:00</updated-at>
+                          <node-status-id nil="true"></node-status-id>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                          <tree-id type="integer">26098</tree-id>
+                          <sureness type="integer">0</sureness>
+                        </child>
+                        <child>
+                          <updated-by>gosia</updated-by>
+                          <other-codes></other-codes>
+                          <node-type>Dialect</node-type>
+                          <is-default type="integer">0</is-default>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <created-by>gosia</created-by>
+                          <pri-name>Bararetta</pri-name>
+                          <creator-id type="integer">10400</creator-id>
+                          <alt-names></alt-names>
+                          <status nil="true"></status>
+                          <start-date nil="true"></start-date>
+                          <children type="array"/>
+                          <updater-id type="integer">10400</updater-id>
+                          <id type="integer">1020454</id>
+                          <created-at type="datetime">2013-11-01T11:54:16-04:00</created-at>
+                          <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                          <codes>qsg</codes>
+                          <updated-at type="datetime">2013-11-01T11:54:16-04:00</updated-at>
+                          <node-status-id nil="true"></node-status-id>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                          <tree-id type="integer">26098</tree-id>
+                          <sureness type="integer">0</sureness>
+                        </child>
+                      </children>
+                      <updater-id type="integer">10400</updater-id>
+                      <id type="integer">1020453</id>
+                      <created-at type="datetime">2013-11-01T11:54:16-04:00</created-at>
+                      <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                      <codes>gax-sue</codes>
+                      <updated-at type="datetime">2013-11-01T11:54:16-04:00</updated-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                      <tree-id type="integer">26098</tree-id>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                  </children>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020452</id>
+                  <created-at type="datetime">2013-11-01T11:54:16-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>gax</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:16-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Konso-Gato-Busa</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names></alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array">
+                    <child>
+                      <updated-by>gosia</updated-by>
+                      <other-codes></other-codes>
+                      <node-type>Subgroup</node-type>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>gosia</created-by>
+                      <pri-name>Gato-Busa</pri-name>
+                      <creator-id type="integer">10400</creator-id>
+                      <alt-names></alt-names>
+                      <status nil="true"></status>
+                      <start-date nil="true"></start-date>
+                      <children type="array">
+                        <child>
+                          <updated-by>gosia</updated-by>
+                          <other-codes></other-codes>
+                          <node-type>Language</node-type>
+                          <is-default type="integer">0</is-default>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <created-by>gosia</created-by>
+                          <pri-name>Mashile</pri-name>
+                          <creator-id type="integer">10400</creator-id>
+                          <alt-names></alt-names>
+                          <status nil="true"></status>
+                          <start-date nil="true"></start-date>
+                          <children type="array"/>
+                          <updater-id type="integer">10400</updater-id>
+                          <id type="integer">1020464</id>
+                          <created-at type="datetime">2013-11-01T11:54:17-04:00</created-at>
+                          <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                          <codes>dox</codes>
+                          <updated-at type="datetime">2013-11-01T11:54:17-04:00</updated-at>
+                          <node-status-id nil="true"></node-status-id>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                          <tree-id type="integer">26098</tree-id>
+                          <sureness type="integer">0</sureness>
+                        </child>
+                        <child>
+                          <updated-by>gosia</updated-by>
+                          <other-codes></other-codes>
+                          <node-type>Language</node-type>
+                          <is-default type="integer">0</is-default>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <created-by>gosia</created-by>
+                          <pri-name>Gidole</pri-name>
+                          <creator-id type="integer">10400</creator-id>
+                          <alt-names></alt-names>
+                          <status nil="true"></status>
+                          <start-date nil="true"></start-date>
+                          <children type="array"/>
+                          <updater-id type="integer">10400</updater-id>
+                          <id type="integer">1020465</id>
+                          <created-at type="datetime">2013-11-01T11:54:17-04:00</created-at>
+                          <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                          <codes>gdl</codes>
+                          <updated-at type="datetime">2013-11-01T11:54:17-04:00</updated-at>
+                          <node-status-id nil="true"></node-status-id>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                          <tree-id type="integer">26098</tree-id>
+                          <sureness type="integer">0</sureness>
+                        </child>
+                        <child>
+                          <updated-by>gosia</updated-by>
+                          <other-codes></other-codes>
+                          <node-type>Language</node-type>
+                          <is-default type="integer">0</is-default>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <created-by>gosia</created-by>
+                          <pri-name>Busa</pri-name>
+                          <creator-id type="integer">10400</creator-id>
+                          <alt-names></alt-names>
+                          <status nil="true"></status>
+                          <start-date nil="true"></start-date>
+                          <children type="array"/>
+                          <updater-id type="integer">10400</updater-id>
+                          <id type="integer">1020466</id>
+                          <created-at type="datetime">2013-11-01T11:54:17-04:00</created-at>
+                          <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                          <codes>dox</codes>
+                          <updated-at type="datetime">2013-11-01T11:54:17-04:00</updated-at>
+                          <node-status-id nil="true"></node-status-id>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                          <tree-id type="integer">26098</tree-id>
+                          <sureness type="integer">0</sureness>
+                        </child>
+                        <child>
+                          <updated-by>gosia</updated-by>
+                          <other-codes></other-codes>
+                          <node-type>Language</node-type>
+                          <is-default type="integer">0</is-default>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <geography nil="true"></geography>
+                          <end-date nil="true"></end-date>
+                          <created-by>gosia</created-by>
+                          <pri-name>Gato</pri-name>
+                          <creator-id type="integer">10400</creator-id>
+                          <alt-names></alt-names>
+                          <status nil="true"></status>
+                          <start-date nil="true"></start-date>
+                          <children type="array"/>
+                          <updater-id type="integer">10400</updater-id>
+                          <id type="integer">1020463</id>
+                          <created-at type="datetime">2013-11-01T11:54:17-04:00</created-at>
+                          <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                          <codes>kxc-gat</codes>
+                          <updated-at type="datetime">2013-11-01T11:54:17-04:00</updated-at>
+                          <node-status-id nil="true"></node-status-id>
+                          <deleted-at nil="true"></deleted-at>
+                          <confidence>y</confidence>
+                          <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                          <tree-id type="integer">26098</tree-id>
+                          <sureness type="integer">0</sureness>
+                        </child>
+                      </children>
+                      <updater-id type="integer">10400</updater-id>
+                      <id type="integer">1020462</id>
+                      <created-at type="datetime">2013-11-01T11:54:17-04:00</created-at>
+                      <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                      <codes>kong</codes>
+                      <updated-at type="datetime">2013-11-01T11:54:17-04:00</updated-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                      <tree-id type="integer">26098</tree-id>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                    <child>
+                      <updated-by>gosia</updated-by>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>gosia</created-by>
+                      <pri-name>Konso</pri-name>
+                      <creator-id type="integer">10400</creator-id>
+                      <alt-names></alt-names>
+                      <status nil="true"></status>
+                      <start-date nil="true"></start-date>
+                      <children type="array"/>
+                      <updater-id type="integer">10400</updater-id>
+                      <id type="integer">1020461</id>
+                      <created-at type="datetime">2013-11-01T11:54:17-04:00</created-at>
+                      <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                      <codes>kxc</codes>
+                      <updated-at type="datetime">2013-11-01T11:54:17-04:00</updated-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                      <tree-id type="integer">26098</tree-id>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                  </children>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020460</id>
+                  <created-at type="datetime">2013-11-01T11:54:17-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>kong</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:17-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+              </children>
+              <updater-id type="integer">10400</updater-id>
+              <id type="integer">1020451</id>
+              <created-at type="datetime">2013-11-01T11:54:16-04:00</created-at>
+              <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+              <codes>noor</codes>
+              <updated-at type="datetime">2013-11-01T11:54:16-04:00</updated-at>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+              <tree-id type="integer">26098</tree-id>
+              <sureness type="integer">0</sureness>
+            </child>
+            <child>
+              <updated-by>gosia</updated-by>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <is-default type="integer">0</is-default>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-by>gosia</created-by>
+              <pri-name>Tsamako-Gauwada</pri-name>
+              <creator-id type="integer">10400</creator-id>
+              <alt-names></alt-names>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <children type="array">
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Dingine</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names></alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020488</id>
+                  <created-at type="datetime">2013-11-01T11:54:19-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>gwd-dih</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:19-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Gowase-Gauwada</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names></alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array">
+                    <child>
+                      <updated-by>gosia</updated-by>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>gosia</created-by>
+                      <pri-name>Gorase</pri-name>
+                      <creator-id type="integer">10400</creator-id>
+                      <alt-names></alt-names>
+                      <status nil="true"></status>
+                      <start-date nil="true"></start-date>
+                      <children type="array"/>
+                      <updater-id type="integer">10400</updater-id>
+                      <id type="integer">1020494</id>
+                      <created-at type="datetime">2013-11-01T11:54:20-04:00</created-at>
+                      <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                      <codes>gwd-gor</codes>
+                      <updated-at type="datetime">2013-11-01T11:54:20-04:00</updated-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                      <tree-id type="integer">26098</tree-id>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                    <child>
+                      <updated-by>gosia</updated-by>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>gosia</created-by>
+                      <pri-name>Gauwada</pri-name>
+                      <creator-id type="integer">10400</creator-id>
+                      <alt-names></alt-names>
+                      <status nil="true"></status>
+                      <start-date nil="true"></start-date>
+                      <children type="array"/>
+                      <updater-id type="integer">10400</updater-id>
+                      <id type="integer">1020495</id>
+                      <created-at type="datetime">2013-11-01T11:54:20-04:00</created-at>
+                      <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                      <codes>gwd</codes>
+                      <updated-at type="datetime">2013-11-01T11:54:20-04:00</updated-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                      <tree-id type="integer">26098</tree-id>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                    <child>
+                      <updated-by>gosia</updated-by>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>gosia</created-by>
+                      <pri-name>Golango</pri-name>
+                      <creator-id type="integer">10400</creator-id>
+                      <alt-names></alt-names>
+                      <status nil="true"></status>
+                      <start-date nil="true"></start-date>
+                      <children type="array"/>
+                      <updater-id type="integer">10400</updater-id>
+                      <id type="integer">1020493</id>
+                      <created-at type="datetime">2013-11-01T11:54:20-04:00</created-at>
+                      <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                      <codes>gwd-gol</codes>
+                      <updated-at type="datetime">2013-11-01T11:54:20-04:00</updated-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                      <tree-id type="integer">26098</tree-id>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                    <child>
+                      <updated-by>gosia</updated-by>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>gosia</created-by>
+                      <pri-name>Gowase</pri-name>
+                      <creator-id type="integer">10400</creator-id>
+                      <alt-names></alt-names>
+                      <status nil="true"></status>
+                      <start-date nil="true"></start-date>
+                      <children type="array"/>
+                      <updater-id type="integer">10400</updater-id>
+                      <id type="integer">1020492</id>
+                      <created-at type="datetime">2013-11-01T11:54:19-04:00</created-at>
+                      <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                      <codes>dox, gwd-gob</codes>
+                      <updated-at type="datetime">2013-11-01T11:54:20-04:00</updated-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                      <tree-id type="integer">26098</tree-id>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                  </children>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020491</id>
+                  <created-at type="datetime">2013-11-01T11:54:19-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>gowa</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:19-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Orase</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names></alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020490</id>
+                  <created-at type="datetime">2013-11-01T11:54:19-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>gwd-har</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:19-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>n</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Arbore</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names></alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020486</id>
+                  <created-at type="datetime">2013-11-01T11:54:19-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>arv</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:19-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Tamahai</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names></alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020489</id>
+                  <created-at type="datetime">2013-11-01T11:54:19-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>tsb</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:19-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Gora</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names></alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020487</id>
+                  <created-at type="datetime">2013-11-01T11:54:19-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>gex</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:19-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Tsamako</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names></alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020485</id>
+                  <created-at type="datetime">2013-11-01T11:54:19-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>tsb</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:19-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+              </children>
+              <updater-id type="integer">10400</updater-id>
+              <id type="integer">1020484</id>
+              <created-at type="datetime">2013-11-01T11:54:19-04:00</created-at>
+              <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+              <codes>dull</codes>
+              <updated-at type="datetime">2013-11-01T11:54:19-04:00</updated-at>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+              <tree-id type="integer">26098</tree-id>
+              <sureness type="integer">0</sureness>
+            </child>
+            <child>
+              <updated-by>gosia</updated-by>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <is-default type="integer">0</is-default>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-by>gosia</created-by>
+              <pri-name>Sid&#257;mo-Burdji</pri-name>
+              <creator-id type="integer">10400</creator-id>
+              <alt-names></alt-names>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <children type="array">
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Subgroup</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Sid&#257;mo-Alaba</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names></alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array">
+                    <child>
+                      <updated-by>gosia</updated-by>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>gosia</created-by>
+                      <pri-name>Sid&#257;mo</pri-name>
+                      <creator-id type="integer">10400</creator-id>
+                      <alt-names></alt-names>
+                      <status nil="true"></status>
+                      <start-date nil="true"></start-date>
+                      <children type="array"/>
+                      <updater-id type="integer">10400</updater-id>
+                      <id type="integer">1020445</id>
+                      <created-at type="datetime">2013-11-01T11:54:16-04:00</created-at>
+                      <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                      <codes>sid</codes>
+                      <updated-at type="datetime">2013-11-01T11:54:16-04:00</updated-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                      <tree-id type="integer">26098</tree-id>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                    <child>
+                      <updated-by>gosia</updated-by>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>gosia</created-by>
+                      <pri-name>Alaba</pri-name>
+                      <creator-id type="integer">10400</creator-id>
+                      <alt-names></alt-names>
+                      <status nil="true"></status>
+                      <start-date nil="true"></start-date>
+                      <children type="array"/>
+                      <updater-id type="integer">10400</updater-id>
+                      <id type="integer">1020447</id>
+                      <created-at type="datetime">2013-11-01T11:54:16-04:00</created-at>
+                      <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                      <codes>alw</codes>
+                      <updated-at type="datetime">2013-11-01T11:54:16-04:00</updated-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                      <tree-id type="integer">26098</tree-id>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                    <child>
+                      <updated-by>gosia</updated-by>
+                      <other-codes></other-codes>
+                      <node-type>Language</node-type>
+                      <is-default type="integer">0</is-default>
+                      <pub-comments></pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <geography nil="true"></geography>
+                      <end-date nil="true"></end-date>
+                      <created-by>gosia</created-by>
+                      <pri-name>Kamb&#225;tt&#257;</pri-name>
+                      <creator-id type="integer">10400</creator-id>
+                      <alt-names>Tambaro</alt-names>
+                      <status nil="true"></status>
+                      <start-date nil="true"></start-date>
+                      <children type="array"/>
+                      <updater-id type="integer">10400</updater-id>
+                      <id type="integer">1020446</id>
+                      <created-at type="datetime">2013-11-01T11:54:16-04:00</created-at>
+                      <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                      <codes>ktb</codes>
+                      <updated-at type="datetime">2013-11-01T11:54:16-04:00</updated-at>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <confidence>y</confidence>
+                      <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                      <tree-id type="integer">26098</tree-id>
+                      <sureness type="integer">0</sureness>
+                    </child>
+                  </children>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020444</id>
+                  <created-at type="datetime">2013-11-01T11:54:16-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>kaal</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:16-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Burdji</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names>Bambala</alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020450</id>
+                  <created-at type="datetime">2013-11-01T11:54:16-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>bji</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:16-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Haddiya</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names>Gudela</alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020448</id>
+                  <created-at type="datetime">2013-11-01T11:54:16-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>hdy</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:16-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Darasa</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names></alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020449</id>
+                  <created-at type="datetime">2013-11-01T11:54:16-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>drs</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:16-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+              </children>
+              <updater-id type="integer">10400</updater-id>
+              <id type="integer">1020443</id>
+              <created-at type="datetime">2013-11-01T11:54:16-04:00</created-at>
+              <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+              <codes>high</codes>
+              <updated-at type="datetime">2013-11-01T11:54:16-04:00</updated-at>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+              <tree-id type="integer">26098</tree-id>
+              <sureness type="integer">0</sureness>
+            </child>
+            <child>
+              <updated-by>gosia</updated-by>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <is-default type="integer">0</is-default>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-by>gosia</created-by>
+              <pri-name>Saho-Afar</pri-name>
+              <creator-id type="integer">10400</creator-id>
+              <alt-names></alt-names>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <children type="array">
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Saho</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names>Irob</alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020441</id>
+                  <created-at type="datetime">2013-11-01T11:54:16-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>ssy</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:16-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Afar</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names>Dankali</alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020442</id>
+                  <created-at type="datetime">2013-11-01T11:54:16-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>aar</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:16-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+              </children>
+              <updater-id type="integer">10400</updater-id>
+              <id type="integer">1020440</id>
+              <created-at type="datetime">2013-11-01T11:54:16-04:00</created-at>
+              <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+              <codes>saaf</codes>
+              <updated-at type="datetime">2013-11-01T11:54:16-04:00</updated-at>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+              <tree-id type="integer">26098</tree-id>
+              <sureness type="integer">0</sureness>
+            </child>
+            <child>
+              <updated-by>gosia</updated-by>
+              <other-codes></other-codes>
+              <node-type>Language</node-type>
+              <is-default type="integer">0</is-default>
+              <pub-comments>&#8220;Das von Greenberg 1963-II als Ostkuschitisch klassifizierte Yaku (Mogogodo) besitzt Beziehungen  zum &#8220;S&#252;dkuschitischen&#8221;  und zum nicht gen&#252;gend  klassifizierten &#8220;Sanye&#8221; (Dahalo). Seine Stellung ist nicht ausreichend gekl&#228;rt&#8221; (K&#246;hler 1975:291).</pub-comments>
+              <node-type-id type="integer">10001</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-by>gosia</created-by>
+              <pri-name>Yaku</pri-name>
+              <creator-id type="integer">10400</creator-id>
+              <alt-names>Mogogodo</alt-names>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <children type="array"/>
+              <updater-id type="integer">10400</updater-id>
+              <id type="integer">1020496</id>
+              <created-at type="datetime">2013-11-01T11:54:20-04:00</created-at>
+              <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+              <codes>muu</codes>
+              <updated-at type="datetime">2013-11-01T11:54:20-04:00</updated-at>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+              <tree-id type="integer">26098</tree-id>
+              <sureness type="integer">-1</sureness>
+            </child>
+          </children>
+          <updater-id type="integer">10400</updater-id>
+          <id type="integer">1020439</id>
+          <created-at type="datetime">2013-11-01T11:54:16-04:00</created-at>
+          <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+          <codes>ecus</codes>
+          <updated-at type="datetime">2013-11-01T11:54:16-04:00</updated-at>
+          <node-status-id nil="true"></node-status-id>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+          <tree-id type="integer">26098</tree-id>
+          <sureness type="integer">0</sureness>
+        </child>
+        <child>
+          <updated-by>gosia</updated-by>
+          <other-codes></other-codes>
+          <node-type>Subgroup</node-type>
+          <is-default type="integer">0</is-default>
+          <pub-comments>K&#246;hler 1975 repeats his analysis from K&#246;hler 1968 but also discusses Greenberg 1963-1966, and importantly Fleming 1969. This part of the tree does not include information from Greenberg and Fleming.</pub-comments>
+          <node-type-id type="integer">10000</node-type-id>
+          <geography nil="true"></geography>
+          <end-date nil="true"></end-date>
+          <created-by>gosia</created-by>
+          <pri-name>S&#252;dkuschitisch</pri-name>
+          <creator-id type="integer">10400</creator-id>
+          <alt-names></alt-names>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <children type="array">
+            <child>
+              <updated-by>gosia</updated-by>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <is-default type="integer">0</is-default>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-by>gosia</created-by>
+              <pri-name>Iraqu-Gruppe</pri-name>
+              <creator-id type="integer">10400</creator-id>
+              <alt-names></alt-names>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <children type="array">
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments>Nach H.Claus 1910, Struck 1911. "Angeblich mit Schnautzlauten, als Sprache im Aussterben begriffen" (K&#246;hler 1975:292).</pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Ngomvya</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names></alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020503</id>
+                  <created-at type="datetime">2013-11-01T11:54:21-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>wka</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:21-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Iraqu</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names>Iraqw</alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020499</id>
+                  <created-at type="datetime">2013-11-01T11:54:20-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>irk</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:20-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Alawa</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names>Wasi, Asi, Mbulu</alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020502</id>
+                  <created-at type="datetime">2013-11-01T11:54:20-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>wbj</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:21-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Go&#769;rowa</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names>Fiome</alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020500</id>
+                  <created-at type="datetime">2013-11-01T11:54:20-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>gow</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:20-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Burungi</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names>Mbulunge</alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020501</id>
+                  <created-at type="datetime">2013-11-01T11:54:20-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>bds</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:20-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+              </children>
+              <updater-id type="integer">10400</updater-id>
+              <id type="integer">1020498</id>
+              <created-at type="datetime">2013-11-01T11:54:20-04:00</created-at>
+              <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+              <codes>rift</codes>
+              <updated-at type="datetime">2013-11-01T11:54:20-04:00</updated-at>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+              <tree-id type="integer">26098</tree-id>
+              <sureness type="integer">0</sureness>
+            </child>
+            <child>
+              <updated-by>gosia</updated-by>
+              <other-codes></other-codes>
+              <node-type>Language</node-type>
+              <is-default type="integer">0</is-default>
+              <pub-comments>Nach Maguire 1927. "Mit Beziehungen zur Iraqu-Gruppe. [&#8230;] U&#776;ber die Sprache der Aramanik sind 28 Woerter bekannt, die R.A. Maguire 1927-28:21 vor etwa fu&#776;nfzig Jahren aufnahm. Sie zeigen im Grundwortschatz (Fuss, Nase, Kopf, Mond, Nacht) Beziehungen zum Su&#776;dkuschitischen, besonders zur Iraqu-Gruppe, besitzen aber auch Wo&#776;rter, die im Masai vorkommen und vermutlich Lehnwo&#776;rter sind" (Kohler 1975:292).</pub-comments>
+              <node-type-id type="integer">10001</node-type-id>
+              <geography>Nach Maguire: Masai District of Tanganyika Territory, Kenya Masai Reserve: unter den Masai von Moipo, in der Serengeti nordwestlich des Ngorongoro, im Westen des Rift Valley bei Sanjan, Salei und Peiaya, und vermutlich auch am Nordufer des Eyasi-Sees.</geography>
+              <end-date nil="true"></end-date>
+              <created-by>gosia</created-by>
+              <pri-name>Aramanic</pri-name>
+              <creator-id type="integer">10400</creator-id>
+              <alt-names>Dorobo</alt-names>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <children type="array"/>
+              <updater-id type="integer">10400</updater-id>
+              <id type="integer">1020504</id>
+              <created-at type="datetime">2013-11-01T11:54:21-04:00</created-at>
+              <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+              <codes>aas</codes>
+              <updated-at type="datetime">2013-11-01T11:54:21-04:00</updated-at>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+              <tree-id type="integer">26098</tree-id>
+              <sureness type="integer">0</sureness>
+            </child>
+            <child>
+              <updated-by>gosia</updated-by>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <is-default type="integer">0</is-default>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-by>gosia</created-by>
+              <pri-name>Mbugu</pri-name>
+              <creator-id type="integer">10400</creator-id>
+              <alt-names></alt-names>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <children type="array">
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments>&#8220;Ma'a [&#8230;] mit u&#776;berwigend Nichtbantu-Wortschatz, der ferne Beziehungen zur Iraqu-Gruppe zeigt. Ma'a besitzt su&#776;dkuschitische Pronomina. Im Ma'a und Kimbugu ist eine Bantuisierung des Verbalsystems (verbundene Pronomina) sowie des Nominalsystems (mit Klassenpra&#776;fixen und Konkordanz) eingetretten &#8221; (Kohler 1975:292).</pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Ma'a</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names>Kimaanthi, Kimbugu</alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020506</id>
+                  <created-at type="datetime">2013-11-01T11:54:21-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>mhd, mgz</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:21-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+              </children>
+              <updater-id type="integer">10400</updater-id>
+              <id type="integer">1020505</id>
+              <created-at type="datetime">2013-11-01T11:54:21-04:00</created-at>
+              <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+              <codes>parc</codes>
+              <updated-at type="datetime">2013-11-01T11:54:21-04:00</updated-at>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>n</confidence>
+              <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+              <tree-id type="integer">26098</tree-id>
+              <sureness type="integer">0</sureness>
+            </child>
+          </children>
+          <updater-id type="integer">10400</updater-id>
+          <id type="integer">1020497</id>
+          <created-at type="datetime">2013-11-01T11:54:20-04:00</created-at>
+          <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+          <codes>scus</codes>
+          <updated-at type="datetime">2013-11-01T11:54:20-04:00</updated-at>
+          <node-status-id nil="true"></node-status-id>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+          <tree-id type="integer">26098</tree-id>
+          <sureness type="integer">1</sureness>
+        </child>
+        <child>
+          <updated-by>gosia</updated-by>
+          <other-codes></other-codes>
+          <node-type>Subgroup</node-type>
+          <is-default type="integer">0</is-default>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10000</node-type-id>
+          <geography nil="true"></geography>
+          <end-date nil="true"></end-date>
+          <created-by>gosia</created-by>
+          <pri-name>Zentralkuschitisch</pri-name>
+          <creator-id type="integer">10400</creator-id>
+          <alt-names>Agau-Sprachen</alt-names>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <children type="array">
+            <child>
+              <updated-by>gosia</updated-by>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <is-default type="integer">0</is-default>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-by>gosia</created-by>
+              <pri-name>Qwara-Awiya</pri-name>
+              <creator-id type="integer">10400</creator-id>
+              <alt-names></alt-names>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <children type="array">
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Qwara</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names></alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020434</id>
+                  <created-at type="datetime">2013-11-01T11:54:15-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>ahg-hwa</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:15-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Kaila</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names></alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020437</id>
+                  <created-at type="datetime">2013-11-01T11:54:15-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>ahg-kay</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:15-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments>"[...]vergl. J. Tubiana" (K&#246;hler 1975:290).</pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Awiya</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names></alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020438</id>
+                  <created-at type="datetime">2013-11-01T11:54:15-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>awn</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:16-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Quarasa</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names>Felasha</alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020435</id>
+                  <created-at type="datetime">2013-11-01T11:54:15-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>ahg-kwo</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:15-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Kemant</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names>Qimant</alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020436</id>
+                  <created-at type="datetime">2013-11-01T11:54:15-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>ahg</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:15-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+              </children>
+              <updater-id type="integer">10400</updater-id>
+              <id type="integer">1020433</id>
+              <created-at type="datetime">2013-11-01T11:54:15-04:00</created-at>
+              <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+              <codes>wccu</codes>
+              <updated-at type="datetime">2013-11-01T11:54:15-04:00</updated-at>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>n</confidence>
+              <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+              <tree-id type="integer">26098</tree-id>
+              <sureness type="integer">0</sureness>
+            </child>
+            <child>
+              <updated-by>gosia</updated-by>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <is-default type="integer">0</is-default>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-by>gosia</created-by>
+              <pri-name>Bilin-Khamir</pri-name>
+              <creator-id type="integer">10400</creator-id>
+              <alt-names></alt-names>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <children type="array">
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Khamir</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names>Khamta, Khamtanga</alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020432</id>
+                  <created-at type="datetime">2013-11-01T11:54:15-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>xan</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:15-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Bilin</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names>Bilen, Bogos</alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020431</id>
+                  <created-at type="datetime">2013-11-01T11:54:15-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>byn</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:15-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+              </children>
+              <updater-id type="integer">10400</updater-id>
+              <id type="integer">1020430</id>
+              <created-at type="datetime">2013-11-01T11:54:15-04:00</created-at>
+              <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+              <codes>eccu</codes>
+              <updated-at type="datetime">2013-11-01T11:54:15-04:00</updated-at>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>n</confidence>
+              <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+              <tree-id type="integer">26098</tree-id>
+              <sureness type="integer">0</sureness>
+            </child>
+          </children>
+          <updater-id type="integer">10400</updater-id>
+          <id type="integer">1020429</id>
+          <created-at type="datetime">2013-11-01T11:54:15-04:00</created-at>
+          <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+          <codes>ccus</codes>
+          <updated-at type="datetime">2013-11-01T11:54:15-04:00</updated-at>
+          <node-status-id nil="true"></node-status-id>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+          <tree-id type="integer">26098</tree-id>
+          <sureness type="integer">0</sureness>
+        </child>
+        <child>
+          <updated-by>gosia</updated-by>
+          <other-codes></other-codes>
+          <node-type>Subgroup</node-type>
+          <is-default type="integer">0</is-default>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10000</node-type-id>
+          <geography nil="true"></geography>
+          <end-date nil="true"></end-date>
+          <created-by>gosia</created-by>
+          <pri-name>Nordkuschitisch</pri-name>
+          <creator-id type="integer">10400</creator-id>
+          <alt-names></alt-names>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <children type="array">
+            <child>
+              <updated-by>gosia</updated-by>
+              <other-codes></other-codes>
+              <node-type>Language</node-type>
+              <is-default type="integer">0</is-default>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10001</node-type-id>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <created-by>gosia</created-by>
+              <pri-name>Bedauye</pri-name>
+              <creator-id type="integer">10400</creator-id>
+              <alt-names>Bedja, Bishari</alt-names>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <children type="array">
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Dialect</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Agordat</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names></alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020427</id>
+                  <created-at type="datetime">2013-11-01T11:54:15-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>bej-ben, bej-agr</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:15-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+                <child>
+                  <updated-by>gosia</updated-by>
+                  <other-codes></other-codes>
+                  <node-type>Dialect</node-type>
+                  <is-default type="integer">0</is-default>
+                  <pub-comments>"Nach Bender 1971:187" (K&#246;hler 1975:290).</pub-comments>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <created-by>gosia</created-by>
+                  <pri-name>Tesney</pri-name>
+                  <creator-id type="integer">10400</creator-id>
+                  <alt-names></alt-names>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <children type="array"/>
+                  <updater-id type="integer">10400</updater-id>
+                  <id type="integer">1020428</id>
+                  <created-at type="datetime">2013-11-01T11:54:15-04:00</created-at>
+                  <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+                  <codes>bej-tea</codes>
+                  <updated-at type="datetime">2013-11-01T11:54:15-04:00</updated-at>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <confidence>y</confidence>
+                  <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+                  <tree-id type="integer">26098</tree-id>
+                  <sureness type="integer">0</sureness>
+                </child>
+              </children>
+              <updater-id type="integer">10400</updater-id>
+              <id type="integer">1020426</id>
+              <created-at type="datetime">2013-11-01T11:54:15-04:00</created-at>
+              <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+              <codes>bej</codes>
+              <updated-at type="datetime">2013-11-01T11:54:15-04:00</updated-at>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <confidence>y</confidence>
+              <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+              <tree-id type="integer">26098</tree-id>
+              <sureness type="integer">0</sureness>
+            </child>
+          </children>
+          <updater-id type="integer">10400</updater-id>
+          <id type="integer">1020425</id>
+          <created-at type="datetime">2013-11-01T11:54:15-04:00</created-at>
+          <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+          <codes>ncus</codes>
+          <updated-at type="datetime">2013-11-01T11:54:15-04:00</updated-at>
+          <node-status-id nil="true"></node-status-id>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+          <tree-id type="integer">26098</tree-id>
+          <sureness type="integer">0</sureness>
+        </child>
+      </children>
+      <updater-id type="integer">10400</updater-id>
+      <id type="integer">1020424</id>
+      <created-at type="datetime">2013-11-01T11:54:15-04:00</created-at>
+      <publications>K&#246;hler, Oswin. 1975. Geschichte und Probleme der Gliederung der Sprachen Afrikas. In Hermann  Baumann (ed.), Die V&#246;lker Afrikas und ihre traditionellen Kulturen, 137-373. Wiesbaden: Franz Steiner Verlag GmbH. </publications>
+      <codes>cush</codes>
+      <updated-at type="datetime">2013-11-01T11:54:15-04:00</updated-at>
+      <node-status-id nil="true"></node-status-id>
+      <deleted-at nil="true"></deleted-at>
+      <confidence>y</confidence>
+      <tree-val>Kuschitisch: K&#246;hler 1975</tree-val>
+      <tree-id type="integer">26098</tree-id>
+      <sureness type="integer">0</sureness>
+    </root>
+    <description>Kuschitisch: K&#246;hler 1975</description>
+  </tree>
+</hash>

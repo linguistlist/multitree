@@ -1,0 +1,24 @@
+#NEXUS
+[MultiTree: Niger-Congo: Williamson 1989]
+BEGIN TREES;
+TRANSLATE adub 'Adamawa-Ubangi',
+afn Defaka,
+atco 'Atlantic-Congo',
+atlc Atlantic,
+bcon 'Benue-Congo',
+bija Bijago,
+dogn Dogon,
+gurx Gur,
+iby_ijc_ije_ijn_ijs_nkx_okd_okr_orr Ịjọ,
+ijoi Ijoid,
+kord Kordofanian,
+kruu Kru,
+kwaa Kwa,
+mnde Mande,
+natl North,
+ncon 'Niger-Congo',
+nvco 'North Volta-Congo',
+satl South,
+volc 'Volta-Congo';
+TREE 18935 = [&R] (((bcon,(gurx,adub)nvco,kwaa,dogn,kruu)volc,(natl,satl,bija)atlc,(iby_ijc_ije_ijn_ijs_nkx_okd_okr_orr,afn)ijoi)atco,kord,mnde)ncon;
+END;

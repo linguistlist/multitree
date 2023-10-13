@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Otomacoan: Composite]
+BEGIN TREES;
+TRANSLATE otmc Otomacoan,
+qlf Taparita,
+qpg Otomaco;
+TREE 17256 = [&R] (qpg,qlf)otmc;
+END;

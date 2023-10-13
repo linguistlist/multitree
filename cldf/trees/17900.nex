@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Central American Deaf Sign Languages: Composite]
+BEGIN TREES;
+TRANSLATE 1a4 'Original Costa Rican Sign Language',
+1ku 'Bribri Sign Language',
+1kv 'Brunca Sign Language',
+cdsl 'Central American Deaf Sign Languages',
+csf 'Cuba Sign Language',
+csr 'Costa Rican Sign Language',
+doq 'Dominican Sign Language',
+esn 'Salvadoran Sign Language',
+gsm 'Guatemalan Sign Language',
+hds 'Honduras Sign Language',
+jcs 'Jamaican Country Sign Language',
+lsp 'Panamanian Sign Language',
+mfs 'Mexican Sign Language',
+msd 'Yucatec Maya Sign Language',
+ncs 'Nicaraguan Sign Language',
+psl 'Puerto Rican Sign Language';
+TREE 17900 = [&R] (csf,esn,gsm,hds,csr,mfs,jcs,doq,msd,ncs,psl,lsp,1ku,1kv,1a4)cdsl;
+END;

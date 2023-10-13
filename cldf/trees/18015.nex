@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Misumalpan: Composite]
+BEGIN TREES;
+TRANSLATE ccr Kakaopera,
+miq Miskitu,
+misu Misumalpan,
+mtn Matagalpa,
+mtnl Matagalpa,
+ulw Ulwa,
+yan Mayangna;
+TREE 18015 = [&R] (yan,(ccr,mtn)mtnl,miq,ulw)misu;
+END;

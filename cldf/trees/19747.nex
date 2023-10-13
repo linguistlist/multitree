@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Northern Daly: Tryon 2007]
+BEGIN TREES;
+TRANSLATE mlgp 'Northern Daly',
+mpb Malakmalak,
+woa Tyeraity;
+TREE 19747 = [&R] (mpb,woa)mlgp;
+END;

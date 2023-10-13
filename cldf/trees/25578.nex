@@ -1,0 +1,27 @@
+#NEXUS
+[MultiTree: Western Miao dialects, subtree of Hmong-Mien: Castro, Flaming & Luo 2012]
+BEGIN TREES;
+TRANSLATE 88b 'Southern Hua Miao',
+9gs 'Northern Hua Miao',
+chua 'Chuan-Qian-Dian',
+cqd_blh 'Black Miao',
+cqd_bua 'Hmong Buak',
+cqd_dan 'Standard Western Miao',
+cqd_dle 'Hmong Dlex Nchab',
+cqd_dlo 'Hmong Dlob',
+cqd_hbe 'Hmong Bes',
+cqd_ndr 'Hmong Ndrous',
+cqd_sou 'Hmong Soud',
+cqdn 'Farwestern Miao',
+hmon Miao,
+hmz 'Hmong Shuat',
+hmz_sat 'Hmong Sat',
+hnj 'Hmong Lens',
+hnj_shi 'Hmong Shib',
+mww 'White Miao',
+mww_dle 'Hmong Dleub',
+qian Qiandong,
+wmia 'Western Miao',
+xian Xiangxi;
+TREE 25578 = [&R] (((((cqd_sou,cqd_hbe,(cqd_dlo,cqd_bua)cqd_blh,cqd_ndr,cqd_dan)9gs,(hnj,hnj,cqd_dle,hnj_shi)88b,(mww_dle)mww)cqdn,(hmz,hmz_sat)hmz)wmia)chua,xian,qian)hmon;
+END;

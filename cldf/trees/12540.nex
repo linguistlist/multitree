@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Dene-Yeniseic Hypothesis 2: Comrie 2008]
+BEGIN TREES;
+TRANSLATE atha Athapaskan,
+athe 'Athapaskan-Eyak',
+deye 'Dene-Yeniseic',
+eyak Eyak,
+tlin Tlingit,
+tlye 'Tlingit-Yeniseic',
+yeos Yeniseic;
+TREE 12540 = [&R] ((atha,eyak)athe,(yeos,tlin)tlye)deye;
+END;

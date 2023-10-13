@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: East New Britain: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE bait 'East New Britain',
+bing Baining,
+byx Qaqet,
+ckr Kairak,
+gcc Mali,
+smg Simbali,
+taul Taulil,
+tuh Taulil,
+tuh_tau Taulil,
+uro Ura,
+zmh Makolkol;
+TREE 21205 = [&R] ((byx,smg,uro,gcc,zmh,ckr)bing,((tuh_tau)tuh)taul)bait;
+END;

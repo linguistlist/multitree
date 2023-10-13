@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Quechuan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE inb Inga,
+quch Quechuan,
+qug 'Quechua (Ecuadorean)',
+quh_coc 'Quechua (Cochabamba)',
+quh_qul 'Quechua (Bolivian)',
+quy 'Quechua (Ayacucho)',
+quz 'Quechua (Cuzco)',
+qvc 'Quechua (Cajamarca)',
+qvh 'Quechua (Huallaga)',
+qvi 'Quechua (Imbabura)',
+qvn 'Quechua (Tarma)',
+qxa 'Quechua (Ancash)';
+TREE 10721 = [&R] (inb,qxa,quy,quh_qul,qvc,quh_coc,quz,qug,qvh,qvi,qvn)quch;
+END;

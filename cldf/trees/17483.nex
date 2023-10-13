@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Mascoyan: Composite]
+BEGIN TREES;
+TRANSLATE aqt Angaité,
+enl Enlhet,
+enx Enxet,
+gva Guaná,
+masc Mascoyan,
+spn Sanapaná,
+tmf Enenlhet;
+TREE 17483 = [&R] (enl,tmf,spn,aqt,gva,enx)masc;
+END;

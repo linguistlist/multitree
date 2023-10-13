@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Omotic Hypothesis 2: Bender 1975]
+BEGIN TREES;
+TRANSLATE afas Afroasiatic,
+afsm Semitic,
+berb Berber,
+chad Chadic,
+cush Cushitic,
+egyp Egyptian,
+omot Omotic;
+TREE 12676 = [&R] ((egyp,chad,berb)afsm,(cush)omot)afas;
+END;

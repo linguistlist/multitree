@@ -1,0 +1,33 @@
+#NEXUS
+[MultiTree: Langues Afro-Asiatiques: Delafosse 1914]
+BEGIN TREES;
+TRANSLATE 148 Kounti,
+568 Mascatais,
+aar Afar,
+aeb_arq_ary Maghrébin,
+afas 'Langues Afro-Asiatiques',
+afet Éthiopique,
+afsm 'Groupe sémitique',
+amh Amharique,
+arb Arabe,
+auj_cnu_gha_gho_gnc_grr_jbe_jbn_kab_mzb_nxm_oua_rif_sds_shi_shy_siz_sjs_swn_taq_thv_thz_tia_tjo_ttq_tzm_zen Berbère,
+ayl_tri Tripolitain,
+bej Bedja,
+berb 'Groupe hamito-berbère',
+cush 'Groupe hamito-kouchitique',
+gax Galla,
+har Harrari,
+kab Kabyle,
+mcn Massaï,
+mey Hassani,
+prar Arabique,
+rif Rifain,
+shi Chleuh,
+shu Tchadien,
+shy Chaouïa,
+som Somali,
+taq_thv_thz_ttq Tamacheq,
+tig Tigraï,
+zen Zénéga;
+TREE 24579 = [&R] ((mcn,som,bej,aar,gax)cush,((rif,shy,zen,shi,kab)auj_cnu_gha_gho_gnc_grr_jbe_jbn_kab_mzb_nxm_oua_rif_sds_shi_shy_siz_sjs_swn_taq_thv_thz_tia_tjo_ttq_tzm_zen,taq_thv_thz_ttq)berb,(((shu,148,mey,ayl_tri,568,aeb_arq_ary)arb)prar,(har,amh,tig)afet)afsm)afas;
+END;

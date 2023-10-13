@@ -1,0 +1,38 @@
+#NEXUS
+[MultiTree: South American Unclassified Languages: Composite]
+BEGIN TREES;
+TRANSLATE 0z6 Calchaquí,
+1kq 'Isolado do Tanarú',
+1kr 'Isolados do Massaco',
+aga Aguano,
+ash Abishira,
+avo Agavotaguerra,
+axg 'Arára, Mato Grosso',
+cbe Chipiajes,
+cbh Cagua,
+cby Carabayo,
+hir Himarimã,
+iap Iapama,
+kox Coxima,
+nts Natagaimas,
+pax Pankararé,
+pij Pijao,
+pth 'Pataxó-Hãhaãi',
+saun 'South American Unclassified',
+swo Shenenawa,
+tbb Tapeba,
+tgv 'Tingui-Boto',
+tka Truká,
+tme Tremembé,
+urp 'Uru-Pa-In',
+waf Wakoná,
+wsu Wasu,
+xai Kaimbé,
+xba Kamba,
+xbw Kambiwá,
+xkh Karahawyana,
+xor Korubo,
+xpn Kapinawá,
+yri Yarí;
+TREE 14691 = [&R] (xpn,xai,ash,tme,xba,nts,xbw,iap,wsu,tgv,pth,cby,avo,yri,xor,axg,aga,waf,pij,hir,cbe,pax,urp,tbb,kox,cbh,tka,xkh,swo,1kq,1kr,0z6)saun;
+END;

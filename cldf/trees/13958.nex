@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Arai (Left May) Minor Phylum: Wurm 1982]
+BEGIN TREES;
+TRANSLATE amm Ama,
+bpw Bo,
+itr Iteri,
+lema Arai,
+nax Nakwi,
+niw Nimo,
+niw_niw 'Nimo-Wasnai',
+owi Owiniga;
+TREE 13958 = [&R] ((niw_niw,nax)niw,owi,amm,itr,bpw,itr)lema;
+END;

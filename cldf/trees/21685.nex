@@ -1,0 +1,23 @@
+#NEXUS
+[MultiTree: Japonic: Ethnologue 2013]
+BEGIN TREES;
+TRANSLATE amok 'Amami-Okinawan',
+ams 'Amami-Oshima, Southern',
+japc_japo Japonic,
+jpn Japanese,
+kzg Kikai,
+mvi Miyako,
+naok 'Northern Amami-Okinawan',
+okn 'Oki-No-Erabu',
+ryn 'Amami-Oshima, Northern',
+rys Yaeyama,
+ryu 'Okinawan, Central',
+ryuk Ryukyuan,
+saki Sakishima,
+saok 'Southern Amami-Okinawan',
+tkn 'Toku-No-Shima',
+xug Kunigami,
+yoi Yonaguni,
+yox Yoron;
+TREE 21685 = [&R] (((mvi,rys,yoi)saki,((yox,ryu,okn,xug)saok,(tkn,kzg,ams,ryn)naok)amok)ryuk,jpn)japc_japo;
+END;

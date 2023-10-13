@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Tiwian: Composite]
+BEGIN TREES;
+TRANSLATE 1kk 'Young People''s Tiwi',
+tiw Tiwi,
+tiwn Tiwian;
+TREE 19827 = [&R] ((1kk)tiw)tiwn;
+END;

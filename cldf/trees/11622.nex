@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: South American Mixed Language: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE caw Callawalla,
+irro 'Iberian-Romani',
+mue 'Media Lengua',
+qpuq 'Quechua-Puquina',
+rmq_bra 'Brazilian Calão',
+rmr Caló,
+saml 'South American Mixed Language',
+spqu 'Spanish-Quechua';
+TREE 11622 = [&R] ((mue)spqu,((rmq_bra)rmr)irro,(caw)qpuq)saml;
+END;

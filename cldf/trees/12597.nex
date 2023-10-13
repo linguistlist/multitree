@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Scythian: Rask 1834]
+BEGIN TREES;
+TRANSLATE cauc 'kavkasiske Sprog',
+chka Tshuktsherne,
+eski Grönlandsk,
+eus Vaskisk,
+mong Mongolsk,
+scyt 'Skytiske Æt',
+tung Tungusisk,
+turk Tatarisk,
+urlc 'Finsk-Samojedisk';
+TREE 12597 = [&R] (cauc,eus,eski,chka,mong,tung,turk,urlc)scyt;
+END;

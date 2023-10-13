@@ -1,0 +1,24 @@
+#NEXUS
+[MultiTree: Pwo Karen dialects, subtree of Sino-Tibetan: Phillips 1996]
+BEGIN TREES;
+TRANSLATE blk 'Pa-O',
+bodi Bodish,
+bric_brmc_burm Burmic,
+chin_sntc Sinitic,
+ckrn '"Central Karenic"',
+eky_kyu Kayah,
+gkh Kekhu,
+kare Karenic,
+kjp Pwo,
+kjp_kan Ongsit,
+kjp_rat Songphinong,
+ksw Sgaw,
+kvl Bre,
+kvq Geba,
+kvy Yangtalai,
+kxk Zayein,
+nico Baric,
+sitb 'Sino-Tibetan',
+tbur 'Tibeto-Burman';
+TREE 21105 = [&R] (((blk,(kvl,kvy,gkh,kvq,kxk,eky_kyu)ckrn,((kjp_rat,kjp_rat)kjp_rat,(kjp_kan,kjp_kan)kjp_kan)kjp,ksw)kare,bric_brmc_burm,bodi,nico)tbur,chin_sntc)sitb;
+END;

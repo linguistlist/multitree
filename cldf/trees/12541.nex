@@ -1,0 +1,23 @@
+#NEXUS
+[MultiTree: Hamitische: Lepsius 1880]
+BEGIN TREES;
+TRANSLATE aar Danakäli,
+ahg Falaša,
+berb 'Libysche Sprachen',
+cop Koptisch,
+cush 'Kuschitische Sprachen',
+egy Altägyptisch,
+egyp Aegyptisch,
+guk Bega,
+hamc 'Hamitische Sprachen',
+hau Hausa,
+kab Kabylisch,
+ktz Agau,
+naq Hottentottisch,
+orc Galla,
+som Somali,
+ssy Šoho,
+taq Amäšey,
+ttq Tuareg;
+TREE 12541 = [&R] ((ahg,orc,ssy,ktz,som,guk,aar,naq)cush,((kab,taq)ttq,hau)berb,(cop,egy)egyp)hamc;
+END;

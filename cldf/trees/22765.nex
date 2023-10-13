@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Sepik Area Isolates: Laycock 1973]
+BEGIN TREES;
+TRANSLATE 1zj Erem,
+1zk Aramaue,
+amt Amto,
+bhf Busa,
+mmp Musian,
+mrf Morwap,
+nce Nagatman,
+ocis 'Sepik Area Isolates',
+pnn Pinai,
+tmd Wiyaw,
+yuj Yuri;
+TREE 22765 = [&R] (tmd,bhf,mrf,yuj,pnn,mmp,nce,1zk,1zj,amt)ocis;
+END;

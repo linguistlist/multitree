@@ -1,0 +1,20 @@
+#NEXUS
+[MultiTree: Lower Sepik-Ramu: Dryer 2005]
+BEGIN TREES;
+TRANSLATE anna Annaberg,
+can Chambri,
+geb Kire,
+grpr Botin,
+kbx Kambot,
+kct Kaian,
+lser 'Lower Sepik-Ramu',
+mise Mikarew,
+msy Mikarew,
+mtf Murik,
+norp 'Lower Sepik',
+rao Rao,
+rubo 'Lower Ramu',
+wax Watam,
+yee Yimas;
+TREE 13255 = [&R] ((rao)anna,(kbx)grpr,(geb)mise,(yee,can,mtf)norp,(wax,kct,msy)rubo)lser;
+END;

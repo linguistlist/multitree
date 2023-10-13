@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Juu-ǂHoan: Composite]
+BEGIN TREES;
+TRANSLATE aue 'ǂKx''au||''ein',
+aue_nog Nogau,
+gfx 'Mangetti Dune !Xung',
+huaa 'Juu-ǂHoan',
+huc ǂHoan,
+huc_hua ǂHua,
+huc_sas Sasi,
+juuu Juu,
+knw !Xun,
+knw_akh Akhoe,
+ktz 'Ju|''hoan',
+ktz_dzu 'Dzu''oasi',
+ktz_nog Nogau,
+mwj Maligo,
+oun !O!ung,
+vaj 'Vasekela Bushman';
+TREE 12576 = [&R] ((vaj,(knw_akh)knw,oun,(ktz_nog,ktz_dzu)ktz,mwj,gfx,(aue_nog)aue)juuu,(huc_hua,huc_sas)huc)huaa;
+END;

@@ -1,0 +1,28 @@
+#NEXUS
+[MultiTree: Sahaptian: Mithun 1999]
+BEGIN TREES;
+TRANSLATE nez 'Nez Perce',
+nez_low Downriver,
+nez_upp Upriver,
+qot Sahaptin,
+shap Sahaptian,
+tqn Tenino,
+tqn_cel Celilo,
+tqn_joh 'John Day',
+tqn_roc 'Rock Creek',
+tqn_tyg 'Tygh Valley',
+tqn_uma Umatilla,
+waa Northeastern,
+waa_cha Chamnapam,
+waa_lsn 'Lower Snake',
+waa_nax Naxiyampam,
+waa_pal Palouse,
+waa_wal 'Walla Walla',
+waa_wan Wanapam,
+waa_waw Wawyukma,
+yak Klikitat,
+yak_kit Kittitas,
+yak_nis 'Upper Nisqually',
+yak_upp 'Upper Cowlitz';
+TREE 11828 = [&R] (((tqn_roc,tqn_uma,tqn_cel,tqn,tqn_tyg,tqn_joh)tqn,(waa_wal,(waa_waw,waa_nax,waa_cha)waa_lsn,waa_wan,waa_pal)waa,(yak_upp,yak,yak,yak_kit,yak_nis)yak)qot,(nez_low,nez_upp)nez)shap;
+END;

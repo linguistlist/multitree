@@ -1,0 +1,25 @@
+#NEXUS
+[MultiTree: Makúan: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE 07f 'Roçando Nadëb',
+07g 'Rio Negro Nadëb',
+cbv Kakua,
+cbv_mac 'Macú-Paraná Cacua',
+cbv_vau 'Vaupés Cacua',
+dahy 'Dâw-Hudpa-Yuhup',
+emak 'Eastern Makúan',
+huyu 'Hupda-Yuhup',
+jup Hupda,
+jup_hup Hupdë,
+jup_neh Nëhup,
+jup_tuh Tuhup,
+kaku Kakua,
+kwa Dâw,
+maku Makúan,
+mbj Nadëb,
+mbr Nukak,
+pui Puinave,
+wmau 'Western Makúan',
+yab Yuhud;
+TREE 21947 = [&R] ((((cbv_vau,cbv_mac)cbv,mbr)kaku,pui)wmau,((07g,07f)mbj,(((jup_neh,jup_hup,jup_tuh)jup,yab)huyu,kwa)dahy)emak)maku;
+END;

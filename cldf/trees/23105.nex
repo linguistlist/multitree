@@ -1,0 +1,34 @@
+#NEXUS
+[MultiTree: Wakashan: Ethnologue 2013]
+BEGIN TREES;
+TRANSLATE dtd Ditidaht,
+has Haisla,
+has_kit Kitimat,
+hei Heiltsuk,
+hei_bel 'Bella Bella',
+hei_oow Oowekyala,
+kwak Kwakuitlan,
+kwk Kwakiutl,
+myh Makah,
+noo_aho Ahousaht,
+noo_che Cheklesaht,
+noo_eha Ehattesaht,
+noo_hes Hesquiaht,
+noo_hup Hupacasath,
+noo_huu 'Huu-ay-aht',
+noo_kyu Kyuquot,
+noo_mow Mowachaht,
+noo_mul Muchalaht,
+noo_nuc Nuchatlaht,
+noo_she Tseshaht,
+noo_tla 'Tla-o-qui-aht',
+noo_toq Toquaht,
+noo_uch Uchucklesaht,
+noo_ucl Ucluelet,
+ntkn Nootkan,
+nuk 'Nuu-chah-nulth',
+nwak 'Northern Wakashan',
+swak 'Southern Wakashan',
+waka Wakashan;
+TREE 23105 = [&R] (((noo_tla,noo_hes,noo_she,noo_huu,noo_aho,noo_nuc,noo_kyu,noo_mul,noo_hup,noo_uch,noo_toq,noo_ucl,noo_mow,noo_eha,noo_che)nuk,(myh)ntkn,dtd)swak,(((hei_bel,hei_oow)hei,kwk)kwak,(has_kit)has)nwak)waka;
+END;

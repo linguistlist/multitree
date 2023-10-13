@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Bulaka River: Dryer 2005]
+BEGIN TREES;
+TRANSLATE bulr 'Bulaka River',
+jel Yelmek,
+mgf Maklew;
+TREE 12147 = [&R] (mgf,jel)bulr;
+END;

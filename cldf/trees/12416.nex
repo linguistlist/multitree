@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Tequistlatecan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE chd 'Chantal (Highland)',
+clo 'Chontal (Huamelultec Oaxaca)',
+tequ Tequistlatecan;
+TREE 12416 = [&R] (clo,chd)tequ;
+END;

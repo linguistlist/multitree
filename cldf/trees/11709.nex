@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Palaihnihan: Mithun 1999]
+BEGIN TREES;
+TRANSLATE acv Achumawi,
+acv_aju Ajumawi,
+acv_ast Astariwawi,
+acv_atw Atwamsini,
+acv_dow Downriver,
+acv_ham Hammawi,
+acv_hew Hewisedawi,
+acv_ilm Ilmawi,
+acv_its Itsatawi,
+acv_mad Madesiwi,
+acv_qos Qosalektawi,
+acv_upr Upriver,
+atw Atsugewi,
+atw_apw Apwaruge,
+atw_ats Atsuge,
+palh Palaihnihan;
+TREE 11709 = [&R] (((acv_ast,acv_atw,acv_hew,acv_ham,acv_qos)acv_upr,(acv_mad,acv_its,acv_ilm,acv_aju)acv_dow)acv,(atw_ats,atw_apw)atw)palh;
+END;

@@ -1,0 +1,20 @@
+#NEXUS
+[MultiTree: Proto-North-Asiatic: Street 1962]
+BEGIN TREES;
+TRANSLATE ain Ainu,
+altc 'Proto-Altaic',
+chv Chuvash,
+ealt 'Proto-East-Altaic',
+jpn Japanese,
+koja 'Proto-Korean-Japanese',
+kor Korean,
+mong 'Mongolian languages',
+nasa 'Proto-North-Asiatic',
+pjka 'Proto-Korean-Japanese-Ainu',
+ptun 'Proto-Tungusic',
+tung 'Tungusic languages',
+turk 'Turkic languages',
+walt 'Proto-West-Altaic',
+zdtk 'Proto-Turkic';
+TREE 13258 = [&R] ((((turk)zdtk,chv)walt,((mong)mong,(tung)ptun)ealt)altc,((kor,jpn)koja,ain)pjka)nasa;
+END;

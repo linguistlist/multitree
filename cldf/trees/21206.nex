@@ -1,0 +1,38 @@
+#NEXUS
+[MultiTree: Eastern Trans-Fly: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE bon Bine,
+bon_boz 'Boze-Giringarede',
+bon_iru 'Irupi-Drageli',
+bon_kun Kunini,
+bon_mas Masingle,
+bon_seb Sebe,
+bon_sog Sogal,
+bon_tat Tate,
+etfl 'Eastern Trans-Fly',
+gdr Wipi,
+gdr_aba Abam,
+gdr_dor Dorogori,
+gdr_gam Gamaewe,
+gdr_gui Guiam,
+gdr_iam Iamega,
+gdr_kap Kapal,
+gdr_kur Kuru,
+gdr_pea Peawa,
+gdr_pod Podari,
+gdr_rua Rual,
+gdr_ume Ume,
+gdr_wip Wipim,
+gdr_woi Woigo,
+gdr_won Wonie,
+gdr_yut Yuta,
+tof Gizrra,
+tof_wai Waidoro,
+tof_wes 'Western Gizra',
+ulk Meriam,
+ulk_boi Boigu,
+ulk_bug Buglial,
+ulk_bul Bulgai,
+ulk_tag Tagota;
+TREE 21206 = [&R] ((gdr_pea,gdr_woi,gdr_ume,gdr_kap,gdr_wip,gdr_pod,gdr_gui,gdr_won,gdr_dor,gdr_gam,gdr_kur,gdr_rua,gdr_yut,gdr_iam,gdr_aba)gdr,(tof_wes,tof_wai)tof,(bon_iru,bon_boz,bon_kun,bon_seb,bon_tat,bon_mas,bon_sog)bon,(ulk_tag,ulk_bul,ulk_boi,ulk_bug)ulk)etfl;
+END;

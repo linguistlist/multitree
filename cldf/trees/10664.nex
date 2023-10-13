@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Totonacan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE tee Tepehua,
+tlc 'Totonac (Misantla)',
+too 'Totonac (Xicotepec de Juárez)',
+top 'Totonac (Papantla)',
+tos 'Totonac (Sierra)',
+toto Totonacan;
+TREE 10664 = [&R] (tee,tlc,top,tos,too)toto;
+END;

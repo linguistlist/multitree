@@ -1,0 +1,20 @@
+#NEXUS
+[MultiTree: African Unclassified Languages: Composite]
+BEGIN TREES;
+TRANSLATE afun 'African Unclassified',
+bqd Bung,
+gdm Laal,
+gdm_lab Laabe,
+gdm_lal Laal,
+gic Gail,
+kah Kara,
+ldq Lufu,
+luw Luo,
+rer 'Rer Bare',
+wma Mawa,
+woy Weyto,
+xmr Meroitic,
+yax Yauma,
+yei Yeni;
+TREE 11942 = [&R] (wma,woy,gic,xmr,luw,ldq,(gdm_lal,gdm_lab)gdm,yax,yei,kah,rer,bqd)afun;
+END;

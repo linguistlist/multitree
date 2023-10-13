@@ -1,0 +1,28 @@
+#NEXUS
+[MultiTree: Mayan: Gatschet 1895, according to Campbell 1973]
+BEGIN TREES;
+TRANSLATE agu Aquacatan,
+caa Chorti,
+cak Cakchiquel,
+chf Chontal,
+chtz 'Tzental group',
+ctu Chol,
+hus Huastec,
+ixil_mame 'Mam-group',
+ixl Ixil,
+katz_quic 'Quiché group',
+kek 'K''ek''chi',
+mam Mam,
+maya Mayan,
+poc Pokomam,
+poco 'Pokom group',
+poh Pokomchí,
+quc 'Kiché proper',
+toj Chañabal,
+tzh Tzental,
+tzj 'Tz''utujil',
+tzo Tzotzil,
+usp Uspantec,
+yua 'Maya proper';
+TREE 21186 = [&R] ((mam,agu,ixl)ixil_mame,(caa,poc,kek,usp,poh)poco,(chf,tzh,ctu,toj,tzo)chtz,(cak,tzj,quc)katz_quic,yua,hus)maya;
+END;

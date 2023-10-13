@@ -1,0 +1,19 @@
+#NEXUS
+[MultiTree: Torricelli: Dryer 2005]
+BEGIN TREES;
+TRANSLATE aah 'Arapesh (Abu)',
+aon_ape Arapesh,
+aun One,
+avt Au,
+koar 'Kombio-Arapesh',
+niz Ningil,
+ong Olo,
+torr Torricelli,
+uri Urim,
+urim Urim,
+van Walman,
+wapa 'Wapei-Palei',
+wwap 'West Wapei',
+yll Yil;
+TREE 14897 = [&R] ((aon_ape,aah)koar,(uri)urim,(yll,van,ong,niz,avt)wapa,(aun)wwap)torr;
+END;

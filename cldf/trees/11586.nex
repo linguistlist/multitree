@@ -1,0 +1,36 @@
+#NEXUS
+[MultiTree: South American Language Isolates: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE ano Andoque,
+auc Waorani,
+cas Tsimané,
+caz Canichana,
+cbu 'Candoshi-Shapra',
+cbu_cha Chapara,
+cbu_kan Kandoashi,
+cyb Cayubaba,
+ito Itonama,
+kbh Camsá,
+lec Leco,
+myr Muniche,
+mzp Movima,
+paz Pankararú,
+pbb Páez,
+pbb_pan Paniquita,
+pbb_pit Pitayo,
+pue Puelche,
+pui Puinave,
+saso 'South American Language Isolate',
+tca Ticuna,
+tit Tinigua,
+tpy Trumaí,
+trr Taushiro,
+tud Tuxá,
+ura Urarina,
+wba Warao,
+yag Yámana,
+yuz Yuracare,
+yuz_man Mansinyo,
+yuz_sol Soloto;
+TREE 11586 = [&R] ((yuz_man,yuz_sol)yuz,wba,pue,(cbu_kan,cbu_cha)cbu,cyb,(pbb_pan,pbb_pit)pbb,ano,tud,mzp,ura,auc,pui,ito,myr,caz,kbh,tpy,tca,yag,tit,trr,paz,cas,lec)saso;
+END;

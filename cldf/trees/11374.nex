@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Dravidian: Emeneau 1962]
+BEGIN TREES;
+TRANSLATE brh Brahui,
+drav Dravidian,
+kmj_mjt Malto,
+kru_kxl Kurukh,
+kuik 'Kui-Kuvi',
+ndrv 'North Dravidian',
+qffe 'Dravidian Proper',
+xeui 'Kurukh-Malto';
+TREE 11374 = [&R] ((((kru_kxl,kmj_mjt)xeui,brh)ndrv)qffe,kuik)drav;
+END;

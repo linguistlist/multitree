@@ -1,0 +1,29 @@
+#NEXUS
+[MultiTree: West Papuan Phylum: Voorhoeve 1975]
+BEGIN TREES;
+TRANSLATE akc_amb Amberbaken,
+akc_keb Kebar,
+ayz Brat,
+bird 'Bird''s Head Super-Stock',
+cbhe 'Central Bird''s Head Family',
+had Hattam,
+hatt 'Borai-Hattam sub-phylum level Family',
+keba 'Amberbaken stock-level Family',
+kgr_abi Madik,
+kgr_abt_kgr_kar 'Karon Pantai',
+kgw 'Karon Dori',
+kps Tehit,
+kwtk 'Kuwani-Tehit-Kalabra',
+kzz Kalabra,
+msg Moraid,
+mxn Moi,
+mxn_mos Mosana,
+mxn_yaf Waipu,
+nbhe 'North Bird''s Head Family',
+ncbh 'Central Bird''s Head Stock',
+qqz Kuwani,
+sbg Seget,
+wbhe 'West Bird''s Head Family',
+wpap 'West Papuan Phylum';
+TREE 22626 = [&R] ((had,had)hatt,(((kzz,kps,qqz)kwtk,msg,(mxn_mos,mxn_yaf)mxn,sbg)wbhe,((ayz,kgw)cbhe,(kgr_abi,kgr_abt_kgr_kar)nbhe)ncbh)bird,(akc_amb,akc_keb)keba)wpap;
+END;

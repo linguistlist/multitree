@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Yukian:  Zisa 1970]
+BEGIN TREES;
+TRANSLATE nyuk 'North Yukian Subfamily',
+syuk 'South Yukian Subfamily',
+wao Wappo,
+yuk Yuki,
+yuk_coa 'Coast Yuki',
+yuk_huc Huchnom,
+yuki 'Yukian Family';
+TREE 15339 = [&R] ((yuk_coa,yuk_huc,yuk)nyuk,(wao)syuk)yuki;
+END;

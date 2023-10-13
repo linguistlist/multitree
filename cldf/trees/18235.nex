@@ -1,0 +1,35 @@
+#NEXUS
+[MultiTree: Iroquoian: Composite]
+BEGIN TREES;
+TRANSLATE cay Cayuga,
+chr Cherokee,
+chr_eas 'Eastern Cherokee',
+chr_wes 'Western Cherokee',
+exap 'Lake Iroquoian',
+iroq Iroquoian,
+lptd 'Iroquois Proper',
+lre Laurentian,
+moh Mohawk,
+moh_ahk Ahkwesahsne,
+moh_kah Kahnawake,
+moh_kan Kanehsatake,
+moh_ohs Ohsweken,
+moh_tha Thayendinaga,
+moh_wah Wahta,
+niro 'Northern Iroquoian',
+ntw_nwy Meherrin,
+one Oneida,
+one_gre 'Green Bay',
+one_sou Southwold,
+ono Onondaga,
+qeb Neutral,
+qgl Erie,
+qgv Wenro,
+see Seneca,
+siro 'Southern Iroquoian',
+sqn Susquehannock,
+tuno 'Tuscarora-Nottoway',
+tus Tuscarora,
+wya_wya_hur 'Huron-Wyandot';
+TREE 18235 = [&R] (((((one_gre,one_sou)one,(moh_ohs,moh_kah,moh_kan,moh_tha,moh_wah,moh_ahk)moh,qgv,qgl,cay,ono,sqn,qeb,see)lptd,lre,wya_wya_hur)exap,(ntw_nwy,tus,ntw_nwy)tuno)niro,((chr_wes,chr_eas)chr)siro)iroq;
+END;

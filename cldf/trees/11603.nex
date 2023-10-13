@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: Japanese: Dryer 2005]
+BEGIN TREES;
+TRANSLATE japo Japanese,
+jpn Japanese;
+TREE 11603 = [&R] (jpn)japo;
+END;

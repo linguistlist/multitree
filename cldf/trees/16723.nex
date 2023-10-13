@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Kalapuyan: Golla, Goddard, Campbell, Mithun, Mixco 2007]
+BEGIN TREES;
+TRANSLATE kalp Kalapuyan,
+kyl 'Central Kalapuyan',
+nrt 'Ktualatin-Yamhill',
+sxk Yoncalla;
+TREE 16723 = [&R] (sxk,kyl,nrt)kalp;
+END;

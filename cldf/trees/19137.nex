@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Macro-Warpean cluster: Campbell 1997]
+BEGIN TREES;
+TRANSLATE cvf Yahahí,
+ffg Bohurá,
+hrpe Warpe,
+mrmt 'Mura-Matanawian',
+mura Muran,
+mwcl 'Macro-Warpean Cluster',
+myp Pirahã,
+myp_mur Mura,
+qbt Huarpe,
+qfu Matanawí,
+qgb Millcayac;
+TREE 19137 = [&R] (((myp,ffg,cvf,myp_mur)mura,qfu)mrmt,(qgb,qbt)hrpe)mwcl;
+END;

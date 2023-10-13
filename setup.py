@@ -15,9 +15,14 @@ setup(
         ]
     },
     install_requires=[
-        'python-nexus',
+        'commonnexus>=1.7',
+        'unidecode',
         'lxml',
         'cldfbench',
+        'commonnexus',
+        'pycldf',
+        'clldutils',
+        'newick',
     ],
     extras_require={
         'test': [

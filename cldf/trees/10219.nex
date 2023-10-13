@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Mura: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE mura Mura,
+myp Pirahã,
+myp_mur Múra;
+TREE 10219 = [&R] ((myp_mur)myp)mura;
+END;

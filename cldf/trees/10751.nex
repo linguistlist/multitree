@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Chukotko-Kamchatkan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE alr Alutor,
+chka 'Chukotko-Kamchatkan',
+ckt Chukchi,
+itl Itelmen,
+kpy Koryak,
+krk Kerek,
+nchk 'Northern Chukotko-Kamchatkan',
+schk 'Southern Chukotko-Kamchatkan';
+TREE 10751 = [&R] ((alr,ckt,krk,kpy)nchk,(itl)schk)chka;
+END;

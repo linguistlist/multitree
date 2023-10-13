@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Giimbiyu: Composite]
+BEGIN TREES;
+TRANSLATE err Erre,
+giim Giimbiyu,
+mgrc Mangerri,
+unig Urninganggic,
+urc Urningangg,
+zme Mangerri;
+TREE 25237 = [&R] ((err,urc)unig,(zme)mgrc)giim;
+END;

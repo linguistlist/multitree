@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Wappo-Yukian: Dryer 2005]
+BEGIN TREES;
+TRANSLATE wao Wappo,
+wapp Wappo,
+yuk Yuki,
+yuki Yukian,
+yuwa 'Wappo-Yukian';
+TREE 15338 = [&R] ((wao)wapp,(yuk)yuki)yuwa;
+END;

@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Kong-Saharan: Gregersen 1972]
+BEGIN TREES;
+TRANSLATE kfpr Kordofanian,
+kosa 'Kongo-Saharan',
+ncon Niger,
+nilc Nilotic,
+nkrd 'Niger-Kordofanian',
+nsah 'Nilo-Saharan',
+saha Saharan;
+TREE 25279 = [&R] ((nilc,saha)nsah,(kfpr,ncon)nkrd)kosa;
+END;

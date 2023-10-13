@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Muskogean: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE akz Alabama,
+cho Choctaw,
+cic Chickasaw,
+cku Koasati,
+emsk Eastern,
+mik Mikasuki,
+mik_hit Hitchiti,
+mik_mik Mikasuki,
+mus Muskogee,
+mus_cre Creek,
+mus_sem Seminole,
+musk Muskogean,
+wmsk Western;
+TREE 10220 = [&R] ((akz,cku,(mik_hit,mik_mik)mik,(mus_cre,mus_sem)mus)emsk,(cic,cho)wmsk)musk;
+END;

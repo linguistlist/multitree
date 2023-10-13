@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <sureness type="integer">0</sureness>
+      <node-type>Subgroup</node-type>
+      <other-codes></other-codes>
+      <node-type-id type="integer">10000</node-type-id>
+      <start-date nil="true"></start-date>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <is-default type="integer">0</is-default>
+      <updated-by>joe_leif</updated-by>
+      <updater-id type="integer">10740</updater-id>
+      <tree-val>Cholon: Dryer 2005</tree-val>
+      <geography nil="true"></geography>
+      <confidence>y</confidence>
+      <codes>chln</codes>
+      <pri-name>Chol&#243;n</pri-name>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <alt-names></alt-names>
+      <updated-at type="datetime">2009-05-19T17:51:03-04:00</updated-at>
+      <id type="integer">418099</id>
+      <end-date nil="true"></end-date>
+      <deleted-at nil="true"></deleted-at>
+      <children type="array">
+        <child>
+          <sureness type="integer">0</sureness>
+          <node-type>Language</node-type>
+          <other-codes>cln</other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <updater-id type="integer">10740</updater-id>
+          <tree-val>Cholon: Dryer 2005</tree-val>
+          <geography>Country: Peru; Lat.: -8; Long.: -77.5</geography>
+          <confidence>y</confidence>
+          <codes>cht</codes>
+          <pri-name>Chol&#243;n</pri-name>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-05-19T17:51:03-04:00</updated-at>
+          <id type="integer">418100</id>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+          <children type="array"/>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637. New York: Oxford University Press. ISBN 0199255911</publications>
+          <tree-id type="integer">12453</tree-id>
+          <created-at type="datetime">2009-05-19T17:51:03-04:00</created-at>
+        </child>
+      </children>
+      <status nil="true"></status>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637. New York: Oxford University Press. ISBN 0199255911</publications>
+      <tree-id type="integer">12453</tree-id>
+      <created-at type="datetime">2009-05-19T17:51:03-04:00</created-at>
+    </root>
+    <description>Cholon: Dryer 2005</description>
+  </tree>
+</hash>

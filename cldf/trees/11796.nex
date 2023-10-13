@@ -1,0 +1,20 @@
+#NEXUS
+[MultiTree: Elamo-Dravidian: Ruhlen 1991]
+BEGIN TREES;
+TRANSLATE brh Brahui,
+cdrv 'Central Dravidian',
+drav Dravidian,
+eldr 'Elamo-Dravidian',
+elx Elamite,
+fkru 'Kolami-Parji',
+kmj_mjt Malto,
+kru_kxl Kurux,
+nwdr 'Northwest Dravidian',
+qffe 'Dravidian Proper',
+qtlo 'Tamil-Kannada',
+scdr 'Telugu-Kui',
+sdrv 'South Dravidian',
+tcy Tulu,
+xeui 'Northeast Dravidian';
+TREE 11796 = [&R] ((((kmj_mjt,kru_kxl)xeui,(scdr,fkru)cdrv,(qtlo,tcy)sdrv)qffe,(brh)nwdr)drav,elx)eldr;
+END;

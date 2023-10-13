@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>    <region>Europe</region>    <region>Asia</region>
+    <root>
+      <tree-id type="integer">10016</tree-id>
+      <confidence>y</confidence>
+      <codes>adjw</codes>
+      <alt-names></alt-names>
+      <updated-at type="datetime">2008-07-04T21:26:26-04:00</updated-at>
+      <status nil="true"></status>
+      <node-type>Subgroup</node-type>
+      <node-status-id nil="true"></node-status-id>
+      <id type="integer">10273</id>
+      <children type="array">
+        <child>
+          <tree-id type="integer">10016</tree-id>
+          <confidence>y</confidence>
+          <codes>ykg, yux</codes>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2008-07-04T21:26:27-04:00</updated-at>
+          <status nil="true"></status>
+          <node-type>Language</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">10274</id>
+          <children type="array"/>
+          <pri-name>Jukagirisch</pri-name>
+          <is-default type="integer">0</is-default>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <tree-val>Jukagirisch und Uralisch: Collinder 1940</tree-val>
+          <publications>Collinder, Bj&#246;rn. 1940. Jukagirisch und Uralisch. In Uppsala Universitets &#197;rsskrift, vol. 8, 1-19,102-108. Uppsala: Almquist &amp; Wiksells Boktryckeri-A.-B.</publications>
+          <other-codes></other-codes>
+          <geography nil="true"></geography>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <created-at type="datetime">2008-07-04T21:26:26-04:00</created-at>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <deleted-at nil="true"></deleted-at>
+        </child>
+        <child>
+          <tree-id type="integer">10016</tree-id>
+          <confidence>y</confidence>
+          <codes>urlc</codes>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2008-07-04T21:26:27-04:00</updated-at>
+          <status nil="true"></status>
+          <node-type>Subgroup</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">10275</id>
+          <children type="array"/>
+          <pri-name>Uralisch</pri-name>
+          <is-default type="integer">0</is-default>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <tree-val>Jukagirisch und Uralisch: Collinder 1940</tree-val>
+          <publications>Collinder, Bj&#246;rn. 1940. Jukagirisch und Uralisch. In Uppsala Universitets &#197;rsskrift, vol. 8, 1-19,102-108. Uppsala: Almquist &amp; Wiksells Boktryckeri-A.-B.</publications>
+          <other-codes></other-codes>
+          <geography nil="true"></geography>
+          <sureness type="integer">0</sureness>
+          <end-date nil="true"></end-date>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <created-at type="datetime">2008-07-04T21:26:27-04:00</created-at>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <deleted-at nil="true"></deleted-at>
+        </child>
+      </children>
+      <pri-name>Jukagirisch und Uralisch</pri-name>
+      <is-default type="integer">0</is-default>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <tree-val>Jukagirisch und Uralisch: Collinder 1940</tree-val>
+      <publications>Collinder, Bj&#246;rn. 1940. Jukagirisch und Uralisch. In Uppsala Universitets &#197;rsskrift, vol. 8, 1-19,102-108. Uppsala: Almquist &amp; Wiksells Boktryckeri-A.-B.</publications>
+      <other-codes></other-codes>
+      <geography nil="true"></geography>
+      <sureness type="integer">0</sureness>
+      <end-date nil="true"></end-date>
+      <updater-id type="integer">10740</updater-id>
+      <updated-by>joe_leif</updated-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <created-at type="datetime">2008-07-04T21:26:26-04:00</created-at>
+      <start-date nil="true"></start-date>
+      <pub-comments></pub-comments>
+      <deleted-at nil="true"></deleted-at>
+    </root>
+    <description>Jukagirisch und Uralisch: Collinder 1940</description>
+  </tree>
+</hash>

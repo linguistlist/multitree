@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Timacua: Mithun 1999]
+BEGIN TREES;
+TRANSLATE tjm Timucua,
+tjm_acu Acuera,
+tjm_agu 'Agua Fresca',
+tjm_ita Itafi,
+tjm_moc Mocama,
+tjm_oco Oconi,
+tjm_pot Potano,
+tjm_sal 'Agua Salada',
+tjm_taw Tawasa,
+tjm_tim Timucua,
+tjm_tuc Tucururu,
+tjm_yuf Yufera;
+TREE 15304 = [&R] (tjm_taw,tjm_yuf,tjm_pot,tjm_acu,tjm_moc,tjm_ita,tjm_tuc,tjm_tim,tjm_oco,tjm_agu,tjm_sal)tjm;
+END;

@@ -1,0 +1,26 @@
+#NEXUS
+[MultiTree: Dakoid (Benue-Congo): Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE atco 'Atlantic-Congo',
+bcon 'Benue-Congo',
+bntd Bantoid,
+ccg 'Samba Daka',
+ccg_dir Dirim,
+ccg_jan 'Samba Jangani',
+ccg_map 'Samba of Mapeo',
+ccg_nna 'Samba Nnakenyare',
+ccg_sam 'Samba Daka',
+ccg_tar Taram,
+dakd Dakoid,
+dir Dirim,
+doh Dong,
+ldh 'Lamja-Dengsa-Tola',
+ldh_den Dengsa,
+ldh_lam Lamja,
+ldh_tol Tola,
+nbtd 'Northern Bantoid',
+ncon 'Niger-Congo',
+ttb Gaa,
+volc 'Volta-Congo';
+TREE 20965 = [&R] ((((((((ccg_map,ccg_sam,ccg_nna,ccg_jan,ccg_dir,ccg_tar)ccg,ttb,dir,(ldh_tol,ldh_den,ldh_lam)ldh,doh)dakd)nbtd)bntd)bcon)volc)atco)ncon;
+END;

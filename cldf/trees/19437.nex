@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Darling River Group, subtree of Pama-Nyungan: Wafer and Lissarrague 2008]
+BEGIN TREES;
+TRANSLATE bagd 'Darling River Group',
+drl Paakantyi,
+drl_kul Kurnu,
+drl_mar Marrawarra,
+drl_mil Milpulo,
+drl_nau Nhaawuparlku,
+drl_nor 'Northern Paakantyi',
+drl_paa Paaruntyi,
+drl_par Parrintyi,
+drl_pni Pantyikali,
+drl_pul Pulaali,
+drl_sou 'Southern Paakantyi',
+drl_spa 'Southern Paakantyi',
+drl_tha Thangkaali,
+drl_wan Wanyuparlku,
+drl_wil Wilyaali;
+TREE 19437 = [&R] (((drl_tha,drl_par,drl_wan,drl_pni,drl_pul,drl_mar,drl_spa,drl_wil)drl_sou,(drl_mil,drl_paa,drl_nau,drl_kul)drl_nor)drl)bagd;
+END;

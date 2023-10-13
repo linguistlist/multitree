@@ -1,0 +1,36 @@
+#NEXUS
+[MultiTree: Lower Fungom Languages: Good et al 2012]
+BEGIN TREES;
+TRANSLATE bcon 'Benue-Congo',
+bfm Mmen,
+bfm_fun 'Fungom Mmen',
+bmv Bum,
+bntd Bantoid,
+boe 'Ji Cluster',
+boe_buu 'Buu Ji',
+boe_muf 'Mufu Ji',
+boe_mun 'Mundabli Ji',
+crnb 'Central Ring',
+ebbd Beboid,
+fak Fang,
+isu Isu,
+kfl Kung,
+kid Koshin,
+mff Naki,
+mff_mas 'Mashi Naki',
+mij Mungbam,
+mij_aba 'Abar Mungbam',
+mij_biy 'Biya Mungbam',
+mij_mis 'Missong Mungbam',
+mij_mun 'Munken Mungbam',
+mij_ngu 'Ngun Mungbam',
+muc Ajumbu,
+ncon 'Niger-Congo',
+sbtd 'South Bantoid',
+wbbd 'Yemne-Kimbi',
+weh Weh,
+wgrb 'Grassfields Bantu',
+wrng 'West Ring',
+zhw Zhoa;
+TREE 21026 = [&R] ((((((isu,weh,zhw)wrng,(bmv,(bfm_fun)bfm,kfl)crnb)wgrb,((mff_mas)mff)ebbd,((mij_ngu,mij_mun,mij_biy,mij_aba,mij_mis)mij,(boe_muf,boe_buu,boe_mun)boe,muc,fak,kid)wbbd)sbtd)bntd)bcon)ncon;
+END;

@@ -1,0 +1,31 @@
+#NEXUS
+[MultiTree: Mande: Delafosse 1901]
+BEGIN TREES;
+TRANSLATE bam bamana,
+dnj guio,
+dyu dyoula,
+gkp_knu_xpe kpèlé,
+goa kouéni,
+kao khassonké,
+lok loko,
+lom loma,
+men mendé,
+mev manon,
+mlk 'malinké du nord',
+mlq 'malinke du l''ouest',
+mnde Mandé,
+mndf fou,
+mndt tan,
+moa mouin,
+mwk 'malinké du sud',
+qei oueïma,
+qmk manianka,
+qml malinké,
+qsk sidianka,
+qwk ouassoulounké,
+snk soninké,
+sus sosso,
+vai vaï,
+yal diallonké;
+TREE 26258 = [&R] ((men,dnj,qei,goa,yal,sus,gkp_knu_xpe,mev,lok,moa,lom)mndf,(dyu,(mwk,mlk,mlq)qml,kao,bam,qsk,snk,qmk,vai,qwk)mndt)mnde;
+END;

@@ -1,0 +1,28 @@
+#NEXUS
+[MultiTree: Island Melanesian Papuan: Dunn 2005]
+BEGIN TREES;
+TRANSLATE anz Anêm,
+ata Ata,
+blb Bilua,
+boug Bougainville,
+buo Buin,
+csol 'Central Solomons',
+ebou 'East-Bougainville',
+epap 'Island Melanesian Papuan',
+gcc Mali,
+kol Kol,
+kto Kuot,
+lvk Lavukaleve,
+nas Nasioi,
+nbrit 'Bismarck Archipelago',
+roo Rotokas,
+siw Motuna,
+slkl 'Sulka-Kol',
+sua Sulka,
+svs Savosavo,
+tosv 'Tuovo-Savosavo',
+tqu Touo,
+yele 'Louisiade Archipelago',
+yle 'Yélî Dnye';
+TREE 21845 = [&R] (((nas,siw,buo)ebou,roo)boug,(lvk,(tqu,svs)tosv,blb)csol,(anz,ata,(kol,sua)slkl,kto,gcc)nbrit,(yle)yele)epap;
+END;

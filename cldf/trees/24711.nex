@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Tuu-Ui: Brenzinger 2008]
+BEGIN TREES;
+TRANSLATE ngh N||ng,
+ngh_aun '||''Au',
+ngh_nuu N|uu,
+nmn Taa,
+nmn_eas 'Eastern !Xoo',
+nmn_wes 'Western !Xoo',
+tuuu 'Tuu-/Ui';
+TREE 24711 = [&R] ((nmn_wes,nmn_eas)nmn,(ngh_aun,ngh_nuu)ngh)tuuu;
+END;

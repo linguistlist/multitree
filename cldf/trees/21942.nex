@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Karajá: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE karj Karajá,
+kpj 'Karajá-Xambioá',
+kpj_jav Javaé;
+TREE 21942 = [&R] (kpj,kpj_jav)karj;
+END;

@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Huavean: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE huav Huavean,
+hue 'Huave, San Francisco del Mar',
+huv 'Huave, San Mateo del Mar',
+hve 'Huave, San Dionisio del Mar',
+hvv 'Huave, Santa María del Mar';
+TREE 11927 = [&R] (hve,hue,hvv,huv)huav;
+END;

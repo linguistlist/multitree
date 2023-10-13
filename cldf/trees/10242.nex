@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Aymaran: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE ayc 'Aymara, Southern',
+ayma Aymaran,
+ayr 'Aymara, Central',
+jqr Jaqaru,
+jqr_cau Cauqui;
+TREE 10242 = [&R] (ayr,ayc,(jqr_cau)jqr)ayma;
+END;

@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Yakonan: Powell 1891]
+BEGIN TREES;
+TRANSLATE aes Alsea,
+aes_yaq Yakwina,
+sis Siuslaw,
+sis_low 'Ku-itc',
+yako Yakonan;
+TREE 14746 = [&R] (sis_low,aes,aes_yaq,sis)yako;
+END;

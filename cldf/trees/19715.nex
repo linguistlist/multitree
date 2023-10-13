@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Proto-Australian: Evans 2005]
+BEGIN TREES;
+TRANSLATE aust 'Proto-Australian',
+gara 'Proto-Garrwan',
+gtkp 'Proto-Macro-Pama-Nyungan',
+gunw 'Proto-Gunwinyguan',
+krpn 'Proto-Garrwan-Pama-Nyungan',
+pnyu 'Proto-Pama-Nyungan',
+sdly 'Some Daly Families',
+tiw Tiwi,
+tkpn 'Proto-Tangkic-Karrwan-Pama-Nyungan',
+tmpn 'Tiwi-Proto-Macro-Pama-Nyungan',
+tngc 'Proto-Tangkic';
+TREE 19715 = [&R] (((((gara,pnyu)krpn,tngc)tkpn,gunw)gtkp,tiw)tmpn,sdly)aust;
+END;

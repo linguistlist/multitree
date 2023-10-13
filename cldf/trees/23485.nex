@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Tai-Kadai as a subgroup of Austronesian: Sagart 2005]
+BEGIN TREES;
+TRANSLATE aatk 'Austronesian Ancestor of Tai-Kadai',
+anes Austronesian,
+eacl 'East Coast Linkage',
+kamt 'Kam-Tai',
+lbc Lakkia,
+mlpo 'Malayo-Polynesian',
+skb Saek,
+taik 'Tai-Kadai',
+taix Tai;
+TREE 23485 = [&R] (((((((taix,lbc,skb)kamt)kamt)taik)aatk,(mlpo)mlpo)eacl)anes)anes;
+END;

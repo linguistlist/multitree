@@ -59,3 +59,6 @@ def run(args):
                 print(colored('References:', attrs=['bold']))
                 for ref in refs:
                     print(ref)
+            elif tree.row.get('Source_Comment'):
+                print(colored('Source description:', attrs=['bold']))
+                print(tree.row['Source_Comment'])

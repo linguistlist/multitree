@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Western Daly: Tryon 2007]
+BEGIN TREES;
+TRANSLATE amy Emmi,
+brin 'Western Daly',
+mfr Marrithiyel,
+mfr_mam_xru 'Marri Ammu',
+mfr_mrd_zmd Marridan,
+mfr_mrs_zmj Marrityabin,
+zma Manhthe,
+zmg Madige,
+zmm Marrimanindji,
+zmr Maranunggu,
+zmt Marringarr;
+TREE 19746 = [&R] (zmt,mfr_mrs_zmj,amy,mfr,zma,zmm,mfr_mam_xru,mfr_mrd_zmd,zmg,zmr)brin;
+END;

@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: African Language Isolates: Composite]
+BEGIN TREES;
+TRANSLATE 1ix Mpra,
+afis 'African Language Isolate',
+cet Centúúm,
+hts Hadza,
+sad Sandawe;
+TREE 11888 = [&R] (sad,hts,cet,1ix)afis;
+END;

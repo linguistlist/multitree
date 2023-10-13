@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Pujunan: Powell 1891]
+BEGIN TREES;
+TRANSLATE 009 Kwatoa,
+01a Tishum,
+maid Pujunan,
+mjd Konkau,
+mjd_esk Eskin,
+mjd_fea Helto,
+mjd_ota Otaki,
+nsz Wapumni,
+nsz_col 'Ku''lmeh',
+nsz_nev Ustoma,
+nsz_pus Pusuna,
+nsz_yuk Koloma;
+TREE 14208 = [&R] (01a,nsz_pus,mjd_ota,mjd_esk,nsz_yuk,009,mjd,mjd_fea,nsz_nev,nsz_col,nsz)maid;
+END;

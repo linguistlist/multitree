@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: European Unclassified Languages: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE euun 'European Unclassified',
+pld Polari,
+quq Quinqui,
+trl 'Traveller Scottish';
+TREE 11966 = [&R] (quq,trl,pld)euun;
+END;

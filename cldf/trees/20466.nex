@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Daughter Languages of Kadai (subtree of Tai-Kadai): Shi, Cui 1991]
+BEGIN TREES;
+TRANSLATE 1o1 'Proto-Kadai',
+aih 'Ai-Cham',
+doc_kmc Kam,
+lbc Lakkia,
+lic Hlai,
+mkg Mak,
+mlm Mulam,
+mmd Maonan,
+qnp '(unnamed proto-language)',
+swi Sui,
+taix Tai,
+tct Then;
+TREE 20466 = [&R] (((((((((aih,mkg)qnp,swi)qnp,mmd)qnp,doc_kmc)qnp,mlm,tct)qnp,lbc)qnp,taix)qnp,lic)qnp)1o1;
+END;

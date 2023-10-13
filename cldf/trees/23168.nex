@@ -1,0 +1,19 @@
+#NEXUS
+[MultiTree: West Papuan Phylum: Capell 1975]
+BEGIN TREES;
+TRANSLATE abz Abui,
+bfn Bunak,
+ddg Fataluku,
+ebir 'East Vogelkop Stock',
+klab 'Kalabra Family',
+lva Lovaea,
+mkz Makasai,
+moik 'Moi-Karon Family',
+nhal 'North Halmahera Stock',
+oia Oirata,
+sbhd 'South Vogelkop Stock',
+talp 'Alor-Timor Stock',
+wbom 'Bomberai Stock',
+wpap 'West Papuan Phylum';
+TREE 23168 = [&R] ((lva,abz,mkz,oia,ddg,bfn)talp,wbom,moik,ebir,nhal,klab,sbhd)wpap;
+END;

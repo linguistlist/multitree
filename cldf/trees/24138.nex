@@ -1,0 +1,37 @@
+#NEXUS
+[MultiTree: Fijian communalects: Geraghty 1983]
+BEGIN TREES;
+TRANSLATE bwb 'Namosi-Naitāsiri-Sērua group',
+bwb_bat Batiwai,
+bwb_nal Nalea,
+bwb_tub Tubai,
+ceoc 'Proto Eastern Oceanic',
+efij 'Eastern Fijian group',
+efpo 'Proto Tokalau Polynesian',
+fij_cen Bāravi,
+fij_evl 'Eastern Viti Levu',
+fij_kad Ono,
+fij_nam Namosi,
+fij_nor Labasa,
+fij_nou Tunuloa,
+fij_sbn 'Sōlevu-Bua-Navakasiga continuum',
+fij_sou Lutu,
+fij_tav Taveuni,
+fij_tvn 'Tavuki-Nabukelevu',
+fij_van 'Vanua Levu',
+fij_vor Tokaimalo,
+fij_wcn 'Western-Central-Northeastern Vanua Levu',
+fij_wes 'Bau Navatu',
+goo 'Gone Dau',
+llx Lau,
+llx_lau Lau,
+llx_van 'Vanua Balavu',
+llx_yas 'Yasayasa Moala',
+poly 'Proto-Polynesian',
+tfij 'Tokalau Fijian',
+wfij 'Western Fijian group',
+wyy 'Nuclear Western group',
+wyy_nuc Bāravi,
+wyy_way Magadro;
+TREE 24138 = [&R] ((((((fij_sou,fij_nam,fij_sou,fij_sou,fij_sou)fij_sou,(fij_vor,fij_vor,fij_vor)fij_vor)fij_evl,((fij_nou,fij_nou,fij_tav,fij_nou)fij_nou,(((fij_cen,fij_cen)fij_cen,(fij_cen,fij_cen)fij_cen)fij_cen,((fij_wes,fij_wes,fij_wes)fij_sbn,goo,fij_wes)fij_wes,(fij_nor,fij_nor,fij_nor,fij_nor)fij_nor)fij_wcn)fij_van,((fij_kad,fij_kad)fij_tvn,fij_kad)fij_kad,(llx_van,llx_yas,llx_lau)llx)efij)tfij,(poly)poly)efpo,((wyy_way,wyy_way,(wyy_nuc,wyy_nuc)wyy_nuc,wyy_way,wyy_way)wyy,(bwb_bat,bwb_nal,bwb_tub)bwb)wfij)ceoc;
+END;

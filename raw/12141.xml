@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Pacific</region>
+    <root>
+      <updated-at type="datetime">2009-05-07T14:40:42-04:00</updated-at>
+      <tree-id type="integer">12141</tree-id>
+      <other-codes></other-codes>
+      <node-status-id nil="true"></node-status-id>
+      <tree-val>Upper Yuat: Dryer 2005</tree-val>
+      <created-at type="datetime">2009-05-07T14:40:42-04:00</created-at>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names></alt-names>
+      <deleted-at nil="true"></deleted-at>
+      <confidence>n</confidence>
+      <sureness type="integer">0</sureness>
+      <pri-name>Upper Yuat</pri-name>
+      <updated-by>joe_leif</updated-by>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 615. New York: Oxford University Press. ISBN 0199255911</publications>
+      <node-type>Subgroup</node-type>
+      <end-date nil="true"></end-date>
+      <creator-id type="integer">10740</creator-id>
+      <codes>piaw</codes>
+      <children type="array">
+        <child>
+          <updated-at type="datetime">2009-05-07T14:40:42-04:00</updated-at>
+          <tree-id type="integer">12141</tree-id>
+          <other-codes>har</other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <tree-val>Upper Yuat: Dryer 2005</tree-val>
+          <created-at type="datetime">2009-05-07T14:40:42-04:00</created-at>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <sureness type="integer">0</sureness>
+          <pri-name>Haruai</pri-name>
+          <updated-by>joe_leif</updated-by>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 615. New York: Oxford University Press. ISBN 0199255911</publications>
+          <node-type>Language</node-type>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+          <codes>tmd</codes>
+          <children type="array"/>
+          <updater-id type="integer">10740</updater-id>
+          <start-date nil="true"></start-date>
+          <is-default type="integer">0</is-default>
+          <id type="integer">387708</id>
+          <geography>Country: Papua New Guinea; Lat.: -5.08; Long.: 144.17</geography>
+          <status nil="true"></status>
+          <created-by>joe_leif</created-by>
+        </child>
+      </children>
+      <updater-id type="integer">10740</updater-id>
+      <start-date nil="true"></start-date>
+      <is-default type="integer">0</is-default>
+      <id type="integer">387707</id>
+      <geography nil="true"></geography>
+      <status nil="true"></status>
+      <created-by>joe_leif</created-by>
+    </root>
+    <description>Upper Yuat: Dryer 2005</description>
+  </tree>
+</hash>

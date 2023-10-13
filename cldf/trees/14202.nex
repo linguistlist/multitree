@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Muskhogean: Powell 1891]
+BEGIN TREES;
+TRANSLATE akz Alibamu,
+cho Choctaw,
+cic Chicasa,
+cku Koasáti,
+mus Creek,
+mus_sem Seminole,
+musk Muskhogean,
+xap Apalachi;
+TREE 14202 = [&R] (mus,cku,xap,mus_sem,xap,akz,cic,cho)musk;
+END;

@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Macro-Andean cluster: Campbell 1997]
+BEGIN TREES;
+TRANSLATE acu_hub_jiv Jívaro,
+agr Aguaruna,
+cahu Kawapanan,
+cbt Chayahuita,
+jeb Jebero,
+jiva Hívaro,
+jvca 'Hivaro-Kawapánan',
+mdcl 'Macro-Andean cluster',
+pue Puelche,
+ura Urarina;
+TREE 19116 = [&R] (pue,((agr,acu_hub_jiv)jiva,(jeb,cbt)cahu)jvca,ura)mdcl;
+END;

@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Sahaptian: Campbell 1997]
+BEGIN TREES;
+TRANSLATE nez 'Nez Perce',
+nez_low 'Lower Nez Perce',
+nez_upp 'Upper Nez Perce',
+qot Sahaptin,
+qot_nor 'Northern Sahaptin',
+qot_sou 'Southern Sahaptin',
+shap Sahaptian,
+uma 'Columbia River Sahaptin';
+TREE 11825 = [&R] ((nez_low,nez_upp)nez,(qot_sou,qot_nor,uma)qot)shap;
+END;

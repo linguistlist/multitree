@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Cahuapanan: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE cahu Cahuapanan,
+cbt Chayahuita,
+cbt_cah Cahuapana,
+cbt_cha Chayahuita,
+jeb Jebero;
+TREE 10245 = [&R] ((cbt_cah,cbt_cha)cbt,jeb)cahu;
+END;

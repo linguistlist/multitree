@@ -6,14 +6,14 @@ bs4==0.0.1
 certifi==2023.7.22
 cldfbench==1.14.0
 -e git+https://github.com/linguistlist/LL-map@daa33de980ee69944195b0cca7fdb7c856944c0b#egg=cldfbench_llmap
--e git+https://github.com/linguistlist/multitree@583d4c86b5b5255c92b053294c3504cd6474add8#egg=cldfbench_multitree
+-e git+https://github.com/linguistlist/multitree@4c46362e7fc543ed821c94f5db63d5a3855212b6#egg=cldfbench_multitree
 cldfcatalog==1.5.1
 cldfviz==1.0.0
 cldfzenodo==1.1.0
 clldutils==3.20.0
 colorama==0.4.6
 colorlog==6.7.0
-commonnexus==1.6.0
+commonnexus==1.7.0
 csvw==3.1.3
 cycler==0.12.0
 exceptiongroup==1.1.3

@@ -1,0 +1,19 @@
+#NEXUS
+[MultiTree: Barbacoan: Composite]
+BEGIN TREES;
+TRANSLATE awan Awan,
+barb Barbacoan,
+bpb Pasto,
+cbi Cha’palaachi,
+cca Coconuco,
+coco Coconucan,
+cof Tsafiki,
+gum Guambino,
+kwi 'Awa Pit',
+nbar 'Northern Barbacoan',
+past 'Pasto-Muellama',
+qcd Muellama,
+sbar 'Southern Barbacoan',
+ttk Totoró;
+TREE 17159 = [&R] ((cof,cbi)sbar,((ttk,cca,gum)coco,(qcd,bpb)past,(kwi)awan)nbar)barb;
+END;

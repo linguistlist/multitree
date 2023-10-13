@@ -1,0 +1,31 @@
+#NEXUS
+[MultiTree: Dravidian: Dryer 2005]
+BEGIN TREES;
+TRANSLATE bfq Badaga,
+brh Brahui,
+cdrv 'Central Dravidian',
+drav Dravidian,
+ggo_gno Gondi,
+kan Kannada,
+kfa Kodava,
+kfb_nit Kolami,
+kfc_kon Konda,
+kfe Kota,
+kff Koya,
+kmj_mjt Malto,
+kru Kurukh,
+kxu 'Kui (in India)',
+kxv Kuvi,
+mal Malayalam,
+ndrv 'Northern Dravidian',
+pci 'Parji (Dravidian)',
+peg Pengo,
+scdr 'South-Central Dravidian',
+sdrv 'Southern Dravidian',
+tam Tamil,
+tam_tam 'Tamil (Spoken)',
+tcx Toda,
+tcy Tulu,
+tel Telugu;
+TREE 10012 = [&R] ((kfb_nit,pci)cdrv,(brh,kru,kmj_mjt)ndrv,(ggo_gno,kfc_kon,kff,kxu,kxv,peg,tel)scdr,(bfq,kan,kfa,kfe,mal,tam,tam_tam,tcx,tcy)sdrv)drav;
+END;

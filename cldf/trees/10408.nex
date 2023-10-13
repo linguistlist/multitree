@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Gulf: Composite 2008]
+BEGIN TREES;
+TRANSLATE aqp Atakapa,
+ctm Chitimacha,
+gulf Gulf,
+ncz Natchez,
+tun Tunica;
+TREE 10408 = [&R] (aqp,ctm,ncz,tun)gulf;
+END;

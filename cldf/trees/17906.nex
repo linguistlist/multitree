@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: North American Deaf Sign Language: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE ase 'American Sign Language',
+ase_bla 'Black American Sign Language',
+ase_tal 'Tactile Sign Language',
+fcs 'Quebec Sign Language',
+mre 'Martha''s Vineyard Sign Language',
+nsgn 'North American Deaf Sign Language',
+nsr 'Maritime Sign Language';
+TREE 17906 = [&R] (mre,fcs,nsr,(ase_bla,ase_tal)ase)nsgn;
+END;

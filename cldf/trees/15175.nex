@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: South American Mixed Languages: Composite]
+BEGIN TREES;
+TRANSLATE caw Callawalla,
+mue 'Media Lengua',
+qpuq 'Quechua-Puquina',
+saml 'South American Mixed Language',
+spqu 'Spanish-Quechua';
+TREE 15175 = [&R] ((caw)qpuq,(mue)spqu)saml;
+END;

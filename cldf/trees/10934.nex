@@ -1,0 +1,26 @@
+#NEXUS
+[MultiTree: Northwest Caucasian: Composite]
+BEGIN TREES;
+TRANSLATE abab 'Abkhaz-Abazin',
+abk Abkhaz,
+abk_abz Abzhui,
+abk_bzy Bzyb,
+abk_sam Samurzakan,
+abq Abaza,
+abq_ash Ashkaraua,
+abq_bez Bezshagh,
+abq_tap Tapanta,
+ady Adyghe,
+ady_aba Abadzex,
+ady_bez Bezhedukh,
+ady_nat Natuzaj,
+ady_sha Shapsug,
+ady_xak Xakuchi,
+circ Circassian,
+kbd Kabardian,
+kbd_gre 'Greater Kabardian',
+nwca 'Northwest Caucasian',
+uby Ubykh,
+ubyx Ubyx;
+TREE 10934 = [&R] (((abq_bez,abq_ash,abq_tap)abq,(abk_abz,abk_bzy,abk_sam)abk)abab,((ady_sha,ady_nat,ady_aba,ady_xak,ady_bez)ady,(kbd_gre)kbd)circ,(uby)ubyx)nwca;
+END;

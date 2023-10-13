@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Drâviḍian: Caldwell 1856]
+BEGIN TREES;
+TRANSLATE brh Brahui,
+drav Drâviḍian,
+dybt 'Tamil-Gônd',
+gno Gônd,
+kan Canarese,
+kfe Kôta,
+kru Ûrâon,
+ktyp 'Tamil-Malayâḷam',
+kxu Ku,
+mal Malayâḷam,
+mjt Râjmahal,
+nfld 'Kôta-Tulu',
+tam Tamil,
+tcx Tuda,
+tcy Tulu,
+tel Telugu;
+TREE 11337 = [&R] (((tam,mal)ktyp,gno,tcx)dybt,mjt,brh,(kan,tcy,kfe)nfld,kru,tel,kxu)drav;
+END;

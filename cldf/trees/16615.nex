@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Yanomaman: Kaufman 2007]
+BEGIN TREES;
+TRANSLATE guu_wca 'Yanomaman language area',
+shb 'Yanam-Ninam',
+wca_nan Nanomam,
+wca_yao Yanomam,
+xsu Sanemá,
+yano Yanomaman;
+TREE 16615 = [&R] ((shb,xsu,wca_nan,wca_yao)guu_wca)yano;
+END;

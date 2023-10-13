@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Haida: Dryer 2005]
+BEGIN TREES;
+TRANSLATE haid Haida,
+hax_hdn Haida,
+hdn 'Haida (Northern)';
+TREE 15311 = [&R] (hdn,hax_hdn)haid;
+END;

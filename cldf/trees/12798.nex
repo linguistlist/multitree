@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Hokan: Asher, Moseley 1994]
+BEGIN TREES;
+TRANSLATE chd_clo Chontal,
+hoka Hokan,
+jic 'Eastern Tol',
+tequ Chontal,
+tols Tol;
+TREE 12798 = [&R] ((jic,jic)tols,(chd_clo)tequ)hoka;
+END;

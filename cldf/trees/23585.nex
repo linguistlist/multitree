@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Sáliva- Gilij (in Campbell and Grondona 2012)]
+BEGIN TREES;
+TRANSLATE pid Quaqua,
+pid_wpc Ature,
+slc Sáliva,
+slvn Sáliva;
+TREE 23585 = [&R] (pid,pid,slc,pid_wpc)slvn;
+END;

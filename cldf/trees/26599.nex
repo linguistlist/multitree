@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Pacific Deaf Sign Languages: Composite]
+BEGIN TREES;
+TRANSLATE 1od_inl 'Jakarta Sign Language',
+6xs_inl 'Yogyskarta Sign Language',
+bqy 'Bali Sign Language',
+hps 'Hawai''i Sign Language',
+kgi 'Selangor Sign Language',
+nzs 'New Zealand Sign Language',
+pdsl 'Pacific Deaf Sign Languages',
+pgz 'Papua New Guinean Sign Language',
+psg 'Penang Sign Language',
+psp 'Philippine Sign Language',
+szs 'Solomon Islands Sign Language',
+xml 'Malaysian Sign Language';
+TREE 26599 = [&R] (xml,nzs,bqy,szs,6xs_inl,hps,psp,psg,kgi,1od_inl,pgz)pdsl;
+END;

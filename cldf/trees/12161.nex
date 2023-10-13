@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: West Bougainville: Dryer 2005]
+BEGIN TREES;
+TRANSLATE kyx Konua,
+roo Rotokas,
+wbou 'West Bougainville';
+TREE 12161 = [&R] (roo,kyx)wbou;
+END;

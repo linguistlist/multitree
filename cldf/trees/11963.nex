@@ -1,0 +1,19 @@
+#NEXUS
+[MultiTree: African Unclassified Languages: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE afun 'African Unclassified',
+bqd Bung,
+gdm Laal,
+gdm_lab Laabe,
+gdm_lal Laal,
+ime Imeraguen,
+kah Kara,
+ldq Lufu,
+rer 'Rer Bare',
+vkj Kujarge,
+wma Mawa,
+woy Weyto,
+yax Yauma,
+yei Yeni;
+TREE 11963 = [&R] (wma,woy,ime,ldq,(gdm_lal,gdm_lab)gdm,yax,yei,kah,rer,vkj,bqd)afun;
+END;

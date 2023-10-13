@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Jabutían: Kaufman 2007]
+BEGIN TREES;
+TRANSLATE ark Arikapú,
+axg Koayá,
+jbt Jabutí,
+jbtn Jabutían,
+qp4 Mashubí,
+tba Aikaná,
+ucjb Unclassified;
+TREE 16356 = [&R] (ark,(axg,tba)ucjb,jbt,qp4)jbtn;
+END;

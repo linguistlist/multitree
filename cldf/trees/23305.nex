@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: East Bird's Head: C.L. Voorhoeve 1975]
+BEGIN TREES;
+TRANSLATE ebir 'East Bird''s Head Phylum-Level Stock',
+meax Meax,
+mej Meax,
+mnx 'Mantion Family-Level Isolate',
+mnx_man Manikion,
+mnx_mat Mantion,
+mtj Meniŋgo;
+TREE 23305 = [&R] ((mnx_mat,mnx_man)mnx,(mtj,mej)meax)ebir;
+END;

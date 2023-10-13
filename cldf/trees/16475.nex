@@ -1,0 +1,25 @@
+#NEXUS
+[MultiTree: Macro-Puinávean: Kaufman 2007]
+BEGIN TREES;
+TRANSLATE atx Awaké,
+cbv Kakua,
+ctss 'Awaké-Kaliana',
+dy1 Dyapá,
+jup Hupda,
+kali Kalianan,
+katk Katukinan,
+kav Katukina,
+kwa Kamán,
+maku Puinávean,
+mbj 'Kaburí language area',
+mbj_nab Nadöb,
+mpcl 'Macro-Puinávean',
+pui Puinave,
+qgy Wariva,
+qir Kaliana,
+qp7 Waviare,
+qpz 'Kuri-Dou language area',
+xat Katawishi,
+yab Maku;
+TREE 16475 = [&R] (((xat,kav,dy1)katk,(cbv,mbj_nab,pui,qgy,qp7,kwa)mbj,jup,qpz)maku,((qir,yab,atx)ctss)kali)mpcl;
+END;

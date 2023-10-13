@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: North Brazil: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE aap 'Arára, Pará',
+nbca 'Northern Carib';
+TREE 21225 = [&R] (((aap)nbca)nbca)nbca;
+END;

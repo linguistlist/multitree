@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: Tasmanian: Dryer 2005]
+BEGIN TREES;
+TRANSLATE tasm Tasmanian,
+xtz 'Tasmanian (Oyster Bay to Pitwater)';
+TREE 12111 = [&R] (xtz,xtz)tasm;
+END;

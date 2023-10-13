@@ -1,0 +1,27 @@
+#NEXUS
+[MultiTree: Tukanoan: Composite]
+BEGIN TREES;
+TRANSLATE 0n7 Kueretú,
+arj Arapaso,
+bao_bsn_pok_tue 'Bará-Tuyuka',
+cbc_tav Carapano,
+coe Coreguaje,
+cub Cubeo,
+des_sri 'Desano-Siriano',
+etuc 'Eastern Tukanoan',
+gvc_pir_yui 'Wanano-Piratapuyo',
+mcl_snn Macaguaje,
+myy Macuna,
+ore Orejón,
+ore_neb Nebaji,
+qmv 'Yupuá-Duriña',
+sey Piohé,
+teb Teteté,
+tucn Tukanoan,
+tuo Tucano,
+tuo_was Wasona,
+tuo_yoh Yohoraa,
+wtuc 'Western Tukanoan',
+ynu Yahuna;
+TREE 17522 = [&R] ((ynu,mcl_snn,(ore_neb)ore,coe,teb,sey)wtuc,(myy,arj,gvc_pir_yui,(tuo_yoh,tuo_was)tuo,cbc_tav,cub,qmv,bao_bsn_pok_tue,des_sri,0n7)etuc)tucn;
+END;

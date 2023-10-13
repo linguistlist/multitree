@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Limilngan-Wuna: Harvey 2001]
+BEGIN TREES;
+TRANSLATE lmc Limilngan,
+lmln 'Limilngan-Wuna',
+wux Wuna;
+TREE 18835 = [&R] (lmc,wux)lmln;
+END;

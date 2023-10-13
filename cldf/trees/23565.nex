@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Prehistoric linguistic relationships of Tai-Kadai: Lee 2011, 2012]
+BEGIN TREES;
+TRANSLATE anes Austronesian,
+ausa 'Austro-Asiatic',
+ausr Austric,
+auth 'Austro-Tai',
+baiy Baiyue,
+taik 'Tai-Kadai';
+TREE 23565 = [&R] (((baiy)taik,anes)auth,ausa)ausr;
+END;

@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: South Bougainville: Ross 2001]
+BEGIN TREES;
+TRANSLATE buo Buin,
+ebou 'South Bougainville',
+nas Nasioi,
+nco Nagovisi,
+siw Motuna;
+TREE 21991 = [&R] (nas,siw,nco,buo)ebou;
+END;

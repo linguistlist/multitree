@@ -1,0 +1,22 @@
+#NEXUS
+[MultiTree: South Hebrides, a subtree of Austronesian: Lynch 1978]
+BEGIN TREES;
+TRANSLATE anei Aneityumese,
+aty Aneityum,
+erg Sie,
+kefe Tanna,
+nrxi Eromangan,
+nwi 'Southwest Tanna',
+nwi_nel Nelpwaai,
+nwi_nvh Nivhaal,
+ocea 'Proto-Oceanic',
+sctd 'South-Central Dialect Chain',
+svnu 'Proto-South Hebridean',
+tnk Kwamera,
+tnk_por 'Port Resolution',
+tnl Lenakel,
+tnn 'North Tanna',
+tnp Whitesands,
+uur Ura;
+TREE 25917 = [&R] (((((tnk_por,tnk)tnk,(nwi_nvh,nwi_nel,nwi)nwi)sctd,(tnp,tnn,tnl)tnl)kefe,(erg,uur)nrxi,(aty)anei)svnu)ocea;
+END;

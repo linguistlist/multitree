@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Tunica: Golla, Goddard, Campbell, Mithun, Mixco 2007]
+BEGIN TREES;
+TRANSLATE 069 Yazoo,
+07a Koroa,
+07b Tiou,
+07c Grigra,
+tun Tunica,
+tuni Tunica;
+TREE 17018 = [&R] (tun,069,07b,07c,07a)tuni;
+END;

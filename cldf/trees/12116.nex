@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Tyrrhenian: Composite]
+BEGIN TREES;
+TRANSLATE ett Etruscan,
+tyrr Tyrrhenian,
+xle Lemnian;
+TREE 12116 = [&R] (xle,ett)tyrr;
+END;

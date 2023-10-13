@@ -1,0 +1,27 @@
+#NEXUS
+[MultiTree: Moquelumnan: Powell 1891]
+BEGIN TREES;
+TRANSLATE 004 Newichumni,
+005 Machemni,
+006 Lopolatimne,
+007 Tamal,
+008 Tulare,
+cost Olamentke,
+csi Bollanos,
+csi_bod Hettitoya,
+csi_mar Likatuit,
+csm_wes Olowidok,
+cst Olamentke,
+cst_cho Chokuyem,
+cst_ram Sonomi,
+miwo Miwok,
+mkq Sakaiakumni,
+moqm Moquelumnan,
+nsq Seroushamne,
+nsq_cam Mokelumni,
+skd Talatui,
+skd_mar Tulare,
+skd_sou Yuloni,
+skd_yos Chauchila;
+TREE 14200 = [&R] ((005,nsq,004,006,skd,skd_sou,nsq_cam,008,007,mkq,skd_yos)miwo,(csi,csi_bod,cst_ram,cst,cst_cho,skd_mar,csm_wes,csi_mar)cost)moqm;
+END;

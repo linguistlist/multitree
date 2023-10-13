@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Lencan: Campbell 1997]
+BEGIN TREES;
+TRANSLATE 062 'Salvadoran Lenca',
+1ht 'Honduran Lenca',
+lenc Lencan;
+TREE 11924 = [&R] (1ht,062)lenc;
+END;

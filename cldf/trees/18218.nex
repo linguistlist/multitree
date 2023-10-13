@@ -1,0 +1,22 @@
+#NEXUS
+[MultiTree: Proto Gunwinyguan: Alpher, Evans, and Harvey 2003]
+BEGIN TREES;
+TRANSLATE bkgn 'Bak Group',
+djn Jawoyn,
+gunw 'Proto Gunwinyguan',
+gup Kunwinjku,
+gup_gun Kune,
+mpc Mangarayi,
+mrne 'Marne Group',
+ngk Dalabon,
+nid Ngandi,
+nig Ngalakan,
+nuy Nunggubuyu,
+pcgn 'Proto Central Gunwinyguan',
+pegn 'Proto Eastern Gunwinyguan',
+pwgn 'Proto Western Gunwinyguan',
+rmb Rembarrnga,
+wlg Kunbarlang,
+wrz Warray;
+TREE 18218 = [&R] (mpc,((nig,rmb,nid)pegn,nuy)bkgn,(((gup_gun,gup,gup)gup,ngk)pcgn,wlg)mrne,(djn,wrz)pwgn)gunw;
+END;

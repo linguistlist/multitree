@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Tacanan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE aro Araona,
+cav Cavineña,
+ese 'Ese Ejja',
+taca Tacanan,
+tna Tacana;
+TREE 10725 = [&R] (aro,cav,ese,tna)taca;
+END;

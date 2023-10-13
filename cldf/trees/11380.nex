@@ -1,0 +1,26 @@
+#NEXUS
+[MultiTree: Dravidian: Konow 1906]
+BEGIN TREES;
+TRANSLATE daq_emu_fmu_ggo_gno_kwx_mrr_mut_nbg_pch Gōṇḍī,
+drav Dravidian,
+eoip 'Toda-Kanarese',
+fksv 'Central-South Dravidian',
+kfa Koḍagu,
+kfb Kōlāmī,
+kfe Kōta,
+kmj_mjt Malto,
+kru_kxl Kurukh,
+ktyp 'Tamil-Malayāḷam',
+kxu Kui,
+mal Malayāḷam,
+ndrv 'North Dravidian',
+nit Naikī,
+opmm 'Gōṇḍī-Telugu',
+taka 'Tamil-Kanarese',
+tam Tamil,
+tcx Toda,
+tcy Tuḷu,
+todk 'Toda-Kōta',
+xeui 'Kurukh-Malto';
+TREE 11380 = [&R] ((((tam,mal)ktyp,(kru_kxl,kmj_mjt)xeui,((tcx,kfe)todk)eoip,kfa,tcy)taka,(nit,kfb,kxu,daq_emu_fmu_ggo_gno_kwx_mrr_mut_nbg_pch)opmm)fksv,ndrv)drav;
+END;

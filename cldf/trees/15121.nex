@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Macro-Otomakoan: Kaufman 2007]
+BEGIN TREES;
+TRANSLATE amr Amarakaéri,
+hug Wachipaéri,
+mcmk 'Macro-Otomakon',
+otmc Otomakoan,
+qlf Taparita,
+qpg Otomako,
+tpy Trumai,
+tuyo 'Tuyoneri language area';
+TREE 15121 = [&R] ((qpg,tpy,qlf)otmc,(hug,amr)tuyo)mcmk;
+END;

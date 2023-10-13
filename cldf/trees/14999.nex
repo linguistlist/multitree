@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Keresan Isolate:  Zisa 1970]
+BEGIN TREES;
+TRANSLATE kee_coc Cochiti,
+kee_kjq Keresan,
+kee_saa 'Santa Ana',
+kee_sad 'Santo Domingo',
+kee_san 'San Felipe',
+kee_zia Zia,
+kere 'Keresan Isolate',
+kjq_aco Acoma,
+kjq_lag Laguna;
+TREE 14999 = [&R] ((kee_sad,kjq_lag,kee_coc,kee_zia,kjq_aco,kee_saa,kee_san)kee_kjq)kere;
+END;

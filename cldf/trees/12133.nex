@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Sentani: Dryer 2005]
+BEGIN TREES;
+TRANSLATE sent Sentani,
+set Sentani,
+tnm Tabla;
+TREE 12133 = [&R] (set,tnm)sent;
+END;

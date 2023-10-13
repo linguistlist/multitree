@@ -1,0 +1,37 @@
+#NEXUS
+[MultiTree: Proto-Eastern Oceanic: Green 1966]
+BEGIN TREES;
+TRANSLATE aut Austral,
+cenp 'Proto-Central',
+ceoc 'Proto-Eastern Oceanic',
+ctnp 'Proto-Polynesian',
+efij 'Proto-Fijic',
+enpo 'Proto-Eastern Polynesian',
+fij Fijian,
+fud_fut Futuan,
+haw Hawaiian,
+marq 'Proto-Marquesic',
+mqhw 'Southeast Marquean-Hawaiian',
+mqm 'Southeast Marquean',
+mri Maori,
+mrq 'Northwest Marquean',
+mrv Mangarevan,
+niu Niuean,
+pmt Tuamotuan,
+poly 'Proto-Nuclear Polynesian',
+pout Outliers,
+psam 'Proto-Samoic',
+rap Easter,
+rar Rarotongan,
+ray Rapan,
+smo Samoan,
+tah Tahitian,
+tahi 'Proto-Tahitic',
+tkp Tikopian,
+tngi 'Proto-Tongic',
+tnuv 'Tongan-Uvean',
+ton Tongan,
+tvl Ellicean,
+uve_wls Uvean;
+TREE 24444 = [&R] ((((((aut,pmt,rar,mri,tah)tahi,(mrq,(haw,mqm)mqhw,mrv,ray)marq)cenp,rap,(pout,tkp,fud_fut,tvl,smo)psam)enpo,((uve_wls,ton)tnuv,niu)tngi)poly,(fij)efij)ctnp)ceoc;
+END;

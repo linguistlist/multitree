@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Shinkan Complex: Kaufman 2007]
+BEGIN TREES;
+TRANSLATE 2df Chiguimuliya,
+qco Yupiltepegue,
+qco_jut Jutiapa,
+qda Guazacapán,
+qhq Jumaytepegue,
+xink 'Shinkan Complex';
+TREE 16459 = [&R] (qco,qhq,qda,qco_jut,2df)xink;
+END;

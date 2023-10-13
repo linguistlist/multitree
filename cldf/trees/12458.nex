@@ -1,0 +1,30 @@
+#NEXUS
+[MultiTree: Macro-Ge: Dryer 2005]
+BEGIN TREES;
+TRANSLATE apn Apinaye,
+bor Bororo,
+boro Bororo,
+fun Fulnio,
+fun_yat Yatê,
+geka 'Ge-Kaingang',
+gta Guato,
+guat Guat,
+kari Kariri,
+karj Karaj,
+kgp Kaingang,
+kpj Javaé,
+kzw Kariri,
+macg 'Macro-Ge',
+maxa Maxakali,
+mbl Maxakali,
+ram_can Canela,
+ram_xra 'Canela-Krahô',
+rikb Rikbaktsa,
+rkb Rikbaktsa,
+txu Kayapo,
+xav Xavánte,
+xer Xerénte,
+xok Xokleng,
+xra_kra Krahô;
+TREE 12458 = [&R] ((mbl)maxa,(xra_kra,ram_can,xav,xer,txu,ram_xra,xok,kgp,apn)geka,(kzw)kari,(kpj)karj,(gta)guat,(bor)boro,(rkb)rikb,(fun)fun_yat)macg;
+END;

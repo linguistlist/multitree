@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Sino-Caucasian: Nikolaev 1991]
+BEGIN TREES;
+TRANSLATE algi 'Algonquian-Ritwan',
+atet_loth 'Tlingit-Athapascan',
+atha Athapascan,
+athe_nnde 'Eyak-Athapascan',
+eya Eyak,
+hax_hdn Haida,
+hup Hupa,
+nadn 'Na-Dene',
+nav Navaho,
+ncau 'North Caucasian',
+sali Salishan,
+sica 'Sino-Caucasian',
+sitb 'Sino-Tibetan',
+srs Sarsi,
+tli Tlingit,
+yeos 'Yenisei languages';
+TREE 26142 = [&R] ((((eya,(hup,nav,srs)atha)athe_nnde,tli)atet_loth,hax_hdn)nadn,ncau,sitb,yeos,algi,sali)sica;
+END;

@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: North American Sign Language: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE ndsl 'North American Sign Language',
+psd 'Plains Indian Sign Language';
+TREE 12405 = [&R] (psd)ndsl;
+END;

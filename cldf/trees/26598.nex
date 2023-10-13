@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Australian Sign Language: Composite]
+BEGIN TREES;
+TRANSLATE asw 'Australian Aborigines Sign Language',
+ausl 'Australian Sign Language',
+rsm 'Miriwoong Sign Language',
+ygs 'Yolŋu Sign Language',
+yhs 'Yan-nhaŋu Sign Language';
+TREE 26598 = [&R] (asw,rsm,yhs,ygs)ausl;
+END;

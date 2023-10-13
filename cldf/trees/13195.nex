@@ -1,0 +1,36 @@
+#NEXUS
+[MultiTree: Uralic-Yukaghir: Anonymous 2009]
+BEGIN TREES;
+TRANSLATE adjw 'Uralic-Yukaghir',
+bfin 'Baltic-Finnic',
+cher Mari,
+enf_enh Enets,
+est Estonian,
+fin Finnish,
+finn Finnic,
+fugr 'Finno-Ugric',
+hun Hungarian,
+izh Ingrian,
+kca Khanty,
+koi Permyak,
+kpv Komi,
+krl Karelian,
+lapp Sami,
+liv Livonian,
+mns Mansi,
+mord Mordvin,
+nio Nganasan,
+obug 'Ob-Ugric',
+perm Permic,
+sel Selkup,
+smoy Samoyedic,
+udm Udmurt,
+ugri Ugric,
+vep Veps,
+vot Votic,
+ykg Tundra,
+yrk Nenets,
+yuka Yukaghir,
+yux Kolyma;
+TREE 13195 = [&R] (((hun,(mns,kca)obug)ugri,((fin,vep,izh,liv,vot,krl,est)bfin,lapp,(koi,kpv,udm)perm,cher,mord)finn)fugr,(sel,yrk,enf_enh,nio)smoy,(yux,ykg)yuka)adjw;
+END;

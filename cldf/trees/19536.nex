@@ -1,0 +1,27 @@
+#NEXUS
+[MultiTree: Proto-Northern Kimberley: Capell and Coate 1984]
+BEGIN TREES;
+TRANSLATE 080 Windjarumi,
+081 'Forrest River',
+081_gma_gww_wil_wub 'Northern Language',
+0ik Munumburu,
+ewor 'South-East',
+gma_wub_gam Gambere,
+gww Gɨnan,
+jbw Jawdjibara,
+nwor North,
+swor South,
+ung Ngarinjin,
+ung_guw Guwidj,
+ung_wil_wil Wilawila,
+ung_wol Woljamidi,
+ung_wur Waladjangari,
+worn 'Proto-Northern Kimberley',
+wro Worora,
+wub_wub_wun Wunambal,
+wwor 'South-West',
+xgu Unggumi,
+xud Umida,
+xun Unggarangi;
+TREE 19536 = [&R] ((((0ik,ung_wur,ung_wol,ung_guw)ung)ewor,(wro,xud,xun,xgu,080,jbw)wwor)swor,((wub_wub_wun,ung_wil_wil,gww,081,gma_wub_gam)081_gma_gww_wil_wub)nwor)worn;
+END;

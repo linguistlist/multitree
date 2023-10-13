@@ -1,0 +1,32 @@
+#NEXUS
+[MultiTree: Amerind: Ruhlen 1991A]
+BEGIN TREES;
+TRANSLATE alke 'Almosan-Keresiouan',
+alms Almosan,
+amin Amerind,
+amns 'Northern and Southern Amerind',
+amse 'Southeastern Amerind',
+andn Andean,
+came 'Central Amerind',
+chbp 'Chibchan-Paezan',
+chib Chibchan,
+eqtu 'Equatorial-Tucanoan',
+gepc 'Ge-Pano-Carib',
+gpno 'Ge-Pano',
+hoka Hokan,
+kita Tanoan,
+krsn Keresiouan,
+macc 'Macro-Carib',
+macg 'Macro-Ge',
+macp 'Macro-Panoan',
+mact 'Macro-Tucanoan',
+mwva Equatorial,
+nabr 'Northern Amerind',
+otma 'Oto-Manguean',
+paez Paezan,
+penu Penutian,
+saam 'South American Amerind',
+soam 'Southern Amerind',
+utaz 'Uto-Aztecan';
+TREE 26297 = [&R] ((((((mwva,mact)eqtu,((macg,macp)gpno,macc)gepc)amse,andn)saam,(chib,paez)chbp)soam,(penu,(alms,krsn)alke,hoka)nabr)amns,(otma,kita,utaz)came)amin;
+END;

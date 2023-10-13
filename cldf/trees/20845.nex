@@ -1,0 +1,22 @@
+#NEXUS
+[MultiTree: Pearic, subtree of Mon-Khmer (Austo-Asiatic): Headley 1985]
+BEGIN TREES;
+TRANSLATE 1l3 'Chong of Trat',
+1pf 'Thai Chong',
+cog 'Chong of Chantaburi',
+cog_bnk_cog_tak 'Chong Lɔɔ',
+cog_pnr 'Chong Həəp',
+mkhm 'Mon-Khmer',
+ncpe 'North Central Pearic',
+nepe 'Northeastern Pearic',
+pcb 'Pearic of Kompong Thom',
+pear Pearic,
+scpe 'South Central Pearic',
+scq 'Saoch of Veal Renh',
+sepe 'Southeastern Pearic',
+smu 'Somray of Battambang',
+sxm 'Samre of Pursat',
+syo 'Suoi of Kompong Speu',
+wpea 'Western Pearic';
+TREE 20845 = [&R] (((pcb,pcb)nepe,(cog_bnk_cog_tak,cog_pnr,cog)wpea,(scq,syo)sepe,(smu)ncpe,(1pf,1l3,sxm)scpe)pear)mkhm;
+END;

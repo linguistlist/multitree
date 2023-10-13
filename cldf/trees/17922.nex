@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: Australian Sign Language: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE asw 'Australian Aborigines Sign Language',
+ausl 'Australian Sign Language';
+TREE 17922 = [&R] (asw)ausl;
+END;

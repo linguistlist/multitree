@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Nubian, a subtree of Nilo-Saharan: Bechhaus-Geret 1989]
+BEGIN TREES;
+TRANSLATE brk Birgid,
+cnub 'Central Nubian',
+dgl_xnz 'Kenuz/Dongola',
+dil Dilling,
+dil_deb Debri,
+dil_drb_elh_ghl_kdu_kko_wll 'Hill Nubian',
+fia Nobiin,
+kdu Kadaru,
+mei Meidob,
+nnub 'Northern Nuian',
+nubn Nubian,
+wcnb 'West/Central Nubian',
+wnub 'Western Nubian';
+TREE 22586 = [&R] ((((dil_deb,dil,kdu)dil_drb_elh_ghl_kdu_kko_wll,brk,dgl_xnz)cnub,(mei)wnub)wcnb,(fia)nnub)nubn;
+END;

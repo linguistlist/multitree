@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Tsimishian: Campbell 1997]
+BEGIN TREES;
+TRANSLATE git_eas 'Eastern Gitksan',
+git_ncg 'Nass-Gitksan',
+git_nis Nishga,
+git_sou 'Southern Gitksan',
+tsi_coa 'Coast Tsimshian',
+tsi_sou 'Southern Tsimshian',
+tsim Tsimshian;
+TREE 11317 = [&R] (tsi_sou,tsi_coa,(git_eas,git_nis,git_sou)git_ncg)tsim;
+END;

@@ -1,0 +1,26 @@
+#NEXUS
+[MultiTree: Tukanoan: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE 0n7 Kueretú,
+arj Arapaso,
+bao_bsn 'Bará-Tuyuka',
+cbc Carapano,
+coe Coreguaje,
+cub Cubeo,
+des_sri 'Desano-Siriano',
+etuc 'Eastern Tukanoan',
+gvc_pir 'Wanano-Piratapuyo',
+mcl_sey_snn Macaguaje,
+myy Macuna,
+ore Orejón,
+ore_neb Nebaji,
+qmv 'Yupuá-Duriña',
+teb Teteté,
+tucn Tukanoan,
+tuo Tucano,
+tuo_was Wasona,
+tuo_yoh Yohoraa,
+wtuc 'Western Tukanoan',
+ynu Yahuna;
+TREE 21964 = [&R] (((tuo_was,tuo_yoh)tuo,myy,gvc_pir,arj,cbc,cub,qmv,0n7,des_sri,bao_bsn)etuc,(mcl_sey_snn,ynu,(ore_neb)ore,coe,teb)wtuc)tucn;
+END;

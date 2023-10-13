@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Mairasi: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE etz Semimi,
+mair Mairasi,
+mnu Mer,
+zrs Mairasi,
+zrs_nor 'Northeastern Mairasi';
+TREE 21229 = [&R] (etz,(zrs_nor)zrs,mnu)mair;
+END;

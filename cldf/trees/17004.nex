@@ -1,0 +1,36 @@
+#NEXUS
+[MultiTree: Siouan-Catawban: Golla, Goddard, Campbell, Mithun, Mixco 2007]
+BEGIN TREES;
+TRANSLATE asb_sto Assiniboine,
+bll Biloxi,
+cata Catawban,
+chc Catawba,
+chwi 'Chiwere-Winnebago',
+cro Crow,
+dak Sioux,
+dak_dak_dak_san 'Santee-Sisseton',
+dak_tet_lkt Teton,
+dak_yan 'Yankton-Yanktonai',
+dako Dakotan,
+dheg Dhegiha,
+hid Hidatsa,
+iow Chiwere,
+iow_iow Iowa,
+iow_mis_iow_niu Missouri,
+iow_oto Otoe,
+ksk Kansa,
+ksk_osa Osage,
+mann Mandan,
+mhq Mandan,
+misv 'Missouri River',
+ofo Ofo,
+oma 'Omaha-Ponca',
+qua Quapaw,
+siop Siouan,
+siou 'Siouan-Catawban',
+sspr Southeastern,
+tta Tutelo,
+win Winnebago,
+xwc Woccon;
+TREE 17004 = [&R] ((xwc,chc)cata,(((dak_yan,dak_dak_dak_san,dak_tet_lkt)dak,asb_sto,asb_sto)dako,(mhq)mann,(cro,hid)misv,(tta,bll,ofo)sspr,((iow_iow,iow_oto,iow_mis_iow_niu)iow,win)chwi,(ksk,oma,qua,ksk_osa)dheg)siop)siou;
+END;

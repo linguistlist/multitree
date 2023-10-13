@@ -1,0 +1,27 @@
+#NEXUS
+[MultiTree: Afro-Asiatic Family: Blench 1999]
+BEGIN TREES;
+TRANSLATE abbc 'Agaw-Beja-Cushitic',
+afsm Semitic,
+areg Egyptian,
+ausa 'Proto Aftro-Asiatic',
+awn Agaw,
+bej Beja,
+berb Berter,
+bxe Ongota,
+ccha 'Central Chadic',
+chad Chadic,
+cuch 'Cushitic-Chadic',
+dal Dahalo,
+echa 'East Chadic',
+ecus 'E. Cushitic',
+elx Elamite,
+eooc 'Erythraic-Omotic-Ongota',
+eryt Erythraic,
+mcn Masa,
+nafa 'North-Afroasiatic',
+omot Omotic,
+scus 'S. Cushitic',
+wcha 'West Chadic';
+TREE 25904 = [&R] ((((afsm,areg,berb)nafa,((ecus,awn,dal,bej,scus)abbc,(mcn,wcha,ccha,echa)chad)cuch)eryt,bxe,omot)eooc,elx)ausa;
+END;

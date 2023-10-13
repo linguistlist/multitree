@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Jaqi: Hardman 1986]
+BEGIN TREES;
+TRANSLATE ayc_ayr Aymara,
+ayma 'Proto-Jaqi',
+aymp 'Proto Aymara',
+jqr Jaqaru,
+jqr_cau Kawki;
+TREE 16956 = [&R] (jqr,(ayc_ayr,jqr_cau)aymp)ayma;
+END;

@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Middle American Isolates: Campbell 1997]
+BEGIN TREES;
+TRANSLATE cais 'Middle American Isolates',
+huav Huave,
+hue 'San Francisco',
+huv 'San Mateo',
+hve 'San Dionisio',
+hvv 'Santa María',
+pua_tsz Tarascan,
+qpb Cuitlatec,
+sei Seri;
+TREE 11645 = [&R] ((hve,hue,hvv,huv)huav,sei,pua_tsz,qpb)cais;
+END;

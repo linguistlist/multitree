@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Africa</region>
+    <root>
+      <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+      <creator-id type="integer">10700</creator-id>
+      <tree-id type="integer">25041</tree-id>
+      <other-codes></other-codes>
+      <end-date nil="true"></end-date>
+      <codes>nilc</codes>
+      <pri-name>Nilotiche</pri-name>
+      <node-status-id nil="true"></node-status-id>
+      <deleted-at nil="true"></deleted-at>
+      <updater-id type="integer">10700</updater-id>
+      <pub-comments>Node not named by author: &#8220;...possono ammettersi tre grandi distinzioni, linguistico-geografiche&#8221; (Rossini 1926:167).</pub-comments>
+      <id type="integer">988915</id>
+      <geography nil="true"></geography>
+      <created-at type="datetime">2013-08-16T17:05:04-04:00</created-at>
+      <sureness type="integer">0</sureness>
+      <node-type>Subgroup</node-type>
+      <updated-at type="datetime">2013-08-16T17:05:04-04:00</updated-at>
+      <status nil="true"></status>
+      <confidence>y</confidence>
+      <children type="array">
+        <child>
+          <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+          <creator-id type="integer">10700</creator-id>
+          <tree-id type="integer">25041</tree-id>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <codes>0gn9</codes>
+          <pri-name>Orientale-meridionale</pri-name>
+          <node-status-id nil="true"></node-status-id>
+          <deleted-at nil="true"></deleted-at>
+          <updater-id type="integer">10700</updater-id>
+          <pub-comments>&#8220;... sotto-gruppo che verisimilmente trovossi assai pi&#249; in contatto con le influenze Bantu&#8221; (Rossini 1926:168).</pub-comments>
+          <id type="integer">988929</id>
+          <geography nil="true"></geography>
+          <created-at type="datetime">2013-08-16T17:05:05-04:00</created-at>
+          <sureness type="integer">0</sureness>
+          <node-type>Subgroup</node-type>
+          <updated-at type="datetime">2013-08-16T17:05:05-04:00</updated-at>
+          <status nil="true"></status>
+          <confidence>y</confidence>
+          <children type="array">
+            <child>
+              <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+              <creator-id type="integer">10700</creator-id>
+              <tree-id type="integer">25041</tree-id>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <codes>maas</codes>
+              <pri-name>M&#225;sai</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <updater-id type="integer">10700</updater-id>
+              <pub-comments>"sotto-gruppo orientale-meridionale, suddiviso in due e forse in tre famiglie : famiglia Bari, e famiglia Masai col Nandi, col Suc e probabilmente col Turcana, se pur questo non costituisce une terza famiglia" (Rossini 1926:167).</pub-comments>
+              <id type="integer">988932</id>
+              <geography nil="true"></geography>
+              <created-at type="datetime">2013-08-16T17:05:05-04:00</created-at>
+              <sureness type="integer">0</sureness>
+              <node-type>Subgroup</node-type>
+              <updated-at type="datetime">2013-08-16T17:05:06-04:00</updated-at>
+              <status nil="true"></status>
+              <confidence>y</confidence>
+              <children type="array">
+                <child>
+                  <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+                  <creator-id type="integer">10700</creator-id>
+                  <tree-id type="integer">25041</tree-id>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <codes>nand</codes>
+                  <pri-name>Nandi</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updater-id type="integer">10700</updater-id>
+                  <pub-comments></pub-comments>
+                  <id type="integer">988934</id>
+                  <geography>ad oriente del lago Victoria Nyanza, eh che, pur non giungendo mai al lago, estendesi da monte Elgon alle falde SW dei monti Mau</geography>
+                  <created-at type="datetime">2013-08-16T17:05:06-04:00</created-at>
+                  <sureness type="integer">0</sureness>
+                  <node-type>Dialect Group</node-type>
+                  <updated-at type="datetime">2013-08-16T17:05:06-04:00</updated-at>
+                  <status nil="true"></status>
+                  <confidence>n</confidence>
+                  <children type="array">
+                    <child>
+                      <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+                      <creator-id type="integer">10700</creator-id>
+                      <tree-id type="integer">25041</tree-id>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <codes>niq</codes>
+                      <pri-name>Nandi</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updater-id type="integer">10700</updater-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">988937</id>
+                      <geography>sui monti omonimi, e a NE del lago, da cui lo separa la tribu dei Kavirondo</geography>
+                      <created-at type="datetime">2013-08-16T17:05:06-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <node-type>Dialect</node-type>
+                      <updated-at type="datetime">2013-08-16T17:05:06-04:00</updated-at>
+                      <status nil="true"></status>
+                      <confidence>n</confidence>
+                      <children type="array"/>
+                      <tree-val>Nilotiche: Rossini 1926</tree-val>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                    </child>
+                    <child>
+                      <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+                      <creator-id type="integer">10700</creator-id>
+                      <tree-id type="integer">25041</tree-id>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <codes>tuy</codes>
+                      <pri-name>Kamasia</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updater-id type="integer">10700</updater-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">988938</id>
+                      <geography>dimoranti sui monti che attorniano la vallata del Kerio</geography>
+                      <created-at type="datetime">2013-08-16T17:05:06-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <node-type>Dialect</node-type>
+                      <updated-at type="datetime">2013-08-16T17:05:07-04:00</updated-at>
+                      <status nil="true"></status>
+                      <confidence>n</confidence>
+                      <children type="array"/>
+                      <tree-val>Nilotiche: Rossini 1926</tree-val>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names>Tuken</alt-names>
+                    </child>
+                    <child>
+                      <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+                      <creator-id type="integer">10700</creator-id>
+                      <tree-id type="integer">25041</tree-id>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <codes>sgc</codes>
+                      <pri-name>Kipsikis</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updater-id type="integer">10700</updater-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">988940</id>
+                      <geography>a E dei Kavirondo</geography>
+                      <created-at type="datetime">2013-08-16T17:05:07-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <node-type>Dialect</node-type>
+                      <updated-at type="datetime">2013-08-16T17:05:07-04:00</updated-at>
+                      <status nil="true"></status>
+                      <confidence>n</confidence>
+                      <children type="array"/>
+                      <tree-val>Nilotiche: Rossini 1926</tree-val>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names>Lumbwa dai M&#225;sai</alt-names>
+                    </child>
+                    <child>
+                      <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+                      <creator-id type="integer">10700</creator-id>
+                      <tree-id type="integer">25041</tree-id>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <codes>niq-bur</codes>
+                      <pri-name>Burek</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updater-id type="integer">10700</updater-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">988941</id>
+                      <geography>a sud dei precedenti [leggi: i Kipsikis]</geography>
+                      <created-at type="datetime">2013-08-16T17:05:07-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <node-type>Dialect</node-type>
+                      <updated-at type="datetime">2013-08-16T17:05:07-04:00</updated-at>
+                      <status nil="true"></status>
+                      <confidence>n</confidence>
+                      <children type="array"/>
+                      <tree-val>Nilotiche: Rossini 1926</tree-val>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                    </child>
+                    <child>
+                      <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+                      <creator-id type="integer">10700</creator-id>
+                      <tree-id type="integer">25041</tree-id>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <codes>eyo</codes>
+                      <pri-name>Keyu</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updater-id type="integer">10700</updater-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">988936</id>
+                      <geography>dimoranti sui monti che attorniano la vallata del Kerio</geography>
+                      <created-at type="datetime">2013-08-16T17:05:06-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <node-type>Dialect</node-type>
+                      <updated-at type="datetime">2013-08-16T17:05:06-04:00</updated-at>
+                      <status nil="true"></status>
+                      <confidence>n</confidence>
+                      <children type="array"/>
+                      <tree-val>Nilotiche: Rossini 1926</tree-val>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names>Elgeyu</alt-names>
+                    </child>
+                    <child>
+                      <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+                      <creator-id type="integer">10700</creator-id>
+                      <tree-id type="integer">25041</tree-id>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <codes>niq-sot</codes>
+                      <pri-name>Sotik</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updater-id type="integer">10700</updater-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">988942</id>
+                      <geography>ancora piu a sud</geography>
+                      <created-at type="datetime">2013-08-16T17:05:07-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <node-type>Dialect</node-type>
+                      <updated-at type="datetime">2013-08-16T17:05:07-04:00</updated-at>
+                      <status nil="true"></status>
+                      <confidence>n</confidence>
+                      <children type="array"/>
+                      <tree-val>Nilotiche: Rossini 1926</tree-val>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names>Soot</alt-names>
+                    </child>
+                    <child>
+                      <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+                      <creator-id type="integer">10700</creator-id>
+                      <tree-id type="integer">25041</tree-id>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <codes>spy-koo</codes>
+                      <pri-name>Ko&#241;</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updater-id type="integer">10700</updater-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">988935</id>
+                      <geography>presso monte Elgon</geography>
+                      <created-at type="datetime">2013-08-16T17:05:06-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <node-type>Dialect</node-type>
+                      <updated-at type="datetime">2013-08-16T17:05:06-04:00</updated-at>
+                      <status nil="true"></status>
+                      <confidence>n</confidence>
+                      <children type="array"/>
+                      <tree-val>Nilotiche: Rossini 1926</tree-val>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names>Elgo&#241;</alt-names>
+                    </child>
+                    <child>
+                      <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+                      <creator-id type="integer">10700</creator-id>
+                      <tree-id type="integer">25041</tree-id>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <codes>niq-mut</codes>
+                      <pri-name>Mutei</pri-name>
+                      <node-status-id nil="true"></node-status-id>
+                      <deleted-at nil="true"></deleted-at>
+                      <updater-id type="integer">10700</updater-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">988939</id>
+                      <geography>dimoranti sui monti che attorniano la vallata del Kerio</geography>
+                      <created-at type="datetime">2013-08-16T17:05:07-04:00</created-at>
+                      <sureness type="integer">0</sureness>
+                      <node-type>Dialect</node-type>
+                      <updated-at type="datetime">2013-08-16T17:05:07-04:00</updated-at>
+                      <status nil="true"></status>
+                      <confidence>n</confidence>
+                      <children type="array"/>
+                      <tree-val>Nilotiche: Rossini 1926</tree-val>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <alt-names></alt-names>
+                    </child>
+                  </children>
+                  <tree-val>Nilotiche: Rossini 1926</tree-val>
+                  <is-default type="integer">0</is-default>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10004</node-type-id>
+                  <alt-names>M&#225;sai col Nandi</alt-names>
+                </child>
+                <child>
+                  <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+                  <creator-id type="integer">10700</creator-id>
+                  <tree-id type="integer">25041</tree-id>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <codes>pko</codes>
+                  <pri-name>Suc</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updater-id type="integer">10700</updater-id>
+                  <pub-comments></pub-comments>
+                  <id type="integer">988943</id>
+                  <geography>degli Endo, tribu occupante I dirupi di Elgheio subito a sud di Kapas</geography>
+                  <created-at type="datetime">2013-08-16T17:05:07-04:00</created-at>
+                  <sureness type="integer">0</sureness>
+                  <node-type>Language</node-type>
+                  <updated-at type="datetime">2013-08-16T17:05:07-04:00</updated-at>
+                  <status nil="true"></status>
+                  <confidence>y</confidence>
+                  <children type="array"/>
+                  <tree-val>Nilotiche: Rossini 1926</tree-val>
+                  <is-default type="integer">0</is-default>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>M&#225;sai col Suc, Suk</alt-names>
+                </child>
+                <child>
+                  <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+                  <creator-id type="integer">10700</creator-id>
+                  <tree-id type="integer">25041</tree-id>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <codes>mas</codes>
+                  <pri-name>M&#225;sai</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updater-id type="integer">10700</updater-id>
+                  <pub-comments></pub-comments>
+                  <id type="integer">988933</id>
+                  <geography nil="true"></geography>
+                  <created-at type="datetime">2013-08-16T17:05:06-04:00</created-at>
+                  <sureness type="integer">0</sureness>
+                  <node-type>Language</node-type>
+                  <updated-at type="datetime">2013-08-16T17:05:06-04:00</updated-at>
+                  <status nil="true"></status>
+                  <confidence>y</confidence>
+                  <children type="array"/>
+                  <tree-val>Nilotiche: Rossini 1926</tree-val>
+                  <is-default type="integer">0</is-default>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                </child>
+                <child>
+                  <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+                  <creator-id type="integer">10700</creator-id>
+                  <tree-id type="integer">25041</tree-id>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <codes>tuv</codes>
+                  <pri-name>Turc&#224;na</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updater-id type="integer">10700</updater-id>
+                  <pub-comments>&#8220;... se pur questo non costituisce una terza famiglia...&#8221; (Rossini 1926:167).</pub-comments>
+                  <id type="integer">988944</id>
+                  <geography nil="true"></geography>
+                  <created-at type="datetime">2013-08-16T17:05:07-04:00</created-at>
+                  <sureness type="integer">-1</sureness>
+                  <node-type>Language</node-type>
+                  <updated-at type="datetime">2013-08-16T17:05:07-04:00</updated-at>
+                  <status nil="true"></status>
+                  <confidence>y</confidence>
+                  <children type="array"/>
+                  <tree-val>Nilotiche: Rossini 1926</tree-val>
+                  <is-default type="integer">0</is-default>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>M&#225;sai col Turc&#224;na, Turcana</alt-names>
+                </child>
+              </children>
+              <tree-val>Nilotiche: Rossini 1926</tree-val>
+              <is-default type="integer">0</is-default>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+            </child>
+            <child>
+              <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+              <creator-id type="integer">10700</creator-id>
+              <tree-id type="integer">25041</tree-id>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <codes>bari</codes>
+              <pri-name>Bari</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <updater-id type="integer">10700</updater-id>
+              <pub-comments></pub-comments>
+              <id type="integer">988930</id>
+              <geography nil="true"></geography>
+              <created-at type="datetime">2013-08-16T17:05:05-04:00</created-at>
+              <sureness type="integer">0</sureness>
+              <node-type>Subgroup</node-type>
+              <updated-at type="datetime">2013-08-16T17:05:05-04:00</updated-at>
+              <status nil="true"></status>
+              <confidence>y</confidence>
+              <children type="array">
+                <child>
+                  <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+                  <creator-id type="integer">10700</creator-id>
+                  <tree-id type="integer">25041</tree-id>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <codes>bfa</codes>
+                  <pri-name>Bari</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updater-id type="integer">10700</updater-id>
+                  <pub-comments></pub-comments>
+                  <id type="integer">988931</id>
+                  <geography nil="true"></geography>
+                  <created-at type="datetime">2013-08-16T17:05:05-04:00</created-at>
+                  <sureness type="integer">0</sureness>
+                  <node-type>Language</node-type>
+                  <updated-at type="datetime">2013-08-16T17:05:05-04:00</updated-at>
+                  <status nil="true"></status>
+                  <confidence>y</confidence>
+                  <children type="array"/>
+                  <tree-val>Nilotiche: Rossini 1926</tree-val>
+                  <is-default type="integer">0</is-default>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                </child>
+              </children>
+              <tree-val>Nilotiche: Rossini 1926</tree-val>
+              <is-default type="integer">0</is-default>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+            </child>
+          </children>
+          <tree-val>Nilotiche: Rossini 1926</tree-val>
+          <is-default type="integer">0</is-default>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+        </child>
+        <child>
+          <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+          <creator-id type="integer">10700</creator-id>
+          <tree-id type="integer">25041</tree-id>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <codes>wnil</codes>
+          <pri-name>Centrale</pri-name>
+          <node-status-id nil="true"></node-status-id>
+          <deleted-at nil="true"></deleted-at>
+          <updater-id type="integer">10700</updater-id>
+          <pub-comments>&#8220;Sono i linguaggi che meglio hanno serbate le caratteristiche del gruppo&#8221; (Rossini 1926:167).</pub-comments>
+          <id type="integer">988918</id>
+          <geography nil="true"></geography>
+          <created-at type="datetime">2013-08-16T17:05:04-04:00</created-at>
+          <sureness type="integer">0</sureness>
+          <node-type>Subgroup</node-type>
+          <updated-at type="datetime">2013-08-16T17:05:04-04:00</updated-at>
+          <status nil="true"></status>
+          <confidence>y</confidence>
+          <children type="array">
+            <child>
+              <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+              <creator-id type="integer">10700</creator-id>
+              <tree-id type="integer">25041</tree-id>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <codes>luoo</codes>
+              <pri-name>Ci&#242;l</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <updater-id type="integer">10700</updater-id>
+              <pub-comments>&#8220;La famiglia Ci&#242;l &#232; vastissima: comprende gli Scilluc, sulle sponde occidentali del Nilo da 10&#176;5' a 9&#176;5'lat., sulle due sponde del basso Sob&#224;t, a Sciakwa el-Scilkawi presso il Bahr ez-Zer&#224;f, e sul Khor Atar a sud di Tonga; gli Agnu&#224;c, lungo il Sob&#224;t a NW di Nasser, lungo il fiume Baro od Ufeno, e nel distretto tra i fiumi Ghelo ed Acobo, nel sud-ovest dell'Etiopia; i Gang o Acioli, stabiliti sul fiume Assua e a nord del Lago Kioga; gli Aluru, a NW del Lago Alberto; i Lango, ad oriente del algo Kioga; i Cavirondo o Gia-luo, a NE del lago Vittoria; onde la distesa di terre in cui questa famiglia linguistica si &#232;, non senza interruzioni, affermata, pu&#242;, all'ingrosso, uguagliarsi a quella fra la Germanie centrale e la Calabrie: a fianco e nelle interruzioni sono i Dinca ed i Nu&#233;r&#8221; (Rossini 1926:70-1).</pub-comments>
+              <id type="integer">988919</id>
+              <geography nil="true"></geography>
+              <created-at type="datetime">2013-08-16T17:05:04-04:00</created-at>
+              <sureness type="integer">0</sureness>
+              <node-type>Subgroup</node-type>
+              <updated-at type="datetime">2013-08-16T17:05:04-04:00</updated-at>
+              <status nil="true"></status>
+              <confidence>y</confidence>
+              <children type="array">
+                <child>
+                  <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+                  <creator-id type="integer">10700</creator-id>
+                  <tree-id type="integer">25041</tree-id>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <codes>shk</codes>
+                  <pri-name>Scilluc</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updater-id type="integer">10700</updater-id>
+                  <pub-comments></pub-comments>
+                  <id type="integer">988920</id>
+                  <geography>sulle sponde occidentali del Nilo da 10&#176;5' a 9&#176;5'lat., sulle due sponde del basso Sob&#224;t, a Sciakwa el-Scilkawi presso il Bahr ez-Zer&#224;f, e sul Khor Atar a sud di Tonga</geography>
+                  <created-at type="datetime">2013-08-16T17:05:04-04:00</created-at>
+                  <sureness type="integer">0</sureness>
+                  <node-type>Language</node-type>
+                  <updated-at type="datetime">2013-08-16T17:05:04-04:00</updated-at>
+                  <status nil="true"></status>
+                  <confidence>y</confidence>
+                  <children type="array"/>
+                  <tree-val>Nilotiche: Rossini 1926</tree-val>
+                  <is-default type="integer">0</is-default>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                </child>
+                <child>
+                  <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+                  <creator-id type="integer">10700</creator-id>
+                  <tree-id type="integer">25041</tree-id>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <codes>alz</codes>
+                  <pri-name>Aluru</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updater-id type="integer">10700</updater-id>
+                  <pub-comments></pub-comments>
+                  <id type="integer">988924</id>
+                  <geography>a NW del Lago Alberto</geography>
+                  <created-at type="datetime">2013-08-16T17:05:04-04:00</created-at>
+                  <sureness type="integer">0</sureness>
+                  <node-type>Language</node-type>
+                  <updated-at type="datetime">2013-08-16T17:05:04-04:00</updated-at>
+                  <status nil="true"></status>
+                  <confidence>y</confidence>
+                  <children type="array"/>
+                  <tree-val>Nilotiche: Rossini 1926</tree-val>
+                  <is-default type="integer">0</is-default>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                </child>
+                <child>
+                  <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+                  <creator-id type="integer">10700</creator-id>
+                  <tree-id type="integer">25041</tree-id>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <codes>luo</codes>
+                  <pri-name>Cavirondo</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updater-id type="integer">10700</updater-id>
+                  <pub-comments></pub-comments>
+                  <id type="integer">988923</id>
+                  <geography>a NE del lago Vittoria</geography>
+                  <created-at type="datetime">2013-08-16T17:05:04-04:00</created-at>
+                  <sureness type="integer">0</sureness>
+                  <node-type>Language</node-type>
+                  <updated-at type="datetime">2013-08-16T17:05:04-04:00</updated-at>
+                  <status nil="true"></status>
+                  <confidence>y</confidence>
+                  <children type="array"/>
+                  <tree-val>Nilotiche: Rossini 1926</tree-val>
+                  <is-default type="integer">0</is-default>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>Gia-luo</alt-names>
+                </child>
+                <child>
+                  <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+                  <creator-id type="integer">10700</creator-id>
+                  <tree-id type="integer">25041</tree-id>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <codes>ach</codes>
+                  <pri-name>Gang</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updater-id type="integer">10700</updater-id>
+                  <pub-comments></pub-comments>
+                  <id type="integer">988922</id>
+                  <geography>stabiliti sul fiume Assua e a nord del Lago Kioga</geography>
+                  <created-at type="datetime">2013-08-16T17:05:04-04:00</created-at>
+                  <sureness type="integer">0</sureness>
+                  <node-type>Language</node-type>
+                  <updated-at type="datetime">2013-08-16T17:05:04-04:00</updated-at>
+                  <status nil="true"></status>
+                  <confidence>y</confidence>
+                  <children type="array"/>
+                  <tree-val>Nilotiche: Rossini 1926</tree-val>
+                  <is-default type="integer">0</is-default>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>Acioli</alt-names>
+                </child>
+                <child>
+                  <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+                  <creator-id type="integer">10700</creator-id>
+                  <tree-id type="integer">25041</tree-id>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <codes>anu</codes>
+                  <pri-name>Agnu&#224;c</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updater-id type="integer">10700</updater-id>
+                  <pub-comments></pub-comments>
+                  <id type="integer">988921</id>
+                  <geography>lungo il Sob&#224;t a NW di Nasser, lungo il fiume Baro od Ufeno, e nel distretto tra i fiumi Ghelo ed Acobo, nel sud-ovest dell'Etiopia</geography>
+                  <created-at type="datetime">2013-08-16T17:05:04-04:00</created-at>
+                  <sureness type="integer">0</sureness>
+                  <node-type>Language</node-type>
+                  <updated-at type="datetime">2013-08-16T17:05:04-04:00</updated-at>
+                  <status nil="true"></status>
+                  <confidence>y</confidence>
+                  <children type="array"/>
+                  <tree-val>Nilotiche: Rossini 1926</tree-val>
+                  <is-default type="integer">0</is-default>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                </child>
+                <child>
+                  <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+                  <creator-id type="integer">10700</creator-id>
+                  <tree-id type="integer">25041</tree-id>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <codes>laj, lno</codes>
+                  <pri-name>Lango</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updater-id type="integer">10700</updater-id>
+                  <pub-comments></pub-comments>
+                  <id type="integer">988925</id>
+                  <geography>ad oriente del algo Kioga</geography>
+                  <created-at type="datetime">2013-08-16T17:05:04-04:00</created-at>
+                  <sureness type="integer">0</sureness>
+                  <node-type>Language</node-type>
+                  <updated-at type="datetime">2013-08-16T17:05:05-04:00</updated-at>
+                  <status nil="true"></status>
+                  <confidence>y</confidence>
+                  <children type="array"/>
+                  <tree-val>Nilotiche: Rossini 1926</tree-val>
+                  <is-default type="integer">0</is-default>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                </child>
+              </children>
+              <tree-val>Nilotiche: Rossini 1926</tree-val>
+              <is-default type="integer">0</is-default>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names></alt-names>
+            </child>
+            <child>
+              <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+              <creator-id type="integer">10700</creator-id>
+              <tree-id type="integer">25041</tree-id>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <codes>dinn</codes>
+              <pri-name>Dinca-Nu&#233;r</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <updater-id type="integer">10700</updater-id>
+              <pub-comments></pub-comments>
+              <id type="integer">988926</id>
+              <geography nil="true"></geography>
+              <created-at type="datetime">2013-08-16T17:05:05-04:00</created-at>
+              <sureness type="integer">0</sureness>
+              <node-type>Subgroup</node-type>
+              <updated-at type="datetime">2013-08-16T17:05:05-04:00</updated-at>
+              <status nil="true"></status>
+              <confidence>y</confidence>
+              <children type="array">
+                <child>
+                  <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+                  <creator-id type="integer">10700</creator-id>
+                  <tree-id type="integer">25041</tree-id>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <codes>nus</codes>
+                  <pri-name>Nu&#233;r</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updater-id type="integer">10700</updater-id>
+                  <pub-comments>The author refers to this as both a language and as a family throughout the text.</pub-comments>
+                  <id type="integer">988928</id>
+                  <geography nil="true"></geography>
+                  <created-at type="datetime">2013-08-16T17:05:05-04:00</created-at>
+                  <sureness type="integer">0</sureness>
+                  <node-type>Language</node-type>
+                  <updated-at type="datetime">2013-08-16T17:05:05-04:00</updated-at>
+                  <status nil="true"></status>
+                  <confidence>y</confidence>
+                  <children type="array"/>
+                  <tree-val>Nilotiche: Rossini 1926</tree-val>
+                  <is-default type="integer">0</is-default>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names>Nuer</alt-names>
+                </child>
+                <child>
+                  <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+                  <creator-id type="integer">10700</creator-id>
+                  <tree-id type="integer">25041</tree-id>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <codes>dik, dks, dib, diw, dip</codes>
+                  <pri-name>Dinca</pri-name>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updater-id type="integer">10700</updater-id>
+                  <pub-comments>The author refers to this as both a language and as a family throughout the text.</pub-comments>
+                  <id type="integer">988927</id>
+                  <geography nil="true"></geography>
+                  <created-at type="datetime">2013-08-16T17:05:05-04:00</created-at>
+                  <sureness type="integer">0</sureness>
+                  <node-type>Language</node-type>
+                  <updated-at type="datetime">2013-08-16T17:05:05-04:00</updated-at>
+                  <status nil="true"></status>
+                  <confidence>y</confidence>
+                  <children type="array"/>
+                  <tree-val>Nilotiche: Rossini 1926</tree-val>
+                  <is-default type="integer">0</is-default>
+                  <start-date nil="true"></start-date>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <alt-names></alt-names>
+                </child>
+              </children>
+              <tree-val>Nilotiche: Rossini 1926</tree-val>
+              <is-default type="integer">0</is-default>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10000</node-type-id>
+              <alt-names>Dinca-Nuer</alt-names>
+            </child>
+          </children>
+          <tree-val>Nilotiche: Rossini 1926</tree-val>
+          <is-default type="integer">0</is-default>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names>Ci&#242;l-Dinca-Nu&#233;r</alt-names>
+        </child>
+        <child>
+          <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+          <creator-id type="integer">10700</creator-id>
+          <tree-id type="integer">25041</tree-id>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <codes>0gn7</codes>
+          <pri-name>Settentrionale</pri-name>
+          <node-status-id nil="true"></node-status-id>
+          <deleted-at nil="true"></deleted-at>
+          <updater-id type="integer">10700</updater-id>
+          <pub-comments>&#8220;... comprendente il cunama, che deve essersi diviso dal ceppo primitivo almeno da 3000 anni, ed anche da 4000 circa, se nei Mennut delle liste reali di Tutmosi debbonsi ravvisare i Memnones di Plinio, i Baza dei di nostri; sotto-gruppo assai esposto alle influenze cuscitiche&#8221; (Rossini 1926:167).</pub-comments>
+          <id type="integer">988916</id>
+          <geography nil="true"></geography>
+          <created-at type="datetime">2013-08-16T17:05:04-04:00</created-at>
+          <sureness type="integer">0</sureness>
+          <node-type>Subgroup</node-type>
+          <updated-at type="datetime">2013-08-16T17:05:04-04:00</updated-at>
+          <status nil="true"></status>
+          <confidence>y</confidence>
+          <children type="array">
+            <child>
+              <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+              <creator-id type="integer">10700</creator-id>
+              <tree-id type="integer">25041</tree-id>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <codes>kun</codes>
+              <pri-name>Cunama</pri-name>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <updater-id type="integer">10700</updater-id>
+              <pub-comments></pub-comments>
+              <id type="integer">988917</id>
+              <geography>ristretto oggi a poche genti del SW dell'Eritrea, fu, un tempo, parlato su una vasta area a nord e ad ovest dell'Etiopia</geography>
+              <created-at type="datetime">2013-08-16T17:05:04-04:00</created-at>
+              <sureness type="integer">0</sureness>
+              <node-type>Language</node-type>
+              <updated-at type="datetime">2013-08-16T17:05:04-04:00</updated-at>
+              <status nil="true"></status>
+              <confidence>y</confidence>
+              <children type="array"/>
+              <tree-val>Nilotiche: Rossini 1926</tree-val>
+              <is-default type="integer">0</is-default>
+              <start-date nil="true"></start-date>
+              <node-type-id type="integer">10001</node-type-id>
+              <alt-names></alt-names>
+            </child>
+          </children>
+          <tree-val>Nilotiche: Rossini 1926</tree-val>
+          <is-default type="integer">0</is-default>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10000</node-type-id>
+          <alt-names></alt-names>
+        </child>
+        <child>
+          <publications>Rossini, C Conti. 1926. Lingue Nilotiche, vol. 11, 70-168. </publications>
+          <creator-id type="integer">10700</creator-id>
+          <tree-id type="integer">25041</tree-id>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <codes>mym</codes>
+          <pri-name>Mekan</pri-name>
+          <node-status-id nil="true"></node-status-id>
+          <deleted-at nil="true"></deleted-at>
+          <updater-id type="integer">10700</updater-id>
+          <pub-comments>The author mentions Mekan as a Nilotic language but does not specify where it falls within the subgrouping; its position here is not necessarily meant to imply that it is a first-order descendent of Nilotic.</pub-comments>
+          <id type="integer">988945</id>
+          <geography>Detti Suro dai Caffa e dagli Abissini, tribu abitanti nell'estremo sud-ovest dell'attuale I</geography>
+          <created-at type="datetime">2013-08-16T17:05:07-04:00</created-at>
+          <sureness type="integer">-1</sureness>
+          <node-type>Language</node-type>
+          <updated-at type="datetime">2013-08-16T17:05:07-04:00</updated-at>
+          <status nil="true"></status>
+          <confidence>n</confidence>
+          <children type="array"/>
+          <tree-val>Nilotiche: Rossini 1926</tree-val>
+          <is-default type="integer">0</is-default>
+          <start-date nil="true"></start-date>
+          <node-type-id type="integer">10001</node-type-id>
+          <alt-names></alt-names>
+        </child>
+      </children>
+      <tree-val>Nilotiche: Rossini 1926</tree-val>
+      <is-default type="integer">0</is-default>
+      <start-date nil="true"></start-date>
+      <node-type-id type="integer">10000</node-type-id>
+      <alt-names>Lingue nilotiche, nilotico</alt-names>
+    </root>
+    <description>Nilotiche: Rossini 1926</description>
+  </tree>
+</hash>

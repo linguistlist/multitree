@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: Subtiaba-Tlapanec: Dryer 2005]
+BEGIN TREES;
+TRANSLATE subt 'Subtiaba-Tlapane',
+sut_tcf_tpc_tpl_tpx Tlapanec;
+TREE 12377 = [&R] (sut_tcf_tpc_tpl_tpx)subt;
+END;

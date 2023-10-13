@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Xincan: Campbell 1997]
+BEGIN TREES;
+TRANSLATE 2df Chiquimulilla,
+qco Yupiltepeque,
+qco_jut Jutiapa,
+qco_yup Yupiltepeque,
+qda Guazacapán,
+qhq Jumaytepeque,
+xink Xincan;
+TREE 12067 = [&R] ((qco_jut,qco_yup)qco,qhq,qda,2df)xink;
+END;

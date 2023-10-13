@@ -1,0 +1,28 @@
+#NEXUS
+[MultiTree: Sepik: Dryer 2005]
+BEGIN TREES;
+TRANSLATE aau Abau,
+abt Ambulas,
+amp Alamblak,
+bjh Bahinemo,
+bzf Boiken,
+dju Sare,
+ian Iatmul,
+iwm Iwam,
+kmn Awtuw,
+kmo Kwoma,
+mle Manambu,
+msep 'Middle Sepik',
+nnm Namia,
+nux Mehek,
+ramm Ram,
+seph 'Sepik Hill',
+sepk Sepik,
+tmax 'Tama Sepik',
+usep 'Upper Sepik',
+wog Wogamusin,
+wos 'Hanga Hundi',
+yriv 'Yellow River',
+yss 'Yessan-Mayo';
+TREE 10471 = [&R] ((abt,bzf,wos,ian,kmo,mle)msep,(kmn)ramm,(amp,bjh,dju)seph,(nux,yss)tmax,(aau,iwm,wog)usep,(nnm)yriv)sepk;
+END;

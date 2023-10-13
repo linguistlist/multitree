@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Caddoan: Composite]
+BEGIN TREES;
+TRANSLATE ari Arikara,
+cad Caddo,
+cadd Caddoan,
+kii Kitsai,
+kits Kitsai,
+ncad 'Northern Caddoan',
+paw Pawnee,
+paw_sba 'South Band',
+paw_ski Skiri,
+pawk 'Pawnee-Kitsai',
+pawn Pawnee,
+scad 'Southern Caddoan',
+wic Wichita,
+wic_taw Tawakoni,
+wic_wac Waco,
+wich Wichita;
+TREE 16142 = [&R] ((((wic_wac,wic_taw)wic)wich,(((paw_ski,paw_sba)paw,ari)pawn,(kii)kits)pawk)ncad,(cad)scad)cadd;
+END;

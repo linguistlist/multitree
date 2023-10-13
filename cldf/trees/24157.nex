@@ -1,0 +1,30 @@
+#NEXUS
+[MultiTree: Proto-Polynesian: Elbert 1953]
+BEGIN TREES;
+TRANSLATE cenp 'Proto-Marquesan-Tahitian',
+enpo 'Proto-East-Polynesian',
+fud_fut Futuna,
+haw Hawaiian,
+kpg Kapingamarangi,
+marq 'Proto-Marquesan',
+mqm_mrq Marquesan,
+mri 'Maori of New Zealand',
+mrv Margareva,
+niu Niue,
+npol 'Proto-Samoic-Outlier-Eastern',
+pmt Tuamotuan,
+poea 'Proto-Outlier-Eastern',
+poly 'Proto-Polynesian',
+psam 'Proto-Samoic',
+rap 'Easter Island',
+rar Rarotongan,
+smo Samoan,
+tah Tahitian,
+tahi 'Proto-Tahitian',
+tkp Tikopian,
+tngi 'Proto-Tongan',
+ton Tongan,
+tvl Ellice,
+uve_wls Uvea;
+TREE 24157 = [&R] ((((((pmt,rar,mri,tah,haw)tahi,(mqm_mrq,mrv)marq)cenp,rap)enpo,kpg)poea,(tkp,smo,tvl)psam)npol,(niu,uve_wls,ton,fud_fut)tngi)poly;
+END;

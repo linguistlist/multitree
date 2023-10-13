@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Sino-Caucasian: Starostin 1982, 1984]
+BEGIN TREES;
+TRANSLATE ncau 'North Caucasian',
+sica 'Sino-Caucasian',
+sitb 'Sino-Tibetan',
+yeos Yeniseian;
+TREE 26237 = [&R] (ncau,sitb,yeos)sica;
+END;

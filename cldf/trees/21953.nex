@@ -1,0 +1,28 @@
+#NEXUS
+[MultiTree: Nambiquaran: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE apv_lkd_ltn_wmd_xtw_xyl Mamaindê,
+apv_xyl Negarotê,
+lkd_ltn Yalapmunxte,
+nab Kithãulhú,
+nab_ala Alatesu,
+nab_gal Galera,
+nab_hah Hahaintesu,
+nab_hal Halotesu,
+nab_kab Kabishi,
+nab_khi Khithaulhu,
+nab_man Manduka,
+nab_nam Nambiquara,
+nab_sar Sararé,
+nab_sax Saxwentesu,
+nab_ser 'Serra Azul',
+nab_wai Waikisu,
+nab_wak Wakalitesu,
+nab_was Wasusu,
+namb Nambiquaran,
+sae Sabané,
+snam 'Southern Nambikuaran',
+wmd Mamaindé,
+xtw Tawanxte;
+TREE 21953 = [&R] ((apv_xyl,xtw,xtw,wmd,lkd_ltn,xtw)apv_lkd_ltn_wmd_xtw_xyl,((nab_ser,nab_sax,nab_hal,nab_gal,nab_hah,nab_wai,nab_man,nab_ala,nab_khi,nab_wak,nab_was)nab,sae,(nab_nam,nab_kab)nab,nab_sar)snam)namb;
+END;

@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Sechura-Catacaoan: Composite]
+BEGIN TREES;
+TRANSLATE catc Catacaoan,
+qfi Sechura,
+qrv Catacao,
+qsb Colán,
+sctc 'Sechura-Catacaoan';
+TREE 17482 = [&R] ((qrv,qsb)catc,qfi)sctc;
+END;

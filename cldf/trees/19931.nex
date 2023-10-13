@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Garawan: Tryon 2007]
+BEGIN TREES;
+TRANSLATE gara Garawan,
+karw Garawa,
+wany Waanyi,
+wny Waanyi,
+wrk Garawa;
+TREE 19931 = [&R] ((wny)wany,(wrk)karw)gara;
+END;

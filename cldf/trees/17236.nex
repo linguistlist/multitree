@@ -1,0 +1,37 @@
+#NEXUS
+[MultiTree: Kechumaran: Kaufman 2007]
+BEGIN TREES;
+TRANSLATE ayc_ayr Aimara,
+ayma Haki,
+cap Chipaya,
+cap_ure 'Uru-Chipaya language area',
+chi_quz 'Souther Kechua language area',
+cqu 'Chilean Kechua',
+jqr 'Hakaru-Kauki',
+puq Pukina,
+qub 'Huánuco Kechua',
+quch Kechumaran,
+qud_qug_qus_quw_qvi_qvj_qvz_qxl_qxr Kichua,
+qud_qug_qvi_qvj_qxl_qxr 'Highland Kichua',
+quet 'Peripheral Kechua',
+quew 'Central Kechua',
+quf 'Lambayeque Kechua',
+quk 'Chachapoyas Kichua',
+qulc 'Kechua language complex',
+qup_qvo 'Lowland Kichua',
+qus 'Santiago del Estero Kechua',
+qux 'Yauyos Kechua',
+quy 'Ayacucho Kechua',
+qvc 'Cajamarca Kechua',
+qvh_qwa_qws_qxn_qxo 'North Central Kechua',
+qvn 'Junín-Lima Kechua',
+qvs 'Lamista Kichua',
+qvw Yaqa,
+qwc_qxu 'Imperial Kechua',
+qwh 'Ancash Kechua',
+qwh_yun 'Yúnqay language area',
+qxt 'Pasco Kechua',
+qxw Nyuqa,
+ure Uru;
+TREE 17236 = [&R] (((puq,cap,ure)cap_ure,jqr,ayc_ayr)ayma,(((qud_qug_qvi_qvj_qxl_qxr,qvs,quk,qup_qvo)qud_qug_qus_quw_qvi_qvj_qvz_qxl_qxr,(quf,qvc)qwh_yun,(qus,cqu,qwc_qxu,qux,quy)chi_quz)quet,((qxt,qwh,qub,qvn)qvh_qwa_qws_qxn_qxo,(qvw,qxw)qxw)quew)qulc)quch;
+END;

@@ -1,0 +1,19 @@
+#NEXUS
+[MultiTree: Tañoan: Powell 1891]
+BEGIN TREES;
+TRANSLATE kita Tañoan,
+pie Senecu,
+tew_han Hano,
+tew_nam Nambe,
+tew_poj Pojoaque,
+tew_sai 'San Ildefonso',
+tew_saj 'San Juan',
+tew_san 'Santa Clara',
+tew_tes Tesuque,
+tix_isl Isleta,
+tix_san Sandia,
+tow Jemez,
+twf_pic Picuris,
+twf_tao Taos;
+TREE 14556 = [&R] (pie,tew_nam,tew_sai,tix_san,tew_saj,twf_pic,tix_isl,tew_han,twf_tao,tow,tew_san,tew_poj,tew_tes)kita;
+END;

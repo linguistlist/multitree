@@ -1,0 +1,31 @@
+#NEXUS
+[MultiTree: Penutian: Sapir 1949]
+BEGIN TREES;
+TRANSLATE 1mj 'Miwok-Costanoan',
+agu Aguacatec,
+calp 'California Penutian',
+chik Chinook,
+copn 'Coast Oregon Penutian',
+csz Coos,
+huav Huave,
+kalp Kalapuya,
+klmo Lutuami,
+len Lenca,
+mizo 'Mixe-Zoque',
+mjd_nmu_vmv Maidu,
+mxpn 'Mexican Penutian',
+orep 'Oregon Penutian',
+penu Penutian,
+plpn 'Plateau Penutian',
+qcs Tapachultec,
+shap Sahaptin,
+sius Siuslaw,
+tkm Takelma,
+tsim Tsimshian,
+wnw Wintun,
+wtpn Waiilatpuan,
+xin Xinca,
+yako Yakonan,
+yok Yokuts;
+TREE 20146 = [&R] (((sius,yako,csz)copn,tkm,kalp)orep,(mjd_nmu_vmv,wnw,1mj,yok)calp,(agu,mizo,xin,qcs,huav,len)mxpn,chik,(wtpn,klmo,shap)plpn,tsim)penu;
+END;

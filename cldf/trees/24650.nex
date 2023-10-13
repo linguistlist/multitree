@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Portuguese-Spanish-based Pidgins and Creoles: Whinnom 1956]
+BEGIN TREES;
+TRANSLATE 9xo 'Portuguese-Malay Pidgin',
+cbk_dav Davaueño,
+cbk_erm Ermitaño,
+cbk_ter_tmg Ternateño,
+cbk_zam Zamboagueño,
+ombc_zsm Malay,
+opbc_por Portuguese,
+osbc_spa Spanish,
+tmg_cav Caviteño;
+TREE 24650 = [&R] (ombc_zsm,(((cbk_dav)cbk_zam)tmg_cav,cbk_erm,osbc_spa)cbk_ter_tmg,opbc_por)9xo;
+END;

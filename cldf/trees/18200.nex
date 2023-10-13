@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Coahuilteco: Composite]
+BEGIN TREES;
+TRANSLATE coah Coahuilteco,
+xcw Coahuilteco,
+xcw_paj Pajalate,
+xcw_rio 'Rio Grande Coahuilteco',
+xcw_san 'San Antonio Coahuilteco';
+TREE 18200 = [&R] ((xcw_paj,xcw_rio,xcw_san)xcw)coah;
+END;

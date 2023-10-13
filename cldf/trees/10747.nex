@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Zaparoan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE arl Arabela,
+iqu Iquito,
+zapa Zaparoan,
+zro Zaparo;
+TREE 10747 = [&R] (arl,iqu,zro)zapa;
+END;

@@ -1,0 +1,25 @@
+#NEXUS
+[MultiTree: Eskimo-Aleut: Golla, Goddard, Campbell, Mithun, Mixco 2007]
+BEGIN TREES;
+TRANSLATE ale Aleut,
+aleu Aleut,
+alut Aleut,
+arml 'Aleut-Russian Mixed Language',
+ems 'Pacific Yupik',
+esi 'North Alaska Inupiaq',
+esk 'Seward Peninsula Inupiaq',
+eska 'Eskimo-Aleut',
+eski Eskimoan,
+ess 'Central Siberian Yupik',
+esu 'Central Alaskan Yup''ik',
+ike 'Eastern Canadian Inuktitut',
+ikt 'Western Canadian Inuktitut',
+inui 'Eastern Eskimo',
+kal_kal_eas 'East Greenlandic',
+kal_kal_wes 'West Greenlandic',
+mud 'Copper Island Aleut',
+ynk 'East Cape Yupik',
+ysr Sirenik,
+yupi 'Western Eskimo';
+TREE 16708 = [&R] (((ems,ynk,ysr,ess,esu)yupi,(ike,kal_kal_eas,esi,kal_kal_wes,ikt,esk)inui)eski,((ale)alut,(mud)arml)aleu)eska;
+END;

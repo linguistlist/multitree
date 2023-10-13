@@ -1,0 +1,32 @@
+#NEXUS
+[MultiTree: Afrasian: Fleming 2006]
+BEGIN TREES;
+TRANSLATE afas Afrasian,
+afsm Semitic,
+areg 'Ancient Egyptian',
+berb Berber,
+ccha 'Central Chadic',
+ccus Agau,
+chad Chadic,
+chbe Saharan,
+cush Cushitic,
+dizo Dizoid,
+echa 'Eastern Chadic',
+ecus 'Easterm Cushitic',
+eryt Erythraic,
+gimo Gimojan,
+gogi 'ta-ne',
+gong Gongan,
+kuja Kujargé,
+maoa Mao,
+matn 'Mao/ta-ne',
+ncus Beja,
+nomo Nomotic,
+omot Omotic,
+prne 'North Erythraic',
+scus 'Southern Cushitic',
+somo Somotic,
+unaf Ongota,
+wcha 'Western Chadic';
+TREE 24119 = [&R] (((ecus,ccus,scus)cush,(afsm,areg,(berb,(wcha,ccha,echa,kuja)chad)chbe)prne,ncus,unaf)eryt,((((gong,gimo)gogi,maoa)matn,dizo)nomo,somo)omot)afas;
+END;

@@ -1,0 +1,22 @@
+#NEXUS
+[MultiTree: Muna-Buton: Donohue 2004]
+BEGIN TREES;
+TRANSLATE 42q 'Island Cia-Cia',
+alkx Munic,
+apdw 'West Buton',
+bup Busoa,
+buto Buton,
+cia 'Cia-Cia',
+cia_mas Masiri,
+kjlo Western,
+lix Liabuka,
+llm Lasalimu,
+mnb Muna,
+muna Munan,
+munb 'Muna-Buton',
+npxg 'East Buton',
+pnp Pancana,
+xks Kumbewaha,
+zka Kaimbulawa;
+TREE 24344 = [&R] (((xks,llm)npxg,(42q,cia,cia_mas)apdw)buto,(((mnb,zka,lix,pnp)kjlo)alkx,bup)muna)munb;
+END;

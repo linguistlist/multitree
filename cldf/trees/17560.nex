@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Arafundi: Composite]
+BEGIN TREES;
+TRANSLATE 1j1 Awiakay,
+afd Andai,
+afk Nanubae,
+afp Tapei,
+araf Arafundi;
+TREE 17560 = [&R] (afd,afk,afp,1j1)araf;
+END;

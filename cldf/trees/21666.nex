@@ -1,0 +1,29 @@
+#NEXUS
+[MultiTree: Nambiquaran: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE lkd Lakondê,
+ltn Latundê,
+nab 'Nambikuára, Southern',
+nab_ala Alatesu,
+nab_alk Alaketesu,
+nab_anu Anunsu,
+nab_gal Galera,
+nab_hah Hahaintesu,
+nab_hal Halotesu,
+nab_khi Khithaulhu,
+nab_man Manduka,
+nab_sar Sarare,
+nab_sax Saxwentesu,
+nab_ser 'Serra Azul',
+nab_wai Waikisu,
+nab_wak Wakalitesu,
+nab_was Wasusu,
+namb Nambiquaran,
+nnam 'Northern Nambiquaran',
+sae Sabanês,
+wmd Mamaindé,
+wmd_neg Negaroté,
+xtw Tawandê,
+xyl Yalakalore;
+TREE 21666 = [&R] ((nab_alk,nab_ser,nab_sax,nab_hal,nab_gal,nab_hah,nab_wai,nab_man,nab_ala,nab_sar,nab_khi,nab_anu,nab_was,nab_wak)nab,(xyl,(wmd_neg)wmd,xtw,lkd,ltn)nnam,sae)namb;
+END;

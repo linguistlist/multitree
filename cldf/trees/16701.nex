@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Chumashan: Golla, Goddard, Campbell, Mithun, Mixco 2007]
+BEGIN TREES;
+TRANSLATE 066 Cuyama,
+boi Barbareño,
+cchu 'Central Chumash',
+chum Chumashan,
+crz 'Island Chumash',
+ichm 'Island Chumash',
+inz Ineseño,
+ktsp 'Northern Chumash',
+obi Obsipeño,
+puy Purisimeño,
+veo Ventureño,
+vpsc 'Southern Chumash';
+TREE 16701 = [&R] (((crz)ichm,(veo,boi,puy,inz)cchu)vpsc,(obi)ktsp,066)chum;
+END;

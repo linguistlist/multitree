@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Jicaquean: Campbell 1997]
+BEGIN TREES;
+TRANSLATE jic_eas 'Eastern Jicaque',
+jic_elp 'Jicaque of El Palmar',
+jicq Jicaquean;
+TREE 11920 = [&R] (jic_elp,jic_eas)jicq;
+END;

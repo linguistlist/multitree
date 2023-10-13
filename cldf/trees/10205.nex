@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Peba-Yaguan: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE pbya 'Peba-Yaguan',
+yad Yagua,
+yme Yameo;
+TREE 10205 = [&R] (yad,yme)pbya;
+END;

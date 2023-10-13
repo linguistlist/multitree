@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Pacific Mixed Language: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE nuw Nguluwan,
+ocml 'Pacific Mixed Language',
+yapu 'Yapese-Ulithi';
+TREE 11913 = [&R] ((nuw)yapu)ocml;
+END;

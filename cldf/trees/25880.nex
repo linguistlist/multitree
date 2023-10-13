@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Northern Samoyedic, subtree of Uralic: Helimski 1990]
+BEGIN TREES;
+TRANSLATE enf_enh Enets,
+kim_mtm_kar Karagas,
+mtm_mat Mator,
+mtm_tai Taygi,
+mtm_ymt 'Sayan-Samoyed dialects',
+nio Nganasan,
+nsam 'North-Samoyedic subgroup',
+rts Yurats,
+sel Selkup,
+smoy 'Samoyed languages',
+xas Kamas,
+xas_koi_zkb Koybal,
+yrk Nenets;
+TREE 25880 = [&R] ((mtm_mat,kim_mtm_kar,mtm_tai)mtm_ymt,sel,(enf_enh,(rts)yrk,nio)nsam,(xas_koi_zkb)xas)smoy;
+END;

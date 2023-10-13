@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Mije-Sokean: Asher, Moseley 1994]
+BEGIN TREES;
+TRANSLATE 0no 'Western Soke',
+0np 'Eastern Soke',
+mco_mir_mto_mxp_mxq_mzl_neq_pxm Mije,
+mir 'Isthmus Sokean',
+mixe Mijean,
+mizo 'Mije-Sokean',
+plo 'Oluta Mijean',
+poi 'Highland Sokean',
+pos 'Sayula Mijean',
+qcs 'Tapachula Mijean',
+zoqu Sokean;
+TREE 12775 = [&R] ((mir,0no,0np,poi)zoqu,(qcs,mco_mir_mto_mxp_mxq_mzl_neq_pxm,plo,pos)mixe)mizo;
+END;

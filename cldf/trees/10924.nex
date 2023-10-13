@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Chumasan: Goddard 1996]
+BEGIN TREES;
+TRANSLATE boi Barbareño,
+chum Chumashan,
+crz 'Island Chumash',
+inz Ineseño,
+obi Obispeño,
+puy Purisimeño,
+veo Ventureño;
+TREE 10924 = [&R] (obi,puy,inz,boi,veo,crz)chum;
+END;

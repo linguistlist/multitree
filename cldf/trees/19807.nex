@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Eastern Daly: Composite]
+BEGIN TREES;
+TRANSLATE dalp 'Eastern Daly',
+xmu Kamu,
+zml Matngele;
+TREE 19807 = [&R] (xmu,zml)dalp;
+END;

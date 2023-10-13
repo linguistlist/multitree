@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Bororoan: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE bor 'Western Bororo',
+boro Bororoan,
+otu Otuque,
+otu_ccn Curucaneca,
+otu_cor Coraveca,
+otu_crm Curumina,
+otu_crn Curucane,
+otu_cuc Curuminaca,
+otu_tap Tapii,
+umo Umutina;
+TREE 21909 = [&R] (bor,umo,(otu_cuc,otu_cor,otu_ccn,otu_tap,otu_crn,otu_crm)otu,bor)boro;
+END;

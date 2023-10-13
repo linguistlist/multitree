@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Tsimshianic: Mithun 1999]
+BEGIN TREES;
+TRANSLATE git Gitksan,
+git_eas 'Eastern Gitksan',
+git_wes 'Western Gitksan',
+ncq 'Nisqa''a',
+tsi Maritime,
+tsi_coa 'Coast Tsimshian',
+tsi_sou 'Southern Tsimshian',
+tsim Tsimshianic;
+TREE 11714 = [&R] (((git_wes,git_eas)git,ncq)git,(tsi_sou,tsi_coa)tsi)tsim;
+END;

@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Oromo dialects, subtree of Afro-Asiatic: Heine & Möhlig 1981]
+BEGIN TREES;
+TRANSLATE gax_boa Borana,
+gax_gab Gabra,
+gax_sak Sakuye,
+gaz 'Ethiopian Oromo',
+gaz_cen 'Central Oromo',
+gaz_mec 'Maca 2',
+gaz_tul Tulama,
+gaz_wel Wallo,
+ggh_aju Ajuran,
+ggh_gar Garreh,
+hae 'Eastern Oromo',
+orc 'Tana River Oromo',
+orc_mun Munyo,
+orc_orm Orma,
+orc_waa Waata,
+orm Oromo;
+TREE 21385 = [&R] ((orc_waa,orc_mun,orc_orm)orc,(gax_sak,ggh_aju,gax_gab,ggh_gar,gax_boa)gaz_cen,(hae,(gaz_mec,gaz_mec)gaz_mec,gaz_wel,gaz_tul)gaz)orm;
+END;

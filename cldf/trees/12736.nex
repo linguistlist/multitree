@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Macro Katembrí-Taruma Cluster: Campbell 1997]
+BEGIN TREES;
+TRANSLATE mktc 'Macro Katembrí-Taruma Cluster',
+qef Katembri,
+qoi Taruma;
+TREE 12736 = [&R] (qef,qoi)mktc;
+END;

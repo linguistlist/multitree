@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Yele-West New Britain: Ross 2001]
+BEGIN TREES;
+TRANSLATE anz Anêm,
+ata Ata,
+wnbr 'West New Britain',
+yle Yele,
+ywnb 'Yele-West New Britain';
+TREE 21993 = [&R] ((anz,ata)wnbr,yle)ywnb;
+END;

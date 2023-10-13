@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Australia</region>
+    <root>
+      <updater-id type="integer">10740</updater-id>
+      <updated-by>joe_leif</updated-by>
+      <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+      <node-type>Subgroup</node-type>
+      <end-date nil="true"></end-date>
+      <codes>aupc</codes>
+      <tree-id type="integer">11706</tree-id>
+      <pri-name>Australian Pidgins and Creoles</pri-name>
+      <is-default type="integer">0</is-default>
+      <creator-id type="integer">10740</creator-id>
+      <confidence>Y</confidence>
+      <updated-at type="datetime">2009-04-01T17:08:30-04:00</updated-at>
+      <start-date nil="true"></start-date>
+      <pub-comments>This tree is an amalgamation of subtrees of the pidgin and creole trees provided in Ethnologue. It has been broken into regions for ease of searching.</pub-comments>
+      <node-type-id type="integer">10000</node-type-id>
+      <children type="array">
+        <child>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <node-type>Subgroup</node-type>
+          <end-date nil="true"></end-date>
+          <codes>aucr</codes>
+          <tree-id type="integer">11706</tree-id>
+          <pri-name>Australian Creoles</pri-name>
+          <is-default type="integer">0</is-default>
+          <creator-id type="integer">10740</creator-id>
+          <confidence>Y</confidence>
+          <updated-at type="datetime">2009-04-01T17:08:30-04:00</updated-at>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10000</node-type-id>
+          <children type="array">
+            <child>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+              <node-type>Subgroup</node-type>
+              <end-date nil="true"></end-date>
+              <codes>ebcr</codes>
+              <tree-id type="integer">11706</tree-id>
+              <pri-name>English based</pri-name>
+              <is-default type="integer">0</is-default>
+              <creator-id type="integer">10740</creator-id>
+              <confidence>Y</confidence>
+              <updated-at type="datetime">2009-04-01T17:08:30-04:00</updated-at>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <children type="array">
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+                  <node-type>Subgroup</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>pacr</codes>
+                  <tree-id type="integer">11706</tree-id>
+                  <pri-name>Pacific</pri-name>
+                  <is-default type="integer">0</is-default>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>Y</confidence>
+                  <updated-at type="datetime">2009-04-01T17:08:30-04:00</updated-at>
+                  <start-date nil="true"></start-date>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <children type="array">
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <codes>rop</codes>
+                      <tree-id type="integer">11706</tree-id>
+                      <pri-name>Kriol</pri-name>
+                      <is-default type="integer">0</is-default>
+                      <creator-id type="integer">10740</creator-id>
+                      <confidence>Y</confidence>
+                      <updated-at type="datetime">2009-04-01T17:08:30-04:00</updated-at>
+                      <start-date nil="true"></start-date>
+                      <pub-comments>Kimberley Kriol has many differences with Ngukkur Kriol. Both Kriol and Torres Strait Creole are spreading, and are nearly overlapping in Queensland.</pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <children type="array">
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+                          <node-type>Dialect</node-type>
+                          <end-date nil="true"></end-date>
+                          <codes>rop-fit</codes>
+                          <tree-id type="integer">11706</tree-id>
+                          <pri-name>Fitzroy Valley Kriol</pri-name>
+                          <is-default type="integer">0</is-default>
+                          <creator-id type="integer">10740</creator-id>
+                          <confidence>Y</confidence>
+                          <updated-at type="datetime">2009-04-01T17:08:30-04:00</updated-at>
+                          <start-date nil="true"></start-date>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <children type="array"/>
+                          <node-status-id nil="true"></node-status-id>
+                          <id type="integer">350947</id>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                          <sureness type="integer">0</sureness>
+                          <alt-names></alt-names>
+                          <tree-val>Australian Pidgins and Creoles: Ethnologue 2005</tree-val>
+                          <other-codes></other-codes>
+                          <deleted-at nil="true"></deleted-at>
+                          <created-at type="datetime">2009-04-01T17:08:30-04:00</created-at>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+                          <node-type>Dialect</node-type>
+                          <end-date nil="true"></end-date>
+                          <codes>rop-rop</codes>
+                          <tree-id type="integer">11706</tree-id>
+                          <pri-name>Roper River Kriol</pri-name>
+                          <is-default type="integer">0</is-default>
+                          <creator-id type="integer">10740</creator-id>
+                          <confidence>Y</confidence>
+                          <updated-at type="datetime">2009-04-01T17:08:30-04:00</updated-at>
+                          <start-date nil="true"></start-date>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <children type="array"/>
+                          <node-status-id nil="true"></node-status-id>
+                          <id type="integer">350948</id>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                          <sureness type="integer">0</sureness>
+                          <alt-names>Roper River Pidgin</alt-names>
+                          <tree-val>Australian Pidgins and Creoles: Ethnologue 2005</tree-val>
+                          <other-codes></other-codes>
+                          <deleted-at nil="true"></deleted-at>
+                          <created-at type="datetime">2009-04-01T17:08:30-04:00</created-at>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+                          <node-type>Dialect</node-type>
+                          <end-date nil="true"></end-date>
+                          <codes>rop-bar</codes>
+                          <tree-id type="integer">11706</tree-id>
+                          <pri-name>Barkly Kriol</pri-name>
+                          <is-default type="integer">0</is-default>
+                          <creator-id type="integer">10740</creator-id>
+                          <confidence>Y</confidence>
+                          <updated-at type="datetime">2009-04-01T17:08:30-04:00</updated-at>
+                          <start-date nil="true"></start-date>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <children type="array"/>
+                          <node-status-id nil="true"></node-status-id>
+                          <id type="integer">350945</id>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                          <sureness type="integer">0</sureness>
+                          <alt-names></alt-names>
+                          <tree-val>Australian Pidgins and Creoles: Ethnologue 2005</tree-val>
+                          <other-codes></other-codes>
+                          <deleted-at nil="true"></deleted-at>
+                          <created-at type="datetime">2009-04-01T17:08:30-04:00</created-at>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+                          <node-type>Dialect</node-type>
+                          <end-date nil="true"></end-date>
+                          <codes>rop-bam</codes>
+                          <tree-id type="integer">11706</tree-id>
+                          <pri-name>Bamyili Creole</pri-name>
+                          <is-default type="integer">0</is-default>
+                          <creator-id type="integer">10740</creator-id>
+                          <confidence>Y</confidence>
+                          <updated-at type="datetime">2009-04-01T17:08:30-04:00</updated-at>
+                          <start-date nil="true"></start-date>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <children type="array"/>
+                          <node-status-id nil="true"></node-status-id>
+                          <id type="integer">350944</id>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                          <sureness type="integer">0</sureness>
+                          <alt-names></alt-names>
+                          <tree-val>Australian Pidgins and Creoles: Ethnologue 2005</tree-val>
+                          <other-codes></other-codes>
+                          <deleted-at nil="true"></deleted-at>
+                          <created-at type="datetime">2009-04-01T17:08:30-04:00</created-at>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+                          <node-type>Dialect</node-type>
+                          <end-date nil="true"></end-date>
+                          <codes>rop-dal</codes>
+                          <tree-id type="integer">11706</tree-id>
+                          <pri-name>Daly River Kriol</pri-name>
+                          <is-default type="integer">0</is-default>
+                          <creator-id type="integer">10740</creator-id>
+                          <confidence>Y</confidence>
+                          <updated-at type="datetime">2009-04-01T17:08:30-04:00</updated-at>
+                          <start-date nil="true"></start-date>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <children type="array"/>
+                          <node-status-id nil="true"></node-status-id>
+                          <id type="integer">350946</id>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                          <sureness type="integer">0</sureness>
+                          <alt-names></alt-names>
+                          <tree-val>Australian Pidgins and Creoles: Ethnologue 2005</tree-val>
+                          <other-codes></other-codes>
+                          <deleted-at nil="true"></deleted-at>
+                          <created-at type="datetime">2009-04-01T17:08:30-04:00</created-at>
+                        </child>
+                      </children>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">350943</id>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <geography>Australia, Roper River, Katherine areas, Ngukurr, Northern Territory; Kimberley Region Western Australia; Gulf Country, Lower Cape York Peninsula, Queensland.</geography>
+                      <sureness type="integer">0</sureness>
+                      <alt-names>Roper-Bamyili Creole</alt-names>
+                      <tree-val>Australian Pidgins and Creoles: Ethnologue 2005</tree-val>
+                      <other-codes></other-codes>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2009-04-01T17:08:30-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10740</updater-id>
+                      <updated-by>joe_leif</updated-by>
+                      <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <codes>tcs</codes>
+                      <tree-id type="integer">11706</tree-id>
+                      <pri-name>Torres Strait Creole</pri-name>
+                      <is-default type="integer">0</is-default>
+                      <creator-id type="integer">10740</creator-id>
+                      <confidence>Y</confidence>
+                      <updated-at type="datetime">2009-04-01T17:08:30-04:00</updated-at>
+                      <start-date nil="true"></start-date>
+                      <pub-comments>Lexical similarity 80% with English. A creolization of Tok Pisin or Bislama and Kala Lagau Langgus.</pub-comments>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <children type="array">
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+                          <node-type>Dialect</node-type>
+                          <end-date nil="true"></end-date>
+                          <codes>tcs-mod</codes>
+                          <tree-id type="integer">11706</tree-id>
+                          <pri-name>Modern Langus</pri-name>
+                          <is-default type="integer">0</is-default>
+                          <creator-id type="integer">10740</creator-id>
+                          <confidence>Y</confidence>
+                          <updated-at type="datetime">2009-04-01T17:08:30-04:00</updated-at>
+                          <start-date nil="true"></start-date>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <children type="array"/>
+                          <node-status-id nil="true"></node-status-id>
+                          <id type="integer">350951</id>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                          <sureness type="integer">0</sureness>
+                          <alt-names></alt-names>
+                          <tree-val>Australian Pidgins and Creoles: Ethnologue 2005</tree-val>
+                          <other-codes></other-codes>
+                          <deleted-at nil="true"></deleted-at>
+                          <created-at type="datetime">2009-04-01T17:08:30-04:00</created-at>
+                        </child>
+                        <child>
+                          <updater-id type="integer">10740</updater-id>
+                          <updated-by>joe_leif</updated-by>
+                          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+                          <node-type>Dialect</node-type>
+                          <end-date nil="true"></end-date>
+                          <codes>tcs-apn</codes>
+                          <tree-id type="integer">11706</tree-id>
+                          <pri-name>Ap-Ne-Ap</pri-name>
+                          <is-default type="integer">0</is-default>
+                          <creator-id type="integer">10740</creator-id>
+                          <confidence>Y</confidence>
+                          <updated-at type="datetime">2009-04-01T17:08:30-04:00</updated-at>
+                          <start-date nil="true"></start-date>
+                          <pub-comments></pub-comments>
+                          <node-type-id type="integer">10003</node-type-id>
+                          <children type="array"/>
+                          <node-status-id nil="true"></node-status-id>
+                          <id type="integer">350950</id>
+                          <created-by>joe_leif</created-by>
+                          <status nil="true"></status>
+                          <geography nil="true"></geography>
+                          <sureness type="integer">0</sureness>
+                          <alt-names></alt-names>
+                          <tree-val>Australian Pidgins and Creoles: Ethnologue 2005</tree-val>
+                          <other-codes></other-codes>
+                          <deleted-at nil="true"></deleted-at>
+                          <created-at type="datetime">2009-04-01T17:08:30-04:00</created-at>
+                        </child>
+                      </children>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">350949</id>
+                      <created-by>joe_leif</created-by>
+                      <status nil="true"></status>
+                      <geography>Australia, Torres Strait Islands, towns on upper Cape York and some towns on the east coast of north Queensland.</geography>
+                      <sureness type="integer">0</sureness>
+                      <alt-names>Torres Strait Pidgin, Torres Strait Broken, Cape York Creole, Lockhart Creole, West Torres</alt-names>
+                      <tree-val>Australian Pidgins and Creoles: Ethnologue 2005</tree-val>
+                      <other-codes></other-codes>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2009-04-01T17:08:30-04:00</created-at>
+                    </child>
+                  </children>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">350942</id>
+                  <created-by>joe_leif</created-by>
+                  <status nil="true"></status>
+                  <geography nil="true"></geography>
+                  <sureness type="integer">0</sureness>
+                  <alt-names></alt-names>
+                  <tree-val>Australian Pidgins and Creoles: Ethnologue 2005</tree-val>
+                  <other-codes></other-codes>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2009-04-01T17:08:30-04:00</created-at>
+                </child>
+              </children>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">350941</id>
+              <created-by>joe_leif</created-by>
+              <status nil="true"></status>
+              <geography nil="true"></geography>
+              <sureness type="integer">0</sureness>
+              <alt-names></alt-names>
+              <tree-val>Australian Pidgins and Creoles: Ethnologue 2005</tree-val>
+              <other-codes></other-codes>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2009-04-01T17:08:30-04:00</created-at>
+            </child>
+          </children>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">350940</id>
+          <created-by>joe_leif</created-by>
+          <status nil="true"></status>
+          <geography>Australia</geography>
+          <sureness type="integer">0</sureness>
+          <alt-names></alt-names>
+          <tree-val>Australian Pidgins and Creoles: Ethnologue 2005</tree-val>
+          <other-codes></other-codes>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2009-04-01T17:08:30-04:00</created-at>
+        </child>
+        <child>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <node-type>Subgroup</node-type>
+          <end-date nil="true"></end-date>
+          <codes>aupi</codes>
+          <tree-id type="integer">11706</tree-id>
+          <pri-name>Australian Pidgins</pri-name>
+          <is-default type="integer">0</is-default>
+          <creator-id type="integer">10740</creator-id>
+          <confidence>Y</confidence>
+          <updated-at type="datetime">2009-04-01T17:08:30-04:00</updated-at>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10000</node-type-id>
+          <children type="array">
+            <child>
+              <updater-id type="integer">10740</updater-id>
+              <updated-by>joe_leif</updated-by>
+              <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+              <node-type>Subgroup</node-type>
+              <end-date nil="true"></end-date>
+              <codes>malb</codes>
+              <tree-id type="integer">11706</tree-id>
+              <pri-name>Malay based</pri-name>
+              <is-default type="integer">0</is-default>
+              <creator-id type="integer">10740</creator-id>
+              <confidence>Y</confidence>
+              <updated-at type="datetime">2009-04-01T17:08:30-04:00</updated-at>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <children type="array">
+                <child>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-by>joe_leif</updated-by>
+                  <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+                  <node-type>Language</node-type>
+                  <end-date nil="true"></end-date>
+                  <codes>bpl</codes>
+                  <tree-id type="integer">11706</tree-id>
+                  <pri-name>Broome Pearling Lugger Pidgin</pri-name>
+                  <is-default type="integer">0</is-default>
+                  <creator-id type="integer">10740</creator-id>
+                  <confidence>Y</confidence>
+                  <updated-at type="datetime">2009-04-01T17:08:31-04:00</updated-at>
+                  <start-date nil="true"></start-date>
+                  <pub-comments>Some Japanese and Aboriginal creole or pidgin English words.</pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <children type="array"/>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">350954</id>
+                  <created-by>joe_leif</created-by>
+                  <status nil="true"></status>
+                  <geography>Australia, Broome, Lombardinie, Beagle Bay, La Grange, One Arm Point, Derby.</geography>
+                  <sureness type="integer">0</sureness>
+                  <alt-names>Broom Creole, Koepang Talk, Malay Talk, Japanese Pidgin English</alt-names>
+                  <tree-val>Australian Pidgins and Creoles: Ethnologue 2005</tree-val>
+                  <other-codes></other-codes>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2009-04-01T17:08:30-04:00</created-at>
+                </child>
+              </children>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">350953</id>
+              <created-by>joe_leif</created-by>
+              <status nil="true"></status>
+              <geography nil="true"></geography>
+              <sureness type="integer">0</sureness>
+              <alt-names></alt-names>
+              <tree-val>Australian Pidgins and Creoles: Ethnologue 2005</tree-val>
+              <other-codes></other-codes>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2009-04-01T17:08:30-04:00</created-at>
+            </child>
+          </children>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">350952</id>
+          <created-by>joe_leif</created-by>
+          <status nil="true"></status>
+          <geography>Australia</geography>
+          <sureness type="integer">0</sureness>
+          <alt-names></alt-names>
+          <tree-val>Australian Pidgins and Creoles: Ethnologue 2005</tree-val>
+          <other-codes></other-codes>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2009-04-01T17:08:30-04:00</created-at>
+        </child>
+      </children>
+      <node-status-id nil="true"></node-status-id>
+      <id type="integer">350939</id>
+      <created-by>joe_leif</created-by>
+      <status nil="true"></status>
+      <geography>Australia</geography>
+      <sureness type="integer">0</sureness>
+      <alt-names></alt-names>
+      <tree-val>Australian Pidgins and Creoles: Ethnologue 2005</tree-val>
+      <other-codes></other-codes>
+      <deleted-at nil="true"></deleted-at>
+      <created-at type="datetime">2009-04-01T17:08:30-04:00</created-at>
+    </root>
+    <description>Australian Pidgins and Creoles: Ethnologue 2005</description>
+  </tree>
+</hash>

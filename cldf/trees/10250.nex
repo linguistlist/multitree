@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Katukinan: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE katk Katukinan,
+kav Katukína,
+kav_cut Cutiadapa,
+knm Kanamarí,
+knm_tsh 'Tshom-Djapa',
+xat Katawixi;
+TREE 10250 = [&R] ((knm_tsh)knm,xat,(kav_cut)kav)katk;
+END;

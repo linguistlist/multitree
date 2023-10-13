@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Macro-Warpean: Kaufman 2007]
+BEGIN TREES;
+TRANSLATE cvf Yahahi,
+ffg Bohurá,
+mrmt 'Mura-Matanawian',
+mura Muran,
+mwcl 'Macro-Warpean',
+myp Pirahán,
+myp_mur Múra,
+qbt Alyentiyak,
+qfu Matanawí,
+qgb Milykayak;
+TREE 16611 = [&R] (((myp,ffg,myp_mur,cvf,qfu)mura)mrmt,(qgb,qbt)qbt)mwcl;
+END;

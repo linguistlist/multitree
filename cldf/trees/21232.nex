@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Senagi: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE agg Angor,
+agg_nai Nai,
+agg_sam Samanai,
+kbv Dera,
+kbv_duk 'Duka-Ekor',
+kbv_lih Lihen,
+kbv_men Mengau,
+kbv_nor 'North Kamberataro',
+kbv_sou 'South Kamberataro',
+sngi Senagi;
+TREE 21232 = [&R] ((agg_sam,agg_nai)agg,(kbv_sou,kbv_duk,kbv_nor,kbv_lih,kbv_men)kbv)sngi;
+END;

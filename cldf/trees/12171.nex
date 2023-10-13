@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Lakes Plain: Dryer 2005]
+BEGIN TREES;
+TRANSLATE afz Obokuitai,
+kiy Kirikiri,
+lake 'Lakes Plain',
+tds Doutai,
+tmu Iau,
+tty Sikaritai;
+TREE 12171 = [&R] (tty,tds,kiy,tmu,afz)lake;
+END;

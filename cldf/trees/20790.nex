@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Aruacana: Krickeberg & Jimenez Moreno 1937]
+BEGIN TREES;
+TRANSLATE 1nh Manzaneros,
+arcn Aruacana,
+arn_peh Pehuenche,
+arn_pic Picunche,
+arn_ran Ranqueles,
+huh Huilliche;
+TREE 20790 = [&R] (huh,arn_peh,arn_ran,arn_pic,1nh)arcn;
+END;

@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Tarascan: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE pua 'Western Highland Purépecha',
+tara Tarascan,
+tsz Purepecha;
+TREE 12050 = [&R] (tsz,pua)tara;
+END;

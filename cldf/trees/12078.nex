@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Cholonan: Campbell 1997]
+BEGIN TREES;
+TRANSLATE chln Cholonan,
+hib Hibito,
+qbx Cholón;
+TREE 12078 = [&R] (hib,qbx)chln;
+END;

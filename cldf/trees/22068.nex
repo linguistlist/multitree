@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Busa Phylum: Loving 1964]
+BEGIN TREES;
+TRANSLATE amt Amto,
+bhf Busa,
+buam 'Busa Phylum';
+TREE 22068 = [&R] (bhf,amt)buam;
+END;

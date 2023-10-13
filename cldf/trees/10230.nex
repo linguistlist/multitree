@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Sko: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE kris Krisa,
+ksi Krisa,
+pux Puari,
+rwa Rawo,
+skoo Sko,
+skv Skou,
+vam Vanimo,
+vanm Vanimo,
+wra Warapu,
+wut Wutung;
+TREE 10230 = [&R] ((ksi,pux,rwa,wra)kris,(skv,vam,wut)vanm)skoo;
+END;

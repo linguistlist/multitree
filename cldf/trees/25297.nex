@@ -1,0 +1,29 @@
+#NEXUS
+[MultiTree: Western Hmongic, subtree of Hmong-Mien: Mortensen 2004]
+BEGIN TREES;
+TRANSLATE chua 'Proto-Western Hmongic',
+cqd Chuanqiandian,
+cqd_dan Dananshan,
+cqd_das Dashanjiao,
+cqd_mag Xuyong,
+cwhm 'Core Western Hmongic',
+fwhm 'Far Western Hmongic',
+guhu 'Guiyang-Huishui',
+guiy Guiyang,
+hma_hmm_hmp_hmw_jia Jiaotuo,
+hma_hmm_hmp_hmw_jsh 'Jiaotuo-Shuijiping',
+hma_hmm_hmp_hmw_shu Shuijiping,
+hma_hmm_hmp_hmw_xin Xinzhai,
+hmc_hme_hmh_hmi_jia Jiading,
+hmd Diandongbei,
+hmd_eas 'Eastern A-Hmao',
+hmd_wes 'Western A-Hmao',
+hnj 'Mong Leng',
+huis Huishui,
+huj_hmy_hmg_bai Baituo,
+huj_hmy_hmg_tie Tieshi,
+huj_hmy_hmg_zho Zhongba,
+mash Mashan,
+mww 'Hmong Daw';
+TREE 25297 = [&R] ((((cqd_das,mww,hnj,cqd_mag,cqd_dan)cqd,(hmd_eas,hmd_wes)hmd)fwhm,((hma_hmm_hmp_hmw_shu,hma_hmm_hmp_hmw_jia)hma_hmm_hmp_hmw_jsh,hma_hmm_hmp_hmw_xin)mash)cwhm,((huj_hmy_hmg_tie,huj_hmy_hmg_zho,huj_hmy_hmg_bai)guiy,(hmc_hme_hmh_hmi_jia)huis)guhu)chua;
+END;

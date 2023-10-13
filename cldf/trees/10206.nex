@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Amto-Musan: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE amt Amto,
+amt_amt Amto,
+amt_sia Siawi,
+amto 'Amto-Musan',
+mmp Musan;
+TREE 10206 = [&R] ((amt_amt,amt_sia)amt,mmp)amto;
+END;

@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Yuat: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE buv Bun,
+bwm Biwat,
+cga Changriwa,
+kql Kyenele,
+mvk Mekmek,
+myd Maramba,
+yuat Yuat;
+TREE 21267 = [&R] (mvk,myd,bwm,buv,kql,cga)yuat;
+END;

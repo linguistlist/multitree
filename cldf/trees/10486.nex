@@ -1,0 +1,24 @@
+#NEXUS
+[MultiTree: Tai-Kadai: Dryer 2005]
+BEGIN TREES;
+TRANSLATE aou_gqu Gelao,
+doc_kam 'Kam (Zhanglu)',
+doc_kmc Dong,
+kada Kadai,
+kamt 'Kam-Tai',
+khb Lü,
+lao Lao,
+lbc Lakkia,
+lbt Lachi,
+lha Laha,
+mlm Mulao,
+nut 'Nung (in Vietnam)',
+pcc Yay,
+shn Shan,
+skb Saek,
+swi Sui,
+taik 'Tai-Kadai',
+tha Thai,
+zch_zeh_zgn_zlj_zln_zlq_zqb_zqe_zyb_zyj 'Zhuang (Northern)';
+TREE 10486 = [&R] ((aou_gqu,lbt,lha,lbc)kada,(doc_kmc,doc_kam,lao,khb,mlm,nut,skb,shn,swi,tha,pcc,zch_zeh_zgn_zlj_zln_zlq_zqb_zqe_zyb_zyj)kamt)taik;
+END;

@@ -1,0 +1,26 @@
+#NEXUS
+[MultiTree: Proto Arnhem: Green 2003]
+BEGIN TREES;
+TRANSLATE 1ec Uwinymil,
+bura Maningrida,
+bvr Burarra,
+djj Ndjébbana,
+djn Jawoyn,
+gbu Gaagudju,
+gge 'Gurr-goni',
+ggk Kungarakayn,
+gup 'Bininj Gun-wok',
+mec Marra,
+mpc Mangarrayi,
+nck 'Na-kara',
+ngk Dalabon,
+nid Ngandi,
+nig Ngalakgan,
+nuy Nunggubuyu,
+parn 'Proto Arnhem',
+rmb Rembarrnga,
+wlg Kunbarlang,
+wnd Warndarrang,
+wrz Warray;
+TREE 18376 = [&R] (ggk,mpc,mec,(nck,djj,gge,bvr)bura,nig,gup,wnd,1ec,gbu,ngk,wlg,rmb,nuy,djn,wrz,nid)parn;
+END;

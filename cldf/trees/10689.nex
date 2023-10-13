@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Guaicuruan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE axb Abipón,
+guay Guaicuruan,
+kbc Kadiwéu,
+moc Mocoví,
+plg Pilagá,
+tob Toba;
+TREE 10689 = [&R] (axb,kbc,moc,plg,tob)guay;
+END;

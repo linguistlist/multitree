@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Yana: Campbell 1997]
+BEGIN TREES;
+TRANSLATE ynn Yana,
+ynn_cen 'Central Yana',
+ynn_nor 'Northern Yana',
+ynn_sou 'Southern Yana',
+ynn_ssy 'South Southern Yana',
+ynn_yah Yahi;
+TREE 15306 = [&R] ((ynn_yah,ynn_ssy)ynn_sou,ynn_cen,ynn_nor)ynn;
+END;

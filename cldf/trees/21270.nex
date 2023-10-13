@@ -1,0 +1,26 @@
+#NEXUS
+[MultiTree: South Bougainville: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE buin Buin,
+buo Terei,
+ebou 'South Bougainville',
+kqj Koromira,
+kqj_koi Koianu,
+kqj_kor Koromira,
+lni 'Daantanai''',
+nas Naasioi,
+nas_kon Kongara,
+nas_naa Pirung,
+nas_ora Orami,
+nas_pak 'Pakia-Sideronsi',
+nasi Nasioi,
+nco Sibe,
+oue Ounge,
+siw Siwai,
+siw_bai Baitsi,
+smz Simeku,
+smz_koo Koopei,
+smz_mai Mainoki,
+uis Uisai;
+TREE 21270 = [&R] (((smz_koo,smz_mai)smz,(nas_naa,nas_pak,nas_ora,nas_kon)nas,nco,(kqj_kor,kqj_koi)kqj,lni,oue)nasi,((siw_bai)siw,buo,uis)buin)ebou;
+END;

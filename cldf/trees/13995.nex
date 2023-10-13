@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Yenisei Ostyak: Composite]
+BEGIN TREES;
+TRANSLATE ket Ket,
+xpm Pumpokol,
+xrn Arin,
+xss Assan,
+yeos 'Yenisei Ostyak',
+yug Yug,
+zko Kott;
+TREE 13995 = [&R] (xpm,yug,xss,xrn,zko,ket)yeos;
+END;

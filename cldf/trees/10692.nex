@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Huitotoan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE bmr Muinane,
+boa Bora,
+bora Boran,
+hto Huitoto,
+hto_min 'Huitoto (Minica)',
+huu 'Huitoto (Murui)',
+hux 'Huitoto (Muinane)',
+oca Ocaina,
+wita Huitotoan,
+wito Huitoto;
+TREE 10692 = [&R] ((bmr)bora,(boa,hto,hto_min,hux,huu,oca)wito)wita;
+END;

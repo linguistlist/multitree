@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Krenakan: Composite]
+BEGIN TREES;
+TRANSLATE 060 Guêren,
+0iw Nakrehé,
+boto Krenakan,
+kqq Krenak;
+TREE 17466 = [&R] (060,kqq,0iw)boto;
+END;

@@ -1,0 +1,34 @@
+#NEXUS
+[MultiTree: Salishan:  Thomason 2006]
+BEGIN TREES;
+TRANSLATE blc 'Bella Coola',
+cea 'Lower Chehalis',
+cjh 'Upper Chehalis',
+clm Klallam,
+col Columbian,
+coo 'Comox-Sliammon',
+cow Cowlitz,
+crd 'Coeur d''Alene',
+csal 'Central Salish',
+fla_spo 'Montana Salish-Kalispel-Spokane',
+hur Halkomelem,
+insa 'Interior Salish',
+lil Lillooet,
+lut Lushootseed,
+nok Nooksack,
+nsal 'Northern Interior Salish',
+oka 'Colville-Okanagan',
+ptw Pentlatch,
+qun Quinault,
+sali Salish,
+sec Sechelt,
+shs Shuswap,
+sins 'Southern Interior Salish',
+squ Squamish,
+str 'Northern Straits',
+thp 'Thompson River Salish',
+til Tillamook,
+tsam Tsamosan,
+twa Twana;
+TREE 17258 = [&R] (((col,oka,fla_spo,crd)sins,(lil,thp,shs)nsal)insa,(cow,cjh,cea,qun)tsam,(lut,squ,ptw,coo,clm,hur,str,sec,twa,nok)csal,til,blc)sali;
+END;

@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Yanyi: Composite]
+BEGIN TREES;
+TRANSLATE gara Yanyi,
+gbc_eas 'Eastern Garrwa',
+gbc_kun Kunindirri,
+gbc_wes 'Western Garrwa',
+wny Wanyi,
+wrk Garrwa;
+TREE 19415 = [&R] ((gbc_kun,gbc_eas,gbc_wes)wrk,wny)gara;
+END;

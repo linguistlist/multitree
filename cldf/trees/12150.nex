@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: East Strickland: Dryer 2005]
+BEGIN TREES;
+TRANSLATE estr 'East Strickland',
+goi Nomad;
+TREE 12150 = [&R] (goi)estr;
+END;

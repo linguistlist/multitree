@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Macro-Lekoan cluster: Campbell 1997]
+BEGIN TREES;
+TRANSLATE catc Katakáoan,
+lec Leko,
+mlkc 'Macro-Lekoan Cluster',
+qfi Sechura,
+qrv Catacao,
+qsb Colán,
+skkn 'Sechura-Katakáoan';
+TREE 19117 = [&R] (((qrv,qsb)catc,qfi)skkn,lec)mlkc;
+END;

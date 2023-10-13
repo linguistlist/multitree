@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Kaweskaran: Composite]
+BEGIN TREES;
+TRANSLATE alac Kaweskaran,
+alc Alacaluf,
+alc_aks Aksaná,
+alc_kaw Kawésqar,
+alc_taw Tawoskser;
+TREE 26573 = [&R] ((alc_aks,alc_kaw,alc_taw)alc,alc,alc)alac;
+END;

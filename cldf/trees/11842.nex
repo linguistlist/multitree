@@ -1,0 +1,22 @@
+#NEXUS
+[MultiTree: Muskogean (according to Haas): Campbell 1997]
+BEGIN TREES;
+TRANSLATE aaka 'Apalachee-Alabama-Koasati',
+akoa 'Alabama-Koasati',
+akz Alabama,
+cho Choctaw,
+cic Chickasaw,
+cku Koasati,
+cmsk 'Central Muskogean',
+emsk 'Eastern Muskogean',
+htmk 'Hitchiti-Mikasuki',
+mik Mikasuki,
+mik_hit Hitchiti,
+mus 'Creek-Seminole',
+mus_cre Creek,
+mus_sem Seminole,
+musk Muskogean,
+wmsk 'Western Muskogean',
+xap Apalachee;
+TREE 11842 = [&R] (((mus_sem,mus_cre)mus,(((cku,akz)akoa,xap)aaka,(mik,mik_hit)htmk)cmsk)emsk,(cic,cho)wmsk)musk;
+END;

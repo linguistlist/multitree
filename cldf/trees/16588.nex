@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: African Mixed Language: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE afml 'African Mixed Language',
+cmt Camtho,
+lon 'Lomwe, Malawi',
+many 'Makhua-Nyanja',
+mhd Mbugu,
+mhd_cha 'Cha kawaida',
+mhd_chn 'Cha ndani',
+mlsb 'Songhay-Berber',
+parc 'Bantu-Cushitic',
+tda Tagdal,
+tda_air Air,
+tda_aza Azawagh,
+zuba 'Zulu-Bantu';
+TREE 16588 = [&R] (((tda_aza,tda_air)tda)mlsb,(lon)many,(cmt)zuba,((mhd_chn,mhd_cha)mhd)parc)afml;
+END;

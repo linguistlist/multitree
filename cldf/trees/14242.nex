@@ -1,0 +1,29 @@
+#NEXUS
+[MultiTree: Iroquoian: Campbell 1997]
+BEGIN TREES;
+TRANSLATE cay Cayuga,
+chr Cherokee,
+fnhs 'Five Nations-Huronian-Susquehannock',
+fnsu 'Five Nations-Susquehannock',
+huro Huronian,
+iroq Iroquoian,
+lre Laurentian,
+moh Mohawk,
+moho 'Mohawk-Oneida',
+niro 'Northern Iroquoian',
+ntw 'Nottaway-Meherrin',
+one Oneida,
+ono Onondoga,
+qeb 'Neutral Huron',
+qgl Erie,
+qgv Wenro,
+see Seneca,
+sqn Susquehannock,
+tuno 'Tuscarora-Nottaway',
+tus Tuscarora,
+uiro 'Unclassified Iroquoian',
+wya 'Huron-Petun',
+wya_pet Petun,
+wya_wya Wyandot;
+TREE 14242 = [&R] ((qgv,qgl)uiro,(((sqn,ono,cay,(one,moh)moho,see)fnsu,lre,((wya_wya,wya_pet)wya,qeb)huro)fnhs,(ntw,tus)tuno)niro,chr)iroq;
+END;

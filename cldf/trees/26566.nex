@@ -1,0 +1,29 @@
+#NEXUS
+[MultiTree: Asian Language Isolates: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE 1ot Amur,
+ain Ainu,
+ain_hok Hokkaido,
+ain_kur Kuril,
+ain_sak Sakhalin,
+ain_tar Taraika,
+asis 'Asian Language Isolate',
+bsk Burushaski,
+bsk_hun Hunza,
+bsk_nag Nagar,
+bsk_yas Yasin,
+jje 'Cheju Island',
+kor Korean,
+kor_cho Chollado,
+kor_chu 'Ch''ungch''ongdo',
+kor_ham Hamgyongdo,
+kor_hwa Hwanghaedo.,
+kor_kyo Kyongsangdo,
+kor_pyo 'P''yong''ando',
+kor_seo Seoul,
+niv Gilyak,
+niv_eas 'East Sakhalin Gilyak',
+niv_nor 'North Sakhalin Gilyak',
+nll Nihali;
+TREE 26566 = [&R] ((1ot,niv_nor,niv_eas)niv,(ain_sak,ain_hok,ain_tar,ain_kur)ain,(kor_hwa,kor_ham,kor_seo,kor_pyo,kor_chu,kor_kyo,jje,kor_cho)kor,(bsk_hun,bsk_yas,bsk_nag)bsk,nll)asis;
+END;

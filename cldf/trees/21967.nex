@@ -1,0 +1,24 @@
+#NEXUS
+[MultiTree: Yanomaman: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE guu Yanomamö,
+guu_eas 'Eastern Yanomami',
+guu_wes 'Western Yanomami',
+shb Ninam,
+shb_nor 'Northern Ninam',
+shb_sou Ninam,
+wca Yanomam,
+wca_jau Jauari,
+wca_nan Nanomam,
+wca_yan Yanamam,
+wca_yao Yanomam,
+wca_yay Yanomay,
+xsu Sanumá,
+xsu_aua Auaris,
+xsu_cau Caura,
+xsu_cob Cobari,
+xsu_erv 'Ervato-Ventuari',
+xsu_yan Yanoma,
+yano Yanomaman;
+TREE 21967 = [&R] (shb,(xsu_yan,shb_nor,xsu_aua,xsu_cob,shb_sou,xsu_cau,xsu_erv)xsu,(wca_yao,wca_jau,wca_yan,wca_yay,wca_nan)wca,(guu_eas,guu_wes)guu)yano;
+END;

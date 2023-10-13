@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Paezan: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE paez Paezan,
+pbb Paez,
+pbb_pan Paniquitá,
+qcv Panzaleo;
+TREE 21955 = [&R] (pbb,qcv,pbb_pan)paez;
+END;

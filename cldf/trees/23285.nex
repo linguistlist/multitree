@@ -1,0 +1,32 @@
+#NEXUS
+[MultiTree: Formosan: Peiros 2008]
+BEGIN TREES;
+TRANSLATE ais_ami Amis,
+anes Austronesian,
+atay 'Proto-Atayal',
+bnn Bunun,
+bnnn 'Proto-Bunun',
+ckv Kavalan,
+dru Rukai,
+dru_bud Budai,
+druk 'Proto-Rukai',
+form Formosan,
+nfor 'Northern Formosan',
+puyu 'Proto-Puyuma',
+pwn Paiwan,
+pwnn 'Proto-Paiwan',
+pyu Puyuma,
+sfor 'Southern Formosan',
+ssf Thao,
+sxr Saaroa,
+tay Atayal,
+trv Seediq,
+tsou 'Central Formosan',
+tsu Tsou,
+ufor 'Unclassified Formosan',
+uun Pazeh,
+xnb Kanakanabu,
+xsy Saisiyat,
+xsyt 'Proto-Saisiyat';
+TREE 23285 = [&R] ((((bnn)bnnn,(pyu)puyu,(pwn)pwnn,((dru_bud)dru)druk)sfor,(tsu,xnb,sxr)tsou,((tay,trv)atay,uun,ssf,(xsy)xsyt)nfor,(ckv,ais_ami)ufor)form)anes;
+END;

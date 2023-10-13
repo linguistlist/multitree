@@ -1,0 +1,23 @@
+#NEXUS
+[MultiTree: Uralic: Pedersen 1929]
+BEGIN TREES;
+TRANSLATE bfi_bal 'dialects near the Baltic Sea',
+bfin 'West Finnic',
+efug 'eastern geographical section',
+est Esthonian,
+fin Finnish,
+fugr 'Finno-Ugrian',
+hun Hungarian,
+kca ostiak,
+lapp Lappish,
+mhr_mrj Cheremissian,
+mns Vogulian,
+myv Mordvinian,
+perm Permian,
+sfug 'southern geographical section',
+smoy Samoyed,
+ugri Ugrian,
+urlc Uralic,
+wfug 'western geographical section';
+TREE 13215 = [&R] ((((mns,kca)ugri,mhr_mrj,perm,myv)efug,((fin,bfi_bal,est)bfin,lapp)wfug,(hun)sfug)fugr,smoy)urlc;
+END;

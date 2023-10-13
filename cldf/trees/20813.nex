@@ -1,0 +1,35 @@
+#NEXUS
+[MultiTree: Tupi-Guarani: Krickeberg & Jimenez Moreno 1937]
+BEGIN TREES;
+TRANSLATE 1mu Tapé,
+1mv Tamoyó,
+1mw Cayeté,
+1mx Curuahe,
+1my Tapañuna,
+api Apiacá,
+awe Auetó,
+boa Miraña,
+cap Chipaya,
+cod Cocama,
+eme Emerillón,
+gnw_gui_ava_pta Chiriguano,
+gub Guajajará,
+gug_gui Guaraní,
+gui_tap_tpj Cainguá,
+gyr Guarayú,
+jua_cat Catuquinarú,
+jur Yuruna,
+kay Camayurá,
+mav Maué,
+myu Mundurucú,
+omg Omagua,
+oym Oyampí,
+pah Parentintín,
+psm Pauserna,
+taf Tapirapé,
+tgua_tupi 'Tupi-Guarani',
+tpk Tupiniquín,
+tpn Tupinambá,
+xet Aré;
+TREE 20813 = [&R] (gyr,pah,jua_cat,cod,mav,1mx,taf,kay,1my,oym,gui_tap_tpj,gug_gui,awe,api,tpk,gnw_gui_ava_pta,1mv,cap,jur,eme,1mw,tpn,1mu,xet,boa,omg,myu,gub,psm)tgua_tupi;
+END;

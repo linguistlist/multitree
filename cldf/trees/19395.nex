@@ -1,0 +1,24 @@
+#NEXUS
+[MultiTree: Nyulnyulan: Bowern 2004]
+BEGIN TREES;
+TRANSLATE 08s Ngumbarl,
+bard 'North-West Nyulnyulan',
+bcj_bcj_bar Bardi,
+bcj_jaw_djw Jawi,
+dyb 'Jabirr-Jabirr',
+dyd Jukun,
+enyu 'Eastern Nyulnyulan',
+nmp Nimanburru,
+nyh Nyikina,
+nyh_big 'Big Nyikina',
+nyh_sma 'Small Nyikina',
+nyki Nyikinic,
+nyul 'Proto-Nyulnyulan',
+nyv Nyulnyul,
+wnyu 'Western Nyulnyulan',
+wwr Warrwa,
+yawu Yawuric,
+ywr Yawuru,
+ywr_eas Marangan;
+TREE 19395 = [&R] ((nyv,dyb,nmp,(bcj_jaw_djw,bcj_bcj_bar)bard,08s)wnyu,((dyd,ywr_eas,ywr)yawu,(wwr,(nyh_sma,nyh_big)nyh)nyki)enyu)nyul;
+END;

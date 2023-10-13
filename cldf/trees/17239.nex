@@ -1,0 +1,26 @@
+#NEXUS
+[MultiTree: Guajiboan: Composite]
+BEGIN TREES;
+TRANSLATE cui Cuiva,
+cui_ama Amaruwa,
+cui_chi Chiricoa,
+cui_cir Chiripo,
+cui_mas_cui_maw Masiware,
+cui_may Mayayero,
+cui_mel Mella,
+cui_moc 'Mochuelo-Casanare-Cuiba',
+cui_pta Ptamo,
+cui_tam Tampiwi,
+cui_yar 'Yarahuuraxi-Capanapara',
+gob Playero,
+guah Guajiboan,
+guh Guajibo,
+guh_amo Amorua,
+guh_gua Guahibo,
+guh_sik Sicuane,
+guh_tig Tigrero,
+guo Guayabero,
+mbn Macaguán,
+qds Churuya;
+TREE 17239 = [&R] (qds,(cui_moc,cui_cir,cui_mas_cui_maw,cui_chi,guh_sik,cui_may,cui_pta,cui_mel,cui_ama,cui_yar,cui_tam)cui,(guh_tig,guh_gua,guh_amo)guh,guo,mbn,gob)guah;
+END;

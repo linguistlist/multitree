@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Muskogean: Dryer 2005]
+BEGIN TREES;
+TRANSLATE akz Alabama,
+cho Choctaw,
+cic Chickasaw,
+cku Koasati,
+mik Mikasuki,
+mus Creek,
+mus_sem Seminole,
+musk Muskogean;
+TREE 10649 = [&R] (akz,cic,cho,mus,cku,mik,mus_sem)musk;
+END;

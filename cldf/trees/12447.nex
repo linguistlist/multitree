@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Jivaroan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE acu Achuar,
+agr Aguaruna,
+hub Huambisa,
+jiv Jivaro,
+jiva Jivaroan;
+TREE 12447 = [&R] (jiv,agr,acu,hub)jiva;
+END;

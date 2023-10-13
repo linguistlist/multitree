@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Australian Unclassified Languages: Composite]
+BEGIN TREES;
+TRANSLATE auun 'Australian Unclassified',
+lnw Lanima,
+xtz Tasmanian;
+TREE 11936 = [&R] (xtz,lnw)auun;
+END;

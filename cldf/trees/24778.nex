@@ -1,0 +1,30 @@
+#NEXUS
+[MultiTree: Skou: Ethnologue 2013]
+BEGIN TREES;
+TRANSLATE esku 'Eastern Skou',
+ksi Isaka,
+l1ka 'I''saka',
+msrr 'Main Serra',
+nsku 'Nuclear Skou',
+pux Paure,
+rams 'Rawo-Main Serra',
+raw0 Rawo,
+rwa Rawo,
+sdk_bal 'Baltu-Kamatogukundi',
+sdk_kam Kamatogukundi,
+sdk_kwa Kwaroikundi,
+sdk_nya Nyandakundi,
+sdk_sot Sotakundi,
+sdk_wmx Womo,
+shpi Pauri,
+shpr 'Piore River',
+skoo Skou,
+skou Skou,
+sksh 'Serra Hills',
+skv Skou,
+sspi 'Skou-Serra-Piore',
+vam Vanimo,
+wra Warapu,
+wut Wutung;
+TREE 24778 = [&R] (((((rwa)raw0,((sdk_sot,sdk_nya,sdk_bal,sdk_kwa,sdk_kam)sdk_wmx)msrr)rams,(wra)shpr,(pux)shpi)sksh,((wut,vam)esku,(skv)skou)nsku)sspi,(ksi)l1ka)skoo;
+END;

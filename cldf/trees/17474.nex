@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Lule-Vilelan: Composite]
+BEGIN TREES;
+TRANSLATE luvi 'Lule-Vilelan',
+ule Lule,
+vil Vilela;
+TREE 17474 = [&R] (vil,ule)luvi;
+END;

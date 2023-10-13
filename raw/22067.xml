@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Pacific</region>
+    <root>
+      <is-default type="integer">0</is-default>
+      <geography nil="true"></geography>
+      <end-date nil="true"></end-date>
+      <confidence>y</confidence>
+      <codes>epap</codes>
+      <updater-id type="integer">10740</updater-id>
+      <id type="integer">871373</id>
+      <created-by>joe_leif</created-by>
+      <node-type-id type="integer">10000</node-type-id>
+      <children type="array">
+        <child>
+          <is-default type="integer">0</is-default>
+          <geography nil="true"></geography>
+          <end-date nil="true"></end-date>
+          <confidence>y</confidence>
+          <codes>svlt</codes>
+          <updater-id type="integer">10740</updater-id>
+          <id type="integer">871375</id>
+          <created-by>joe_leif</created-by>
+          <node-type-id type="integer">10000</node-type-id>
+          <children type="array">
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <codes>tqu</codes>
+              <updater-id type="integer">10740</updater-id>
+              <id type="integer">871379</id>
+              <created-by>joe_leif</created-by>
+              <node-type-id type="integer">10001</node-type-id>
+              <children type="array">
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <codes>tqu-lok</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <id type="integer">871381</id>
+                  <created-by>joe_leif</created-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <children type="array"/>
+                  <pub-comments>"Baniata and Lokuru are communalects of Tuou, not distinct languages" (Dunn 2007:216).</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-by>joe_leif</updated-by>
+                  <created-at type="datetime">2013-05-29T11:17:03-04:00</created-at>
+                  <alt-names></alt-names>
+                  <start-date nil="true"></start-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <tree-val>Papuan: Dunn 2007</tree-val>
+                  <updated-at type="datetime">2013-05-29T11:17:03-04:00</updated-at>
+                  <tree-id type="integer">22067</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <pri-name>Lokuru</pri-name>
+                  <other-codes></other-codes>
+                  <node-type>Dialect</node-type>
+                  <status nil="true"></status>
+                  <publications>Dunn, Michael  &amp; Malcolm D. Ross. 2007. Is Kazukuru Really Non-Austronesian?, Oceanic Linguistics, no. 1 edn., vol. 46, 210-231. </publications>
+                </child>
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <codes>tqu-ban</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <id type="integer">871380</id>
+                  <created-by>joe_leif</created-by>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <children type="array"/>
+                  <pub-comments>"Baniata and Lokuru are communalects of Tuou, not distinct languages" (Dunn 2007:216).</pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-by>joe_leif</updated-by>
+                  <created-at type="datetime">2013-05-29T11:17:03-04:00</created-at>
+                  <alt-names></alt-names>
+                  <start-date nil="true"></start-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <tree-val>Papuan: Dunn 2007</tree-val>
+                  <updated-at type="datetime">2013-05-29T11:17:03-04:00</updated-at>
+                  <tree-id type="integer">22067</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <pri-name>Baniata</pri-name>
+                  <other-codes></other-codes>
+                  <node-type>Dialect</node-type>
+                  <status nil="true"></status>
+                  <publications>Dunn, Michael  &amp; Malcolm D. Ross. 2007. Is Kazukuru Really Non-Austronesian?, Oceanic Linguistics, no. 1 edn., vol. 46, 210-231. </publications>
+                </child>
+              </children>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <updated-by>joe_leif</updated-by>
+              <created-at type="datetime">2013-05-29T11:17:02-04:00</created-at>
+              <alt-names></alt-names>
+              <start-date nil="true"></start-date>
+              <creator-id type="integer">10740</creator-id>
+              <tree-val>Papuan: Dunn 2007</tree-val>
+              <updated-at type="datetime">2013-05-29T11:17:03-04:00</updated-at>
+              <tree-id type="integer">22067</tree-id>
+              <sureness type="integer">0</sureness>
+              <pri-name>Tuou</pri-name>
+              <other-codes></other-codes>
+              <node-type>Language</node-type>
+              <status nil="true"></status>
+              <publications>Dunn, Michael  &amp; Malcolm D. Ross. 2007. Is Kazukuru Really Non-Austronesian?, Oceanic Linguistics, no. 1 edn., vol. 46, 210-231. </publications>
+            </child>
+            <child>
+              <is-default type="integer">0</is-default>
+              <geography nil="true"></geography>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <codes>svla</codes>
+              <updater-id type="integer">10740</updater-id>
+              <id type="integer">871376</id>
+              <created-by>joe_leif</created-by>
+              <node-type-id type="integer">10000</node-type-id>
+              <children type="array">
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <codes>lvk</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <id type="integer">871378</id>
+                  <created-by>joe_leif</created-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <children type="array"/>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-by>joe_leif</updated-by>
+                  <created-at type="datetime">2013-05-29T11:17:02-04:00</created-at>
+                  <alt-names></alt-names>
+                  <start-date nil="true"></start-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <tree-val>Papuan: Dunn 2007</tree-val>
+                  <updated-at type="datetime">2013-05-29T11:17:02-04:00</updated-at>
+                  <tree-id type="integer">22067</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <pri-name>Lakukaleve</pri-name>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <status nil="true"></status>
+                  <publications>Dunn, Michael  &amp; Malcolm D. Ross. 2007. Is Kazukuru Really Non-Austronesian?, Oceanic Linguistics, no. 1 edn., vol. 46, 210-231. </publications>
+                </child>
+                <child>
+                  <is-default type="integer">0</is-default>
+                  <geography nil="true"></geography>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <codes>svs</codes>
+                  <updater-id type="integer">10740</updater-id>
+                  <id type="integer">871377</id>
+                  <created-by>joe_leif</created-by>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <children type="array"/>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-by>joe_leif</updated-by>
+                  <created-at type="datetime">2013-05-29T11:17:02-04:00</created-at>
+                  <alt-names></alt-names>
+                  <start-date nil="true"></start-date>
+                  <creator-id type="integer">10740</creator-id>
+                  <tree-val>Papuan: Dunn 2007</tree-val>
+                  <updated-at type="datetime">2013-05-29T11:17:02-04:00</updated-at>
+                  <tree-id type="integer">22067</tree-id>
+                  <sureness type="integer">0</sureness>
+                  <pri-name>Savosavo</pri-name>
+                  <other-codes></other-codes>
+                  <node-type>Language</node-type>
+                  <status nil="true"></status>
+                  <publications>Dunn, Michael  &amp; Malcolm D. Ross. 2007. Is Kazukuru Really Non-Austronesian?, Oceanic Linguistics, no. 1 edn., vol. 46, 210-231. </publications>
+                </child>
+              </children>
+              <pub-comments>Not named by author</pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <deleted-at nil="true"></deleted-at>
+              <updated-by>joe_leif</updated-by>
+              <created-at type="datetime">2013-05-29T11:17:02-04:00</created-at>
+              <alt-names></alt-names>
+              <start-date nil="true"></start-date>
+              <creator-id type="integer">10740</creator-id>
+              <tree-val>Papuan: Dunn 2007</tree-val>
+              <updated-at type="datetime">2013-05-29T11:17:02-04:00</updated-at>
+              <tree-id type="integer">22067</tree-id>
+              <sureness type="integer">0</sureness>
+              <pri-name>Savosavo-Lavukaleve</pri-name>
+              <other-codes></other-codes>
+              <node-type>Subgroup</node-type>
+              <status nil="true"></status>
+              <publications>Dunn, Michael  &amp; Malcolm D. Ross. 2007. Is Kazukuru Really Non-Austronesian?, Oceanic Linguistics, no. 1 edn., vol. 46, 210-231. </publications>
+            </child>
+          </children>
+          <pub-comments>Not named by author</pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <deleted-at nil="true"></deleted-at>
+          <updated-by>joe_leif</updated-by>
+          <created-at type="datetime">2013-05-29T11:17:02-04:00</created-at>
+          <alt-names></alt-names>
+          <start-date nil="true"></start-date>
+          <creator-id type="integer">10740</creator-id>
+          <tree-val>Papuan: Dunn 2007</tree-val>
+          <updated-at type="datetime">2013-05-29T11:17:02-04:00</updated-at>
+          <tree-id type="integer">22067</tree-id>
+          <sureness type="integer">0</sureness>
+          <pri-name>Savosavo-Lavukaleve-Tuou</pri-name>
+          <other-codes></other-codes>
+          <node-type>Subgroup</node-type>
+          <status nil="true"></status>
+          <publications>Dunn, Michael  &amp; Malcolm D. Ross. 2007. Is Kazukuru Really Non-Austronesian?, Oceanic Linguistics, no. 1 edn., vol. 46, 210-231. </publications>
+        </child>
+        <child>
+          <is-default type="integer">0</is-default>
+          <geography nil="true"></geography>
+          <end-date nil="true"></end-date>
+          <confidence>y</confidence>
+          <codes>blb</codes>
+          <updater-id type="integer">10740</updater-id>
+          <id type="integer">871374</id>
+          <created-by>joe_leif</created-by>
+          <node-type-id type="integer">10001</node-type-id>
+          <children type="array"/>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <deleted-at nil="true"></deleted-at>
+          <updated-by>joe_leif</updated-by>
+          <created-at type="datetime">2013-05-29T11:17:02-04:00</created-at>
+          <alt-names></alt-names>
+          <start-date nil="true"></start-date>
+          <creator-id type="integer">10740</creator-id>
+          <tree-val>Papuan: Dunn 2007</tree-val>
+          <updated-at type="datetime">2013-05-29T11:17:02-04:00</updated-at>
+          <tree-id type="integer">22067</tree-id>
+          <sureness type="integer">0</sureness>
+          <pri-name>Bilua</pri-name>
+          <other-codes></other-codes>
+          <node-type>Language</node-type>
+          <status nil="true"></status>
+          <publications>Dunn, Michael  &amp; Malcolm D. Ross. 2007. Is Kazukuru Really Non-Austronesian?, Oceanic Linguistics, no. 1 edn., vol. 46, 210-231. </publications>
+        </child>
+      </children>
+      <pub-comments>Dunn uses a method called neighbor-joining to create this tree, using lexicostatistical data, and in the original tree, total branch length represented lexical distance.  "Lexical distance (calculated from apparent cognate percentages) make a clear split between Oceanic and Papuan, with Kazukuru intermediate" (Dunn 2007:216, footnote).  see also Tryon and Hackman (1983): "The Solomon Languages: An Internal Classification."  "The Papuan varieties are all distant from each other [&#8230;], and are also distant from the Oceanic languages" (Dunn 2007: 216). Dunn refers to the Papuan languages included as the "Oceanic-influenced Papuan languages of the Solomon islands" (2007:226).</pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <deleted-at nil="true"></deleted-at>
+      <updated-by>joe_leif</updated-by>
+      <created-at type="datetime">2013-05-29T11:17:02-04:00</created-at>
+      <alt-names>non-Austronesian</alt-names>
+      <start-date nil="true"></start-date>
+      <creator-id type="integer">10740</creator-id>
+      <tree-val>Papuan: Dunn 2007</tree-val>
+      <updated-at type="datetime">2013-05-29T11:17:02-04:00</updated-at>
+      <tree-id type="integer">22067</tree-id>
+      <sureness type="integer">0</sureness>
+      <pri-name>Papuan</pri-name>
+      <other-codes></other-codes>
+      <node-type>Subgroup</node-type>
+      <status nil="true"></status>
+      <publications>Dunn, Michael  &amp; Malcolm D. Ross. 2007. Is Kazukuru Really Non-Austronesian?, Oceanic Linguistics, no. 1 edn., vol. 46, 210-231. </publications>
+    </root>
+    <description>Papuan: Dunn 2007</description>
+  </tree>
+</hash>

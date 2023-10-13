@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Koluschan: Powell 1891]
+BEGIN TREES;
+TRANSLATE tli_auk Auk,
+tli_chi Chilcat,
+tli_han Hanega,
+tli_hoo Hoodsunu,
+tli_hun Hunah,
+tli_kek Kek,
+tli_sit Sitka,
+tli_sta Stahkin,
+tli_tag Tagish,
+tli_tak Taku,
+tli_ton Tongas,
+tli_yak Yakutat,
+tlin Koluschan;
+TREE 15309 = [&R] (tli_kek,tli_ton,tli_hoo,tli_tak,tli_sit,tli_han,tli_sta,tli_hun,tli_auk,tli_yak,tli_tag,tli_chi)tlin;
+END;

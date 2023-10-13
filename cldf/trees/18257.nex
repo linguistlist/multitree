@@ -1,0 +1,19 @@
+#NEXUS
+[MultiTree: Proto Thura-Yura, subtree of Pama-Nyungan: Hercus and Simpson 2004]
+BEGIN TREES;
+TRANSLATE adt Adnyamathanha,
+bjb Barngarla,
+gvy Kuyani,
+jui Ngadjuri,
+nnr Narangga,
+nnv Nukunu,
+nthy 'Northern Thura-Yura',
+pthy 'Proto Thura-Yura',
+sthy 'Southern Thura-Yura',
+wgu Wirangu,
+wiw_gaw 'Gawler Ranges Wirangu',
+wiw_mod 'Modern Wirangu',
+yura 'Proto Core Thura-Yura',
+zku Kaurna;
+TREE 18257 = [&R] ((nnv,(bjb,adt,gvy)nthy,(nnr,zku)sthy,jui)yura,(wiw_gaw,wiw_mod)wgu)pthy;
+END;

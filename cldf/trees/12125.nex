@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: Lower Mamberamo: Dryer 2005]
+BEGIN TREES;
+TRANSLATE lmam 'Lower Mamberamo',
+wsa Warembori;
+TREE 12125 = [&R] (wsa)lmam;
+END;

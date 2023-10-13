@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Left May: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE amm Ama,
+bpw Bo,
+bpw_kab Kaboru,
+bpw_nik Nikiyama,
+bpw_umu Umuruta,
+itr Iteri,
+lema 'Left May',
+nax Nakwi,
+niw Nimo,
+owi Owiniga;
+TREE 10215 = [&R] (amm,(bpw_kab,bpw_nik,bpw_umu)bpw,itr,nax,niw,owi)lema;
+END;

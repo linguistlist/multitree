@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: East Bougainville: Dryer 2005]
+BEGIN TREES;
+TRANSLATE buo Buin,
+ebou 'East Bougainville',
+nas Nasioi,
+siw Motuna;
+TREE 12162 = [&R] (nas,siw,buo)ebou;
+END;

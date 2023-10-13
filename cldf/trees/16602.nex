@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Macro-Kulyi-Cholonan: Kaufman 2007]
+BEGIN TREES;
+TRANSLATE 0iq Kulyi,
+chln Cholonan,
+cht_qbx Cholón,
+hib Hibito,
+mkch 'Macro-Kulyi-Cholonan';
+TREE 16602 = [&R] ((hib,cht_qbx,0iq)chln)mkch;
+END;

@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Sino-Tibetan: Conrady 1896]
+BEGIN TREES;
+TRANSLATE bfil Barmanische,
+chin Chinesische,
+npas 'Nepalesische und Assamesische Gruppe',
+sitb 'Indo-Chinesisch',
+smch 'Siamesisch-Chinesische',
+taik Siamesische,
+tbur 'Tibeto-Barmanischen',
+tibt Tibetische;
+TREE 10750 = [&R] ((tibt,npas,bfil)tbur,(taik,chin)smch)sitb;
+END;

@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: North American Mixed Languages: Composite]
+BEGIN TREES;
+TRANSLATE crg Michif,
+frcr 'French-Cree',
+naml 'North American Mixed Language';
+TREE 11848 = [&R] ((crg)frcr)naml;
+END;

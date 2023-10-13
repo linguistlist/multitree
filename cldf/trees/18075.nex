@@ -1,0 +1,27 @@
+#NEXUS
+[MultiTree: Chumashan: Composite]
+BEGIN TREES;
+TRANSLATE 066 Cuyama,
+boi Barbareño,
+boi_dos 'Dos Pueblos',
+boi_sba 'Santa Barbara-Goleta',
+cchu 'Central Chumash',
+chum Chumashan,
+crz 'Island Chumash',
+crz_ros Roseño,
+ichm 'Island Chumash',
+inz Ineseño,
+ktsp 'Northern Chumash',
+obi Obsipeño,
+obi_nor 'Northern Obispeño',
+obi_sou 'Southern Obispeño',
+puy Purisimeño,
+veo Ventureño,
+veo_mal Malibu,
+veo_mat Matilija,
+veo_mug Mugu,
+veo_oja 'Ojai-Santa Paula-Sespe-Castac',
+veo_shi Shisholop,
+vpsc 'Southern Chumash';
+TREE 18075 = [&R] (((obi_nor,obi_sou)obi)ktsp,(((veo_shi,veo_mug,veo_mat,veo_oja,veo_mal)veo,(boi_dos,boi_sba)boi,puy,inz)cchu,((crz_ros)crz)ichm)vpsc,066)chum;
+END;

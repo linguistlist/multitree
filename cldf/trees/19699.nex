@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Maxakalian: Composite]
+BEGIN TREES;
+TRANSLATE maxa Maxakalían,
+mbl Makoní,
+pth Pataxó,
+qf0 Malalí;
+TREE 19699 = [&R] (mbl,mbl,mbl,mbl,pth,qf0)maxa;
+END;

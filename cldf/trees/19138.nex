@@ -1,0 +1,33 @@
+#NEXUS
+[MultiTree: Macro-Puinávean: Campbell 1997]
+BEGIN TREES;
+TRANSLATE atx Awake,
+cbv Cacua,
+ctss 'Awaké-Kaliana',
+dy1 Dyapá,
+fffc 'Southern Katukinan',
+jup Hupda,
+jup_hup Hupda,
+jup_pap Papurí,
+jup_tik Tikié,
+katk Katukinan,
+kav Katukina,
+klnn Kaliánan,
+knm Kanamarí,
+knm_tsh 'Tshom-Djapá',
+kwa Kaman,
+maku Puinávean,
+mbj Kaburi,
+mbj_nab Naböb,
+mpcl 'Macro-Puinávean',
+pui Puinave,
+qgy Guariba,
+qir Kaliana,
+qp7 Waviare,
+qpz 'Kuri-Dou',
+qpz_dou Dou,
+qpz_kur Kurikuriaí,
+xat Katawixi,
+yab Yahup;
+TREE 19138 = [&R] ((kav,xat,(knm_tsh,(knm)dy1)fffc)katk,((jup_pap,yab,jup_hup,jup_tik)jup,cbv,(qpz_dou,qpz_kur)qpz,pui,qgy,qp7,(mbj_nab,kwa)mbj)maku,((qir,atx)ctss)klnn)mpcl;
+END;

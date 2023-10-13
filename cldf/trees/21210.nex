@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Central Solomons: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE blb Bilua,
+csol 'Central Solomons',
+lvk Lavukaleve,
+svs Savosavo,
+tqu Touo;
+TREE 21210 = [&R] (lvk,tqu,blb,svs)csol;
+END;

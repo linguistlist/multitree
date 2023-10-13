@@ -1,0 +1,30 @@
+#NEXUS
+[MultiTree: Wakashan: Mithun 1999]
+BEGIN TREES;
+TRANSLATE dtd Nitinaht,
+has Haisla,
+has_kit Kitamaat,
+has_klp Kitlope,
+kwk 'Kwak''wala',
+kwk_nor Northern,
+kwk_sou Southern,
+myh Makah,
+noo_aho Ahousaht,
+noo_eha Ehattisaht,
+noo_hes Hesquiat,
+noo_kyu Kyuqot,
+noo_mow Mowachaht,
+noo_nuc Nuchatlaht,
+noo_ohi Ohiaht,
+noo_ope Opetchesaht,
+noo_she Sheshaht,
+noo_tla Tla.o.qui.aht,
+noo_toq Toquaht,
+noo_uch Uchucklesaht,
+noo_ucl Ucluelet,
+nuk Nootka,
+nwak Kwakiutlan,
+swak Nootkan,
+waka Wakashan;
+TREE 11718 = [&R] (((noo_aho,noo_eha,noo_mow,noo_uch,noo_hes,noo_she,noo_ucl,noo_ope,noo_ohi,noo_tla,noo_nuc,noo_toq,noo_kyu)nuk,myh,dtd)swak,((kwk_sou,kwk_nor)kwk,(has_kit,has_klp)has)nwak)waka;
+END;

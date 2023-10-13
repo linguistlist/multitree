@@ -1,0 +1,27 @@
+#NEXUS
+[MultiTree: Mataco-Guaicuru: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE axb Abipon,
+cag Nivaclé,
+cag_for 'Forest Nivaclé',
+cag_riv 'River Nivaclé',
+crq 'Chorote, Iyo''wujwa',
+crt 'Chorote, Iyojwa''ja',
+guay Guaicuruan,
+kbc Kadiwéu,
+matc Mataco,
+mca Maca,
+mgua 'Mataco-Guaicuru',
+moc Mocovi,
+mtp 'Wichí Lhamtés Nocten',
+mzh 'Wichí Lhamtés Güisnay',
+plg Pilaga,
+plg_cpi 'Chaco Pilagá',
+plg_tpi 'Toba-Pilagá',
+tob Toba,
+tob_nor 'Northern Toba',
+tob_sou 'Southeast Toba',
+wlv 'Wichí Lhamtés Vejoz',
+wlv_bvz 'Bermejo Vejoz';
+TREE 12514 = [&R] ((mca,(wlv_bvz)wlv,crq,mzh,crt,mtp,(cag_riv,cag_for)cag)matc,((tob_nor,tob_sou)tob,(plg_tpi,plg_cpi)plg,axb,moc,kbc)guay)mgua;
+END;

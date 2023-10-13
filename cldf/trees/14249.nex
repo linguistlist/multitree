@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Iroquoian: Powell 1891]
+BEGIN TREES;
+TRANSLATE cay Cayuga,
+chr Cherokee,
+five 'Five Nations',
+iroq Iroquoian,
+moh Mohawk,
+nirq 'Northern Iroquois',
+ntw Nottoway,
+one Oneida,
+ono Onondaga,
+qeb Neuter,
+qgl Erie,
+see Seneca,
+sqn Conestoga,
+tus Tuscarora,
+wya Wyandot,
+wya_hur Tionontate;
+TREE 14249 = [&R] (wya_hur,qgl,chr,(ntw,tus)nirq,(cay,ono,moh,one,see)five,sqn,qeb,wya)iroq;
+END;

@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Misumalpan: Campbell 1997]
+BEGIN TREES;
+TRANSLATE camt 'Cacaopera-Matagalpa',
+ccr Cacaopera,
+miq Miskito,
+misu Misumalpan,
+mtn Matagalpa,
+scam 'Sumu-Cacaopera-Matagalpa',
+ulw Ulua,
+yan Sumu,
+yan_baw Bawihka,
+yan_kuk Kukra,
+yan_pan Panamaka,
+yan_taw Tawahka;
+TREE 11273 = [&R] (((yan_kuk,yan_baw,yan_pan,ulw,yan_taw)yan,(mtn,ccr)camt)scam,miq)misu;
+END;

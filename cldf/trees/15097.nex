@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Totonakan: Kaufman 2007]
+BEGIN TREES;
+TRANSLATE tcw_tku_tlc_tlp_toc_too_top_tos_tqt Totonako,
+tee 'Huehuetla Mecapalapa Tepewa',
+tee_tpp_tpt Tepewa,
+tlc 'Misantla Totonako',
+too 'Juárez Totonako',
+top 'Lowland Totonako',
+tos 'Highland Totonako',
+toto Totonakan,
+tpp 'Pisaflores Tepewa',
+tpt 'Tlachichilco Tepewa';
+TREE 15097 = [&R] ((tpp,tpt,tee)tee_tpp_tpt,(tlc,top,too,tos)tcw_tku_tlc_tlp_toc_too_top_tos_tqt)toto;
+END;

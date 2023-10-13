@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Yeniseian: Ethnologue 2013]
+BEGIN TREES;
+TRANSLATE ket Ket,
+yeos Yeniseian,
+yuu Yugh;
+TREE 24758 = [&R] (yuu,ket)yeos;
+END;

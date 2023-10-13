@@ -1,0 +1,22 @@
+#NEXUS
+[MultiTree: Yuta-Nawan: Asher, Moseley 1994]
+BEGIN TREES;
+TRANSLATE 0oe Tekoxkin,
+0of Kaskan,
+0og Tekwexe,
+0oh Koka,
+azte Nawan,
+cok_crn Kora,
+cora Koran,
+hch Wichol,
+nci Nawa,
+ncj_nhy 'Northern Nawa',
+nhe 'Eastern Nawa',
+nhn 'Central Nawa',
+nhw 'Western Nawa',
+ppl Pipil,
+suaz 'Southern Yuta-Nawan',
+utaz 'Yuta-Nawan',
+xpo Pochuteko;
+TREE 12855 = [&R] (((nhe,xpo,ppl,nhw,cok_crn,ncj_nhy,nhn,nci)azte,(0oh,hch,0og,0oe,0of,cok_crn)cora)suaz)utaz;
+END;

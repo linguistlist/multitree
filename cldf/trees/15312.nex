@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Haida: Mithun 1999]
+BEGIN TREES;
+TRANSLATE haid Haida,
+hax Skidegate,
+hax_nin Ninstints,
+hdn Masset,
+hdn_ala 'Alaskan Haida';
+TREE 15312 = [&R] ((hdn_ala,hdn)hdn,(hax,hax_nin)hax)haid;
+END;

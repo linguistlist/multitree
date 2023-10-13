@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: European Sign Language: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE edsl 'European Sign Language',
+mzg 'Monastic Sign Language',
+mzg_ang 'Anglo-Saxon Monastic Sign Language',
+mzg_aug 'Augustinian Sign Language',
+mzg_ben 'Benedictine Sign Language',
+mzg_cis 'Cistercian Sign Language',
+mzg_tra 'Trappist Sign Language';
+TREE 12404 = [&R] ((mzg_aug,mzg_tra,mzg_ben,mzg_cis,mzg_ang)mzg)edsl;
+END;

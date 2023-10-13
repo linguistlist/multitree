@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Cacua-Nukak: Dryer 2005]
+BEGIN TREES;
+TRANSLATE canu 'Cacua-Nukak',
+cbv Cacua,
+mbr Nukak;
+TREE 12431 = [&R] (cbv,mbr)canu;
+END;

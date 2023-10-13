@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Salivan: Composite 2008]
+BEGIN TREES;
+TRANSLATE pid Piaroa,
+slc Sáliba,
+slvn Salivan,
+wpc Maco;
+TREE 10506 = [&R] (wpc,pid,slc)slvn;
+END;

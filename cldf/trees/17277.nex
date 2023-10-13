@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Kaweskar: Kaufman 2007]
+BEGIN TREES;
+TRANSLATE alc Hekaine,
+alc_aks Aksaná,
+arn Mapudungu;
+TREE 17277 = [&R] (alc,arn,alc_aks)alc;
+END;

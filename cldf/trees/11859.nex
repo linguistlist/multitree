@@ -1,0 +1,38 @@
+#NEXUS
+[MultiTree: Mixe-Zoquean: Campbell 1997]
+BEGIN TREES;
+TRANSLATE chzq 'Chiapas Zoquean',
+lwmx 'Lowland Mixe',
+mco 'San José El Paraíso',
+mco_cam Camotlán,
+mdmx 'Midland Mixe',
+mir Guichicovi,
+mixe Mixean,
+mizo 'Mixe-Zoquean',
+mto 'North Highland Mixe',
+mxp Zempoaltepetl,
+mxq 'South Midland Mixe',
+mzl Mazatlán,
+neq_mix 'Non-Zempoaltepetl',
+neq_pux 'North Midland Mixe',
+nezo 'Northeast Zoque',
+oazq 'Chimalapa Zoquean',
+omix 'Oaxaca Mixean',
+plo 'Otula Popoluca',
+poi 'Soteapan Zoque',
+poq 'Texistepec Zoque',
+pos 'Sayula Popoluca',
+qcs Tapachultec,
+shmx 'South Highland Mixe',
+vczq 'Gulf Zoquean',
+zoc 'Central Zoque',
+zoc_oco 'South Zoque',
+zoh_sma 'Santa María Chimalapa Zoque',
+zoh_smi 'San Miguel Chimalapa Zoque',
+zoq Ayapa,
+zoqu Zoquean,
+zor 'Northeast Zoque A',
+zos 'North Zoque',
+zos_cha 'Northeast Zoque B';
+TREE 11859 = [&R] (((zoh_smi,zoh_sma)oazq,((zos_cha,zor)nezo,zoc,zoc_oco,zos)chzq,(zoq,poq,poi)vczq)zoqu,(((mir,mco,mco_cam,mzl)lwmx,(neq_pux,mxq)mdmx,(mxp,neq_mix)shmx,plo,qcs,mto,pos)omix)mixe)mizo;
+END;

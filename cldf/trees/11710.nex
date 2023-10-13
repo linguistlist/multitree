@@ -1,0 +1,25 @@
+#NEXUS
+[MultiTree: Pomoan: Mithun 1999]
+BEGIN TREES;
+TRANSLATE gpzt 'Southern Group Pomoan',
+kju Kashaya,
+peb 'Eastern Pomo',
+peb_big 'Big Valley',
+peb_upp 'Upper Lake',
+pef 'Northeastern Pomo',
+pej 'Northern Pomo',
+pej_gui Guidiville,
+pej_pin Pinoleville,
+pej_pot 'Potter Valley',
+peq 'Southern Pomo',
+peq_sal Salmonhole,
+peq_wes 'West Creek',
+pom 'Lower Lake',
+pom_sul 'Sulphur Bank',
+pomo Pomoan,
+poo Yokaya,
+poo_hop Hopland,
+poo_poi 'Point Arena-Manchester',
+wvwi 'Western Branch Pomoan';
+TREE 11710 = [&R] (((kju,(poo_hop,poo_poi,poo)poo,(peq_wes,peq_sal)peq)gpzt,(pej_pot,pej_pin,pej_gui)pej)wvwi,(pom,(peb_upp,peb_big)peb,pom_sul)pom,pef)pomo;
+END;

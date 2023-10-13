@@ -1,0 +1,23 @@
+#NEXUS
+[MultiTree: Asian Pidgins and Creoles: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE abcr 'Assamese based',
+ascr 'Asian Creoles',
+aspc 'Asian Pidgins and Creoles',
+aspi 'Asian Pidgins',
+assp 'Assamese based',
+ccm 'Malaccan Creole Malay',
+frbp 'French based',
+hbcr 'Hindi-Based Creoles',
+hca 'Andaman Creole Hindi',
+idb 'Indo-Portuguese',
+mbcr 'Malay based',
+mbf 'Malay, Baba',
+mzs Macanese,
+nag 'Naga Pidgin',
+nef Nefamese,
+pbcr 'Portuguese based',
+tas 'Tay Boi',
+vkp 'Korlai Creole Portuguese';
+TREE 11650 = [&R] (((ccm,mbf)mbcr,(vkp,mzs,idb)pbcr,(hca)hbcr,(nag)abcr)ascr,((nef)assp,(tas)frbp)aspi)aspc;
+END;

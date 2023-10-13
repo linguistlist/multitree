@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Austronesian: Benedict 1983]
+BEGIN TREES;
+TRANSLATE anes Austronesian,
+atay Atayalic,
+mlpo 'Malayo-Polynesian',
+paiw Paiwanic,
+pmap 'Paiwanic-Malayo-Polynesian',
+tmap 'Tsouic-Malayo-Polynesian',
+tsou Tsouic;
+TREE 10344 = [&R] (atay,(tsou,(paiw,mlpo)pmap)tmap)anes;
+END;

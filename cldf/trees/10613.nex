@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Barbacoan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE barb Barbacoan,
+cbi Cayapa,
+cof Tsafiki,
+gum Guambiano,
+kwi Pit;
+TREE 10613 = [&R] (kwi,cbi,gum,cof)barb;
+END;

@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Takanan: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE aro Araona,
+cav Cavineña,
+chaa Chama,
+ese 'Ese''ejja',
+rey Reysano,
+taca Takanan,
+tacp Takana,
+tna Tacana,
+tno Toromona;
+TREE 22685 = [&R] ((ese,tno)chaa,(cav,rey,tna,aro)tacp)taca;
+END;

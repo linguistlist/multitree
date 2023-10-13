@@ -1,0 +1,29 @@
+#NEXUS
+[MultiTree: Sal languages, subtree of Tibeto-Burman: Burling 1983]
+BEGIN TREES;
+TRANSLATE aot Atong,
+bodg 'Bodo languages',
+boga 'Boro-Garo',
+brx_xac Boro,
+der Chutia,
+dis Dimasa,
+grt Garo,
+kac Jinghpaw,
+kare Karen,
+kchn 'Manipuri-Mizo-Kuki-Chin',
+kdq_wan Wanang,
+kony 'Eastern Naga',
+kooc '“Koch group',
+lolb 'Lolo-Burmese',
+nbc Chang,
+nbe Konyak,
+njb Nocte,
+nnp Wancho,
+nph Phom,
+nst Tangsa,
+rah Rabha,
+saal 'Sal languages',
+tbur 'Tibeto-Burman',
+trp Tripura;
+TREE 26417 = [&R] ((kac,((rah,der,kdq_wan,aot,trp)kooc,(dis,brx_xac,grt)boga)bodg,(nst,nbc,nnp,njb,nbe,nph)kony)saal,kare,kchn,lolb)tbur;
+END;

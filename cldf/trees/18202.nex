@@ -1,0 +1,33 @@
+#NEXUS
+[MultiTree: Wakashan: Composite]
+BEGIN TREES;
+TRANSLATE dtd Ditidaht,
+has Haisla,
+has_kit Kitamaat,
+has_klp Kitlope,
+hei 'Heiltsuk-Oowekyala',
+hei_bel 'Bella Bella',
+hei_oow Ooweekeeno,
+kwk Kwakiutl,
+kwk_nor Northern,
+kwk_sou Southern,
+myh Makah,
+noo_aho Ahousaht,
+noo_eha Ehattisaht,
+noo_hes Hesquiat,
+noo_kyu Kyuqot,
+noo_mow Mowachaht,
+noo_nuc Nuchatlaht,
+noo_ohi Ohiaht,
+noo_ope Opetchesaht,
+noo_she Sheshaht,
+noo_tla Tla.o.qui.aht,
+noo_toq Toquaht,
+noo_uch Uchucklesaht,
+noo_ucl Ucluelet,
+nuk 'Nuu-chah-nulth',
+nwak 'Northern Wakashan',
+swak Nootkan,
+waka Wakashan;
+TREE 18202 = [&R] (((noo_tla,noo_hes,noo_she,noo_aho,noo_kyu,noo_nuc,noo_ohi,noo_ope,noo_toq,noo_uch,noo_ucl,noo_mow,noo_eha)nuk,myh,dtd)swak,((kwk_sou,kwk_nor)kwk,(hei_bel,hei_oow)hei,(has_klp,has_kit)has)nwak)waka;
+END;

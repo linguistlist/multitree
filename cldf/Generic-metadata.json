@@ -5,6 +5,7 @@
             "@language": "en"
         }
     ],
+    "dc:bibliographicCitation": "MultiTree: A digital library of language relationships. Institute for Language Information and Technology: Ypsilanti, MI. 2013.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
     "dc:description": "MultiTree represents the most complete collection of language relationship hypotheses",
     "dc:license": "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -15,7 +16,7 @@
         {
             "rdf:about": "https://github.com/linguistlist/multitree",
             "rdf:type": "prov:Entity",
-            "dc:created": "583d4c8",
+            "dc:created": "4c46362",
             "dc:title": "Repository"
         },
         {
@@ -40,7 +41,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 34113,
+            "dc:extent": 34110,
             "tableSchema": {
                 "columns": [
                     {
@@ -102,6 +103,10 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
                         "required": false,
                         "name": "ISO639P3code"
+                    },
+                    {
+                        "separator": " | ",
+                        "name": "MultiTree_Names"
                     }
                 ],
                 "primaryKey": [
@@ -178,14 +183,23 @@
                         "name": "Source"
                     },
                     {
+                        "dc:description": "Geographic regions where the languages in a tree are spoken. Roughly the seven continents with 'Pacific' and 'Central America' added as separate regions.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "Africa|Asia|Australia|Europe|North America|Pacific|South America|Central America"
+                        },
                         "propertyUrl": "http://purl.org/dc/terms/spatial",
                         "separator": ";",
-                        "name": "Region"
+                        "name": "Regions"
                     },
                     {
-                        "dc:description": "",
+                        "dc:description": "List of column names in nodes.csv for which the tree providesvalues for some (or all) of its nodes.",
                         "separator": ";",
                         "name": "Node_Metadata"
+                    },
+                    {
+                        "dc:description": "Description of the sources as given in the MultiTree tree files.",
+                        "name": "Source_Comment"
                     }
                 ],
                 "foreignKeys": [
@@ -209,7 +223,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 1,
+            "dc:extent": 1485,
             "tableSchema": {
                 "columns": [
                     {
@@ -284,7 +298,7 @@
                         "name": "Comment"
                     },
                     {
-                        "datatype": "string",
+                        "dc:description": "References the tree in which the node appears.",
                         "name": "Tree_ID"
                     },
                     {

@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Irian Jaya Isolates: Voorhoeve 1975]
+BEGIN TREES;
+TRANSLATE buz Taurap,
+ocis 'Irian Jaya Isolates',
+wsa Warenbori;
+TREE 23085 = [&R] (wsa,buz)ocis;
+END;

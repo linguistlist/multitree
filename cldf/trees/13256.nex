@@ -1,0 +1,27 @@
+#NEXUS
+[MultiTree: Sapir's Penutian Classification: Campbell 1997]
+BEGIN TREES;
+TRANSLATE calp 'California Penutian',
+chik Chinook,
+coos Coos,
+copn 'Coast Oregon Penutian',
+huav Huave,
+kalp Kalapuya,
+klmo Lutuami,
+maid Maidu,
+mizo 'Mixe-Zoque',
+mwcn 'Miwok-Costanoan',
+mxpu 'Mexican Penutian',
+orep 'Oregon Penutian',
+penu Penutian,
+plpn 'Plateau Penutian',
+shap Sahaptian,
+sius Siuslaw,
+takm Takelma,
+tsim Tsimshian,
+wint Wintun,
+wtpn Waiilatpuan,
+yako Yakonan,
+yoku Yokuts;
+TREE 13256 = [&R] ((yoku,wint,maid,mwcn)calp,((yako,coos,sius)copn,kalp,takm)orep,(huav,mizo)mxpu,(shap,klmo,wtpn)plpn,tsim,chik)penu;
+END;

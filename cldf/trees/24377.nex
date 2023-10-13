@@ -1,0 +1,32 @@
+#NEXUS
+[MultiTree: Formosan: Starosta 2005]
+BEGIN TREES;
+TRANSLATE ais_ami Amis,
+anes_form 'Proto-Formosan',
+atay Atayalic,
+bnn Bunun,
+cha Chamorro,
+dru Rukai,
+frma F1,
+frmb F2,
+frmc F3,
+frmd F4,
+frme F5,
+frmf F6,
+frmg F8,
+frmh F11,
+ilo Ilokano,
+mlpo F9,
+nfor F7,
+pwam F10,
+pwn Paiwan,
+sxr Saaroa,
+tao Yami,
+tay Atayal,
+tgl Tagalog,
+trv Seediq,
+tsu Tsou,
+xnb Kanakanavu,
+xsy Saisiyat;
+TREE 24377 = [&R] ((tsu,((((((tay,trv)atay,xsy)nfor,((((ilo,tgl)frmh,tao)mlpo,(ais_ami,pwn)pwam)frmg,bnn)frmf)frme,xnb)frmd,cha)frmc,sxr)frmb)frma,dru)anes_form;
+END;

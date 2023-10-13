@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: Tarascan Isolate:  Zisa 1970]
+BEGIN TREES;
+TRANSLATE pua_tsz Purepecha,
+tara 'Tarascan Isolate';
+TREE 15000 = [&R] (pua_tsz)tara;
+END;

@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Tucano: Krickeberg & Jimenez Moreno 1937]
+BEGIN TREES;
+TRANSLATE 1m6 Pioye,
+avs Ahuishiri,
+coe Coreguaje,
+cub Cobeua,
+des Desana,
+ten Tama,
+tucn Tucano,
+tuo Tucano,
+ynu Yahuna;
+TREE 20811 = [&R] (ynu,coe,tuo,1m6,cub,ten,des,avs)tucn;
+END;

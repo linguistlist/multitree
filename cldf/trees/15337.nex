@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Yuki: Mithun 1999]
+BEGIN TREES;
+TRANSLATE yuk Yuki,
+yuk_coa 'Coast Yuki',
+yuk_huc Huchnom,
+yuk_yuk 'Yuki proper';
+TREE 15337 = [&R] (yuk_coa,yuk_huc,yuk_yuk)yuk;
+END;

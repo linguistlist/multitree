@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Huitotoan: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE bmr Muinane,
+boa Bora,
+bora 'Bora-Muinane',
+hto Minica,
+huu Murui,
+hux Nipode,
+mimu 'Minica-Murai',
+oca Ocaina,
+oca_duk Dukaiya,
+oca_ibo Ibo’tsa,
+wipr 'Early Huitoto',
+wita Huitotoan,
+wito 'Huitoto-Ocaina';
+TREE 21936 = [&R] (((hux,(hto,huu)mimu)wipr,(oca_duk,oca_ibo)oca)wito,(bmr,boa)bora)wita;
+END;

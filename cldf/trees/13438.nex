@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Uralic: Abondolo 2006]
+BEGIN TREES;
+TRANSLATE fugr 'Finno-Ugric',
+mhr_mrj Mari,
+myv Mordva,
+perm Permian,
+safe 'Saamic-Fennic',
+smoy Samoyed,
+ugri CORE,
+urlc Uralic;
+TREE 13438 = [&R] ((ugri,mhr_mrj,safe,perm,myv)fugr,smoy)urlc;
+END;

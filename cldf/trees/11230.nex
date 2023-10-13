@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Chumashan: Campbell 1997]
+BEGIN TREES;
+TRANSLATE boi Barbareño,
+cchu 'Central Chumash',
+chum Chumashan,
+crz Cruzeño,
+crz_isl 'Island Chumash',
+inz Inezeño,
+inz_ros Roseño,
+obi Obispeño,
+puy Purisimeño,
+veo Ventureño;
+TREE 11230 = [&R] (((crz,inz_ros)inz,veo,boi,puy)cchu,obi,crz_isl)chum;
+END;

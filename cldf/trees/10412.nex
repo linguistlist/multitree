@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Eleman: Dryer 2005]
+BEGIN TREES;
+TRANSLATE elem Eleman,
+oro Orokolo,
+tbd 'Kaki Ae',
+tqo Toaripi;
+TREE 10412 = [&R] (tbd,oro,tqo)elem;
+END;

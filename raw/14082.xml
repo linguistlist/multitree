@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <node-type>Subgroup</node-type>
+      <is-default type="integer">0</is-default>
+      <geography nil="true"></geography>
+      <alt-names>Salinas</alt-names>
+      <node-status-id nil="true"></node-status-id>
+      <tree-id type="integer">14082</tree-id>
+      <updated-by>joe_leif</updated-by>
+      <pub-comments>The author is unsure whether this language is spoken by one tribe or many tribes.</pub-comments>
+      <confidence>y</confidence>
+      <created-by>joe_leif</created-by>
+      <tree-val>Esselenian: Powell 1891</tree-val>
+      <sureness type="integer">0</sureness>
+      <other-codes></other-codes>
+      <end-date nil="true"></end-date>
+      <deleted-at nil="true"></deleted-at>
+      <created-at type="datetime">2009-07-15T19:42:35-04:00</created-at>
+      <updated-at type="datetime">2009-07-15T19:42:35-04:00</updated-at>
+      <node-type-id type="integer">10000</node-type-id>
+      <status nil="true"></status>
+      <pri-name>Esselenian</pri-name>
+      <id type="integer">528955</id>
+      <updater-id type="integer">10740</updater-id>
+      <start-date nil="true"></start-date>
+      <publications>Powell, J. W. 1891. Indian Linguistic Families of America North of Mexico, 1-142. Washington D.C.: Government Printing Office. </publications>
+      <creator-id type="integer">10740</creator-id>
+      <codes>esse</codes>
+      <children type="array">
+        <child>
+          <node-type>Language</node-type>
+          <is-default type="integer">0</is-default>
+          <geography>Monterey Bay to the vicinity of the Santa Lucia Mountains</geography>
+          <alt-names></alt-names>
+          <node-status-id nil="true"></node-status-id>
+          <tree-id type="integer">14082</tree-id>
+          <updated-by>joe_leif</updated-by>
+          <pub-comments></pub-comments>
+          <confidence>y</confidence>
+          <created-by>joe_leif</created-by>
+          <tree-val>Esselenian: Powell 1891</tree-val>
+          <sureness type="integer">0</sureness>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2009-07-15T19:42:35-04:00</created-at>
+          <updated-at type="datetime">2009-07-15T19:42:35-04:00</updated-at>
+          <node-type-id type="integer">10001</node-type-id>
+          <status nil="true"></status>
+          <pri-name>Esselen</pri-name>
+          <id type="integer">528956</id>
+          <updater-id type="integer">10740</updater-id>
+          <start-date nil="true"></start-date>
+          <publications>Powell, J. W. 1891. Indian Linguistic Families of America North of Mexico, 1-142. Washington D.C.: Government Printing Office. </publications>
+          <creator-id type="integer">10740</creator-id>
+          <codes>esq</codes>
+          <children type="array"/>
+        </child>
+      </children>
+    </root>
+    <description>Esselenian: Powell 1891</description>
+  </tree>
+</hash>

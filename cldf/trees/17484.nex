@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Muran: Composite]
+BEGIN TREES;
+TRANSLATE cvf Yahah,
+ffg Bohurá,
+mura Muran,
+myp Pirahã,
+myp_mur Mura;
+TREE 17484 = [&R] (myp,myp_mur,ffg,cvf)mura;
+END;

@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Chukotko-Kamchatkan: Ethnologue 2013]
+BEGIN TREES;
+TRANSLATE alr Alutor,
+chka 'Chukotko-Kamchatkan',
+chuk Chukot,
+ckt Chukchi,
+itl Itelmen,
+kory 'Koryak-Alyutor',
+kpy Koryak,
+krk Kerek,
+nchk 'Northern Chukotko-Kamchatkan',
+schk 'Southern Chukotko-Kamchatkan';
+TREE 22666 = [&R] ((itl)schk,((ckt)chuk,(krk,alr,kpy)kory)nchk)chka;
+END;

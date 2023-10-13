@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Elamo-Dravidian: McAlpin 1980]
+BEGIN TREES;
+TRANSLATE brh Brahui,
+drav Dravidian,
+eldr 'Elamo-Dravidian',
+elx Elamite,
+qffe 'Dravidian Proper';
+TREE 11792 = [&R] ((qffe,brh)drav,elx)eldr;
+END;

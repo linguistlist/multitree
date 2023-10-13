@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Kx'a: Brenzinger 2008]
+BEGIN TREES;
+TRANSLATE huc '|=Hoan',
+knw !Xun,
+ktz 'Ju|''hoan',
+nsak 'Kx''a';
+TREE 24709 = [&R] (huc,(ktz)knw)nsak;
+END;

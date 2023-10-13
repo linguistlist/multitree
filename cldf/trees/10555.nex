@@ -1,0 +1,24 @@
+#NEXUS
+[MultiTree: Cariban: Dryer 2005]
+BEGIN TREES;
+TRANSLATE ake Akawaio,
+aoc Pemon,
+apy Apalaí,
+bkq Bakairí,
+car Carib,
+cari Cariban,
+cbd Guaque,
+cbd_hia Hianacoto,
+cbd_uma Umaua,
+hix Hixkaryana,
+jru Japreria,
+mbc Macushi,
+mcg Mapoyo,
+mch 'Carib (De''kwana)',
+pbh Panare,
+tri Tiríyo,
+waw 'Wai Wai',
+way Wayana,
+yup Yukpa;
+TREE 10555 = [&R] (ake,apy,bkq,car,mch,cbd,cbd,cbd_hia,hix,jru,mbc,mcg,pbh,aoc,tri,cbd_uma,waw,way,yup)cari;
+END;

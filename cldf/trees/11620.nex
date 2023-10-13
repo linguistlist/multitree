@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: North American Mixed Language: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE crg Michif,
+egro 'English-Romani',
+frcr 'French-Cree',
+irun 'Irish-Undocumented',
+naml 'North American Mixed Language',
+rme Angloromani,
+sth Shelta;
+TREE 11620 = [&R] ((rme)egro,(crg)frcr,(sth)irun)naml;
+END;

@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Australische Sprachen: Müller 1876]
+BEGIN TREES;
+TRANSLATE aupr Australischen,
+aust 'Australischen Sprachen',
+xtz 'Sprachen von Tasmanien';
+TREE 12212 = [&R] (xtz,aupr)aust;
+END;

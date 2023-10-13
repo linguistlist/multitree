@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Europe</region>
+    <root>
+      <sureness type="integer">0</sureness>
+      <node-type-id type="integer">10000</node-type-id>
+      <node-type>Subgroup</node-type>
+      <end-date nil="true"></end-date>
+      <pri-name>European Mixed Language</pri-name>
+      <id type="integer">325437</id>
+      <created-at type="datetime">2009-03-16T18:40:17-04:00</created-at>
+      <codes>euml</codes>
+      <children type="array">
+        <child>
+          <sureness type="integer">0</sureness>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-type>Subgroup</node-type>
+          <end-date nil="true"></end-date>
+          <pri-name>German-Yiddish-Romani-Rotwelsch</pri-name>
+          <id type="integer">325442</id>
+          <created-at type="datetime">2009-03-16T18:40:17-04:00</created-at>
+          <codes>gyrr</codes>
+          <children type="array">
+            <child>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-type>Language</node-type>
+              <end-date nil="true"></end-date>
+              <pri-name>Yeniche</pri-name>
+              <id type="integer">325443</id>
+              <created-at type="datetime">2009-03-16T18:40:17-04:00</created-at>
+              <codes>yec</codes>
+              <children type="array"/>
+              <status nil="true"></status>
+              <deleted-at nil="true"></deleted-at>
+              <is-default type="integer">0</is-default>
+              <alt-names>Jenisch, Yenishe, German Travellers</alt-names>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Germany, also spoken in Austria, France, Netherlands, Switzerland.</geography>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">11592</tree-id>
+              <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+              <confidence>Y</confidence>
+              <pub-comments>German with a heavy cryptolectal lexical influsion from Rotwelsch, Yiddish, Romani, and Hebrew. Possibly arose as a result of those who were dispossessed because of the Hanseatic laws (I. Hancock).</pub-comments>
+              <updated-at type="datetime">2009-03-16T18:40:17-04:00</updated-at>
+              <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+            </child>
+          </children>
+          <status nil="true"></status>
+          <deleted-at nil="true"></deleted-at>
+          <is-default type="integer">0</is-default>
+          <alt-names></alt-names>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">11592</tree-id>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <confidence>Y</confidence>
+          <pub-comments></pub-comments>
+          <updated-at type="datetime">2009-03-16T18:40:17-04:00</updated-at>
+          <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+          <created-by>joe_leif</created-by>
+          <creator-id type="integer">10740</creator-id>
+        </child>
+        <child>
+          <sureness type="integer">0</sureness>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-type>Subgroup</node-type>
+          <end-date nil="true"></end-date>
+          <pri-name>English-Romani</pri-name>
+          <id type="integer">325440</id>
+          <created-at type="datetime">2009-03-16T18:40:17-04:00</created-at>
+          <codes>egro</codes>
+          <children type="array">
+            <child>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-type>Language</node-type>
+              <end-date nil="true"></end-date>
+              <pri-name>Angloromani</pri-name>
+              <id type="integer">325441</id>
+              <created-at type="datetime">2009-03-16T18:40:17-04:00</created-at>
+              <codes>rme</codes>
+              <children type="array"/>
+              <status nil="true"></status>
+              <deleted-at nil="true"></deleted-at>
+              <is-default type="integer">0</is-default>
+              <alt-names>English Romani, Romani English, Romanichal, Romanis, Pogadi Chib, Posh 'N' Posh</alt-names>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-status-id nil="true"></node-status-id>
+              <geography>United Knigdom, England, Wales, Scotland. Also spoken in Australia, South Africa, USA.</geography>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">11592</tree-id>
+              <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+              <confidence>Y</confidence>
+              <pub-comments>Angloromani not inherently intelligible with Welsh Romani, Traveller Swedish, Traveller Norwegian, or Traveller Danish. The grammar is basically English with heavy Romani lexical borrowing. Many dialects.</pub-comments>
+              <updated-at type="datetime">2009-03-16T18:40:17-04:00</updated-at>
+              <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+            </child>
+          </children>
+          <status nil="true"></status>
+          <deleted-at nil="true"></deleted-at>
+          <is-default type="integer">0</is-default>
+          <alt-names></alt-names>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">11592</tree-id>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <confidence>Y</confidence>
+          <pub-comments></pub-comments>
+          <updated-at type="datetime">2009-03-16T18:40:17-04:00</updated-at>
+          <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+          <created-by>joe_leif</created-by>
+          <creator-id type="integer">10740</creator-id>
+        </child>
+        <child>
+          <sureness type="integer">0</sureness>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-type>Subgroup</node-type>
+          <end-date nil="true"></end-date>
+          <pri-name>Swedish-Romani</pri-name>
+          <id type="integer">325459</id>
+          <created-at type="datetime">2009-03-16T18:40:18-04:00</created-at>
+          <codes>swro</codes>
+          <children type="array">
+            <child>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-type>Language</node-type>
+              <end-date nil="true"></end-date>
+              <pri-name>Romani, Tavringer</pri-name>
+              <id type="integer">325460</id>
+              <created-at type="datetime">2009-03-16T18:40:18-04:00</created-at>
+              <codes>rmu</codes>
+              <children type="array"/>
+              <status nil="true"></status>
+              <deleted-at nil="true"></deleted-at>
+              <is-default type="integer">0</is-default>
+              <alt-names>Rommani, Svensk Rommani, Traveller Swedish, "Tattare"</alt-names>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Sweden, also spoken in Norway.</geography>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">11592</tree-id>
+              <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+              <confidence>Y</confidence>
+              <pub-comments>An independent language based on Swedish with heavy lexical borrowing from Northern Romani. Not intelligible with Angloromani.</pub-comments>
+              <updated-at type="datetime">2009-03-16T18:40:18-04:00</updated-at>
+              <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+            </child>
+          </children>
+          <status nil="true"></status>
+          <deleted-at nil="true"></deleted-at>
+          <is-default type="integer">0</is-default>
+          <alt-names></alt-names>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">11592</tree-id>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <confidence>Y</confidence>
+          <pub-comments></pub-comments>
+          <updated-at type="datetime">2009-03-16T18:40:18-04:00</updated-at>
+          <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+          <created-by>joe_leif</created-by>
+          <creator-id type="integer">10740</creator-id>
+        </child>
+        <child>
+          <sureness type="integer">0</sureness>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-type>Subgroup</node-type>
+          <end-date nil="true"></end-date>
+          <pri-name>Serbian-Romani</pri-name>
+          <id type="integer">325457</id>
+          <created-at type="datetime">2009-03-16T18:40:18-04:00</created-at>
+          <codes>sero</codes>
+          <children type="array">
+            <child>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-type>Language</node-type>
+              <end-date nil="true"></end-date>
+              <pri-name>Romano-Serbian</pri-name>
+              <id type="integer">325458</id>
+              <created-at type="datetime">2009-03-16T18:40:18-04:00</created-at>
+              <codes>rsb</codes>
+              <children type="array"/>
+              <status nil="true"></status>
+              <deleted-at nil="true"></deleted-at>
+              <is-default type="integer">0</is-default>
+              <alt-names>Tent Gypsy</alt-names>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Serbia and Montenegro</geography>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">11592</tree-id>
+              <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+              <confidence>Y</confidence>
+              <pub-comments>Related to Serbian with influences from Romani.</pub-comments>
+              <updated-at type="datetime">2009-03-16T18:40:18-04:00</updated-at>
+              <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+            </child>
+          </children>
+          <status nil="true"></status>
+          <deleted-at nil="true"></deleted-at>
+          <is-default type="integer">0</is-default>
+          <alt-names></alt-names>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">11592</tree-id>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <confidence>Y</confidence>
+          <pub-comments></pub-comments>
+          <updated-at type="datetime">2009-03-16T18:40:18-04:00</updated-at>
+          <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+          <created-by>joe_leif</created-by>
+          <creator-id type="integer">10740</creator-id>
+        </child>
+        <child>
+          <sureness type="integer">0</sureness>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-type>Subgroup</node-type>
+          <end-date nil="true"></end-date>
+          <pri-name>Norwegian-Romani</pri-name>
+          <id type="integer">325455</id>
+          <created-at type="datetime">2009-03-16T18:40:17-04:00</created-at>
+          <codes>noro</codes>
+          <children type="array">
+            <child>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-type>Language</node-type>
+              <end-date nil="true"></end-date>
+              <pri-name>Norwegian, Traveller</pri-name>
+              <id type="integer">325456</id>
+              <created-at type="datetime">2009-03-16T18:40:17-04:00</created-at>
+              <codes>rmg</codes>
+              <children type="array"/>
+              <status nil="true"></status>
+              <deleted-at nil="true"></deleted-at>
+              <is-default type="integer">0</is-default>
+              <alt-names>Rodi, Norwegian Traveller</alt-names>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Norway</geography>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">11592</tree-id>
+              <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+              <confidence>Y</confidence>
+              <pub-comments>An independent language based on Norwegian with heavy lexical borrowing from Northern Romani and German Rotwelsch. Not intelligible with Angloromani.</pub-comments>
+              <updated-at type="datetime">2009-03-16T18:40:18-04:00</updated-at>
+              <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+            </child>
+          </children>
+          <status nil="true"></status>
+          <deleted-at nil="true"></deleted-at>
+          <is-default type="integer">0</is-default>
+          <alt-names></alt-names>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">11592</tree-id>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <confidence>Y</confidence>
+          <pub-comments></pub-comments>
+          <updated-at type="datetime">2009-03-16T18:40:17-04:00</updated-at>
+          <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+          <created-by>joe_leif</created-by>
+          <creator-id type="integer">10740</creator-id>
+        </child>
+        <child>
+          <sureness type="integer">0</sureness>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-type>Subgroup</node-type>
+          <end-date nil="true"></end-date>
+          <pri-name>Iberian-Romani</pri-name>
+          <id type="integer">325446</id>
+          <created-at type="datetime">2009-03-16T18:40:17-04:00</created-at>
+          <codes>irro</codes>
+          <children type="array">
+            <child>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-type>Language</node-type>
+              <end-date nil="true"></end-date>
+              <pri-name>Cal&#243;</pri-name>
+              <id type="integer">325447</id>
+              <created-at type="datetime">2009-03-16T18:40:17-04:00</created-at>
+              <codes>rmr</codes>
+              <children type="array">
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <node-type>Dialect</node-type>
+                  <end-date nil="true"></end-date>
+                  <pri-name>Catalonian Calo</pri-name>
+                  <id type="integer">325450</id>
+                  <created-at type="datetime">2009-03-16T18:40:17-04:00</created-at>
+                  <codes>rmq-cat</codes>
+                  <children type="array"/>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <is-default type="integer">0</is-default>
+                  <alt-names></alt-names>
+                  <updated-by>joe_leif</updated-by>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography nil="true"></geography>
+                  <updater-id type="integer">10740</updater-id>
+                  <tree-id type="integer">11592</tree-id>
+                  <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+                  <confidence>Y</confidence>
+                  <pub-comments></pub-comments>
+                  <updated-at type="datetime">2009-03-16T18:40:17-04:00</updated-at>
+                  <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <creator-id type="integer">10740</creator-id>
+                </child>
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <node-type>Dialect</node-type>
+                  <end-date nil="true"></end-date>
+                  <pri-name>Spanish Cal&#243;</pri-name>
+                  <id type="integer">325452</id>
+                  <created-at type="datetime">2009-03-16T18:40:17-04:00</created-at>
+                  <codes>rmq-spa</codes>
+                  <children type="array"/>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <is-default type="integer">0</is-default>
+                  <alt-names></alt-names>
+                  <updated-by>joe_leif</updated-by>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography nil="true"></geography>
+                  <updater-id type="integer">10740</updater-id>
+                  <tree-id type="integer">11592</tree-id>
+                  <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+                  <confidence>Y</confidence>
+                  <pub-comments></pub-comments>
+                  <updated-at type="datetime">2009-03-16T18:40:17-04:00</updated-at>
+                  <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <creator-id type="integer">10740</creator-id>
+                </child>
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <node-type>Dialect</node-type>
+                  <end-date nil="true"></end-date>
+                  <pri-name>Portuguese Cal&#227;o</pri-name>
+                  <id type="integer">325451</id>
+                  <created-at type="datetime">2009-03-16T18:40:17-04:00</created-at>
+                  <codes>rmq-por</codes>
+                  <children type="array"/>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <is-default type="integer">0</is-default>
+                  <alt-names>Cal&#227;o, Lusitano-Romani</alt-names>
+                  <updated-by>joe_leif</updated-by>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography nil="true"></geography>
+                  <updater-id type="integer">10740</updater-id>
+                  <tree-id type="integer">11592</tree-id>
+                  <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+                  <confidence>Y</confidence>
+                  <pub-comments></pub-comments>
+                  <updated-at type="datetime">2009-03-16T18:40:17-04:00</updated-at>
+                  <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <creator-id type="integer">10740</creator-id>
+                </child>
+                <child>
+                  <sureness type="integer">0</sureness>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <node-type>Dialect</node-type>
+                  <end-date nil="true"></end-date>
+                  <pri-name>Basque Calo</pri-name>
+                  <id type="integer">325448</id>
+                  <created-at type="datetime">2009-03-16T18:40:17-04:00</created-at>
+                  <codes>emx</codes>
+                  <children type="array"/>
+                  <status nil="true"></status>
+                  <deleted-at nil="true"></deleted-at>
+                  <is-default type="integer">0</is-default>
+                  <alt-names></alt-names>
+                  <updated-by>joe_leif</updated-by>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography nil="true"></geography>
+                  <updater-id type="integer">10740</updater-id>
+                  <tree-id type="integer">11592</tree-id>
+                  <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+                  <confidence>Y</confidence>
+                  <pub-comments></pub-comments>
+                  <updated-at type="datetime">2011-02-27T16:30:13-05:00</updated-at>
+                  <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+                  <created-by>joe_leif</created-by>
+                  <creator-id type="integer">10740</creator-id>
+                </child>
+              </children>
+              <status nil="true"></status>
+              <deleted-at nil="true"></deleted-at>
+              <is-default type="integer">0</is-default>
+              <alt-names>Gitano, Iberian Romani, Hispanoromani</alt-names>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Spain, also spoken in Brazil, France, Portugal.</geography>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">11592</tree-id>
+              <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+              <confidence>Y</confidence>
+              <pub-comments>A Gypsy language very different from other Romani. A cryptological variety of Spanish (I. Hancock 1995). McLane found 300 to 400 words based on Romani, but no individual was acquainted with more than 100. The Iberian base for Calo is regional dialects, where the overlap is not distinct between Spanish and Portuguese.</pub-comments>
+              <updated-at type="datetime">2009-03-16T18:40:17-04:00</updated-at>
+              <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+            </child>
+          </children>
+          <status nil="true"></status>
+          <deleted-at nil="true"></deleted-at>
+          <is-default type="integer">0</is-default>
+          <alt-names></alt-names>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">11592</tree-id>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <confidence>Y</confidence>
+          <pub-comments></pub-comments>
+          <updated-at type="datetime">2009-03-16T18:40:17-04:00</updated-at>
+          <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+          <created-by>joe_leif</created-by>
+          <creator-id type="integer">10740</creator-id>
+        </child>
+        <child>
+          <sureness type="integer">0</sureness>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-type>Subgroup</node-type>
+          <end-date nil="true"></end-date>
+          <pri-name>Greek-Romani</pri-name>
+          <id type="integer">325444</id>
+          <created-at type="datetime">2009-03-16T18:40:17-04:00</created-at>
+          <codes>vbpe</codes>
+          <children type="array">
+            <child>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-type>Language</node-type>
+              <end-date nil="true"></end-date>
+              <pri-name>Romano-Greek</pri-name>
+              <id type="integer">325445</id>
+              <created-at type="datetime">2009-03-16T18:40:17-04:00</created-at>
+              <codes>rge</codes>
+              <children type="array"/>
+              <status>Nearly Extinct</status>
+              <deleted-at nil="true"></deleted-at>
+              <is-default type="integer">0</is-default>
+              <alt-names>Hellenoromani, Romika</alt-names>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-status-id type="integer">10001</node-status-id>
+              <geography nil="true"></geography>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">11592</tree-id>
+              <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+              <confidence>Y</confidence>
+              <pub-comments>Structured on Greek with heavy Romani lexicon. Related variants are Dortika, a secret language spoken by wandering builders from Eurytania prefecture, and Kaliarda, spoken in Athens. Both may be extinct.</pub-comments>
+              <updated-at type="datetime">2009-03-16T18:40:17-04:00</updated-at>
+              <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+            </child>
+          </children>
+          <status nil="true"></status>
+          <deleted-at nil="true"></deleted-at>
+          <is-default type="integer">0</is-default>
+          <alt-names></alt-names>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">11592</tree-id>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <confidence>Y</confidence>
+          <pub-comments></pub-comments>
+          <updated-at type="datetime">2009-03-16T18:40:17-04:00</updated-at>
+          <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+          <created-by>joe_leif</created-by>
+          <creator-id type="integer">10740</creator-id>
+        </child>
+        <child>
+          <sureness type="integer">0</sureness>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-type>Subgroup</node-type>
+          <end-date nil="true"></end-date>
+          <pri-name>Irish-Undocumented</pri-name>
+          <id type="integer">325453</id>
+          <created-at type="datetime">2009-03-16T18:40:17-04:00</created-at>
+          <codes>irun</codes>
+          <children type="array">
+            <child>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-type>Language</node-type>
+              <end-date nil="true"></end-date>
+              <pri-name>Shelta</pri-name>
+              <id type="integer">325454</id>
+              <created-at type="datetime">2009-03-16T18:40:17-04:00</created-at>
+              <codes>sth</codes>
+              <children type="array"/>
+              <status nil="true"></status>
+              <deleted-at nil="true"></deleted-at>
+              <is-default type="integer">0</is-default>
+              <alt-names>The Cant, Cant, Irish Traveler Cant, Sheldru, Gammon</alt-names>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-status-id nil="true"></node-status-id>
+              <geography>Ireland, also spoken in United Kingdom, USA.</geography>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">11592</tree-id>
+              <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+              <confidence>Y</confidence>
+              <pub-comments>Based largely on Irish with influence from an undocumented source.</pub-comments>
+              <updated-at type="datetime">2009-03-16T18:40:17-04:00</updated-at>
+              <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+            </child>
+          </children>
+          <status nil="true"></status>
+          <deleted-at nil="true"></deleted-at>
+          <is-default type="integer">0</is-default>
+          <alt-names></alt-names>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">11592</tree-id>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <confidence>Y</confidence>
+          <pub-comments></pub-comments>
+          <updated-at type="datetime">2009-03-16T18:40:17-04:00</updated-at>
+          <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+          <created-by>joe_leif</created-by>
+          <creator-id type="integer">10740</creator-id>
+        </child>
+        <child>
+          <sureness type="integer">0</sureness>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-type>Subgroup</node-type>
+          <end-date nil="true"></end-date>
+          <pri-name>Danish-Romani</pri-name>
+          <id type="integer">325438</id>
+          <created-at type="datetime">2009-03-16T18:40:17-04:00</created-at>
+          <codes>daro</codes>
+          <children type="array">
+            <child>
+              <sureness type="integer">0</sureness>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-type>Language</node-type>
+              <end-date nil="true"></end-date>
+              <pri-name>Traveller Danish</pri-name>
+              <id type="integer">325439</id>
+              <created-at type="datetime">2009-03-16T18:40:17-04:00</created-at>
+              <codes>rmd</codes>
+              <children type="array"/>
+              <status>Nearly Extinct</status>
+              <deleted-at nil="true"></deleted-at>
+              <is-default type="integer">0</is-default>
+              <alt-names>Rodi, Rotwelsch</alt-names>
+              <updated-by>joe_leif</updated-by>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-status-id type="integer">10001</node-status-id>
+              <geography>Denmark</geography>
+              <updater-id type="integer">10740</updater-id>
+              <tree-id type="integer">11592</tree-id>
+              <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+              <confidence>Y</confidence>
+              <pub-comments>An independent language based on Danish with heavy lexical borrowing from Northern Romani. Not inherently intelligible with Angloromani. It may be intelligible with Traveller Norwegian and Traveller Swedish. There are reported to be few speakers. It may be linguistically extinct (D. Kenrick 1986).</pub-comments>
+              <updated-at type="datetime">2009-03-16T18:40:17-04:00</updated-at>
+              <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+              <created-by>joe_leif</created-by>
+              <creator-id type="integer">10740</creator-id>
+            </child>
+          </children>
+          <status nil="true"></status>
+          <deleted-at nil="true"></deleted-at>
+          <is-default type="integer">0</is-default>
+          <alt-names></alt-names>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">11592</tree-id>
+          <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+          <confidence>Y</confidence>
+          <pub-comments></pub-comments>
+          <updated-at type="datetime">2009-03-16T18:40:17-04:00</updated-at>
+          <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+          <created-by>joe_leif</created-by>
+          <creator-id type="integer">10740</creator-id>
+        </child>
+      </children>
+      <status nil="true"></status>
+      <deleted-at nil="true"></deleted-at>
+      <is-default type="integer">0</is-default>
+      <alt-names></alt-names>
+      <updated-by>joe_leif</updated-by>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <node-status-id nil="true"></node-status-id>
+      <geography>Europe</geography>
+      <updater-id type="integer">10740</updater-id>
+      <tree-id type="integer">11592</tree-id>
+      <publications>Gordon, Raymond G. (ed.). 2005. Ethnologue: Languages of the World, 15 edn. http://www.ethnologue.com/15/web.asp.  (09 July, 2008.)</publications>
+      <confidence>Y</confidence>
+      <pub-comments>This is a subtree of the mixed language tree provided in Ethnologue. It has been broken into regions for ease of searching.</pub-comments>
+      <updated-at type="datetime">2009-03-16T18:40:17-04:00</updated-at>
+      <tree-val>European Mixed Language: Ethnologue 2005</tree-val>
+      <created-by>joe_leif</created-by>
+      <creator-id type="integer">10740</creator-id>
+    </root>
+    <description>European Mixed Language: Ethnologue 2005</description>
+  </tree>
+</hash>

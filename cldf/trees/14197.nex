@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Chimakuan: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE chmn Chimakuan,
+cmk Chimakum,
+qui Quileute,
+qui_hoh Hoh,
+qui_qui Quileute;
+TREE 14197 = [&R] ((qui_qui,qui_hoh)qui,cmk)chmn;
+END;

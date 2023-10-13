@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Yanomam: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE guu Yanomamö,
+guu_eas 'Eastern Yanomami',
+guu_wes 'Western Yanomami',
+shb Ninam,
+shb_nor 'Northern Ninam',
+shb_sou 'Southern Ninam',
+wca Yanomámi,
+wca_jau Jauari,
+wca_nan Nanomam,
+wca_yan Yanamam,
+wca_yao Yanomam,
+wca_yay Yanomay,
+xsu Sanumá,
+xsu_cob Cobari,
+xsu_yan Yanoma,
+yano Yanomam;
+TREE 11725 = [&R] ((guu_wes,guu_eas)guu,(xsu_yan,xsu_cob)xsu,(shb_sou,shb_nor)shb,(wca_yay,wca_yan,wca_nan,wca_yao,wca_jau)wca)yano;
+END;

@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Austronesian: Dahl 1973]
+BEGIN TREES;
+TRANSLATE anes Austronesian,
+atay Atayalic,
+cvqz Melanesian,
+dxeh 'Eastern Austronesian',
+form Formosan,
+fyas 'Western Austronesian',
+micr Micronesian,
+paiw Paiwanic,
+pane 'Proto-Austronesian',
+pmel 'Proto-Melanesian',
+poly Polynesian,
+tsou Tsouic,
+yami Yami;
+TREE 10547 = [&R] (((yami,tsou,paiw)form,atay,((cvqz)pmel,poly,micr)dxeh,fyas)anes)pane;
+END;

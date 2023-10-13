@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Africa</region>
+    <root>
+      <codes>orm</codes>
+      <updated-by>joe_leif</updated-by>
+      <pri-name>Oromo</pri-name>
+      <confidence>Y</confidence>
+      <geography>Kenya and Ethiopia</geography>
+      <tree-id type="integer">21385</tree-id>
+      <updater-id type="integer">10740</updater-id>
+      <updated-at type="datetime">2013-02-07T14:05:48-05:00</updated-at>
+      <node-type>Language</node-type>
+      <node-status-id nil="true"></node-status-id>
+      <created-at type="datetime">2013-02-07T14:05:47-05:00</created-at>
+      <sureness type="integer">-1</sureness>
+      <publications>1981. Language and Dialect Atlas of Kenya, vol. IV. Berlin: Dietrich Reimer Verlag Berlin. </publications>
+      <id type="integer">859144</id>
+      <tree-val>Oromo dialects, subtree of Afro-Asiatic: Heine &amp; M&#246;hlig 1981</tree-val>
+      <end-date nil="true"></end-date>
+      <status nil="true"></status>
+      <start-date nil="true"></start-date>
+      <other-codes></other-codes>
+      <node-type-id type="integer">10001</node-type-id>
+      <is-default type="integer">0</is-default>
+      <created-by>joe_leif</created-by>
+      <alt-names>Galla</alt-names>
+      <deleted-at nil="true"></deleted-at>
+      <creator-id type="integer">10740</creator-id>
+      <pub-comments>The authors note that their "discussion [of Oromo dialects] is to be considered as tentative--in particular because of the following reasons: (1) Our data are confined to Oromo dialects spoken in Kenya; there is hardly any information on the dialect situation in Ethiopia. (2) Even within Kenyan Oromo, the majority of dialects are still largely unknown; apart from Borana (Andrzejewski 1957; 1960), Waata and Munyo (Heine 1978) no dialect appears to have been studied in detail. (3) The data at our disposal in most cases consists only of wordlists collected during our work on the Language and Dialect Atlas of Kenya" (Heine and M&#246;hlig 1981:13).</pub-comments>
+      <children type="array">
+        <child>
+          <codes>orc</codes>
+          <updated-by>joe_leif</updated-by>
+          <pri-name>Tana River Oromo</pri-name>
+          <confidence>Y</confidence>
+          <geography nil="true"></geography>
+          <tree-id type="integer">21385</tree-id>
+          <updater-id type="integer">10740</updater-id>
+          <updated-at type="datetime">2013-02-07T14:05:49-05:00</updated-at>
+          <node-type>Dialect Group</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-at type="datetime">2013-02-07T14:05:49-05:00</created-at>
+          <sureness type="integer">0</sureness>
+          <publications>1981. Language and Dialect Atlas of Kenya, vol. IV. Berlin: Dietrich Reimer Verlag Berlin. </publications>
+          <id type="integer">859158</id>
+          <tree-val>Oromo dialects, subtree of Afro-Asiatic: Heine &amp; M&#246;hlig 1981</tree-val>
+          <end-date nil="true"></end-date>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10004</node-type-id>
+          <is-default type="integer">0</is-default>
+          <created-by>joe_leif</created-by>
+          <alt-names></alt-names>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <pub-comments></pub-comments>
+          <children type="array">
+            <child>
+              <codes>orc-waa</codes>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Waata</pri-name>
+              <confidence>Y</confidence>
+              <geography nil="true"></geography>
+              <tree-id type="integer">21385</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2013-02-07T14:05:49-05:00</updated-at>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-02-07T14:05:49-05:00</created-at>
+              <sureness type="integer">0</sureness>
+              <publications>1981. Language and Dialect Atlas of Kenya, vol. IV. Berlin: Dietrich Reimer Verlag Berlin. </publications>
+              <id type="integer">859161</id>
+              <tree-val>Oromo dialects, subtree of Afro-Asiatic: Heine &amp; M&#246;hlig 1981</tree-val>
+              <end-date nil="true"></end-date>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <alt-names>Sanye, Ariangulo, Boni</alt-names>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pub-comments></pub-comments>
+              <children type="array"/>
+            </child>
+            <child>
+              <codes>orc-mun</codes>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Munyo</pri-name>
+              <confidence>Y</confidence>
+              <geography>Along river Tana between Garissa and Mbalambala in Kenya</geography>
+              <tree-id type="integer">21385</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2013-02-07T14:05:49-05:00</updated-at>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-02-07T14:05:49-05:00</created-at>
+              <sureness type="integer">0</sureness>
+              <publications>1981. Language and Dialect Atlas of Kenya, vol. IV. Berlin: Dietrich Reimer Verlag Berlin. </publications>
+              <id type="integer">859159</id>
+              <tree-val>Oromo dialects, subtree of Afro-Asiatic: Heine &amp; M&#246;hlig 1981</tree-val>
+              <end-date nil="true"></end-date>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <alt-names>Korokoro</alt-names>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pub-comments></pub-comments>
+              <children type="array"/>
+            </child>
+            <child>
+              <codes>orc-orm</codes>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Orma</pri-name>
+              <confidence>Y</confidence>
+              <geography>Mostly in the semi-arid parts of Tana River District or Coast Province, Kenya</geography>
+              <tree-id type="integer">21385</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2013-02-07T14:05:49-05:00</updated-at>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-02-07T14:05:49-05:00</created-at>
+              <sureness type="integer">0</sureness>
+              <publications>1981. Language and Dialect Atlas of Kenya, vol. IV. Berlin: Dietrich Reimer Verlag Berlin. </publications>
+              <id type="integer">859160</id>
+              <tree-val>Oromo dialects, subtree of Afro-Asiatic: Heine &amp; M&#246;hlig 1981</tree-val>
+              <end-date nil="true"></end-date>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <alt-names>Wardai, Wardey</alt-names>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pub-comments></pub-comments>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <codes>gaz-cen</codes>
+          <updated-by>joe_leif</updated-by>
+          <pri-name>Central Oromo</pri-name>
+          <confidence>Y</confidence>
+          <geography nil="true"></geography>
+          <tree-id type="integer">21385</tree-id>
+          <updater-id type="integer">10740</updater-id>
+          <updated-at type="datetime">2013-02-07T14:05:48-05:00</updated-at>
+          <node-type>Dialect Group</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-at type="datetime">2013-02-07T14:05:48-05:00</created-at>
+          <sureness type="integer">0</sureness>
+          <publications>1981. Language and Dialect Atlas of Kenya, vol. IV. Berlin: Dietrich Reimer Verlag Berlin. </publications>
+          <id type="integer">859152</id>
+          <tree-val>Oromo dialects, subtree of Afro-Asiatic: Heine &amp; M&#246;hlig 1981</tree-val>
+          <end-date nil="true"></end-date>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10004</node-type-id>
+          <is-default type="integer">0</is-default>
+          <created-by>joe_leif</created-by>
+          <alt-names></alt-names>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <pub-comments></pub-comments>
+          <children type="array">
+            <child>
+              <codes>gax-sak</codes>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Sakuye</pri-name>
+              <confidence>Y</confidence>
+              <geography>Mostly in Isiolo District, Kenya</geography>
+              <tree-id type="integer">21385</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2013-02-07T14:05:48-05:00</updated-at>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-02-07T14:05:48-05:00</created-at>
+              <sureness type="integer">0</sureness>
+              <publications>1981. Language and Dialect Atlas of Kenya, vol. IV. Berlin: Dietrich Reimer Verlag Berlin. </publications>
+              <id type="integer">859156</id>
+              <tree-val>Oromo dialects, subtree of Afro-Asiatic: Heine &amp; M&#246;hlig 1981</tree-val>
+              <end-date nil="true"></end-date>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pub-comments></pub-comments>
+              <children type="array"/>
+            </child>
+            <child>
+              <codes>ggh-aju</codes>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Ajuran</pri-name>
+              <confidence>Y</confidence>
+              <geography>Mostly in Wajir District, Kenya</geography>
+              <tree-id type="integer">21385</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2013-02-07T14:05:48-05:00</updated-at>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-02-07T14:05:48-05:00</created-at>
+              <sureness type="integer">0</sureness>
+              <publications>1981. Language and Dialect Atlas of Kenya, vol. IV. Berlin: Dietrich Reimer Verlag Berlin. </publications>
+              <id type="integer">859155</id>
+              <tree-val>Oromo dialects, subtree of Afro-Asiatic: Heine &amp; M&#246;hlig 1981</tree-val>
+              <end-date nil="true"></end-date>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pub-comments></pub-comments>
+              <children type="array"/>
+            </child>
+            <child>
+              <codes>gax-gab</codes>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Gabra</pri-name>
+              <confidence>Y</confidence>
+              <geography>Mostly in the northern part of Marsabit District, Eastern Province, Kenya</geography>
+              <tree-id type="integer">21385</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2013-02-07T14:05:48-05:00</updated-at>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-02-07T14:05:48-05:00</created-at>
+              <sureness type="integer">0</sureness>
+              <publications>1981. Language and Dialect Atlas of Kenya, vol. IV. Berlin: Dietrich Reimer Verlag Berlin. </publications>
+              <id type="integer">859154</id>
+              <tree-val>Oromo dialects, subtree of Afro-Asiatic: Heine &amp; M&#246;hlig 1981</tree-val>
+              <end-date nil="true"></end-date>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <alt-names>Gabbra</alt-names>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pub-comments></pub-comments>
+              <children type="array"/>
+            </child>
+            <child>
+              <codes>ggh-gar</codes>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Garreh</pri-name>
+              <confidence>Y</confidence>
+              <geography>Mostly in Mandera District, and also in Wajir District, North-Eastern Province, Kenya</geography>
+              <tree-id type="integer">21385</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2013-02-07T14:05:49-05:00</updated-at>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-02-07T14:05:48-05:00</created-at>
+              <sureness type="integer">-1</sureness>
+              <publications>1981. Language and Dialect Atlas of Kenya, vol. IV. Berlin: Dietrich Reimer Verlag Berlin. </publications>
+              <id type="integer">859157</id>
+              <tree-val>Oromo dialects, subtree of Afro-Asiatic: Heine &amp; M&#246;hlig 1981</tree-val>
+              <end-date nil="true"></end-date>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <alt-names>Garre, Gurreh</alt-names>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pub-comments>The authors admit that this perhaps can be included in the Northern Oromo dialect group, but nonethless place it within Central Oromo (Heine and M&#246;hlig 1981:14-15). They do not include Northern Oromo in their final classification of the Oromo dialects, so it has been left out of this tree.</pub-comments>
+              <children type="array"/>
+            </child>
+            <child>
+              <codes>gax-boa</codes>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Borana</pri-name>
+              <confidence>Y</confidence>
+              <geography>In Marsabit and Isiolo Districts of Eastern Province, Kenya</geography>
+              <tree-id type="integer">21385</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2013-02-07T14:05:48-05:00</updated-at>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-02-07T14:05:48-05:00</created-at>
+              <sureness type="integer">0</sureness>
+              <publications>1981. Language and Dialect Atlas of Kenya, vol. IV. Berlin: Dietrich Reimer Verlag Berlin. </publications>
+              <id type="integer">859153</id>
+              <tree-val>Oromo dialects, subtree of Afro-Asiatic: Heine &amp; M&#246;hlig 1981</tree-val>
+              <end-date nil="true"></end-date>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <alt-names>Boran</alt-names>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pub-comments></pub-comments>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+        <child>
+          <codes>gaz</codes>
+          <updated-by>joe_leif</updated-by>
+          <pri-name>Ethiopian Oromo</pri-name>
+          <confidence>Y</confidence>
+          <geography nil="true"></geography>
+          <tree-id type="integer">21385</tree-id>
+          <updater-id type="integer">10740</updater-id>
+          <updated-at type="datetime">2013-02-07T14:05:48-05:00</updated-at>
+          <node-type>Dialect Group</node-type>
+          <node-status-id nil="true"></node-status-id>
+          <created-at type="datetime">2013-02-07T14:05:48-05:00</created-at>
+          <sureness type="integer">0</sureness>
+          <publications>1981. Language and Dialect Atlas of Kenya, vol. IV. Berlin: Dietrich Reimer Verlag Berlin. </publications>
+          <id type="integer">859145</id>
+          <tree-val>Oromo dialects, subtree of Afro-Asiatic: Heine &amp; M&#246;hlig 1981</tree-val>
+          <end-date nil="true"></end-date>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10004</node-type-id>
+          <is-default type="integer">0</is-default>
+          <created-by>joe_leif</created-by>
+          <alt-names></alt-names>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <pub-comments></pub-comments>
+          <children type="array">
+            <child>
+              <codes>hae</codes>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Eastern Oromo</pri-name>
+              <confidence>Y</confidence>
+              <geography>Round Harar, the Ittu, Ania, Arusi, etc. (Ethiopia)</geography>
+              <tree-id type="integer">21385</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2013-02-07T14:05:48-05:00</updated-at>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-02-07T14:05:48-05:00</created-at>
+              <sureness type="integer">0</sureness>
+              <publications>1981. Language and Dialect Atlas of Kenya, vol. IV. Berlin: Dietrich Reimer Verlag Berlin. </publications>
+              <id type="integer">859151</id>
+              <tree-val>Oromo dialects, subtree of Afro-Asiatic: Heine &amp; M&#246;hlig 1981</tree-val>
+              <end-date nil="true"></end-date>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pub-comments></pub-comments>
+              <children type="array"/>
+            </child>
+            <child>
+              <codes>gaz-mec</codes>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Maca</pri-name>
+              <confidence>Y</confidence>
+              <geography nil="true"></geography>
+              <tree-id type="integer">21385</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2013-02-07T14:05:48-05:00</updated-at>
+              <node-type>Dialect Group</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-02-07T14:05:48-05:00</created-at>
+              <sureness type="integer">0</sureness>
+              <publications>1981. Language and Dialect Atlas of Kenya, vol. IV. Berlin: Dietrich Reimer Verlag Berlin. </publications>
+              <id type="integer">859146</id>
+              <tree-val>Oromo dialects, subtree of Afro-Asiatic: Heine &amp; M&#246;hlig 1981</tree-val>
+              <end-date nil="true"></end-date>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10004</node-type-id>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pub-comments></pub-comments>
+              <children type="array">
+                <child>
+                  <codes>gaz-mec</codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Maca 1</pri-name>
+                  <confidence>Y</confidence>
+                  <geography>Limmu, Leqa, Nonno, etc. (Ethiopia)</geography>
+                  <tree-id type="integer">21385</tree-id>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-at type="datetime">2013-02-07T14:05:48-05:00</updated-at>
+                  <node-type>Dialect</node-type>
+                  <node-status-id nil="true"></node-status-id>
+                  <created-at type="datetime">2013-02-07T14:05:48-05:00</created-at>
+                  <sureness type="integer">0</sureness>
+                  <publications>1981. Language and Dialect Atlas of Kenya, vol. IV. Berlin: Dietrich Reimer Verlag Berlin. </publications>
+                  <id type="integer">859147</id>
+                  <tree-val>Oromo dialects, subtree of Afro-Asiatic: Heine &amp; M&#246;hlig 1981</tree-val>
+                  <end-date nil="true"></end-date>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-by>joe_leif</created-by>
+                  <alt-names></alt-names>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <pub-comments></pub-comments>
+                  <children type="array"/>
+                </child>
+                <child>
+                  <codes>gaz-mec</codes>
+                  <updated-by>joe_leif</updated-by>
+                  <pri-name>Maca 2</pri-name>
+                  <confidence>Y</confidence>
+                  <geography>The Gibee States, Jimma, etc. (Ethiopia)</geography>
+                  <tree-id type="integer">21385</tree-id>
+                  <updater-id type="integer">10740</updater-id>
+                  <updated-at type="datetime">2013-02-07T14:05:48-05:00</updated-at>
+                  <node-type>Dialect</node-type>
+                  <node-status-id nil="true"></node-status-id>
+                  <created-at type="datetime">2013-02-07T14:05:48-05:00</created-at>
+                  <sureness type="integer">0</sureness>
+                  <publications>1981. Language and Dialect Atlas of Kenya, vol. IV. Berlin: Dietrich Reimer Verlag Berlin. </publications>
+                  <id type="integer">859148</id>
+                  <tree-val>Oromo dialects, subtree of Afro-Asiatic: Heine &amp; M&#246;hlig 1981</tree-val>
+                  <end-date nil="true"></end-date>
+                  <status nil="true"></status>
+                  <start-date nil="true"></start-date>
+                  <other-codes></other-codes>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <is-default type="integer">0</is-default>
+                  <created-by>joe_leif</created-by>
+                  <alt-names></alt-names>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <pub-comments></pub-comments>
+                  <children type="array"/>
+                </child>
+              </children>
+            </child>
+            <child>
+              <codes>gaz-wel</codes>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Wallo</pri-name>
+              <confidence>y</confidence>
+              <geography nil="true"></geography>
+              <tree-id type="integer">21385</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2013-02-07T14:05:48-05:00</updated-at>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-02-07T14:05:48-05:00</created-at>
+              <sureness type="integer">0</sureness>
+              <publications>1981. Language and Dialect Atlas of Kenya, vol. IV. Berlin: Dietrich Reimer Verlag Berlin. </publications>
+              <id type="integer">859150</id>
+              <tree-val>Oromo dialects, subtree of Afro-Asiatic: Heine &amp; M&#246;hlig 1981</tree-val>
+              <end-date nil="true"></end-date>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pub-comments></pub-comments>
+              <children type="array"/>
+            </child>
+            <child>
+              <codes>gaz-tul</codes>
+              <updated-by>joe_leif</updated-by>
+              <pri-name>Tulama</pri-name>
+              <confidence>Y</confidence>
+              <geography>Shoa (Ethiopia)</geography>
+              <tree-id type="integer">21385</tree-id>
+              <updater-id type="integer">10740</updater-id>
+              <updated-at type="datetime">2013-02-07T14:05:48-05:00</updated-at>
+              <node-type>Dialect</node-type>
+              <node-status-id nil="true"></node-status-id>
+              <created-at type="datetime">2013-02-07T14:05:48-05:00</created-at>
+              <sureness type="integer">0</sureness>
+              <publications>1981. Language and Dialect Atlas of Kenya, vol. IV. Berlin: Dietrich Reimer Verlag Berlin. </publications>
+              <id type="integer">859149</id>
+              <tree-val>Oromo dialects, subtree of Afro-Asiatic: Heine &amp; M&#246;hlig 1981</tree-val>
+              <end-date nil="true"></end-date>
+              <status nil="true"></status>
+              <start-date nil="true"></start-date>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10003</node-type-id>
+              <is-default type="integer">0</is-default>
+              <created-by>joe_leif</created-by>
+              <alt-names></alt-names>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <pub-comments></pub-comments>
+              <children type="array"/>
+            </child>
+          </children>
+        </child>
+      </children>
+    </root>
+    <description>Oromo dialects, subtree of Afro-Asiatic: Heine &amp; M&#246;hlig 1981</description>
+  </tree>
+</hash>

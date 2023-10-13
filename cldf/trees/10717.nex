@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Panoan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE amc Amahuaca,
+cao Chácobo,
+cbr Cashibo,
+cbs Cashinahua,
+kaq Capanahua,
+kuq 'Karipuna do Guapore',
+mcd Sharanahua,
+mcf Matsés,
+mpq Matis,
+pano Panoan,
+shp 'Shipibo-Konibo',
+yaa Yaminahua;
+TREE 10717 = [&R] (amc,kaq,cbr,cbs,cao,kuq,mpq,mcf,mcd,shp,yaa)pano;
+END;

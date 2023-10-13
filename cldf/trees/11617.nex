@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Australian Mixed Language: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE auml 'Australian Mixed Language',
+egro 'English-Romani',
+rme Angloromani;
+TREE 11617 = [&R] ((rme)egro)auml;
+END;

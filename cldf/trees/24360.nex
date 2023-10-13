@@ -1,0 +1,31 @@
+#NEXUS
+[MultiTree: Southeast Solomonic, a subtree of Oceanic: Lynch, Ross, Crowley 2002]
+BEGIN TREES;
+TRANSLATE aaom '''Are''are/Oroha/Marau',
+alu '''Are''are',
+alu_mar Marau,
+apb 'Sa''a',
+apb_ula Ulawa,
+apb_unm Uki,
+bgt Bugotu,
+brr Birao,
+gegu 'Gela/Guadalcanal',
+gela Gelic,
+ggua 'Bugotu/Gela/Guadacanal',
+gri 'West Guadalcanal',
+guad 'West and South Guadalcanal',
+lgr Lengo,
+lgu Longgu,
+malt Malaita,
+mlmk 'Malaita/Makira',
+mln Malango,
+mscr 'Longgu/Malaita/Makira',
+nlg Gela,
+nmal 'Central and Northern Malaita',
+ora Oroha,
+sauu 'Sa''a/Ulawa/Uki',
+scri Makira,
+ssol 'Southeast Solomonic',
+tlr Talise;
+TREE 24360 = [&R] ((((nmal,(alu_mar,ora,alu)aaom)malt,scri,(apb_ula,apb_unm,apb)sauu)mlmk,lgu)mscr,(((lgr,nlg)gela,(brr,mln,tlr,gri)guad)gegu,bgt)ggua)ssol;
+END;

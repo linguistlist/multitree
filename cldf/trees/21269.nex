@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Somahai: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE mmb Momina,
+momu Somahai,
+mqf Momuna;
+TREE 21269 = [&R] (mqf,mmb)momu;
+END;

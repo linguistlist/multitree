@@ -1,0 +1,26 @@
+#NEXUS
+[MultiTree: Siamese-Chinese family, subtree of Indo-Chinese: Grierson 1904]
+BEGIN TREES;
+TRANSLATE aho Āhom,
+aio Aitoniā,
+chin Chinese,
+inch 'Indo-Chinese',
+kare Karen,
+khb Lü,
+kht Khāmtī,
+kkh Khün,
+lao Lao,
+nect Northern,
+nrr_nrr_nor Norā,
+phk Phākial,
+shn 'Shān proper',
+shn_nor 'Northern Shān',
+shn_sou 'Southern Shān',
+shn_tao 'Chinese Shān',
+sich 'Siamese-Chinese family',
+stai Southern,
+taix Tai,
+tha Siamese,
+try Tairong;
+TREE 25398 = [&R] ((((tha,(khb,kkh)lao)stai,((kht,(shn_tao,shn_nor,shn_sou)shn,try,aio,phk,nrr_nrr_nor)nect)aho)taix,chin,kare)sich)inch;
+END;

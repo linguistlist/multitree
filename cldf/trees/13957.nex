@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Kwomtari Minor Phylum: Wurm 1982]
+BEGIN TREES;
+TRANSLATE baib Baibai,
+bbf Baibai,
+bio Biaka,
+fqs Fas,
+kwba Kwomtari,
+kwo Kwomtari,
+kwom Kwomtari,
+pby Pyu;
+TREE 13957 = [&R] ((kwo,fqs)kwom,(bbf,bio)baib,pby)kwba;
+END;

@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Cañar-Puruhá: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE ecch 'Cañar-Puruhá',
+qb0 Cañar,
+qq3 Puruhá;
+TREE 21911 = [&R] (qq3,qb0)ecch;
+END;

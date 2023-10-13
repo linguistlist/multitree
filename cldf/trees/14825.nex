@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Sko: Composite]
+BEGIN TREES;
+TRANSLATE kris Krisa,
+ksi Krisa,
+pux Puare,
+rwa Rawo,
+skoo Sko,
+skv Skou,
+vam Vanimo,
+vanm Vanimo,
+wmx Womo,
+wra Warapu,
+wut Wutung;
+TREE 14825 = [&R] ((wut,vam,skv)vanm,(ksi,wmx,wra,rwa,pux)kris)skoo;
+END;

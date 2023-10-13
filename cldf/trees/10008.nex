@@ -1,0 +1,37 @@
+#NEXUS
+[MultiTree: Uralic: Dryer 2005]
+BEGIN TREES;
+TRANSLATE enf_enh Enets,
+est Estonian,
+fin Finnish,
+finn Finnic,
+fugr 'Finno-Ugric',
+hun Hungarian,
+izh Izhor,
+kca Khanty,
+koi 'Komi-Permyak',
+kpv 'Komi-Zyrian',
+kpv_yaz Yazva,
+krl Karelian,
+liv Liv,
+mdf 'Mordvin (Moksha)',
+mhr 'Mari (Meadow)',
+mns Mansi,
+mrj 'Mari (Hill)',
+myv 'Mordvin (Erzya)',
+nio Nganasan,
+sel Selkup,
+sjd 'Saami (Kildin)',
+sma 'Saami (Central-South)',
+sme 'Saami (Northern)',
+smoy Samoyedic,
+udm Udmurt,
+ugri Ugric,
+urlc Uralic,
+vep Veps,
+vot Votic,
+xas Kamass,
+yrk Nenets,
+yrk_for 'Nenets (Tundra)';
+TREE 10008 = [&R] (((est,fin,izh,krl,koi,kpv,liv,mrj,mhr,myv,mdf,sma,sjd,sme,udm,vep,vot,kpv_yaz)finn,(hun,kca,mns)ugri)fugr,(enf_enh,xas,yrk,yrk_for,nio,sel)smoy)urlc;
+END;

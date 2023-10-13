@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Austronesian: Blust 1978]
+BEGIN TREES;
+TRANSLATE anes Austronesian,
+atay Atayalic,
+cemp 'Central-Eastern Malayo-Polynesian',
+cmpo 'Central Malayo-Polynesian',
+empo 'Eastern Malayo-Polynesian',
+mlpo 'Malayo-Polynesian',
+ocea Oceanic,
+paiw Paiwanic,
+shwn 'South Halmahera-West New Guinea',
+tsou Tsouic,
+wemp 'Western Malayo-Polynesian';
+TREE 10354 = [&R] (atay,tsou,paiw,(wemp,(cmpo,(shwn,ocea)empo)cemp)mlpo)anes;
+END;

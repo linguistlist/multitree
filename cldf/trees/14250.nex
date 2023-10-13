@@ -1,0 +1,20 @@
+#NEXUS
+[MultiTree: Iroquoian: Goddard 1996]
+BEGIN TREES;
+TRANSLATE cay Cayuga,
+chr Cherokee,
+iroq Iroquoian,
+lre Laurentian,
+moh Mohawk,
+niro 'Northern Iroquoian',
+ntw Nottoway,
+one Oneida,
+ono Onondaga,
+see Seneca,
+sqn Susquehannock,
+tus Tuscarora,
+wya Wyandot,
+wya_hur Huron,
+wya_ron Huron;
+TREE 14250 = [&R] ((lre,(wya_ron,wya)wya_hur,sqn,ono,cay,one,moh,ntw,tus,see)niro,chr)iroq;
+END;

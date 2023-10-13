@@ -1,0 +1,26 @@
+#NEXUS
+[MultiTree: Khoisan: Greenberg 1963]
+BEGIN TREES;
+TRANSLATE aue Auen,
+cskh 'Central South African Khoisan',
+hio Hiechware,
+hts Hatsa,
+khoi Khoisan,
+knw !Kung,
+kqz Korana,
+ktz_nog Nogau,
+naq Hottentot,
+ngh '/Nusan',
+nhr Naron,
+nmn_aun Auni,
+nmn_kak Masarwa,
+nmn_nge_nmn_ngu '/Nu//En',
+nsak 'Northern South African Khoisan',
+oun !O!kung,
+sad Sandawe,
+sakh 'South African Khoisan',
+ssak 'Southern South African Khoisan',
+xam '/Xam',
+xeg Batwa;
+TREE 12182 = [&R] (sad,((nmn_kak,ngh,xeg,xam,ngh,nmn_aun,nmn_nge_nmn_ngu)ssak,(ktz_nog,aue,oun,knw)nsak,(nhr,hio,naq,kqz,naq)cskh)sakh,hts)khoi;
+END;

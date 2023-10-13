@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Andamanese: Dryer 2005]
+BEGIN TREES;
+TRANSLATE abj 'Aka-Biada',
+abj_aci_ack_acl_akj_akm_akx_aky_apq_gac_okj 'Great Andamanese',
+aci 'Aka-Cari',
+akx 'Aka-Kede',
+anda Andamanese,
+anq 'Jarawa (in Andamans)',
+apq 'A-Pucikwar',
+gand 'Great Andamanese',
+oon Onge,
+soan 'South Andamanese';
+TREE 10457 = [&R] ((abj,aci,akx,apq,abj_aci_ack_acl_akj_akm_akx_aky_apq_gac_okj)gand,(anq,oon)soan)anda;
+END;

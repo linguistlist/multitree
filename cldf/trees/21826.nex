@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Left May: Laycock 1975]
+BEGIN TREES;
+TRANSLATE amm Ama,
+bpw Bo,
+itr Iteri,
+lema 'Left May Phylum',
+niw Nimo,
+owi Owiniga;
+TREE 21826 = [&R] (owi,amm,niw,itr,bpw,itr)lema;
+END;

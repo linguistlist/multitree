@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Central American Mixed Language: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE cakq 'Cakchiquel-Quiche',
+caml 'Central American Mixed Language',
+ckz 'Kaqchikel-K''iche'' Mixed Language';
+TREE 11618 = [&R] ((ckz)cakq)caml;
+END;

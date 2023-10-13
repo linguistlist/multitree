@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Kam-Tai, subtree of Tai-Kadai: Theraphan 1992]
+BEGIN TREES;
+TRANSLATE kams 'Kam-Sui',
+kamt 'Kam-Tai',
+lbc Lakkja,
+lbc_jin Jintian,
+lbc_jix Jinxiu,
+lbc_liu Liula,
+taik 'Tai-Kadai',
+taix Tai,
+tlak 'Tai-Lakkja';
+TREE 24704 = [&R] ((((lbc_jin,lbc_jix,lbc_liu)lbc,taix)tlak,kams)kamt)taik;
+END;

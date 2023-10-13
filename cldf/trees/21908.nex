@@ -1,0 +1,19 @@
+#NEXUS
+[MultiTree: Barbacoan: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE awan Awan,
+barb Barbacoan,
+bpb Pasto,
+cbi Cha’palaachi,
+cca Coconuco,
+coco Coconucan,
+cof Tsafiki,
+gum Guambino,
+kwi 'Awa Pit',
+nbar Northern,
+past 'Pasto-Muellama',
+qcd Muellama,
+sbar Southern,
+ttk Totoró;
+TREE 21908 = [&R] (((ttk,cca,gum)coco,((qcd,bpb)past,kwi)awan)nbar,(cof,cbi)sbar)barb;
+END;

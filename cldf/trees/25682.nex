@@ -1,0 +1,19 @@
+#NEXUS
+[MultiTree: Dene-Caucasian: Starostin, Ruhlen 1994]
+BEGIN TREES;
+TRANSLATE bsk Burushaski,
+deca 'Dene-Caucasian',
+eus Basque,
+ket Ket,
+nadn 'Na-Dene',
+ncau '(North) Caucasian',
+nll Nahali,
+sitb 'Sino-Tibetan',
+xpm Pumpokol,
+xrn Arin,
+xss Assan,
+yeos Yeniseian,
+yuu Yug,
+zko Kott;
+TREE 25682 = [&R] ((xpm,xss,xrn,yuu,zko,ket)yeos,nadn,ncau,eus,nll,bsk,sitb)deca;
+END;

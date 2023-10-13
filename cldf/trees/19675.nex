@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Marra-Alawic: Merlan 2003]
+BEGIN TREES;
+TRANSLATE alh Alawa,
+mec Marra,
+mmal 'Proto-Marra-Mangarrayi-Alawic',
+mpc Mangarrayi,
+mran 'Marra-Alawic',
+wnd Warndarrang;
+TREE 19675 = [&R] ((mpc,mec,alh)mmal,wnd)mran;
+END;

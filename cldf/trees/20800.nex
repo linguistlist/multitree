@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Pano: Krickeberg & Jimenez Moreno 1937]
+BEGIN TREES;
+TRANSLATE 097 Caripuna,
+amc Amahuaca,
+atc Astahuaca,
+bpnn Pacaguará,
+cao_snh Chacobo,
+cbr Cashibo,
+cbs Cashinaua,
+mcf Mayoruna,
+pano_pata Pano,
+shp_con Conibo,
+shp_shp_shi Shipibo;
+TREE 20800 = [&R] (amc,atc,shp_shp_shi,mcf,(cao_snh,097)bpnn,atc,shp_con,cbr,cbs)pano_pata;
+END;

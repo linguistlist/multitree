@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: South American Deaf Sign Language: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE aed 'Argentine Sign Language',
+bvl 'Bolivian Sign Language',
+bzs 'Brazilian Sign Language',
+csg 'Chilean Sign Language',
+csn 'Colombian Sign Language',
+ecs 'Ecuadorian Sign Language',
+prl 'Peruvian Sign Language',
+prz 'Providencia Sign Language',
+sdsl 'South American Deaf Sign Language',
+ugy 'Uruguayan Sign Language',
+uks 'Urubú-Kaapor Sign Language',
+vsl 'Venezuelan Sign Language';
+TREE 17902 = [&R] (aed,csg,bvl,prz,vsl,bzs,uks,ugy,csn,ecs,prl)sdsl;
+END;

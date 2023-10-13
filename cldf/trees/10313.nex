@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Totonacan: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE tee 'Tepehua, Huehuetla',
+tepe Tepehua,
+tlc 'Totonac, Yecuatla',
+tlp 'Totonac, Filomena Mata-Coahuitlán',
+toc 'Totonac, Coyutla',
+toc_cer 'Cerro Grande Totonac',
+too 'Totonac, Xicotepec de Juárez',
+too_zih 'Zihuateutla Totonac',
+top 'Totonac, Papantla',
+tos 'Totonac, Highland',
+tot 'Totonac, Patla-Chicontla',
+totc Totonac,
+toto Totonacan,
+tpp 'Tepehua, Pisaflores',
+tpt 'Tepehua, Tlachichilco',
+tqt 'Totonac, Ozumatlán';
+TREE 10313 = [&R] ((tee,tpp,tpt)tepe,((toc_cer)toc,tlp,tos,tqt,top,tot,(too_zih)too,tlc)totc)toto;
+END;

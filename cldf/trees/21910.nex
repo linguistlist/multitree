@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Cahuapanan: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE cahu Cahuapanan,
+cbt Chayhuita,
+cbt_cah Cahuapana,
+jeb Jebero;
+TREE 21910 = [&R] (cbt_cah,jeb,cbt)cahu;
+END;

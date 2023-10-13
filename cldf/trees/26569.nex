@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Korean: Composite]
+BEGIN TREES;
+TRANSLATE jje Jejueo,
+kor Korean,
+kor_cho Chollado,
+kor_chu 'Ch''ungch''ongdo',
+kor_ham Hamgyongdo,
+kor_hwa Hwanghaedo,
+kor_kyo Kyongsangdo,
+kor_pyo 'P''yong''ando',
+kor_seo Seoul,
+kore Korean,
+okm 'Middle Korean',
+oko 'Old Korean';
+TREE 26569 = [&R] ((((kor_pyo,kor_hwa,kor_cho,kor_kyo,kor_chu,kor_ham,kor_seo)kor,jje)okm)oko)kore;
+END;

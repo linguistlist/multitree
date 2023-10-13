@@ -1,0 +1,24 @@
+#NEXUS
+[MultiTree: European Unclassified Languages: Composite]
+BEGIN TREES;
+TRANSLATE 0d8 Turdetanian,
+ecr Eteocretan,
+ecy Eteocypriot,
+euun 'European Unclassified',
+lab 'Linear A',
+nrp 'North Picene',
+omn Minoan,
+pld Polari,
+quq Quinqui,
+sxc Sicanian,
+sxo Sorothaptic,
+trl 'Traveller Scottish',
+xcc Camunic,
+xhc Hunnic,
+xib Iberian,
+xlg Ligurian,
+xrr Raetic,
+yms Mysian,
+zsk Kaskean;
+TREE 17836 = [&R] (nrp,sxo,xcc,xhc,quq,trl,yms,xib,ecr,ecy,zsk,xlg,sxc,omn,lab,pld,xrr,0d8)euun;
+END;

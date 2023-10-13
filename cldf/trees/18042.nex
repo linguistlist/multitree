@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: Siuslaw: Composite]
+BEGIN TREES;
+TRANSLATE sis Siuslaw,
+sius Siuslaw;
+TREE 18042 = [&R] (sis)sius;
+END;

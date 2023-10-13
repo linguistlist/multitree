@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Nyulnyulan: Tryon 2007]
+BEGIN TREES;
+TRANSLATE bcj Bardi,
+djw Djawi,
+dyb Dyaberdyaber,
+dyd Dyuezun,
+nmp Nimanbur,
+nyh Nyigina,
+nyul Nyulnyulan,
+nyv Nyulnyul,
+wwr Warwa,
+ywr Yawuru;
+TREE 19935 = [&R] (nyv,dyb,dyd,nmp,djw,nyh,wwr,ywr,bcj)nyul;
+END;

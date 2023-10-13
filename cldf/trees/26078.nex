@@ -1,0 +1,35 @@
+#NEXUS
+[MultiTree: Fijian dialects: Pawley and Sayaba 1971]
+BEGIN TREES;
+TRANSLATE bwb Serua,
+ctnp 'Proto-Central Pacific',
+efij 'Proto-Eastern Fijian dialect chain',
+fij_evl 'Eastern Viti Levu dialects',
+fij_fij_bau Bauan,
+fij_kad 'Eastern Kadavu dialects',
+fij_nam 'Namosi dialects',
+fij_nav Navuavua,
+fij_raa 'Ra Province dialects',
+fij_rab Rabula,
+fij_sou Nadrau,
+fij_tav Taveuni,
+fij_van 'Vanua Levu dialects',
+fij_wai Waivaku,
+llx_llx_lau 'Lau dialect group',
+lmv 'Lomaiviti dialect group',
+pfij 'Proto-Fijian dialect chain',
+poly 'Proto-Polynesian',
+wfij 'Proto-Western Fijian dialect chain',
+wyy_baa 'Ba Province dialects',
+wyy_cuv Cuvu,
+wyy_mam 'Mamanuca dialect group',
+wyy_nad Nadala,
+wyy_nuc Nadrogā,
+wyy_sig Sigatoka,
+wyy_vat Vatulele,
+wyy_vis Viseisei,
+wyy_way Wayan,
+wyy_wvl 'Western Viti Levu dialects',
+wyy_yas 'Yasawa dialect group';
+TREE 26078 = [&R] ((((wyy_nad,wyy_vis)wyy_baa,wyy_vat,bwb,(wyy_cuv,wyy_sig)wyy_nuc,wyy_way,wyy_mam,wyy_wvl,wyy_yas)wfij,((fij_nav,fij_rab)fij_raa,fij_sou,(fij_wai)fij_nam,llx_llx_lau,fij_kad,fij_van,fij_fij_bau,fij_evl,lmv,fij_tav)efij)pfij,poly)ctnp;
+END;

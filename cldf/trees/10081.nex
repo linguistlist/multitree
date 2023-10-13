@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Eskimo-Aleut: Greenberg 1987]
+BEGIN TREES;
+TRANSLATE ale Aleut,
+aleu Aleut,
+esi 'North Alaskan Eskimo',
+eska 'Eskimo-Aleut',
+eski Eskimo,
+ike 'Canadian Eskimo',
+inui Inuit,
+kal 'Greenlandic Eskimo',
+qdt 'Pacific Coast Alaskan Eskimo',
+qmb 'Central Alaskan Eskimo',
+sibr 'Siberian Eskimo',
+ysr Sirenik,
+yupi Yuit;
+TREE 10081 = [&R] ((ale)aleu,((qmb,qdt,sibr,ysr)yupi,(esi,ike,kal)inui)eski)eska;
+END;

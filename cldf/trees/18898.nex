@@ -1,0 +1,27 @@
+#NEXUS
+[MultiTree: Australian Phylum: Evans 1995]
+BEGIN TREES;
+TRANSLATE aust 'Australian Phylum',
+bura Burarran,
+carn 'Core Arnhem',
+gara 'Karrwan Family',
+gbu Gagudju,
+gcd Yukulta,
+gcd_ngu Nguburindi,
+gunw Gunwinyguan,
+gyd Kayardild,
+gyd_nny 'South Wellesley',
+lbz Lardil,
+mndi 'Mind Family',
+mpc Mangarrayi,
+mran Maran,
+nny Yangkaal,
+nuy Nunggubuyu,
+parn 'Arnhem Family',
+pnyu 'Pama Nyungan Family',
+stng 'Southern Tangkic',
+tngc 'Proto-Tangkic',
+umr Umbugarla,
+yiwn Iwaidjan;
+TREE 18898 = [&R] (((mpc,(((nny,gyd)gyd_nny,(gcd_ngu,gcd)gcd)stng,lbz)tngc,gunw,mran)carn,bura,gbu,umr,nuy,yiwn)parn,gara,mndi,pnyu)aust;
+END;

@@ -1,0 +1,32 @@
+#NEXUS
+[MultiTree: Sepik-Ramu: Ross 2005]
+BEGIN TREES;
+TRANSLATE aian Aian,
+aog Angoram,
+can Chambri,
+gpn Taiap,
+gras_grpr Grass,
+ian Iatmul,
+kbx Kambot,
+kwri 'Yimas-Karawari',
+lsch 'Leonhard Schultze',
+lser 'Ramu-Lower Sepik',
+nduu Ndu,
+norp 'Lower Sepik',
+norr 'Murik-Kopar',
+ppe Papi,
+ppq Pai,
+ramm Ram,
+ramp Ramu,
+raoo Rao,
+sele 'Sepik Family',
+seph 'Sepik Hill',
+sepk Sepik,
+sepr 'Sepik-Ramu',
+tamo Tamolan,
+wax Watam,
+wla Walio,
+xrw Karawa,
+yuat 'Yuat Family';
+TREE 22145 = [&R] ((((ppe)seph,(ian)nduu,(xrw)ramm)sepk,(wla,ppq)lsch)sele,(kbx,((aog)norr,(can)kwri)norp,(wax,gras_grpr,tamo,raoo,aian)ramp)lser,gpn,yuat)sepr;
+END;

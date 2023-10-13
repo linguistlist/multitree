@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Algonkin-Wakashan: Sapir 1968]
+BEGIN TREES;
+TRANSLATE algi 'Algonkin-Ritwan',
+algo Algonkin,
+alms 'Algonkin-Wakashan',
+bthk Beothuk,
+chmn Chimakuan,
+kute Kootenay,
+mosa Mosan,
+ritw Ritwan,
+sali Salish,
+waka Wakashan,
+wiyo Wiyot,
+yuro Yurok;
+TREE 20105 = [&R] ((algo,(wiyo,yuro)ritw,bthk)algi,(chmn,waka,sali)mosa,kute)alms;
+END;

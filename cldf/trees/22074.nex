@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Waris, subtree of Border: Loving 1964]
+BEGIN TREES;
+TRANSLATE amn Amanab,
+dnd Daonda,
+smf Simog,
+sow Sowanda,
+sow_pun 'Punda-Umeda',
+wars 'Waris Family',
+wrs Waris;
+TREE 22074 = [&R] (smf,(sow_pun)sow,amn,wrs,dnd)wars;
+END;

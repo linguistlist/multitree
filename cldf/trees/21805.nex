@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Kwomtari: Baron 1983]
+BEGIN TREES;
+TRANSLATE bbf Baibai,
+bio Biaka,
+faas 'Fas Family',
+fqs Fas,
+grx Guriaso,
+kmst 'Kwomtari Stock',
+kwba 'Kwomtari Phylum',
+kwfa 'Kwomtari Family',
+kwo Kwomtari,
+kwo_bye 'Baiberi-Yenabi',
+kwo_mkw 'Mango-Kwomtari',
+kwo_wya 'Wagroni-Yau''uri',
+pby Pyu;
+TREE 21805 = [&R] ((((kwo_wya,kwo_mkw,kwo_bye)kwo,bio)kwfa,grx)kmst,(bbf,fqs)faas,pby)kwba;
+END;

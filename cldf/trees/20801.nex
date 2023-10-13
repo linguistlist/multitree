@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Puelche: Krickeberg & Jimenez Moreno 1937]
+BEGIN TREES;
+TRANSLATE 0si Taluhet,
+0sj Divihet,
+1m9 Chechehet,
+plch Puelche;
+TREE 20801 = [&R] (0sj,1m9,0si)plch;
+END;

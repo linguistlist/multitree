@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Alacalufan: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE alac Alacalufan,
+alc Qawasqar,
+alc_aks Aksanás,
+kbf Kakauhua;
+TREE 12498 = [&R] ((alc_aks)alc,kbf)alac;
+END;

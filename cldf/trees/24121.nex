@@ -1,0 +1,22 @@
+#NEXUS
+[MultiTree: Afroasiatic: Ehret 2000]
+BEGIN TREES;
+TRANSLATE afas Afroasiatic,
+afsm Semitic,
+areg Egyptian,
+berb Berber,
+ccus Agaw,
+chad Chadic,
+cush Cushitic,
+ecus 'Eastern Cushitic',
+eryt Erythrean,
+escu 'East-South Cushitic',
+nafa Boreafrasian,
+ncus Beja,
+nomo 'North Omotic',
+omot Omotic,
+prne 'North Erythrean',
+scus 'Southern Cushitic',
+somo 'South Omotic';
+TREE 24121 = [&R] ((((ecus,scus)escu,ccus,ncus)cush,((afsm,areg,berb)nafa,chad)prne)eryt,(somo,nomo)omot)afas;
+END;

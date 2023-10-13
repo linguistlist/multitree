@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Proto Central Pacific, a subtree of Austronesian: Pawley 1996]
+BEGIN TREES;
+TRANSLATE ctnp 'Proto Central Pacific dialect chain',
+efij 'Eastern Fijian dialect chain',
+efpo 'Proto Tokalau Fijian-Polynesian dialect chain',
+pfij 'Proto Fijian dialect chain',
+poly 'Proto-Polynesian',
+rtm Rotuman,
+tfij 'Tokelau Fijian dialects',
+wcfj 'Dialect chain of Western and Central Fiji',
+wfij 'Western Fijian dialect chain';
+TREE 25697 = [&R] (((wfij,efij)pfij,rtm)wcfj,(tfij,poly)efpo)ctnp;
+END;

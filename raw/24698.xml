@@ -1,0 +1,1489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Africa</region>
+    <root>
+      <node-status-id nil="true"></node-status-id>
+      <id type="integer">960407</id>
+      <pri-name>Nilosaharan</pri-name>
+      <node-type-id type="integer">10000</node-type-id>
+      <creator-id type="integer">10700</creator-id>
+      <updated-at type="datetime">2013-08-09T11:08:37-04:00</updated-at>
+      <is-default type="integer">0</is-default>
+      <children type="array">
+        <child>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">960414</id>
+          <pri-name>Koman</pri-name>
+          <node-type-id type="integer">10000</node-type-id>
+          <creator-id type="integer">10700</creator-id>
+          <updated-at type="datetime">2013-08-09T11:08:38-04:00</updated-at>
+          <is-default type="integer">0</is-default>
+          <children type="array">
+            <child>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">960447</id>
+              <pri-name>Inyangatom-Nilotic</pri-name>
+              <node-type-id type="integer">10000</node-type-id>
+              <creator-id type="integer">10700</creator-id>
+              <updated-at type="datetime">2013-08-09T11:08:40-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <children type="array">
+                <child>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">960449</id>
+                  <pri-name>Nilotic</pri-name>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <creator-id type="integer">10700</creator-id>
+                  <updated-at type="datetime">2013-08-09T11:08:40-04:00</updated-at>
+                  <is-default type="integer">0</is-default>
+                  <children type="array">
+                    <child>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">960450</id>
+                      <pri-name>East</pri-name>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <creator-id type="integer">10700</creator-id>
+                      <updated-at type="datetime">2013-08-09T11:08:40-04:00</updated-at>
+                      <is-default type="integer">0</is-default>
+                      <children type="array">
+                        <child>
+                          <node-status-id nil="true"></node-status-id>
+                          <id type="integer">960455</id>
+                          <pri-name>West</pri-name>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <creator-id type="integer">10700</creator-id>
+                          <updated-at type="datetime">2013-08-09T11:08:40-04:00</updated-at>
+                          <is-default type="integer">0</is-default>
+                          <children type="array">
+                            <child>
+                              <node-status-id nil="true"></node-status-id>
+                              <id type="integer">960457</id>
+                              <pri-name>Anyuak-Shiiluk-Dinka</pri-name>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <creator-id type="integer">10700</creator-id>
+                              <updated-at type="datetime">2013-08-09T11:08:41-04:00</updated-at>
+                              <is-default type="integer">0</is-default>
+                              <children type="array">
+                                <child>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <id type="integer">960459</id>
+                                  <pri-name>Shilluk</pri-name>
+                                  <node-type-id type="integer">10001</node-type-id>
+                                  <creator-id type="integer">10700</creator-id>
+                                  <updated-at type="datetime">2013-08-09T11:08:41-04:00</updated-at>
+                                  <is-default type="integer">0</is-default>
+                                  <children type="array"/>
+                                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                                  <created-at type="datetime">2013-08-09T11:08:41-04:00</created-at>
+                                  <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                                  <sureness type="integer">0</sureness>
+                                  <confidence>y</confidence>
+                                  <alt-names></alt-names>
+                                  <start-date nil="true"></start-date>
+                                  <pub-comments></pub-comments>
+                                  <geography nil="true"></geography>
+                                  <tree-id type="integer">24698</tree-id>
+                                  <status nil="true"></status>
+                                  <other-codes></other-codes>
+                                  <end-date nil="true"></end-date>
+                                  <updater-id type="integer">10700</updater-id>
+                                  <node-type>Language</node-type>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <codes>shk</codes>
+                                </child>
+                                <child>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <id type="integer">960460</id>
+                                  <pri-name>Dinka</pri-name>
+                                  <node-type-id type="integer">10000</node-type-id>
+                                  <creator-id type="integer">10700</creator-id>
+                                  <updated-at type="datetime">2013-08-09T11:08:41-04:00</updated-at>
+                                  <is-default type="integer">0</is-default>
+                                  <children type="array"/>
+                                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                                  <created-at type="datetime">2013-08-09T11:08:41-04:00</created-at>
+                                  <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                                  <sureness type="integer">0</sureness>
+                                  <confidence>y</confidence>
+                                  <alt-names></alt-names>
+                                  <start-date nil="true"></start-date>
+                                  <pub-comments></pub-comments>
+                                  <geography nil="true"></geography>
+                                  <tree-id type="integer">24698</tree-id>
+                                  <status nil="true"></status>
+                                  <other-codes></other-codes>
+                                  <end-date nil="true"></end-date>
+                                  <updater-id type="integer">10700</updater-id>
+                                  <node-type>Subgroup</node-type>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <codes>dink</codes>
+                                </child>
+                                <child>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <id type="integer">960458</id>
+                                  <pri-name>Anyuak</pri-name>
+                                  <node-type-id type="integer">10001</node-type-id>
+                                  <creator-id type="integer">10700</creator-id>
+                                  <updated-at type="datetime">2013-08-09T11:08:41-04:00</updated-at>
+                                  <is-default type="integer">0</is-default>
+                                  <children type="array"/>
+                                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                                  <created-at type="datetime">2013-08-09T11:08:41-04:00</created-at>
+                                  <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                                  <sureness type="integer">0</sureness>
+                                  <confidence>y</confidence>
+                                  <alt-names></alt-names>
+                                  <start-date nil="true"></start-date>
+                                  <pub-comments></pub-comments>
+                                  <geography nil="true"></geography>
+                                  <tree-id type="integer">24698</tree-id>
+                                  <status nil="true"></status>
+                                  <other-codes></other-codes>
+                                  <end-date nil="true"></end-date>
+                                  <updater-id type="integer">10700</updater-id>
+                                  <node-type>Language</node-type>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <codes>anu</codes>
+                                </child>
+                              </children>
+                              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                              <created-at type="datetime">2013-08-09T11:08:41-04:00</created-at>
+                              <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                              <sureness type="integer">0</sureness>
+                              <confidence>y</confidence>
+                              <alt-names></alt-names>
+                              <start-date nil="true"></start-date>
+                              <pub-comments></pub-comments>
+                              <geography nil="true"></geography>
+                              <tree-id type="integer">24698</tree-id>
+                              <status nil="true"></status>
+                              <other-codes></other-codes>
+                              <end-date nil="true"></end-date>
+                              <updater-id type="integer">10700</updater-id>
+                              <node-type>Subgroup</node-type>
+                              <deleted-at nil="true"></deleted-at>
+                              <codes>0gn1</codes>
+                            </child>
+                            <child>
+                              <node-status-id nil="true"></node-status-id>
+                              <id type="integer">960456</id>
+                              <pri-name>Nuer</pri-name>
+                              <node-type-id type="integer">10001</node-type-id>
+                              <creator-id type="integer">10700</creator-id>
+                              <updated-at type="datetime">2013-08-09T11:08:41-04:00</updated-at>
+                              <is-default type="integer">0</is-default>
+                              <children type="array"/>
+                              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                              <created-at type="datetime">2013-08-09T11:08:40-04:00</created-at>
+                              <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                              <sureness type="integer">0</sureness>
+                              <confidence>n</confidence>
+                              <alt-names></alt-names>
+                              <start-date nil="true"></start-date>
+                              <pub-comments></pub-comments>
+                              <geography nil="true"></geography>
+                              <tree-id type="integer">24698</tree-id>
+                              <status nil="true"></status>
+                              <other-codes></other-codes>
+                              <end-date nil="true"></end-date>
+                              <updater-id type="integer">10700</updater-id>
+                              <node-type>Language</node-type>
+                              <deleted-at nil="true"></deleted-at>
+                              <codes>nuer, nus</codes>
+                            </child>
+                          </children>
+                          <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                          <created-at type="datetime">2013-08-09T11:08:40-04:00</created-at>
+                          <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                          <sureness type="integer">0</sureness>
+                          <confidence>y</confidence>
+                          <alt-names></alt-names>
+                          <start-date nil="true"></start-date>
+                          <pub-comments></pub-comments>
+                          <geography nil="true"></geography>
+                          <tree-id type="integer">24698</tree-id>
+                          <status nil="true"></status>
+                          <other-codes></other-codes>
+                          <end-date nil="true"></end-date>
+                          <updater-id type="integer">10700</updater-id>
+                          <node-type>Subgroup</node-type>
+                          <deleted-at nil="true"></deleted-at>
+                          <codes>wnil</codes>
+                        </child>
+                        <child>
+                          <node-status-id nil="true"></node-status-id>
+                          <id type="integer">960452</id>
+                          <pri-name>Mabaan-Jumjum</pri-name>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <creator-id type="integer">10700</creator-id>
+                          <updated-at type="datetime">2013-08-09T11:08:40-04:00</updated-at>
+                          <is-default type="integer">0</is-default>
+                          <children type="array">
+                            <child>
+                              <node-status-id nil="true"></node-status-id>
+                              <id type="integer">960453</id>
+                              <pri-name>Mabaan</pri-name>
+                              <node-type-id type="integer">10001</node-type-id>
+                              <creator-id type="integer">10700</creator-id>
+                              <updated-at type="datetime">2013-08-09T11:08:40-04:00</updated-at>
+                              <is-default type="integer">0</is-default>
+                              <children type="array"/>
+                              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                              <created-at type="datetime">2013-08-09T11:08:40-04:00</created-at>
+                              <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                              <sureness type="integer">0</sureness>
+                              <confidence>y</confidence>
+                              <alt-names></alt-names>
+                              <start-date nil="true"></start-date>
+                              <pub-comments></pub-comments>
+                              <geography nil="true"></geography>
+                              <tree-id type="integer">24698</tree-id>
+                              <status nil="true"></status>
+                              <other-codes></other-codes>
+                              <end-date nil="true"></end-date>
+                              <updater-id type="integer">10700</updater-id>
+                              <node-type>Language</node-type>
+                              <deleted-at nil="true"></deleted-at>
+                              <codes>mfz</codes>
+                            </child>
+                            <child>
+                              <node-status-id nil="true"></node-status-id>
+                              <id type="integer">960454</id>
+                              <pri-name>Jumjum</pri-name>
+                              <node-type-id type="integer">10001</node-type-id>
+                              <creator-id type="integer">10700</creator-id>
+                              <updated-at type="datetime">2013-08-09T11:08:40-04:00</updated-at>
+                              <is-default type="integer">0</is-default>
+                              <children type="array"/>
+                              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                              <created-at type="datetime">2013-08-09T11:08:40-04:00</created-at>
+                              <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                              <sureness type="integer">0</sureness>
+                              <confidence>y</confidence>
+                              <alt-names></alt-names>
+                              <start-date nil="true"></start-date>
+                              <pub-comments></pub-comments>
+                              <geography nil="true"></geography>
+                              <tree-id type="integer">24698</tree-id>
+                              <status nil="true"></status>
+                              <other-codes></other-codes>
+                              <end-date nil="true"></end-date>
+                              <updater-id type="integer">10700</updater-id>
+                              <node-type>Language</node-type>
+                              <deleted-at nil="true"></deleted-at>
+                              <codes>jum</codes>
+                            </child>
+                          </children>
+                          <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                          <created-at type="datetime">2013-08-09T11:08:40-04:00</created-at>
+                          <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                          <sureness type="integer">0</sureness>
+                          <confidence>y</confidence>
+                          <alt-names></alt-names>
+                          <start-date nil="true"></start-date>
+                          <pub-comments></pub-comments>
+                          <geography nil="true"></geography>
+                          <tree-id type="integer">24698</tree-id>
+                          <status nil="true"></status>
+                          <other-codes></other-codes>
+                          <end-date nil="true"></end-date>
+                          <updater-id type="integer">10700</updater-id>
+                          <node-type>Subgroup</node-type>
+                          <deleted-at nil="true"></deleted-at>
+                          <codes>mabn</codes>
+                        </child>
+                        <child>
+                          <node-status-id nil="true"></node-status-id>
+                          <id type="integer">960451</id>
+                          <pri-name>Burun</pri-name>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <creator-id type="integer">10700</creator-id>
+                          <updated-at type="datetime">2013-08-09T11:08:40-04:00</updated-at>
+                          <is-default type="integer">0</is-default>
+                          <children type="array"/>
+                          <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                          <created-at type="datetime">2013-08-09T11:08:40-04:00</created-at>
+                          <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                          <sureness type="integer">0</sureness>
+                          <confidence>y</confidence>
+                          <alt-names></alt-names>
+                          <start-date nil="true"></start-date>
+                          <pub-comments></pub-comments>
+                          <geography nil="true"></geography>
+                          <tree-id type="integer">24698</tree-id>
+                          <status nil="true"></status>
+                          <other-codes></other-codes>
+                          <end-date nil="true"></end-date>
+                          <updater-id type="integer">10700</updater-id>
+                          <node-type>Language</node-type>
+                          <deleted-at nil="true"></deleted-at>
+                          <codes>burn, bdi</codes>
+                        </child>
+                      </children>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <created-at type="datetime">2013-08-09T11:08:40-04:00</created-at>
+                      <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <start-date nil="true"></start-date>
+                      <pub-comments></pub-comments>
+                      <geography nil="true"></geography>
+                      <tree-id type="integer">24698</tree-id>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <updater-id type="integer">10700</updater-id>
+                      <node-type>Subgroup</node-type>
+                      <deleted-at nil="true"></deleted-at>
+                      <codes>enil</codes>
+                    </child>
+                  </children>
+                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                  <created-at type="datetime">2013-08-09T11:08:40-04:00</created-at>
+                  <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <confidence>y</confidence>
+                  <alt-names></alt-names>
+                  <start-date nil="true"></start-date>
+                  <pub-comments></pub-comments>
+                  <geography nil="true"></geography>
+                  <tree-id type="integer">24698</tree-id>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <updater-id type="integer">10700</updater-id>
+                  <node-type>Subgroup</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <codes>nilc</codes>
+                </child>
+                <child>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">960448</id>
+                  <pri-name>Inyangatom</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <creator-id type="integer">10700</creator-id>
+                  <updated-at type="datetime">2013-08-09T11:08:40-04:00</updated-at>
+                  <is-default type="integer">0</is-default>
+                  <children type="array"/>
+                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                  <created-at type="datetime">2013-08-09T11:08:40-04:00</created-at>
+                  <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <confidence>y</confidence>
+                  <alt-names></alt-names>
+                  <start-date nil="true"></start-date>
+                  <pub-comments></pub-comments>
+                  <geography nil="true"></geography>
+                  <tree-id type="integer">24698</tree-id>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <updater-id type="integer">10700</updater-id>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <codes>nnj</codes>
+                </child>
+              </children>
+              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+              <created-at type="datetime">2013-08-09T11:08:40-04:00</created-at>
+              <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+              <sureness type="integer">0</sureness>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <geography nil="true"></geography>
+              <tree-id type="integer">24698</tree-id>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10700</updater-id>
+              <node-type>Subgroup</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <codes>esud</codes>
+            </child>
+            <child>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">960421</id>
+              <pri-name>Koma</pri-name>
+              <node-type-id type="integer">10000</node-type-id>
+              <creator-id type="integer">10700</creator-id>
+              <updated-at type="datetime">2013-08-09T11:08:38-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <children type="array">
+                <child>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">960422</id>
+                  <pri-name>Peripheral</pri-name>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <creator-id type="integer">10700</creator-id>
+                  <updated-at type="datetime">2013-08-09T11:08:38-04:00</updated-at>
+                  <is-default type="integer">0</is-default>
+                  <children type="array">
+                    <child>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">960424</id>
+                      <pri-name>S. Koma</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10700</creator-id>
+                      <updated-at type="datetime">2013-08-09T11:08:38-04:00</updated-at>
+                      <is-default type="integer">0</is-default>
+                      <children type="array"/>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <created-at type="datetime">2013-08-09T11:08:38-04:00</created-at>
+                      <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <alt-names>Southern Koma, South Koma</alt-names>
+                      <start-date nil="true"></start-date>
+                      <pub-comments></pub-comments>
+                      <geography nil="true"></geography>
+                      <tree-id type="integer">24698</tree-id>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <updater-id type="integer">10700</updater-id>
+                      <node-type>Language</node-type>
+                      <deleted-at nil="true"></deleted-at>
+                      <codes>xom</codes>
+                    </child>
+                    <child>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">960423</id>
+                      <pri-name>N. Koma</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10700</creator-id>
+                      <updated-at type="datetime">2013-08-09T11:08:38-04:00</updated-at>
+                      <is-default type="integer">0</is-default>
+                      <children type="array"/>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <created-at type="datetime">2013-08-09T11:08:38-04:00</created-at>
+                      <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <alt-names>Northern Koma, North Koma</alt-names>
+                      <start-date nil="true"></start-date>
+                      <pub-comments></pub-comments>
+                      <geography nil="true"></geography>
+                      <tree-id type="integer">24698</tree-id>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <updater-id type="integer">10700</updater-id>
+                      <node-type>Language</node-type>
+                      <deleted-at nil="true"></deleted-at>
+                      <codes>kmq</codes>
+                    </child>
+                  </children>
+                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                  <created-at type="datetime">2013-08-09T11:08:38-04:00</created-at>
+                  <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <confidence>y</confidence>
+                  <alt-names></alt-names>
+                  <start-date nil="true"></start-date>
+                  <pub-comments></pub-comments>
+                  <geography nil="true"></geography>
+                  <tree-id type="integer">24698</tree-id>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <updater-id type="integer">10700</updater-id>
+                  <node-type>Subgroup</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <codes>18hh</codes>
+                </child>
+                <child>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">960425</id>
+                  <pri-name>Nuclear</pri-name>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <creator-id type="integer">10700</creator-id>
+                  <updated-at type="datetime">2013-08-09T11:08:39-04:00</updated-at>
+                  <is-default type="integer">0</is-default>
+                  <children type="array">
+                    <child>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">960427</id>
+                      <pri-name>Central Koma-Uduk</pri-name>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <creator-id type="integer">10700</creator-id>
+                      <updated-at type="datetime">2013-08-09T11:08:39-04:00</updated-at>
+                      <is-default type="integer">0</is-default>
+                      <children type="array">
+                        <child>
+                          <node-status-id nil="true"></node-status-id>
+                          <id type="integer">960428</id>
+                          <pri-name>Central Koma</pri-name>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <creator-id type="integer">10700</creator-id>
+                          <updated-at type="datetime">2013-08-09T11:08:39-04:00</updated-at>
+                          <is-default type="integer">0</is-default>
+                          <children type="array"/>
+                          <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                          <created-at type="datetime">2013-08-09T11:08:39-04:00</created-at>
+                          <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                          <sureness type="integer">0</sureness>
+                          <confidence>y</confidence>
+                          <alt-names></alt-names>
+                          <start-date nil="true"></start-date>
+                          <pub-comments></pub-comments>
+                          <geography nil="true"></geography>
+                          <tree-id type="integer">24698</tree-id>
+                          <status nil="true"></status>
+                          <other-codes></other-codes>
+                          <end-date nil="true"></end-date>
+                          <updater-id type="integer">10700</updater-id>
+                          <node-type>Language</node-type>
+                          <deleted-at nil="true"></deleted-at>
+                          <codes>xom</codes>
+                        </child>
+                        <child>
+                          <node-status-id nil="true"></node-status-id>
+                          <id type="integer">960429</id>
+                          <pri-name>Uduk</pri-name>
+                          <node-type-id type="integer">10001</node-type-id>
+                          <creator-id type="integer">10700</creator-id>
+                          <updated-at type="datetime">2013-08-09T11:08:39-04:00</updated-at>
+                          <is-default type="integer">0</is-default>
+                          <children type="array"/>
+                          <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                          <created-at type="datetime">2013-08-09T11:08:39-04:00</created-at>
+                          <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                          <sureness type="integer">0</sureness>
+                          <confidence>y</confidence>
+                          <alt-names></alt-names>
+                          <start-date nil="true"></start-date>
+                          <pub-comments></pub-comments>
+                          <geography nil="true"></geography>
+                          <tree-id type="integer">24698</tree-id>
+                          <status nil="true"></status>
+                          <other-codes></other-codes>
+                          <end-date nil="true"></end-date>
+                          <updater-id type="integer">10700</updater-id>
+                          <node-type>Language</node-type>
+                          <deleted-at nil="true"></deleted-at>
+                          <codes>udu</codes>
+                        </child>
+                      </children>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <created-at type="datetime">2013-08-09T11:08:39-04:00</created-at>
+                      <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <start-date nil="true"></start-date>
+                      <pub-comments></pub-comments>
+                      <geography nil="true"></geography>
+                      <tree-id type="integer">24698</tree-id>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <updater-id type="integer">10700</updater-id>
+                      <node-type>Subgroup</node-type>
+                      <deleted-at nil="true"></deleted-at>
+                      <codes>6vqq</codes>
+                    </child>
+                    <child>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">960426</id>
+                      <pri-name>Langa</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10700</creator-id>
+                      <updated-at type="datetime">2013-08-09T11:08:39-04:00</updated-at>
+                      <is-default type="integer">0</is-default>
+                      <children type="array"/>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <created-at type="datetime">2013-08-09T11:08:39-04:00</created-at>
+                      <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <start-date nil="true"></start-date>
+                      <pub-comments></pub-comments>
+                      <geography nil="true"></geography>
+                      <tree-id type="integer">24698</tree-id>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <updater-id type="integer">10700</updater-id>
+                      <node-type>Language</node-type>
+                      <deleted-at nil="true"></deleted-at>
+                      <codes>lgn</codes>
+                    </child>
+                  </children>
+                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                  <created-at type="datetime">2013-08-09T11:08:38-04:00</created-at>
+                  <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <confidence>y</confidence>
+                  <alt-names></alt-names>
+                  <start-date nil="true"></start-date>
+                  <pub-comments></pub-comments>
+                  <geography nil="true"></geography>
+                  <tree-id type="integer">24698</tree-id>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <updater-id type="integer">10700</updater-id>
+                  <node-type>Subgroup</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <codes>7vyy</codes>
+                </child>
+              </children>
+              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+              <created-at type="datetime">2013-08-09T11:08:38-04:00</created-at>
+              <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+              <sureness type="integer">0</sureness>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <geography nil="true"></geography>
+              <tree-id type="integer">24698</tree-id>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10700</updater-id>
+              <node-type>Subgroup</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <codes>komn</codes>
+            </child>
+            <child>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">960416</id>
+              <pri-name>Gumuz</pri-name>
+              <node-type-id type="integer">10000</node-type-id>
+              <creator-id type="integer">10700</creator-id>
+              <updated-at type="datetime">2013-08-09T11:08:38-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <children type="array">
+                <child>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">960417</id>
+                  <pri-name>Gumuz-Sese-Disoha</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <creator-id type="integer">10700</creator-id>
+                  <updated-at type="datetime">2013-08-09T11:08:38-04:00</updated-at>
+                  <is-default type="integer">0</is-default>
+                  <children type="array">
+                    <child>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">960420</id>
+                      <pri-name>Disoha</pri-name>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <creator-id type="integer">10700</creator-id>
+                      <updated-at type="datetime">2013-08-09T11:08:38-04:00</updated-at>
+                      <is-default type="integer">0</is-default>
+                      <children type="array"/>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <created-at type="datetime">2013-08-09T11:08:38-04:00</created-at>
+                      <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <start-date nil="true"></start-date>
+                      <pub-comments></pub-comments>
+                      <geography nil="true"></geography>
+                      <tree-id type="integer">24698</tree-id>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <updater-id type="integer">10700</updater-id>
+                      <node-type>Dialect</node-type>
+                      <deleted-at nil="true"></deleted-at>
+                      <codes>guk-dis</codes>
+                    </child>
+                    <child>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">960419</id>
+                      <pri-name>Sese</pri-name>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <creator-id type="integer">10700</creator-id>
+                      <updated-at type="datetime">2013-08-09T11:08:38-04:00</updated-at>
+                      <is-default type="integer">0</is-default>
+                      <children type="array"/>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <created-at type="datetime">2013-08-09T11:08:38-04:00</created-at>
+                      <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <start-date nil="true"></start-date>
+                      <pub-comments></pub-comments>
+                      <geography nil="true"></geography>
+                      <tree-id type="integer">24698</tree-id>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <updater-id type="integer">10700</updater-id>
+                      <node-type>Dialect</node-type>
+                      <deleted-at nil="true"></deleted-at>
+                      <codes>guk-ses</codes>
+                    </child>
+                    <child>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">960418</id>
+                      <pri-name>Gumuz</pri-name>
+                      <node-type-id type="integer">10003</node-type-id>
+                      <creator-id type="integer">10700</creator-id>
+                      <updated-at type="datetime">2013-08-09T11:08:38-04:00</updated-at>
+                      <is-default type="integer">0</is-default>
+                      <children type="array"/>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <created-at type="datetime">2013-08-09T11:08:38-04:00</created-at>
+                      <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <start-date nil="true"></start-date>
+                      <pub-comments></pub-comments>
+                      <geography nil="true"></geography>
+                      <tree-id type="integer">24698</tree-id>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <updater-id type="integer">10700</updater-id>
+                      <node-type>Dialect</node-type>
+                      <deleted-at nil="true"></deleted-at>
+                      <codes>guk</codes>
+                    </child>
+                  </children>
+                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                  <created-at type="datetime">2013-08-09T11:08:38-04:00</created-at>
+                  <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <confidence>y</confidence>
+                  <alt-names></alt-names>
+                  <start-date nil="true"></start-date>
+                  <pub-comments>&#8220;Also many other dialects&#8221; (Bender 1971:192).</pub-comments>
+                  <geography nil="true"></geography>
+                  <tree-id type="integer">24698</tree-id>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <updater-id type="integer">10700</updater-id>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <codes>guk</codes>
+                </child>
+              </children>
+              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+              <created-at type="datetime">2013-08-09T11:08:38-04:00</created-at>
+              <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+              <sureness type="integer">0</sureness>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <geography nil="true"></geography>
+              <tree-id type="integer">24698</tree-id>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10700</updater-id>
+              <node-type>Subgroup</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <codes>gumz</codes>
+            </child>
+            <child>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">960430</id>
+              <pri-name>Nara Surma</pri-name>
+              <node-type-id type="integer">10000</node-type-id>
+              <creator-id type="integer">10700</creator-id>
+              <updated-at type="datetime">2013-08-09T11:08:39-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <children type="array">
+                <child>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">960432</id>
+                  <pri-name>Surma</pri-name>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <creator-id type="integer">10700</creator-id>
+                  <updated-at type="datetime">2013-08-09T11:08:39-04:00</updated-at>
+                  <is-default type="integer">0</is-default>
+                  <children type="array">
+                    <child>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">960434</id>
+                      <pri-name>Central Surma</pri-name>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <creator-id type="integer">10700</creator-id>
+                      <updated-at type="datetime">2013-08-09T11:08:39-04:00</updated-at>
+                      <is-default type="integer">0</is-default>
+                      <children type="array">
+                        <child>
+                          <node-status-id nil="true"></node-status-id>
+                          <id type="integer">960438</id>
+                          <pri-name>Kwegu-Nuclear</pri-name>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <creator-id type="integer">10700</creator-id>
+                          <updated-at type="datetime">2013-08-09T11:08:39-04:00</updated-at>
+                          <is-default type="integer">0</is-default>
+                          <children type="array">
+                            <child>
+                              <node-status-id nil="true"></node-status-id>
+                              <id type="integer">960440</id>
+                              <pri-name>Nuclear</pri-name>
+                              <node-type-id type="integer">10000</node-type-id>
+                              <creator-id type="integer">10700</creator-id>
+                              <updated-at type="datetime">2013-08-09T11:08:40-04:00</updated-at>
+                              <is-default type="integer">0</is-default>
+                              <children type="array">
+                                <child>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <id type="integer">960444</id>
+                                  <pri-name>Mursoid</pri-name>
+                                  <node-type-id type="integer">10000</node-type-id>
+                                  <creator-id type="integer">10700</creator-id>
+                                  <updated-at type="datetime">2013-08-09T11:08:40-04:00</updated-at>
+                                  <is-default type="integer">0</is-default>
+                                  <children type="array">
+                                    <child>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <id type="integer">960446</id>
+                                      <pri-name>Tirma</pri-name>
+                                      <node-type-id type="integer">10001</node-type-id>
+                                      <creator-id type="integer">10700</creator-id>
+                                      <updated-at type="datetime">2013-08-09T11:08:40-04:00</updated-at>
+                                      <is-default type="integer">0</is-default>
+                                      <children type="array"/>
+                                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                                      <created-at type="datetime">2013-08-09T11:08:40-04:00</created-at>
+                                      <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                                      <sureness type="integer">0</sureness>
+                                      <confidence>y</confidence>
+                                      <alt-names></alt-names>
+                                      <start-date nil="true"></start-date>
+                                      <pub-comments></pub-comments>
+                                      <geography nil="true"></geography>
+                                      <tree-id type="integer">24698</tree-id>
+                                      <status nil="true"></status>
+                                      <other-codes></other-codes>
+                                      <end-date nil="true"></end-date>
+                                      <updater-id type="integer">10700</updater-id>
+                                      <node-type>Language</node-type>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <codes>suq-tir</codes>
+                                    </child>
+                                    <child>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <id type="integer">960445</id>
+                                      <pri-name>Mursi</pri-name>
+                                      <node-type-id type="integer">10001</node-type-id>
+                                      <creator-id type="integer">10700</creator-id>
+                                      <updated-at type="datetime">2013-08-09T11:08:40-04:00</updated-at>
+                                      <is-default type="integer">0</is-default>
+                                      <children type="array"/>
+                                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                                      <created-at type="datetime">2013-08-09T11:08:40-04:00</created-at>
+                                      <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                                      <sureness type="integer">0</sureness>
+                                      <confidence>y</confidence>
+                                      <alt-names></alt-names>
+                                      <start-date nil="true"></start-date>
+                                      <pub-comments></pub-comments>
+                                      <geography nil="true"></geography>
+                                      <tree-id type="integer">24698</tree-id>
+                                      <status nil="true"></status>
+                                      <other-codes></other-codes>
+                                      <end-date nil="true"></end-date>
+                                      <updater-id type="integer">10700</updater-id>
+                                      <node-type>Language</node-type>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <codes>muz</codes>
+                                    </child>
+                                  </children>
+                                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                                  <created-at type="datetime">2013-08-09T11:08:40-04:00</created-at>
+                                  <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                                  <sureness type="integer">0</sureness>
+                                  <confidence>y</confidence>
+                                  <alt-names></alt-names>
+                                  <start-date nil="true"></start-date>
+                                  <pub-comments></pub-comments>
+                                  <geography nil="true"></geography>
+                                  <tree-id type="integer">24698</tree-id>
+                                  <status nil="true"></status>
+                                  <other-codes></other-codes>
+                                  <end-date nil="true"></end-date>
+                                  <updater-id type="integer">10700</updater-id>
+                                  <node-type>Subgroup</node-type>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <codes>suri</codes>
+                                </child>
+                                <child>
+                                  <node-status-id nil="true"></node-status-id>
+                                  <id type="integer">960441</id>
+                                  <pri-name>Me'en-Bodi</pri-name>
+                                  <node-type-id type="integer">10000</node-type-id>
+                                  <creator-id type="integer">10700</creator-id>
+                                  <updated-at type="datetime">2013-08-09T11:08:40-04:00</updated-at>
+                                  <is-default type="integer">0</is-default>
+                                  <children type="array">
+                                    <child>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <id type="integer">960442</id>
+                                      <pri-name>Me'en</pri-name>
+                                      <node-type-id type="integer">10001</node-type-id>
+                                      <creator-id type="integer">10700</creator-id>
+                                      <updated-at type="datetime">2013-08-09T11:08:40-04:00</updated-at>
+                                      <is-default type="integer">0</is-default>
+                                      <children type="array"/>
+                                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                                      <created-at type="datetime">2013-08-09T11:08:40-04:00</created-at>
+                                      <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                                      <sureness type="integer">0</sureness>
+                                      <confidence>y</confidence>
+                                      <alt-names></alt-names>
+                                      <start-date nil="true"></start-date>
+                                      <pub-comments></pub-comments>
+                                      <geography nil="true"></geography>
+                                      <tree-id type="integer">24698</tree-id>
+                                      <status nil="true"></status>
+                                      <other-codes></other-codes>
+                                      <end-date nil="true"></end-date>
+                                      <updater-id type="integer">10700</updater-id>
+                                      <node-type>Language</node-type>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <codes>mym</codes>
+                                    </child>
+                                    <child>
+                                      <node-status-id nil="true"></node-status-id>
+                                      <id type="integer">960443</id>
+                                      <pri-name>Bodi</pri-name>
+                                      <node-type-id type="integer">10001</node-type-id>
+                                      <creator-id type="integer">10700</creator-id>
+                                      <updated-at type="datetime">2013-08-09T11:08:40-04:00</updated-at>
+                                      <is-default type="integer">0</is-default>
+                                      <children type="array"/>
+                                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                                      <created-at type="datetime">2013-08-09T11:08:40-04:00</created-at>
+                                      <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                                      <sureness type="integer">0</sureness>
+                                      <confidence>y</confidence>
+                                      <alt-names></alt-names>
+                                      <start-date nil="true"></start-date>
+                                      <pub-comments></pub-comments>
+                                      <geography nil="true"></geography>
+                                      <tree-id type="integer">24698</tree-id>
+                                      <status nil="true"></status>
+                                      <other-codes></other-codes>
+                                      <end-date nil="true"></end-date>
+                                      <updater-id type="integer">10700</updater-id>
+                                      <node-type>Language</node-type>
+                                      <deleted-at nil="true"></deleted-at>
+                                      <codes>mym-bod</codes>
+                                    </child>
+                                  </children>
+                                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                                  <created-at type="datetime">2013-08-09T11:08:40-04:00</created-at>
+                                  <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                                  <sureness type="integer">0</sureness>
+                                  <confidence>y</confidence>
+                                  <alt-names></alt-names>
+                                  <start-date nil="true"></start-date>
+                                  <pub-comments></pub-comments>
+                                  <geography nil="true"></geography>
+                                  <tree-id type="integer">24698</tree-id>
+                                  <status nil="true"></status>
+                                  <other-codes></other-codes>
+                                  <end-date nil="true"></end-date>
+                                  <updater-id type="integer">10700</updater-id>
+                                  <node-type>Subgroup</node-type>
+                                  <deleted-at nil="true"></deleted-at>
+                                  <codes>meen</codes>
+                                </child>
+                              </children>
+                              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                              <created-at type="datetime">2013-08-09T11:08:39-04:00</created-at>
+                              <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                              <sureness type="integer">0</sureness>
+                              <confidence>y</confidence>
+                              <alt-names></alt-names>
+                              <start-date nil="true"></start-date>
+                              <pub-comments></pub-comments>
+                              <geography nil="true"></geography>
+                              <tree-id type="integer">24698</tree-id>
+                              <status nil="true"></status>
+                              <other-codes></other-codes>
+                              <end-date nil="true"></end-date>
+                              <updater-id type="integer">10700</updater-id>
+                              <node-type>Subgroup</node-type>
+                              <deleted-at nil="true"></deleted-at>
+                              <codes>pstr</codes>
+                            </child>
+                            <child>
+                              <node-status-id nil="true"></node-status-id>
+                              <id type="integer">960439</id>
+                              <pri-name>Kwegu</pri-name>
+                              <node-type-id type="integer">10001</node-type-id>
+                              <creator-id type="integer">10700</creator-id>
+                              <updated-at type="datetime">2013-08-09T11:08:39-04:00</updated-at>
+                              <is-default type="integer">0</is-default>
+                              <children type="array"/>
+                              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                              <created-at type="datetime">2013-08-09T11:08:39-04:00</created-at>
+                              <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                              <sureness type="integer">0</sureness>
+                              <confidence>n</confidence>
+                              <alt-names></alt-names>
+                              <start-date nil="true"></start-date>
+                              <pub-comments></pub-comments>
+                              <geography nil="true"></geography>
+                              <tree-id type="integer">24698</tree-id>
+                              <status nil="true"></status>
+                              <other-codes></other-codes>
+                              <end-date nil="true"></end-date>
+                              <updater-id type="integer">10700</updater-id>
+                              <node-type>Language</node-type>
+                              <deleted-at nil="true"></deleted-at>
+                              <codes>kweg, xwg</codes>
+                            </child>
+                          </children>
+                          <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                          <created-at type="datetime">2013-08-09T11:08:39-04:00</created-at>
+                          <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                          <sureness type="integer">0</sureness>
+                          <confidence>y</confidence>
+                          <alt-names></alt-names>
+                          <start-date nil="true"></start-date>
+                          <pub-comments></pub-comments>
+                          <geography nil="true"></geography>
+                          <tree-id type="integer">24698</tree-id>
+                          <status nil="true"></status>
+                          <other-codes></other-codes>
+                          <end-date nil="true"></end-date>
+                          <updater-id type="integer">10700</updater-id>
+                          <node-type>Subgroup</node-type>
+                          <deleted-at nil="true"></deleted-at>
+                          <codes>sess</codes>
+                        </child>
+                        <child>
+                          <node-status-id nil="true"></node-status-id>
+                          <id type="integer">960435</id>
+                          <pri-name>Murle-Zilmamu</pri-name>
+                          <node-type-id type="integer">10000</node-type-id>
+                          <creator-id type="integer">10700</creator-id>
+                          <updated-at type="datetime">2013-08-09T11:08:39-04:00</updated-at>
+                          <is-default type="integer">0</is-default>
+                          <children type="array">
+                            <child>
+                              <node-status-id nil="true"></node-status-id>
+                              <id type="integer">960437</id>
+                              <pri-name>Zilmamu</pri-name>
+                              <node-type-id type="integer">10001</node-type-id>
+                              <creator-id type="integer">10700</creator-id>
+                              <updated-at type="datetime">2013-08-09T11:08:39-04:00</updated-at>
+                              <is-default type="integer">0</is-default>
+                              <children type="array"/>
+                              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                              <created-at type="datetime">2013-08-09T11:08:39-04:00</created-at>
+                              <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                              <sureness type="integer">0</sureness>
+                              <confidence>y</confidence>
+                              <alt-names></alt-names>
+                              <start-date nil="true"></start-date>
+                              <pub-comments></pub-comments>
+                              <geography nil="true"></geography>
+                              <tree-id type="integer">24698</tree-id>
+                              <status nil="true"></status>
+                              <other-codes></other-codes>
+                              <end-date nil="true"></end-date>
+                              <updater-id type="integer">10700</updater-id>
+                              <node-type>Language</node-type>
+                              <deleted-at nil="true"></deleted-at>
+                              <codes>koe, koe-zil</codes>
+                            </child>
+                            <child>
+                              <node-status-id nil="true"></node-status-id>
+                              <id type="integer">960436</id>
+                              <pri-name>Murle</pri-name>
+                              <node-type-id type="integer">10001</node-type-id>
+                              <creator-id type="integer">10700</creator-id>
+                              <updated-at type="datetime">2013-08-09T11:08:39-04:00</updated-at>
+                              <is-default type="integer">0</is-default>
+                              <children type="array"/>
+                              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                              <created-at type="datetime">2013-08-09T11:08:39-04:00</created-at>
+                              <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                              <sureness type="integer">0</sureness>
+                              <confidence>y</confidence>
+                              <alt-names></alt-names>
+                              <start-date nil="true"></start-date>
+                              <pub-comments></pub-comments>
+                              <geography nil="true"></geography>
+                              <tree-id type="integer">24698</tree-id>
+                              <status nil="true"></status>
+                              <other-codes></other-codes>
+                              <end-date nil="true"></end-date>
+                              <updater-id type="integer">10700</updater-id>
+                              <node-type>Language</node-type>
+                              <deleted-at nil="true"></deleted-at>
+                              <codes>mur</codes>
+                            </child>
+                          </children>
+                          <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                          <created-at type="datetime">2013-08-09T11:08:39-04:00</created-at>
+                          <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                          <sureness type="integer">0</sureness>
+                          <confidence>y</confidence>
+                          <alt-names></alt-names>
+                          <start-date nil="true"></start-date>
+                          <pub-comments></pub-comments>
+                          <geography nil="true"></geography>
+                          <tree-id type="integer">24698</tree-id>
+                          <status nil="true"></status>
+                          <other-codes></other-codes>
+                          <end-date nil="true"></end-date>
+                          <updater-id type="integer">10700</updater-id>
+                          <node-type>Subgroup</node-type>
+                          <deleted-at nil="true"></deleted-at>
+                          <codes>4xkk</codes>
+                        </child>
+                      </children>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <created-at type="datetime">2013-08-09T11:08:39-04:00</created-at>
+                      <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <start-date nil="true"></start-date>
+                      <pub-comments></pub-comments>
+                      <geography nil="true"></geography>
+                      <tree-id type="integer">24698</tree-id>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <updater-id type="integer">10700</updater-id>
+                      <node-type>Subgroup</node-type>
+                      <deleted-at nil="true"></deleted-at>
+                      <codes>0gnc</codes>
+                    </child>
+                    <child>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">960433</id>
+                      <pri-name>Mesengo</pri-name>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10700</creator-id>
+                      <updated-at type="datetime">2013-08-09T11:08:39-04:00</updated-at>
+                      <is-default type="integer">0</is-default>
+                      <children type="array"/>
+                      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                      <created-at type="datetime">2013-08-09T11:08:39-04:00</created-at>
+                      <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <start-date nil="true"></start-date>
+                      <pub-comments></pub-comments>
+                      <geography nil="true"></geography>
+                      <tree-id type="integer">24698</tree-id>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <end-date nil="true"></end-date>
+                      <updater-id type="integer">10700</updater-id>
+                      <node-type>Language</node-type>
+                      <deleted-at nil="true"></deleted-at>
+                      <codes>mpe</codes>
+                    </child>
+                  </children>
+                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                  <created-at type="datetime">2013-08-09T11:08:39-04:00</created-at>
+                  <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <confidence>y</confidence>
+                  <alt-names></alt-names>
+                  <start-date nil="true"></start-date>
+                  <pub-comments></pub-comments>
+                  <geography nil="true"></geography>
+                  <tree-id type="integer">24698</tree-id>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <updater-id type="integer">10700</updater-id>
+                  <node-type>Subgroup</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <codes>surm</codes>
+                </child>
+                <child>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">960431</id>
+                  <pri-name>Nara</pri-name>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <creator-id type="integer">10700</creator-id>
+                  <updated-at type="datetime">2013-08-09T11:08:39-04:00</updated-at>
+                  <is-default type="integer">0</is-default>
+                  <children type="array"/>
+                  <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+                  <created-at type="datetime">2013-08-09T11:08:39-04:00</created-at>
+                  <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <confidence>y</confidence>
+                  <alt-names></alt-names>
+                  <start-date nil="true"></start-date>
+                  <pub-comments></pub-comments>
+                  <geography nil="true"></geography>
+                  <tree-id type="integer">24698</tree-id>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <updater-id type="integer">10700</updater-id>
+                  <node-type>Language</node-type>
+                  <deleted-at nil="true"></deleted-at>
+                  <codes>nrb</codes>
+                </child>
+              </children>
+              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+              <created-at type="datetime">2013-08-09T11:08:39-04:00</created-at>
+              <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+              <sureness type="integer">0</sureness>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <geography nil="true"></geography>
+              <tree-id type="integer">24698</tree-id>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10700</updater-id>
+              <node-type>Subgroup</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <codes>523a</codes>
+            </child>
+            <child>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">960415</id>
+              <pri-name>Northern Mao</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10700</creator-id>
+              <updated-at type="datetime">2013-08-09T11:08:38-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <children type="array"/>
+              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+              <created-at type="datetime">2013-08-09T11:08:38-04:00</created-at>
+              <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+              <sureness type="integer">0</sureness>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <geography nil="true"></geography>
+              <tree-id type="integer">24698</tree-id>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10700</updater-id>
+              <node-type>Language</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <codes>myf</codes>
+            </child>
+          </children>
+          <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+          <created-at type="datetime">2013-08-09T11:08:38-04:00</created-at>
+          <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+          <sureness type="integer">0</sureness>
+          <confidence>y</confidence>
+          <alt-names></alt-names>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <geography nil="true"></geography>
+          <tree-id type="integer">24698</tree-id>
+          <status nil="true"></status>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <updater-id type="integer">10700</updater-id>
+          <node-type>Subgroup</node-type>
+          <deleted-at nil="true"></deleted-at>
+          <codes>komz</codes>
+        </child>
+        <child>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">960408</id>
+          <pri-name>Berta</pri-name>
+          <node-type-id type="integer">10000</node-type-id>
+          <creator-id type="integer">10700</creator-id>
+          <updated-at type="datetime">2013-08-09T11:08:37-04:00</updated-at>
+          <is-default type="integer">0</is-default>
+          <children type="array">
+            <child>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">960409</id>
+              <pri-name>Wetawit</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10700</creator-id>
+              <updated-at type="datetime">2013-08-09T11:08:37-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <children type="array"/>
+              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+              <created-at type="datetime">2013-08-09T11:08:37-04:00</created-at>
+              <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+              <sureness type="integer">0</sureness>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <geography nil="true"></geography>
+              <tree-id type="integer">24698</tree-id>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10700</updater-id>
+              <node-type>Language</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <codes>wti</codes>
+            </child>
+            <child>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">960410</id>
+              <pri-name>Ingassana</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10700</creator-id>
+              <updated-at type="datetime">2013-08-09T11:08:37-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <children type="array"/>
+              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+              <created-at type="datetime">2013-08-09T11:08:37-04:00</created-at>
+              <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+              <sureness type="integer">0</sureness>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <geography nil="true"></geography>
+              <tree-id type="integer">24698</tree-id>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10700</updater-id>
+              <node-type>Language</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <codes>tbi</codes>
+            </child>
+          </children>
+          <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+          <created-at type="datetime">2013-08-09T11:08:37-04:00</created-at>
+          <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+          <sureness type="integer">0</sureness>
+          <confidence>y</confidence>
+          <alt-names></alt-names>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <geography nil="true"></geography>
+          <tree-id type="integer">24698</tree-id>
+          <status nil="true"></status>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <updater-id type="integer">10700</updater-id>
+          <node-type>Subgroup</node-type>
+          <deleted-at nil="true"></deleted-at>
+          <codes>bert</codes>
+        </child>
+        <child>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">960411</id>
+          <pri-name>Kunama</pri-name>
+          <node-type-id type="integer">10000</node-type-id>
+          <creator-id type="integer">10700</creator-id>
+          <updated-at type="datetime">2013-08-09T11:08:38-04:00</updated-at>
+          <is-default type="integer">0</is-default>
+          <children type="array">
+            <child>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">960413</id>
+              <pri-name>Ilit</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10700</creator-id>
+              <updated-at type="datetime">2013-08-09T11:08:38-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <children type="array"/>
+              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+              <created-at type="datetime">2013-08-09T11:08:38-04:00</created-at>
+              <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+              <sureness type="integer">0</sureness>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <geography nil="true"></geography>
+              <tree-id type="integer">24698</tree-id>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10700</updater-id>
+              <node-type>Language</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <codes>kun-ili</codes>
+            </child>
+            <child>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">960412</id>
+              <pri-name>Kunama</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <creator-id type="integer">10700</creator-id>
+              <updated-at type="datetime">2013-08-09T11:08:38-04:00</updated-at>
+              <is-default type="integer">0</is-default>
+              <children type="array"/>
+              <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+              <created-at type="datetime">2013-08-09T11:08:38-04:00</created-at>
+              <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+              <sureness type="integer">0</sureness>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <geography nil="true"></geography>
+              <tree-id type="integer">24698</tree-id>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10700</updater-id>
+              <node-type>Language</node-type>
+              <deleted-at nil="true"></deleted-at>
+              <codes>kun</codes>
+            </child>
+          </children>
+          <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+          <created-at type="datetime">2013-08-09T11:08:37-04:00</created-at>
+          <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+          <sureness type="integer">0</sureness>
+          <confidence>y</confidence>
+          <alt-names></alt-names>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <geography nil="true"></geography>
+          <tree-id type="integer">24698</tree-id>
+          <status nil="true"></status>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <updater-id type="integer">10700</updater-id>
+          <node-type>Subgroup</node-type>
+          <deleted-at nil="true"></deleted-at>
+          <codes>kunm</codes>
+        </child>
+      </children>
+      <publications>Bender, M. Lionel. 1971. The Languages of Ethiopia: A New Lexicostatistic Classification and some Problems of Difussion, Anthropological Linguistics, vol. 13, No, 5, 165-288. Bloomington: Indiana University. </publications>
+      <created-at type="datetime">2013-08-09T11:08:37-04:00</created-at>
+      <tree-val>Nilo-Saharan: Bender 1971</tree-val>
+      <sureness type="integer">0</sureness>
+      <confidence>y</confidence>
+      <alt-names></alt-names>
+      <start-date nil="true"></start-date>
+      <pub-comments></pub-comments>
+      <geography nil="true"></geography>
+      <tree-id type="integer">24698</tree-id>
+      <status nil="true"></status>
+      <other-codes></other-codes>
+      <end-date nil="true"></end-date>
+      <updater-id type="integer">10700</updater-id>
+      <node-type>Subgroup</node-type>
+      <deleted-at nil="true"></deleted-at>
+      <codes>nash</codes>
+    </root>
+    <description>Nilo-Saharan: Bender 1971</description>
+  </tree>
+</hash>

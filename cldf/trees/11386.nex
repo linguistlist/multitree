@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Proto-Central Dravidian, subtree of Dravidian: Subrahmanyam 1969]
+BEGIN TREES;
+TRANSLATE cdrv 'Proto-Central Dravidian',
+daq_emu_fmu_ggo_gno_kwx_mrr_mut_nbg_pch Gonḍi,
+fkru 'Proto-Kolami-Parji',
+gau Gadaba,
+gonk 'Proto-Gonḍi-Kui',
+kfb Kolami,
+kfc Konḍa,
+kona 'Proto-Kolami-Naiki',
+kuik 'Proto-Kui-Kuvi',
+kxu Kui,
+kxv Kuvi,
+nit Naiki,
+parj 'Proto-Parji-Gadaba',
+pci Parji,
+scdr 'Proto-Telugu-Kui',
+tel Telugu;
+TREE 11386 = [&R] (((pci,gau)parj,(nit,kfb)kona)fkru,(((kxu,kxv)kuik,kfc,daq_emu_fmu_ggo_gno_kwx_mrr_mut_nbg_pch)gonk,tel)scdr)cdrv;
+END;

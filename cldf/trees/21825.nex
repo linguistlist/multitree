@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Kwomtari: Laycock 1975]
+BEGIN TREES;
+TRANSLATE baib 'Baibai Family',
+bbf Baibai,
+bio Biaka,
+fqs Fas,
+kwba 'Kwomtari Phylum',
+kwo Kwomtari,
+kwom 'Kwomtari Family',
+pby Pyu,
+pyuu 'Pyu Family';
+TREE 21825 = [&R] ((pby)pyuu,(kwo,fqs)kwom,(bbf,bio)baib)kwba;
+END;

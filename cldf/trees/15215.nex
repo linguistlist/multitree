@@ -1,0 +1,34 @@
+#NEXUS
+[MultiTree: North American Isolates: Goddard 1996]
+BEGIN TREES;
+TRANSLATE bue Beothuk,
+ctm Chitimacha,
+esq Esselen,
+haid Haida,
+hax 'Southern Haida',
+hax_kun Kunghit,
+hax_ski Skidegate,
+hdn 'Northern Haida',
+hdn_ala Alaskan,
+hdn_mas Masset,
+kut Kootenai,
+nais 'North American Isolates',
+ncz Natchez,
+q06 Maratino,
+q9j Calusa,
+qjg Guaicura,
+ql8 Naolan,
+qr4 Quinigua,
+tqw Tonkawa,
+tun Tunica,
+xad Adai,
+xcn Cotoname,
+xcw Coahuilteco,
+xcy Cayuse,
+xrt Aranama,
+xso Solano,
+yuc Yuchi,
+zkk Karankawa,
+zun Zuni;
+TREE 15215 = [&R] (xcy,xcn,xcw,xso,tun,qr4,((hax_kun,hax_ski)hax,(hdn_ala,hdn_mas)hdn)haid,bue,ql8,esq,tqw,ncz,ctm,yuc,xad,qjg,zkk,zun,q9j,q06,kut,xrt)nais;
+END;

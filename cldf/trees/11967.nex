@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: North American Unclassified Languages: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE aex Amerax,
+beo Beothuk,
+naun 'North American Unclassified';
+TREE 11967 = [&R] (beo,aex)naun;
+END;

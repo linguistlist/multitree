@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Africa</region>
+    <root>
+      <updater-id type="integer">10660</updater-id>
+      <pri-name>Eastern Sudanic</pri-name>
+      <deleted-at nil="true"></deleted-at>
+      <updated-at type="datetime">2013-07-18T15:43:07-04:00</updated-at>
+      <sureness type="integer">0</sureness>
+      <is-default type="integer">0</is-default>
+      <start-date nil="true"></start-date>
+      <node-type>Subgroup</node-type>
+      <end-date nil="true"></end-date>
+      <node-status-id nil="true"></node-status-id>
+      <geography nil="true"></geography>
+      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+      <tree-id type="integer">24218</tree-id>
+      <codes>esud</codes>
+      <children type="array">
+        <child>
+          <updater-id type="integer">10660</updater-id>
+          <pri-name>Southern Branch Eastern Sudanic</pri-name>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2013-07-18T15:43:08-04:00</updated-at>
+          <sureness type="integer">0</sureness>
+          <is-default type="integer">0</is-default>
+          <start-date nil="true"></start-date>
+          <node-type>Subgroup</node-type>
+          <end-date nil="true"></end-date>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+          <tree-id type="integer">24218</tree-id>
+          <codes>nilc</codes>
+          <children type="array">
+            <child>
+              <updater-id type="integer">10660</updater-id>
+              <pri-name>Great Lakes</pri-name>
+              <deleted-at nil="true"></deleted-at>
+              <updated-at type="datetime">2013-07-18T15:43:09-04:00</updated-at>
+              <sureness type="integer">0</sureness>
+              <is-default type="integer">0</is-default>
+              <start-date nil="true"></start-date>
+              <node-type>Subgroup</node-type>
+              <end-date nil="true"></end-date>
+              <node-status-id nil="true"></node-status-id>
+              <geography nil="true"></geography>
+              <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+              <tree-id type="integer">24218</tree-id>
+              <codes>gtlk</codes>
+              <children type="array">
+                <child>
+                  <updater-id type="integer">10660</updater-id>
+                  <pri-name>Great Lakes b</pri-name>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-at type="datetime">2013-07-18T15:43:09-04:00</updated-at>
+                  <sureness type="integer">0</sureness>
+                  <is-default type="integer">0</is-default>
+                  <start-date nil="true"></start-date>
+                  <node-type>Subgroup</node-type>
+                  <end-date nil="true"></end-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography nil="true"></geography>
+                  <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                  <tree-id type="integer">24218</tree-id>
+                  <codes>enil</codes>
+                  <children type="array">
+                    <child>
+                      <updater-id type="integer">10660</updater-id>
+                      <pri-name>Topotha</pri-name>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-07-18T15:43:09-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                      <tree-id type="integer">24218</tree-id>
+                      <codes>toq</codes>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10660</creator-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">943902</id>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                      <created-at type="datetime">2013-07-18T15:43:09-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10660</updater-id>
+                      <pri-name>Latuka</pri-name>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-07-18T15:43:09-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                      <tree-id type="integer">24218</tree-id>
+                      <codes>lot</codes>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10660</creator-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">943904</id>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                      <created-at type="datetime">2013-07-18T15:43:09-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10660</updater-id>
+                      <pri-name>Karamojo</pri-name>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-07-18T15:43:09-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                      <tree-id type="integer">24218</tree-id>
+                      <codes>kdj</codes>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10660</creator-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">943903</id>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                      <created-at type="datetime">2013-07-18T15:43:09-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10660</updater-id>
+                      <pri-name>Bari</pri-name>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-07-18T15:43:09-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                      <tree-id type="integer">24218</tree-id>
+                      <codes>bfa</codes>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10660</creator-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">943895</id>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                      <created-at type="datetime">2013-07-18T15:43:09-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10660</updater-id>
+                      <pri-name>Teso</pri-name>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-07-18T15:43:09-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                      <tree-id type="integer">24218</tree-id>
+                      <codes>teo</codes>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10660</creator-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">943900</id>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                      <created-at type="datetime">2013-07-18T15:43:09-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10660</updater-id>
+                      <pri-name>Masai</pri-name>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-07-18T15:43:09-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                      <tree-id type="integer">24218</tree-id>
+                      <codes>mas</codes>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10660</creator-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">943899</id>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                      <created-at type="datetime">2013-07-18T15:43:09-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10660</updater-id>
+                      <pri-name>Fajulu</pri-name>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-07-18T15:43:09-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                      <tree-id type="integer">24218</tree-id>
+                      <codes>bfa-poj</codes>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10660</creator-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">943896</id>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                      <created-at type="datetime">2013-07-18T15:43:09-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10660</updater-id>
+                      <pri-name>Turkana</pri-name>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-07-18T15:43:09-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                      <tree-id type="integer">24218</tree-id>
+                      <codes>tuv</codes>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10660</creator-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">943901</id>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                      <created-at type="datetime">2013-07-18T15:43:09-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10660</updater-id>
+                      <pri-name>Kakwa</pri-name>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-07-18T15:43:09-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                      <tree-id type="integer">24218</tree-id>
+                      <codes>keo</codes>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10660</creator-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">943898</id>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                      <created-at type="datetime">2013-07-18T15:43:09-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10660</updater-id>
+                      <pri-name>Nyangbara</pri-name>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-07-18T15:43:09-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                      <tree-id type="integer">24218</tree-id>
+                      <codes>bfa-nya</codes>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10660</creator-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">943897</id>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                      <created-at type="datetime">2013-07-18T15:43:09-04:00</created-at>
+                    </child>
+                  </children>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <creator-id type="integer">10660</creator-id>
+                  <pub-comments></pub-comments>
+                  <id type="integer">943894</id>
+                  <confidence>y</confidence>
+                  <alt-names></alt-names>
+                  <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                  <created-at type="datetime">2013-07-18T15:43:09-04:00</created-at>
+                </child>
+                <child>
+                  <updater-id type="integer">10660</updater-id>
+                  <pri-name>Great Lakes a</pri-name>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-at type="datetime">2013-07-18T15:43:09-04:00</updated-at>
+                  <sureness type="integer">0</sureness>
+                  <is-default type="integer">0</is-default>
+                  <start-date nil="true"></start-date>
+                  <node-type>Subgroup</node-type>
+                  <end-date nil="true"></end-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography nil="true"></geography>
+                  <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                  <tree-id type="integer">24218</tree-id>
+                  <codes>snil</codes>
+                  <children type="array">
+                    <child>
+                      <updater-id type="integer">10660</updater-id>
+                      <pri-name>Nandi-Suk</pri-name>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-07-18T15:43:09-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type>Subgroup</node-type>
+                      <end-date nil="true"></end-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                      <tree-id type="integer">24218</tree-id>
+                      <codes>kale</codes>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type-id type="integer">10000</node-type-id>
+                      <creator-id type="integer">10660</creator-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">943893</id>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                      <created-at type="datetime">2013-07-18T15:43:09-04:00</created-at>
+                    </child>
+                  </children>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <creator-id type="integer">10660</creator-id>
+                  <pub-comments></pub-comments>
+                  <id type="integer">943892</id>
+                  <confidence>y</confidence>
+                  <alt-names></alt-names>
+                  <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                  <created-at type="datetime">2013-07-18T15:43:09-04:00</created-at>
+                </child>
+              </children>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10000</node-type-id>
+              <creator-id type="integer">10660</creator-id>
+              <pub-comments></pub-comments>
+              <id type="integer">943891</id>
+              <confidence>y</confidence>
+              <alt-names>Nilo-Hamitic</alt-names>
+              <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+              <created-at type="datetime">2013-07-18T15:43:08-04:00</created-at>
+            </child>
+            <child>
+              <updater-id type="integer">10660</updater-id>
+              <pri-name>Nilotic</pri-name>
+              <deleted-at nil="true"></deleted-at>
+              <updated-at type="datetime">2013-07-18T15:43:08-04:00</updated-at>
+              <sureness type="integer">0</sureness>
+              <is-default type="integer">0</is-default>
+              <start-date nil="true"></start-date>
+              <node-type>Subgroup</node-type>
+              <end-date nil="true"></end-date>
+              <node-status-id nil="true"></node-status-id>
+              <geography nil="true"></geography>
+              <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+              <tree-id type="integer">24218</tree-id>
+              <codes>wnil</codes>
+              <children type="array">
+                <child>
+                  <updater-id type="integer">10660</updater-id>
+                  <pri-name>Luo group</pri-name>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-at type="datetime">2013-07-18T15:43:08-04:00</updated-at>
+                  <sureness type="integer">0</sureness>
+                  <is-default type="integer">0</is-default>
+                  <start-date nil="true"></start-date>
+                  <node-type>Subgroup</node-type>
+                  <end-date nil="true"></end-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography nil="true"></geography>
+                  <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                  <tree-id type="integer">24218</tree-id>
+                  <codes>luoo</codes>
+                  <children type="array">
+                    <child>
+                      <updater-id type="integer">10660</updater-id>
+                      <pri-name>Shilluk</pri-name>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-07-18T15:43:08-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                      <tree-id type="integer">24218</tree-id>
+                      <codes>shk</codes>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10660</creator-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">943880</id>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                      <created-at type="datetime">2013-07-18T15:43:08-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10660</updater-id>
+                      <pri-name>Bor</pri-name>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-07-18T15:43:08-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                      <tree-id type="integer">24218</tree-id>
+                      <codes>bxb</codes>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10660</creator-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">943882</id>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                      <created-at type="datetime">2013-07-18T15:43:08-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10660</updater-id>
+                      <pri-name>Jaluo</pri-name>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-07-18T15:43:08-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                      <tree-id type="integer">24218</tree-id>
+                      <codes>720</codes>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10660</creator-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">943887</id>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                      <created-at type="datetime">2013-07-18T15:43:08-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10660</updater-id>
+                      <pri-name>Alur</pri-name>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-07-18T15:43:08-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                      <tree-id type="integer">24218</tree-id>
+                      <codes>alz</codes>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10660</creator-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">943885</id>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                      <created-at type="datetime">2013-07-18T15:43:08-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10660</updater-id>
+                      <pri-name>Budama</pri-name>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-07-18T15:43:08-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                      <tree-id type="integer">24218</tree-id>
+                      <codes>adh</codes>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10660</creator-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">943889</id>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                      <created-at type="datetime">2013-07-18T15:43:08-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10660</updater-id>
+                      <pri-name>Luo</pri-name>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-07-18T15:43:08-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                      <tree-id type="integer">24218</tree-id>
+                      <codes>luo</codes>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10660</creator-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">943888</id>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                      <created-at type="datetime">2013-07-18T15:43:08-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10660</updater-id>
+                      <pri-name>Acholi</pri-name>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-07-18T15:43:08-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                      <tree-id type="integer">24218</tree-id>
+                      <codes>ach</codes>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10660</creator-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">943883</id>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                      <created-at type="datetime">2013-07-18T15:43:08-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10660</updater-id>
+                      <pri-name>Chopi</pri-name>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-07-18T15:43:08-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                      <tree-id type="integer">24218</tree-id>
+                      <codes>ach-dho</codes>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10660</creator-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">943886</id>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                      <created-at type="datetime">2013-07-18T15:43:08-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10660</updater-id>
+                      <pri-name>Anuak</pri-name>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-07-18T15:43:08-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                      <tree-id type="integer">24218</tree-id>
+                      <codes>anu</codes>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10660</creator-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">943881</id>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                      <created-at type="datetime">2013-07-18T15:43:08-04:00</created-at>
+                    </child>
+                    <child>
+                      <updater-id type="integer">10660</updater-id>
+                      <pri-name>Lango</pri-name>
+                      <deleted-at nil="true"></deleted-at>
+                      <updated-at type="datetime">2013-07-18T15:43:08-04:00</updated-at>
+                      <sureness type="integer">0</sureness>
+                      <is-default type="integer">0</is-default>
+                      <start-date nil="true"></start-date>
+                      <node-type>Language</node-type>
+                      <end-date nil="true"></end-date>
+                      <node-status-id nil="true"></node-status-id>
+                      <geography nil="true"></geography>
+                      <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                      <tree-id type="integer">24218</tree-id>
+                      <codes>laj</codes>
+                      <children type="array"/>
+                      <status nil="true"></status>
+                      <other-codes></other-codes>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <creator-id type="integer">10660</creator-id>
+                      <pub-comments></pub-comments>
+                      <id type="integer">943884</id>
+                      <confidence>y</confidence>
+                      <alt-names></alt-names>
+                      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                      <created-at type="datetime">2013-07-18T15:43:08-04:00</created-at>
+                    </child>
+                  </children>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <creator-id type="integer">10660</creator-id>
+                  <pub-comments></pub-comments>
+                  <id type="integer">943879</id>
+                  <confidence>y</confidence>
+                  <alt-names></alt-names>
+                  <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                  <created-at type="datetime">2013-07-18T15:43:08-04:00</created-at>
+                </child>
+                <child>
+                  <updater-id type="integer">10660</updater-id>
+                  <pri-name>Dinka-Nuer</pri-name>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-at type="datetime">2013-07-18T15:43:08-04:00</updated-at>
+                  <sureness type="integer">0</sureness>
+                  <is-default type="integer">0</is-default>
+                  <start-date nil="true"></start-date>
+                  <node-type>Subgroup</node-type>
+                  <end-date nil="true"></end-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography nil="true"></geography>
+                  <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                  <tree-id type="integer">24218</tree-id>
+                  <codes>dinn</codes>
+                  <children type="array"/>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <creator-id type="integer">10660</creator-id>
+                  <pub-comments>Greenberg does not explicitly state whether he intends this to be a language or a subgroup. It has been interpreted in this tree to be a language, because the majority of scholars currently believe that Dinka and Nuer are separate languages.</pub-comments>
+                  <id type="integer">943890</id>
+                  <confidence>y</confidence>
+                  <alt-names></alt-names>
+                  <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                  <created-at type="datetime">2013-07-18T15:43:08-04:00</created-at>
+                </child>
+                <child>
+                  <updater-id type="integer">10660</updater-id>
+                  <pri-name>Burun</pri-name>
+                  <deleted-at nil="true"></deleted-at>
+                  <updated-at type="datetime">2013-07-18T15:43:08-04:00</updated-at>
+                  <sureness type="integer">0</sureness>
+                  <is-default type="integer">0</is-default>
+                  <start-date nil="true"></start-date>
+                  <node-type>Language</node-type>
+                  <end-date nil="true"></end-date>
+                  <node-status-id nil="true"></node-status-id>
+                  <geography nil="true"></geography>
+                  <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+                  <tree-id type="integer">24218</tree-id>
+                  <codes>bdi</codes>
+                  <children type="array"/>
+                  <status nil="true"></status>
+                  <other-codes></other-codes>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <creator-id type="integer">10660</creator-id>
+                  <pub-comments></pub-comments>
+                  <id type="integer">943878</id>
+                  <confidence>y</confidence>
+                  <alt-names></alt-names>
+                  <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+                  <created-at type="datetime">2013-07-18T15:43:08-04:00</created-at>
+                </child>
+              </children>
+              <status nil="true"></status>
+              <other-codes></other-codes>
+              <node-type-id type="integer">10000</node-type-id>
+              <creator-id type="integer">10660</creator-id>
+              <pub-comments></pub-comments>
+              <id type="integer">943877</id>
+              <confidence>y</confidence>
+              <alt-names></alt-names>
+              <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+              <created-at type="datetime">2013-07-18T15:43:08-04:00</created-at>
+            </child>
+          </children>
+          <status nil="true"></status>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10000</node-type-id>
+          <creator-id type="integer">10660</creator-id>
+          <pub-comments></pub-comments>
+          <id type="integer">943876</id>
+          <confidence>y</confidence>
+          <alt-names></alt-names>
+          <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+          <created-at type="datetime">2013-07-18T15:43:08-04:00</created-at>
+        </child>
+        <child>
+          <updater-id type="integer">10660</updater-id>
+          <pri-name>Nubian</pri-name>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2013-07-18T15:43:07-04:00</updated-at>
+          <sureness type="integer">0</sureness>
+          <is-default type="integer">0</is-default>
+          <start-date nil="true"></start-date>
+          <node-type>Subgroup</node-type>
+          <end-date nil="true"></end-date>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+          <tree-id type="integer">24218</tree-id>
+          <codes>nubn</codes>
+          <children type="array"/>
+          <status nil="true"></status>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10000</node-type-id>
+          <creator-id type="integer">10660</creator-id>
+          <pub-comments></pub-comments>
+          <id type="integer">943870</id>
+          <confidence>y</confidence>
+          <alt-names></alt-names>
+          <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+          <created-at type="datetime">2013-07-18T15:43:07-04:00</created-at>
+        </child>
+        <child>
+          <updater-id type="integer">10660</updater-id>
+          <pri-name>Dagu</pri-name>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2013-07-18T15:43:08-04:00</updated-at>
+          <sureness type="integer">0</sureness>
+          <is-default type="integer">0</is-default>
+          <start-date nil="true"></start-date>
+          <node-type>Subgroup</node-type>
+          <end-date nil="true"></end-date>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+          <tree-id type="integer">24218</tree-id>
+          <codes>daju</codes>
+          <children type="array"/>
+          <status nil="true"></status>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10000</node-type-id>
+          <creator-id type="integer">10660</creator-id>
+          <pub-comments></pub-comments>
+          <id type="integer">943875</id>
+          <confidence>y</confidence>
+          <alt-names></alt-names>
+          <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+          <created-at type="datetime">2013-07-18T15:43:08-04:00</created-at>
+        </child>
+        <child>
+          <updater-id type="integer">10660</updater-id>
+          <pri-name>Beir-Didinga</pri-name>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2013-07-18T15:43:07-04:00</updated-at>
+          <sureness type="integer">0</sureness>
+          <is-default type="integer">0</is-default>
+          <start-date nil="true"></start-date>
+          <node-type>Subgroup</node-type>
+          <end-date nil="true"></end-date>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+          <tree-id type="integer">24218</tree-id>
+          <codes>ddml</codes>
+          <children type="array"/>
+          <status nil="true"></status>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10000</node-type-id>
+          <creator-id type="integer">10660</creator-id>
+          <pub-comments></pub-comments>
+          <id type="integer">943871</id>
+          <confidence>y</confidence>
+          <alt-names></alt-names>
+          <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+          <created-at type="datetime">2013-07-18T15:43:07-04:00</created-at>
+        </child>
+        <child>
+          <updater-id type="integer">10660</updater-id>
+          <pri-name>Tabi</pri-name>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2013-07-18T15:43:08-04:00</updated-at>
+          <sureness type="integer">0</sureness>
+          <is-default type="integer">0</is-default>
+          <start-date nil="true"></start-date>
+          <node-type>Language</node-type>
+          <end-date nil="true"></end-date>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+          <tree-id type="integer">24218</tree-id>
+          <codes>tbi</codes>
+          <children type="array"/>
+          <status nil="true"></status>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <creator-id type="integer">10660</creator-id>
+          <pub-comments></pub-comments>
+          <id type="integer">943873</id>
+          <confidence>y</confidence>
+          <alt-names></alt-names>
+          <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+          <created-at type="datetime">2013-07-18T15:43:07-04:00</created-at>
+        </child>
+        <child>
+          <updater-id type="integer">10660</updater-id>
+          <pri-name>Merarit</pri-name>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2013-07-18T15:43:08-04:00</updated-at>
+          <sureness type="integer">0</sureness>
+          <is-default type="integer">0</is-default>
+          <start-date nil="true"></start-date>
+          <node-type>Subgroup</node-type>
+          <end-date nil="true"></end-date>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+          <tree-id type="integer">24218</tree-id>
+          <codes>tama</codes>
+          <children type="array"/>
+          <status nil="true"></status>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10000</node-type-id>
+          <creator-id type="integer">10660</creator-id>
+          <pub-comments></pub-comments>
+          <id type="integer">943874</id>
+          <confidence>y</confidence>
+          <alt-names></alt-names>
+          <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+          <created-at type="datetime">2013-07-18T15:43:08-04:00</created-at>
+        </child>
+        <child>
+          <updater-id type="integer">10660</updater-id>
+          <pri-name>Barea</pri-name>
+          <deleted-at nil="true"></deleted-at>
+          <updated-at type="datetime">2013-07-18T15:43:07-04:00</updated-at>
+          <sureness type="integer">0</sureness>
+          <is-default type="integer">0</is-default>
+          <start-date nil="true"></start-date>
+          <node-type>Language</node-type>
+          <end-date nil="true"></end-date>
+          <node-status-id nil="true"></node-status-id>
+          <geography nil="true"></geography>
+          <tree-val>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</tree-val>
+          <tree-id type="integer">24218</tree-id>
+          <codes>nrb</codes>
+          <children type="array"/>
+          <status nil="true"></status>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <creator-id type="integer">10660</creator-id>
+          <pub-comments>Greenberg does not explicitly state whether he intends this to be a language or a subgroup. It has been interpreted in this tree to be a language.</pub-comments>
+          <id type="integer">943872</id>
+          <confidence>y</confidence>
+          <alt-names></alt-names>
+          <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+          <created-at type="datetime">2013-07-18T15:43:07-04:00</created-at>
+        </child>
+      </children>
+      <status nil="true"></status>
+      <other-codes></other-codes>
+      <node-type-id type="integer">10000</node-type-id>
+      <creator-id type="integer">10660</creator-id>
+      <pub-comments></pub-comments>
+      <id type="integer">943869</id>
+      <confidence>y</confidence>
+      <alt-names></alt-names>
+      <publications>Greenberg, Joseph H. 1955. The Eastern Sudanic Family. In Joseph H. Greenberg, Studies in African Linguistics Classification, 62-79. New Haven: The Compass Publishing Company. </publications>
+      <created-at type="datetime">2013-07-18T15:43:07-04:00</created-at>
+    </root>
+    <description>Eastern Sudanic, a subtree of Nilo-Saharan: Greenberg 1955</description>
+  </tree>
+</hash>

@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Lower Mamberamo: Composite]
+BEGIN TREES;
+TRANSLATE lmam 'Lower Mamberamo',
+wsa Warembori,
+yki Yoke;
+TREE 12124 = [&R] (yki,wsa)lmam;
+END;

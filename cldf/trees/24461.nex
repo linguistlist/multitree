@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: South Nostratic: Blazek 1999]
+BEGIN TREES;
+TRANSLATE afas Afroasiatic,
+drav Dravidian,
+elx Elamite,
+snos 'South Nostratic',
+sux 'Pre-Sumerian';
+TREE 24461 = [&R] (sux,elx,afas,drav)snos;
+END;

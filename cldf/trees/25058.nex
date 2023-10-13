@@ -1,0 +1,37 @@
+#NEXUS
+[MultiTree: Tai, subtree of Tai-Kadai: Li 1960, 1977]
+BEGIN TREES;
+TRANSLATE 0rs 'Hsi-lin',
+0rs_0ry_yoy_tse_zgn 'Ts''e-heng-T''ien-chow',
+0ry 'T''ien-chow',
+1ao 'Ch''ien-chiang',
+24j 'Yung-ch''un',
+aho Ahom,
+aho_khb_shn_thw 'Lü-Ahom',
+blt 'Tai Noir',
+blt_lao_tha 'Siamese-Lao-Tai Noir',
+ctai Central,
+khb Lü,
+khb_thw 'Lü-Tai Blanc',
+lao Lao,
+lao_muo 'Muong-Phun',
+lao_tha 'Siamese-Lao',
+ntai Northern,
+nut Nung,
+nut_nuc 'Lung-chow',
+nut_nut_nuc 'Nung-Lung-chow',
+nut_nut_nuc_tyz_zzj 'Tay-Lung-chow',
+shn Shan,
+swta Southwestern,
+taix Tai,
+tha Siamese,
+thw 'Tai Blanc',
+tpo 'T''ien-pao',
+tyz Tay,
+yoy_tse 'T''se-heng',
+zgn 'Ling-yün',
+zqe_zgn_poa 'Po-ai',
+zyb_wum 'Wu-ming',
+zzj Tho;
+TREE 25058 = [&R] (((0rs,yoy_tse,zgn,0ry)0rs_0ry_yoy_tse_zgn,1ao,zyb_wum,zqe_zgn_poa)ntai,((shn,(thw,khb)khb_thw,aho)aho_khb_shn_thw,(((lao_muo)lao,tha)lao_tha,blt)blt_lao_tha)swta,(((nut_nuc,nut)nut_nut_nuc,tyz,zzj)nut_nut_nuc_tyz_zzj,24j,tpo)ctai)taix;
+END;

@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Australian Isolates:  Composite]
+BEGIN TREES;
+TRANSLATE 1jy Karranga,
+auis 'Australian Isolates',
+waq Wagiman;
+TREE 19805 = [&R] (1jy,waq)auis;
+END;

@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Maiduan: Golla, Goddard, Campbell, Mithun, and Mixco 2007]
+BEGIN TREES;
+TRANSLATE maid Maiduan,
+mjd Konkow,
+nmu_qp2_vmv Maidu,
+nsz Nisenan;
+TREE 16875 = [&R] (nmu_qp2_vmv,mjd,nsz)maid;
+END;

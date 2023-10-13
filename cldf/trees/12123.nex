@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Lower Mamberamo: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE lmam 'Lower Mamberamo',
+wsa Warembori,
+yki Yoke;
+TREE 12123 = [&R] (yki,wsa)lmam;
+END;

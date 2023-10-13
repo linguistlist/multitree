@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Afrasian: Diakonoff 1996, 1998]
+BEGIN TREES;
+TRANSLATE afas Afrasian,
+afsm Semitic,
+areg Egyptian,
+bej Bedauye,
+berb 'Berbero-Libyan',
+chad Chadic,
+cush Cushitic,
+eawa 'East-West Afrasian',
+nsaf 'North-South African';
+TREE 23658 = [&R] ((areg,chad)nsaf,(cush,afsm,berb,bej)eawa)afas;
+END;

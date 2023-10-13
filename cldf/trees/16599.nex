@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Takame-Jarúroan: Kaufman 2007]
+BEGIN TREES;
+TRANSLATE 0ip Takame,
+con Kofán,
+tcme 'Takame-Jarúroan',
+yae Jaruro;
+TREE 16599 = [&R] (con,0ip,yae)tcme;
+END;

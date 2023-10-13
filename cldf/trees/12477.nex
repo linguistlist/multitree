@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Mascoian: Dryer 2005]
+BEGIN TREES;
+TRANSLATE enl_enx Lengua,
+gva Guana,
+masc Mascoian;
+TREE 12477 = [&R] (enl_enx,gva)masc;
+END;

@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Teberan-Pawaian: Dryer 2005]
+BEGIN TREES;
+TRANSLATE mps Dadibi,
+pawa Pawaian,
+ppo Podopa,
+pwa Pawaian,
+tebe Teberan,
+tepa 'Teberan-Pawaian';
+TREE 12187 = [&R] ((ppo,mps)tebe,(pwa)pawa)tepa;
+END;

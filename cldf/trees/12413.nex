@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: North American Sign Language: Composite]
+BEGIN TREES;
+TRANSLATE nsgn 'North American Sign Language',
+psd 'Plains Indian Sign Language';
+TREE 12413 = [&R] (psd)nsgn;
+END;

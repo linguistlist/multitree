@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Harakmbet: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE amr Amarakaeri,
+amr_kis Kisambaeri,
+hara Harakmbet,
+hug Huachipaeri,
+hug_ara Arasairi,
+hug_hua Huachipaire,
+hug_sap Sapiteri,
+hug_toy Toyeri;
+TREE 10248 = [&R] ((amr_kis)amr,(hug_ara,hug_hua,hug_sap,hug_toy)hug)hara;
+END;

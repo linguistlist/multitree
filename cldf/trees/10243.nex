@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Barbacoan: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE ana Andaqui,
+andq Andaqui,
+barb Barbacoan,
+bpb Barbacoas,
+caco 'Cayapa-Colorado',
+cbi Chachi,
+coco Coconucan,
+cof Colorado,
+gum Guambiano,
+kwi 'Awa-Cuaiquer',
+past Pasto,
+ttk Totoro;
+TREE 10243 = [&R] ((ana)andq,(cbi,cof)caco,(gum,ttk)coco,(kwi,bpb)past)barb;
+END;

@@ -1,0 +1,19 @@
+#NEXUS
+[MultiTree: Proto-Samoyedic, subtree of Uralic: Abondolo 2008]
+BEGIN TREES;
+TRANSLATE enf_bay 'Forest Enets',
+enf_enh Enets,
+enh_kha 'Tundra Enets',
+mtm Mator,
+nio Nganasan,
+nsam 'Northern Samoyedic',
+says 'Sayan Samoyedic',
+sel Selkup,
+smoy 'Proto-Samoyedic',
+ssam 'Southern Samoyedic',
+xas Kamas,
+yrk Nenets,
+yrk_for 'Forest Nenets',
+yrk_tun 'Tundra Nenets';
+TREE 14657 = [&R] (((yrk_tun,yrk_for)yrk,(enh_kha,enf_bay)enf_enh,nio)nsam,((mtm,xas)says,sel)ssam)smoy;
+END;

@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Jivaroan: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE acu_hub_jiv Jívaro,
+agr Aguaruna,
+jiva Jivaroan;
+TREE 21940 = [&R] (agr,acu_hub_jiv)jiva;
+END;

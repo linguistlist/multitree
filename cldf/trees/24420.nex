@@ -1,0 +1,34 @@
+#NEXUS
+[MultiTree: Oceanic Pidgins and Creoles: Wurm 1971]
+BEGIN TREES;
+TRANSLATE 2xpe 'Native-based pidgins (and creoles)',
+4jb 'Native Davaueño',
+5j34 'European-based pidgins (and creoles)',
+8eb 'New Zealand pidgin',
+9ehe 'Oceanic pidgins and creoles',
+9ey 'New Hebrides French pidgin',
+9wj 'Common Portuguese Pidgin of the Eastern Seas',
+bis 'Beach-la-Mar',
+cbk Zamboangueño,
+cbk_cav Caviteño,
+cbk_dav Davaueño,
+cbk_erm Ermitaño,
+cks 'New Caledonia pidgin',
+hmo 'Police Motu',
+hwc 'Hawaiian pidgin',
+mcm 'Moluccas pidgin',
+msi 'Bazzar Malay',
+ngm 'Micronesian pidgin',
+oebp 'English-based',
+ofbc 'French-based',
+opbc 'Portuguese-based',
+oscb 'Spanish-based',
+pis 'Solomon Islands pidgin',
+qjw 'Bamboo Spanish',
+rop 'Australian pidgin',
+tmg Ternateño,
+tpi 'New Guinea pidgin',
+tvy 'Timor pidgin',
+tzn Tugu;
+TREE 24420 = [&R] (((8eb,bis,tpi,pis,rop,hwc,ngm)oebp,(cks,9ey)ofbc,(9wj,tvy,mcm,tzn)opbc,((cbk,cbk_dav,cbk_cav,cbk_erm)tmg,qjw)oscb)5j34,(msi,4jb,hmo)2xpe)9ehe;
+END;

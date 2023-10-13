@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <other-codes></other-codes>
+      <tree-id type="integer">12475</tree-id>
+      <sureness type="integer">0</sureness>
+      <status nil="true"></status>
+      <node-status-id nil="true"></node-status-id>
+      <created-at type="datetime">2009-05-19T18:47:37-04:00</created-at>
+      <geography nil="true"></geography>
+      <updated-by>joe_leif</updated-by>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 641. New York: Oxford University Press. ISBN 0199255911</publications>
+      <confidence>y</confidence>
+      <alt-names></alt-names>
+      <id type="integer">418172</id>
+      <pri-name>Chiquito</pri-name>
+      <node-type-id type="integer">10000</node-type-id>
+      <node-type>Subgroup</node-type>
+      <deleted-at nil="true"></deleted-at>
+      <children type="array">
+        <child>
+          <other-codes>cqt</other-codes>
+          <tree-id type="integer">12475</tree-id>
+          <sureness type="integer">0</sureness>
+          <status nil="true"></status>
+          <node-status-id nil="true"></node-status-id>
+          <created-at type="datetime">2009-05-19T18:47:37-04:00</created-at>
+          <geography>Country: Bolivia; Lat.: -17.5; Long.: -60</geography>
+          <updated-by>joe_leif</updated-by>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 641. New York: Oxford University Press. ISBN 0199255911</publications>
+          <confidence>y</confidence>
+          <alt-names>Chiquitano</alt-names>
+          <id type="integer">418173</id>
+          <pri-name>Chiquito</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+          <node-type>Language</node-type>
+          <deleted-at nil="true"></deleted-at>
+          <children type="array"/>
+          <tree-val>Chiquito: Dryer 2005</tree-val>
+          <start-date nil="true"></start-date>
+          <is-default type="integer">0</is-default>
+          <updater-id type="integer">10740</updater-id>
+          <updated-at type="datetime">2009-05-19T18:47:37-04:00</updated-at>
+          <pub-comments></pub-comments>
+          <created-by>joe_leif</created-by>
+          <codes>cax</codes>
+          <end-date nil="true"></end-date>
+          <creator-id type="integer">10740</creator-id>
+        </child>
+      </children>
+      <tree-val>Chiquito: Dryer 2005</tree-val>
+      <start-date nil="true"></start-date>
+      <is-default type="integer">0</is-default>
+      <updater-id type="integer">10740</updater-id>
+      <updated-at type="datetime">2009-05-19T18:47:37-04:00</updated-at>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <created-by>joe_leif</created-by>
+      <codes>chiq</codes>
+      <end-date nil="true"></end-date>
+      <creator-id type="integer">10740</creator-id>
+    </root>
+    <description>Chiquito: Dryer 2005</description>
+  </tree>
+</hash>

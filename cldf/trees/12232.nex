@@ -1,0 +1,26 @@
+#NEXUS
+[MultiTree: Altaic: Poppe 1982]
+BEGIN TREES;
+TRANSLATE altc 'Altaische Spracheinheit',
+bolg '*r-Dialekt',
+chv Tschuwaschisch,
+eve Ewenische,
+evn Ewenkische,
+gld Goldische,
+kor Koreanisch,
+kore Urkoreanisch,
+matg 'Mandschu-tungusische Sprachen',
+mmtg 'Mongolisch-mandschu-tungusische Spracheinheit',
+mnc Mandschu,
+mong 'Mongolische Sprachen',
+ntun 'Nördliche Mandschu-tungusische',
+pmon Urmongolisch,
+pmtg 'Urmandschu-tungusisch',
+ptbg Vortürkisch,
+stun 'Südlich Mandschu-tungusische',
+tmmt 'Türkisch-mongolisch-mandschu-tungusische Spracheinheit',
+turk Türksprachen,
+ude Udeheische,
+zdia '*z-Dialekt';
+TREE 12232 = [&R] ((((((ude,mnc,gld)stun,(evn,eve)ntun)matg)pmtg,(mong)pmon)mmtg,((turk)zdia,(chv)bolg)ptbg)tmmt,(kor)kore)altc;
+END;

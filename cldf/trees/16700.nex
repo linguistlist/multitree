@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Chitimacha: Golla, Goddard, Campbell, Mithun, Mixco 2007]
+BEGIN TREES;
+TRANSLATE 087_ctm_cha Chawasha,
+09b_ctm_was Washa,
+ctm Chitimacha,
+tnct Chitimacha;
+TREE 16700 = [&R] (087_ctm_cha,09b_ctm_was,ctm)tnct;
+END;

@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Yukian: Goddard 1996]
+BEGIN TREES;
+TRANSLATE wao Wappo,
+yuk Yuki,
+yuk_coa 'Coast Yuki',
+yuk_huc Huchnom,
+yuk_yuk Yuki,
+yuki Yukian;
+TREE 15342 = [&R] ((yuk_coa,yuk_huc,yuk_yuk)yuk,wao)yuki;
+END;

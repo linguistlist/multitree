@@ -1,0 +1,22 @@
+#NEXUS
+[MultiTree: Choco: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE ans Anserma,
+aoh Arma,
+bdc 'Emberá-Baudó',
+cca Cauca,
+choc Choco,
+cmi 'Emberá-Chamí',
+crf Caramanta,
+cto 'Emberá-Catío',
+embr Embera,
+emp 'Emberá, Northern',
+nemb 'Northern Embera',
+noa 'Woun Meu',
+rna Runa,
+semb 'Southern Embera',
+sja Epena,
+sja_bas Basurudó,
+tdc 'Emberá-Tadó';
+TREE 10246 = [&R] (ans,aoh,crf,cca,rna,noa,((emp,cto)nemb,(bdc,cmi,tdc,(sja_bas)sja)semb)embr)choc;
+END;

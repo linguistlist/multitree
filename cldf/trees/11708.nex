@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Muskogean: Mithun 1999]
+BEGIN TREES;
+TRANSLATE akz Alabama,
+cku Koasati,
+cmsk 'Central Muskogean',
+emsk 'Eastern Muskogean',
+mik Hitchiti,
+mus Creek,
+musk Muskogean,
+wmsk 'Choctaw-Chickasaw',
+xap Apalachee;
+TREE 11708 = [&R] ((mus)emsk,(wmsk)wmsk,(cku,mik,xap,akz)cmsk)musk;
+END;

@@ -1,0 +1,24 @@
+#NEXUS
+[MultiTree: Asian Unclassified Languages: Composite]
+BEGIN TREES;
+TRANSLATE 0p6 Lutescan,
+anr Andh,
+asun 'Asian Unclassified',
+btl Bhatola,
+ckh Chak,
+elx Elamitic,
+hmk Maek,
+mld Malakhel,
+mmj Majhwar,
+mmk 'Mukha-Dora',
+neo 'Ná-Meo',
+pkc Paekche,
+wxa Waxianghua,
+xht Hattian,
+xiv 'Indus Valley Language',
+xpp 'Puyo-Paekche',
+xpy Puyo,
+zkg Koguryo,
+zra Kara;
+TREE 12978 = [&R] (wxa,mmk,ckh,0p6,pkc,neo,hmk,zkg,zra,btl,mld,anr,elx,xpy,xiv,xpp,mmj,xht)asun;
+END;

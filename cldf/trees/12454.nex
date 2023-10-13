@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Aymaran: Dryer 2005]
+BEGIN TREES;
+TRANSLATE ayc_ayr Aymara,
+ayma Aymaran,
+jqr Jaqaru;
+TREE 12454 = [&R] (jqr,ayc_ayr)ayma;
+END;

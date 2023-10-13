@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Matacoan: Composite]
+BEGIN TREES;
+TRANSLATE cag Nivaclé,
+crq_crg_iyo 'Iyo''wujwa',
+crq_crg_man Manjuy,
+crq_crt Chorote,
+crt_crg_yoh Yohwaha,
+matc Matacoan,
+mca Maká,
+mtp Nocten,
+mzh Güisnay,
+wlv Vejos;
+TREE 17479 = [&R] (mca,(wlv,mzh,mtp)mtp,(crq_crg_man,crt_crg_yoh,crq_crg_iyo)crq_crt,cag)matc;
+END;

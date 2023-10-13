@@ -1,0 +1,33 @@
+#NEXUS
+[MultiTree: Proto-Karnic, subtree of Pama-Nyungan:  Bowern 2009]
+BEGIN TREES;
+TRANSLATE 0h3 Karawali,
+0h4 Mithaka,
+0uu Kungadutyi,
+arbw 'Arabana-Wangkangurru',
+ard Arabana,
+cekc 'Central-Eastern Karnic',
+dif Diyari,
+ding 'Diyari-Ngamini',
+dyrl 'Diyari-Yarluyandi',
+gll Garlali,
+hrp Nhirrpi,
+karc 'Proto-Karnic',
+karn 'Central Karnic',
+mayk 'Mayawali-Karawali',
+ngra 'Eastern Karnic',
+nmv Yarluyandi,
+ntg Ngantangarra,
+palk 'Northern Karnic',
+pit 'Pitta-Pitta',
+pitt 'Pitta-Pitta-Wangka-Jutjuru',
+wgg 'Wangka-Jutjuru',
+wkrc 'Western Karnic',
+xpt Punthamara,
+xwk Wangkumara,
+ynd Yandruwandha,
+yww Yawarrawarka,
+ywyn Yandruwandha,
+yxa Mayawali;
+TREE 21605 = [&R] ((((0uu,xpt,ntg)xwk,gll)ngra,((((dif,nmv)ding,nmv)dyrl)wkrc,(yww,ynd,hrp)ywyn,(0h3,0h4,yxa)mayk)karn)cekc,((wgg,ard)arbw,(wgg,pit)pitt)palk)karc;
+END;

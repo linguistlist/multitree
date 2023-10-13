@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: Comecrudan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE ccrd Comecrudan,
+xcm Comecrudo;
+TREE 15298 = [&R] (xcm)ccrd;
+END;

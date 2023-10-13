@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Matacoan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE cag Chulupí,
+crq_crt Chorote,
+matc Matacoan,
+mca Maca,
+mzh Wichí;
+TREE 10709 = [&R] (crq_crt,cag,mca,mzh)matc;
+END;

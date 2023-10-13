@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Asian Mixed Language: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE asml 'Asian Mixed Language',
+chtm 'Chinese-Tibetan-Mongolian',
+mud 'Aleut, Mednyj',
+pdwa 'Armenian-Romani',
+rmi Lomavren,
+rusa 'Russian-Aleut',
+wuh Wutunhua;
+TREE 11593 = [&R] ((rmi)pdwa,(mud)rusa,(wuh)chtm)asml;
+END;

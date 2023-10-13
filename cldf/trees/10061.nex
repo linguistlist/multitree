@@ -1,0 +1,28 @@
+#NEXUS
+[MultiTree: Eskimo-Aleut: Campbell 1997]
+BEGIN TREES;
+TRANSLATE alas 'Alaskan Yupik',
+ale Aleut,
+ale_atk Atkan,
+ale_att Attuan,
+ale_eas 'Eastern Aleut',
+ale_wes 'Western Aleut',
+ems 'Pacific Yupik',
+ems_chu Chugach,
+ems_kon Koniag,
+eska 'Eskimo-Aleut',
+eski Eskimo,
+ess 'Central Siberian Yupik',
+esu 'Central Alaskan Yupik',
+esu_agl Aglurmiut,
+esu_gcy 'General Central Yupik',
+esu_hoo 'Hooper Bay-Chevak',
+esu_nor 'Norton Sound',
+esu_nun Nunivak,
+esu_yuk 'Yukon-Kuskokwim',
+inui 'Inuit-Inupiaq',
+ynk Naukanski,
+ysr Sirenikski,
+yupi Yupik;
+TREE 10061 = [&R] (((ale_atk,ale_att)ale_wes,ale_eas)ale,((ynk,ysr,ess,((ems_chu,ems_kon)ems,(esu_yuk,esu_hoo,esu_nun,esu_nor,esu_gcy,esu_agl)esu)alas)yupi,inui)eski)eska;
+END;

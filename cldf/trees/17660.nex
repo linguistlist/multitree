@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Lencan: Composite]
+BEGIN TREES;
+TRANSLATE 062 Chilanga,
+len Lenka,
+len_kar Kare,
+len_kol Kolo,
+len_ser Serkin,
+lenc Lenkan;
+TREE 17660 = [&R] (len_ser,len_kol,len_kar,062,len)lenc;
+END;

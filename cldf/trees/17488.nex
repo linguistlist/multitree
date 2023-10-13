@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Zamucoan: Composite]
+BEGIN TREES;
+TRANSLATE ayo Ayoreo,
+ayo_tsc Tsiricua,
+ayo_tsi Tsiracua,
+ceg Chamacoco,
+ceg_cha 'Chamacoco Bravo',
+ceg_ebi Ebitoso,
+zamu Zamucoan;
+TREE 17488 = [&R] ((ceg_cha,ceg_ebi)ceg,(ayo_tsi,ayo_tsc)ayo)zamu;
+END;

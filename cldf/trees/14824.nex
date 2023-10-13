@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Pacific Unclassified Languages: Composite]
+BEGIN TREES;
+TRANSLATE bfe Betaf,
+dol Doso,
+khh Kehu,
+lpe Lepki,
+paun 'Pacific Unclassified',
+rmh Murkim,
+tqm Turumsa,
+xkw Kembra,
+xxt Tambora;
+TREE 14824 = [&R] (khh,lpe,dol,bfe,rmh,xkw,tqm,xxt)paun;
+END;

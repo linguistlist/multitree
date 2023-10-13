@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Coahuilteco: Mithun 1999]
+BEGIN TREES;
+TRANSLATE xcw Coahuilteco,
+xcw_paj Pajalate,
+xcw_rio 'Rio Grande Coahuilteco',
+xcw_san 'San Antonio Coahuilteco';
+TREE 11948 = [&R] (xcw_san,xcw_rio,xcw_paj)xcw;
+END;

@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Sino-Tibetan: Matisoff 2006]
+BEGIN TREES;
+TRANSLATE baii Baic,
+bodg 'Bodo-Garo',
+chin Chinese,
+hims Himalayish,
+jnlu Kachinic,
+kare Karenic,
+kchn 'Kuki-Chin-Naga',
+kmrp Kamarupan,
+lolb 'Lolo-Burmese',
+qinc Qiangic,
+sitb 'Sino-Tibetan',
+tani 'Abor-Miri-Dafla',
+tbur 'Tibeto-Burman';
+TREE 25458 = [&R] (((kchn,tani,bodg)kmrp,baii,kare,hims,lolb,jnlu,qinc)tbur,chin)sitb;
+END;

@@ -1,0 +1,33 @@
+#NEXUS
+[MultiTree: Tupian: Dryer 2005]
+BEGIN TREES;
+TRANSLATE arik Arikem,
+arr 'Karó (Arára)',
+asu Asuriní,
+cod Cocama,
+ftr Tupi,
+gub Guajajara,
+gug Guaraní,
+gui Chiriguano,
+guq Aché,
+gvo Gavião,
+jua Júma,
+jur Juruna,
+kay Kamaiurá,
+kgk Kaiwá,
+ktn Karitiâna,
+kxo Mekens,
+mond Monde,
+munk Munduruku,
+myu Mundurukú,
+omg Omagua,
+oym Wayampi,
+rmra Ramarama,
+srq Sirionó,
+tgua 'Tupi-Guaraní',
+tpj Tapieté,
+tupi Tupian,
+tupr Tupari,
+urb 'Urubú-Kaapor';
+TREE 10735 = [&R] ((ktn)arik,(gvo)mond,(myu)munk,(arr)rmra,(kxo)tupr,(guq,asu,gui,cod,gub,gug,jua,jur,kgk,kay,omg,srq,tpj,ftr,urb,oym)tgua)tupi;
+END;

@@ -1,0 +1,27 @@
+#NEXUS
+[MultiTree: Arnhem: Composite]
+BEGIN TREES;
+TRANSLATE alaw Alawan,
+alh Alawa,
+aoi Anindilyakwa,
+enin 'East Arnhem',
+gbu Gagadju,
+gbu_wad Wada,
+ggk Kungarakany,
+mara Mara,
+mec Marra,
+mngy Mangarayic,
+mpc Mangarrayi,
+mran Maran,
+nid Ngandi,
+nig Ngalakgan,
+nuy 'Wubuy ',
+parn Arnhem,
+remb 'Rembarrnga-Ngalakgan',
+rmb Rembarrnga,
+rmb_gal Galduyh,
+rmb_nea 'Northeastern Rembarrnga',
+wnd Warndarrang,
+ygu Yugul;
+TREE 19806 = [&R] ((mpc)mngy,ggk,((wnd)mara,ygu)mran,(alh)alaw,(nig,(rmb_nea,rmb_gal)rmb)remb,(gbu_wad)gbu,(aoi,nuy,nid,mec)enin)parn;
+END;

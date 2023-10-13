@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Natchez: Golla, Goddard, Campbell, Mithun, Mixco 2007]
+BEGIN TREES;
+TRANSLATE 01f Taensa,
+068 Colapissa,
+ncz Natchez,
+ntzm Natchez;
+TREE 16997 = [&R] (068,ncz,01f)ntzm;
+END;

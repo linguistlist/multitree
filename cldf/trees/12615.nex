@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Yukaghir: Dryer 2005]
+BEGIN TREES;
+TRANSLATE ykg 'Yukaghir (Tundra)',
+yuka Yukaghir,
+yux 'Yukaghir (Kolyma)';
+TREE 12615 = [&R] (yux,ykg)yuka;
+END;

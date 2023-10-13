@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Australian Pidgins and Creoles: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE aucr 'Australian Creoles',
+aupc 'Australian Pidgins and Creoles',
+aupi 'Australian Pidgins',
+bpl 'Broome Pearling Lugger Pidgin',
+ebcr 'English based',
+malb 'Malay based',
+pacr Pacific,
+rop Kriol,
+rop_bam 'Bamyili Creole',
+rop_bar 'Barkly Kriol',
+rop_dal 'Daly River Kriol',
+rop_fit 'Fitzroy Valley Kriol',
+rop_rop 'Roper River Kriol',
+tcs 'Torres Strait Creole',
+tcs_apn 'Ap-Ne-Ap',
+tcs_mod 'Modern Langus';
+TREE 11706 = [&R] (((((rop_fit,rop_rop,rop_bar,rop_bam,rop_dal)rop,(tcs_mod,tcs_apn)tcs)pacr)ebcr)aucr,((bpl)malb)aupi)aupc;
+END;

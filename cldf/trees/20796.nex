@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Diaguita: Krickeberg & Jimenez Moreno 1937]
+BEGIN TREES;
+TRANSLATE 0z6 Calchaquí,
+1nf Sanavirones,
+1ng Comechingones,
+1nm Omaguaca,
+daig Diaguita;
+TREE 20796 = [&R] (1ng,1nf,1nm,0z6)daig;
+END;

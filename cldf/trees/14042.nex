@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Chinookan: Powell 1891]
+BEGIN TREES;
+TRANSLATE 0t3 Cooniac,
+chh Chinookan,
+chh_cla Clatsop,
+chh_clc Clackama,
+chik Chinookan,
+lchn 'Lower Chinook',
+qp8 Cathlamet,
+uchn 'Upper Chinook',
+wac Wasco,
+wac_mul Multnoma,
+wac_whi Chilluckquittequaw,
+wac_wis Echeloot;
+TREE 14042 = [&R] ((wac,wac_wis,0t3,wac_whi,wac_mul,chh_clc,qp8)uchn,(chh,chh_cla)lchn)chik;
+END;

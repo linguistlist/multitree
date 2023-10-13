@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Yeniseian: Dryer 2005]
+BEGIN TREES;
+TRANSLATE ket Ket,
+yeos Yeniseian,
+yuu Yugh,
+zko Kott;
+TREE 11810 = [&R] (yuu,zko,ket)yeos;
+END;

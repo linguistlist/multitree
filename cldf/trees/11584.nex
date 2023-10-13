@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: North American Language Isolates: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE kut Kutenai,
+nais 'North American Language Isolate',
+yuc Yuchi,
+zun Zuni;
+TREE 11584 = [&R] (yuc,zun,kut)nais;
+END;

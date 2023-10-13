@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Chimakuan: Powell 1891]
+BEGIN TREES;
+TRANSLATE chmn Chimakuan,
+qui 'Quile-ute',
+qui_hoh Hoh,
+xch Chimakum;
+TREE 15296 = [&R] ((qui_hoh)qui,xch)chmn;
+END;

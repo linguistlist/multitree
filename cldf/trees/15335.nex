@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Yukian: Campbell 1997]
+BEGIN TREES;
+TRANSLATE qdw 'Coast Yuki',
+qiq Huchnom,
+wao Wappo,
+ykx Yuki,
+yuk 'Core Yukian',
+yuki Yukian;
+TREE 15335 = [&R] ((qdw,ykx,qiq)yuk,wao)yuki;
+END;

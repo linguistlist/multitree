@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Sko: Dryer 2005]
+BEGIN TREES;
+TRANSLATE cyvl 'Western Sko',
+kris Krisa,
+ksi 'I''saka',
+lytz 'Eastern Sko',
+rwa 'Poko-Rawo',
+skoo Sko,
+skv Sko,
+vam Dumo,
+wmx Womo;
+TREE 14826 = [&R] ((vam,skv)cyvl,(ksi)kris,(wmx,rwa)lytz)skoo;
+END;

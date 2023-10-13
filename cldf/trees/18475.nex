@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Proto Mirndi: Harvey 2008]
+BEGIN TREES;
+TRANSLATE djam Yirram,
+djd Jaminjung,
+djd_nga Ngaliwurru,
+jig Jingulu,
+jngl Jingulu,
+mndi 'Proto Mirndi',
+nji_bin_wmb_bin Binbinka,
+nji_nji_nga Ngarnka,
+nji_wmb_gud Gudanji,
+nug Nungali,
+wamb Ngurlun,
+wmb Wambayan,
+wmb_wam Wambaya;
+TREE 18475 = [&R] ((jig)jngl,((nji_wmb_gud,wmb_wam,nji_bin_wmb_bin)wmb,nji_nji_nga)wamb,((djd,djd_nga)djd,nug)djam)mndi;
+END;

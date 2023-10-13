@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Muskogean: Golla, Goddard, Campbell, Mithun, Mixco 2007]
+BEGIN TREES;
+TRANSLATE 067 Chakchiuma,
+akz Alabama,
+cho Choctaw,
+cic Chickasaw,
+cku Koasati,
+emsk 'Eastern Muskogean',
+mik 'Hitchiti-Mikasuki',
+mus Creek,
+musk Muskogean,
+wmsk 'Western Muskogean',
+xap Apalachee;
+TREE 16995 = [&R] ((mus,cku,mik,akz,xap)emsk,(067,cic,cho)wmsk)musk;
+END;

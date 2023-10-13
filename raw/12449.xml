@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <updated-by>joe_leif</updated-by>
+      <tree-val>Urarina: Dryer 2005</tree-val>
+      <id type="integer">418090</id>
+      <start-date nil="true"></start-date>
+      <node-type>Subgroup</node-type>
+      <created-at type="datetime">2009-05-19T17:44:44-04:00</created-at>
+      <node-status-id nil="true"></node-status-id>
+      <confidence>y</confidence>
+      <alt-names></alt-names>
+      <sureness type="integer">0</sureness>
+      <other-codes></other-codes>
+      <updated-at type="datetime">2009-05-19T17:44:44-04:00</updated-at>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637. New York: Oxford University Press. ISBN 0199255911</publications>
+      <tree-id type="integer">12449</tree-id>
+      <geography nil="true"></geography>
+      <children type="array">
+        <child>
+          <updated-by>joe_leif</updated-by>
+          <tree-val>Urarina: Dryer 2005</tree-val>
+          <id type="integer">418091</id>
+          <start-date nil="true"></start-date>
+          <node-type>Language</node-type>
+          <created-at type="datetime">2009-05-19T17:44:44-04:00</created-at>
+          <node-status-id nil="true"></node-status-id>
+          <confidence>y</confidence>
+          <alt-names></alt-names>
+          <sureness type="integer">0</sureness>
+          <other-codes>urn</other-codes>
+          <updated-at type="datetime">2009-05-19T17:44:44-04:00</updated-at>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 637. New York: Oxford University Press. ISBN 0199255911</publications>
+          <tree-id type="integer">12449</tree-id>
+          <geography>Country: Peru; Lat.: -4; Long.: -75</geography>
+          <children type="array"/>
+          <updater-id type="integer">10740</updater-id>
+          <pub-comments></pub-comments>
+          <end-date nil="true"></end-date>
+          <deleted-at nil="true"></deleted-at>
+          <node-type-id type="integer">10001</node-type-id>
+          <is-default type="integer">0</is-default>
+          <created-by>joe_leif</created-by>
+          <status nil="true"></status>
+          <pri-name>Urarina</pri-name>
+          <creator-id type="integer">10740</creator-id>
+          <codes>ura</codes>
+        </child>
+      </children>
+      <updater-id type="integer">10740</updater-id>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <end-date nil="true"></end-date>
+      <deleted-at nil="true"></deleted-at>
+      <node-type-id type="integer">10000</node-type-id>
+      <is-default type="integer">0</is-default>
+      <created-by>joe_leif</created-by>
+      <status nil="true"></status>
+      <pri-name>Urarina</pri-name>
+      <creator-id type="integer">10740</creator-id>
+      <codes>urar</codes>
+    </root>
+    <description>Urarina: Dryer 2005</description>
+  </tree>
+</hash>

@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Yukaghir: Composite]
+BEGIN TREES;
+TRANSLATE omk Omok,
+xcv Chuvantsy,
+ykg 'Yukaghir, Northern',
+yuka Yukaghir,
+yux 'Yukaghir, Southern';
+TREE 12617 = [&R] (yux,omk,ykg,xcv)yuka;
+END;

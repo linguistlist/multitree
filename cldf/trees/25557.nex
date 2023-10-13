@@ -1,0 +1,37 @@
+#NEXUS
+[MultiTree: Miao-Yao: Purnell 1970]
+BEGIN TREES;
+TRANSLATE cmia 'Central Miao',
+cqd_dan 'Hua-chieh',
+cqd_mag 'Su-yung',
+cqdn 'West A',
+easa 'East A',
+hea_hmq_hms_dai 'Tai-kung',
+hea_hmq_hms_lus 'Lu-shan',
+hea_kai 'K''ai-li',
+hea_tai 'T''ai-chiang',
+hea_zhe 'Cheng-feng',
+hmd 'Wei-ning',
+hmg_hmy_huj 'Kwang-shun',
+hmi 'Kwei-chu',
+hml 'Lung-li',
+hmom 'Proto-Miao-Yao',
+hmon 'Proto-Miao',
+hmpr 'Western Miao',
+hms_ron 'Jung-chiang',
+hnj Tak,
+hsch 'Hsing-an-Chiengrai',
+ium_chi Chiengrai,
+ium_tpn Taipan,
+ium_xan 'Hsing-an',
+iumn 'Iu Mien',
+kimm 'Kim Mun',
+mien 'Proto-Yao',
+mji_hai Haininh,
+mji_lch 'Ling-chun',
+mmr 'Hua-yuan',
+mww_mww_pet Petchabun,
+qian 'Eastern Miao',
+xian 'Northern Miao';
+TREE 25557 = [&R] (((hmi,hml)cmia,((hea_hmq_hms_lus,hea_tai,hea_kai,hea_zhe,hea_hmq_hms_dai)easa,hms_ron)qian,((cqd_mag,mww_mww_pet,hnj,cqd_dan)cqdn,hmg_hmy_huj,hmd)hmpr,(mmr)xian)hmon,((mji_lch,mji_hai)kimm,(ium_tpn,(ium_xan,ium_chi)hsch)iumn)mien)hmom;
+END;

@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Chinookan: Mithun 1999]
+BEGIN TREES;
+TRANSLATE chh 'Lower Chinook',
+chh_cla Clatsop,
+chh_clc Clackamas,
+chh_sho Shoalwater,
+chik Chinookan,
+qp8 Kathlamet,
+wac 'Wasco-Wishram',
+wac_cas Cascades,
+wac_hoo 'Hood River',
+wac_mul Multnomah,
+wac_whi 'White Salmon';
+TREE 10875 = [&R] ((chh_cla,chh_sho)chh,qp8,(wac_mul,chh_clc,wac_cas,wac_whi,wac_hoo,wac)wac)chik;
+END;

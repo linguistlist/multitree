@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Ural-Altaic: Anonymous 1926]
+BEGIN TREES;
+TRANSLATE fugr 'Finno-Ugrian',
+fust 'Finno-Ugro-Samoyed-Tungusic',
+mnc Manchu,
+mong Mongol,
+motu 'Mongolo-Turkic',
+turk Turkish,
+ualt 'Ural-Altaic';
+TREE 11415 = [&R] ((mnc,fugr)fust,(mong,turk)motu)ualt;
+END;

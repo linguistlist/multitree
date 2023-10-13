@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Australian Pidgins and Creoles: Composite]
+BEGIN TREES;
+TRANSLATE aucr 'Australian Creole',
+aupc 'Australian Pidgins and Creoles',
+aupi 'Australian Pidgin',
+bpl 'Broome Pearling Lugger Pidgin',
+rop Kriol,
+rop_bam 'Bamyili Creole',
+rop_bar 'Barkly Kriol',
+rop_dal 'Daly River Kriol',
+rop_fit 'Fitzroy Valley Kriol',
+rop_rop 'Roper River Kriol',
+tcs 'Torres Strait Creole',
+tcs_apn 'Ap-Ne-Ap',
+tcs_mod 'Modern Langus',
+uebc 'English based',
+umbp 'Malay based',
+upac Pacific;
+TREE 11894 = [&R] (((((rop_fit,rop_rop,rop_bar,rop_bam,rop_dal)rop,(tcs_mod,tcs_apn)tcs)upac)uebc)aucr,((bpl)umbp)aupi)aupc;
+END;

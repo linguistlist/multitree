@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Amto-Musian Phylum-Level Family: Wurm 1982]
+BEGIN TREES;
+TRANSLATE amt Amto,
+amto 'Amto-Musian',
+mmp Musian;
+TREE 13955 = [&R] (mmp,amt)amto;
+END;

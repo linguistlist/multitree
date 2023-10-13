@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Guacurian: Campbell 1997]
+BEGIN TREES;
+TRANSLATE crz Isleño,
+gcra Guaicura,
+gcrn Guacurian,
+hcht Huchiti,
+prcu Pericú,
+qg6 Callejue,
+qjg Guaicura,
+qk4 Huchiti,
+qm7 Periué,
+qny Cora,
+qp0 Pericú,
+qt5 Aripe;
+TREE 15235 = [&R] ((crz,qp0)prcu,(qny,qt5,qk4,qm7)hcht,(qjg,qg6)gcra)gcrn;
+END;

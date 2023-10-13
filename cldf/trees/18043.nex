@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: Takelman: Composite]
+BEGIN TREES;
+TRANSLATE takm Takelman,
+tkm Takelma;
+TREE 18043 = [&R] (tkm)takm;
+END;

@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Plateau: Golla, Goddard, Campbell, Mithun, Mixco 2007]
+BEGIN TREES;
+TRANSLATE kla 'Klamath-Modoc',
+klmo Klamath,
+mbe Molala,
+mlla Molala,
+nez 'Nez Perce',
+penu Plateau,
+qot_tqn_uma_waa_yak Sahaptin,
+shap Sahaptian;
+TREE 16999 = [&R] ((kla)klmo,(qot_tqn_uma_waa_yak,nez)shap,(mbe)mlla)penu;
+END;

@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Gunwinyguan-Tangkic-Karrwan-Pama-Nyungan: Evans and Jones 1997]
+BEGIN TREES;
+TRANSLATE gara Karrwan,
+gtkp 'Gunwinyguan-Tangkic-Karrwan-Pama-Nyungan',
+gunw Gunwinyguan,
+krpn 'Karrwan-Pama-Nyungan',
+pnyu 'Proto-Pama-Nyungan',
+tkpn 'Tangkic-Karrwan-Pama-Nyungan',
+tngc Tangkic,
+wny Wanyi,
+wrk Karrwa;
+TREE 17955 = [&R] ((((wny,wrk)gara,pnyu)krpn,tngc)tkpn,gunw)gtkp;
+END;

@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Shoshonean: Powell 1891]
+BEGIN TREES;
+TRANSLATE com Comanche,
+hop Tusayan,
+mnr Saidyuka,
+numi Shoshonean,
+pao_ban Bannock,
+pao_ute Paviotso,
+shh Shoshoni,
+shh_gos Gosiute,
+ute 'Pai Ute',
+ute_che Chemehuevi,
+ute_tuk Tukuarika,
+ute_ute Ute,
+xgf Tobikhar;
+TREE 14740 = [&R] (xgf,com,ute_tuk,ute_che,pao_ban,mnr,ute,shh_gos,pao_ute,shh,hop,ute_ute)numi;
+END;

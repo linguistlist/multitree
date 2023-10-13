@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Tor: Dryer 2005]
+BEGIN TREES;
+TRANSLATE bkl Berik,
+toor Tor,
+ury Orya;
+TREE 12131 = [&R] (bkl,ury)toor;
+END;

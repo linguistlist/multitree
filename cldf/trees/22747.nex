@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Asmat-Kamoro, a sub-tree of Trans New Guinea: Voorhoeve 2005]
+BEGIN TREES;
+TRANSLATE asc 'Casuarina Coast Asmat',
+asi Sabakor,
+aska 'Asmat-Kamoro family',
+asma 'Asmat sub-family',
+cns 'Central Asmat',
+kgq Kamoro,
+nks 'North Asmat',
+txt 'Citak Asmat',
+xse Sempan;
+TREE 22747 = [&R] ((nks,txt,asc,cns)asma,asi,xse,kgq)aska;
+END;

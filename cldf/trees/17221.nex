@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Jivaroan: Composite]
+BEGIN TREES;
+TRANSLATE acu_hub_jiv Jívaro,
+agr Aguaruna,
+jiva Jivaroan;
+TREE 17221 = [&R] (agr,acu_hub_jiv)jiva;
+END;

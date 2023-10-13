@@ -1,0 +1,24 @@
+#NEXUS
+[MultiTree: Mariposan: Powell 1891]
+BEGIN TREES;
+TRANSLATE 001 Kassovo,
+002 Tinlinneh,
+0ut 'Pohallin Tinleh',
+yok Yukol,
+yok_ayt Ititcha,
+yok_chk 'Chuk''chansi',
+yok_chu Chunut,
+yok_chy Chainímaini,
+yok_cky Chukaímina,
+yok_mer Coconun,
+yok_nop Notoanaiti,
+yok_tac Tachi,
+yok_tel Telumni,
+yok_tis Tisechu,
+yok_tul 'Tule River',
+yok_wec Wíchikik,
+yok_wik Wikchumni,
+yok_wis Wíksachi,
+yoku Mariposan;
+TREE 14125 = [&R] (yok_wis,002,yok_wik,yok_nop,yok_mer,yok_chu,yok_tel,yok_chk,yok_cky,001,0ut,yok_ayt,yok_tis,yok_chy,yok_wec,yok_tul,yok,yok_tac)yoku;
+END;

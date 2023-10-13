@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Austroasiatic: Diffloth 1974]
+BEGIN TREES;
+TRANSLATE ausa AUSTROASIATIC,
+bahn BAHNARIC,
+katu KATUIC,
+kha Khasi,
+khm_kxm Khmer,
+khmc KHUMIC,
+mkhm 'MON-KHMER',
+moni MONIC,
+mund MUNDA,
+nasl SEMANG,
+nico 'NICOBAR ISLANDS',
+palc PALAUNGIC,
+pear PEARIC,
+sasl SEMELAIC,
+seno SAKAI,
+viem 'VIET-MUONG';
+TREE 21065 = [&R] ((moni,seno,khmc,pear,bahn,kha,khm_kxm,viem,palc,sasl,katu,nasl)mkhm,nico,mund)ausa;
+END;

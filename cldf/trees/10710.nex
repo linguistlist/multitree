@@ -1,0 +1,35 @@
+#NEXUS
+[MultiTree: Mayan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE acr Achí,
+agu Aguacatec,
+caa Chortí,
+cac Chuj,
+cak Cakchiquel,
+chf 'Chontal Maya',
+cob Chicomuceltec,
+ctu Chol,
+hus Huastec,
+itz Itzaj,
+ixl Ixil,
+jac Jakaltek,
+kek 'K''ekchí',
+kjb 'Kanjobal (Eastern)',
+knj 'Kanjobal (Western)',
+lac Lacandón,
+mam 'Mam (Southern)',
+maya Mayan,
+mop Mopan,
+poc 'Pocomam Oriental',
+poh Pokomchí,
+quc Quiché,
+toj Tojolabal,
+ttc Teco,
+tzh 'Tzeltal (Bachajón)',
+tzh_agu 'Tzeltal (Aguacatenango)',
+tzh_ten 'Tzeltal (Tenejapa)',
+tzj Tzutujil,
+tzo 'Tzotzil (Zinacantán)',
+yua Yucatec;
+TREE 10710 = [&R] (acr,agu,cak,cob,ctu,chf,caa,cac,hus,itz,ixl,jac,kjb,knj,kek,lac,mam,mam,mop,poc,poc,poh,quc,ttc,toj,tzh,tzh_agu,tzh,tzh_ten,tzo,tzo,tzo,tzj,yua)maya;
+END;

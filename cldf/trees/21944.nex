@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Kaweskaran: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE alac Kaweskaran,
+alc Alacaluf,
+alc_kaw Kawésqar,
+alc_taw Tawoskser;
+TREE 21944 = [&R] (alc,(alc_taw,alc_kaw)alc,alc)alac;
+END;

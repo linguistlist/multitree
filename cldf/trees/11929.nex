@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Atakapa: Mithun 1999]
+BEGIN TREES;
+TRANSLATE aqp Atakapa,
+aqp_ako 'Akokisa Atakapa',
+aqp_eas 'Eastern Atakapa',
+aqp_wes 'Western Atakapa';
+TREE 11929 = [&R] (aqp_wes,aqp_ako,aqp_eas)aqp;
+END;

@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Minkin-Tangkic: Evans 1990]
+BEGIN TREES;
+TRANSLATE gcd Yukulta,
+gcd_gyd_nny 'Southern Tangkic',
+gcd_ngu Nguburindi,
+gyd Kayardild,
+gyd_nny 'Yangkaal-Kayardild',
+lbz Lardil,
+mink Minkin,
+mtng 'Minkin-Tangkic',
+nny Yangkaal,
+tngc Tangkic,
+tngn 'Northern Tangkic',
+xxm Minkin;
+TREE 18896 = [&R] (((lbz)tngn,((nny,gyd)gyd_nny,(gcd_ngu,gcd)gcd)gcd_gyd_nny)tngc,(xxm)mink)mtng;
+END;

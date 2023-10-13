@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Lenkan:  Kaufman 2007]
+BEGIN TREES;
+TRANSLATE 062 Potó,
+len Lenka,
+len_kar Kare,
+len_kol Kolo,
+len_ser Serkin,
+lenc Lenkan;
+TREE 16456 = [&R] (len_kar,len_kol,062,len,len_ser)lenc;
+END;

@@ -1,0 +1,36 @@
+#NEXUS
+[MultiTree: Proto-Popotecan, subtree of Otomanguean: Gudschinsky 1958]
+BEGIN TREES;
+TRANSLATE ammx 'Macro-Mixtecan',
+amu_azg_azm Amuzgo,
+chcn_pplc 'Proto-Popoloc',
+coz Chocho,
+cut_cux Cuicatec,
+ixc Ixcatec,
+jmx_mab_mbz_mce_mdv_meh_mib_mie_mig_mih_mii_mil_mim_mio_mip_mit_miu_mix_miy_miz_mjc_mks_mpm_mqh_mtu_mtx_mvg_mxa_mxb_mxs_mxt_mxv_mxy_mza_vmc_vmj_vmm_vmq_vmx_xta_xtb_xtd_xti_xtj_xtl_xtm_xtn_xtp_xts_xtt_xtu_xty Mixtec,
+maa 'San Jerónimo Tecoatl',
+maa_saa 'San Antonio Eloxochitlán',
+maj 'Jalapa de Díaz',
+maj_nor 'Northern Valley Low Mazatec',
+maj_sou 'Southern Valley Low Mazatec',
+maj_val 'Valley Low Mazatec',
+mau 'Huautla de Jiménez',
+mau_eas 'Eastern High Mazatec',
+mau_jio 'Santa María Jiotes',
+mau_sag 'San Miguel Huautla',
+mau_san 'San Mateo Huautla',
+mau_wes 'Western High Mazatec',
+mazn 'Proto-Mazatec',
+mib 'Mixtec of San Esteban Atatláhuca',
+mig 'Mixtec of San Miguel el Grande',
+mio 'Mixtec of Jicaltepec',
+mstk 'Proto-Mixtecan',
+mzi 'San Pedro Ixcatlán',
+pbe_pbf_pca_pls_poe_pow_pps Popoloc,
+popo 'Proto-Popolocan',
+ppmx 'Proto-Popotecan',
+trc_trq_trs Trique,
+vmp 'San Miguel Soyaltepec',
+vmz 'Mazatlán de Flores';
+TREE 26458 = [&R] ((((((vmp,mzi)maj_nor,(vmz,maj)maj_sou)maj_val,mau_sag)maj,((mau_san,maa_saa,maa)mau_wes,(mau,mau_jio)mau_eas)mau)mazn,(pbe_pbf_pca_pls_poe_pow_pps,coz,ixc)chcn_pplc)popo,(((mig,mio,mib)jmx_mab_mbz_mce_mdv_meh_mib_mie_mig_mih_mii_mil_mim_mio_mip_mit_miu_mix_miy_miz_mjc_mks_mpm_mqh_mtu_mtx_mvg_mxa_mxb_mxs_mxt_mxv_mxy_mza_vmc_vmj_vmm_vmq_vmx_xta_xtb_xtd_xti_xtj_xtl_xtm_xtn_xtp_xts_xtt_xtu_xty,trc_trq_trs,cut_cux)mstk,amu_azg_azm)ammx)ppmx;
+END;

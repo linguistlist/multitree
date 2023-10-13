@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Hibito-Cholon: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE cht Cholón,
+hib Hibito,
+hibi 'Hibito-Cholon';
+TREE 12519 = [&R] (hib,cht)hibi;
+END;

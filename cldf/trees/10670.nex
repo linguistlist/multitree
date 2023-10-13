@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Arauan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE arau Arauan,
+cul Culina,
+dny Dení,
+jaa Jamamadi,
+jaa_jar Jarawara,
+jaa_kit Banawá,
+pad Paumarí;
+TREE 10670 = [&R] (jaa_kit,cul,dny,jaa,jaa_jar,pad)arau;
+END;

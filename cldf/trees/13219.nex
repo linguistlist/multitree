@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Keresan: Goddard 1996]
+BEGIN TREES;
+TRANSLATE kee 'Rio Grande Keresan',
+kee_ana 'Santa Ana',
+kee_coc Cochiti,
+kee_dom 'Santo Domingo',
+kee_fel 'San Felipe',
+kee_zia Zia,
+kere Keresan,
+kjq_aco 'Acoma-Laguna';
+TREE 13219 = [&R] ((kee_coc,kee_dom,kee_fel,kee_zia,kee_ana)kee,kjq_aco)kere;
+END;

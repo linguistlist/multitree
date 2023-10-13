@@ -1,0 +1,34 @@
+#NEXUS
+[MultiTree: Daly: Composite]
+BEGIN TREES;
+TRANSLATE amy Ami,
+brin Bringen,
+brwa 'Bringen-Wagaydy',
+daly Daly,
+giy Giyug,
+marr Marriammu,
+mfr Marithiel,
+mfr_mam 'Mare-Ammu',
+mfr_mar Marithiel,
+mfr_mrd Marridan,
+mfr_mrs Marrisjabin,
+mfr_mye 'Marri Yedi',
+mlgm Malagmalag,
+mlgp 'Malagmalag Proper',
+mpb Mullukmulluk,
+waga Wagaydy,
+wdj Batjjamalh,
+wdj_pun Pungupungu,
+woa Kuwema,
+xru Marriammu,
+zma Manda,
+zmd Maridan,
+zmg 'Marti Ke',
+zmj Maridjabin,
+zmm Marimanindji,
+zmr Maranunggu,
+zmt Maringarr,
+zmt_mar Maranunggu,
+zmy Mariyedi;
+TREE 19787 = [&R] (((mpb,woa)mlgp)mlgm,(xru)marr,(((zmt_mar)zmt,zmj,(mfr_mrd,mfr_mar,mfr_mrs,mfr_mam,mfr_mye)mfr,zmm,zmy,zmd,zmg)brin,(giy,amy,zma,(wdj_pun)wdj,zmr)waga)brwa)daly;
+END;

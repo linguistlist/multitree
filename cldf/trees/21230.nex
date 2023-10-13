@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Maybrat: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE ayz 'Mai Brat',
+ayz_maf Maisefa,
+ayz_mam Maimaka,
+ayz_mas Maisawiet,
+ayz_mat Maite,
+ayz_may Maiyah,
+cbhe Maybrat,
+kgw 'Karon Dori';
+TREE 21230 = [&R] ((ayz_mas,ayz_mat,ayz_mam,ayz_may,ayz_maf)ayz,kgw)cbhe;
+END;

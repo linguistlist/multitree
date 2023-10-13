@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Asian Mixed Languages: Composite]
+BEGIN TREES;
+TRANSLATE 1ni Tangwang,
+asml 'Asian Mixed Language',
+chtm 'Chinese-Tibetan-Mongolian',
+pdwa 'Armenian-Romani',
+rmi Lomavren,
+rusa 'Russian-Aleut',
+wuh Wutunhua;
+TREE 11678 = [&R] ((rmi)pdwa,rusa,(wuh)chtm,1ni)asml;
+END;

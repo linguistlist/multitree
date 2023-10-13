@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: South Indian: Ellis 1816]
+BEGIN TREES;
+TRANSLATE drav 'South Indian',
+kan Kannada,
+kfa Kodagu,
+kmj_mjt Malto,
+mal Malayâḷam,
+tam Tamil,
+tcy Tulu,
+tel Telugu;
+TREE 11303 = [&R] (tam,mal,kan,tel,kfa,kmj_mjt,tcy)drav;
+END;

@@ -1,0 +1,24 @@
+#NEXUS
+[MultiTree: Alor-Pantar: Holton 2012]
+BEGIN TREES;
+TRANSLATE 08y Kaera,
+abz Abui,
+alkt Alor,
+and Adang,
+beu Blagar,
+beu_nuh Nuhawala,
+ealo 'East Alor',
+kvd Kui,
+kvw Wersing,
+kyo Klon,
+lev Lamma,
+lev_tub Mauta,
+nec Nedebang,
+pant 'Pantar Strait',
+prap 'Proto Alor-Pantar',
+swt_tpg Sawila,
+twe Teiwa,
+walo 'West Alor',
+woi Kamang;
+TREE 22189 = [&R] (((swt_tpg,kvw)ealo,(kyo,(and,(beu_nuh)beu)pant)walo,abz,kvd,woi)alkt,nec,08y,twe,(lev_tub,lev_tub,lev)lev)prap;
+END;

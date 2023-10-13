@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Kwomtari: Loving 1964]
+BEGIN TREES;
+TRANSLATE bbf Baibai,
+bio Biaka,
+faas 'Fas Stock',
+fqs Fas,
+kwba 'Kwomtari Phylum',
+kwfa 'Kwomtari Family',
+kwo Kwomtari,
+kwo_eko 'Ekos-Yenabi-Maragin',
+kwo_wes 'Central Western';
+TREE 22070 = [&R] (((kwo_wes,kwo_eko)kwo,bio)kwfa,(bbf,fqs)faas)kwba;
+END;

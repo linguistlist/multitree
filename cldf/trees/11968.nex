@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Pacific Unclassified Languages: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE bfe Betaf,
+dol Doso,
+khh Kehu,
+lpe Lepki,
+paun 'Pacific Unclassified',
+rmh Murkim,
+tqm Turumsa,
+xkw Kembra;
+TREE 11968 = [&R] (khh,lpe,dol,bfe,rmh,xkw,tqm)paun;
+END;

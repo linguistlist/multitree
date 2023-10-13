@@ -1,0 +1,28 @@
+#NEXUS
+[MultiTree: European Mixed Language: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE daro 'Danish-Romani',
+egro 'English-Romani',
+emx 'Basque Calo',
+euml 'European Mixed Language',
+gyrr 'German-Yiddish-Romani-Rotwelsch',
+irro 'Iberian-Romani',
+irun 'Irish-Undocumented',
+noro 'Norwegian-Romani',
+rge 'Romano-Greek',
+rmd 'Traveller Danish',
+rme Angloromani,
+rmg 'Norwegian, Traveller',
+rmq_cat 'Catalonian Calo',
+rmq_por 'Portuguese Calão',
+rmq_spa 'Spanish Caló',
+rmr Caló,
+rmu 'Romani, Tavringer',
+rsb 'Romano-Serbian',
+sero 'Serbian-Romani',
+sth Shelta,
+swro 'Swedish-Romani',
+vbpe 'Greek-Romani',
+yec Yeniche;
+TREE 11592 = [&R] ((yec)gyrr,(rme)egro,(rmu)swro,(rsb)sero,(rmg)noro,((rmq_cat,rmq_spa,rmq_por,emx)rmr)irro,(rge)vbpe,(sth)irun,(rmd)daro)euml;
+END;

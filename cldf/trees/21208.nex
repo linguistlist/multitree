@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Kaure: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE bpp Kaure,
+kaup 'Kaure Proper',
+kaur Kaure,
+khp Kapauri,
+kiq Kosare,
+kpau Kapore,
+nxu Narau;
+TREE 21208 = [&R] ((nxu,bpp,kiq)kaup,(khp)kpau)kaur;
+END;

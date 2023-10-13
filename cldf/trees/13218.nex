@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Keresan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE kee 'Keresan (Santa Ana)',
+kere Keresan,
+kjq Acoma;
+TREE 13218 = [&R] (kee,kjq)kere;
+END;

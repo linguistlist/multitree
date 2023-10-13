@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Chukchi-Kamchatkan: Ruhlen 1991]
+BEGIN TREES;
+TRANSLATE alr Alyutor,
+chka 'Chukchi-Kamchatkan',
+chuk Chukchi,
+ckt Chukchi,
+itl Kamchadal,
+kory 'Koryak-Alyutor',
+kpy Koryak,
+krk Kerek,
+nchk 'Northern Chukchi-Kamchatkan',
+schk 'Southern Chukchi-Kamchatkan';
+TREE 10761 = [&R] (((ckt)chuk,(krk,kpy,alr)kory)nchk,(itl)schk)chka;
+END;

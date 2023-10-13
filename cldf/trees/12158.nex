@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: Anem: Dryer 2005]
+BEGIN TREES;
+TRANSLATE anem Anem,
+anz Anem;
+TREE 12158 = [&R] (anz)anem;
+END;

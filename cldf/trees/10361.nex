@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Jivaroan: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE acu 'Achuar-Shiwiar',
+agr Aguaruna,
+hub Huambisa,
+jiv Shuar,
+jiva Jivaroan;
+TREE 10361 = [&R] (acu,agr,hub,jiv)jiva;
+END;

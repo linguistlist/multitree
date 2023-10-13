@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Khoisan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE cskh 'Central Khoisan',
+hnh '//Ani',
+khoi Khoisan,
+knw '!Xun (Ekoka)',
+kqz Korana,
+ktz 'Ju|''hoan',
+naq Khoekhoe,
+nhr Nharo,
+nmn !Xóõ,
+nsak 'Northern Khoisan',
+sad Sandawe,
+sand Sandawe,
+shg_det Deti,
+ssak 'Southern Khoisan',
+xam '/Xam',
+xuu Kxoe;
+TREE 12184 = [&R] ((sad)sand,(nhr,xuu,hnh,shg_det,naq,kqz)cskh,(nmn,xam)ssak,(ktz,knw)nsak)khoi;
+END;

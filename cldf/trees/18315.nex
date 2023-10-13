@@ -1,0 +1,19 @@
+#NEXUS
+[MultiTree: Yirram-Barkly: Chadwick 1997]
+BEGIN TREES;
+TRANSLATE djam Yirram,
+djd Jaminjung,
+djd_djd_nga 'Baj Subgroup',
+djd_nga Ngaliwurru,
+jig Jingulu,
+mndi 'Yirram-Barkly',
+nji_bin_wmb_bin Binbinka,
+nji_nji_nga Ngarnka,
+nji_wmb 'MacArthur Subgroup',
+nji_wmb_gud Kundanja,
+nug Nungali,
+wamb 'Eastern Barkly Group',
+wbrk Barkly,
+wmb_wmb_wam Wambaya;
+TREE 18315 = [&R] ((((wmb_wmb_wam,nji_wmb_gud,nji_bin_wmb_bin)nji_wmb,nji_nji_nga)wamb,jig)wbrk,((djd_nga,djd)djd_djd_nga,nug)djam)mndi;
+END;

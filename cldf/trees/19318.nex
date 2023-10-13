@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Mirndi: Composite]
+BEGIN TREES;
+TRANSLATE djam Yirram,
+djd Jaminjungan,
+djd_nga Ngaliwurru,
+djd_pro Jaminjung,
+jig Jingulu,
+jngl Jingulu,
+mndi Mirndi,
+nji Ngarnka,
+nji_bin Binbinka,
+nji_nga Ngarnga,
+nug Nungali,
+wamb Ngurlun,
+wmb Wambayan,
+wmb_bin Binbinka,
+wmb_gud Gudanji,
+wmb_wam Wambaya;
+TREE 19318 = [&R] ((jig)jngl,(nug,(djd_pro,djd_nga)djd)djam,((wmb_gud,wmb_wam,wmb_bin)wmb,(nji_bin,nji_nga)nji)wamb)mndi;
+END;

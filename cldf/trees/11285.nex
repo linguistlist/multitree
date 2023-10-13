@@ -1,0 +1,20 @@
+#NEXUS
+[MultiTree: Nambiquaran: Campbell 1997]
+BEGIN TREES;
+TRANSLATE apv_lkd_ltn_wmd_xtw_xyl Kithāulhú,
+lkd Lakonde,
+nab Mamaindê,
+nab_cam Campo,
+nab_gal Galera,
+nab_gua Guaporé,
+nab_kab Kabishi,
+nab_man Manduka,
+nab_nam Nambiquara,
+nab_sar Sararé,
+namb Nambiquaran,
+sae Sabané,
+wmd Mamaindé,
+wmd_neg Nagaroté,
+xtw Tawandé;
+TREE 11285 = [&R] (sae,((nab_gal,nab_gua,nab_man,nab_cam)nab_nam,nab_kab,nab_sar)nab,(wmd_neg,xtw,lkd,wmd)apv_lkd_ltn_wmd_xtw_xyl)namb;
+END;

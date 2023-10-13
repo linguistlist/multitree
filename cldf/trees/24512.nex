@@ -1,0 +1,36 @@
+#NEXUS
+[MultiTree: Micronesian: Bender 1971]
+BEGIN TREES;
+TRANSLATE cal Carolinian,
+cal_cha 'Chalan Kanoa',
+chk Trukese,
+chk_eas Eastern,
+chk_fay Western,
+gil Gilbertese,
+gil_nor 'Northern Gilbertese',
+gil_sou 'Southern Gilbertese',
+kos Kusaiean,
+mah Marshallese,
+mah_ral Ujelang,
+mah_rat Mejit,
+micp 'Nuclear Micronesian',
+micr Micronesian,
+mkj Mokil,
+mrl_mrl_low_mrl_upp Mortlocks,
+nau Nauruan,
+pfa 'Hall Islands',
+pif Pingelap,
+pon Ponapean,
+pon_kit Kiti,
+pon_sat Ngatik,
+pont 'Trukic-Ponapean',
+puw 'Pulusuk-Puluwat',
+sov Sonsorol,
+stw Satawal,
+tpv Tanapag,
+truk 'Trukic subfamily',
+uli Ulithi,
+woe Woleai,
+yap Yapese;
+TREE 24512 = [&R] (((((pfa,chk_fay,chk_eas,mrl_mrl_low_mrl_upp)chk,(stw,tpv,cal_cha,puw)cal,(woe,sov,uli)uli)truk,(mkj,pif,pon_sat,pon_kit)pon)pont,kos,(gil_nor,gil_sou)gil,(mah_rat,mah_ral)mah)micp,nau,yap)micr;
+END;

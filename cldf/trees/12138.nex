@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: Oksapmin: Dryer 2005]
+BEGIN TREES;
+TRANSLATE oksa Oksapmin,
+opm Oksapmin;
+TREE 12138 = [&R] (opm)oksa;
+END;

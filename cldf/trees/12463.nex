@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Sino-Tibetan: Benedict 1942]
+BEGIN TREES;
+TRANSLATE chin Chinese,
+kare Karen,
+sitb 'Sino-Tibetan',
+tbkr 'Tibeto-Burman-Karen',
+tbur 'Tibeto-Burman';
+TREE 12463 = [&R] ((kare,tbur)tbkr,chin)sitb;
+END;

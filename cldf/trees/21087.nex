@@ -1,0 +1,37 @@
+#NEXUS
+[MultiTree: Dogon, subtree of Niger-Congo: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE atco 'Atlantic-Congo',
+dbg 'Dogon, Dogul Dom',
+dbu 'Dogon, Bodum Dom',
+dbu_kin Kindjim,
+dbu_nad Nadjamba,
+dds 'Dogon, Donno So',
+dds_don 'Donno So',
+dds_kam 'Kamma So',
+dgb 'Dogon, Bunoge',
+djm 'Dogon, Jamsay',
+djm_bam Bama,
+djm_dom Domno,
+djm_gon Gono,
+djm_gur Guru,
+dkl 'Dogon, Kolum So',
+dkl_amb Ambange,
+dkl_mom Mombo,
+dogn Dogon,
+dti 'Dogon, Ana Tinga',
+dtk 'Dogon, Tene Kan',
+dtk_gui 'Guimini Kan',
+dtk_sag Sagara,
+dtk_ten 'Tengu Tingi',
+dtk_tog 'Togo Kan',
+dtm 'Dogon, Tomo Kan',
+dts 'Dogon, Toro So',
+dtt 'Dogon, Toro Tegu',
+dtu 'Dogon, Tebul Ure',
+dwl 'Dogon, Walo Kumbe',
+dym 'Dogon, Yanda Dom',
+ncon 'Niger-Congo',
+volc 'Volta-Congo';
+TREE 21087 = [&R] (((((dtk_gui,dtk_tog,dtk_sag,dtk_ten)dtk,(djm_gon,djm_dom,djm_gur,djm_bam)djm,(dbu_kin,dbu_nad)dbu,dym,dwl,dts,dti,dtt,dtu,(dkl_amb,dkl_mom)dkl,dtm,(dds_kam,dds_don)dds,dbg,dgb)dogn)volc)atco)ncon;
+END;

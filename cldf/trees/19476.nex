@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Yarli, subtree of Pama-Nyungan: Austin and Hercus 2004]
+BEGIN TREES;
+TRANSLATE qyar Yarli,
+wdk Wadikali,
+yga Malyangapa,
+yxl Yardliyawara;
+TREE 19476 = [&R] (yxl,yga,wdk)qyar;
+END;

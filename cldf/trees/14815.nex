@@ -1,0 +1,29 @@
+#NEXUS
+[MultiTree: Constructed Languages: Composite]
+BEGIN TREES;
+TRANSLATE 08n 'Na''vi',
+1eo Medefaidrin,
+afh Afrihili,
+avk Kotava,
+bzt Brithenig,
+clan 'Constructed Languages',
+dws 'Dutton World Speedwords',
+epo Esperanto,
+ido Ido,
+igs Interglossa,
+ile Interlingue,
+ina Interlingua,
+jbo Lojban,
+ldn Láadan,
+lfn 'Lingua Franca Nova',
+neu Neo,
+nov Novial,
+qya Quenya,
+rmv Romanova,
+sjn Sindarin,
+tlh Klingon,
+tzl Talossan,
+vol Volapük,
+zbl Blissymbols;
+TREE 14815 = [&R] (jbo,nov,igs,dws,vol,ina,(ido)epo,bzt,rmv,tlh,sjn,qya,ile,ldn,1eo,neu,afh,lfn,zbl,avk,08n,tzl)clan;
+END;

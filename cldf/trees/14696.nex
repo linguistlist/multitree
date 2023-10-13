@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Natchesan: Powell 1891]
+BEGIN TREES;
+TRANSLATE 01f Taensa,
+mod 'Chicasa Trade Jargon',
+ncz 'Na''htchi',
+ntzm Natchesan;
+TREE 14696 = [&R] (ncz,(mod)01f)ntzm;
+END;

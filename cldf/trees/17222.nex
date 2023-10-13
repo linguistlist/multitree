@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Cahuapanan: Composite]
+BEGIN TREES;
+TRANSLATE cahu Cahuapanan,
+cbt Chayhuita,
+cbt_cah Cahuapana,
+jeb Jebero;
+TREE 17222 = [&R] (jeb,cbt_cah,cbt)cahu;
+END;

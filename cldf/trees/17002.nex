@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Salinan: Golla, Goddard, Campbell, Mithun, Mixco 2007]
+BEGIN TREES;
+TRANSLATE 09m_sln_pla Playano,
+qg9_sln_ant Antoniano,
+qq1_sln_mig Migueleño,
+slnn Salinan;
+TREE 17002 = [&R] (09m_sln_pla,qg9_sln_ant,qq1_sln_mig)slnn;
+END;

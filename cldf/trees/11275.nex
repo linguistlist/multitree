@@ -1,0 +1,30 @@
+#NEXUS
+[MultiTree: Miwok-Costanoan: Campbell 1997]
+BEGIN TREES;
+TRANSLATE cost Coastanoan,
+csi 'Coast Miwok',
+csi_bod 'Bodega Miwok',
+csi_mar 'Marin Miwok',
+csm 'Central Sierra Miwok',
+css 'Southern Coastanoan',
+css_mut Mutsun,
+css_rum Rumsen,
+cst 'Northern Coastanoan',
+cst_awa Awaswas,
+cst_cha Chalon,
+cst_cho Chocheño,
+cst_ram Ramaytush,
+cst_tam Tamyen,
+emiw 'Eastern Miwok',
+krb Karkin,
+lmw 'Lake Miwok',
+miwo Miwokan,
+mkq Saclan,
+nsq 'Northern Sierra Miwok',
+pmw 'Plains Miwok',
+sier 'Sierra Miwok',
+skd 'Southern Sierra Miwok',
+utia 'Miwok-Costanoan',
+wmiw 'Western Miwok';
+TREE 11275 = [&R] (((lmw,(csi_bod,csi_mar)csi)wmiw,((nsq,skd,csm)sier,pmw,mkq)emiw)miwo,((cst_cha,cst_ram,cst_tam,cst_cho,cst_awa)cst,(css_rum,css_mut)css,krb)cost)utia;
+END;

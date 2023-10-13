@@ -1,0 +1,24 @@
+#NEXUS
+[MultiTree: Arauan: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE arau Arauan,
+aru Arua,
+bnh Banawá,
+cul Culina,
+dny Dení,
+dny_ina Inauini,
+jaa Jamamadí,
+jaa_bom 'Bom Futuro',
+jaa_cuc Cuchudua,
+jaa_jur Jurua,
+jaa_mam Mamoria,
+jaa_pau Pauini,
+jaa_tuk Tukurina,
+jap Jaruára,
+pad Paumarí,
+pad_kur Kurukuru,
+pad_pau Paumarm,
+pad_uai Uaiai,
+swx Suruahá;
+TREE 14135 = [&R] ((jaa_mam,jaa_pau,jaa_cuc,jaa_jur,jaa_tuk,jaa_bom)jaa,(pad_uai,pad_kur,pad_pau)pad,jap,(dny_ina)dny,cul,bnh,aru,swx)arau;
+END;

@@ -1,0 +1,23 @@
+#NEXUS
+[MultiTree: Guahiban: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE cui Cuiba,
+cui_ama Amaruwa,
+cui_chi Chiricoa,
+cui_cir Chiripo,
+cui_mas Masiguare,
+cui_maw Masiware,
+cui_may Mayayero,
+cui_moc 'Mochuelo-Casanare-Cuiba',
+cui_tam Tampiwi,
+cui_yar 'Yarahuuraxi-Capanapara',
+gob Playero,
+guah Guahiban,
+guh Guahibo,
+guh_amo Amorua,
+guh_gua Guahibo,
+guh_tig Tigrero,
+guo Guayabero,
+mbn Macaguán;
+TREE 10340 = [&R] ((cui_ama,cui_chi,cui_cir,cui_mas,cui_maw,cui_may,cui_moc,cui_tam,cui_yar)cui,(guh_amo,guh_gua,guh_tig)guh,guo,mbn,gob)guah;
+END;

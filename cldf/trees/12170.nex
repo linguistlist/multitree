@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: Hadza: Dryer 2005]
+BEGIN TREES;
+TRANSLATE hats Hadza,
+hts Hadza;
+TREE 12170 = [&R] (hts)hats;
+END;

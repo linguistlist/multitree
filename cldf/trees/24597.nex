@@ -1,0 +1,37 @@
+#NEXUS
+[MultiTree: Kadai: Solnit 1988]
+BEGIN TREES;
+TRANSLATE ctai 'Central Tai',
+doc_kmc Kam,
+doc_kmc_rch 'Chejiang Kam',
+doc_kmc_sdu 'Sanjiang Kam',
+geih Gei,
+giq_gir_giw Gelao,
+hlai Hlai,
+kams 'Kam-Sui',
+kamt 'Kam-Tai',
+kmlm 'Kam-Mulam',
+laq_lha 'Laqua/Laha',
+lbc Lakkia,
+lbt_lwh Lati,
+lic_tsh Tongshi,
+lic_wsi 'White Sand Hlai',
+lkks 'Lakkia-Kam-Sui',
+mkg Mak,
+mlm Mulam,
+mmd Maonan,
+ntai 'Northern Tai',
+pcc Bouyei,
+skb Saek,
+smmn 'Sui-Mak-Maonan',
+swct 'Southwest-Central Tai',
+swi Sui,
+swta 'Southwestern Tai',
+taik Kadai,
+taix Tai,
+tct Then,
+tha Siamese,
+yoy Dioi,
+zqe_zgn_poa Boai;
+TREE 24597 = [&R] ((((((doc_kmc_rch,doc_kmc_sdu)doc_kmc,mlm,tct)kmlm,(mmd,swi,mkg)smmn)kams,lbc)lkks,(((tha)swta,ctai)swct,(yoy,pcc,zqe_zgn_poa,skb)ntai)taix)kamt,(lic_wsi,(lic_tsh)geih)hlai,giq_gir_giw,laq_lha,lbt_lwh)taik;
+END;

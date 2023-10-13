@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Tsimshianic: Composite]
+BEGIN TREES;
+TRANSLATE 09v_tsi_coa 'Coast Tsimshian',
+09w_tsi_sou 'Southern Tsimshian',
+git Gitksan,
+mtsi 'Maritime Tsimshian',
+ncg 'Nisga''a',
+ngit 'Nass-Gitksan',
+tsim Tsimshianic;
+TREE 18044 = [&R] ((09w_tsi_sou,09v_tsi_coa)mtsi,(ncg,git)ngit)tsim;
+END;

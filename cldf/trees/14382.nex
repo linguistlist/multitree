@@ -1,0 +1,36 @@
+#NEXUS
+[MultiTree: Siouan: Powell 1891]
+BEGIN TREES;
+TRANSLATE asb Assinaboin,
+bll Biloxi,
+chc Catawaba,
+cro Crow,
+dak_dak Sisseton,
+dak_nak Yanktonnis,
+dak_san Santee,
+dak_yan Yankton,
+dako Dakota,
+hid 'Gros Ventres',
+iow_iow Iowa,
+iow_mis Missouri,
+iow_oto Otoe,
+ksk Kaw,
+lkt Teton,
+lkt_bla Blackfeet,
+lkt_bru Brulé,
+lkt_min Minneconjou,
+lkt_oga Ogalalla,
+lkt_san 'Sans Arcs',
+lkt_two 'Two Kettles',
+lkt_unc Uncpapa,
+mhq Mandan,
+oma_oma Omaha,
+oma_pon Ponca,
+osa Osage,
+qua Quapaw,
+siou Siouan,
+tta Tutelo,
+win Winnebago,
+xwc Woccon;
+TREE 14382 = [&R] (cro,mhq,((lkt_unc,lkt_san,lkt_two,lkt_bla,lkt_bru,lkt_min,lkt_oga)lkt,dak_yan,dak_dak,dak_san,dak_nak,dak_dak)dako,tta,iow_iow,bll,hid,ksk,iow_oto,oma_oma,asb,xwc,win,iow_mis,qua,osa,oma_pon,chc)siou;
+END;

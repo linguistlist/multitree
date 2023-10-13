@@ -1,0 +1,29 @@
+#NEXUS
+[MultiTree: Border: Ethnologue 2013]
+BEGIN TREES;
+TRANSLATE aic Ainbai,
+amn Amanab,
+aos Taikat,
+auw Awyi,
+bewn Bewani,
+btng Border,
+dnd Daonda,
+imn lmonda,
+jet Manem,
+kih Kilmeri,
+kih_eas 'Eastern Kilmeri',
+kih_wes 'Western Kilmeri',
+nby Ningera,
+pgi Pagi,
+pgi_eas 'Eastern Pagi',
+pgi_wes 'Western Pagi',
+smf Auwe,
+snu Viid,
+sow Sowanda,
+sow_pun 'Punda-Umeda',
+takt Taikat,
+upi Umeda,
+wars Waris,
+wrs Waris;
+TREE 21885 = [&R] ((smf,wrs,(sow_pun)sow,amn,jet,snu,dnd,imn)wars,(auw,aos)takt,(upi,(pgi_eas,pgi_wes)pgi,nby,aic,(kih_wes,kih_eas)kih)bewn)btng;
+END;

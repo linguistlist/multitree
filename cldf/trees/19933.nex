@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Northern Kimberley: Tryon 2007]
+BEGIN TREES;
+TRANSLATE ewor Ungarinjinic,
+gma Gambera,
+nwor Wunambalic,
+ung Ungarinjin,
+ung_guw Guwidj,
+ung_wol Wolyamidi,
+vmi Miwa,
+wil Wilawila,
+worn 'Northern Kimberley',
+wro Worora,
+wub Wunambal,
+wwor Wororic,
+xgu Unggumi;
+TREE 19933 = [&R] (((xgu)wro)wwor,(ung,ung_guw,ung_wol)ewor,(wil,wub,gma,vmi)nwor)worn;
+END;

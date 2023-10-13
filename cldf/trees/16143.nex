@@ -1,0 +1,20 @@
+#NEXUS
+[MultiTree: Caddoan: Powell 1891]
+BEGIN TREES;
+TRANSLATE ari Arikara,
+cad Caddo,
+cad_has Inies,
+cad_nan Nandako,
+cad_nat Nabedache,
+cadd Caddoan,
+kii Kichai,
+mcad 'Middle Caddo',
+ncad 'Northern Caddo',
+paw 'Republican Pawnee',
+paw_ski Skidi,
+paw_tap Tapage,
+pawn Pawnee,
+scad 'Southern Caddo',
+wic Witchita;
+TREE 16143 = [&R] (((paw_ski,paw_tap,paw,paw)pawn)mcad,(kii,(cad_nan,cad_has,cad_nat)cad,wic)scad,(ari)ncad)cadd;
+END;

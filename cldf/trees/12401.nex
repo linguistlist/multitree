@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Pacific Deaf Sign Language: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE bqy 'Bali Sign Language  ',
+hps 'Hawai''i Pidgin Sign Language  ',
+inl 'Indonesian Sign Language  ',
+nzs 'New Zealand Sign Language  ',
+pdsl 'Pacific Deaf Sign Language',
+psp 'Philippine Sign Language  ',
+rsi 'Rennellese Sign Language  ';
+TREE 12401 = [&R] (hps,psp,nzs,inl,rsi,bqy)pdsl;
+END;

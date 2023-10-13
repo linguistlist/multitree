@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Shastan: Golla, Goddard, Campbell, Mithun, Mixco 2007]
+BEGIN TREES;
+TRANSLATE qk8 Okwanuchu,
+qm0 Konomihu,
+qt4 'New River Shasta',
+shas Shastan,
+sht Shasta;
+TREE 17005 = [&R] (qm0,qk8,qt4,sht)shas;
+END;

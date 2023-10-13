@@ -1,0 +1,36 @@
+#NEXUS
+[MultiTree: Ouralien: Austerlitz 1968]
+BEGIN TREES;
+TRANSLATE bfin 'balto-finnois',
+ekk estonien,
+enf_enh iénisséi,
+fin finnois,
+finn finnique,
+fugr 'finno-ougrien',
+hun hongrois,
+izh ingrien,
+kca ostiak,
+kpv zyriène,
+krl carélien,
+liv live,
+lud lude,
+mhr_mrj tchérémisse,
+mns vogoule,
+myv mordve,
+nio tavgui,
+nsam 'samoyède-Nord',
+obug 'ougrien de l''Ob',
+perm permien,
+sel selkoup,
+sia_sjd_sje_sjk_sjt_sju_sma_sme_smj_smn_sms lapon,
+smoy samoyède,
+ssam 'samoyède-Sud',
+udm votiak,
+ugri ougrien,
+urlc ouralien,
+vep vepse,
+volg volgaïque,
+vot vote,
+yrk yourak;
+TREE 14671 = [&R] (((hun,(mns,kca)obug)ugri,((mhr_mrj,myv)volg,(fin,vep,izh,liv,vot,lud,krl,ekk)bfin,(kpv,udm)perm)finn)fugr,sia_sjd_sje_sjk_sjt_sju_sma_sme_smj_smn_sms,((sel)ssam,(enf_enh,yrk,nio)nsam)smoy)urlc;
+END;

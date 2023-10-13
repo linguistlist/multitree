@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Kamakanan: Composite]
+BEGIN TREES;
+TRANSLATE kamr Kamakanan,
+qc6 Menien,
+qlz Masakará,
+vkm Kamakán,
+vkm_kam Kamakán,
+vkm_kut Kutaxó,
+vkm_man Mangaló;
+TREE 17457 = [&R] (qlz,(vkm_kut,vkm_kam,vkm_man)vkm,qc6)kamr;
+END;

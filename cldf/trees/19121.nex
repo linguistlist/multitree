@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Macro-Otomákoan: Campbell 1997]
+BEGIN TREES;
+TRANSLATE amr Amaracaeri,
+amr_qui Quisambaeri,
+hara Tuyoneri,
+hug Huachipaeri,
+hug_ara Arasairi,
+hug_sap Sapiteri,
+hug_toe Toyeri,
+hug_toy Toyoneri,
+mcmk 'Macro-Otomákoan',
+otmc Otomakoan,
+qlf Taparita,
+qpg Otomaco,
+tpy Trumai;
+TREE 19121 = [&R] (((hug_toe,hug_ara,hug_sap,hug_toy)hug,(amr_qui)amr)hara,(qpg,qlf)otmc,tpy)mcmk;
+END;

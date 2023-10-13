@@ -1,0 +1,25 @@
+#NEXUS
+[MultiTree: Nambiquaran: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE apv_lkd_ltn Yalapmunxte,
+mbg 'Nambikuára, Northern',
+nab 'Nambikuára, Southern',
+nab_ala Alatesu,
+nab_gal Galera,
+nab_hah Hahaintesu,
+nab_hal Halotesu,
+nab_khi Khithaulhu,
+nab_man Manduka,
+nab_sar Sarare,
+nab_sax Saxwentesu,
+nab_ser 'Serra Azul',
+nab_wai Waikisu,
+nab_wak Wakalitesu,
+nab_was Wasusu,
+namb Nambiquaran,
+sae Sabanês,
+wmd Mamaindé,
+wmd_neg Negarote,
+xtw Taxwensite;
+TREE 10221 = [&R] ((wmd,wmd_neg,xtw,xtw,xtw,apv_lkd_ltn)mbg,(nab_man,nab_khi,nab_hal,nab_sax,nab_wak,nab_ser,nab_hah,nab_was,nab_ala,nab_wai,nab_gal,nab_sar)nab,sae)namb;
+END;

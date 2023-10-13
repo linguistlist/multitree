@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Maningrida: Tryon 2007]
+BEGIN TREES;
+TRANSLATE bura Maningrida,
+bvr Burarra,
+bvr_gtp Gunardba,
+djj Djeebbana,
+gge Guragone,
+nck Nakkara;
+TREE 19927 = [&R] (nck,bvr_gtp,djj,gge,bvr)bura;
+END;

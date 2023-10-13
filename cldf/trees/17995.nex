@@ -1,0 +1,31 @@
+#NEXUS
+[MultiTree: Nyulnyulan: McGregor and Stokes 2003]
+BEGIN TREES;
+TRANSLATE 08s Ngumbarl,
+bard Bardic,
+bcj_bcj_bar Bardi,
+bcj_isl 'Island Bardi',
+bcj_jaw_djw Jawi,
+bcj_mai 'Mainland Bardi',
+dyb Jabirrjabirr,
+dyd Jukun,
+enyu 'Eastern Nyulnyulan',
+nmp Nimanburru,
+nyh Nyikina,
+nyh_big 'Big Nyikina',
+nyh_sma 'Small Nyikina',
+nyki Nykinic,
+nylc Nyulnyulic,
+nyul Nyulnyulan,
+nyv Nyulnyul,
+nyv_coa 'Coastal Nyulnyul',
+nyv_inl 'Inland Nyulnyul',
+wnyu 'Western Nyulnyulan',
+wwr Warrwa,
+yawu Yawuric,
+ywr Yawuru,
+ywr_eas Marangan,
+ywr_juk Jukun,
+ywr_sou Julbayi;
+TREE 17995 = [&R] ((((nyv_inl,nyv_coa)nyv,dyb,nmp,08s)nylc,(bcj_jaw_djw,(bcj_mai,bcj_isl)bcj_bcj_bar)bard)wnyu,((dyd,(ywr_eas,ywr_juk,ywr_sou)ywr)yawu,((nyh_sma,nyh_big)nyh,wwr)nyki)enyu)nyul;
+END;

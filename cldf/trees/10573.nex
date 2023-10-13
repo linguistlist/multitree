@@ -1,0 +1,35 @@
+#NEXUS
+[MultiTree: Salishan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE belc 'Bella Coola',
+blc 'Bella Coola',
+cjh 'Chehalis (Upper)',
+clm Clallam,
+col 'Columbia-Wenatchi',
+coo Comox,
+crd 'Coeur d''Alene',
+csal 'Central Salish',
+fla Kalispel,
+hur Halkomelem,
+insa 'Interior Salish',
+lil Lillooet,
+lut Lushootseed,
+oka Okanagan,
+sali Salishan,
+shs Shuswap,
+slh 'Salish (Southern Puget Sound)',
+spo Spokane,
+squ Squamish,
+str 'Salish (Straits)',
+str_lum Lummi,
+str_saa Saanich,
+str_sal 'Salish (Samish Straits)',
+str_son Songish,
+str_soo Sooke,
+thp Thompson,
+til Tillamook,
+till Tillamook,
+tsam Tsamosan,
+twa Twana;
+TREE 10573 = [&R] ((blc)belc,(clm,coo,hur,str_lum,lut,str_saa,str_sal,slh,str,str_son,str_soo,squ,twa)csal,(crd,col,fla,lil,oka,shs,spo,thp)insa,(til)till,(cjh)tsam)sali;
+END;

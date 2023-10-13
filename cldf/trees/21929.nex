@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Chocoan: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE bdc_cmi_sja_tdc 'Southern Emberá',
+choc Chocoan,
+cto_emp 'Northern Emberá',
+embr Emberá,
+noa Waunana;
+TREE 21929 = [&R] (noa,(bdc_cmi_sja_tdc,cto_emp)embr)choc;
+END;

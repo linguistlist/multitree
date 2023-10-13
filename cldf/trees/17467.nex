@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Tiniguan: Composite]
+BEGIN TREES;
+TRANSLATE qpl Pamigua,
+tini Tiniguan,
+tit Tinigua;
+TREE 17467 = [&R] (qpl,tit)tini;
+END;

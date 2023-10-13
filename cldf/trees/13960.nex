@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Sko Minor Phylum: Wurm 1982]
+BEGIN TREES;
+TRANSLATE kris Krisa,
+ksi Krisa,
+pux Puari,
+qxd Sangke,
+rwa Rawo,
+skoo Sko,
+skv Sko,
+vam Vanimo,
+vanm Vanimo,
+wra Warapu,
+wut Wutung;
+TREE 13960 = [&R] ((wut,vam,qxd,skv)vanm,(ksi,wra,rwa,pux)kris)skoo;
+END;

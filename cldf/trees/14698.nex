@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Mobilian Jargon: Mithun 1999]
+BEGIN TREES;
+TRANSLATE mod 'Mobilian Jargon',
+mod_lfa 'Lingua Franca Apalachee',
+mod_lfc 'Lingua Franca Creek';
+TREE 14698 = [&R] (mod_lfa,mod_lfc)mod;
+END;

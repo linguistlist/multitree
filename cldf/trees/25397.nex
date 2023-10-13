@@ -1,0 +1,28 @@
+#NEXUS
+[MultiTree: Tibeto-Burman, subtree of Sino-Tibetan: Sun 1999]
+BEGIN TREES;
+TRANSLATE adi Bogar,
+bod Tibetan,
+bonc 'Bodo-Naga-Chin',
+clk Idu,
+daid 'Daruang-Idu',
+dula 'Dulong-Anong',
+duu Dulong,
+hima Himalayic,
+hims 'Tibeto-Himalayan',
+jnlu Kachinic,
+kare Karen,
+lolb 'Yi-Burmese',
+mhu Daruang,
+mxj Geman,
+nun Anong,
+qika 'Qiang-Kachin',
+qinc Qiangic,
+suv Sulong,
+tbtc Bodic,
+tbur 'Tibeto-Burman',
+tibt 'Tibetan-Monba',
+tsj Tsanglo,
+twm Monba;
+TREE 25397 = [&R] (bonc,((tsj,(bod,twm)tibt)tbtc,(adi,suv)hima)hims,kare,(((clk,mhu)daid,(duu,nun)dula,mxj)jnlu,qinc)qika,lolb)tbur;
+END;

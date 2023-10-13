@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Korean-Japanese-Ainu: Patrie 1982]
+BEGIN TREES;
+TRANSLATE ain Ainu,
+jpn Japanese,
+koai 'Korean-Ainu',
+kor Korean,
+pjka 'Korean-Japanese-Ainu';
+TREE 12231 = [&R] ((kor,ain)koai,jpn)pjka;
+END;

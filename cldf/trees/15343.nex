@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Keresan: Mithun 1999]
+BEGIN TREES;
+TRANSLATE kee_coc Cochiti,
+kee_kjq Keres,
+kee_sad 'Santo Domingo',
+kee_saf 'San Felipe',
+kee_san 'Santa Ana',
+kee_zia Zia,
+kjq_aco Acoma,
+kjq_lag Laguna;
+TREE 15343 = [&R] (kee_sad,kee_coc,kjq_lag,kee_saf,kee_zia,kjq_aco,kee_san)kee_kjq;
+END;

@@ -1,0 +1,19 @@
+#NEXUS
+[MultiTree: Aztec-Tanoan: Sapir 1949]
+BEGIN TREES;
+TRANSLATE 0xc Sigua,
+0xm Nicarao,
+azz_naz_nch_ncj_ncl_ncx_ngu_nhc_nhe_nhg_nhi_nhk_nhm_nhn_nhp_nhq_nht_nhv_nhw_nhx_nhy_nhz_nlv_npl_nsu_nuz_xpo Nahuatl,
+came 'Aztec-Tanoan',
+kiow Kiowa,
+kita 'Tanoan-Kiowa',
+pia Piman,
+pip_ppl Pipil,
+qpb 'Cuitlateco of Michoacan',
+shh Shoshonean,
+tow Tanoan,
+utaz 'Uto-Aztekan',
+xpo Pochutla,
+zuni Zuñi;
+TREE 20116 = [&R] (((xpo,pip_ppl,0xc,0xm)azz_naz_nch_ncj_ncl_ncx_ngu_nhc_nhe_nhg_nhi_nhk_nhm_nhn_nhp_nhq_nht_nhv_nhw_nhx_nhy_nhz_nlv_npl_nsu_nuz_xpo,shh,pia,qpb)utaz,(tow,kiow)kita,zuni)came;
+END;

@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Central Solomons: Ross 2001]
+BEGIN TREES;
+TRANSLATE blb Bilua,
+csol 'Central Solomons',
+lvk Lavukaleve,
+svs Savosavo,
+tqu Baniata;
+TREE 21985 = [&R] (lvk,tqu,blb,svs)csol;
+END;

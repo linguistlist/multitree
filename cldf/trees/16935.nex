@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Aymaran: Campbell 1997]
+BEGIN TREES;
+TRANSLATE ayc_ayr Aymara,
+ayma Aymaran,
+jqr Jaqaru,
+jqr_cau Kawki,
+tupe Tupe;
+TREE 16935 = [&R] ((jqr,jqr_cau)tupe,ayc_ayr)ayma;
+END;

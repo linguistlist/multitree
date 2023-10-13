@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Muran: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE cvf Yahah,
+ffg Bohurá,
+mura Muran,
+myp Pirahã,
+myp_mur Mura;
+TREE 21952 = [&R] (myp,ffg,cvf,myp_mur)mura;
+END;

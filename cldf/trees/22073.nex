@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Senagi, a subtree of Trans New Guinea: Loving 1964]
+BEGIN TREES;
+TRANSLATE agg Senagi,
+agg_cen Central,
+agg_mon Monga,
+agg_nai Nai,
+agg_sam Samanai,
+kbv Kamberataro,
+kbv_lih Lihen,
+kbv_men Mengau,
+kbv_nor North,
+kbv_sou South,
+sngi 'Senagi Family';
+TREE 22073 = [&R] ((agg_sam,agg_mon,agg_nai,agg_cen)agg,(kbv_men,kbv_lih,kbv_nor,kbv_sou)kbv)sngi;
+END;

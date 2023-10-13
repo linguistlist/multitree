@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Salivan: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE pid Piaroa,
+slc Sáliba,
+slvn Salivan,
+wpc Maco;
+TREE 10227 = [&R] (wpc,pid,slc)slvn;
+END;

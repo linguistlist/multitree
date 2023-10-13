@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Morehead and Upper Maro Rivers: Dryer 2005]
+BEGIN TREES;
+TRANSLATE jei Yei,
+kcd 'Kanum (Ngkâlmpw)',
+khd 'Kanum (Bädi)',
+mok Moraori,
+mumr 'Morehead and Upper Maro Rivers';
+TREE 12186 = [&R] (kcd,jei,khd,mok)mumr;
+END;

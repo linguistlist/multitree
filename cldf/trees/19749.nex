@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Southern Daly: Tryon 2007]
+BEGIN TREES;
+TRANSLATE murr 'Southern Daly',
+mwf Murrinpatha,
+nam_nam_nan_nam_tye Ngenkikurrunggur,
+nam_nam_nga_nam_tye Ngenkityemeri;
+TREE 19749 = [&R] (nam_nam_nan_nam_tye,mwf,nam_nam_nga_nam_tye)murr;
+END;

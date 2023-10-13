@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: North American Deaf Sign Languages: Composite]
+BEGIN TREES;
+TRANSLATE ase 'American Sign Language',
+ase_bla 'Black American Sign Language',
+ase_tal 'Tactile Sign Language',
+csf 'Cuba Sign Language',
+fcs 'Quebec Sign Language',
+iks 'Inuit Sign Language',
+ils 'International Sign',
+mfs 'Mexican Sign Language',
+mre 'Martha''s Vineyard Sign Language',
+msd 'Yucatec Maya Sign Language',
+ndsl 'North American Deaf Sign Languages',
+nsr 'Maritime Sign Language';
+TREE 26592 = [&R] (ils,(ase_bla,ase_tal)ase,csf,iks,mre,msd,nsr,fcs,mfs)ndsl;
+END;

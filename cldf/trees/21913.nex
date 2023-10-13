@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Chapacuran: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE chaw Chapacuran,
+guap Itene,
+ite Itene,
+ite_kum 'Abitana-Kumaná',
+ite_wan Wanham,
+pav Orowari,
+qdh Chapacura,
+qlv Quitemo,
+qlv_nap 'Kitemo-Nape',
+schp Wari,
+trz Torá,
+xbx Kabixí;
+TREE 21913 = [&R] (((ite_kum)ite_kum,xbx,ite_wan,ite)guap,(qdh,(qlv_nap)qlv,pav,pav,trz)schp)chaw;
+END;

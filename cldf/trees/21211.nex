@@ -1,0 +1,38 @@
+#NEXUS
+[MultiTree: Chukotko-Kamchatkan: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE alr Alutor,
+alr_alu Alutorskij,
+alr_kar Karaginskij,
+alr_pal Palanskij,
+chka 'Chukotko-Kamchatkan',
+chuk Chukot,
+ckt Chukchi,
+ckt_cha Chaun,
+ckt_enm Enmylinskij,
+ckt_enu Enurmin,
+ckt_nun Nunligranskij,
+ckt_pev Pevekskij,
+ckt_uel Uellanskij,
+ckt_xat Xatyrskij,
+ckt_yan Yanrakinot,
+itl Itelmen,
+itl_sed Sedanka,
+itl_xaj Xajrjuzovo,
+kory 'Koryak-Alyutor',
+kpy Koryak,
+kpy_apo Apokinskij,
+kpy_cav Cavcuvenskij,
+kpy_gin Gin,
+kpy_itk Itkan,
+kpy_kam Kamenskij,
+kpy_pal Palan,
+kpy_par Paren,
+kpy_xat Xatyrskij,
+krk Kerek,
+krk_kha Khatyrka,
+krk_mai Mainypilgino,
+nchk 'Northern Chukotko-Kamchatkan',
+schk 'Southern Chukotko-Kamchatkan';
+TREE 21211 = [&R] ((((kpy_cav,kpy_pal,kpy_itk,kpy_xat,kpy_apo,kpy_gin,kpy_par,kpy_kam)kpy,(alr_kar,alr_alu,alr_pal)alr,(krk_mai,krk_kha)krk)kory,((ckt_xat,ckt_enu,ckt_pev,ckt_cha,ckt_enm,ckt_yan,ckt_uel,ckt_nun)ckt)chuk)nchk,((itl_xaj,itl_sed)itl)schk)chka;
+END;

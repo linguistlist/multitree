@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Hottentoten: Müller 1874]
+BEGIN TREES;
+TRANSLATE cskh Hottentoten,
+khoi Hottentoten,
+kqz Kora,
+naq Nama,
+nsak_ssak Buschmänner,
+xii 'Cap-Dialekt';
+TREE 12179 = [&R] ((xii,naq,kqz)cskh,nsak_ssak)khoi;
+END;

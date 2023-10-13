@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Chong dialects, subtree of Mon-Khmer (Austro-Asiatic): Isara 2002]
+BEGIN TREES;
+TRANSLATE 1l3 Kasong,
+cog Chong,
+cog_bnk 'Ban Nam Khun',
+cog_bnk_cog_tak 'Northern Proper',
+cog_phl Phluang,
+cog_pnr 'Pong Nam Ron',
+cog_tak 'Takhian Thong',
+pear Pearic;
+TREE 20728 = [&R] (((cog_pnr)cog_pnr,(cog_bnk,cog_tak)cog_bnk_cog_tak,(cog_phl)cog_phl)cog,1l3)pear;
+END;

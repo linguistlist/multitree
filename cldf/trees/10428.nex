@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Border: Dryer 2005]
+BEGIN TREES;
+TRANSLATE amn Amanab,
+auw Awyi,
+btng Border,
+imn Imonda,
+jet Manem,
+wrs Waris;
+TREE 10428 = [&R] (amn,auw,imn,jet,wrs)btng;
+END;

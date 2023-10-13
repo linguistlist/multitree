@@ -1,0 +1,33 @@
+#NEXUS
+[MultiTree: Northern New Caledonian, subtree of Austronesian: Ozanne-Rivierre 1995]
+BEGIN TREES;
+TRANSLATE aek Haeke,
+cam Cémuhî,
+ccnn 'Cem-Pac',
+ennc 'Far North',
+fwa Fwâi,
+hhmm 'Hav-Hak-Mav-Mak',
+hmcp 'Hav-Hak-Mav-Mak-Cem-Pac',
+hvk Haveke,
+jaz Jawé,
+knyc 'Kum-Nel-Yua-Cac',
+knyu 'Kum-Nel-Yua',
+mkt_hmw Hmwaeke,
+mrk Hmwaveke,
+msq Caaàc,
+ncal 'Proto-New Caledonian',
+nee_kum Kumak,
+nee_nen Nêlêmwâ,
+nem Nemi,
+nnca 'Northern New Caledonian',
+npfp 'Nmi-Pij-Fwa-Pam-Pap',
+npfw 'Nmi-Pij-Fwa',
+nua Yuanga,
+onnc 'Other Northern Languages',
+piz Pije,
+pme Pwaamei,
+pop Pwapwâ,
+pri Paicî,
+yly Nyelâyu;
+TREE 24463 = [&R] (((((cam,pri)ccnn,(mrk,mkt_hmw,aek,hvk)hhmm)hmcp,((nem,piz,fwa)npfw,pop,pme)npfp,jaz)onnc,((msq,(nua,nee_kum,nee_nen)knyu)knyc,yly)ennc)nnca)ncal;
+END;

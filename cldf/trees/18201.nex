@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Wakashan: Golla, Goddard, Campbell, Mithun, Mixco 2007]
+BEGIN TREES;
+TRANSLATE dtd Nitinaht,
+has Haisla,
+hei 'Heiltsuk-Oowekyala',
+kwk Kwakiutl,
+myh Makah,
+nuk Nootka,
+nwak 'Northern Wakashan',
+swak Nootkan,
+waka Wakashan;
+TREE 18201 = [&R] ((hei,has,kwk)nwak,(nuk,myh,dtd)swak)waka;
+END;

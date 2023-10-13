@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Central American Unclassified Languages: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE caun 'Central American Unclassified',
+hvc 'Haitian Vodoun Culture Language',
+len Lenca,
+mom Monimbo,
+xin Xinca;
+TREE 11965 = [&R] (mom,xin,len,hvc)caun;
+END;

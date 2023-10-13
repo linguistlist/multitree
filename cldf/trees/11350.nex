@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Zamucoan: Campbell 1997]
+BEGIN TREES;
+TRANSLATE ayo Ayoreo,
+ceg Chamacoco,
+ceg_bne 'Bahía Negra',
+ceg_bra Bravo,
+zamu Zamucoan;
+TREE 11350 = [&R] ((ceg_bra,ceg_bne)ceg,ayo)zamu;
+END;

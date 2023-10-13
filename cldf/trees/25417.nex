@@ -1,0 +1,23 @@
+#NEXUS
+[MultiTree: Hmong dialects, subtree of Hmong-Mien: Castro & Gu 2010]
+BEGIN TREES;
+TRANSLATE chua 'Western Hmongic',
+cqd_bua 'Hmongb Buak',
+cqd_dan 'Standard Western Miao',
+cqd_hbe 'Hmongb Bes',
+cqd_sou 'Hmongb Soud',
+cqdn 'Core Farwestern Hmongic',
+hmd 'A Hmao',
+hmom 'Miao-Yao',
+hmon Miao,
+hmz 'Hmongb Shuat',
+hnj_eas 'East Nzhuab',
+hnj_shi 'Hmongb Shib',
+hnj_wes 'West Nzhuab',
+hsbb 'Hmongb Soud-Bes-Buak',
+hsnz 'Hmongb Shib-Nzhuab',
+mww_dle 'Hmongb Dleub',
+qian Qiandong,
+xian Xiangxi;
+TREE 25417 = [&R] (((((cqd_sou,cqd_hbe,cqd_bua)hsbb,(hnj_wes,hnj_eas,hnj_shi)hsnz,mww_dle,cqd_dan,hmz)cqdn,hmd)chua,xian,qian)hmon)hmom;
+END;

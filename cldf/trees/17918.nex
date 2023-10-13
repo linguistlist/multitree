@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Australian Deaf Sign Languages: Composite]
+BEGIN TREES;
+TRANSLATE asf 'Australian Sign Language',
+auds 'Australian Deaf Sign Languages',
+ygs 'Yolŋu Sign Language';
+TREE 17918 = [&R] (asf,ygs)auds;
+END;

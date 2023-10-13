@@ -1,0 +1,24 @@
+#NEXUS
+[MultiTree: Guajiboan: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE cui Cuiva,
+cui_ama Amaruwa,
+cui_chi Chiricoa,
+cui_cir Chiripo,
+cui_mas_cui_maw Masiware,
+cui_may Mayayero,
+cui_mel Mella,
+cui_moc 'Mochuelo-Casanare-Cuiba',
+cui_pta Ptamo,
+cui_tam Tampiwi,
+cui_yar 'Yarahuuraxi-Capanapara',
+guah Guajiboan,
+guh Guajibo,
+guh_amo Amorua,
+guh_gua Guahibo,
+guh_sik Sicuane,
+guh_tig Tigrero,
+guo Guayabero,
+qds Churuya;
+TREE 21933 = [&R] ((guh_gua,guh_tig,guh_amo)guh,(cui_tam,cui_yar,cui_ama,cui_cir,cui_mel,cui_pta,guh_sik,cui_may,cui_mas_cui_maw,cui_chi,cui_moc)cui,qds,guo)guah;
+END;

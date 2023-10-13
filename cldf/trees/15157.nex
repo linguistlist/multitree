@@ -1,0 +1,34 @@
+#NEXUS
+[MultiTree: African Deaf Sign Languages: Composite]
+BEGIN TREES;
+TRANSLATE ads 'Adamorobe Sign Language',
+adsl 'African Deaf Sign Languages',
+asp 'Algerian Sign Language',
+bog 'Bamako Sign Language',
+cds 'Chadian Sign Language',
+esl 'Egypt Sign Language',
+eth 'Ethiopian Sign Language',
+gse 'Ghanaian Sign Language',
+gus 'Guinean Sign Language',
+hsl 'Hausa Sign Language',
+lbs 'Libyan Sign Language',
+lsy 'Mauritian Sign Language',
+mzc 'Madagascar Sign Language',
+mzy 'Mozambican Sign Language',
+nbs 'Namibian Sign Language',
+nsi 'Nigerian Sign Language',
+sfs 'South African Sign Language',
+sgx 'Sierra Leone Sign Language',
+syy 'Al-Sayyid Bedouin Sign Language',
+tse 'Tunisian Sign Language',
+tza 'Tanzanian Sign Language',
+ugn 'Ugandan Sign Language',
+xki 'Kenyan Sign Language',
+xms 'Moroccan Sign Language',
+zib 'Zimbabwe Sign Language',
+zib_mas 'Masvingo School Sign',
+zib_zcs 'Zimbabwe Community Sign',
+zib_zss 'Zimbabwe School Sign',
+zsl 'Zambian Sign Language';
+TREE 15157 = [&R] ((zib_zss,zib_zcs,zib_mas)zib,xki,mzc,sfs,hsl,mzy,eth,gse,bog,nsi,sgx,ads,gus,tza,tse,ugn,cds,lbs,asp,esl,xms,zsl,syy,nbs,lsy)adsl;
+END;

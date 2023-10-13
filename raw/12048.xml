@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Central America</region>
+    <root>
+      <pri-name>Tarascan</pri-name>
+      <created-by>joe_leif</created-by>
+      <alt-names></alt-names>
+      <updater-id type="integer">10740</updater-id>
+      <tree-val>Tarascan: Dryer 2005</tree-val>
+      <start-date nil="true"></start-date>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 632. New York: Oxford University Press. ISBN 0199255911</publications>
+      <node-status-id nil="true"></node-status-id>
+      <end-date nil="true"></end-date>
+      <confidence>y</confidence>
+      <node-type-id type="integer">10000</node-type-id>
+      <deleted-at nil="true"></deleted-at>
+      <geography nil="true"></geography>
+      <creator-id type="integer">10740</creator-id>
+      <created-at type="datetime">2009-05-04T20:42:38-04:00</created-at>
+      <tree-id type="integer">12048</tree-id>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <other-codes></other-codes>
+      <updated-by>joe_leif</updated-by>
+      <children type="array">
+        <child>
+          <pri-name>Tarascan</pri-name>
+          <created-by>joe_leif</created-by>
+          <alt-names></alt-names>
+          <updater-id type="integer">10740</updater-id>
+          <tree-val>Tarascan: Dryer 2005</tree-val>
+          <start-date nil="true"></start-date>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 632. New York: Oxford University Press. ISBN 0199255911</publications>
+          <node-status-id nil="true"></node-status-id>
+          <end-date nil="true"></end-date>
+          <confidence>y</confidence>
+          <node-type-id type="integer">10001</node-type-id>
+          <deleted-at nil="true"></deleted-at>
+          <geography>Country: Mexico; Lat.: 19.5; Long.: -101.67</geography>
+          <creator-id type="integer">10740</creator-id>
+          <created-at type="datetime">2009-05-04T20:42:39-04:00</created-at>
+          <tree-id type="integer">12048</tree-id>
+          <pub-comments></pub-comments>
+          <other-codes>pur</other-codes>
+          <updated-by>joe_leif</updated-by>
+          <children type="array"/>
+          <sureness type="integer">0</sureness>
+          <id type="integer">381493</id>
+          <status nil="true"></status>
+          <node-type>Language</node-type>
+          <is-default type="integer">0</is-default>
+          <codes>tsz</codes>
+          <updated-at type="datetime">2009-05-04T20:42:39-04:00</updated-at>
+        </child>
+      </children>
+      <sureness type="integer">0</sureness>
+      <id type="integer">381492</id>
+      <status nil="true"></status>
+      <node-type>Subgroup</node-type>
+      <is-default type="integer">0</is-default>
+      <codes>tara</codes>
+      <updated-at type="datetime">2009-05-04T20:42:39-04:00</updated-at>
+    </root>
+    <description>Tarascan: Dryer 2005</description>
+  </tree>
+</hash>

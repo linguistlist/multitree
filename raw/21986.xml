@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Pacific</region>
+    <root>
+      <is-default type="integer">0</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <codes>bait</codes>
+      <updated-by>joe_leif</updated-by>
+      <tree-val>East New Britain: Ross 2001</tree-val>
+      <status nil="true"></status>
+      <start-date nil="true"></start-date>
+      <pri-name>East New Britain</pri-name>
+      <created-by>joe_leif</created-by>
+      <id type="integer">871089</id>
+      <alt-names></alt-names>
+      <updated-at type="datetime">2013-05-22T13:58:10-04:00</updated-at>
+      <geography>spoken on New Britain island</geography>
+      <end-date nil="true"></end-date>
+      <created-at type="datetime">2013-05-22T13:58:10-04:00</created-at>
+      <updater-id type="integer">10740</updater-id>
+      <pub-comments>"Wurm recognized that there was a close link between Baining and Taulil-Butam, but, to my knowledge, no supporting evidence for this link has been published previously" (Ross 2001:311).</pub-comments>
+      <node-type>Subgroup</node-type>
+      <confidence>y</confidence>
+      <sureness type="integer">0</sureness>
+      <other-codes></other-codes>
+      <node-type-id type="integer">10000</node-type-id>
+      <tree-id type="integer">21986</tree-id>
+      <publications>Ross, Malcolm D. 2001. Is there an East Papuan phylum?: Evidence from pronouns. In Andrew K Pawley, Malcolm D. Ross &amp; Darrell T Tryon (eds.), The Boy from Bundaberg: Studies in Melanesian Linguistics in Honour of Tom Dutton, vol. 514, 301-321. Canberra: Pacific Linguistics, Research School of Pacific and Asian Studies. </publications>
+      <creator-id type="integer">10740</creator-id>
+      <node-status-id nil="true"></node-status-id>
+      <children type="array">
+        <child>
+          <is-default type="integer">0</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <codes>byx</codes>
+          <updated-by>joe_leif</updated-by>
+          <tree-val>East New Britain: Ross 2001</tree-val>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <pri-name>Baining</pri-name>
+          <created-by>joe_leif</created-by>
+          <id type="integer">871090</id>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2013-05-22T13:58:10-04:00</updated-at>
+          <geography nil="true"></geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2013-05-22T13:58:10-04:00</created-at>
+          <updater-id type="integer">10740</updater-id>
+          <pub-comments>"&#8230;further work on Sulka, Baining, and Taulil morphology might not come amiss" (Ross 2001:311).  Cited Parker 1977.</pub-comments>
+          <node-type>Language</node-type>
+          <confidence>y</confidence>
+          <sureness type="integer">0</sureness>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <tree-id type="integer">21986</tree-id>
+          <publications>Ross, Malcolm D. 2001. Is there an East Papuan phylum?: Evidence from pronouns. In Andrew K Pawley, Malcolm D. Ross &amp; Darrell T Tryon (eds.), The Boy from Bundaberg: Studies in Melanesian Linguistics in Honour of Tom Dutton, vol. 514, 301-321. Canberra: Pacific Linguistics, Research School of Pacific and Asian Studies. </publications>
+          <creator-id type="integer">10740</creator-id>
+          <node-status-id nil="true"></node-status-id>
+          <children type="array"/>
+        </child>
+        <child>
+          <is-default type="integer">0</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <codes>tuh-but, tuh</codes>
+          <updated-by>joe_leif</updated-by>
+          <tree-val>East New Britain: Ross 2001</tree-val>
+          <status>Extinct</status>
+          <start-date nil="true"></start-date>
+          <pri-name>Butam</pri-name>
+          <created-by>joe_leif</created-by>
+          <id type="integer">871092</id>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2013-05-22T13:58:10-04:00</updated-at>
+          <geography nil="true"></geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2013-05-22T13:58:10-04:00</created-at>
+          <updater-id type="integer">10740</updater-id>
+          <pub-comments>"Butam is an extinct language which was recognised by Laufer (1950, 1959) as being related to Taulil" (Ross 2001:311).</pub-comments>
+          <node-type>Language</node-type>
+          <confidence>y</confidence>
+          <sureness type="integer">0</sureness>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <tree-id type="integer">21986</tree-id>
+          <publications>Ross, Malcolm D. 2001. Is there an East Papuan phylum?: Evidence from pronouns. In Andrew K Pawley, Malcolm D. Ross &amp; Darrell T Tryon (eds.), The Boy from Bundaberg: Studies in Melanesian Linguistics in Honour of Tom Dutton, vol. 514, 301-321. Canberra: Pacific Linguistics, Research School of Pacific and Asian Studies. </publications>
+          <creator-id type="integer">10740</creator-id>
+          <node-status-id type="integer">10000</node-status-id>
+          <children type="array"/>
+        </child>
+        <child>
+          <is-default type="integer">0</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <codes>tuh</codes>
+          <updated-by>joe_leif</updated-by>
+          <tree-val>East New Britain: Ross 2001</tree-val>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <pri-name>Taulil</pri-name>
+          <created-by>joe_leif</created-by>
+          <id type="integer">871091</id>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2013-05-22T13:58:10-04:00</updated-at>
+          <geography nil="true"></geography>
+          <end-date nil="true"></end-date>
+          <created-at type="datetime">2013-05-22T13:58:10-04:00</created-at>
+          <updater-id type="integer">10740</updater-id>
+          <pub-comments>"&#8230;further work on Sulka, Baining, and Taulil morphology might not come amiss" (Ross 2001:311).  Cited Lindrud &amp; Nicholson n.d.; Laufer 1950; author's field notes.</pub-comments>
+          <node-type>Language</node-type>
+          <confidence>y</confidence>
+          <sureness type="integer">0</sureness>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <tree-id type="integer">21986</tree-id>
+          <publications>Ross, Malcolm D. 2001. Is there an East Papuan phylum?: Evidence from pronouns. In Andrew K Pawley, Malcolm D. Ross &amp; Darrell T Tryon (eds.), The Boy from Bundaberg: Studies in Melanesian Linguistics in Honour of Tom Dutton, vol. 514, 301-321. Canberra: Pacific Linguistics, Research School of Pacific and Asian Studies. </publications>
+          <creator-id type="integer">10740</creator-id>
+          <node-status-id nil="true"></node-status-id>
+          <children type="array"/>
+        </child>
+      </children>
+    </root>
+    <description>East New Britain: Ross 2001</description>
+  </tree>
+</hash>

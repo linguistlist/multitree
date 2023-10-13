@@ -1,0 +1,33 @@
+#NEXUS
+[MultiTree: Plateau Penutian: Composite]
+BEGIN TREES;
+TRANSLATE kla 'Klamath-Modoc',
+klmo Klamath,
+mbe Molala,
+mlla Molala,
+nez 'Nez Perce',
+nez_low Downriver,
+nez_upp Upriver,
+plpn Plateau,
+qot Sahaptin,
+shap Sahaptian,
+tqn Tenino,
+tqn_cel Celilo,
+tqn_joh 'John Day',
+tqn_roc 'Rock Creek',
+tqn_tyg 'Tygh Valley',
+tqn_uma Umatilla,
+waa Northeastern,
+waa_cha Chamnapam,
+waa_lsn 'Lower Snake',
+waa_nax Naxiyampam,
+waa_pal Palouse,
+waa_wal 'Walla Walla',
+waa_wan Wanapam,
+waa_waw Wawyukma,
+yak Klikitat,
+yak_kit Kittitas,
+yak_nis 'Upper Nisqually',
+yak_upp 'Upper Cowlitz';
+TREE 18041 = [&R] (((nez_low,nez_upp)nez,((yak_kit,yak_upp,yak,yak,yak_nis)yak,(tqn_roc,tqn_tyg,tqn_joh,tqn_uma,tqn,tqn_cel)tqn,(waa_pal,(waa_nax,waa_cha,waa_waw)waa_lsn,waa_wan,waa_wal)waa)qot)shap,(kla)klmo,(mbe)mlla)plpn;
+END;

@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Wakashan: Campbell 1997]
+BEGIN TREES;
+TRANSLATE dtd Nitinat,
+has Haisla,
+hei Heiltsuk,
+ktla Kwakiutlan,
+kwk Kwakiutl,
+myh Makah,
+nkan Nootkan,
+nuk Nootka,
+nwak 'Northern Wakashan',
+swak 'Southern Wakashan',
+waka Wakashan;
+TREE 11342 = [&R] (((hei,kwk)ktla,has)nwak,((nuk,myh,dtd)nkan)swak)waka;
+END;

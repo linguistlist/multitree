@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Tacanan: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE arao Araona,
+aro Araona,
+artc 'Araona-Tacana',
+cav Cavineña,
+cavi Cavinena,
+cvtc 'Cavinena-Tacana',
+ese 'Ese Ejja',
+rey Reyesano,
+taca Tacanan,
+tacp 'Tacana Proper',
+tiat Tiatinagua,
+tna Tacana,
+tno Toromono;
+TREE 10311 = [&R] (((aro)arao,((cav)cavi,(rey,tna,tno)tacp)cvtc)artc,(ese)tiat)taca;
+END;

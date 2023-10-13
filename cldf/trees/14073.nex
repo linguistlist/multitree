@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Chumashan: Powell 1891]
+BEGIN TREES;
+TRANSLATE boi 'Santa Barbara',
+boi_crz_inz_obi_puy_veo 'Santa Rosa',
+chum Chumashan,
+inz 'Santa Inez',
+obi 'San Luis Obispo',
+puy Purísima,
+qmc Buenaventura,
+stbb 'Santa Barbara';
+TREE 14073 = [&R] ((obi,boi,inz)stbb,boi_crz_inz_obi_puy_veo,qmc,puy)chum;
+END;

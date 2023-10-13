@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Hurro-Urartian: Composite]
+BEGIN TREES;
+TRANSLATE huru 'Hurro-Urartean',
+xhu Hurrian,
+xur Urartian;
+TREE 13236 = [&R] (xur,xhu)huru;
+END;

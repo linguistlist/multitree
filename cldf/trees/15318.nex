@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Salinan: Powell 1891]
+BEGIN TREES;
+TRANSLATE 01w Eslen,
+sln_ant 'San Antonio',
+sln_mig 'San Miguel',
+slnn Salinan;
+TREE 15318 = [&R] ((sln_ant,sln_mig)01w)slnn;
+END;

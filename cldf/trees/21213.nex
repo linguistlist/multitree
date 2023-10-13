@@ -1,0 +1,27 @@
+#NEXUS
+[MultiTree: East Bird's Head-Sentani: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE beso Burmeso,
+bzu Burmeso,
+demt Demta,
+dmy Sowari,
+ebhs 'East Bird’s Head-Sentani',
+ebir 'East Bird’s Head',
+mani Mantion,
+meax Meax,
+mej Meyah,
+mnx Manikion,
+mtj Moskona,
+nxx Nafri,
+senp 'Sentani Proper',
+sent Sentani,
+set Sentani,
+set_cen 'Central Sentani',
+set_eas 'East Sentani',
+set_wes 'West Sentani',
+tnm Tabla,
+tnm_tep Tepera,
+tnm_yew 'Yewena-Yongsu',
+tnm_yok Yokari;
+TREE 21213 = [&R] ((((set_cen,set_eas,set_wes)set,nxx,(tnm_tep,tnm_yok,tnm_yew)tnm)senp,(dmy)demt)sent,((mnx)mani,(mtj,mej)meax)ebir,(bzu)beso)ebhs;
+END;

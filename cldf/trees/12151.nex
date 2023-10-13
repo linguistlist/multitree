@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Bosavi: Dryer 2005]
+BEGIN TREES;
+TRANSLATE bco Kaluli,
+bosv Bosavi,
+etr Edolo;
+TREE 12151 = [&R] (bco,etr)bosv;
+END;

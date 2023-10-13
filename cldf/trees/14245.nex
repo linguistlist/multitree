@@ -1,0 +1,32 @@
+#NEXUS
+[MultiTree: Iroquoian: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE cay Cayuga,
+chr Cherokee,
+chr_ela Elati,
+chr_kit Kituhwa,
+chr_ota Otali,
+chr_ove 'Overhill-Middle Cherokee',
+five 'Five Nations',
+huro Huron,
+iroq Iroquoian,
+lre Laurentian,
+moh Mohawk,
+moho 'Mohawk-Oneida',
+niro 'Northern Iroquoian',
+ntw Nottoway,
+one Oneida,
+ono Onondaga,
+onon Onondaga,
+seca 'Seneca-Cayuga',
+see Seneca,
+seon 'Seneca-Onondaga',
+siro 'Southern Iroquoian',
+sqn Susquehannock,
+tuno 'Tuscarora-Nottoway',
+tus Tuscarora,
+wya Wyandot,
+wya_hur Huron,
+wya_wya Wyandot;
+TREE 14245 = [&R] ((((wya_hur,wya_wya)wya)huro,lre,(ntw,tus)tuno,(((cay,see)seca,(ono)onon)seon,(one,moh)moho)five)niro,((chr_kit,chr_ela,chr_ota,chr_ove)chr)siro,sqn)iroq;
+END;

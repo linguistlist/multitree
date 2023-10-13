@@ -1,0 +1,36 @@
+#NEXUS
+[MultiTree: Mandé-sud, subtree of Niger-Congo: Prost 1953]
+BEGIN TREES;
+TRANSLATE bam Bamana,
+bbo_bwq Bobo,
+bib Bisa,
+bib_bar Bisa,
+bib_leb Lebir,
+bqc Boko,
+bqp Busa,
+bza Gbande,
+dnj Dã,
+dnj_dan 'Dã de Danané',
+ggu Gban,
+gkp_xpe Kpele,
+goa Guro,
+kpme 'Groupe kpele-mende',
+men Mende,
+mev Mana,
+mnbu 'Groupe mana-busa',
+mnde Mandé,
+moa Mwa,
+neb Wẽ,
+nhb Bẽ,
+sbd_stj_sym Sã,
+sbd_tom 'Sã du Sud',
+smnd 'Mandé-sud',
+stj 'Sã du Nord',
+sus Susu,
+tod Toma,
+vaba 'Vaï-bamana',
+vai Vaï,
+wan Nwã,
+yre Yauré;
+TREE 24598 = [&R] (((men,gkp_xpe,sus,bza,bza,tod)kpme,((dnj_dan)dnj,neb,yre,(bqp,bqc)bqp,goa,wan,(stj,sbd_tom)sbd_stj_sym,(bib_leb,bib_bar)bib,bbo_bwq,mev,nhb,moa,ggu)mnbu,(bam,vai)vaba)smnd)mnde;
+END;

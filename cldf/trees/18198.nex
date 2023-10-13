@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Shastan: Composite]
+BEGIN TREES;
+TRANSLATE qk8 Okwanuchu,
+qm0 Konomihu,
+qt4 'New River Shasta',
+shas Shastan,
+sht Shasta,
+sht_kam Kammatwa,
+sht_kla 'Klamath River',
+sht_ore Oregon,
+sht_sct 'Scotts Valley',
+sht_val 'Shasta Valley';
+TREE 18198 = [&R] ((sht_ore,sht_val,sht_kla,sht_kam,sht_sct)sht,qm0,qt4,qk8)shas;
+END;

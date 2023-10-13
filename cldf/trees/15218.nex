@@ -1,0 +1,19 @@
+#NEXUS
+[MultiTree: Kulanapan: Powell 1891]
+BEGIN TREES;
+TRANSLATE 00a Chawishek,
+00b Chwachamajù,
+00c Yusal,
+0ur 'Choam Chadila Pomo',
+0z9 Batemdikayi,
+peb 'Clear Lake',
+pef Sonoma,
+pej 'Redwood Cañon',
+pej_gui 'Rancheria Valley',
+pej_she 'Sherwood Valley',
+peq 'Russian River',
+pomo Kulanapan,
+poo 'Oat Valley',
+qt8 'Eel River';
+TREE 15218 = [&R] (00b,qt8,peb,0z9,poo,00c,pej_she,pef,0ur,peq,pej_gui,00a,pej)pomo;
+END;

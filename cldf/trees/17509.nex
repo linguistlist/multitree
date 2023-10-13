@@ -1,0 +1,20 @@
+#NEXUS
+[MultiTree: Arawan: Composite]
+BEGIN TREES;
+TRANSLATE arau Arawan,
+aru Arawá,
+bnh_jap Madi,
+cul Culina,
+dncl 'Dení-Kulina',
+dny Deni,
+dny_ina Inauini,
+jaa Jamamadí,
+jaa_kan Kanamantí,
+jaa_tuk Tukurina,
+pad Paumarí,
+pad_kur Kurukuru,
+pad_pad Paumarí,
+pad_way Uaiai,
+swx Zuruahá;
+TREE 17509 = [&R] ((jaa_tuk,jaa_kan,jaa)bnh_jap,(pad_kur,pad_pad,pad_way)pad,(cul,(dny_ina)dny)dncl,aru,swx)arau;
+END;

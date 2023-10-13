@@ -1,0 +1,19 @@
+#NEXUS
+[MultiTree: Proto-Iwaidjan: Evans 2000]
+BEGIN TREES;
+TRANSLATE amg Amurdak,
+ibd Iwaidja,
+ilg 'Garig/Ilgar',
+ilg_gar Garig,
+ilg_ilg Ilgar,
+marg 'Wurrugu-Marrgu',
+mhg Marrgu,
+mph Maung,
+mph_znk 'Goulburn Islands',
+warg Warrkbi,
+wur Wurrugu,
+yiwc Iwaidjic,
+yiwn 'Proto-Iwaidjan',
+znk Manangkari;
+TREE 19095 = [&R] (((ibd,(ilg_gar,ilg_ilg)ilg)warg,(znk,mph)mph_znk)yiwc,(mhg,wur)marg,amg)yiwn;
+END;

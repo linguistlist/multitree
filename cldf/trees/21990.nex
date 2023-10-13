@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: North Bougainville: Ross 2001]
+BEGIN TREES;
+TRANSLATE kyx Konua,
+roo Rotokas,
+wbou 'North Bougainville';
+TREE 21990 = [&R] (roo,kyx)wbou;
+END;

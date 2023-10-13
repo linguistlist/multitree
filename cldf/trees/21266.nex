@@ -1,0 +1,19 @@
+#NEXUS
+[MultiTree: Yele-West New Britain: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE anz Anem,
+ata 'Pele-Ata',
+ata_ata Ata,
+ata_pel Pele,
+wnbr 'West New Britain',
+yele Yele,
+yle Yele,
+yle_aba Abaletti,
+yle_bou Bou,
+yle_dam Daminyu,
+yle_jar Jaru,
+yle_jin Jinjo,
+yle_wul Wulanga,
+ywnb 'Yele-West New Britain';
+TREE 21266 = [&R] (((yle_wul,yle_dam,yle_jin,yle_jar,yle_bou,yle_aba)yle)yele,(anz,(ata_pel,ata_ata)ata)wnbr)ywnb;
+END;

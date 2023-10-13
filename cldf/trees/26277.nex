@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: West-Rift Southern Cushitic, a subtree of Afro-Asiatic: Kießling and Mous 2003]
+BEGIN TREES;
+TRANSLATE aas Aasax,
+bds Burunge,
+gow Gorwaa,
+iraq Iraqwoid,
+irk Iraqw,
+nrfw 'Northern West-Rift Cushitic',
+rife 'East-Rift Cushitic',
+rift 'Rift Branch',
+rifw 'Proto-West-Rift Cushitic',
+scus 'Southern Cushitic',
+srfw 'Southern West-Rift Cushitic',
+wbj Alagwa,
+wka Qwadza;
+TREE 26277 = [&R] (((((irk,gow)iraq,wbj)nrfw,(bds)srfw)rifw,(wka,aas)rife)rift)scus;
+END;

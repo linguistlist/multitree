@@ -1,0 +1,32 @@
+#NEXUS
+[MultiTree: Sepik: Foley 2005]
+BEGIN TREES;
+TRANSLATE aau Abau,
+abt Abelam,
+amp Alamblak,
+bzf Boiken,
+cjn Chenapian,
+gbf Gaikwundi,
+ian Iatmul,
+iwm Iwam,
+keh_sdk Sawos,
+kmn Awtuw,
+kmo Kwoma,
+kwj Kwanga,
+mle Manambu,
+msep 'Proto Ndu-Kwoma',
+nduu Ndu,
+nnm Namie,
+nud Ngala,
+nuku 'Kwoma-Kwanga',
+ramm Ram,
+seph 'Sepik Hill',
+sepk 'Sepik family',
+tmax Tama,
+usep 'Upper Sepik',
+wog Wogumusin,
+woga 'Wogumusin-Chenapian',
+yriv 'Yellow River',
+yss 'Yessan-Mayo';
+TREE 22108 = [&R] ((amp)seph,((gbf,ian,keh_sdk,bzf,mle,nud,abt)nduu,(kmo,kwj)nuku)msep,((wog,cjn)woga,iwm,aau)usep,(kmn)ramm,(nnm)yriv,(yss)tmax)sepk;
+END;

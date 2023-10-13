@@ -1,0 +1,25 @@
+#NEXUS
+[MultiTree: Yanomaman: Composite]
+BEGIN TREES;
+TRANSLATE guu Yanomamö,
+guu_eas 'Eastern Yanomami',
+guu_wes 'Western Yanomami',
+shb Ninam,
+shb_nor 'Northern Ninam',
+shb_sou Ninam,
+wca Yanomam,
+wca_jau Jauari,
+wca_nan Nanomam,
+wca_yan Yanamam,
+wca_yao Yanomam,
+wca_yay Yanomay,
+xsu Sanumá,
+xsu_aua Auaris,
+xsu_cau Caura,
+xsu_cob Cobari,
+xsu_erv 'Ervato-Ventuari',
+xsu_yan Yanoma,
+yano Yanomaman,
+yro Yaroamë;
+TREE 26588 = [&R] ((wca_yan,wca_nan,wca_yao,wca_yay,wca_jau)wca,shb,(shb_nor,shb_sou,xsu_cob,xsu_cau,xsu_yan,xsu_aua,xsu_erv)xsu,(guu_eas,guu_wes)guu,yro)yano;
+END;

@@ -1,0 +1,29 @@
+#NEXUS
+[MultiTree: Pomoan: Composite]
+BEGIN TREES;
+TRANSLATE easn 'Eastern Pomo',
+gpzt 'Southern Group',
+kju Kashaya,
+nerr 'Northeastern Pomo',
+nrur 'Northern Group',
+peb 'Eastern Pomo',
+peb_big 'Big Valley',
+peb_upp 'Upper Lake',
+pef 'Northeastern Pomo',
+pej 'Northern Pomo',
+pej_gui Guidiville,
+pej_pin Pinoleville,
+pej_pot 'Potter Valley',
+peq 'Southern Pomo',
+peq_sal Salmonhole,
+peq_wes 'West Creek',
+pom 'Southeastern Pomo',
+pom_sul 'Sulphur Bank',
+pomo Pomoan,
+poo 'Central Pomo',
+poo_hop Hopland,
+poo_poi 'Point Arena-Manchester',
+sepo 'Southeastern Pomo',
+wvwi 'Western Pomoan';
+TREE 17835 = [&R] (((peb_upp,peb_big)peb)easn,(pef)nerr,((kju,(peq_wes,peq_sal)peq,(poo_hop,poo_poi)poo)gpzt,((pej_pin,pej_pot,pej_gui)pej)nrur)wvwi,((pom_sul)pom)sepo)pomo;
+END;

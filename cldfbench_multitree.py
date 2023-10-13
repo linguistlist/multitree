@@ -1,4 +1,4 @@
-import argparse
+import re
 import pathlib
 import collections
 
@@ -45,7 +45,16 @@ languages are heavily contested, they have been included in the MultiTree
 database in order to make information about them available to scholars and to accurately
 represent whatever hypothesis the original scholar is making. "Trees" that include these
 languages do not reflect genetic affiliation unless this was the intention of the author.
+
+
+### Funding
+
+- 2005-2009 National Science Foundation
+- 2012-2015 [National Science Foundation, No 1227106](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1227106)
+- 2014-2015, [National Science Foundation, No 1519050](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1519050)
 """
+
+LID_PATTERN = re.compile(r'[A-Za-z_0-9]+')
 
 
 def text(e, tag):
@@ -56,21 +65,12 @@ def text(e, tag):
 
 def norm_codes(c):
     codes = [
-        unidecode(s.strip().replace('.', '-').replace(' ', '_')) for s in c.split(',') if s.strip()]
+        unidecode(s.strip().replace('.', '_').replace(' ', '_').replace('-', '_'))
+        for s in c.split(',') if s.strip()]
     return '_'.join(sorted(codes))
 
 
 class Node:
-    """
-    codes 102561
-
-    sureness 75682   ['-1', '0', '1', '2']
-    confidence 75669
-
-    other-codes 2501   ['0g3', '0h2', '0x1', '1jm', 'aab']
-    start-date 665
-    end-date 663
-    """
     __metadata__ = [
         ('Comment', 'pub-comments'),
         ('Geography', 'geography'),
@@ -87,6 +87,7 @@ class Node:
         self.name = text(e, 'pri-name').replace('”', '')
         self.raw_codes = text(e, 'codes')
         self.codes = norm_codes(self.raw_codes)
+        assert LID_PATTERN.fullmatch(self.codes), self.codes
         self.type = text(e, 'node-type')
         assert self.name and self.codes
 
@@ -103,7 +104,7 @@ class Tree:
         self.tree = etree.parse(str(p)).find('./tree')
         self.root = self.tree.find('root')
         self.description = self.tree.find('description').text
-        self.regions = [e.text for e in self.root.findall('region')]
+        self.regions = sorted({e.text for e in self.tree.findall('region')})
         self.nodes = []
 
     @staticmethod
@@ -150,10 +151,14 @@ class Dataset(BaseDataset):
         pass
 
     def cmd_readme(self, args):
-        return add_markdown_text(super().cmd_readme(args), '', section='Description')
+        return add_markdown_text(BaseDataset.cmd_readme(self, args), NOTES, section='Description')
 
     def cmd_makecldf(self, args):
         self.schema(args.writer.cldf)
+
+        tree_dir = self.cldf_dir / 'trees'
+        if not tree_dir.exists():
+            tree_dir.mkdir()
 
         args.writer.cldf.sources = Sources.from_file(self.etc_dir / 'sources.bib')
         pubs2source = {
@@ -161,21 +166,20 @@ class Dataset(BaseDataset):
             for r in self.etc_dir.read_csv('sources.csv', dicts=True)}
 
         langs = collections.defaultdict(set)
-        trees = collections.OrderedDict()
         for p in sorted(self.raw_dir.glob('*.xml'), key=lambda pp: int(pp.stem)):
             tree = Tree(p)
+            assert tree.newick
             pubs = (text(tree.root, 'publications') or '').strip()
-            trees[p.stem] = tree.newick
             if len(tree.nodes) < 2:
                 # A handful of trees have only one node. We skip these.
-                del trees[p.stem]
                 continue
 
             node_metadata = set()
 
             for n in tree.nodes:
                 if n.codes not in langs:
-                    args.writer.objects['LanguageTable'].append(dict(ID=n.codes, Name=n.codes))
+                    args.writer.objects['LanguageTable'].append(
+                        dict(ID=n.codes, Name=n.raw_codes))
                 md = {}
                 for attr, key in Node.__metadata__:
                     if n[key]:
@@ -195,25 +199,31 @@ class Dataset(BaseDataset):
                 ID=p.stem,
                 Name=p.stem,
                 Description=tree.description,
-                Media_ID='trees',
-                Region=tree.regions,
+                Media_ID=p.stem,
+                Tree_Is_Rooted=True,
+                Tree_Type='summary',
+                Regions=tree.regions,
                 Source=pubs2source[pubs],
+                Source_Comment=pubs,
                 Node_Metadata=sorted(node_metadata)
             ))
 
-        args.writer.objects['MediaTable'].append(dict(
-            ID='trees',
-            Media_Type='text/plain',
-            Download_URL='trees.nex',
-        ))
+            nex = Nexus('#NEXUS')
+            nex.append_block(Trees.from_data(
+                (p.stem, tree.newick, True),
+                comment='MultiTree: {}'.format(tree.description),
+                **{n.codes: n.name or n.codes for n in tree.nodes}))
+            tree_dir.joinpath('{}.nex'.format(p.stem)).write_text(str(nex))
 
-        nex = Nexus('#NEXUS')
-        nex.append_block(Trees.from_data(*[(name, t, True) for name, t in trees.items()]))
-        args.writer.cldf_spec.dir.joinpath('trees.nex').write_text(str(nex))
+            args.writer.objects['MediaTable'].append(dict(
+                ID=p.stem,
+                Description=tree.description,
+                Media_Type='text/plain',
+                Download_URL='trees/{}.nex'.format(p.stem),
+            ))
 
         # Now we try to supplement the language metadata with data from Glottolog.
-        by_mt = {}
-        by_name = {}
+        by_mt, by_name, by_iso = {}, {}, {}
         # To match multitree languoids with Glottolog, we use ...
         for lang in args.glottolog.api.languoids():
             try:
@@ -227,14 +237,20 @@ class Dataset(BaseDataset):
                 by_mt[lang.identifier['multitree']] = lang
             except KeyError:
                 pass
+            if lang.iso:
+                by_iso[lang.iso] = lang
 
         for lg in args.writer.objects['LanguageTable']:
-            glang = by_mt.get(lg['ID'])
+            lid = lg['ID'].replace('_', '-')
+            lg['MultiTree_Names'] = sorted(langs[lid])
+            glang = by_mt.get(lid)
             if not glang:
-                for name in langs[lg['ID']]:
-                    if unidecode(name) in by_name:
-                        glang = by_name[unidecode(name)]
-                        break
+                glang = by_iso.get(lid)
+                if not glang:
+                    for name in langs[lid]:
+                        if unidecode(name) in by_name:
+                            glang = by_name[unidecode(name)]
+                            break
             if glang:
                 lg['Name'] = glang.name
                 lg['Latitude'] = glang.latitude
@@ -242,18 +258,35 @@ class Dataset(BaseDataset):
                 lg['Glottocode'] = glang.id
 
     def schema(self, cldf):
-        cldf.add_component('LanguageTable')
+        cldf.add_component(
+            'LanguageTable',
+            {
+                'name': 'MultiTree_Names',
+                'separator': ' | ',
+            }
+        )
         cldf.add_component(
             'TreeTable',
             {
-                'name': 'Region',
+                'name': 'Regions',
                 'separator': ';',
                 'propertyUrl': "http://purl.org/dc/terms/spatial",
+                'dc:description': "Geographic regions where the languages in a tree are spoken. "
+                                  "Roughly the seven continents with 'Pacific' and 'Central "
+                                  "America' added as separate regions.",
+                'datatype': {
+                    'base': 'string',
+                    'format': 'Africa|Asia|Australia|Europe|North America|Pacific|South America|Central America'}
             },
             {
                 'name': 'Node_Metadata',
-                'dc:description': "",
+                'dc:description': "List of column names in nodes.csv for which the tree provides"
+                                  "values for some (or all) of its nodes.",
                 'separator': ';',
+            },
+            {
+                'name': 'Source_Comment',
+                'dc:description': 'Description of the sources as given in the MultiTree tree files.',
             }
         )
         cldf.add_component('MediaTable')
@@ -276,9 +309,10 @@ class Dataset(BaseDataset):
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
                 "name": "Comment"
             },
-
-            "Tree_ID",
-
+            {
+                'name': "Tree_ID",
+                'dc:description': "References the tree in which the node appears.",
+            },
             {
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
                 "name": "Name"

@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Iroquoian: Dryer 2005]
+BEGIN TREES;
+TRANSLATE cay Cayuga,
+chr Cherokee,
+iroq Iroquoian,
+moh Mohawk,
+niro 'Northern Iroquoian',
+one Oneida,
+ono Onondaga,
+see Seneca,
+siro 'Southern Iroquoian',
+tus Tuscarora,
+wya Wyandot;
+TREE 10644 = [&R] ((cay,moh,one,ono,see,tus,wya)niro,(chr)siro)iroq;
+END;

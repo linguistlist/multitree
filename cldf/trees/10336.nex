@@ -1,0 +1,23 @@
+#NEXUS
+[MultiTree: Witotoan: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE bmr Muinane,
+boa Bora,
+boa_bor Bora,
+boa_mir Miraña,
+bora Boran,
+hto 'Huitoto, Minica',
+huu 'Huitoto, Murui',
+huu_mic Mica,
+hux 'Huitoto, Nüpode',
+mimu 'Minica-Murui',
+nipo Nipode,
+oca Ocaina,
+oca_duk Dukaiya,
+oca_ibo 'Ibo''tsa',
+ocai Ocaina,
+wipr 'Witoto Proper',
+wita Witotoan,
+wito Witoto;
+TREE 10336 = [&R] (((boa_bor,boa_mir)boa,bmr)bora,(((oca_duk,oca_ibo)oca)ocai,((hto,(huu_mic)huu)mimu,(hux)nipo)wipr)wito)wita;
+END;

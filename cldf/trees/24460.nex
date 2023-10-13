@@ -1,0 +1,32 @@
+#NEXUS
+[MultiTree: Proto-Formosan: Dyen 2006]
+BEGIN TREES;
+TRANSLATE ami Ami,
+atay 'Proto-Atayalic',
+bnn Bunun,
+ckv Kavalan,
+dru 'Rukai Proper',
+dru_bud_dru_mag_dru_man 'Lower-three Rukai',
+form 'Proto-Formosan',
+kksa 'Proto-South-Tsouic',
+nfor 'Proto-North-Formosan',
+piwa 'Proto-Paiwanic',
+puam 'Proto-Puyumo-Amic',
+pwn Paiwan,
+pwpy 'Proto-Puyumic',
+pyru 'Proto-Puyumo-Rukaic',
+pyu Puyuma,
+rksu 'Proto-Rukaitsouic',
+ruki 'Proto-Rukiac',
+sfor 'Proto-South-Formosan',
+ssf Thao,
+sxr Saaroa,
+tay Atayal,
+trv Sediq,
+tsou 'Proto-Tsouic',
+tsu Tsou,
+uun Pazeh,
+xnb Kanakanabu,
+xsy Saisiyat;
+TREE 24460 = [&R] (((((tsu,(xnb,sxr)kksa)tsou,(dru,dru_bud_dru_mag_dru_man)ruki)rksu,(((pyu,pwn)pwpy,ckv,ami)puam)piwa)pyru,bnn,ssf)sfor,((tay,trv)atay,uun,xsy)nfor)form;
+END;

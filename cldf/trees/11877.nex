@@ -1,0 +1,23 @@
+#NEXUS
+[MultiTree: Chocoan: Campbell 1997]
+BEGIN TREES;
+TRANSLATE cbg Chimila,
+choc Chocoan,
+cmi Chamí,
+cto Catío,
+cto_tuc Tucura,
+embr 'Emberá Group',
+emp Emberá,
+emp_cit Citara,
+nemb 'Northern Emberá',
+noa Noanamá,
+noa_cos Costeño,
+noa_que Quebrada,
+noa_sja 'San Juan',
+qge Quimbaya,
+qne Sinúfana,
+semb 'Southern Emberá',
+sja 'Saixa-Baudo',
+tdc Tado;
+TREE 11877 = [&R] ((noa_sja,noa_que,noa_cos)noa,((emp,cbg,cto,cto_tuc)nemb,(tdc,cmi,emp_cit,sja)semb)embr,qne,qge)choc;
+END;

@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Southern Oceanic, a subtree of Oceanic: Lynch, Ross, Crowley 2002]
+BEGIN TREES;
+TRANSLATE anei Aneityum,
+ceva 'Central Vanuatu linkage',
+erk 'South Efate dialect network',
+kefe Tanna,
+loyi 'Loyalty Islands family',
+ncal 'Mainland New Caledonian linkage',
+ncly 'New Caledonia family',
+nnca 'Northern Mainland New Caledonian',
+nrxi Erromango,
+nsoc 'Nuclear Southern Oceanic linkage',
+nvan 'Northern Vanuatu linkage',
+sfsm 'South Efate/Southern Melanesian linkage',
+smel 'Southern Melanesian family',
+snca 'Southern Mainland New Caledonian',
+sooc 'Southern Oceanic linkage',
+svnu 'Southern Vanuatu family';
+TREE 26159 = [&R] (((((loyi,(nnca,snca)ncal)ncly,(nrxi,anei,kefe)svnu)smel,erk)sfsm,ceva)nsoc,nvan)sooc;
+END;

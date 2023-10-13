@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Keresan: Campbell 1997]
+BEGIN TREES;
+TRANSLATE kee 'Eastern Keresan',
+kee_coc Cochiti,
+kee_sfd 'San Felipe-Santo Domingo',
+kee_zia 'Zia-Santa Ana',
+kere Keresan,
+kjq 'Western Keresan',
+kjq_aco Acoma,
+kjq_lag Laguna;
+TREE 13217 = [&R] ((kee_coc,kee_sfd,kee_zia)kee,(kjq_lag,kjq_aco)kjq)kere;
+END;

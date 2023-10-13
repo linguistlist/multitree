@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Sko: Laycock 1975]
+BEGIN TREES;
+TRANSLATE kris 'Krisa Family',
+ksi Krisa,
+pux Puari,
+qxd Sangke,
+rwa Rawo,
+skoo 'Sko Phylum',
+skv Sko,
+vam Vanimo,
+vanm 'Vanimo Family',
+wra Warapu,
+wut Wutung;
+TREE 21828 = [&R] ((wut,vam,qxd,skv)vanm,(ksi,wra,rwa,pux)kris)skoo;
+END;

@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Tequistlatecan: Campbell 1997]
+BEGIN TREES;
+TRANSLATE chd 'Highland Chontal',
+clo Huamelultec,
+qrp 'Tequistlatec proper',
+tequ Tequistlatecan;
+TREE 11884 = [&R] (clo,chd,qrp)tequ;
+END;

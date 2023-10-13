@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Chimúan: Kaufman 2007]
+BEGIN TREES;
+TRANSLATE chmi Chimúan,
+omc Mochika,
+qb0 Kanyari,
+qq3 Puruwá;
+TREE 15349 = [&R] (qq3,qb0,omc)chmi;
+END;

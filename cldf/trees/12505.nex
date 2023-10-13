@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Arutani-Sape: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE arus 'Arutani-Sape',
+atx Arutani,
+spc Sapé;
+TREE 12505 = [&R] (atx,spc)arus;
+END;

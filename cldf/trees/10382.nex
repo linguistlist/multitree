@@ -1,0 +1,23 @@
+#NEXUS
+[MultiTree: Andamanese: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE abj 'Aka-Bea',
+aci 'Aka-Cari',
+ack 'Aka-Kora',
+acl 'Akar-Bale',
+akj 'Aka-Jeru',
+akm 'Aka-Bo',
+akx 'Aka-Kede',
+aky 'Aka-Kol',
+anda Andamanese,
+anq Jarawa,
+apq 'A-Pucikwar',
+cgan Central,
+gand 'Great Andamanese',
+ngne Northern,
+okj 'Oko-Juwoi',
+oon Önge,
+soan 'South Andamanese',
+std Sentinel;
+TREE 10382 = [&R] (((apq,abj,akx,aky,acl,okj)cgan,(akm,aci,akj,ack)ngne)gand,(anq,std,oon)soan)anda;
+END;

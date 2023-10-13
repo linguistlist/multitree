@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Gulf: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE aqp Atakapa,
+ctm Chitimacha,
+gulf Gulf,
+ncz Natchez,
+tun Tunica;
+TREE 10355 = [&R] (aqp,ctm,ncz,tun)gulf;
+END;

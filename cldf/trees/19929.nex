@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Maran: Tryon 2007]
+BEGIN TREES;
+TRANSLATE alaw Alawa,
+alh Alawa,
+gari Gariyimar,
+mara Mara,
+mec Mara,
+mran Maran,
+nawa Warndarang,
+wnd Warndarang,
+ygu Yugul;
+TREE 19929 = [&R] (((mec,ygu)gari,(wnd)nawa)mara,(alh)alaw)mran;
+END;

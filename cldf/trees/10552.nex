@@ -1,0 +1,36 @@
+#NEXUS
+[MultiTree: Algic: Dryer 2005]
+BEGIN TREES;
+TRANSLATE abe 'Abenaki (Western)',
+algi Algic,
+algo Algonquian,
+alq Algonquin,
+arp Arapaho,
+atj Atikamekw,
+bla Blackfoot,
+chy Cheyenne,
+ciw 'Ojibwe (Minnesota)',
+ciw_red 'Chippewa (Red Lake and Pillager)',
+crg Michif,
+crj_crl 'Cree (Eastern)',
+crk 'Cree (Plains)',
+kic Kickapoo,
+mez Menomini,
+mia Illinois,
+mic Micmac,
+mjy Mahican,
+moe Montagnais,
+nnt Nanticoke,
+nsk Naskapi,
+ojg 'Ojibwa (Eastern)',
+ojs 'Ojibwa (Severn)',
+pim Powhatan,
+pot Potawatomi,
+pqm 'Passamaquoddy-Maliseet',
+sac Fox,
+sjw Shawnee,
+umu Munsee,
+unm Unami,
+wam Massachusett;
+TREE 10552 = [&R] ((abe,alq,arp,atj,bla,chy,ciw_red,crj_crl,crk,sac,mia,kic,mjy,wam,mez,crg,mic,moe,umu,nnt,nsk,ojg,ojs,ciw,pqm,pot,pim,sjw,unm)algo)algi;
+END;

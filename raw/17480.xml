@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <start-date nil="true"></start-date>
+      <deleted-at nil="true"></deleted-at>
+      <created-at type="datetime">2010-05-20T13:36:03-04:00</created-at>
+      <pub-comments>Adelaar (2004:622) includes as additional extinct members of the family also Murato (Bolivia) and Uru of Ch&#8217;imu (Peru). Kaufman (2007:70) lists his &#8220;Uru-Chipaya language area&#8221; as a member of his Quechumaran [Kechumaran] stock.  (Cerr&#243;n-Palomino 2006:25-6.) Loukotka (1968:270) also included extinct Chango of Chile, though Tovar (1961:49)  says &#8220;we cannot classify the extinct language of the Changos [Chango y Uru Coste&#241;o], a people of the coast of northern Chile."</pub-comments>
+      <node-type>Subgroup</node-type>
+      <confidence>y</confidence>
+      <updater-id type="integer">10740</updater-id>
+      <sureness type="integer">0</sureness>
+      <status nil="true"></status>
+      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70. London, New York: Routledge. , Fabre, Alain. 2005. Diccionario Etnoling&#252;&#237;stico y Gu&#237;a Bibliogr&#225;fica de los Pueblos Ind&#237;genas Sudamericanos. http://butler.cc.tut.fi/~fabre/BookInternetVersio/Alkusivu.html.  (12 February, 2012.)</publications>
+      <node-status-id nil="true"></node-status-id>
+      <geography>Bolivia</geography>
+      <updated-by>joe_leif</updated-by>
+      <end-date nil="true"></end-date>
+      <alt-names>Pukina, Puquina, Kot'su&#241;, Morato</alt-names>
+      <tree-val>Chipaya-Uru: Composite</tree-val>
+      <codes>urch</codes>
+      <pri-name>Chipaya-Uru</pri-name>
+      <id type="integer">696069</id>
+      <other-codes></other-codes>
+      <node-type-id type="integer">10000</node-type-id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <updated-at type="datetime">2012-02-12T19:42:25-05:00</updated-at>
+      <is-default type="integer">1</is-default>
+      <children type="array">
+        <child>
+          <start-date nil="true"></start-date>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2010-05-20T13:36:03-04:00</created-at>
+          <pub-comments>Erroneously also called "Puquina". Speakers: 2000</pub-comments>
+          <node-type>Language</node-type>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <sureness type="integer">0</sureness>
+          <status nil="true"></status>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70. London, New York: Routledge. </publications>
+          <node-status-id nil="true"></node-status-id>
+          <geography>Oruro, Atahuallpa, Bolivia</geography>
+          <updated-by>joe_leif</updated-by>
+          <end-date nil="true"></end-date>
+          <alt-names></alt-names>
+          <tree-val>Chipaya-Uru: Composite</tree-val>
+          <codes>cap</codes>
+          <pri-name>Chipaya</pri-name>
+          <id type="integer">696070</id>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updated-at type="datetime">2010-05-20T13:36:03-04:00</updated-at>
+          <is-default type="integer">1</is-default>
+          <children type="array"/>
+          <tree-id type="integer">17480</tree-id>
+        </child>
+        <child>
+          <start-date nil="true"></start-date>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2010-05-20T13:36:03-04:00</created-at>
+          <pub-comments></pub-comments>
+          <node-type>Language</node-type>
+          <confidence>y</confidence>
+          <updater-id type="integer">10740</updater-id>
+          <sureness type="integer">0</sureness>
+          <status nil="true"></status>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 70. London, New York: Routledge. </publications>
+          <node-status-id nil="true"></node-status-id>
+          <geography>Oruro, Atahuallpa, Bolivia</geography>
+          <updated-by>joe_leif</updated-by>
+          <end-date nil="true"></end-date>
+          <alt-names>Uru of Iru-Itu, Uchumataqu, Iru-Wit&#8217;u</alt-names>
+          <tree-val>Chipaya-Uru: Composite</tree-val>
+          <codes>ure</codes>
+          <pri-name>Uru</pri-name>
+          <id type="integer">696071</id>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <updated-at type="datetime">2010-05-20T13:36:03-04:00</updated-at>
+          <is-default type="integer">1</is-default>
+          <children type="array"/>
+          <tree-id type="integer">17480</tree-id>
+        </child>
+      </children>
+      <tree-id type="integer">17480</tree-id>
+    </root>
+    <description>Chipaya-Uru: Composite</description>
+  </tree>
+</hash>

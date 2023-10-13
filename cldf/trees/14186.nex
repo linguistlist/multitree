@@ -1,0 +1,29 @@
+#NEXUS
+[MultiTree: Chibchan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE arh Ika,
+arua Aruak,
+brn Boruca,
+bzd Bribri,
+chb Muisca,
+chib Chibchan,
+chpr 'Chibchan Proper',
+cjp Cabécar,
+guai Guaymi,
+gym Ngäbere,
+kog Cogui,
+kuna Kuna,
+kvn Kuna,
+mbp Damana,
+mot 'Motilón (Chibchan)',
+moti Motilon,
+pay Pech,
+paya Paya,
+rama Rama,
+rma Rama,
+sab Buglere,
+tala Talamanca,
+tfr Teribe,
+tnd Tunebo;
+TREE 14186 = [&R] ((tfr,bzd,brn,cjp)tala,(arh,kog,mbp)arua,(mot)moti,(kvn)kuna,(chb,tnd)chpr,(gym,sab)guai,(pay)paya,(rma)rama)chib;
+END;

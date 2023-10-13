@@ -1,0 +1,24 @@
+#NEXUS
+[MultiTree: Tucanoan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE bao 'Barasano (Northern)',
+bsn Barasano,
+cbc Carapana,
+coe Koreguaje,
+cub Cubeo,
+des Desano,
+gvc Guanano,
+myy Macuna,
+ore Orejón,
+pir Piratapuyo,
+sey Secoya,
+snn Siona,
+sri Siriano,
+tav Tatuyo,
+tnc Retuarã,
+tucn Tucanoan,
+tue Tuyuca,
+tuo Tucano,
+yui Yuruti;
+TREE 10734 = [&R] (bsn,bao,cbc,cub,des,gvc,coe,myy,ore,pir,tnc,sey,snn,sri,tav,tuo,tue,yui)tucn;
+END;

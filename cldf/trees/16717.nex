@@ -1,0 +1,22 @@
+#NEXUS
+[MultiTree: Kiowa-Tanoan: Golla, Goddard, Campbell, Mithun, Mixco 2007]
+BEGIN TREES;
+TRANSLATE 09g_tow_pec Pecos,
+kio Kiowa,
+kiow Kiowa,
+kita 'Kiowa-Tanoan',
+ntiw 'Northern Tiwa',
+pie Piro,
+piro Piro,
+tew_tew_han 'Arizona Tewa',
+tew_tew_rio Tewa,
+tewa Tewa,
+tiwa Tiwa,
+tix 'Southern Tiwa',
+tix_tix_isl_tix_san 'Isleta-Sandia',
+tow Jemez,
+towa Jemez,
+twf_twf_pic Picuris,
+twf_twf_tao Taos;
+TREE 16717 = [&R] (((twf_twf_pic,twf_twf_tao)ntiw,(tix_tix_isl_tix_san)tix)tiwa,(pie)piro,(tew_tew_rio,tew_tew_han)tewa,(tow,09g_tow_pec)towa,(kio)kiow)kita;
+END;

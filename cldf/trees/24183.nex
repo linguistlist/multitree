@@ -1,0 +1,22 @@
+#NEXUS
+[MultiTree: Agaw, a subtree of Afroasiatic: Appleyard 2006]
+BEGIN TREES;
+TRANSLATE ahg Kemant,
+ahg_dem Dembiya,
+ahg_hwa Falashan,
+ahg_kay Kaïliña,
+ahg_qim Kemant,
+awn Awngi,
+awn_aga Agäwmǝdǝr,
+awn_mat Mätäkkäl,
+awn_xuf Kunfäl,
+byn Bilin,
+byn_sen Senhit,
+byn_tak 'Tä''ak''ʷǝr',
+ccus Agaw,
+cush Cushitic,
+nagw 'Bilin-Xamtanga-Kemant',
+sccu Awngi,
+xan Khamta;
+TREE 24183 = [&R] ((((awn,awn_aga,awn_mat,awn_xuf)awn)sccu,((ahg_dem,ahg_qim,ahg_hwa)ahg,(byn_tak,byn,byn_sen)byn,(xan,xan)xan,ahg_kay)nagw)ccus)cush;
+END;

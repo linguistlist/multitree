@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Aymaran: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE ayc 'Southern Aymara',
+ayma Aymaran,
+ayr 'Central Aymara',
+jqr Jaqaru,
+jqr_cau Cauque;
+TREE 21907 = [&R] (ayc,(jqr_cau,jqr)ayr)ayma;
+END;

@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Chonan: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE 0qk Teushen,
+ccho 'Continental Chonan',
+chnp 'Chonan proper',
+chon Chonan,
+icho 'Island Chonan',
+ona Ona,
+pue 'Gününa-Küne',
+qoa Haush,
+teh Tehuelche;
+TREE 21931 = [&R] (((0qk,teh)ccho,(ona,qoa)icho)chnp,pue)chon;
+END;

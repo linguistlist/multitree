@@ -1,0 +1,37 @@
+#NEXUS
+[MultiTree: Südnilotisch, a subtree of Nilo-Saharan: Rottland 1982]
+BEGIN TREES;
+TRANSLATE dato 'Datooga-Zweig',
+edat Ostdatooga,
+elgn 'Elgon-Zweig',
+enb Markweta,
+eyo Keyo,
+gsba 'Gisamjanga-Barabaiga',
+kale Kalenjin,
+kpz Sapiny,
+nanm 'Nandi-Markweta-Zweig',
+niq Nandi,
+oki Kinare,
+oki_sog Sogoo,
+okie 'Okiek-Zweig',
+omt Omotik,
+omtk 'Omotik-Zweig',
+pko Päkot,
+pokt 'Päkot-Zweig',
+sgc Kipsikiis,
+snil Südnilotisch,
+spy_bon 'Bong''om',
+spy_boo Pok,
+spy_koo Kony,
+tato 'Omotik-Datooga',
+tcc_baj Bajuta,
+tcc_bar Barabaiga,
+tcc_bia Bijanjida,
+tcc_bur Buradiga,
+tcc_gis Gisamjanga,
+tcc_roo Rotigena,
+tec Terik,
+tuy Tuken,
+wdat Westdatooga;
+TREE 24279 = [&R] (((omt)omtk,((tcc_bia,tcc_bur,tcc_roo)wdat,((tcc_gis,tcc_bar)gsba,tcc_baj)edat)dato)tato,((niq,tuy,enb,sgc,eyo)nanm,(oki,oki_sog,oki)okie,(pko)pokt,(spy_boo,tec,spy_bon,spy_koo,kpz)elgn)kale)snil;
+END;

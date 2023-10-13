@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Charrúan: Composite]
+BEGIN TREES;
+TRANSLATE chrn Charrúan,
+qh7 Charrúa,
+qs1 Chaná;
+TREE 17481 = [&R] (qh7,qs1)chrn;
+END;

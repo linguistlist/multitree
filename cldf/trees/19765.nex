@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Wardaman: Tryon 2007]
+BEGIN TREES;
+TRANSLATE dgn Dagoman,
+jng Yangman,
+nolg Nolgin,
+wagm Wagiman,
+waq Wagiman,
+wrr Wardaman,
+yanc Wardaman,
+yibi Wardaman;
+TREE 19765 = [&R] ((dgn,jng)nolg,(wrr)yibi,(waq)wagm)yanc;
+END;

@@ -1,0 +1,19 @@
+#NEXUS
+[MultiTree: Trans New Guinea: Foley 2000]
+BEGIN TREES;
+TRANSLATE angn Angan,
+aska Asmat,
+awdu 'Awyu-Dumut',
+chim Chimbu,
+dani Dani,
+eash 'Eastern Highlands',
+hufi 'Finisterre-Huon',
+mada Madang,
+mekk Mek,
+okkk Ok,
+trng 'Trans New Guinea',
+whig Engan,
+wlke 'Paniai Lakes',
+wpap 'West Papuan Highlands';
+TREE 19058 = [&R] (chim,okkk,aska,(wlke,dani)wpap,awdu,eash,hufi,whig,mada,mekk,angn)trng;
+END;

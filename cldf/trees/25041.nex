@@ -1,0 +1,36 @@
+#NEXUS
+[MultiTree: Nilotiche: Rossini 1926]
+BEGIN TREES;
+TRANSLATE 0gn7 Settentrionale,
+0gn9 'Orientale-meridionale',
+ach Gang,
+alz Aluru,
+anu Agnuàc,
+bari Bari,
+bfa Bari,
+dib_dik_dip_diw_dks Dinca,
+dinn 'Dinca-Nuér',
+eyo Keyu,
+kun Cunama,
+laj_lno Lango,
+luo Cavirondo,
+luoo Ciòl,
+maas Másai,
+mas Másai,
+mym Mekan,
+nand Nandi,
+nilc Nilotiche,
+niq Nandi,
+niq_bur Burek,
+niq_mut Mutei,
+niq_sot Sotik,
+nus Nuér,
+pko Suc,
+sgc Kipsikis,
+shk Scilluc,
+spy_koo Koñ,
+tuv Turcàna,
+tuy Kamasia,
+wnil Centrale;
+TREE 25041 = [&R] ((((niq,tuy,sgc,niq_bur,eyo,niq_sot,spy_koo,niq_mut)nand,pko,mas,tuv)maas,(bfa)bari)0gn9,((shk,alz,luo,ach,anu,laj_lno)luoo,(nus,dib_dik_dip_diw_dks)dinn)wnil,(kun)0gn7,mym)nilc;
+END;

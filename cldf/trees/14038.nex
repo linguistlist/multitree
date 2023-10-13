@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Chimmesyan: Powell 1891]
+BEGIN TREES;
+TRANSLATE git 'Gyitska''n',
+nasq 'Nasqa''',
+ncg 'Nasqa''',
+tsi 'Ts''emsia''n',
+tsi_naa Naas,
+tsim Chimessyan,
+tsmp 'Tsimshian Proper';
+TREE 14038 = [&R] (((tsi_naa)tsi)tsmp,(git,ncg)nasq)tsim;
+END;

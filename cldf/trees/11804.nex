@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Nadene: Sapir 1929]
+BEGIN TREES;
+TRANSLATE atha Athabaskan,
+haid Haida,
+loth 'Continental Nadene',
+nadn Nadene,
+tlin Tlingit;
+TREE 11804 = [&R] ((atha,tlin)loth,haid)nadn;
+END;

@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Piawi: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE piaw Piawi,
+pnn 'Pinai-Hagahai',
+pnn_luy 'Luya-Ginam-Mamusi',
+pnn_pin Pinai,
+tmd Haruai,
+tmd_cen 'Central Waibuk',
+tmd_nor 'North Waibuk',
+tmd_sou 'South Waibuk';
+TREE 21227 = [&R] ((tmd_cen,tmd_sou,tmd_nor)tmd,(pnn_luy,pnn_pin)pnn)piaw;
+END;

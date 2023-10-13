@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <creator-id type="integer">10740</creator-id>
+      <status nil="true"></status>
+      <start-date nil="true"></start-date>
+      <confidence>y</confidence>
+      <node-type>Subgroup</node-type>
+      <deleted-at nil="true"></deleted-at>
+      <created-at type="datetime">2009-05-19T18:33:10-04:00</created-at>
+      <node-type-id type="integer">10000</node-type-id>
+      <node-status-id nil="true"></node-status-id>
+      <updated-by>joe_leif</updated-by>
+      <tree-val>Itonama: Dryer 2005</tree-val>
+      <alt-names></alt-names>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 641. New York: Oxford University Press. ISBN 0199255911</publications>
+      <updater-id type="integer">10740</updater-id>
+      <other-codes></other-codes>
+      <tree-id type="integer">12467</tree-id>
+      <sureness type="integer">0</sureness>
+      <id type="integer">418156</id>
+      <updated-at type="datetime">2009-05-19T18:33:10-04:00</updated-at>
+      <is-default type="integer">0</is-default>
+      <geography nil="true"></geography>
+      <codes>itnm</codes>
+      <children type="array">
+        <child>
+          <pub-comments></pub-comments>
+          <creator-id type="integer">10740</creator-id>
+          <status nil="true"></status>
+          <start-date nil="true"></start-date>
+          <confidence>y</confidence>
+          <node-type>Language</node-type>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2009-05-19T18:33:10-04:00</created-at>
+          <node-type-id type="integer">10001</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <updated-by>joe_leif</updated-by>
+          <tree-val>Itonama: Dryer 2005</tree-val>
+          <alt-names></alt-names>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 641. New York: Oxford University Press. ISBN 0199255911</publications>
+          <updater-id type="integer">10740</updater-id>
+          <other-codes>ito</other-codes>
+          <tree-id type="integer">12467</tree-id>
+          <sureness type="integer">0</sureness>
+          <id type="integer">418157</id>
+          <updated-at type="datetime">2009-05-19T18:33:10-04:00</updated-at>
+          <is-default type="integer">0</is-default>
+          <geography>Country: Bolivia; Lat.: -12.83; Long.: -64.33</geography>
+          <codes>ito</codes>
+          <children type="array"/>
+          <pri-name>Itonama</pri-name>
+          <end-date nil="true"></end-date>
+          <created-by>joe_leif</created-by>
+        </child>
+      </children>
+      <pri-name>Itonama</pri-name>
+      <end-date nil="true"></end-date>
+      <created-by>joe_leif</created-by>
+    </root>
+    <description>Itonama: Dryer 2005</description>
+  </tree>
+</hash>

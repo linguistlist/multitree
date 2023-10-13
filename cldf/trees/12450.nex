@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Cahuapanan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE cahu Cahuapanan,
+cbt Chayahuita,
+jeb Jebero;
+TREE 12450 = [&R] (jeb,cbt)cahu;
+END;

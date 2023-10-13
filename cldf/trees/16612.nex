@@ -1,0 +1,36 @@
+#NEXUS
+[MultiTree: Macro-Waikuruan: Kaufman 2007]
+BEGIN TREES;
+TRANSLATE aqt_spn Sanapaná,
+axb Abipón,
+ayo Ayoreo,
+cag Chulupí,
+ceg Chamakoko,
+chrn Charruan,
+crq_crt Chorote,
+egyk Eastern,
+enl_enx Lengua,
+guay Waikuruan,
+gva Kaskihá,
+gykr Waikurú,
+kbc Kadiwéu,
+luvi 'Lule-Vilelan',
+masc Maskoian,
+matc Matakoan,
+mca Maká,
+moc Mokoví,
+mtc_mzh Matako,
+mwkc 'Macro-Waikuruan',
+plg Pilagá,
+qfk Wachí,
+qh7 Charrúa,
+qho Payawá,
+qs1 Chaná,
+sguk Southern,
+tmf Maskoi,
+tob Toba,
+ule Lule,
+vil Vilela,
+zamu Samukoan;
+TREE 16612 = [&R] (((qho,qfk)egyk,(axb,plg,moc,tob)sguk,(kbc)gykr)guay,(mca,crq_crt,mtc_mzh,cag)matc,((ayo,ceg)zamu,vil,ule)luvi,(qh7,qs1)chrn,(tmf,aqt_spn,enl_enx,gva)masc)mwkc;
+END;

@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Geelvink Bay: C.L. Voorhoeve 1975]
+BEGIN TREES;
+TRANSLATE brp Baropasi,
+bvz Bauri,
+egba 'East Geelvink Bay Stock-Level Family',
+geba 'Geelvink Bay Phylum',
+trt Taruŋgare,
+yva 'Yava Stock-Level Isolate',
+yva_amb Ambaidiru,
+yva_man Mantembu,
+yva_swr Saweru;
+TREE 23325 = [&R] ((brp,trt,bvz)egba,(yva_man,yva_swr,yva_amb)yva)geba;
+END;

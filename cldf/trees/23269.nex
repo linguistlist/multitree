@@ -1,0 +1,29 @@
+#NEXUS
+[MultiTree: Lolo-Burmese, subtree of Sino-Tibetan: Pieros 1997]
+BEGIN TREES;
+TRANSLATE acn Achang,
+acn_atb_zai 'Zaiwa-Achang',
+atb_zai Zaiwa,
+bkch_burm Burmic,
+bzi Bisu,
+bzi_ahk Akha,
+bzi_ahk_bzi_byo 'Biyue-Akha',
+bzi_byo Biyue,
+bzi_jin Jino,
+bzi_mpz Mpi,
+cmn_zna Nanjiang,
+cmn_zna_lis 'Lisu-Nanjiang',
+lhu Lahu,
+lhu_lhu_xid_yig_daf 'Lahu-Dafang-Xide',
+lhu_xid Xide,
+lis Lisu,
+lolb 'Lolo-Burmese Proper',
+lolo Lolo,
+mya Burmese,
+nlol 'Northern Lolo',
+nuf Nusu,
+nxq Naxi,
+slol 'Jino-Mpi-Biyue-Akha',
+yig_daf Dafang;
+TREE 23269 = [&R] (((((bzi_jin,(bzi_byo,bzi_ahk)bzi_ahk_bzi_byo,bzi_mpz)slol,bzi)slol,((cmn_zna,lis)cmn_zna_lis,(lhu,yig_daf,lhu_xid)lhu_lhu_xid_yig_daf)nlol)lolo,((atb_zai,acn)acn_atb_zai,mya)bkch_burm,nuf)lolb,nxq)lolb;
+END;

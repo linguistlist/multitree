@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Bororoan: Composite]
+BEGIN TREES;
+TRANSLATE bor Bororo,
+boro Bororoan,
+otu Otuque,
+otu_ccn Curucaneca,
+otu_cor Coraveca,
+otu_crm Curumina,
+otu_crn Curucane,
+otu_cuc Curuminaca,
+otu_tap Tapii,
+umo Umotina;
+TREE 17463 = [&R] ((otu_cuc,otu_cor,otu_crm,otu_crn,otu_tap,otu_ccn)otu,bor,umo)boro;
+END;

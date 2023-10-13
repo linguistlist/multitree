@@ -1,0 +1,27 @@
+#NEXUS
+[MultiTree: Austroasiatic: Matisoff 2006]
+BEGIN TREES;
+TRANSLATE asli Aslian,
+ausa Austroasiatic,
+bahn Bahnaric,
+bhka 'Bahnaric-Katuic',
+emkh 'Eastern Mon-Khmer',
+katu Katuic,
+khas Khasi,
+khmc Khmuic,
+khmr Khmeric,
+khpe 'Khmeric-Pearic',
+mkhm 'Mon-Khmer',
+moni Monic,
+mtq Muongic,
+mund Munda,
+nico Nicobarese,
+nmkh 'Northern Mon-Khmer',
+palc Palaungic,
+pear Pearic,
+semk 'South-East Mon-Khmer',
+smkh 'Southern Mon-Khmer',
+vie Vietnamese,
+viem 'Viet-Muong';
+TREE 25457 = [&R] ((((moni,nico,asli)smkh,((bahn,katu)bhka,(pear,khmr)khpe)emkh)semk,(khmc,palc,khas)nmkh,(vie,mtq)viem)mkhm,mund)ausa;
+END;

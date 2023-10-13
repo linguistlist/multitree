@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Zaparoan: Ethnologue 2013]
+BEGIN TREES;
+TRANSLATE anb Andoa,
+arad 'Arabela-Andoa',
+arl Arabela,
+cah Cahuarano,
+iqca 'Iquito-Cahuarano',
+iqu Iquito,
+iqu_pin Pintuyacu,
+zapa Zaparoan,
+zpro Záparo,
+zro Záparo;
+TREE 21767 = [&R] ((zro,(arl,anb)arad)zpro,((iqu_pin)iqu,cah)iqca)zapa;
+END;

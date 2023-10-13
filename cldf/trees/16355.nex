@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Chokó: Kaufman 2007]
+BEGIN TREES;
+TRANSLATE choc Chokó,
+embr 'Emberá Group',
+emp 'Northern Emberá',
+noa Noanamá,
+qge Kimbaya,
+qne Sinúfana,
+sja 'Southern Emberá';
+TREE 16355 = [&R] (noa,(qne,qge,emp,sja)embr)choc;
+END;

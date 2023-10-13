@@ -1,0 +1,20 @@
+#NEXUS
+[MultiTree: Caddoan: Mithun 1999]
+BEGIN TREES;
+TRANSLATE ari Arikara,
+cad Caddo,
+cad_has Hasinai,
+cad_kad Kadohadacho,
+cad_nat Natchitoches,
+cadd Caddoan,
+kii Kitsai,
+ncad 'Northern Caddoan',
+paw Pawnee,
+paw_sba 'South Band',
+paw_ski Skiri,
+scad 'Southern Caddoan',
+wic 'Wichita (proper)',
+wic_tow Towakoni,
+wic_wac Waco;
+TREE 10873 = [&R] (((cad_kad,cad_has,cad_nat)cad)scad,((wic,wic_wac,wic_tow)wic,kii,(paw_sba,paw_ski)paw,ari)ncad)cadd;
+END;

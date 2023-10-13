@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Chapacuran: Composite]
+BEGIN TREES;
+TRANSLATE 0in Wamo,
+1a6 'Kuyubí ',
+1a8 Wanham,
+1a8_abi Abitana,
+chaw Chapacuran,
+guap Itene,
+ite Itene,
+ite_kum 'Abitana-Kumaná',
+orw_pav Orowari,
+pav 'Urupá-Jarú',
+qdh Chapacura,
+qlv Quitemo,
+qlv_nap 'Kitemo-Nape',
+schp Wari,
+trz Torá,
+xbx Kabixí;
+TREE 17462 = [&R] (((ite_kum)ite_kum,xbx,ite)guap,(qdh,(qlv_nap)qlv,pav,orw_pav,trz)schp,0in,1a6,(1a8_abi)1a8)chaw;
+END;

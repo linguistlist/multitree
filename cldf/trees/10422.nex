@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: East Bird's Head: Composite 2008]
+BEGIN TREES;
+TRANSLATE ebir 'East Bird''s Head',
+meax Meax,
+mej Meyah,
+mnx Manikion,
+mtj Moskona;
+TREE 10422 = [&R] (mnx,(mej,mtj)meax)ebir;
+END;

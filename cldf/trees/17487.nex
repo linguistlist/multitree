@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Zaparoan: Composite]
+BEGIN TREES;
+TRANSLATE arl Arabela,
+cah_iqu 'Iquito-Cahuarano',
+zapa Zaparoan,
+zro 'Záparo-Conambo';
+TREE 17487 = [&R] (zro,cah_iqu,arl)zapa;
+END;

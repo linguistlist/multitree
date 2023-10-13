@@ -1,0 +1,24 @@
+#NEXUS
+[MultiTree: West Papuan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE akc Mpur,
+ayz Maybrat,
+gbi Galela,
+had Hatam,
+hatt Hatam,
+keba Kebar,
+kgr Abun,
+kps Tehit,
+mqs 'West Makian',
+ncbh 'North-Central Bird''s Head',
+nhal 'North Halmaheran',
+pgu Pagu,
+saj Sahu,
+tby Tabaru,
+tft Ternate,
+tlb Tobelo,
+tvo Tidore,
+wbhe 'West Bird''s Head',
+wpap 'West Papuan';
+TREE 11628 = [&R] ((kgr,ayz)ncbh,(tby,tvo,tft,gbi,mqs,saj,pgu,tlb)nhal,(had)hatt,(kps)wbhe,(akc)keba)wpap;
+END;

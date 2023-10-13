@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Southwestern Mandarin (dialects): Wurm, Yongquan 1987]
+BEGIN TREES;
+TRANSLATE cmn_xce Cenjiang,
+cmn_xcg Chengyu,
+cmn_xch Changhe,
+cmn_xin 'Southwestern Mandarin',
+cmn_xqi Qianbei,
+cmn_xxi Xiangnan;
+TREE 20129 = [&R] (cmn_xqi,cmn_xcg,cmn_xch,cmn_xxi,cmn_xce)cmn_xin;
+END;

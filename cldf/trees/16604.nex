@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Macro-Lekoan: Kaufman 2007]
+BEGIN TREES;
+TRANSLATE catc Katakáoan,
+lec Leko,
+mlkc 'Macro-Lekoan',
+qfi Sechura,
+qrv Katakao,
+qsb Kolán,
+skkn 'Sechura-Katakáoan';
+TREE 16604 = [&R] (((qrv,qsb,lec)catc,qfi)skkn)mlkc;
+END;

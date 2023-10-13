@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <tree-id type="integer">17509</tree-id>
+      <start-date nil="true"></start-date>
+      <pub-comments>Dixon 1999:295, "Arawakan proper (or Maipurean) and Arawan are widely believed to form a family. Matteson included Arawan in her Arawakan reconstruction, but without much success.  There is no doubt that Arawan is typologically like Arawakan, but that the relationship, if real, is not very close." (Kaufman, 67)</pub-comments>
+      <updated-by>joe_leif</updated-by>
+      <id type="integer">696300</id>
+      <codes>arau</codes>
+      <pri-name>Arawan</pri-name>
+      <node-type-id type="integer">10000</node-type-id>
+      <status nil="true"></status>
+      <geography nil="true"></geography>
+      <updated-at type="datetime">2010-05-20T15:07:04-04:00</updated-at>
+      <is-default type="integer">1</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <sureness type="integer">0</sureness>
+      <other-codes></other-codes>
+      <end-date nil="true"></end-date>
+      <updater-id type="integer">10740</updater-id>
+      <node-type>Subgroup</node-type>
+      <confidence>y</confidence>
+      <node-status-id nil="true"></node-status-id>
+      <tree-val>Arawan: Composite</tree-val>
+      <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65-67. London, New York: Routledge. </publications>
+      <created-at type="datetime">2010-05-20T15:07:04-04:00</created-at>
+      <children type="array">
+        <child>
+          <tree-id type="integer">17509</tree-id>
+          <start-date nil="true"></start-date>
+          <pub-comments>Ethnologue reports Banaw&#225; as a separate language &#8220;not as close to Jamamad&#237; linguistically as previously thought.&#8221; It also has Jamand&#237; (Yamamad&#237;, Kanamanti, Canamanti) as a distinct language, with dialects: Bom Futuro, Jurua, Pauini, Mamoria (Mamori), Cuchudua (Maima), Tukurina, reporting that &#8220;other groups are called &#8216;Jamamad&#237;&#8217; which are closer to Culina or Den&#237;. Tukurina may be a separate language. Dialects or related languages: Araua, Pama, Sewacu, Sipo, Yuberi.&#8221; Banawa speakers: 70, Jarawara speakers: 150</pub-comments>
+          <updated-by>joe_leif</updated-by>
+          <id type="integer">696305</id>
+          <codes>jap, bnh</codes>
+          <pri-name>Madi</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+          <status nil="true"></status>
+          <geography>Brazil</geography>
+          <updated-at type="datetime">2010-05-20T15:07:04-04:00</updated-at>
+          <is-default type="integer">1</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <updater-id type="integer">10740</updater-id>
+          <node-type>Language</node-type>
+          <confidence>y</confidence>
+          <node-status-id nil="true"></node-status-id>
+          <tree-val>Arawan: Composite</tree-val>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65-67. London, New York: Routledge. </publications>
+          <created-at type="datetime">2010-05-20T15:07:04-04:00</created-at>
+          <children type="array">
+            <child>
+              <tree-id type="integer">17509</tree-id>
+              <start-date nil="true"></start-date>
+              <pub-comments>Tukurina may be a separate language.</pub-comments>
+              <updated-by>joe_leif</updated-by>
+              <id type="integer">696307</id>
+              <codes>jaa-tuk</codes>
+              <pri-name>Tukurina</pri-name>
+              <node-type-id type="integer">10003</node-type-id>
+              <status nil="true"></status>
+              <geography nil="true"></geography>
+              <updated-at type="datetime">2010-05-20T15:07:04-04:00</updated-at>
+              <is-default type="integer">1</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">-1</sureness>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <node-type>Dialect</node-type>
+              <confidence>y</confidence>
+              <node-status-id nil="true"></node-status-id>
+              <tree-val>Arawan: Composite</tree-val>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65-67. London, New York: Routledge. </publications>
+              <created-at type="datetime">2010-05-20T15:07:04-04:00</created-at>
+              <children type="array"/>
+              <alt-names></alt-names>
+            </child>
+            <child>
+              <tree-id type="integer">17509</tree-id>
+              <start-date nil="true"></start-date>
+              <pub-comments>Speakers: ?</pub-comments>
+              <updated-by>joe_leif</updated-by>
+              <id type="integer">696308</id>
+              <codes>jaa-kan</codes>
+              <pri-name>Kanamant&#237;</pri-name>
+              <node-type-id type="integer">10003</node-type-id>
+              <status nil="true"></status>
+              <geography>Amazonas, Brazil</geography>
+              <updated-at type="datetime">2010-05-20T15:07:04-04:00</updated-at>
+              <is-default type="integer">1</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <node-type>Dialect</node-type>
+              <confidence>y</confidence>
+              <node-status-id nil="true"></node-status-id>
+              <tree-val>Arawan: Composite</tree-val>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65-67. London, New York: Routledge. </publications>
+              <created-at type="datetime">2010-05-20T15:07:04-04:00</created-at>
+              <children type="array"/>
+              <alt-names></alt-names>
+            </child>
+            <child>
+              <tree-id type="integer">17509</tree-id>
+              <start-date nil="true"></start-date>
+              <pub-comments>Speakers: 195</pub-comments>
+              <updated-by>joe_leif</updated-by>
+              <id type="integer">696306</id>
+              <codes>jaa</codes>
+              <pri-name>Jamamad&#237;</pri-name>
+              <node-type-id type="integer">10003</node-type-id>
+              <status nil="true"></status>
+              <geography>Amazonas, Brazil</geography>
+              <updated-at type="datetime">2010-05-20T15:07:04-04:00</updated-at>
+              <is-default type="integer">1</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <node-type>Dialect</node-type>
+              <confidence>y</confidence>
+              <node-status-id nil="true"></node-status-id>
+              <tree-val>Arawan: Composite</tree-val>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65-67. London, New York: Routledge. </publications>
+              <created-at type="datetime">2010-05-20T15:07:04-04:00</created-at>
+              <children type="array"/>
+              <alt-names></alt-names>
+            </child>
+          </children>
+          <alt-names>Jarawara, Jarau&#225;ra, Jaru&#225;ra, Jamamadi, Banaw&#225;, Baniv&#225;, Baniw&#225;-Jaf&#237;, Kitiya, Banav&#225;, Banau&#225;, Jaf&#237;</alt-names>
+        </child>
+        <child>
+          <tree-id type="integer">17509</tree-id>
+          <start-date nil="true"></start-date>
+          <pub-comments>Speakers: 700</pub-comments>
+          <updated-by>joe_leif</updated-by>
+          <id type="integer">696301</id>
+          <codes>pad</codes>
+          <pri-name>Paumar&#237;</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+          <status nil="true"></status>
+          <geography>Amazonas, Brazil</geography>
+          <updated-at type="datetime">2010-05-20T15:07:04-04:00</updated-at>
+          <is-default type="integer">1</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <updater-id type="integer">10740</updater-id>
+          <node-type>Language</node-type>
+          <confidence>y</confidence>
+          <node-status-id nil="true"></node-status-id>
+          <tree-val>Arawan: Composite</tree-val>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65-67. London, New York: Routledge. </publications>
+          <created-at type="datetime">2010-05-20T15:07:04-04:00</created-at>
+          <children type="array">
+            <child>
+              <tree-id type="integer">17509</tree-id>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <updated-by>joe_leif</updated-by>
+              <id type="integer">696303</id>
+              <codes>pad-kur</codes>
+              <pri-name>Kurukuru</pri-name>
+              <node-type-id type="integer">10003</node-type-id>
+              <status nil="true"></status>
+              <geography nil="true"></geography>
+              <updated-at type="datetime">2010-05-20T15:07:04-04:00</updated-at>
+              <is-default type="integer">1</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <node-type>Dialect</node-type>
+              <confidence>y</confidence>
+              <node-status-id nil="true"></node-status-id>
+              <tree-val>Arawan: Composite</tree-val>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65-67. London, New York: Routledge. </publications>
+              <created-at type="datetime">2010-05-20T15:07:04-04:00</created-at>
+              <children type="array"/>
+              <alt-names></alt-names>
+            </child>
+            <child>
+              <tree-id type="integer">17509</tree-id>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <updated-by>joe_leif</updated-by>
+              <id type="integer">696302</id>
+              <codes>pad-pad</codes>
+              <pri-name>Paumar&#237;</pri-name>
+              <node-type-id type="integer">10003</node-type-id>
+              <status nil="true"></status>
+              <geography nil="true"></geography>
+              <updated-at type="datetime">2010-05-20T15:07:04-04:00</updated-at>
+              <is-default type="integer">1</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <node-type>Dialect</node-type>
+              <confidence>y</confidence>
+              <node-status-id nil="true"></node-status-id>
+              <tree-val>Arawan: Composite</tree-val>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65-67. London, New York: Routledge. </publications>
+              <created-at type="datetime">2010-05-20T15:07:04-04:00</created-at>
+              <children type="array"/>
+              <alt-names>Pammari</alt-names>
+            </child>
+            <child>
+              <tree-id type="integer">17509</tree-id>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <updated-by>joe_leif</updated-by>
+              <id type="integer">696304</id>
+              <codes>pad-way</codes>
+              <pri-name>Uaiai</pri-name>
+              <node-type-id type="integer">10003</node-type-id>
+              <status nil="true"></status>
+              <geography nil="true"></geography>
+              <updated-at type="datetime">2010-05-20T15:07:04-04:00</updated-at>
+              <is-default type="integer">1</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <node-type>Dialect</node-type>
+              <confidence>y</confidence>
+              <node-status-id nil="true"></node-status-id>
+              <tree-val>Arawan: Composite</tree-val>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65-67. London, New York: Routledge. </publications>
+              <created-at type="datetime">2010-05-20T15:07:04-04:00</created-at>
+              <children type="array"/>
+              <alt-names></alt-names>
+            </child>
+          </children>
+          <alt-names>Purupur&#250;, Pamar&#237;, Palmar&#237;, Curucuru</alt-names>
+        </child>
+        <child>
+          <tree-id type="integer">17509</tree-id>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <updated-by>joe_leif</updated-by>
+          <id type="integer">696310</id>
+          <codes>dncl</codes>
+          <pri-name>Den&#237;-Kulina</pri-name>
+          <node-type-id type="integer">10000</node-type-id>
+          <status nil="true"></status>
+          <geography nil="true"></geography>
+          <updated-at type="datetime">2010-05-20T15:07:04-04:00</updated-at>
+          <is-default type="integer">1</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <updater-id type="integer">10740</updater-id>
+          <node-type>Subgroup</node-type>
+          <confidence>y</confidence>
+          <node-status-id nil="true"></node-status-id>
+          <tree-val>Arawan: Composite</tree-val>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65-67. London, New York: Routledge. </publications>
+          <created-at type="datetime">2010-05-20T15:07:04-04:00</created-at>
+          <children type="array">
+            <child>
+              <tree-id type="integer">17509</tree-id>
+              <start-date nil="true"></start-date>
+              <pub-comments>Speakers: 1300</pub-comments>
+              <updated-by>joe_leif</updated-by>
+              <id type="integer">696313</id>
+              <codes>cul</codes>
+              <pri-name>Culina</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <status nil="true"></status>
+              <geography>Amazonas, Brazil; southeast Peru</geography>
+              <updated-at type="datetime">2010-05-20T15:07:05-04:00</updated-at>
+              <is-default type="integer">1</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <node-type>Language</node-type>
+              <confidence>y</confidence>
+              <node-status-id nil="true"></node-status-id>
+              <tree-val>Arawan: Composite</tree-val>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65-67. London, New York: Routledge. </publications>
+              <created-at type="datetime">2010-05-20T15:07:05-04:00</created-at>
+              <children type="array"/>
+              <alt-names>Kul&#237;na, Madih&#225;, Madija, Corina</alt-names>
+            </child>
+            <child>
+              <tree-id type="integer">17509</tree-id>
+              <start-date nil="true"></start-date>
+              <pub-comments>Speakers: 600</pub-comments>
+              <updated-by>joe_leif</updated-by>
+              <id type="integer">696311</id>
+              <codes>dny</codes>
+              <pri-name>Deni</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <status nil="true"></status>
+              <geography>Amazonas, Brazil</geography>
+              <updated-at type="datetime">2010-05-20T15:07:05-04:00</updated-at>
+              <is-default type="integer">1</is-default>
+              <deleted-at nil="true"></deleted-at>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <sureness type="integer">0</sureness>
+              <other-codes></other-codes>
+              <end-date nil="true"></end-date>
+              <updater-id type="integer">10740</updater-id>
+              <node-type>Language</node-type>
+              <confidence>y</confidence>
+              <node-status-id nil="true"></node-status-id>
+              <tree-val>Arawan: Composite</tree-val>
+              <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65-67. London, New York: Routledge. </publications>
+              <created-at type="datetime">2010-05-20T15:07:04-04:00</created-at>
+              <children type="array">
+                <child>
+                  <tree-id type="integer">17509</tree-id>
+                  <start-date nil="true"></start-date>
+                  <pub-comments></pub-comments>
+                  <updated-by>joe_leif</updated-by>
+                  <id type="integer">696312</id>
+                  <codes>dny-ina</codes>
+                  <pri-name>Inauini</pri-name>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <status nil="true"></status>
+                  <geography nil="true"></geography>
+                  <updated-at type="datetime">2010-05-20T15:07:05-04:00</updated-at>
+                  <is-default type="integer">1</is-default>
+                  <deleted-at nil="true"></deleted-at>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <sureness type="integer">0</sureness>
+                  <other-codes></other-codes>
+                  <end-date nil="true"></end-date>
+                  <updater-id type="integer">10740</updater-id>
+                  <node-type>Dialect</node-type>
+                  <confidence>y</confidence>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>Arawan: Composite</tree-val>
+                  <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65-67. London, New York: Routledge. </publications>
+                  <created-at type="datetime">2010-05-20T15:07:05-04:00</created-at>
+                  <children type="array"/>
+                  <alt-names></alt-names>
+                </child>
+              </children>
+              <alt-names></alt-names>
+            </child>
+          </children>
+          <alt-names></alt-names>
+        </child>
+        <child>
+          <tree-id type="integer">17509</tree-id>
+          <start-date nil="true"></start-date>
+          <pub-comments>The group was wiped out by measles in 1877.</pub-comments>
+          <updated-by>joe_leif</updated-by>
+          <id type="integer">696314</id>
+          <codes>aru</codes>
+          <pri-name>Araw&#225;</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+          <status>Extinct</status>
+          <geography>Brazil</geography>
+          <updated-at type="datetime">2010-05-20T15:07:05-04:00</updated-at>
+          <is-default type="integer">1</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <other-codes></other-codes>
+          <end-date>1877 CE</end-date>
+          <updater-id type="integer">10740</updater-id>
+          <node-type>Language</node-type>
+          <confidence>y</confidence>
+          <node-status-id type="integer">10000</node-status-id>
+          <tree-val>Arawan: Composite</tree-val>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65-67. London, New York: Routledge. </publications>
+          <created-at type="datetime">2010-05-20T15:07:05-04:00</created-at>
+          <children type="array"/>
+          <alt-names>Arua, Arauan</alt-names>
+        </child>
+        <child>
+          <tree-id type="integer">17509</tree-id>
+          <start-date nil="true"></start-date>
+          <pub-comments>Speakers: 130</pub-comments>
+          <updated-by>joe_leif</updated-by>
+          <id type="integer">696309</id>
+          <codes>swx</codes>
+          <pri-name>Zuruah&#225;</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+          <status nil="true"></status>
+          <geography>Amazonas, Brazil</geography>
+          <updated-at type="datetime">2010-05-20T15:07:04-04:00</updated-at>
+          <is-default type="integer">1</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <sureness type="integer">0</sureness>
+          <other-codes></other-codes>
+          <end-date nil="true"></end-date>
+          <updater-id type="integer">10740</updater-id>
+          <node-type>Language</node-type>
+          <confidence>y</confidence>
+          <node-status-id nil="true"></node-status-id>
+          <tree-val>Arawan: Composite</tree-val>
+          <publications>Campbell, Lyle. The classification of South American languages. In Lyle  Campbell &amp; Ver&#243;nica  Grondona (eds.), South America. Berlin: Mouton de Gruyter. , Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 65-67. London, New York: Routledge. </publications>
+          <created-at type="datetime">2010-05-20T15:07:04-04:00</created-at>
+          <children type="array"/>
+          <alt-names>Suruah&#225;, Sorowah&#225;</alt-names>
+        </child>
+      </children>
+      <alt-names>Arau&#225;n, Arahuan, Arawa</alt-names>
+    </root>
+    <description>Arawan: Composite</description>
+  </tree>
+</hash>

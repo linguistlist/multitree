@@ -1,0 +1,25 @@
+#NEXUS
+[MultiTree: Samojedische Sprachen: Castrén 1966]
+BEGIN TREES;
+TRANSLATE 1op Tymisch,
+enf 'Baicha-Dialekt',
+enf_enh 'Jenissei-Dialekt',
+enf_enh_cha 'Chantai-Karassinisch',
+nio 'Tawgy-Sprache',
+sel 'Ostjak-Samojedisch',
+sel_cul 'südliche Mundart',
+sel_ket 'mittlere Mundart',
+sel_lna 'unteres Narymisch',
+sel_nar 'nördliche Mundart',
+sel_una 'oberes Narymisch',
+smoy 'Samojedische Sprachen',
+xas Kamassinisch,
+yrk Jurakisch,
+yrk_bol Bolschesemelisch,
+yrk_ish Ishemisch,
+yrk_kai Kaninisch,
+yrk_kon Kondinisch,
+yrk_obd Obdorsch,
+yrk_tim Timanisch;
+TREE 10074 = [&R] ((yrk_kai,yrk_tim,yrk_ish,yrk_bol,yrk_obd,yrk_kon,yrk)yrk,nio,(enf_enh_cha,enf)enf_enh,((1op,sel_una,sel_lna)sel_nar,sel_ket,sel_cul)sel,xas)smoy;
+END;

@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Lislakh: Hodge 1991]
+BEGIN TREES;
+TRANSLATE afsn Semitic,
+areg Egyptian,
+berb Berber,
+chad Chadic,
+cush Cushitic,
+ieur 'Indo-European',
+lisl Lislakh,
+omot Omotic;
+TREE 25477 = [&R] (cush,afsn,areg,berb,chad,ieur,omot)lisl;
+END;

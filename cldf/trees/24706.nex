@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: African Language Isolates: Brenzinger 2008]
+BEGIN TREES;
+TRANSLATE afis 'African Isolates',
+hts Hadza,
+sad Sandawe;
+TREE 24706 = [&R] (sad,hts)afis;
+END;

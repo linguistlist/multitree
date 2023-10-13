@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Quechua: Krickeberg & Jimenez Moreno 1937]
+BEGIN TREES;
+TRANSLATE 0ye Chanca,
+0yh Pacasa,
+atc_cac Canchi,
+ayc Aimará,
+ayc_caa Cana,
+ayc_col Coyagua,
+ayr Lupaca,
+chi_quz_qxp Colla,
+quch Quechua,
+quk Chachapoyas,
+qve Quechua,
+qvw_qxw Huanca;
+TREE 20802 = [&R] (chi_quz_qxp,ayc,atc_cac,0yh,qve,ayc_caa,0ye,ayr,qvw_qxw,quk,ayc_col)quch;
+END;

@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Lutuamian: Powell 1891]
+BEGIN TREES;
+TRANSLATE kla Klamath,
+kla_mod Modoc,
+ktmo Lutamian;
+TREE 15305 = [&R] (kla,kla_mod)ktmo;
+END;

@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Huarpean: Composite]
+BEGIN TREES;
+TRANSLATE hrpe Huarpean,
+qbt Alyentiyak,
+qgb Millcayac;
+TREE 17163 = [&R] (qgb,(qbt)qbt)hrpe;
+END;

@@ -1,0 +1,37 @@
+#NEXUS
+[MultiTree: South American Pidgins and Creoles: Composite]
+BEGIN TREES;
+TRANSLATE brc 'Berbice Creole Dutch',
+ccd 'Cafundo Creole',
+djk Aukan,
+djk_alu Aluku,
+djk_auk Aukan,
+djk_par Paramaccan,
+gyn 'Guyanese Creole English',
+gyn_afr 'Afro-Guyanese Creole',
+gyn_ind 'Indo-Guyanese Creole',
+gyn_rup Rupununi,
+kmv 'Karipúna Creole French',
+kww Kwinti,
+ndyu Ndyuka,
+njt 'Ndyuka-Trio Pidgin',
+pln Palenquero,
+saat Atlantic,
+sace 'South American Creole',
+sadb 'Dutch based',
+saea Eastern,
+sapb 'Portuguese based',
+sapc 'South American Pidgins and Creoles',
+sapi 'South American Pidgin',
+seat 'Southern Eastern Atlantic Creole',
+sebc 'English based',
+sfbc 'French based',
+skw 'Skepi Creole Dutch',
+skw_ess Essequibo,
+srm Saramaccan,
+srm_mat Matawari,
+srn Sranan,
+ssbc 'Spanish based',
+surn Suriname;
+TREE 11904 = [&R] (((((((kww,(djk_alu,djk_par,djk_auk)djk)ndyu,srn)surn)saea,((gyn_ind,gyn_rup,gyn_afr)gyn)seat)saat,(srm_mat)srm)sebc,(ccd)sapb,(pln)ssbc,((skw_ess)skw,brc)sadb,(kmv)sfbc)sace,(njt)sapi)sapc;
+END;

@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Chapacura-Wanham: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE chaw 'Chapacura-Wanham',
+guap Guapore,
+ite Itene,
+ite_ito Itoreauhip,
+made Madeira,
+orw 'Oro Win',
+pav Pakaásnovos,
+trz Torá,
+xbx Kabixí;
+TREE 10342 = [&R] (((ite_ito)ite,xbx)guap,(orw,pav,trz)made)chaw;
+END;

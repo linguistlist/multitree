@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Austronesian (Sepik District)- Laycock 1973]
+BEGIN TREES;
+TRANSLATE anes Austronesian,
+kbw Kaiep,
+kis Kis,
+kxa Kairiru,
+mva Manam,
+spe Sepa,
+sry Sera,
+sso Sissano,
+svb 'Ulau-Suain',
+tmq Tumleo,
+woc Wogeo,
+ykm Ali;
+TREE 22126 = [&R] (woc,kbw,mva,tmq,sso,sry,ykm,spe,kxa,svb,kis)anes;
+END;

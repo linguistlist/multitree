@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Asian Unclassified Languages: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE aay Aariya,
+anr Andh,
+asun 'Asian Unclassified',
+btl Bhatola,
+ckh Chak,
+mld Malakhel,
+mmj Majhwar,
+mmk 'Mukha-Dora',
+neo 'Ná-Meo',
+wrd Warduji,
+wxa Waxianghua;
+TREE 11964 = [&R] (wxa,mmk,ckh,neo,aay,btl,mld,anr,wrd,mmj)asun;
+END;

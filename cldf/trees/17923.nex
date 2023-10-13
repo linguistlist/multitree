@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: Australian Deaf Sign Language: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE asf 'Australian Sign Language',
+auds 'Australian Deaf Sign Language';
+TREE 17923 = [&R] (asf)auds;
+END;

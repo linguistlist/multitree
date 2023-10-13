@@ -1,0 +1,25 @@
+#NEXUS
+[MultiTree: Iroquoian:  Golla, Goddard, Campbell, Mithun, Mixco 2007]
+BEGIN TREES;
+TRANSLATE cay Cayuga,
+chr Cherokee,
+exap 'Lake Iroquoian',
+iroq Iroquoian,
+lptd 'Iroquois Proper',
+lre Laurentian,
+moh Mohawk,
+niro 'Northern Iroquoian',
+ntw_nwy Meherrin,
+one Oneida,
+ono Onondaga,
+qeb Neutral,
+qgl Erie,
+qgv Wenro,
+see Seneca,
+siro 'Southern Iroquoian',
+sqn Susquehannock,
+tuno 'Tuscarora-Nottoway',
+tus Tuscarora,
+wya_wya_hur 'Huron-Wyandot';
+TREE 16799 = [&R] ((((qgv,qgl,sqn,ono,cay,moh,one,qeb,see)lptd,lre,wya_wya_hur)exap,(ntw_nwy,ntw_nwy,tus)tuno)niro,(chr)siro)iroq;
+END;

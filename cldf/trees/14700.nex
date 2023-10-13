@@ -1,0 +1,25 @@
+#NEXUS
+[MultiTree: North American Pidgins and Creoles: Composite]
+BEGIN TREES;
+TRANSLATE 1hs 'Kodiak Russian Creole',
+ampg 'Amerindian Pidgin',
+chn 'Chinook Wawa',
+dep 'Delaware, Pidgin',
+gul 'Sea Island Creole English',
+gul_geo Georgia,
+gul_nor 'Northeast Florida Coast',
+gul_sou 'South Carolina',
+hwc 'Hawai`i Pidgin',
+lou 'Louisiana Creole',
+mod Mobilian,
+nace 'North American Creole',
+napc 'North American Pidgins and Creoles',
+napi 'North American Pidgin',
+natc Atlantic,
+nebc 'English based',
+nfbc 'French based',
+nsec 'Southern Eastern Atlantic Creole',
+pacr Pacific,
+rusb 'Russian based';
+TREE 14700 = [&R] ((((((gul_sou,gul_geo,gul_nor)gul)nsec)natc,(hwc)pacr)nebc,(lou)nfbc,(1hs)rusb)nace,((dep,mod,chn)ampg)napi)napc;
+END;

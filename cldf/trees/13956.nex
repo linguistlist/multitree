@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: East Bird's Head Phylum-Level Stock: Wurm 1982]
+BEGIN TREES;
+TRANSLATE ebir 'East Bird''s Head',
+meax Meax,
+mej Meax,
+mnx Mantion,
+mnx_man Manikion,
+mnx_mat Mantion,
+mtj Meninggo;
+TREE 13956 = [&R] ((mnx_mat,mnx_man)mnx,(mtj,mej)meax)ebir;
+END;

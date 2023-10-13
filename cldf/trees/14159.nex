@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: Beothuk: Dryer 2005]
+BEGIN TREES;
+TRANSLATE bthk Beothuk,
+bue Beothuk;
+TREE 14159 = [&R] (bue)bthk;
+END;

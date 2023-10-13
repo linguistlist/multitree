@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <updated-at type="datetime">2009-05-04T17:32:01-04:00</updated-at>
+      <tree-id type="integer">12040</tree-id>
+      <updater-id type="integer">10740</updater-id>
+      <start-date nil="true"></start-date>
+      <node-type>Subgroup</node-type>
+      <is-default type="integer">0</is-default>
+      <created-at type="datetime">2009-05-04T17:32:00-04:00</created-at>
+      <sureness type="integer">0</sureness>
+      <pri-name>Washo</pri-name>
+      <node-type-id type="integer">10000</node-type-id>
+      <children type="array">
+        <child>
+          <updated-at type="datetime">2009-05-04T17:32:01-04:00</updated-at>
+          <tree-id type="integer">12040</tree-id>
+          <updater-id type="integer">10740</updater-id>
+          <start-date nil="true"></start-date>
+          <node-type>Language</node-type>
+          <is-default type="integer">0</is-default>
+          <created-at type="datetime">2009-05-04T17:32:01-04:00</created-at>
+          <sureness type="integer">0</sureness>
+          <pri-name>Washo</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+          <children type="array"/>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 631. New York: Oxford University Press. ISBN 0199255911</publications>
+          <pub-comments>WALS Code: was</pub-comments>
+          <deleted-at nil="true"></deleted-at>
+          <alt-names></alt-names>
+          <end-date nil="true"></end-date>
+          <tree-val>Washo: Dryer 2005</tree-val>
+          <updated-by>joe_leif</updated-by>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">381481</id>
+          <status nil="true"></status>
+          <created-by>joe_leif</created-by>
+          <confidence>y</confidence>
+          <other-codes>was</other-codes>
+          <creator-id type="integer">10740</creator-id>
+          <codes>was</codes>
+          <geography>Country: United States; Lat.: 39.25; Long.: -120</geography>
+        </child>
+      </children>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 631. New York: Oxford University Press. ISBN 0199255911</publications>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <deleted-at nil="true"></deleted-at>
+      <alt-names></alt-names>
+      <end-date nil="true"></end-date>
+      <tree-val>Washo: Dryer 2005</tree-val>
+      <updated-by>joe_leif</updated-by>
+      <node-status-id nil="true"></node-status-id>
+      <id type="integer">381480</id>
+      <status nil="true"></status>
+      <created-by>joe_leif</created-by>
+      <confidence>y</confidence>
+      <other-codes></other-codes>
+      <creator-id type="integer">10740</creator-id>
+      <codes>wash</codes>
+      <geography nil="true"></geography>
+    </root>
+    <description>Washo: Dryer 2005</description>
+  </tree>
+</hash>

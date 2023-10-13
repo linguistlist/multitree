@@ -1,0 +1,23 @@
+#NEXUS
+[MultiTree: Eskimo-Aleut: Dryer 2005]
+BEGIN TREES;
+TRANSLATE ale Aleut,
+ale_eas 'Aleut (Eastern)',
+ems Alutiiq,
+esi Iñupiaq,
+eska 'Eskimo-Aleut',
+ess 'Yupik (St. Lawrence Island)',
+esu 'Yup''ik (Central)',
+esu_hoo 'Yup''ik (Chevak)',
+esu_nor 'Yup''ik (Norton Sound)',
+ike_lab_ike_que 'Inuktitut (Quebec-Labrador)',
+ike_sag 'Inuktitut (Salluit)',
+ikt 'Inuktitut (Rankin Inlet)',
+ikt_cop Kangiryuarmiut,
+kal 'Greenlandic (South)',
+kal_eas 'Greenlandic (East)',
+kal_wes 'Greenlandic (West)',
+ynk 'Yupik (Naukan)',
+ysr 'Yupik (Sirenik)';
+TREE 10558 = [&R] (ale,ale_eas,ems,kal_eas,kal,kal_wes,ike_lab_ike_que,ikt,ike_sag,esi,ikt_cop,esu,esu_hoo,ynk,esu_nor,ess,ysr,ess)eska;
+END;

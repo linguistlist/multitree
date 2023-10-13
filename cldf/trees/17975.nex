@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Proto-Uralic: Janhunen 2001]
+BEGIN TREES;
+TRANSLATE cher Mariic,
+finn Finnic,
+flap 'Proto-Finno-Saamic',
+fmor 'Proto-Finno-Mordvinic',
+fper 'Proto-Finno-Permic',
+fugr 'Proto-Finno-Ugric',
+fvol 'Proto-Finno-Volgaic',
+lapp Saamic,
+mord Mordvinic,
+perm Permic,
+smoy Samoyedic,
+ugri Ugric,
+urlc 'Proto-Uralic';
+TREE 17975 = [&R] ((ugri,(((((lapp)lapp,finn)flap,mord)fmor,cher)fvol,perm)fper)fugr,smoy)urlc;
+END;

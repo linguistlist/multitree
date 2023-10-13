@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Karuk: Mithun 1999]
+BEGIN TREES;
+TRANSLATE kyh Karuk,
+kyh_cle 'Clear Creek',
+kyh_hap 'Happy Camp',
+kyh_kat Katimin,
+kyh_low 'Lower River',
+kyh_orl Orleans;
+TREE 15320 = [&R] (kyh_cle,(kyh_orl,kyh_kat)kyh_low,kyh_hap)kyh;
+END;

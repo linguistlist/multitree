@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Kwerba: Dryer 2005]
+BEGIN TREES;
+TRANSLATE kwe Kwerba,
+kwer Kwerba,
+srl Isirawa;
+TREE 12130 = [&R] (srl,kwe)kwer;
+END;

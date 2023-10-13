@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Micronesian, a subtree of Oceanic: Lynch, Ross, Crowley 2002]
+BEGIN TREES;
+TRANSLATE cmic 'Central Micronesian family',
+gil Kiribati,
+kos Kosraean,
+mah Marshallese,
+micp 'Nuclear Micronesian family',
+micr 'Micronesian family',
+nau Nauruan,
+pont 'Chuukic-Ponapeic family',
+wmic 'Western Micronesian family';
+TREE 24362 = [&R] ((kos,((pont,mah)wmic,gil)cmic)micp,nau)micr;
+END;

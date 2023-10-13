@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Proto-Afroasiatic: Ehret 2000]
+BEGIN TREES;
+TRANSLATE afas 'proto-Afroasiatic',
+afsm 'proto-Semitic',
+berb 'proto-Berber',
+chad 'proto-Chadic',
+cush 'proto-Cushtic',
+egy 'ancient Egyptian',
+eryt 'proto-Erythraic',
+nafa 'proto-Boreafroasiatic',
+pnom 'proto-North Omotic',
+prne 'proto-North-Erythraic',
+prom 'proto-Omotic',
+psom 'proto-South Omotic',
+sery Cushtic;
+TREE 16816 = [&R] ((((afsm,berb,egy)nafa,chad)prne,(cush)sery)eryt,(psom,pnom)prom)afas;
+END;

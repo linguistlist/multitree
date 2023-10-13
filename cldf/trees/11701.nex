@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: North American Isolates: Composite]
+BEGIN TREES;
+TRANSLATE 01f Chitimacha,
+kut Kutenai,
+nais 'North American Language Isolate',
+yuc Yuchi,
+zun Zuni;
+TREE 11701 = [&R] (yuc,zun,kut,01f)nais;
+END;

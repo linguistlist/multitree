@@ -1,0 +1,20 @@
+#NEXUS
+[MultiTree: Kiowa-Tanoan: Campbell 1997]
+BEGIN TREES;
+TRANSLATE kio Kiowa,
+kita 'Kiowa-Tanoan',
+pie Piro,
+tew 'Hopi Tewa',
+tew_san 'Santa Clara-San Juan',
+tewa Tewa,
+tiwa Tiwa,
+tix 'Southern Tiwa',
+tix_isl Isleta,
+tix_san Sandia,
+tnon Tanoan,
+tow Towa,
+twf 'Northern Tiwa',
+twf_pic Picuris,
+twf_tao Taos;
+TREE 13259 = [&R] (((pie,(tix_san,tix_isl)tix,(twf_pic,twf_tao)twf)tiwa,tow,(tew,tew_san)tewa)tnon,kio)kita;
+END;

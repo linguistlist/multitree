@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Atakapan: Goddard 1996]
+BEGIN TREES;
+TRANSLATE atak Atakapan,
+ql6 'Eastern Atakapa',
+qm5 'Western Atakapa',
+qm5_ako Akokisa,
+qm5_wes 'Western Atakapa';
+TREE 11930 = [&R] (ql6,(qm5_ako,qm5_wes)qm5)atak;
+END;

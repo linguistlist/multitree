@@ -1,0 +1,30 @@
+#NEXUS
+[MultiTree: Macro-Paesan Cluster: Kaufman 2007]
+BEGIN TREES;
+TRANSLATE ana Andakí,
+barb Barbakóan,
+bpb Pasto,
+cbi Kayapa,
+cca Kokonuko,
+coco 'Kokonuko Group',
+cof Tsáfiki,
+gum Wambiano,
+ito Itonama,
+knsp 'Kunsa-Kapishaná',
+kuz Kunsa,
+kwi Koaiker,
+mcps 'Macro-Paesan',
+nbar 'Northern Barbakóan',
+paez 'Paes Group',
+pbb Paes,
+psbk 'Paes-Barbakóan',
+qcd Muelyama,
+qcv Pansaleo,
+qfe Kapishaná,
+qnj Kara,
+qtd Betoi,
+sbar 'Southern Barbakóan',
+ttk Totoró,
+wba Warao;
+TREE 15119 = [&R] (wba,(((cof,qnj,cbi)sbar,(qcd,kwi,bpb)nbar)barb,(ttk,cca,gum)coco,(pbb,qcv)paez,ana)psbk,qtd,(qfe,kuz)knsp,ito)mcps;
+END;

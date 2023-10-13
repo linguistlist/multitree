@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Chimakuan: Composite]
+BEGIN TREES;
+TRANSLATE chmn Chimakuan,
+qui Quileute,
+xch Chemakum;
+TREE 18036 = [&R] (xch,qui)chmn;
+END;

@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: Wave: Kaufman 2007]
+BEGIN TREES;
+TRANSLATE huav Wave,
+hue_huv_hve_hvv Wave;
+TREE 16458 = [&R] (hue_huv_hve_hvv)huav;
+END;

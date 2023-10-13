@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Jabutían: Composite]
+BEGIN TREES;
+TRANSLATE ark Arikapú,
+jbt Jabutí,
+jbtn Jabutían,
+qp4 Maxubí;
+TREE 17456 = [&R] (ark,jbt,qp4)jbtn;
+END;

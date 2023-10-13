@@ -1,0 +1,30 @@
+#NEXUS
+[MultiTree: Makúan: Composite]
+BEGIN TREES;
+TRANSLATE 07f 'Roçando Nadëb',
+07g 'Rio Negro Nadëb',
+1hw Kuyabi,
+cbv Kakua,
+cbv_mac 'Macú-Paraná Cacua',
+cbv_vau 'Vaupés Cacua',
+dahy 'Dâw-Hudpa-Yuhup',
+emak 'Eastern Makúan',
+huyu 'Hupda-Yuhup',
+jup Hupda,
+jup_hup Hupdë,
+jup_neh Nëhup,
+jup_tuh Tuhup,
+kaku Kakua,
+kwa Dâw,
+maku Makúan,
+mbj 'Nadëb branch',
+mbj_nab Nadöb,
+mbr Nukak,
+pui Puinave,
+qgy Wariva,
+qp7 Waviare,
+qpz 'Kuri-Dou',
+wmau 'Western Makúan',
+yab Yuhup;
+TREE 18017 = [&R] (((07g,mbj_nab,07f,qgy,qp7,1hw)mbj,(((jup_neh,jup_tuh,jup_hup)jup,yab)huyu,kwa)dahy)emak,(((cbv_mac,cbv_vau)cbv,pui)kaku,mbr)wmau,qpz)maku;
+END;

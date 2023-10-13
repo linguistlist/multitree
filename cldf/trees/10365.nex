@@ -1,0 +1,29 @@
+#NEXUS
+[MultiTree: Austronesian: Haudricourt 1962]
+BEGIN TREES;
+TRANSLATE achi Achen,
+anes Austronesian,
+auwx Philippian,
+born Bornean,
+cham Cham,
+chrr Chamorro,
+cvqz Melanesian,
+form Formosan,
+iixi Indonesian,
+java Java,
+jra Jarai,
+jyht Malais,
+micr Micronesian,
+mwt Selung,
+pala Palao,
+poly Polynesian,
+q1o Reglai,
+qi5 Madagascar,
+rad Radé,
+rgu Rotti,
+sulw Celebesan,
+suma Sumatra,
+thno Flores,
+timo Timor;
+TREE 10365 = [&R] ((micr,cvqz,poly)form,(mwt,java,(achi,(q1o,jra,rad)cham,jyht)suma,(qi5)born,chrr,pala,((thno,timo,rgu)sulw)auwx)iixi)anes;
+END;

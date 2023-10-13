@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <tree-id type="integer">12459</tree-id>
+      <other-codes></other-codes>
+      <alt-names></alt-names>
+      <pri-name>Trumai</pri-name>
+      <id type="integer">418137</id>
+      <created-at type="datetime">2009-05-19T18:17:01-04:00</created-at>
+      <updated-at type="datetime">2009-05-19T18:17:01-04:00</updated-at>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <geography nil="true"></geography>
+      <codes>trmi</codes>
+      <status nil="true"></status>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 640. New York: Oxford University Press. ISBN 0199255911</publications>
+      <creator-id type="integer">10740</creator-id>
+      <is-default type="integer">0</is-default>
+      <deleted-at nil="true"></deleted-at>
+      <confidence>y</confidence>
+      <node-status-id nil="true"></node-status-id>
+      <children type="array">
+        <child>
+          <tree-id type="integer">12459</tree-id>
+          <other-codes>tru</other-codes>
+          <alt-names></alt-names>
+          <pri-name>Trumai</pri-name>
+          <id type="integer">418138</id>
+          <created-at type="datetime">2009-05-19T18:17:01-04:00</created-at>
+          <updated-at type="datetime">2009-05-19T18:17:01-04:00</updated-at>
+          <pub-comments></pub-comments>
+          <geography>Country: Brazil; Lat.: -12; Long.: -53</geography>
+          <codes>tpy</codes>
+          <status nil="true"></status>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 640. New York: Oxford University Press. ISBN 0199255911</publications>
+          <creator-id type="integer">10740</creator-id>
+          <is-default type="integer">0</is-default>
+          <deleted-at nil="true"></deleted-at>
+          <confidence>y</confidence>
+          <node-status-id nil="true"></node-status-id>
+          <children type="array"/>
+          <node-type-id type="integer">10001</node-type-id>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <updated-by>joe_leif</updated-by>
+          <tree-val>Trumai: Dryer 2005</tree-val>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <node-type>Language</node-type>
+          <end-date nil="true"></end-date>
+        </child>
+      </children>
+      <node-type-id type="integer">10000</node-type-id>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <updated-by>joe_leif</updated-by>
+      <tree-val>Trumai: Dryer 2005</tree-val>
+      <sureness type="integer">0</sureness>
+      <start-date nil="true"></start-date>
+      <node-type>Subgroup</node-type>
+      <end-date nil="true"></end-date>
+    </root>
+    <description>Trumai: Dryer 2005</description>
+  </tree>
+</hash>

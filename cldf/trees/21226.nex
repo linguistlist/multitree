@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Pauwasi: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE dmu Tebi,
+enr Emem,
+epaw 'Eastern Pauwasi',
+pauw Pauwasi,
+ttn Towei,
+wfg Zorop,
+wpaw 'Western Pauwasi',
+yuj 'Karkar-Yuri',
+yuj_aui 'Auia-Tarauwi',
+yuj_nor 'North Central Yuri',
+yuj_usa Usari;
+TREE 21226 = [&R] (((yuj_nor,yuj_aui,yuj_usa)yuj,wfg,enr)epaw,(dmu,ttn)wpaw)pauw;
+END;

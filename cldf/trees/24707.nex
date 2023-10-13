@@ -1,0 +1,35 @@
+#NEXUS
+[MultiTree: Khoeid: Brenzinger 2008]
+BEGIN TREES;
+TRANSLATE 1iy 'Ts''exa',
+gnk '||Gana-|Gui',
+hgm Hai||om,
+hio Tshwa,
+hio_cua Cua,
+hio_tsu Tsua,
+hnh 'Khwe-||Ani',
+hnh_nga Ngarange,
+hnh_xob 'Xo-Buga',
+hnh_xom 'Xom-Buma',
+khoe Khoeid,
+knw_akh '|=Akhoe',
+naq Khoekhoe,
+naq_bon Bondelswarts,
+naq_cen 'Central Dama',
+naq_dam 'Gaub Damara',
+naq_gob Gobabis,
+naq_nad Namidama,
+naq_nam 'Central Nama',
+naq_ses Sesfontein,
+naq_top Topnaar,
+nhr Naro,
+nhr_nha 'Ts''ao',
+sgh_car Cara,
+shg Shua,
+shg_dan Danisi,
+shg_det Deti,
+shg_xai |Xaise,
+shts 'Shua-Tshwa',
+tyu Kua;
+TREE 24707 = [&R] (((hio_tsu,hio_cua,tyu)hio,(shg_xai,sgh_car,1iy,shg_dan,shg_det)shg)shts,(hnh_xob,hnh_nga,hnh_xom)hnh,(nhr_nha)nhr,(hgm,naq_ses,naq_cen,knw_akh,naq_bon,naq_top,naq_dam,naq_nam,naq_gob,naq_nad)naq,gnk)khoe;
+END;

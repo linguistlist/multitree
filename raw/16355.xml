@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <other-codes></other-codes>
+      <confidence>y</confidence>
+      <pri-name>Chok&#243;</pri-name>
+      <node-type-id type="integer">10000</node-type-id>
+      <created-at type="datetime">2009-11-19T19:07:50-05:00</created-at>
+      <tree-id type="integer">16355</tree-id>
+      <start-date>1300 CE</start-date>
+      <pub-comments>"The time depth of seven centuries calculated by Swadesh (1959) may be too low, in Sinufana and Kimbaya are to be included.  Otherwise the internal diversification of Choko does not seem to be very great.  Tovar and Suarez think Choko is related to Kariban.  Since Loukotka (1968) cites no data from Sinufana and Kimbaya, and since those who think Choko is Kariban do not usually include Kimbaya, it may be that Kimbaya does not belong to this family.  Loukotka (1944) sees similarities with Paes in South Embera, and similarities with Arawakan in Noanama.  Rivet and Loukotka (1950) include Choko in Kariban.  Comparative study of Choko is still in initial stages." (63)</pub-comments>
+      <deleted-at nil="true"></deleted-at>
+      <children type="array">
+        <child>
+          <other-codes></other-codes>
+          <confidence>y</confidence>
+          <pri-name>Noanam&#225;</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+          <created-at type="datetime">2009-11-19T19:07:51-05:00</created-at>
+          <tree-id type="integer">16355</tree-id>
+          <start-date nil="true"></start-date>
+          <pub-comments>Speakers: 6000</pub-comments>
+          <deleted-at nil="true"></deleted-at>
+          <children type="array"/>
+          <sureness type="integer">0</sureness>
+          <status nil="true"></status>
+          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63. London, New York: Routledge. </publications>
+          <id type="integer">675555</id>
+          <tree-val>Chok&#243;: Kaufman 2007</tree-val>
+          <updated-by>joe_leif</updated-by>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <geography>Southeast Panama, Columbia</geography>
+          <updater-id type="integer">10740</updater-id>
+          <codes>noa</codes>
+          <created-by>joe_leif</created-by>
+          <node-type>Language</node-type>
+          <creator-id type="integer">10740</creator-id>
+          <updated-at type="datetime">2009-11-19T19:07:51-05:00</updated-at>
+          <end-date nil="true"></end-date>
+          <alt-names>Waunana</alt-names>
+        </child>
+        <child>
+          <other-codes></other-codes>
+          <confidence>y</confidence>
+          <pri-name>Ember&#225; Group</pri-name>
+          <node-type-id type="integer">10001</node-type-id>
+          <created-at type="datetime">2009-11-19T19:07:51-05:00</created-at>
+          <tree-id type="integer">16355</tree-id>
+          <start-date nil="true"></start-date>
+          <pub-comments>The author calls this a language area.</pub-comments>
+          <deleted-at nil="true"></deleted-at>
+          <children type="array">
+            <child>
+              <other-codes></other-codes>
+              <confidence>y</confidence>
+              <pri-name>Sin&#250;fana</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <created-at type="datetime">2009-11-19T19:07:51-05:00</created-at>
+              <tree-id type="integer">16355</tree-id>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <deleted-at nil="true"></deleted-at>
+              <children type="array"/>
+              <sureness type="integer">0</sureness>
+              <status>Extinct</status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63. London, New York: Routledge. </publications>
+              <id type="integer">675559</id>
+              <tree-val>Chok&#243;: Kaufman 2007</tree-val>
+              <updated-by>joe_leif</updated-by>
+              <node-status-id type="integer">10000</node-status-id>
+              <is-default type="integer">0</is-default>
+              <geography>Bol&#237;var, Columbia</geography>
+              <updater-id type="integer">10740</updater-id>
+              <codes>qne</codes>
+              <created-by>joe_leif</created-by>
+              <node-type>Language</node-type>
+              <creator-id type="integer">10740</creator-id>
+              <updated-at type="datetime">2009-11-19T19:07:51-05:00</updated-at>
+              <end-date nil="true"></end-date>
+              <alt-names>Cenufara</alt-names>
+            </child>
+            <child>
+              <other-codes></other-codes>
+              <confidence>y</confidence>
+              <pri-name>Kimbaya</pri-name>
+              <node-type-id type="integer">10001</node-type-id>
+              <created-at type="datetime">2009-11-19T19:07:51-05:00</created-at>
+              <tree-id type="integer">16355</tree-id>
+              <start-date nil="true"></start-date>
+              <pub-comments></pub-comments>
+              <deleted-at nil="true"></deleted-at>
+              <children type="array"/>
+              <sureness type="integer">-1</sureness>
+              <status>Extinct</status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63. London, New York: Routledge. </publications>
+              <id type="integer">675560</id>
+              <tree-val>Chok&#243;: Kaufman 2007</tree-val>
+              <updated-by>joe_leif</updated-by>
+              <node-status-id type="integer">10000</node-status-id>
+              <is-default type="integer">0</is-default>
+              <geography>Valle de Cauca, Columbia</geography>
+              <updater-id type="integer">10740</updater-id>
+              <codes>qge</codes>
+              <created-by>joe_leif</created-by>
+              <node-type>Language</node-type>
+              <creator-id type="integer">10740</creator-id>
+              <updated-at type="datetime">2009-11-19T19:07:51-05:00</updated-at>
+              <end-date nil="true"></end-date>
+              <alt-names>Quimbaya</alt-names>
+            </child>
+            <child>
+              <other-codes></other-codes>
+              <confidence>y</confidence>
+              <pri-name>Northern Ember&#225;</pri-name>
+              <node-type-id type="integer">10003</node-type-id>
+              <created-at type="datetime">2009-11-19T19:07:51-05:00</created-at>
+              <tree-id type="integer">16355</tree-id>
+              <start-date nil="true"></start-date>
+              <pub-comments>The author calls this an emergent language. Speakers: 20000</pub-comments>
+              <deleted-at nil="true"></deleted-at>
+              <children type="array"/>
+              <sureness type="integer">0</sureness>
+              <status nil="true"></status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63. London, New York: Routledge. </publications>
+              <id type="integer">675558</id>
+              <tree-val>Chok&#243;: Kaufman 2007</tree-val>
+              <updated-by>joe_leif</updated-by>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <geography>Panama, Antioquia, Columbia</geography>
+              <updater-id type="integer">10740</updater-id>
+              <codes>emp</codes>
+              <created-by>joe_leif</created-by>
+              <node-type>Dialect</node-type>
+              <creator-id type="integer">10740</creator-id>
+              <updated-at type="datetime">2009-11-19T19:07:51-05:00</updated-at>
+              <end-date nil="true"></end-date>
+              <alt-names></alt-names>
+            </child>
+            <child>
+              <other-codes></other-codes>
+              <confidence>y</confidence>
+              <pri-name>Southern Ember&#225;</pri-name>
+              <node-type-id type="integer">10003</node-type-id>
+              <created-at type="datetime">2009-11-19T19:07:51-05:00</created-at>
+              <tree-id type="integer">16355</tree-id>
+              <start-date nil="true"></start-date>
+              <pub-comments>The author calls this an emergent language. Speakers: 3500</pub-comments>
+              <deleted-at nil="true"></deleted-at>
+              <children type="array"/>
+              <sureness type="integer">0</sureness>
+              <status nil="true"></status>
+              <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63. London, New York: Routledge. </publications>
+              <id type="integer">675557</id>
+              <tree-val>Chok&#243;: Kaufman 2007</tree-val>
+              <updated-by>joe_leif</updated-by>
+              <node-status-id nil="true"></node-status-id>
+              <is-default type="integer">0</is-default>
+              <geography>Panama, Antioquia, Columbia</geography>
+              <updater-id type="integer">10740</updater-id>
+              <codes>sja</codes>
+              <created-by>joe_leif</created-by>
+              <node-type>Dialect</node-type>
+              <creator-id type="integer">10740</creator-id>
+              <updated-at type="datetime">2009-11-19T19:07:51-05:00</updated-at>
+              <end-date nil="true"></end-date>
+              <alt-names></alt-names>
+            </child>
+          </children>
+          <sureness type="integer">0</sureness>
+          <status nil="true"></status>
+          <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63. London, New York: Routledge. </publications>
+          <id type="integer">675556</id>
+          <tree-val>Chok&#243;: Kaufman 2007</tree-val>
+          <updated-by>joe_leif</updated-by>
+          <node-status-id nil="true"></node-status-id>
+          <is-default type="integer">0</is-default>
+          <geography nil="true"></geography>
+          <updater-id type="integer">10740</updater-id>
+          <codes>embr</codes>
+          <created-by>joe_leif</created-by>
+          <node-type>Language</node-type>
+          <creator-id type="integer">10740</creator-id>
+          <updated-at type="datetime">2009-11-19T19:07:51-05:00</updated-at>
+          <end-date nil="true"></end-date>
+          <alt-names></alt-names>
+        </child>
+      </children>
+      <sureness type="integer">0</sureness>
+      <status nil="true"></status>
+      <publications>Kaufman, Terrence. 2007. Atlas of the World's Languages, 2 edn., 63. London, New York: Routledge. </publications>
+      <id type="integer">675554</id>
+      <tree-val>Chok&#243;: Kaufman 2007</tree-val>
+      <updated-by>joe_leif</updated-by>
+      <node-status-id nil="true"></node-status-id>
+      <is-default type="integer">0</is-default>
+      <geography nil="true"></geography>
+      <updater-id type="integer">10740</updater-id>
+      <codes>choc</codes>
+      <created-by>joe_leif</created-by>
+      <node-type>Subgroup</node-type>
+      <creator-id type="integer">10740</creator-id>
+      <updated-at type="datetime">2009-11-19T19:07:51-05:00</updated-at>
+      <end-date nil="true"></end-date>
+      <alt-names></alt-names>
+    </root>
+    <description>Chok&#243;: Kaufman 2007</description>
+  </tree>
+</hash>

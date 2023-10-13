@@ -1,0 +1,22 @@
+#NEXUS
+[MultiTree: Proto-South Dravidian, subtree of Dravidian: Zvelebil 1977]
+BEGIN TREES;
+TRANSLATE bfq Badaga,
+iru Iruḷa,
+kan Kannaḍa,
+kann 'Pre-Kannada',
+kfa Koḍagu,
+kfe Kota,
+ktyp 'Proto-Tamil-Malayāḷam',
+mal Malayāḷam,
+mrvg 'Proto-Tamil-Toda',
+qtlo 'Proto-Tamil-Kannada',
+sdrv 'Proto-South Dravidian',
+tako 'Proto-Tamil- Koḍagu',
+tam Tamil,
+taml 'Pre-Tamil',
+tcx Toda,
+tcy Tuḷu,
+todk 'Proto-Kota-Toda';
+TREE 11352 = [&R] ((((((tam,iru,mal)taml)ktyp,kfa)tako,(tcx,kfe)todk)mrvg,(kan,bfq)kann)qtlo,tcy)sdrv;
+END;

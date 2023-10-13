@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Marind: Dryer 2005]
+BEGIN TREES;
+TRANSLATE fobl Marind,
+jaq Yaqay,
+jbj Arandai,
+kvg Boazi,
+mrnd 'Marind Proper',
+mrz Marind,
+sbhd 'South Bird''s Head',
+szp Inanwatan,
+zik Zimakani;
+TREE 10487 = [&R] ((kvg,mrz,jaq,zik)mrnd,(jbj,szp)sbhd)fobl;
+END;

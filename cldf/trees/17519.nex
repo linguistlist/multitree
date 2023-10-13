@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Paezan: Composite]
+BEGIN TREES;
+TRANSLATE paez Paezan,
+pbb Paez,
+pbb_pan Paniquitá;
+TREE 17519 = [&R] (pbb_pan,pbb)paez;
+END;

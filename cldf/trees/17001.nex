@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: Solano: Golla, Goddard, Campbell, Mithun, and Mixco 2007]
+BEGIN TREES;
+TRANSLATE slno Solano,
+xso Solano;
+TREE 17001 = [&R] (xso)slno;
+END;

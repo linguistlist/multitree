@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Chumash: Dryer 2005]
+BEGIN TREES;
+TRANSLATE boi 'Chumash (Barbareño)',
+chum Chumash,
+inz 'Chumash (Ineseño)';
+TREE 15297 = [&R] (boi,inz)chum;
+END;

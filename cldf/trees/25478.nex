@@ -1,0 +1,35 @@
+#NEXUS
+[MultiTree: Eurasiatic: Greenberg 1991]
+BEGIN TREES;
+TRANSLATE adjw 'Uralic-Yukaghir',
+ain_ainu Ainu,
+ale_ber Central,
+ale_eas Eastern,
+ale_wes Western,
+aleu Aleut,
+altc Altaic,
+bolg Chuvash,
+chka Chukotian,
+ckt Chukchi,
+crtk 'Non-Chuvash',
+eska 'Eskimo-Aleut',
+eski Eskimo,
+eura Eurasiatic,
+gily_niv Gilyak,
+hun Hungarian,
+ieur 'Indo-European',
+itl Kamchadal,
+japo_jpn Japanese,
+kor_kore Korean,
+kpy Koryak,
+mong Mongolian,
+nchk 'Chukchi-Koryak',
+pjka 'Ainu-Japanese-Korean',
+sibr Yuit,
+tung Tungus,
+turk Turkic,
+urlc Uralic,
+ykg_yuka_yux Yukaghir,
+ysr Sirenik;
+TREE 25478 = [&R] ((itl,(ckt)nchk,kpy)chka,((bolg,crtk)turk,tung,mong)altc,((hun)urlc,ykg_yuka_yux)adjw,(((sibr)ysr)eski,(ale_wes,ale_ber,ale_eas)aleu)eska,(kor_kore,ain_ainu,japo_jpn)pjka,gily_niv,ieur)eura;
+END;

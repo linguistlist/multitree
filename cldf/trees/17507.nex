@@ -1,0 +1,29 @@
+#NEXUS
+[MultiTree: Nambiquaran: Composite]
+BEGIN TREES;
+TRANSLATE 1l2 Nambiquara,
+lkd_ltn Yalapmunxte,
+lkd_ltn_wmd_xtw_xyl Mamaindê,
+nab Kithãulhú,
+nab_ala Alatesu,
+nab_gal Galera,
+nab_hah Hahaintesu,
+nab_hal Halotesu,
+nab_kab Kabishi,
+nab_khi Khithaulhu,
+nab_man Manduka,
+nab_nam Nambiquara,
+nab_sar Sararé,
+nab_sax Saxwentesu,
+nab_ser 'Serra Azul',
+nab_wai Waikisu,
+nab_wak Wakalitesu,
+nab_was Wasusu,
+namb Nambiquaran,
+sae Sabané,
+snam 'Southern Nambikuaran',
+wmd Mamaindé,
+xtw Taxwensite,
+xyl Negarotê;
+TREE 17507 = [&R] ((sae,(nab_gal,nab_hal,nab_was,nab_wai,nab_sax,nab_ala,nab_ser,nab_wak,nab_khi,nab_hah,nab_man)1l2,(nab_kab,nab_nam)nab,nab_sar)snam,(xtw,xtw,xtw,xyl,lkd_ltn,wmd)lkd_ltn_wmd_xtw_xyl)namb;
+END;

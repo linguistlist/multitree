@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Cholonan: Composite]
+BEGIN TREES;
+TRANSLATE chln Cholonan,
+cht Cholón,
+hib Híbito;
+TREE 17219 = [&R] (hib,cht)chln;
+END;

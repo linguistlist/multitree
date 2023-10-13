@@ -1,0 +1,23 @@
+#NEXUS
+[MultiTree: East Geelvink Bay: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE bauz Bauzi,
+bpo Anasi,
+brp Barapasi,
+brp_mar Marikai,
+brp_sip Sipisi,
+bti Burate,
+bvz Bauzi,
+bvz_aum Aumenefa,
+bvz_ges 'Gesda Dae',
+bvz_nea Neao,
+dei Demisa,
+egba 'East Geelvink Bay',
+kpi Kofei,
+njs Nisa,
+srt Sauri,
+tfo Tefaro,
+trt Tunggare,
+wor Woria;
+TREE 21214 = [&R] (trt,(brp_sip,brp_mar)brp,((bvz_aum,bvz_nea,bvz_ges)bvz,dei)bauz,njs,bti,bpo,wor,kpi,tfo,srt)egba;
+END;

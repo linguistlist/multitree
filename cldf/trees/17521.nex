@@ -1,0 +1,27 @@
+#NEXUS
+[MultiTree: Tukanoan: Kaufman 2007]
+BEGIN TREES;
+TRANSLATE bsn_tue 'Bará-Tuyuka',
+cbc Karapaná,
+coe Korewahe,
+ctuc 'Central Tukanoan',
+cub Kubewa,
+des_sri 'Desana-Siriana',
+etuc 'Eastern Tukanoan',
+gvc 'Wanana-Pirá',
+juti 'Juri-Tikuna',
+myr Munichi,
+myy 'Makuna-Erulia',
+ore Koto,
+qmv 'Yupuá-Durina',
+qr8 Kueretú,
+sey Piohé,
+tca Tikuna,
+teb Teteté,
+tucn Tukanoan,
+tuo Tukano,
+wtuc 'Western Tukanoan',
+ynu Jaúna,
+yua Jurí;
+TREE 17521 = [&R] ((ynu,ore,coe,teb,sey)wtuc,(myy,tuo,cbc,qmv,bsn_tue,des_sri,gvc,qr8)etuc,(yua,myr,tca)juti,(cub)ctuc)tucn;
+END;

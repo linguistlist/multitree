@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Mascoian: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE emo Emok,
+gva Guana,
+gva_ech Echoladi,
+gva_lay Layana,
+leg Lengua,
+leg_nor 'Northern Lengua',
+leg_sou 'Southern Lengua',
+masc Mascoian,
+sap Sanapaná,
+sap_ang Angaite,
+sap_san Sanapana,
+tmf 'Toba-Maskoy';
+TREE 10362 = [&R] (emo,(gva_lay,gva_ech)gva,(leg_nor,leg_sou)leg,(sap_san,sap_ang)sap,tmf)masc;
+END;

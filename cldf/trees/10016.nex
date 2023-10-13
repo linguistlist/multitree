@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Jukagirisch und Uralisch: Collinder 1940]
+BEGIN TREES;
+TRANSLATE adjw 'Jukagirisch und Uralisch',
+urlc Uralisch,
+ykg_yux Jukagirisch;
+TREE 10016 = [&R] (ykg_yux,urlc)adjw;
+END;

@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Sino-Bodic: van Driem 1997]
+BEGIN TREES;
+TRANSLATE bodi Bodish,
+chin_sntc 'North-eastern',
+essb Eastern,
+etbr Southern,
+gnwr Western,
+hims Himalayan,
+kare Karenic,
+lolb 'Lolo-Burmese',
+qinc_rung 'South-eastern',
+setb 'South-western',
+snbo Northern,
+tbur 'Tibeto-Burman',
+wtbr 'North-western';
+TREE 24514 = [&R] ((((kare,lolb)setb,qinc_rung)etbr,(chin_sntc,(hims,bodi)wtbr)snbo)essb,gnwr)tbur;
+END;

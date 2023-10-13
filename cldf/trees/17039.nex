@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Yokuts: Golla, Goddard, Campbell, Mithun, Mixco 2007]
+BEGIN TREES;
+TRANSLATE yok_bue 'Buena Vista',
+yok_far_yok_nor_yok_sou_yok_val 'Valley Yokuts',
+yok_gas Gashowu,
+yok_kin 'Kings River',
+yok_pos Palewyami,
+yok_tlw 'Tule-Kaweah',
+yoku Yokuts;
+TREE 17039 = [&R] (yok_far_yok_nor_yok_sou_yok_val,yok_kin,yok_bue,yok_pos,yok_gas,yok_tlw)yoku;
+END;

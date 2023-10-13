@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Gulf District Isolates: Franklin 1975]
+BEGIN TREES;
+TRANSLATE elem Eleman,
+ocis 'Gulf District Isolates',
+prm Porome,
+prm_air Kibiri,
+prm_por Porome,
+tbd Tate;
+TREE 23125 = [&R] ((tbd)elem,(prm_por,prm_air)prm)ocis;
+END;

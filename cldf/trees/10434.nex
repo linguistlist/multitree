@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Hmong-Mien: Dryer 2005]
+BEGIN TREES;
+TRANSLATE buh Punu,
+hmom 'Hmong-Mien',
+hnj 'Hmong Njua',
+ium Mien,
+mji Mun,
+mww 'Hmong Daw';
+TREE 10434 = [&R] (mww,hnj,ium,mji,buh)hmom;
+END;

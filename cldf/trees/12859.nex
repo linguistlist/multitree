@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Lenkan: Asher, Moseley 1994]
+BEGIN TREES;
+TRANSLATE len 'Lenka Proper',
+len_kar 'Kare Lenka',
+len_kol 'Kolo Lenka',
+len_ser 'Serkin Lenka',
+lenc Lenkan;
+TREE 12859 = [&R] (len_kar,len_kol,len,len_ser)lenc;
+END;

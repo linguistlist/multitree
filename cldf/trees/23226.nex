@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Sko Phylum: Baron 1983]
+BEGIN TREES;
+TRANSLATE 0nb Nori,
+10k Talis,
+kris 'Krisa Stock',
+ksi Krisa,
+pux Puari,
+qxd Sangke,
+rawo 'Rawo Family',
+rwa Rawo,
+skoo 'Sko phylum',
+skv Sko,
+vam Vanimo,
+vanm 'Sko family',
+wmx Onei,
+wra Warapu,
+wrap 'Warapu Sub-stock',
+wut Wutung;
+TREE 23226 = [&R] (((wmx,(rwa,pux)rawo,wra,0nb)wrap,ksi)kris,(wut,vam,qxd,skv,10k)vanm)skoo;
+END;

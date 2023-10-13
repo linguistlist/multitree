@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Tequistlatecan: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE chd 'Chontal, Highland Oaxaca',
+clo 'Chontal, Lowland Oaxaca',
+tequ Tequistlatecan;
+TREE 21272 = [&R] (clo,chd)tequ;
+END;

@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Nimboran: Dryer 2005]
+BEGIN TREES;
+TRANSLATE kmt Kemtuik,
+nimn Nimboran,
+nir Nimboran;
+TREE 12132 = [&R] (nir,kmt)nimn;
+END;

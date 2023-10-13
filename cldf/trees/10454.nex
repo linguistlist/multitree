@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Basque: Dryer 2005]
+BEGIN TREES;
+TRANSLATE basq Basque,
+eus Basque,
+eus_bas 'Basque (Basaburua and Imoz)',
+eus_bid 'Basque (Bidasoa Valley)',
+eus_bsz 'Basque (Souletin)',
+eus_ger 'Basque (Gernica)',
+eus_hon 'Basque (Hondarribia)',
+eus_lek 'Basque (Lekeitio)',
+eus_nor 'Basque (Northern High Navarrese)',
+eus_ona 'Basque (Oñati)',
+eus_ron 'Basque (Roncalese)',
+eus_sak 'Basque (Sakana)',
+eus_zeb 'Basque (Zeberio)';
+TREE 10454 = [&R] (eus,eus_bas,eus_bid,eus_ger,eus_hon,eus_lek,eus_nor,eus_ona,eus_ron,eus_sak,eus_bsz,eus_zeb)basq;
+END;

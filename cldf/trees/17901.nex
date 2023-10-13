@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Central American Deaf Sign Langauge: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE cdsl 'Central American Deaf Sign Language',
+csf 'Cuba Sign Language',
+csr 'Costa Rican Sign Language',
+doq 'Dominican Sign Language',
+esn 'Salvadoran Sign Language',
+gsm 'Guatemalan Sign Language',
+hds 'Honduras Sign Language',
+jcs 'Jamaican Country Sign Language',
+mfs 'Mexican Sign Language',
+msd 'Yucatec Maya Sign Language',
+ncs 'Nicaraguan Sign Language',
+psl 'Puerto Rican Sign Language';
+TREE 17901 = [&R] (csf,esn,gsm,hds,csr,jcs,mfs,doq,ncs,msd,psl)cdsl;
+END;

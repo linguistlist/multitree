@@ -1,0 +1,20 @@
+#NEXUS
+[MultiTree: Huitotoan: Composite]
+BEGIN TREES;
+TRANSLATE 0o6 Koeruna,
+bmr Muinane,
+boa Bora,
+bora 'Bora-Muinane',
+hto Minica,
+huu Murui,
+hux Nipode,
+mimu 'Minica-Murai',
+noj Nonuya,
+oca Ocaina,
+oca_duk Dukaiya,
+oca_ibo 'Ibo''tsa',
+wipr 'Early Huitoto',
+wita Huitotoan,
+wito 'Huitoto-Ocaina';
+TREE 17279 = [&R] (((hux,(hto,huu)mimu)wipr,(oca_ibo,oca_duk)oca,noj,0o6)wito,(bmr,boa)bora)wita;
+END;

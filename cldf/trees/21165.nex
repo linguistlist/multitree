@@ -1,0 +1,20 @@
+#NEXUS
+[MultiTree: Sorbische Dialekten, subtree of Indo-European: Faßke, Jentsch, Michalk & Mětšk 1965]
+BEGIN TREES;
+TRANSLATE dsb Niedersorbisch,
+dsb_hsb Sorbisch,
+hsb Obersorbisch,
+hsb_bau 'Bautzener Dialekt',
+hsb_hei Heidedialekt,
+hsb_hoy 'Hoyerswerdaer Dialekt',
+hsb_kat 'Katholischer Dialekt',
+hsb_mit 'Mittlerer Grenzdialekt',
+hsb_mus 'Muskauer Dialekt',
+hsb_neh 'nordöstlicher Heidedialekt',
+hsb_neu 'Neustädter Dialekt',
+hsb_nhe 'nördlicher Heidedialekt',
+hsb_noc 'Nochtener Dialekt',
+hsb_sch 'Schleifer Dialekt',
+hsb_wit 'Wittichenauer Dialekt';
+TREE 21165 = [&R] ((hsb_mus,hsb_noc,hsb_sch,hsb_mit,hsb_hoy,hsb_neu)hsb,(hsb_nhe,hsb_neh)hsb_hei,(hsb_bau,hsb_wit,hsb_kat)hsb,dsb)dsb_hsb;
+END;

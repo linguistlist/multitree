@@ -1,0 +1,38 @@
+#NEXUS
+[MultiTree: Micronesian, a subtree of Austronesian: Jackson 1983]
+BEGIN TREES;
+TRANSLATE cal 'Saipan Carolinian',
+chk 'Lagoon Trukese',
+cmic 'Proto-Central Micronesian',
+ctru 'Proto-Central Trukic',
+etru 'Proto-Eastern Trukic',
+gil Kiribati,
+gil_nor 'Northern Gilberts',
+gil_sou 'Southern Gilberts',
+kos Kosraean,
+mah Marshallese,
+mah_ral Ralik,
+mah_rat Ratak,
+micr 'Proto-Micronesian',
+mkj Mokilese,
+mpy Mapian,
+mrl_mrl_low 'Lower Mortlockese',
+mtru 'Proto-Mortlock-Trukese',
+ntru 'Proto-Nuclear Trukic',
+pif Pingelapese,
+pon Ponapean,
+pon_sap Ngatikese,
+pona 'Proto-Ponapeic',
+pont 'Proto-Trukic-Ponapeic',
+puw Puluwatese,
+sov_pul 'Pulo Anna',
+stca 'Satawal-Carolinian',
+stru 'Proto-Sonsorol-Trukic',
+stw Satawal,
+truk 'Proto-Trukic',
+uli Ulithian,
+wmic 'Proto-Western Micronesian',
+woe Woleaian,
+wtru 'Proto-Western Trukic';
+TREE 24837 = [&R] (((((((((stw,cal)stca,(mkj,pif,pon,pon_sap)pona,((chk,mrl_mrl_low)mtru,puw)etru)ctru,mpy,woe)ntru,sov_pul)stru,(uli)wtru)truk)pont,(mah_rat,mah_ral)mah)wmic,(gil_nor,gil_sou)gil)cmic,kos)micr;
+END;

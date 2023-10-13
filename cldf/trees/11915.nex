@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Pacific Language Isolates: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE bhf Odiai,
+bsa Abinomn,
+bzu Burmeso,
+nce Yale,
+ocis 'Pacific Language Isolate',
+prm Kibiri,
+prm_air 'Aird Hills',
+prm_por Porome,
+yuj 'Karkar-Yuri',
+yuj_aui 'Auia-Tarauwi',
+yuj_nor 'North Central Yuri',
+yuj_usa Usari;
+TREE 11915 = [&R] (bhf,(prm_air,prm_por)prm,(yuj_nor,yuj_aui,yuj_usa)yuj,nce,bsa,bzu)ocis;
+END;

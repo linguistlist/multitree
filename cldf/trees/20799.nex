@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Guaycurú: Krickeberg & Jimenez Moreno 1937]
+BEGIN TREES;
+TRANSLATE axb Abipón,
+guay Guaycurú,
+kbc Cadihuéo,
+moc Mocoví,
+plg Pilagá,
+qho Payagua,
+tob Toba;
+TREE 20799 = [&R] (axb,plg,moc,kbc,kbc,tob,qho)guay;
+END;

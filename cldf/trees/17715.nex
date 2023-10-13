@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Central American Isolates: Composite]
+BEGIN TREES;
+TRANSLATE cais 'Central American Isolates',
+ctlc Kwitlateko,
+huav Wave,
+hue_huv_hve_hvv Wave,
+pua_tsz Tarasko,
+qpb Kwitlateko,
+tara Tarasko;
+TREE 17715 = [&R] ((hue_huv_hve_hvv)huav,(qpb)ctlc,(pua_tsz)tara)cais;
+END;

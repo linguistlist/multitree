@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Nubas: Muller 1874]
+BEGIN TREES;
+TRANSLATE daj Kondschara,
+dgl Dongolawi,
+ffm_ffm_fub_fuc_fue_fuf_fuh_fui_fuq_fuv 'Fulah-Idiome',
+fia Nubi,
+kdu Koldagi,
+mas 'Sprachen der Wakuafi und Masai',
+nsah Nubas,
+nubn 'Nuba-Sprachen',
+tag Tumale;
+TREE 12260 = [&R] ((daj,dgl,tag,kdu,fia)nubn,ffm_ffm_fub_fuc_fue_fuf_fuh_fui_fuq_fuv,mas)nsah;
+END;

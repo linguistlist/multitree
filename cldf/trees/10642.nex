@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Guahiban: Dryer 2005]
+BEGIN TREES;
+TRANSLATE cui Cuiba,
+gob Playero,
+guah Guahiban,
+guh Guahibo,
+guh_sik Sikuani,
+guo Guayabero,
+mbn Macaguán;
+TREE 10642 = [&R] (cui,guh,guo,mbn,gob,guh_sik)guah;
+END;

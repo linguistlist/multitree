@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Chimuan: Campbell 1997]
+BEGIN TREES;
+TRANSLATE chmi Chimuan,
+ecch 'Ecuador Chimuan',
+omc Yunga,
+qb0 Cañari,
+qq3 Puruhá;
+TREE 11861 = [&R] ((qq3,qb0)ecch,omc)chmi;
+END;

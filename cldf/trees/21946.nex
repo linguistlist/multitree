@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Lule-Vilelan: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE luvi 'Lule-Vilelan',
+ule Lule,
+vil Vilela;
+TREE 21946 = [&R] (ule,vil)luvi;
+END;

@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: Burushaski: Dryer 2005]
+BEGIN TREES;
+TRANSLATE bsk Burushaski,
+vtky Burushaski;
+TREE 12620 = [&R] (bsk)vtky;
+END;

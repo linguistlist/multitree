@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>South America</region>
+    <root>
+      <pri-name>Cofan</pri-name>
+      <updated-by>joe_leif</updated-by>
+      <tree-val>Cof&#225;n: Dryer 2005</tree-val>
+      <other-codes></other-codes>
+      <geography nil="true"></geography>
+      <created-at type="datetime">2009-05-19T17:27:28-04:00</created-at>
+      <alt-names></alt-names>
+      <status nil="true"></status>
+      <node-type-id type="integer">10000</node-type-id>
+      <is-default type="integer">0</is-default>
+      <end-date nil="true"></end-date>
+      <updated-at type="datetime">2009-05-19T17:27:28-04:00</updated-at>
+      <sureness type="integer">0</sureness>
+      <start-date nil="true"></start-date>
+      <pub-comments>WALS doesn't distinguish between languages and dialects, so all lects are called languages, but where Ethnologue considers something a dialect, it has been given a dialect code, and there is a comment.</pub-comments>
+      <id type="integer">418070</id>
+      <codes>cofn</codes>
+      <node-status-id nil="true"></node-status-id>
+      <creator-id type="integer">10740</creator-id>
+      <updater-id type="integer">10740</updater-id>
+      <node-type>Subgroup</node-type>
+      <children type="array">
+        <child>
+          <pri-name>Cofan</pri-name>
+          <updated-by>joe_leif</updated-by>
+          <tree-val>Cof&#225;n: Dryer 2005</tree-val>
+          <other-codes>cof</other-codes>
+          <geography>Country: Ecuador, Colombia; Lat.: 0.17; Long.: -77.17</geography>
+          <created-at type="datetime">2009-05-19T17:27:28-04:00</created-at>
+          <alt-names>Colin</alt-names>
+          <status nil="true"></status>
+          <node-type-id type="integer">10001</node-type-id>
+          <is-default type="integer">0</is-default>
+          <end-date nil="true"></end-date>
+          <updated-at type="datetime">2009-05-19T17:27:28-04:00</updated-at>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <pub-comments></pub-comments>
+          <id type="integer">418071</id>
+          <codes>con</codes>
+          <node-status-id nil="true"></node-status-id>
+          <creator-id type="integer">10740</creator-id>
+          <updater-id type="integer">10740</updater-id>
+          <node-type>Language</node-type>
+          <children type="array"/>
+          <deleted-at nil="true"></deleted-at>
+          <created-by>joe_leif</created-by>
+          <confidence>y</confidence>
+          <tree-id type="integer">12440</tree-id>
+          <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 636. New York: Oxford University Press. ISBN 0199255911</publications>
+        </child>
+      </children>
+      <deleted-at nil="true"></deleted-at>
+      <created-by>joe_leif</created-by>
+      <confidence>y</confidence>
+      <tree-id type="integer">12440</tree-id>
+      <publications>Dryer, Matthew S. 2005. Genealogical Language List. In Bernard  Comrie, Matthew S. Dryer, David  Gil &amp; Martin  Haspelmath (eds.), The World Atlas of Language Structures, 636. New York: Oxford University Press. ISBN 0199255911</publications>
+    </root>
+    <description>Cof&#225;n: Dryer 2005</description>
+  </tree>
+</hash>

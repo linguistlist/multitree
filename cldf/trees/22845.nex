@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Solomon, subtree of Austronesian: Todd 1975]
+BEGIN TREES;
+TRANSLATE bib Bilua,
+lvk Lavukaleve,
+svs Savosavo,
+tqu Baniata,
+yele Yele,
+yeso Solomon;
+TREE 22845 = [&R] (lvk,tqu,yele,bib,svs)yeso;
+END;

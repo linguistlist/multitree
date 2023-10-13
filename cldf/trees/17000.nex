@@ -1,0 +1,19 @@
+#NEXUS
+[MultiTree: Pomoan: Golla, Goddard, Campbell, Mithun, Mixco 2007]
+BEGIN TREES;
+TRANSLATE easn 'Eastern Pomo',
+gpzt_srur 'Southern Group',
+kju Kashaya,
+nerr 'Northeastern Pomo',
+nrur 'Northern Group',
+peb 'Eastern Pomo',
+pef 'Northeastern Pomo',
+pej 'Northern Pomo',
+peq 'Southern Pomo',
+pom 'Southeastern Pomo',
+pomo Pomoan,
+poo 'Central Pomo',
+rusr_wwwi 'Western Pomoan',
+sepo 'Southeastern Pomo';
+TREE 17000 = [&R] (((kju,poo,peq)gpzt_srur,(pej)nrur)rusr_wwwi,(pef)nerr,(peb)easn,(pom)sepo)pomo;
+END;

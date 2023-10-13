@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Subtiaba-Tlapanec: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE subt 'Subtiaba-Tlapanec',
+sut Subtiaba,
+tcf 'Tlapanec, Malinaltepec',
+tcf_hui 'Huizapula-Zapotitlán Tablas',
+tcf_mal Malinaltepec,
+tcf_zil Zilacayotitlán,
+tpc 'Tlapanec, Azoyú',
+tpl 'Tlapanec, Tlacoapa',
+tpx 'Tlapanec, Acatepec',
+tpx_aca Acatepec,
+tpx_pla Platanillo,
+tpx_zap 'Zapotitlán Tablas';
+TREE 11911 = [&R] ((tcf_mal,tcf_hui,tcf_zil)tcf,(tpx_pla,tpx_zap,tpx_aca)tpx,tpl,tpc,sut)subt;
+END;

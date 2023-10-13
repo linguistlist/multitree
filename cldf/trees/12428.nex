@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Sáliban: Dryer 2005]
+BEGIN TREES;
+TRANSLATE pid Piaroa,
+pisa Sáliban,
+slc 'Sáliba (in Colombia)';
+TREE 12428 = [&R] (pid,slc)pisa;
+END;

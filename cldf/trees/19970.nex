@@ -1,0 +1,38 @@
+#NEXUS
+[MultiTree: Algonquian: Teeter 1973]
+BEGIN TREES;
+TRANSLATE aaq 'Abnaki (Eastern)',
+abe 'Abnaki (Western)',
+abnk Abnaki,
+algo Algonquian,
+alq_nor_ojb_ojg_ojs_ojw_otw_q19_q54 'Ojibwa-Algonquin-Ottawa',
+arp 'Arapaho-Atsina-Nawathinehena',
+atj_crg_crj_crk_crl_crm_csw_cwd Cree,
+bla Blackfoot,
+bue Beothuk,
+chy Cheyenne,
+crj_crl_moe_nsk 'Montagnais-Naskapi',
+crr 'Carolina Algonquian',
+ealg 'Common Eastern Algonquian',
+kic Kickapoo,
+mez Menomini,
+mia 'Illinois-Peoria-Miami',
+mic Micmac,
+mjy Mahican,
+nnt_psy 'Nanticoke-Conoy',
+pim Powhatan,
+pot Potawatomi,
+pqm 'Malecite-Passamaquoddy',
+qyp 'Connecticut-Unquachog-Shinnecock',
+sac 'Fox-Sauk',
+sac_fox Fox,
+sac_sac Sauk,
+sjw Shawnee,
+umu_unm Delaware,
+wam Massachusett,
+xlb_xlo Loup,
+xnt Narragansett,
+xpq 'Mohegan-Pequot-Montauk',
+xpq_mon Shinnecock;
+TREE 19970 = [&R] (sjw,(xlb_xlo,pqm,(abe,aaq)abnk,xpq,wam,crr,xpq_mon,crj_crl_moe_nsk,mjy,mic,xnt,qyp,qyp,pim,nnt_psy,umu_unm)ealg,atj_crg_crj_crk_crl_crm_csw_cwd,bla,mez,bue,(sac_fox,sac_sac)sac,alq_nor_ojb_ojg_ojs_ojw_otw_q19_q54,kic,mia,chy,arp,pot)algo;
+END;

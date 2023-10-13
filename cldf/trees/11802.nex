@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Na-Dene: Greenberg 1987]
+BEGIN TREES;
+TRANSLATE apj_apl_apm_apw Apache,
+atet 'Continental Na-Dene',
+atha Athabaskan,
+athe 'Athabaskan-Eyak',
+chp Chipewyan,
+eyak Eyak,
+haid Haida,
+nadn 'Na-Dene',
+nav Navajo,
+tfn Tanaina,
+tlin Tlingit;
+TREE 11802 = [&R] ((((chp,nav,tfn,apj_apl_apm_apw)atha,eyak)athe,tlin)atet,haid)nadn;
+END;

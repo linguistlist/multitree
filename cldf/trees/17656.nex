@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Mixe-Zoque: Composite]
+BEGIN TREES;
+TRANSLATE 0no_0np_poi_poq_zoc_zoh_zoq_zor_zos Soke,
+mco_mco_cam_mir_mzl 'Lowland Mije',
+mco_mir_mto_mxp_mxq_mzl_neq_pxm_qcs Mije,
+mixe Mijean,
+mizo 'Mije-Sokean',
+mto 'Northern Highland Mije',
+mxp_neq_mix 'Southern Highland Mije',
+mxq_neq_pux 'Midland Mije',
+plo Oluteko,
+poi Soteapaneko,
+poq Teksistepekenyo,
+pos Sayulteko,
+qcs 'Tapachula Mijean',
+zoc_zor_zos 'Chiapas Soke',
+zoh 'Oaxaca Soke',
+zoqu Sokean;
+TREE 17656 = [&R] (((mxp_neq_mix,mxq_neq_pux,mco_mco_cam_mir_mzl,mto)mco_mir_mto_mxp_mxq_mzl_neq_pxm_qcs,qcs,plo,pos)mixe,((zoh,zoc_zor_zos)0no_0np_poi_poq_zoc_zoh_zoq_zor_zos,poi,poq)zoqu)mizo;
+END;

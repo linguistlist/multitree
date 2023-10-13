@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Mixe-Zoque: Dryer 2005]
+BEGIN TREES;
+TRANSLATE mco 'Mixe (Coatlán)',
+mizo 'Mixe-Zoque',
+mto 'Mixe (Totontepec)',
+mxp 'Mixe (Tlahuitoltepec)',
+plo Olutec,
+poi 'Zoque (Soteapan)',
+pos Sayultec,
+zoc 'Zoque (Copainalá)',
+zoc_ost 'Zoque (Ostuacan)',
+zoh 'Zoque (Chimalapa)',
+zor 'Zoque (Rayon)',
+zos 'Zoque (Francisco León)';
+TREE 10648 = [&R] (mco,mxp,mto,plo,pos,zoh,zoc,zos,zoc_ost,zor,poi)mizo;
+END;

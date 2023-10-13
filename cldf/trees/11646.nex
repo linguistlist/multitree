@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Middle American Unclassified Languages: Campbell 1997]
+BEGIN TREES;
+TRANSLATE 0im Alagüilac,
+caun 'Central American Unclassified Languages',
+q06 Maratino,
+ql8 Naolan;
+TREE 11646 = [&R] (0im,ql8,q06)caun;
+END;

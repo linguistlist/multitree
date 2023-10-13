@@ -1,0 +1,27 @@
+#NEXUS
+[MultiTree: Click: Greenberg 1955]
+BEGIN TREES;
+TRANSLATE aue Auen,
+clik Click,
+cskh Central,
+hgm_hai Heikum,
+hio Hiechware,
+hts Hatsa,
+khoi Khoisan,
+knw !Kung,
+kqz 'Korana Hottentot',
+naq 'Nama Hottentot',
+ngh_ngk '//ŋ !Ke',
+nhr '/Ai San',
+nhr_tse Tserekwe,
+nmn_aun '/Auni',
+nmn_kak Masarwa,
+nmn_nge_nmn_ngu '/Nu //En',
+nsak Northern,
+oun '!O !Kung',
+sad Sandawe,
+ssak Southern,
+xam '/Kam',
+xeg Batwa;
+TREE 12180 = [&R] (sad,((nmn_kak,ngh_ngk,xam,xeg,nmn_aun,nmn_nge_nmn_ngu,xam)ssak,(nhr,hio,nhr,naq,nhr_tse,(kqz,naq)naq)cskh,(aue,hgm_hai,oun,knw)nsak)khoi,hts)clik;
+END;

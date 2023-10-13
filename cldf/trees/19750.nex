@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Mindi: Tryon 2007]
+BEGIN TREES;
+TRANSLATE djam Djamindjungan,
+djd Djamindjung,
+djd_nga Ngaliwuru,
+jig Djingili,
+jngl Djingili,
+mndi Mindi,
+nji Ngarndji,
+nji_bin_wmb_bin Binbinga,
+nji_wmb_gud Gudandji,
+nug Nungali,
+wamb Wambayan,
+wbrk 'Djingili-Wambayan',
+wmb Wambaya;
+TREE 19750 = [&R] (((jig)jngl,((nji_bin_wmb_bin)wmb,nji_wmb_gud,nji)wamb)wbrk,(nug,djd_nga,djd)djam)mndi;
+END;

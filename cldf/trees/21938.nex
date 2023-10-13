@@ -1,0 +1,30 @@
+#NEXUS
+[MultiTree: Jêan: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE acs Akroá,
+apn Apinayé,
+cege 'Central Jê',
+geka Jêan,
+gvp_ram_xra_xre_xri Timbira,
+kain 'Southern Jê',
+kgp_ckg 'Central Kaingang',
+kgp_pkg 'Paraná Kaingang',
+kgp_sek 'Southeast Kaingang',
+kgp_swk 'Southwest Kaingang',
+kgp_zkp Kaingang,
+kre 'Kreen-Akorore',
+nwge 'Northeastern Jê',
+qr7 Wayaná,
+suy Suyá,
+suy_bdp 'Beiço de Pau',
+suy_tar Yaruma,
+txu Kayapó,
+txu_kkd 'Kayapó-Kradaú',
+txu_krr Kararaó,
+txu_xkn Xikrin,
+xav Xavante,
+xer Xerente,
+xkr Xakriabá,
+xok Xokleng;
+TREE 21938 = [&R] (((kgp_sek,kgp_pkg,kgp_swk,kgp_ckg)kgp_zkp,qr7,xok)kain,(xav,xer,acs,xkr)cege,((txu_xkn,txu_kkd,txu_krr)txu,(suy_tar,suy_bdp)suy,gvp_ram_xra_xre_xri,kre,apn)nwge)geka;
+END;

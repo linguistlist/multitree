@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Palaihnihan: Golla, Goddard, Campbell, Mithun, Mixco 2007]
+BEGIN TREES;
+TRANSLATE acv Achumawi,
+atw Atsugewi,
+palh Palaihnihan;
+TREE 16998 = [&R] (atw,acv)palh;
+END;

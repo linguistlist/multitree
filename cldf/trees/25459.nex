@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Miao-Yao: Downer 1991]
+BEGIN TREES;
+TRANSLATE biao_bje_bje_bia 'Byau Min dialect',
+bje_bmt_bpn_ium_mji Yao,
+bpn_zaom 'Dzau Men dialect',
+chua 'SW Miao dialect',
+cqd_hea_hma_hmc_hmd_hme_hmf_hmg_hmh_hmi_hmj_hml_hmm_hmp_hmq_hms_hmv_hmw_hmy_hmz_hnj_hrm_huj_mmr_muq_mww_sfm Miao,
+hea 'Yang Hao sub-dialect',
+hmom 'Miao-Yao',
+ium 'Iu Mien sub-dialect',
+mian 'Mien dialect',
+mmr 'Hua Yuan sub-dialect',
+mww 'White Hmong sub-dialect',
+qian 'E Miao dialect',
+xian 'Hunan Miao dialect';
+TREE 25459 = [&R] (((ium)mian,bpn_zaom,biao_bje_bje_bia)bje_bmt_bpn_ium_mji,((hea)qian,(mmr)xian,(mww)chua)cqd_hea_hma_hmc_hmd_hme_hmf_hmg_hmh_hmi_hmj_hml_hmm_hmp_hmq_hms_hmv_hmw_hmy_hmz_hnj_hrm_huj_mmr_muq_mww_sfm)hmom;
+END;

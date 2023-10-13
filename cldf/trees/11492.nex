@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Comecrudan: Mithun 1999]
+BEGIN TREES;
+TRANSLATE ccrd Comecrudan,
+emm Mamulique,
+xcm Comecrudo,
+xgr Garza;
+TREE 11492 = [&R] (emm,xgr,xcm)ccrd;
+END;

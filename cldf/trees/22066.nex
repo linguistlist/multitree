@@ -1,0 +1,28 @@
+#NEXUS
+[MultiTree: Austronesian: Dunn 2007]
+BEGIN TREES;
+TRANSLATE anes Austronesian,
+enge 'Eastern New Georgia',
+ghlu 'Ghanongga-Lungga',
+ghn Ghanongga,
+hkrv 'Hoava-Kusaghe-Roviana',
+hoa Hoava,
+hoku 'Hoava-Kusaghe',
+ksg Kusaghe,
+kzk Kazukuru,
+lga Lungga,
+mpr Vangunu,
+mpr_bar Bareke,
+mpr_van Vangunu,
+mvo Marovo,
+ngeg 'New Georgia',
+nke Duke,
+rug Roviana,
+sbb Simbo,
+smgl 'Simbo-Ghanongga-Lungga',
+uge Ughele,
+weis 'West Islands',
+weng 'Western New Georgia',
+wnen 'Western New Georgia-Eastern New Georgia';
+TREE 22066 = [&R] (((((ghn,lga)ghlu,sbb)smgl,nke)weis,((((hoa,ksg)hoku,rug)hkrv,uge)weng,((mpr_van,mpr_bar)mpr,mvo)enge)wnen)ngeg,kzk)anes;
+END;

@@ -1,0 +1,32 @@
+#NEXUS
+[MultiTree: Kartvelian: Ethnologue 2013]
+BEGIN TREES;
+TRANSLATE geor Georgian,
+jge 'Judeo-Georgian',
+kart Kartvelian,
+kat Georgian,
+kat_adz Adzhar,
+kat_fer_kat_fey Ferejdan,
+kat_gur Gurian,
+kat_ime_kat_imx 'Imerxev Kartlian',
+kat_imt Imeretian,
+kat_ing Ingilo,
+kat_kax Kaxetian,
+kat_mes 'Meskhur-Javakhuri',
+kat_mox Moxev,
+kat_mti Mtiul,
+kat_psh Pshav,
+kat_rac 'Racha-Lexchxum',
+kat_tus Tush,
+kat_xev Xevsur,
+lzz Laz,
+sva Svan,
+sva_las Lashx,
+sva_len Lentex,
+sva_low 'Lower Bal',
+sva_upp 'Upper Bal',
+svan Svan,
+xmf Mingrelian,
+zann Zan;
+TREE 24822 = [&R] (((kat_mes,kat_mti,kat_gur,kat_psh,kat_imt,kat_kax,kat_mox,kat_ing,kat_adz,kat_xev,kat_ime_kat_imx,kat_rac,kat_fer_kat_fey,kat_tus)kat,jge)geor,(lzz,xmf)zann,((sva_len,sva_upp,sva_las,sva_low)sva)svan)kart;
+END;

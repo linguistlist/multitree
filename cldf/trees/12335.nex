@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Oregon-Coast: Dryer 2005]
+BEGIN TREES;
+TRANSLATE aes Alsea,
+alse Alsea,
+coos Coosan,
+copn 'Oregon Coast',
+csz 'Coos (Hanis)',
+sis Siuslaw,
+sius Siuslawan;
+TREE 12335 = [&R] ((aes)alse,(csz)coos,(sis)sius)copn;
+END;

@@ -1,0 +1,20 @@
+#NEXUS
+[MultiTree: Misumalpan: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE ccr Cacaopera,
+miq Mískito,
+miq_bay Baymuna,
+miq_cab Cabo,
+miq_hon 'Honduran Mískito',
+miq_taw Tawira,
+miq_wan Wanki,
+misu Misumalpan,
+mtn Matagalpa,
+sum 'Sumo-Mayangna',
+ulw Ulwa,
+yan_baw Bawihka,
+yan_kuk Kukra,
+yan_nic 'Nicaraguan Tawahka',
+yan_pan Panamahka;
+TREE 10217 = [&R] (ccr,mtn,(miq_bay,miq_cab,miq_hon,miq_taw,miq_wan)miq,(yan_baw,yan_kuk,yan_nic,yan_pan,ulw)sum)misu;
+END;

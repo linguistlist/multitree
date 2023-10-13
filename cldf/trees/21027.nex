@@ -1,0 +1,35 @@
+#NEXUS
+[MultiTree: Arigidi (Yoruba) Dialect Cluster: Oshodi 2012]
+BEGIN TREES;
+TRANSLATE akps Akpes,
+aqg 'North Central Yoruba',
+aqg_afa Àfá,
+aqg_aje Àjè,
+aqg_ari Arigidi,
+aqg_eru Erúṣú,
+aqg_ese Eṣé,
+aqg_iga Ìgáṣí,
+aqg_oge Ògè,
+aqg_ojo Ọ̀jọ̀,
+aqg_oyi Oyín,
+aqg_udo Ìdò,
+aqg_uro Urò,
+ayeh 'Áyèré-Àhàn',
+bcon 'Benue-Congo',
+ebnc 'East Benue-Congo',
+edid Ẹ̀doid,
+igbd Igboid,
+igl Igala,
+its Ìṣèkírì,
+noii NOI,
+wbco 'West Benue-Congo',
+yeai YEAI,
+yor Yoruba,
+yor_cen 'Central Yoruba',
+yor_ney 'North Eastern Yoruba',
+yor_nwy 'North Western Yoruba',
+yor_sey 'South Eastern Yoruba',
+yor_swy 'South Western Yoruba',
+yrbd Yoruboid;
+TREE 21027 = [&R] ((((((aqg_oyi,aqg_udo,aqg_oge,aqg_ese,aqg_iga,aqg_ari,aqg_aje,aqg_afa,aqg_uro,aqg_eru,aqg_ojo)aqg,yor_nwy,yor_swy,yor_cen,yor_ney,yor_sey)yor,igl,its)yrbd,edid,igbd)yeai,ayeh,akps,noii)wbco,ebnc)bcon;
+END;

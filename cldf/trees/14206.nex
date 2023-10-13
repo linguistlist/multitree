@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Piman: Powell 1891]
+BEGIN TREES;
+TRANSLATE cora Cora,
+mfy_yaq Cahita,
+mrc Maricopa,
+npim 'Northern Piman',
+ntp_stp_tla Tepeguana,
+ood Sobaipuri,
+ood_toh Papago,
+opt Opata,
+pia Pima,
+step 'Southern Group',
+tac_tar_tcu_thh_twr Tarahumara,
+tepi Piman;
+TREE 14206 = [&R] ((mfy_yaq,ntp_stp_tla,tac_tar_tcu_thh_twr,cora)step,(ood,ood_toh,pia,mrc,opt)npim)tepi;
+END;

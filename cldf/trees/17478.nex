@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Guaicuruan: Composite]
+BEGIN TREES;
+TRANSLATE axb Abipón,
+egyk Eastern,
+guay Guaicuruan,
+kbc Kadiwéu,
+moc Mocoví,
+plg Pilagá,
+qfk Wachí,
+qho Payawá,
+sguk 'Southern Guaicuruan',
+tob Toba;
+TREE 17478 = [&R] ((qho,qfk)egyk,(axb,plg,moc,tob)sguk,kbc)guay;
+END;

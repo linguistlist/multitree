@@ -1,0 +1,27 @@
+#NEXUS
+[MultiTree: Pidgins and Creoles: Todd 1990]
+BEGIN TREES;
+TRANSLATE afr Afrikaans,
+ajgg 'Indo-Pacific Portuguese pidgin',
+cpi 'China coast pidgin',
+crs Seychellois,
+hat Haitian,
+ihzy 'Gallicised Portuguese pidgin',
+jam Jamaican,
+kri Krio,
+ktyx 'Portuguese pidgin',
+lou Louisiana,
+mfe Mauritian,
+negh 'Anglicised Portuguese pidgin',
+ofei 'Hispanised Portuguese pidgin',
+pap Papiamentu,
+pml_pmlf Sabir,
+pov 'Guine Crioulo',
+qcgp 'Atlantic Portuguese pidgin',
+qtwb 'Anglicised Portuguese pidgin',
+sgfn 'Proto-Portuguese pidgin',
+stsl 'Nederlandicised Portuguese pidgin',
+tpi 'Tok Pisin',
+vktd 'Gallicised Portuguese pidgin';
+TREE 12059 = [&R] ((((jam,kri)negh,(pov)ktyx,(hat,lou)ihzy,(pap)ofei)qcgp,((mfe,crs)vktd,(tpi,cpi)qtwb,(afr)stsl)ajgg)sgfn)pml_pmlf;
+END;

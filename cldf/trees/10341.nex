@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Chon: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE chon Chon,
+ona Ona,
+teh Tehuelche;
+TREE 10341 = [&R] (ona,teh)chon;
+END;

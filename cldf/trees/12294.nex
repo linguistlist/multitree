@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Ural-Altaic: Boller 1857]
+BEGIN TREES;
+TRANSLATE jpn Japanisch,
+uaja 'Ural-Altaisch-Japanisch',
+ualt 'ural-altaische Sprachen';
+TREE 12294 = [&R] (ualt,jpn)uaja;
+END;

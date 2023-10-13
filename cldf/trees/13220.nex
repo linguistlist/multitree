@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Keres: Composite]
+BEGIN TREES;
+TRANSLATE kee 'Keres, Eastern',
+kee_coc Cochiti,
+kee_saa 'Santa Ana',
+kee_sad 'Santo Domingo',
+kee_san 'San Felipe',
+kee_zia Zia,
+kere Keres,
+kjq 'Keres, Western',
+kjq_aco Acoma;
+TREE 13220 = [&R] ((kee_sad,kee_coc,kee_zia,kee_saa,kee_san)kee,(kjq_aco)kjq)kere;
+END;

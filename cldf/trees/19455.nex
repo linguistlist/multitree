@@ -1,0 +1,29 @@
+#NEXUS
+[MultiTree: Worrorran: McGregor 1988]
+BEGIN TREES;
+TRANSLATE 080 Winjarumi,
+081 Yiiji,
+0ik Munumburru,
+1ej Gulunggulu,
+ajn Andajin,
+ewor Ungarinyinic,
+gma_wub_gam Gamberre,
+gww Kwini,
+jbw Yawijibaya,
+nwor Wunambalic,
+ung Ngarinyin,
+ung_guw Guwij,
+ung_nga Ngarnawu,
+ung_wil_wil Wilawila,
+ung_wol Wolyamidi,
+ung_wur Walajangarri,
+vmi_wub_miw Miwa,
+worn Worrorran,
+wro Worrorra,
+wub_wub_wun Wunambal,
+wwor Worrorric,
+xgu Unggumi,
+xud Umiida,
+xun Unggarrangu;
+TREE 19455 = [&R] ((081,wub_wub_wun,ung_wil_wil,gma_wub_gam,vmi_wub_miw,gww)nwor,(0ik,ung_wur,ung,ung_nga,ung_guw,ung_wur,ung_wol)ewor,(wro,xud,xgu,jbw,080)wwor,xun,ajn,1ej)worn;
+END;

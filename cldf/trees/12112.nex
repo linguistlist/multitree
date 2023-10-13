@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: Western Fly: Dryer 2005]
+BEGIN TREES;
+TRANSLATE ulk 'Meryam Mir',
+wfly 'Western Fly';
+TREE 12112 = [&R] (ulk)wfly;
+END;

@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Khoisan: Wald 1994]
+BEGIN TREES;
+TRANSLATE cskh Khoe,
+hts Hadza,
+huua '+Hõã',
+khoi Khoisan,
+kwad Kwadi,
+naq 'Nama-Damara',
+nsak Zhu,
+sad Sandawe,
+sakh 'Southern African',
+ssak '!wi-Taa';
+TREE 22026 = [&R] (sad,(ssak,nsak,cskh,huua)sakh,hts,kwad,naq)khoi;
+END;

@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Pomoan: Campbell 1997]
+BEGIN TREES;
+TRANSLATE kju Kashaya,
+peb 'Eastern Pomo',
+pef 'Northeastern Pomo',
+pej 'Northern Pomo',
+peq 'Southern Pomo',
+pom 'Southeastern Pomo',
+pomo Pomoan,
+poo 'Central Pomo',
+rusr 'Western Branch',
+srur 'Southern Group';
+TREE 11293 = [&R] (((kju,poo,peq)srur,pej)rusr,peb,pom,pef)pomo;
+END;

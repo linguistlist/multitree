@@ -1,0 +1,22 @@
+#NEXUS
+[MultiTree: Eskimo-Aleut: Ruhlen 1991]
+BEGIN TREES;
+TRANSLATE alas Alaskan,
+ale Aleut,
+aleu Aleut,
+cnau 'Chaplino-Naukan',
+ems Alutiiq,
+esi_esk 'Alaskan Inuit',
+eska 'Eskimo-Aleut',
+eski Eskimo,
+ess_ess_cha Chaplino,
+esu 'Central Yupik',
+ike_ikt 'Canadian Inuit',
+inui Inuit,
+kal Greenlandic,
+sibr Siberian,
+ynk Naukan,
+ysr Sirenik,
+yupi Yupik;
+TREE 26483 = [&R] ((ale)aleu,((kal,ike_ikt,esi_esk)inui,((ysr,(ess_ess_cha,ynk)cnau)sibr,(ems,esu)alas)yupi)eski)eska;
+END;

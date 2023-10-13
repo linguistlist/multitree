@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Araucanian: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE arcn Araucanian,
+arn Mapudungun,
+arn_mol Moluche,
+arn_peh Pehuenche,
+arn_pic Picunche,
+huh Huilliche,
+huh_tse Tsesungún;
+TREE 12500 = [&R] ((arn_peh,arn_pic,arn_mol)arn,(huh_tse)huh)arcn;
+END;

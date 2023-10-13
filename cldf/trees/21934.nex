@@ -1,0 +1,20 @@
+#NEXUS
+[MultiTree: Harákmbut-Katukinan: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE amr Amaracaeri,
+amr_hug Harákmbut,
+dy1 Dyapá,
+hrkt 'Harákmbut-Katukinan',
+hug Huachipaeri,
+hug_ara Arasaeri,
+hug_hug_toy Huachipaeri,
+hug_sap Sapiteri,
+hug_toy Toyoeri,
+katk Katukinan,
+kav Katukina,
+knm 'Southern Katukinan',
+knm_tsh 'Tshom-Djapá',
+knm_tuc Tucundiapa,
+xat Katawixi;
+TREE 21934 = [&R] ((((knm_tsh,dy1,knm_tuc)knm)kav,xat)katk,((hug_ara,hug_sap)amr,(hug,hug_toy)hug_hug_toy)amr_hug)hrkt;
+END;

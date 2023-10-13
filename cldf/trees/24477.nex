@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Proto-Austronesian-Ongan: Blevins 2007]
+BEGIN TREES;
+TRANSLATE anes 'Proto-Austronesian',
+anq Jarawa,
+auon 'Proto-Austronesian-Ongan',
+onga 'Proto-Ongan',
+oon Onge;
+TREE 24477 = [&R] ((oon,anq)onga,anes)auon;
+END;

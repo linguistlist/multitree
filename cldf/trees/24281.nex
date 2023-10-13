@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Proto-Koiarian: Dutton 1994]
+BEGIN TREES;
+TRANSLATE aom Aomie,
+barc 'Proto-Baraic',
+bbb Barai,
+kbk Koiari,
+koia 'Proto-Koaiarian',
+koic 'Proto-Koiaric',
+koit 'Koiari-Koita',
+kpx 'Mountain Kioari',
+kqi Koita,
+maba 'Managalasi-Barai',
+mcq Managalasi;
+TREE 24281 = [&R] (((kqi,kbk)koit,kpx)koic,((bbb,mcq)maba,aom)barc)koia;
+END;

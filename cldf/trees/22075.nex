@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Yuri: Loving 1964]
+BEGIN TREES;
+TRANSLATE kayu Yuri,
+yuj Yuri,
+yuj_aui 'Auia-Tarauwi',
+yuj_nor 'North Central',
+yuj_usa Usari;
+TREE 22075 = [&R] ((yuj_nor,yuj_aui,yuj_usa)yuj)kayu;
+END;

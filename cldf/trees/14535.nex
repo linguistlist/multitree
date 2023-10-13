@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Subtiaba-Tlapanex: Composite]
+BEGIN TREES;
+TRANSLATE subt 'Subtiaba-Tlapanec',
+tcf 'Me''phaa, Malinaltepec',
+tcf_hui 'Huizapula-Zapotitlán Tablas',
+tcf_mal Malinaltepec,
+tcf_zil Zilacayotitlán,
+tpc 'Me''phaa, Azoyú',
+tpl 'Me''phaa, Tlacoapa',
+tpx 'Me''phaa, Acatepec',
+tpx_aca Acatepec,
+tpx_pla Platanillo,
+tpx_zap 'Zapotitlán Tablas';
+TREE 14535 = [&R] ((tcf_mal,tcf_hui,tcf_zil)tcf,(tpx_pla,tpx_zap,tpx_aca)tpx,tpl,tpc)subt;
+END;

@@ -1,0 +1,35 @@
+#NEXUS
+[MultiTree: Macro-Waikurúan Cluster: Campbell 1997]
+BEGIN TREES;
+TRANSLATE aqt Angaité,
+aqt_spn Sanapaná,
+axb Abipon,
+cag Ajlujlay,
+chrn Charruan,
+crq_crt Chorote,
+crt Chulupí,
+egyk 'Eastern Guaykurú',
+emo_tmf Mascoy,
+enl_enx Lengua,
+guay Waikuruan,
+gva Guaná,
+gykr Guaykurú,
+kbc Caduveo,
+masc Maskoian,
+matc Matakoan,
+mca Macá,
+moc Mocovi,
+mtp Mataco,
+mwkc 'Macro-Waikurúan Cluster',
+plg Pilaga,
+qfk Guachi,
+qh7 Charrúa,
+qho Payagua,
+qs1 Chará,
+sap_ene Enenlhit,
+sap_lan Lanapsua,
+sguk 'Southern Guaykurú',
+spn Sanapaná,
+tob Toba;
+TREE 19118 = [&R] (((spn,sap_ene,sap_lan)aqt_spn,emo_tmf,(aqt)enl_enx,gva)masc,(mca,(crt)crq_crt,cag,mtp)matc,((plg,axb,moc,tob)sguk,(kbc)gykr,(qho,qfk)egyk)guay,(qh7,qs1)chrn)mwkc;
+END;

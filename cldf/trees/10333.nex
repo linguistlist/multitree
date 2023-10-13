@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Wakashan: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE has Haisla,
+has_kit Kitimat,
+hei Heiltsuk,
+hei_bel 'Bella Bella',
+hei_oow Ooweekeeno,
+kwk Kwakiutl,
+myh Makah,
+noo Nootka,
+noo_nit Nitinat,
+nwak 'Northern Wakashan',
+swak 'Southern Wakashan',
+waka Wakashan;
+TREE 10333 = [&R] (((has_kit)has,(hei_bel,hei_oow)hei,kwk)nwak,(myh,(noo_nit)noo)swak)waka;
+END;

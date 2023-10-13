@@ -1,0 +1,19 @@
+#NEXUS
+[MultiTree: Basque: Ethnologue 2005]
+BEGIN TREES;
+TRANSLATE basq Basque,
+bqe 'Basque, Navarro-Labourdin',
+bsz 'Basque, Souletin',
+eus Basque,
+eus_alm 'Alto Navarro Septentrional',
+eus_alt 'Alto Navarro Meridional',
+eus_ava Avalan,
+eus_bis Biscayan,
+eus_eas 'Eastern Low Navarrese',
+eus_gui Guipuzcoan,
+eus_lab Labourdin,
+eus_ron Roncalese,
+eus_wes 'Western Low Navarrese',
+xaq Aquitanian;
+TREE 10244 = [&R] (xaq,(eus_alt,eus_alm,eus_ava,eus_bis,eus_gui,eus_ron)eus,(eus_eas,eus_lab,eus_wes)bqe,bsz)basq;
+END;

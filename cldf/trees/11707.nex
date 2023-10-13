@@ -1,0 +1,28 @@
+#NEXUS
+[MultiTree: Maiduan: Mithun 1999]
+BEGIN TREES;
+TRANSLATE maid Maiduan,
+mjd Konkow,
+mjd_cha Challenge,
+mjd_esk Eskewi,
+mjd_fea 'Feather Falls',
+mjd_met Metsupda,
+mjd_nem Nemsu,
+mjd_ota Otaki,
+mjd_pul Pulga,
+nmu Maidu,
+nsz Nisenan,
+nsz_aub Auburn,
+nsz_cen 'Central Hill',
+nsz_col Colfax,
+nsz_for 'Forest Home',
+nsz_nev 'Nevada City',
+nsz_nor 'Northern Hill',
+nsz_pla Placerville,
+nsz_pus Pusune,
+nsz_sou 'Southern Hill',
+nsz_val Valley,
+nsz_yuk Yukulme,
+qf6 Chico;
+TREE 11707 = [&R] (((nsz_aub,nsz_nev,nsz_col)nsz_cen,(nsz_pus,nsz_yuk)nsz_val,(nsz_pla,nsz_for)nsz_sou,nsz_nor)nsz,nmu,qf6,(mjd_cha,mjd_met,mjd_ota,mjd_pul,mjd_esk,mjd_nem,mjd_fea)mjd)maid;
+END;

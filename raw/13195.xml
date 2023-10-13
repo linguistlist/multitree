@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>    <region>Europe</region>    <region>Asia</region>
+    <root>
+      <updated-at type="datetime">2009-06-16T20:29:16-04:00</updated-at>
+      <node-type-id type="integer">10000</node-type-id>
+      <end-date nil="true"></end-date>
+      <geography>Asia</geography>
+      <deleted-at nil="true"></deleted-at>
+      <created-at type="datetime">2009-06-16T20:29:16-04:00</created-at>
+      <status nil="true"></status>
+      <is-default type="integer">0</is-default>
+      <alt-names></alt-names>
+      <node-type>Subgroup</node-type>
+      <confidence>Y</confidence>
+      <pri-name>Uralic-Yukaghir</pri-name>
+      <children type="array">
+        <child>
+          <updated-at type="datetime">2009-06-16T20:29:16-04:00</updated-at>
+          <node-type-id type="integer">10000</node-type-id>
+          <end-date nil="true"></end-date>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2009-06-16T20:29:16-04:00</created-at>
+          <status nil="true"></status>
+          <is-default type="integer">0</is-default>
+          <alt-names></alt-names>
+          <node-type>Subgroup</node-type>
+          <confidence>Y</confidence>
+          <pri-name>Finno-Ugric</pri-name>
+          <children type="array">
+            <child>
+              <updated-at type="datetime">2009-06-16T20:29:18-04:00</updated-at>
+              <node-type-id type="integer">10000</node-type-id>
+              <end-date nil="true"></end-date>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2009-06-16T20:29:18-04:00</created-at>
+              <status nil="true"></status>
+              <is-default type="integer">0</is-default>
+              <alt-names></alt-names>
+              <node-type>Subgroup</node-type>
+              <confidence>Y</confidence>
+              <pri-name>Ugric</pri-name>
+              <children type="array">
+                <child>
+                  <updated-at type="datetime">2009-06-16T20:29:18-04:00</updated-at>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <end-date nil="true"></end-date>
+                  <geography>Hungary</geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2009-06-16T20:29:18-04:00</created-at>
+                  <status nil="true"></status>
+                  <is-default type="integer">0</is-default>
+                  <alt-names></alt-names>
+                  <node-type>Language</node-type>
+                  <confidence>Y</confidence>
+                  <pri-name>Hungarian</pri-name>
+                  <children type="array"/>
+                  <tree-id type="integer">13195</tree-id>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+                  <updater-id type="integer">10740</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">439593</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <codes>hun</codes>
+                </child>
+                <child>
+                  <updated-at type="datetime">2009-06-16T20:29:18-04:00</updated-at>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <end-date nil="true"></end-date>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2009-06-16T20:29:18-04:00</created-at>
+                  <status nil="true"></status>
+                  <is-default type="integer">0</is-default>
+                  <alt-names></alt-names>
+                  <node-type>Subgroup</node-type>
+                  <confidence>Y</confidence>
+                  <pri-name>Ob-Ugric</pri-name>
+                  <children type="array">
+                    <child>
+                      <updated-at type="datetime">2009-06-16T20:29:18-04:00</updated-at>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <end-date nil="true"></end-date>
+                      <geography>Russia</geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2009-06-16T20:29:18-04:00</created-at>
+                      <status nil="true"></status>
+                      <is-default type="integer">0</is-default>
+                      <alt-names></alt-names>
+                      <node-type>Language</node-type>
+                      <confidence>Y</confidence>
+                      <pri-name>Mansi</pri-name>
+                      <children type="array"/>
+                      <tree-id type="integer">13195</tree-id>
+                      <other-codes></other-codes>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">439595</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <codes>mns</codes>
+                    </child>
+                    <child>
+                      <updated-at type="datetime">2009-06-16T20:29:18-04:00</updated-at>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <end-date nil="true"></end-date>
+                      <geography>Russia</geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2009-06-16T20:29:18-04:00</created-at>
+                      <status nil="true"></status>
+                      <is-default type="integer">0</is-default>
+                      <alt-names></alt-names>
+                      <node-type>Language</node-type>
+                      <confidence>Y</confidence>
+                      <pri-name>Khanty</pri-name>
+                      <children type="array"/>
+                      <tree-id type="integer">13195</tree-id>
+                      <other-codes></other-codes>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">439596</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <codes>kca</codes>
+                    </child>
+                  </children>
+                  <tree-id type="integer">13195</tree-id>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+                  <updater-id type="integer">10740</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">439594</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <codes>obug</codes>
+                </child>
+              </children>
+              <tree-id type="integer">13195</tree-id>
+              <other-codes></other-codes>
+              <updated-by>joe_leif</updated-by>
+              <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+              <updater-id type="integer">10740</updater-id>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">439592</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <codes>ugri</codes>
+            </child>
+            <child>
+              <updated-at type="datetime">2009-06-16T20:29:16-04:00</updated-at>
+              <node-type-id type="integer">10000</node-type-id>
+              <end-date nil="true"></end-date>
+              <geography nil="true"></geography>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2009-06-16T20:29:16-04:00</created-at>
+              <status nil="true"></status>
+              <is-default type="integer">0</is-default>
+              <alt-names></alt-names>
+              <node-type>Subgroup</node-type>
+              <confidence>Y</confidence>
+              <pri-name>Finnic</pri-name>
+              <children type="array">
+                <child>
+                  <updated-at type="datetime">2009-06-16T20:29:17-04:00</updated-at>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <end-date nil="true"></end-date>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2009-06-16T20:29:16-04:00</created-at>
+                  <status nil="true"></status>
+                  <is-default type="integer">0</is-default>
+                  <alt-names></alt-names>
+                  <node-type>Subgroup</node-type>
+                  <confidence>Y</confidence>
+                  <pri-name>Baltic-Finnic</pri-name>
+                  <children type="array">
+                    <child>
+                      <updated-at type="datetime">2009-06-16T20:29:17-04:00</updated-at>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <end-date nil="true"></end-date>
+                      <geography>Finland, Sweden</geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2009-06-16T20:29:17-04:00</created-at>
+                      <status nil="true"></status>
+                      <is-default type="integer">0</is-default>
+                      <alt-names></alt-names>
+                      <node-type>Language</node-type>
+                      <confidence>Y</confidence>
+                      <pri-name>Finnish</pri-name>
+                      <children type="array"/>
+                      <tree-id type="integer">13195</tree-id>
+                      <other-codes></other-codes>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">439579</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <codes>fin</codes>
+                    </child>
+                    <child>
+                      <updated-at type="datetime">2009-06-16T20:29:17-04:00</updated-at>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <end-date nil="true"></end-date>
+                      <geography>Russia.</geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2009-06-16T20:29:17-04:00</created-at>
+                      <status nil="true"></status>
+                      <is-default type="integer">0</is-default>
+                      <alt-names></alt-names>
+                      <node-type>Language</node-type>
+                      <confidence>Y</confidence>
+                      <pri-name>Veps</pri-name>
+                      <children type="array"/>
+                      <tree-id type="integer">13195</tree-id>
+                      <other-codes></other-codes>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">439583</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <codes>vep</codes>
+                    </child>
+                    <child>
+                      <updated-at type="datetime">2009-06-16T20:29:17-04:00</updated-at>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <end-date nil="true"></end-date>
+                      <geography>Russia, near St. Petersburg.</geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2009-06-16T20:29:17-04:00</created-at>
+                      <status nil="true"></status>
+                      <is-default type="integer">0</is-default>
+                      <alt-names></alt-names>
+                      <node-type>Language</node-type>
+                      <confidence>Y</confidence>
+                      <pri-name>Ingrian</pri-name>
+                      <children type="array"/>
+                      <tree-id type="integer">13195</tree-id>
+                      <other-codes></other-codes>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">439580</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <codes>izh</codes>
+                    </child>
+                    <child>
+                      <updated-at type="datetime">2009-06-16T20:29:17-04:00</updated-at>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <end-date nil="true"></end-date>
+                      <geography>Latvia</geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2009-06-16T20:29:17-04:00</created-at>
+                      <status nil="true"></status>
+                      <is-default type="integer">0</is-default>
+                      <alt-names></alt-names>
+                      <node-type>Language</node-type>
+                      <confidence>Y</confidence>
+                      <pri-name>Livonian</pri-name>
+                      <children type="array"/>
+                      <tree-id type="integer">13195</tree-id>
+                      <other-codes></other-codes>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">439582</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <codes>liv</codes>
+                    </child>
+                    <child>
+                      <updated-at type="datetime">2009-06-16T20:29:17-04:00</updated-at>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <end-date nil="true"></end-date>
+                      <geography>Russia.</geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2009-06-16T20:29:17-04:00</created-at>
+                      <status nil="true"></status>
+                      <is-default type="integer">0</is-default>
+                      <alt-names></alt-names>
+                      <node-type>Language</node-type>
+                      <confidence>Y</confidence>
+                      <pri-name>Votic</pri-name>
+                      <children type="array"/>
+                      <tree-id type="integer">13195</tree-id>
+                      <other-codes></other-codes>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">439584</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <codes>vot</codes>
+                    </child>
+                    <child>
+                      <updated-at type="datetime">2009-06-16T20:29:17-04:00</updated-at>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <end-date nil="true"></end-date>
+                      <geography>Russia.</geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2009-06-16T20:29:17-04:00</created-at>
+                      <status nil="true"></status>
+                      <is-default type="integer">0</is-default>
+                      <alt-names></alt-names>
+                      <node-type>Language</node-type>
+                      <confidence>Y</confidence>
+                      <pri-name>Karelian</pri-name>
+                      <children type="array"/>
+                      <tree-id type="integer">13195</tree-id>
+                      <other-codes></other-codes>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">439581</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <codes>krl</codes>
+                    </child>
+                    <child>
+                      <updated-at type="datetime">2009-06-16T20:29:17-04:00</updated-at>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <end-date nil="true"></end-date>
+                      <geography>Estonia</geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2009-06-16T20:29:17-04:00</created-at>
+                      <status nil="true"></status>
+                      <is-default type="integer">0</is-default>
+                      <alt-names></alt-names>
+                      <node-type>Language</node-type>
+                      <confidence>Y</confidence>
+                      <pri-name>Estonian</pri-name>
+                      <children type="array"/>
+                      <tree-id type="integer">13195</tree-id>
+                      <other-codes></other-codes>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">439578</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <codes>est</codes>
+                    </child>
+                  </children>
+                  <tree-id type="integer">13195</tree-id>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+                  <updater-id type="integer">10740</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">439577</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <codes>bfin</codes>
+                </child>
+                <child>
+                  <updated-at type="datetime">2009-06-16T20:29:17-04:00</updated-at>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <end-date nil="true"></end-date>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2009-06-16T20:29:17-04:00</created-at>
+                  <status nil="true"></status>
+                  <is-default type="integer">0</is-default>
+                  <alt-names></alt-names>
+                  <node-type>Subgroup</node-type>
+                  <confidence>Y</confidence>
+                  <pri-name>Sami</pri-name>
+                  <children type="array"/>
+                  <tree-id type="integer">13195</tree-id>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+                  <updater-id type="integer">10740</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">439585</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <codes>lapp</codes>
+                </child>
+                <child>
+                  <updated-at type="datetime">2009-06-16T20:29:17-04:00</updated-at>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <end-date nil="true"></end-date>
+                  <geography nil="true"></geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2009-06-16T20:29:17-04:00</created-at>
+                  <status nil="true"></status>
+                  <is-default type="integer">0</is-default>
+                  <alt-names></alt-names>
+                  <node-type>Subgroup</node-type>
+                  <confidence>Y</confidence>
+                  <pri-name>Permic</pri-name>
+                  <children type="array">
+                    <child>
+                      <updated-at type="datetime">2009-06-16T20:29:17-04:00</updated-at>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <end-date nil="true"></end-date>
+                      <geography>Russia</geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2009-06-16T20:29:17-04:00</created-at>
+                      <status nil="true"></status>
+                      <is-default type="integer">0</is-default>
+                      <alt-names></alt-names>
+                      <node-type>Language</node-type>
+                      <confidence>Y</confidence>
+                      <pri-name>Permyak</pri-name>
+                      <children type="array"/>
+                      <tree-id type="integer">13195</tree-id>
+                      <other-codes></other-codes>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">439587</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <codes>koi</codes>
+                    </child>
+                    <child>
+                      <updated-at type="datetime">2009-06-16T20:29:17-04:00</updated-at>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <end-date nil="true"></end-date>
+                      <geography>Russia</geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2009-06-16T20:29:17-04:00</created-at>
+                      <status nil="true"></status>
+                      <is-default type="integer">0</is-default>
+                      <alt-names></alt-names>
+                      <node-type>Language</node-type>
+                      <confidence>Y</confidence>
+                      <pri-name>Komi</pri-name>
+                      <children type="array"/>
+                      <tree-id type="integer">13195</tree-id>
+                      <other-codes></other-codes>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">439588</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <codes>kpv</codes>
+                    </child>
+                    <child>
+                      <updated-at type="datetime">2009-06-16T20:29:18-04:00</updated-at>
+                      <node-type-id type="integer">10001</node-type-id>
+                      <end-date nil="true"></end-date>
+                      <geography>Russia</geography>
+                      <deleted-at nil="true"></deleted-at>
+                      <created-at type="datetime">2009-06-16T20:29:17-04:00</created-at>
+                      <status nil="true"></status>
+                      <is-default type="integer">0</is-default>
+                      <alt-names></alt-names>
+                      <node-type>Language</node-type>
+                      <confidence>Y</confidence>
+                      <pri-name>Udmurt</pri-name>
+                      <children type="array"/>
+                      <tree-id type="integer">13195</tree-id>
+                      <other-codes></other-codes>
+                      <updated-by>joe_leif</updated-by>
+                      <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+                      <sureness type="integer">0</sureness>
+                      <start-date nil="true"></start-date>
+                      <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+                      <updater-id type="integer">10740</updater-id>
+                      <pub-comments></pub-comments>
+                      <node-status-id nil="true"></node-status-id>
+                      <id type="integer">439589</id>
+                      <creator-id type="integer">10740</creator-id>
+                      <created-by>joe_leif</created-by>
+                      <codes>udm</codes>
+                    </child>
+                  </children>
+                  <tree-id type="integer">13195</tree-id>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+                  <updater-id type="integer">10740</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">439586</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <codes>perm</codes>
+                </child>
+                <child>
+                  <updated-at type="datetime">2009-06-16T20:29:18-04:00</updated-at>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <end-date nil="true"></end-date>
+                  <geography>Russia</geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2009-06-16T20:29:18-04:00</created-at>
+                  <status nil="true"></status>
+                  <is-default type="integer">0</is-default>
+                  <alt-names></alt-names>
+                  <node-type>Subgroup</node-type>
+                  <confidence>Y</confidence>
+                  <pri-name>Mari</pri-name>
+                  <children type="array"/>
+                  <tree-id type="integer">13195</tree-id>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+                  <updater-id type="integer">10740</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">439590</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <codes>cher</codes>
+                </child>
+                <child>
+                  <updated-at type="datetime">2009-06-16T20:29:18-04:00</updated-at>
+                  <node-type-id type="integer">10000</node-type-id>
+                  <end-date nil="true"></end-date>
+                  <geography>Russia</geography>
+                  <deleted-at nil="true"></deleted-at>
+                  <created-at type="datetime">2009-06-16T20:29:18-04:00</created-at>
+                  <status nil="true"></status>
+                  <is-default type="integer">0</is-default>
+                  <alt-names></alt-names>
+                  <node-type>Subgroup</node-type>
+                  <confidence>Y</confidence>
+                  <pri-name>Mordvin</pri-name>
+                  <children type="array"/>
+                  <tree-id type="integer">13195</tree-id>
+                  <other-codes></other-codes>
+                  <updated-by>joe_leif</updated-by>
+                  <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+                  <sureness type="integer">0</sureness>
+                  <start-date nil="true"></start-date>
+                  <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+                  <updater-id type="integer">10740</updater-id>
+                  <pub-comments></pub-comments>
+                  <node-status-id nil="true"></node-status-id>
+                  <id type="integer">439591</id>
+                  <creator-id type="integer">10740</creator-id>
+                  <created-by>joe_leif</created-by>
+                  <codes>mord</codes>
+                </child>
+              </children>
+              <tree-id type="integer">13195</tree-id>
+              <other-codes></other-codes>
+              <updated-by>joe_leif</updated-by>
+              <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+              <updater-id type="integer">10740</updater-id>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">439576</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <codes>finn</codes>
+            </child>
+          </children>
+          <tree-id type="integer">13195</tree-id>
+          <other-codes></other-codes>
+          <updated-by>joe_leif</updated-by>
+          <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+          <updater-id type="integer">10740</updater-id>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">439575</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <codes>fugr</codes>
+        </child>
+        <child>
+          <updated-at type="datetime">2009-06-16T20:29:18-04:00</updated-at>
+          <node-type-id type="integer">10000</node-type-id>
+          <end-date nil="true"></end-date>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2009-06-16T20:29:18-04:00</created-at>
+          <status nil="true"></status>
+          <is-default type="integer">0</is-default>
+          <alt-names></alt-names>
+          <node-type>Subgroup</node-type>
+          <confidence>Y</confidence>
+          <pri-name>Samoyedic</pri-name>
+          <children type="array">
+            <child>
+              <updated-at type="datetime">2009-06-16T20:29:19-04:00</updated-at>
+              <node-type-id type="integer">10001</node-type-id>
+              <end-date nil="true"></end-date>
+              <geography>Russia</geography>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2009-06-16T20:29:19-04:00</created-at>
+              <status nil="true"></status>
+              <is-default type="integer">0</is-default>
+              <alt-names></alt-names>
+              <node-type>Language</node-type>
+              <confidence>Y</confidence>
+              <pri-name>Selkup</pri-name>
+              <children type="array"/>
+              <tree-id type="integer">13195</tree-id>
+              <other-codes></other-codes>
+              <updated-by>joe_leif</updated-by>
+              <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+              <updater-id type="integer">10740</updater-id>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">439601</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <codes>sel</codes>
+            </child>
+            <child>
+              <updated-at type="datetime">2009-06-16T20:29:19-04:00</updated-at>
+              <node-type-id type="integer">10001</node-type-id>
+              <end-date nil="true"></end-date>
+              <geography>Russia</geography>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2009-06-16T20:29:18-04:00</created-at>
+              <status nil="true"></status>
+              <is-default type="integer">0</is-default>
+              <alt-names></alt-names>
+              <node-type>Language</node-type>
+              <confidence>Y</confidence>
+              <pri-name>Nenets</pri-name>
+              <children type="array"/>
+              <tree-id type="integer">13195</tree-id>
+              <other-codes></other-codes>
+              <updated-by>joe_leif</updated-by>
+              <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+              <updater-id type="integer">10740</updater-id>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">439599</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <codes>yrk</codes>
+            </child>
+            <child>
+              <updated-at type="datetime">2009-06-16T20:29:18-04:00</updated-at>
+              <node-type-id type="integer">10001</node-type-id>
+              <end-date nil="true"></end-date>
+              <geography>Russia</geography>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2009-06-16T20:29:18-04:00</created-at>
+              <status nil="true"></status>
+              <is-default type="integer">0</is-default>
+              <alt-names></alt-names>
+              <node-type>Language</node-type>
+              <confidence>Y</confidence>
+              <pri-name>Enets</pri-name>
+              <children type="array"/>
+              <tree-id type="integer">13195</tree-id>
+              <other-codes></other-codes>
+              <updated-by>joe_leif</updated-by>
+              <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+              <updater-id type="integer">10740</updater-id>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">439598</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <codes>enf, enh</codes>
+            </child>
+            <child>
+              <updated-at type="datetime">2009-06-16T20:29:19-04:00</updated-at>
+              <node-type-id type="integer">10001</node-type-id>
+              <end-date nil="true"></end-date>
+              <geography>Russia</geography>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2009-06-16T20:29:19-04:00</created-at>
+              <status nil="true"></status>
+              <is-default type="integer">0</is-default>
+              <alt-names></alt-names>
+              <node-type>Language</node-type>
+              <confidence>Y</confidence>
+              <pri-name>Nganasan</pri-name>
+              <children type="array"/>
+              <tree-id type="integer">13195</tree-id>
+              <other-codes></other-codes>
+              <updated-by>joe_leif</updated-by>
+              <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+              <updater-id type="integer">10740</updater-id>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">439600</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <codes>nio</codes>
+            </child>
+          </children>
+          <tree-id type="integer">13195</tree-id>
+          <other-codes></other-codes>
+          <updated-by>joe_leif</updated-by>
+          <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+          <updater-id type="integer">10740</updater-id>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">439597</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <codes>smoy</codes>
+        </child>
+        <child>
+          <updated-at type="datetime">2009-06-16T20:29:19-04:00</updated-at>
+          <node-type-id type="integer">10000</node-type-id>
+          <end-date nil="true"></end-date>
+          <geography nil="true"></geography>
+          <deleted-at nil="true"></deleted-at>
+          <created-at type="datetime">2009-06-16T20:29:19-04:00</created-at>
+          <status nil="true"></status>
+          <is-default type="integer">0</is-default>
+          <alt-names></alt-names>
+          <node-type>Subgroup</node-type>
+          <confidence>Y</confidence>
+          <pri-name>Yukaghir</pri-name>
+          <children type="array">
+            <child>
+              <updated-at type="datetime">2009-06-16T20:29:19-04:00</updated-at>
+              <node-type-id type="integer">10001</node-type-id>
+              <end-date nil="true"></end-date>
+              <geography>Russia</geography>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2009-06-16T20:29:19-04:00</created-at>
+              <status nil="true"></status>
+              <is-default type="integer">0</is-default>
+              <alt-names></alt-names>
+              <node-type>Language</node-type>
+              <confidence>Y</confidence>
+              <pri-name>Kolyma</pri-name>
+              <children type="array"/>
+              <tree-id type="integer">13195</tree-id>
+              <other-codes></other-codes>
+              <updated-by>joe_leif</updated-by>
+              <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+              <updater-id type="integer">10740</updater-id>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">439604</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <codes>yux</codes>
+            </child>
+            <child>
+              <updated-at type="datetime">2009-06-16T20:29:19-04:00</updated-at>
+              <node-type-id type="integer">10001</node-type-id>
+              <end-date nil="true"></end-date>
+              <geography>Russia</geography>
+              <deleted-at nil="true"></deleted-at>
+              <created-at type="datetime">2009-06-16T20:29:19-04:00</created-at>
+              <status nil="true"></status>
+              <is-default type="integer">0</is-default>
+              <alt-names></alt-names>
+              <node-type>Language</node-type>
+              <confidence>Y</confidence>
+              <pri-name>Tundra</pri-name>
+              <children type="array"/>
+              <tree-id type="integer">13195</tree-id>
+              <other-codes></other-codes>
+              <updated-by>joe_leif</updated-by>
+              <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+              <sureness type="integer">0</sureness>
+              <start-date nil="true"></start-date>
+              <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+              <updater-id type="integer">10740</updater-id>
+              <pub-comments></pub-comments>
+              <node-status-id nil="true"></node-status-id>
+              <id type="integer">439603</id>
+              <creator-id type="integer">10740</creator-id>
+              <created-by>joe_leif</created-by>
+              <codes>ykg</codes>
+            </child>
+          </children>
+          <tree-id type="integer">13195</tree-id>
+          <other-codes></other-codes>
+          <updated-by>joe_leif</updated-by>
+          <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+          <sureness type="integer">0</sureness>
+          <start-date nil="true"></start-date>
+          <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+          <updater-id type="integer">10740</updater-id>
+          <pub-comments></pub-comments>
+          <node-status-id nil="true"></node-status-id>
+          <id type="integer">439602</id>
+          <creator-id type="integer">10740</creator-id>
+          <created-by>joe_leif</created-by>
+          <codes>yuka</codes>
+        </child>
+      </children>
+      <tree-id type="integer">13195</tree-id>
+      <other-codes></other-codes>
+      <updated-by>joe_leif</updated-by>
+      <tree-val>Uralic-Yukaghir: Anonymous 2009</tree-val>
+      <sureness type="integer">0</sureness>
+      <start-date nil="true"></start-date>
+      <publications>"Uralic Languages": Encyclop&#230;dia Britannica Online. http://www.britannica.com/EBchecked/topic/619069/Uralic-languages.  (12 May, 2009.)</publications>
+      <updater-id type="integer">10740</updater-id>
+      <pub-comments></pub-comments>
+      <node-status-id nil="true"></node-status-id>
+      <id type="integer">439574</id>
+      <creator-id type="integer">10740</creator-id>
+      <created-by>joe_leif</created-by>
+      <codes>adjw</codes>
+    </root>
+    <description>Uralic-Yukaghir: Anonymous 2009</description>
+  </tree>
+</hash>

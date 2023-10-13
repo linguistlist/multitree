@@ -1,0 +1,31 @@
+#NEXUS
+[MultiTree: North American Isolates: Campbell 1997]
+BEGIN TREES;
+TRANSLATE aes Alsea,
+aes_asl Aslea,
+aes_yaq Yaquina,
+cid Chimariko,
+kee 'Eastern Keresan',
+kee_coc Cochiti,
+kee_saa 'Santa Ana',
+kee_sad 'Santa Dominago',
+kee_san 'San Felipe',
+kee_zia Zia,
+kere Keresan,
+kjq 'Western Keresan',
+kjq_aco Acoma,
+kjq_lag Laguna,
+kut Kutenai,
+kut_low Lower,
+kut_upp Upper,
+kyh Karuk,
+nais 'North American Language Isolates',
+ncz Natchez,
+sht Shasta,
+tqw Tonkawa,
+tun Tunica,
+was Washo,
+yuc Yuchi,
+zun Zuni;
+TREE 15347 = [&R] (((kee_sad,kee_coc,kee_zia,kee_saa,kee_san)kee,(kjq_lag,kjq_aco)kjq)kere,(kut_upp,kut_low)kut,tun,tqw,kyh,(aes_yaq,aes_asl)aes,ncz,yuc,zun,cid,was,sht)nais;
+END;

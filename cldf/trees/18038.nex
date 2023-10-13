@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Coosan: Composite]
+BEGIN TREES;
+TRANSLATE coos Coosan,
+csz Hanis,
+iml Miluk;
+TREE 18038 = [&R] (iml,csz)coos;
+END;

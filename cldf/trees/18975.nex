@@ -1,0 +1,36 @@
+#NEXUS
+[MultiTree: Daly: Tryon 1974]
+BEGIN TREES;
+TRANSLATE 1ek Yunggor,
+amy Ami,
+anso Wogaity,
+brin Brinken,
+brwa 'Brinken-Wogaity',
+dalp 'Daly Proper',
+daly Daly,
+mfr Marithiel,
+mfr_mam_xru MareAmmu,
+mfr_mar Marithiel,
+mfr_mrd_zmd Maridan,
+mfr_mrs_zmj Marityabin,
+mfr_mtd 'Marithiel-Maridan',
+mfr_mya 'Marityabin-MareAmmu',
+mlgm Mulluk,
+mlgp 'Mulluk Proper',
+mpb Mullukmulluk,
+mrnu Maranunggu,
+murr Tyemeri,
+nam_nam_nan_nam_tye Ngangikurrunggurr,
+nam_nge Ngengomeri,
+wdj 'Wadyiginy Proper',
+wdj_pun Batyamal,
+wdj_wdb 'Wadyiginy-Batyamal',
+woa Tyeraity,
+xmu Kamor,
+zma Manda,
+zml Matngala,
+zmm Maramanandji,
+zmr Maranunggu,
+zmt Marengar;
+TREE 18975 = [&R] (((((mfr_mar,mfr_mrd_zmd)mfr_mtd,(mfr_mrs_zmj,mfr_mam_xru)mfr_mya)mfr,zmt,zmm)brin,((amy,zma)zmr)mrnu,((wdj_pun,(wdj_pun,wdj)wdj_wdb)wdj)anso)brwa,(((xmu,1ek,zml)zml)dalp,(woa,mpb)mlgp)mlgm,((nam_nge)nam_nam_nan_nam_tye)murr)daly;
+END;

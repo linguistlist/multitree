@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Wamo-Chapakuran: Kaufman 2007]
+BEGIN TREES;
+TRANSLATE 0in Wamo,
+chap Chapakuran,
+chaw 'Wamo-Chapakuran',
+guap Itene,
+ite Itene,
+ite_kum 'Abitana-Kumaná',
+ite_wan Wanyam,
+pav 'Urupá-Jarú',
+qdh Chapakura,
+qlv 'Kitemo-Nape',
+schp Wari,
+trz Torá,
+xbx Kabishí;
+TREE 15122 = [&R] (((qdh,pav,qlv,pav,trz)schp,(xbx,ite,ite_kum,ite_wan)guap)chap,0in)chaw;
+END;

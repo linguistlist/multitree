@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Cant: Composite]
+BEGIN TREES;
+TRANSLATE cant Cant,
+enta 'English-Tahitian',
+pih 'Pitcairn-Norfolk',
+pih_nor 'Norfolk English';
+TREE 12521 = [&R] (((pih_nor)pih)enta)cant;
+END;

@@ -1,0 +1,24 @@
+#NEXUS
+[MultiTree: Wintuan: Campbell 1997]
+BEGIN TREES;
+TRANSLATE nol Nomlaki,
+pwi Patwin,
+wint Wintuan,
+wit_cac 'Cache Creek',
+wit_cls Colusa,
+wit_cor Cortina,
+wit_grm Grimes,
+wit_hil 'Hill Nomlaki',
+wit_hpa 'Hill Patwin',
+wit_kbl Kabalwen,
+wit_kld 'Knight''s Landing',
+wit_npa 'North Patwin',
+wit_riv 'River Nomlaki',
+wit_rpa 'River Patwin',
+wit_spa 'South Patwin',
+wit_sui Suisun,
+wit_teb Tebti,
+wit_win Wintu,
+wnw Wintun;
+TREE 11878 = [&R] ((((wit_cls,wit_grm)wit_rpa,(wit_kbl,wit_cac,wit_cor,wit_teb)wit_hpa)wit_npa,(wit_kld,wit_sui)wit_spa)pwi,((wit_riv,wit_hil)nol,wit_win)wnw)wint;
+END;

@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Maipure: Gilij (in Campbell and Grondona 2012)]
+BEGIN TREES;
+TRANSLATE 10q Mepure,
+10r Güipunave,
+10s Kirrupa,
+aca Achagua,
+bwi_kpc Avane,
+maip Maipure,
+qfd Cávere,
+qij Maipure,
+yvt Parene;
+TREE 23531 = [&R] ((aca)qij,yvt,10q,10r,qfd,bwi_kpc,10s)maip;
+END;

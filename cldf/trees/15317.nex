@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Salinan: Mithun 1999]
+BEGIN TREES;
+TRANSLATE sln Salinan,
+sln_ant Antoniaño,
+sln_mig Migueleño;
+TREE 15317 = [&R] (sln_ant,sln_mig)sln;
+END;

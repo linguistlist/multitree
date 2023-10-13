@@ -1,0 +1,38 @@
+#NEXUS
+[MultiTree: Samoyed languages, subtree of Uralic: Hadju 1963]
+BEGIN TREES;
+TRANSLATE 1oo 'Taz dialect group',
+1op 'Tym dialect group',
+enf_bay 'Baykha dialect',
+enf_enh Enets,
+enf_mog Moggaddi,
+enh_kha 'Khantaysk dialect',
+nio Nganasan,
+nio_ava 'Avam dialect',
+nio_kaj kajŋalawa,
+nio_vad 'Vadeyev dialect',
+sel Selkup,
+sel_ket 'Ket dialect group',
+smoy 'Samoyed languages',
+xas Kamas,
+yrk Nenets,
+yrk_fag 'Agam dialect',
+yrk_fea 'Eastern dialect group',
+yrk_fly 'Lyamin dialect',
+yrk_fny 'Nyalina dialect',
+yrk_for 'Forest dialect group',
+yrk_fpu 'Purim dialect',
+yrk_fwe 'Western dialect group',
+yrk_tce 'Central dialect',
+yrk_tea 'Eastern dialect',
+yrk_tka 'Kanin dialect',
+yrk_tma 'Malaya Zemlya dialect',
+yrk_tna Nadym,
+yrk_tob 'Ob''',
+yrk_tta Taz,
+yrk_tun 'Tundra dialect group',
+yrk_tup 'Upper Pur',
+yrk_twe 'western dialect',
+yrk_tya Yamal;
+TREE 12121 = [&R] ((sel_ket,1oo,1op)sel,(enh_kha,enf_mog,enf_bay)enf_enh,(((yrk_fny,yrk_fly)yrk_fea,(yrk_fpu,yrk_fag)yrk_fwe)yrk_for,((yrk_tma,yrk_tka)yrk_twe,(yrk_tup,yrk_tna,yrk_tob,yrk_tya,yrk_tta)yrk_tea,yrk_tce)yrk_tun)yrk,(nio_ava,nio_vad,nio_kaj)nio,xas)smoy;
+END;

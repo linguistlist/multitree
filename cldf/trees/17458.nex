@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Karirian: Composite]
+BEGIN TREES;
+TRANSLATE kari Karirian,
+kzw_dzu Dzubukuá,
+kzw_kam Kamurú,
+kzw_kip Kipeá,
+kzw_sab Sabuyá;
+TREE 17458 = [&R] (kzw_kip,kzw_sab,kzw_dzu,kzw_kam)kari;
+END;

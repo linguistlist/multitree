@@ -1,0 +1,34 @@
+#NEXUS
+[MultiTree: Eskimauan: Powell 1891]
+BEGIN TREES;
+TRANSLATE alas Alaska,
+ale Aleutian,
+ale_eas Unalashka,
+ale_wes Atka,
+ems_chu Chugachigmiut,
+esi_nor 'Point Barrow Eskimo',
+esk_qaw Kaviagmiut,
+esk_smi Mahlemiut,
+eska Eskimauan,
+ess Yuit,
+esu_nor Unaligmiut,
+esu_nun Nuninagmiut,
+esu_yuk Kuskwogmiut,
+grin 'Grinnell Land',
+grnl Greenland,
+ike_aiv Aivillirmiut,
+ike_baf 'Baffin Eskimo',
+ike_ftc 'Fort Conger Eskimo',
+ike_ham 'Hamilton Inlet',
+ike_nor Iglulingmiut,
+ikt_cop Kangormiut,
+ikt_hud Notaway,
+ikt_mac 'Mackenzie Eskimo',
+kal_eas Angmagsalik,
+kal_pol 'Etah Eskimo',
+kal_wes Ivimiut,
+lbdr Labrador,
+mesk 'Middle Eskimo',
+sibr Asiatic;
+TREE 14081 = [&R] ((esk_smi,esu_yuk,esk_qaw,esu_nor,esu_nun,ems_chu)alas,(ikt_cop,esi_nor,ikt_mac,ike_aiv,ikt_hud,ike_nor)mesk,(ike_ham,ike_baf)lbdr,(ike_ftc)grin,(kal_eas,kal_pol,kal_wes)grnl,(ale_eas,ale_wes)ale,(ess)sibr)eska;
+END;

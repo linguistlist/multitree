@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Palaihnihan: Powell 1891]
+BEGIN TREES;
+TRANSLATE acv 'Achoma''wi',
+acv_aju 'Chuma''wa',
+acv_atw 'Atua''mih',
+acv_est 'Estake''wach',
+acv_ham 'Huma''whi',
+acv_han 'Hante''wa',
+acv_ilm 'Ilma''wi',
+acv_pak Pakamalli,
+palh Palaihnihan;
+TREE 14205 = [&R] (acv_atw,acv_pak,acv_est,acv_ham,acv_han,acv_ilm,acv,acv_aju)palh;
+END;

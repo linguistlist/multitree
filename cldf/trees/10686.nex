@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Chon: Dryer 2005]
+BEGIN TREES;
+TRANSLATE chnp 'Chon Proper',
+chon Chon,
+ona Selknam,
+plch Puelche,
+teh Tehuelbhe,
+teh_gun 'Gününa Küne';
+TREE 10686 = [&R] ((ona,teh)chnp,(teh_gun)plch)chon;
+END;

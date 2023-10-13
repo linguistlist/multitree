@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Gan (dialects): Wurm, Yongquan 1987]
+BEGIN TREES;
+TRANSLATE gan Gan,
+gan_cha Changjing,
+gan_dat Datong,
+gan_don Dongsui,
+gan_fug Fuguang,
+gan_hua Huaiyue,
+gan_jic Jicha,
+gan_lei Leizi,
+gan_yil Yiliu,
+gan_yin Yingyi;
+TREE 20128 = [&R] (gan_jic,gan_lei,gan_yil,gan_cha,gan_hua,gan_yin,gan_dat,gan_fug,gan_don)gan;
+END;

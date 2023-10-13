@@ -1,0 +1,25 @@
+#NEXUS
+[MultiTree: The Relation of Be to Tai: Hansell 1988]
+BEGIN TREES;
+TRANSLATE anes Austronesian,
+auth 'Austro-Tai',
+beee 'Proto-Be',
+beta 'Be-Tai',
+ctai 'Central Tai',
+doc_kmc Kam,
+giq_gir_giw Gelao,
+hmom 'Miao-Yao',
+kams 'Kam-Sui',
+kamt 'Kam-Tai',
+laq_lha 'Laqua/Laha',
+lbc Lakkia,
+lic Hlai,
+lkks 'Lakkia-Kam-Sui',
+mkg_swi 'Sui/Mak',
+ntai 'Northern Tai',
+onb Be,
+swta 'Southwestern Tai',
+taik Kadai,
+taix 'Proto-Tai';
+TREE 24123 = [&R] (((((doc_kmc,mkg_swi)kams,lbc)lkks,((swta,ntai,ctai)taix,(onb)beee)beta)kamt,giq_gir_giw,lic,laq_lha)taik,anes,hmom)auth;
+END;

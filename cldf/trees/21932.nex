@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Guaicuruan: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE axb Abipón,
+guay Guaicuruan,
+kbc Kadiwéu,
+moc Mocoví,
+plg Pilagá,
+sguk 'Southern Guaicuruan',
+tob Toba;
+TREE 21932 = [&R] ((plg,axb,moc,tob)sguk,kbc)guay;
+END;

@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Papuan Phylum-Level Isolates: Wurm 1982]
+BEGIN TREES;
+TRANSLATE bhf Busa,
+bzu Taurap,
+mbq Maisin,
+mbq_kos Kosirava,
+mbq_uia Uiaku,
+nce Nagatman,
+ocis 'Papuan Phylum-Level Isolates',
+prm Porome,
+prm_air Kibiri,
+prm_por Porome,
+wsa Warenbori,
+yki Pauwi,
+yuj Yuri;
+TREE 13959 = [&R] ((prm_air,prm_por)prm,bhf,yki,yuj,nce,wsa,(mbq_uia,mbq_kos)mbq,bzu)ocis;
+END;

@@ -1,0 +1,22 @@
+#NEXUS
+[MultiTree: Niger-Saharan: Blench 1995]
+BEGIN TREES;
+TRANSLATE bert Berta,
+csud 'Central Sudanic',
+esud 'East Sudanic',
+furr Fur,
+kdsu 'Kado-Sudanic',
+komz Komuz,
+kulk Kuliak,
+kunm Kunama,
+maab Maba,
+ncon 'Niger-Congo',
+ncsu 'Niger-Central Sudanic',
+nisa 'Proto-Niger-Saharan',
+nisu 'Niger-Sudanic',
+saha Saharan,
+shab Shabo,
+song Songhay,
+unns Kado;
+TREE 23145 = [&R] (maab,(((csud,ncon)ncsu,esud)nisu,unns)kdsu,shab,song,komz,bert,kulk,kunm,furr,saha)nisa;
+END;

@@ -1,0 +1,25 @@
+#NEXUS
+[MultiTree: Utian: Golla, Goddard, Campbell, Mithun, Mixco 2007]
+BEGIN TREES;
+TRANSLATE 09n_cst_ram Ramaytush,
+09o_cst_cho Chochenyo,
+09p_cst_tam Tamyen,
+09q_cst_awa Awaswas,
+09r_cst_cha Chalon,
+09s_css_mut Mutsun,
+09t_css_rum Rumsen,
+cost Costanoan,
+csi 'Coast Miwok',
+csm 'Central Sierra Miwok',
+emiw 'Eastern Miwok',
+krb Karkin,
+lmw 'Lake Miwok',
+miwo Miwok,
+mkq 'Bay Miwok',
+nsq 'Northern Sierra Miwok',
+pmw 'Plains Miwok',
+skd 'Southern Sierra Miwok',
+utia Utian,
+wmiw 'Western Miwok';
+TREE 17017 = [&R] ((09s_css_mut,09r_cst_cha,09q_cst_awa,09o_cst_cho,krb,09t_css_rum,09p_cst_tam,09n_cst_ram)cost,((lmw,csi)wmiw,(skd,nsq,pmw,csm,mkq)emiw)miwo)utia;
+END;

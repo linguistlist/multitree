@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Cañar-Puruhá: Composite]
+BEGIN TREES;
+TRANSLATE ecch 'Cañar-Puruhá',
+qb0 Cañar,
+qq3 Puruhá;
+TREE 17255 = [&R] (qq3,qb0)ecch;
+END;

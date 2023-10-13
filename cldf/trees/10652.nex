@@ -1,0 +1,19 @@
+#NEXUS
+[MultiTree: Siouan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE blx Biloxi,
+chc Catawba,
+cro Crow,
+dak Dakota,
+hid Hidatsa,
+iow Oto,
+lkt Lakhota,
+mhq Mandan,
+oma Omaha,
+osa Osage,
+siou Siouan,
+sto Stoney,
+tta Tutelo,
+win Winnebago;
+TREE 10652 = [&R] (blx,chc,cro,dak,hid,lkt,mhq,oma,osa,iow,sto,tta,win)siou;
+END;

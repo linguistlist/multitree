@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Енисейские языки:  Вернер 1997]
+BEGIN TREES;
+TRANSLATE arpu 'арино-пумпокольская группа',
+asko 'ассано-коттская группа',
+ket кетский,
+keyu 'кетско-югская группа',
+xpm пумпокольский,
+xrn аринский,
+xss ассанский,
+yeos 'енисейские языки',
+yuu югский,
+zko коттский;
+TREE 26317 = [&R] ((xpm,xrn)arpu,(xss,zko)asko,(yuu,ket)keyu)yeos;
+END;

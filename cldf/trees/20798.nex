@@ -1,0 +1,19 @@
+#NEXUS
+[MultiTree: Ges: Krickeberg & Jimenez Moreno 1937]
+BEGIN TREES;
+TRANSLATE 1m4 Tarairyú,
+1m5 Purecramecrán,
+apn Apinages,
+geka Ges,
+gvp_xra_xre_xri Canella,
+kgp_zkp Caingang,
+qr7 Guayaná,
+suy Suyá,
+txu 'Cayapó del Sur',
+vkm_vkm_kam Camacán,
+xav Chavante,
+xer Cherente,
+xkr Shicriabá,
+xok Bugre;
+TREE 20798 = [&R] (suy,xav,vkm_vkm_kam,gvp_xra_xre_xri,xer,txu,xok,txu,1m4,qr7,xkr,1m5,apn,xok,kgp_zkp)geka;
+END;

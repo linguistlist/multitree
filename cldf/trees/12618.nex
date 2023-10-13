@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Nivkh: Dryer 2005]
+BEGIN TREES;
+TRANSLATE gily Nivkh,
+niv Nivkh,
+niv_sou 'Nivkh (South Sakhalin)';
+TREE 12618 = [&R] (niv_sou,niv)gily;
+END;

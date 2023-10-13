@@ -1,0 +1,28 @@
+#NEXUS
+[MultiTree: Cristobal-Malaitan: Lichtenberk 1988]
+BEGIN TREES;
+TRANSLATE aaom '''Are''are-Marau',
+alu '''Are''are',
+alu_mar Marau,
+apb 'Sa''a',
+apb_ula Ulawa,
+apb_unm Ugi,
+bvc Baelelea,
+bvd Baegu,
+dor 'Dori''o',
+far Fataleka,
+gmb Kwai,
+kwd Kwaio,
+kwf 'Kwara''ae',
+lgl Langalanga,
+lgu Longgu,
+llu Lau,
+mlu 'To''aba''ita',
+mscr 'Cristobal-Malaitan',
+nmal 'Central and North Malaitan',
+ora Oroha,
+sauu 'Sa''a-Ugi',
+scri Cristobal,
+smlt 'South Malaitan-Cristobal';
+TREE 24438 = [&R] ((mlu,far,kwd,kwf,bvc,bvd,lgl,gmb,dor,llu)nmal,(scri,(apb_ula,apb_unm,apb)sauu,(alu_mar,ora,alu)aaom)smlt,lgu)mscr;
+END;

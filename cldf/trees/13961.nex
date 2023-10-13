@@ -1,0 +1,32 @@
+#NEXUS
+[MultiTree: Geelvink Bay: Wurm 1982]
+BEGIN TREES;
+TRANSLATE bpo Bapu,
+brp Baropasi,
+brp_bar 'Baropasi Proper',
+brp_sir Siromi,
+bvz Bauzi,
+egba 'East Geelvink Bay',
+geba 'Geelvink Bay',
+kpi Kofei,
+njs Nisa,
+srt Sauri,
+swr Saweru,
+trt Tarunggare,
+yva Yava,
+yva_ari Ariepi,
+yva_cen 'Central Yava',
+yva_kab Kabuaena,
+yva_kon 'Konti-Unai',
+yva_man Mantembu,
+yva_mar Mariadei,
+yva_nes 'Northeastern Yava',
+yva_nor 'Northern Yava',
+yva_sar Sarawandori,
+yva_tar Tarau,
+yva_tat Tatui,
+yva_tut Tutu,
+yva_wad 'Wadapi Darat',
+yva_yap 'Yapanani-Borai';
+TREE 13961 = [&R] (((njs,kpi,brp_sir,srt,brp_bar)brp,trt,bpo,njs,bvz)egba,(yva_yap,yva_tut,yva_mar,swr,yva_kon,yva_kab,yva_cen,yva_ari,yva_sar,yva_wad,yva_tar,yva_man,yva_tat,yva_nes,yva_nor)yva)geba;
+END;

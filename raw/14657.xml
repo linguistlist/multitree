@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Asia</region>    <region>Europe</region>
+    <root>
+      <node-type>Subgroup</node-type>
+      <updater-id type="integer">10740</updater-id>
+      <deleted-at nil="true"></deleted-at>
+      <pub-comments></pub-comments>
+      <node-type-id type="integer">10000</node-type-id>
+      <node-status-id nil="true"></node-status-id>
+      <tree-val>Proto-Samoyedic, subtree of Uralic: Abondolo 2008</tree-val>
+      <is-default type="integer">0</is-default>
+      <children type="array">
+        <child>
+          <node-type>Subgroup</node-type>
+          <updater-id type="integer">10740</updater-id>
+          <deleted-at nil="true"></deleted-at>
+          <pub-comments>Tundra Samoyeds</pub-comments>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <tree-val>Proto-Samoyedic, subtree of Uralic: Abondolo 2008</tree-val>
+          <is-default type="integer">0</is-default>
+          <children type="array">
+            <child>
+              <node-type>Language</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <deleted-at nil="true"></deleted-at>
+              <pub-comments></pub-comments>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <tree-val>Proto-Samoyedic, subtree of Uralic: Abondolo 2008</tree-val>
+              <is-default type="integer">0</is-default>
+              <children type="array">
+                <child>
+                  <node-type>Dialect</node-type>
+                  <updater-id type="integer">10740</updater-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>Proto-Samoyedic, subtree of Uralic: Abondolo 2008</tree-val>
+                  <is-default type="integer">0</is-default>
+                  <children type="array"/>
+                  <sureness type="integer">0</sureness>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Janhunen, Juha. 1998. The Uralic Languages, 457-461. London: Routledge. ISBN 978-0-415-41264-3</publications>
+                  <id type="integer">573184</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <codes>yrk-tun</codes>
+                  <alt-names></alt-names>
+                  <updated-by>joe_leif</updated-by>
+                  <other-codes></other-codes>
+                  <geography nil="true"></geography>
+                  <created-by>joe_leif</created-by>
+                  <tree-id type="integer">14657</tree-id>
+                  <status nil="true"></status>
+                  <pri-name>Tundra Nenets</pri-name>
+                  <updated-at type="datetime">2009-07-27T18:35:01-04:00</updated-at>
+                  <created-at type="datetime">2009-07-27T18:35:01-04:00</created-at>
+                </child>
+                <child>
+                  <node-type>Dialect</node-type>
+                  <updater-id type="integer">10740</updater-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>Proto-Samoyedic, subtree of Uralic: Abondolo 2008</tree-val>
+                  <is-default type="integer">0</is-default>
+                  <children type="array"/>
+                  <sureness type="integer">0</sureness>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Janhunen, Juha. 1998. The Uralic Languages, 457-461. London: Routledge. ISBN 978-0-415-41264-3</publications>
+                  <id type="integer">573185</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <codes>yrk-for</codes>
+                  <alt-names></alt-names>
+                  <updated-by>joe_leif</updated-by>
+                  <other-codes></other-codes>
+                  <geography nil="true"></geography>
+                  <created-by>joe_leif</created-by>
+                  <tree-id type="integer">14657</tree-id>
+                  <status nil="true"></status>
+                  <pri-name>Forest Nenets</pri-name>
+                  <updated-at type="datetime">2009-07-27T18:35:02-04:00</updated-at>
+                  <created-at type="datetime">2009-07-27T18:35:01-04:00</created-at>
+                </child>
+              </children>
+              <sureness type="integer">0</sureness>
+              <creator-id type="integer">10740</creator-id>
+              <start-date nil="true"></start-date>
+              <publications>Janhunen, Juha. 1998. The Uralic Languages, 457-461. London: Routledge. ISBN 978-0-415-41264-3</publications>
+              <id type="integer">573183</id>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <codes>yrk</codes>
+              <alt-names>Yurak</alt-names>
+              <updated-by>joe_leif</updated-by>
+              <other-codes></other-codes>
+              <geography>Spoken along the artctic coast from the White Sea region to western Taimyr</geography>
+              <created-by>joe_leif</created-by>
+              <tree-id type="integer">14657</tree-id>
+              <status nil="true"></status>
+              <pri-name>Nenets</pri-name>
+              <updated-at type="datetime">2009-07-27T18:35:01-04:00</updated-at>
+              <created-at type="datetime">2009-07-27T18:35:01-04:00</created-at>
+            </child>
+            <child>
+              <node-type>Language</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <deleted-at nil="true"></deleted-at>
+              <pub-comments>Enets is now facing extinction</pub-comments>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-status-id type="integer">10001</node-status-id>
+              <tree-val>Proto-Samoyedic, subtree of Uralic: Abondolo 2008</tree-val>
+              <is-default type="integer">0</is-default>
+              <children type="array">
+                <child>
+                  <node-type>Dialect</node-type>
+                  <updater-id type="integer">10740</updater-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>Proto-Samoyedic, subtree of Uralic: Abondolo 2008</tree-val>
+                  <is-default type="integer">0</is-default>
+                  <children type="array"/>
+                  <sureness type="integer">0</sureness>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Janhunen, Juha. 1998. The Uralic Languages, 457-461. London: Routledge. ISBN 978-0-415-41264-3</publications>
+                  <id type="integer">573181</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <codes>enh-kha</codes>
+                  <alt-names>Madu Enets</alt-names>
+                  <updated-by>joe_leif</updated-by>
+                  <other-codes></other-codes>
+                  <geography nil="true"></geography>
+                  <created-by>joe_leif</created-by>
+                  <tree-id type="integer">14657</tree-id>
+                  <status nil="true"></status>
+                  <pri-name>Tundra Enets</pri-name>
+                  <updated-at type="datetime">2009-07-27T18:35:01-04:00</updated-at>
+                  <created-at type="datetime">2009-07-27T18:35:01-04:00</created-at>
+                </child>
+                <child>
+                  <node-type>Dialect</node-type>
+                  <updater-id type="integer">10740</updater-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10003</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>Proto-Samoyedic, subtree of Uralic: Abondolo 2008</tree-val>
+                  <is-default type="integer">0</is-default>
+                  <children type="array"/>
+                  <sureness type="integer">0</sureness>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Janhunen, Juha. 1998. The Uralic Languages, 457-461. London: Routledge. ISBN 978-0-415-41264-3</publications>
+                  <id type="integer">573182</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <codes>enf-bay</codes>
+                  <alt-names>Bai Enets</alt-names>
+                  <updated-by>joe_leif</updated-by>
+                  <other-codes></other-codes>
+                  <geography nil="true"></geography>
+                  <created-by>joe_leif</created-by>
+                  <tree-id type="integer">14657</tree-id>
+                  <status nil="true"></status>
+                  <pri-name>Forest Enets</pri-name>
+                  <updated-at type="datetime">2009-07-27T18:35:01-04:00</updated-at>
+                  <created-at type="datetime">2009-07-27T18:35:01-04:00</created-at>
+                </child>
+              </children>
+              <sureness type="integer">0</sureness>
+              <creator-id type="integer">10740</creator-id>
+              <start-date nil="true"></start-date>
+              <publications>Janhunen, Juha. 1998. The Uralic Languages, 457-461. London: Routledge. ISBN 978-0-415-41264-3</publications>
+              <id type="integer">573180</id>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <codes>enf, enh</codes>
+              <alt-names>Yensisei-Samoyed</alt-names>
+              <updated-by>joe_leif</updated-by>
+              <other-codes></other-codes>
+              <geography>Spoken in the lower Yenisei region</geography>
+              <created-by>joe_leif</created-by>
+              <tree-id type="integer">14657</tree-id>
+              <status>Nearly Extinct</status>
+              <pri-name>Enets</pri-name>
+              <updated-at type="datetime">2009-07-27T18:35:01-04:00</updated-at>
+              <created-at type="datetime">2009-07-27T18:35:01-04:00</created-at>
+            </child>
+            <child>
+              <node-type>Language</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <deleted-at nil="true"></deleted-at>
+              <pub-comments>Spoken in the villages of Ust-Avam, Volochanka, Novaya</pub-comments>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <tree-val>Proto-Samoyedic, subtree of Uralic: Abondolo 2008</tree-val>
+              <is-default type="integer">0</is-default>
+              <children type="array"/>
+              <sureness type="integer">0</sureness>
+              <creator-id type="integer">10740</creator-id>
+              <start-date nil="true"></start-date>
+              <publications>Janhunen, Juha. 1998. The Uralic Languages, 457-461. London: Routledge. ISBN 978-0-415-41264-3</publications>
+              <id type="integer">573179</id>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <codes>nio</codes>
+              <alt-names>Tavgy</alt-names>
+              <updated-by>joe_leif</updated-by>
+              <other-codes></other-codes>
+              <geography>Spoken on the Taimyr Penninsula from the lower Yenisei in the west to the Khatanga Bay in the east</geography>
+              <created-by>joe_leif</created-by>
+              <tree-id type="integer">14657</tree-id>
+              <status nil="true"></status>
+              <pri-name>Nganasan</pri-name>
+              <updated-at type="datetime">2009-07-27T18:35:01-04:00</updated-at>
+              <created-at type="datetime">2009-07-27T18:35:01-04:00</created-at>
+            </child>
+          </children>
+          <sureness type="integer">0</sureness>
+          <creator-id type="integer">10740</creator-id>
+          <start-date nil="true"></start-date>
+          <publications>Janhunen, Juha. 1998. The Uralic Languages, 457-461. London: Routledge. ISBN 978-0-415-41264-3</publications>
+          <id type="integer">573177</id>
+          <end-date nil="true"></end-date>
+          <confidence>y</confidence>
+          <codes>nsam</codes>
+          <alt-names></alt-names>
+          <updated-by>joe_leif</updated-by>
+          <other-codes></other-codes>
+          <geography>Spoken in the Artic tundra zone of European Russia and  western Siberia</geography>
+          <created-by>joe_leif</created-by>
+          <tree-id type="integer">14657</tree-id>
+          <status nil="true"></status>
+          <pri-name>Northern Samoyedic</pri-name>
+          <updated-at type="datetime">2009-07-27T18:35:01-04:00</updated-at>
+          <created-at type="datetime">2009-07-27T18:35:01-04:00</created-at>
+        </child>
+        <child>
+          <node-type>Subgroup</node-type>
+          <updater-id type="integer">10740</updater-id>
+          <deleted-at nil="true"></deleted-at>
+          <pub-comments></pub-comments>
+          <node-type-id type="integer">10000</node-type-id>
+          <node-status-id nil="true"></node-status-id>
+          <tree-val>Proto-Samoyedic, subtree of Uralic: Abondolo 2008</tree-val>
+          <is-default type="integer">0</is-default>
+          <children type="array">
+            <child>
+              <node-type>Subgroup</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <deleted-at nil="true"></deleted-at>
+              <pub-comments>Mountain Samoyeds</pub-comments>
+              <node-type-id type="integer">10000</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <tree-val>Proto-Samoyedic, subtree of Uralic: Abondolo 2008</tree-val>
+              <is-default type="integer">0</is-default>
+              <children type="array">
+                <child>
+                  <node-type>Language</node-type>
+                  <updater-id type="integer">10740</updater-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>Proto-Samoyedic, subtree of Uralic: Abondolo 2008</tree-val>
+                  <is-default type="integer">0</is-default>
+                  <children type="array"/>
+                  <sureness type="integer">0</sureness>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Janhunen, Juha. 1998. The Uralic Languages, 457-461. London: Routledge. ISBN 978-0-415-41264-3</publications>
+                  <id type="integer">573188</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <codes>mtm</codes>
+                  <alt-names>Motor, Taigi, Karagas</alt-names>
+                  <updated-by>joe_leif</updated-by>
+                  <other-codes></other-codes>
+                  <geography>Spoken in the eastern Sayan Mountains from the upper Yenisei in the west to the Baikal region in the east.</geography>
+                  <created-by>joe_leif</created-by>
+                  <tree-id type="integer">14657</tree-id>
+                  <status nil="true"></status>
+                  <pri-name>Mator</pri-name>
+                  <updated-at type="datetime">2009-07-27T18:35:02-04:00</updated-at>
+                  <created-at type="datetime">2009-07-27T18:35:02-04:00</created-at>
+                </child>
+                <child>
+                  <node-type>Language</node-type>
+                  <updater-id type="integer">10740</updater-id>
+                  <deleted-at nil="true"></deleted-at>
+                  <pub-comments></pub-comments>
+                  <node-type-id type="integer">10001</node-type-id>
+                  <node-status-id nil="true"></node-status-id>
+                  <tree-val>Proto-Samoyedic, subtree of Uralic: Abondolo 2008</tree-val>
+                  <is-default type="integer">0</is-default>
+                  <children type="array"/>
+                  <sureness type="integer">0</sureness>
+                  <creator-id type="integer">10740</creator-id>
+                  <start-date nil="true"></start-date>
+                  <publications>Janhunen, Juha. 1998. The Uralic Languages, 457-461. London: Routledge. ISBN 978-0-415-41264-3</publications>
+                  <id type="integer">573187</id>
+                  <end-date nil="true"></end-date>
+                  <confidence>y</confidence>
+                  <codes>xas</codes>
+                  <alt-names>Kamassian, Koibal</alt-names>
+                  <updated-by>joe_leif</updated-by>
+                  <other-codes></other-codes>
+                  <geography>Spoken in the eastern part of the upper Yenisei region</geography>
+                  <created-by>joe_leif</created-by>
+                  <tree-id type="integer">14657</tree-id>
+                  <status nil="true"></status>
+                  <pri-name>Kamas</pri-name>
+                  <updated-at type="datetime">2009-07-27T18:35:02-04:00</updated-at>
+                  <created-at type="datetime">2009-07-27T18:35:02-04:00</created-at>
+                </child>
+              </children>
+              <sureness type="integer">0</sureness>
+              <creator-id type="integer">10740</creator-id>
+              <start-date nil="true"></start-date>
+              <publications>Janhunen, Juha. 1998. The Uralic Languages, 457-461. London: Routledge. ISBN 978-0-415-41264-3</publications>
+              <id type="integer">573189</id>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <codes>says</codes>
+              <alt-names></alt-names>
+              <updated-by>joe_leif</updated-by>
+              <other-codes></other-codes>
+              <geography>Spoken in the wooded highlands of Souther Siberia</geography>
+              <created-by>joe_leif</created-by>
+              <tree-id type="integer">14657</tree-id>
+              <status nil="true"></status>
+              <pri-name>Sayan Samoyedic</pri-name>
+              <updated-at type="datetime">2009-07-27T18:35:02-04:00</updated-at>
+              <created-at type="datetime">2009-07-27T18:35:02-04:00</created-at>
+            </child>
+            <child>
+              <node-type>Language</node-type>
+              <updater-id type="integer">10740</updater-id>
+              <deleted-at nil="true"></deleted-at>
+              <pub-comments>Taiga Samoyeds</pub-comments>
+              <node-type-id type="integer">10001</node-type-id>
+              <node-status-id nil="true"></node-status-id>
+              <tree-val>Proto-Samoyedic, subtree of Uralic: Abondolo 2008</tree-val>
+              <is-default type="integer">0</is-default>
+              <children type="array"/>
+              <sureness type="integer">0</sureness>
+              <creator-id type="integer">10740</creator-id>
+              <start-date nil="true"></start-date>
+              <publications>Janhunen, Juha. 1998. The Uralic Languages, 457-461. London: Routledge. ISBN 978-0-415-41264-3</publications>
+              <id type="integer">573186</id>
+              <end-date nil="true"></end-date>
+              <confidence>y</confidence>
+              <codes>sel</codes>
+              <alt-names>Ostyak-Samoyed</alt-names>
+              <updated-by>joe_leif</updated-by>
+              <other-codes></other-codes>
+              <geography>Spoken in the western Siberian forest zone</geography>
+              <created-by>joe_leif</created-by>
+              <tree-id type="integer">14657</tree-id>
+              <status nil="true"></status>
+              <pri-name>Selkup</pri-name>
+              <updated-at type="datetime">2009-07-27T18:35:02-04:00</updated-at>
+              <created-at type="datetime">2009-07-27T18:35:02-04:00</created-at>
+            </child>
+          </children>
+          <sureness type="integer">0</sureness>
+          <creator-id type="integer">10740</creator-id>
+          <start-date nil="true"></start-date>
+          <publications>Janhunen, Juha. 1998. The Uralic Languages, 457-461. London: Routledge. ISBN 978-0-415-41264-3</publications>
+          <id type="integer">573178</id>
+          <end-date nil="true"></end-date>
+          <confidence>y</confidence>
+          <codes>ssam</codes>
+          <alt-names></alt-names>
+          <updated-by>joe_leif</updated-by>
+          <other-codes></other-codes>
+          <geography nil="true"></geography>
+          <created-by>joe_leif</created-by>
+          <tree-id type="integer">14657</tree-id>
+          <status nil="true"></status>
+          <pri-name>Southern Samoyedic</pri-name>
+          <updated-at type="datetime">2009-07-27T18:35:01-04:00</updated-at>
+          <created-at type="datetime">2009-07-27T18:35:01-04:00</created-at>
+        </child>
+      </children>
+      <sureness type="integer">0</sureness>
+      <creator-id type="integer">10740</creator-id>
+      <start-date nil="true"></start-date>
+      <publications>Janhunen, Juha. 1998. The Uralic Languages, 457-461. London: Routledge. ISBN 978-0-415-41264-3</publications>
+      <id type="integer">573176</id>
+      <end-date nil="true"></end-date>
+      <confidence>y</confidence>
+      <codes>smoy</codes>
+      <alt-names></alt-names>
+      <updated-by>joe_leif</updated-by>
+      <other-codes></other-codes>
+      <geography nil="true"></geography>
+      <created-by>joe_leif</created-by>
+      <tree-id type="integer">14657</tree-id>
+      <status nil="true"></status>
+      <pri-name>Proto-Samoyedic</pri-name>
+      <updated-at type="datetime">2009-07-27T18:35:01-04:00</updated-at>
+      <created-at type="datetime">2009-07-27T18:35:01-04:00</created-at>
+    </root>
+    <description>Proto-Samoyedic, subtree of Uralic: Abondolo 2008</description>
+  </tree>
+</hash>

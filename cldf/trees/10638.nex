@@ -1,0 +1,11 @@
+#NEXUS
+[MultiTree: Choco: Dryer 2005]
+BEGIN TREES;
+TRANSLATE choc Choco,
+cmi 'Embera Chami',
+cto Catio,
+emp Embera,
+noa Waunana,
+sja 'Epena Pedee';
+TREE 10638 = [&R] (cto,emp,cmi,sja,noa)choc;
+END;

@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Anson Bay: Tryon 2007]
+BEGIN TREES;
+TRANSLATE anso 'Anson Bay',
+wdj Batyamal,
+wdj_pun 'Pungu-Pungu';
+TREE 19745 = [&R] (wdj_pun,wdj)anso;
+END;

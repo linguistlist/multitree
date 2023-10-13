@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: East New Britain: Ross 2001]
+BEGIN TREES;
+TRANSLATE bait 'East New Britain',
+byx Baining,
+tuh Taulil,
+tuh_tuh_but Butam;
+TREE 21986 = [&R] (byx,tuh_tuh_but,tuh)bait;
+END;

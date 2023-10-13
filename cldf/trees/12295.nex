@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Chukchi-Kamchatkan: Radloff 1861]
+BEGIN TREES;
+TRANSLATE chka 'Tschuktschen-Korjakischen',
+ckt 'Sprache der Tschuktschen',
+kpy Korjakische;
+TREE 12295 = [&R] (ckt,kpy)chka;
+END;

@@ -1,0 +1,32 @@
+#NEXUS
+[MultiTree: Central Delta, subtree of Niger-Congo: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE abn Abua,
+abn_cen 'Central Abuan',
+abn_emu Emughan,
+abn_okp Okpeden,
+abn_ota Otapha,
+abuo 'Abua-Odual',
+atco 'Atlantic-Congo',
+bcon 'Benue-Congo',
+cdel 'Central Delta',
+crri 'Cross-River',
+dcrs 'Delta Cross',
+kes Kugbo,
+kugb Kugbo,
+mgj Abureni,
+ncon 'Niger-Congo',
+obu Obulom,
+odu Odual,
+odu_adi Adibom,
+odu_aru Arughunya,
+ogb Ogbia,
+ogb_agh Agholo,
+ogb_any Anyama,
+ogb_olo Oloibiri,
+ogg Ogbogolo,
+ogu Ogbronuagum,
+volc 'Volta-Congo',
+xoc 'O''Chi''Chi';
+TREE 21066 = [&R] (((((((((odu_aru,odu_adi)odu,(abn_cen,abn_emu,abn_ota,abn_okp)abn)abuo,xoc,obu,(kes)kugb,ogg,(ogb_olo,ogb_any,ogb_agh)ogb,mgj,ogu)cdel)dcrs)crri)bcon)volc)atco)ncon;
+END;

@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Caddoan: Goddard 1996]
+BEGIN TREES;
+TRANSLATE ari Arikara,
+cad Caddo,
+cadd Caddoan,
+kii Kitsai,
+ncad 'Northern Caddoan',
+paw Pawnee,
+paw_ski Skiri,
+paw_sou 'South Band',
+qm1 Yatasi,
+scad 'Southern Caddoan',
+wic Wichita;
+TREE 11543 = [&R] ((qm1,cad)scad,(kii,ari,wic,(paw_sou,paw_ski)paw)ncad)cadd;
+END;

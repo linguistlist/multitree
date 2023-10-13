@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Matacoan: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE cag Nivaclé,
+crq Manjuy,
+crq_crt Chorote,
+crt Yohwaha,
+matc Matacoan,
+mca Maká,
+mtp Nocten,
+mzh Güisnay,
+wlv Vejos;
+TREE 21949 = [&R] (mca,(wlv,mzh,mtp)mtp,(crt,crq,crq)crq_crt,cag)matc;
+END;

@@ -1,0 +1,24 @@
+#NEXUS
+[MultiTree: Austronesian: Blench 2004]
+BEGIN TREES;
+TRANSLATE anes Austronesian,
+atay Atayalic,
+bvqr 'Northwest Formosan',
+bzg Favorlang,
+hfoe 'East Formosan',
+jhtu Bunun,
+kasa 'Kanakanabu-Saaroa',
+kqty Puyuma,
+kuso 'Tsou-Kanakanabu-Saaroa',
+mlpo 'Malayo-Polynesian',
+pain Paiwan,
+sxr Saaroa,
+tay Sediq,
+tsou Tsouic,
+tsu Tsou,
+xhpn Rukai,
+xnb Kanakanabu,
+xsy Saisiat,
+zcka 'Western Plains';
+TREE 18916 = [&R] (zcka,jhtu,((tsu,(xnb,sxr)kasa)kuso)tsou,(tay,tay)atay,pain,kqty,xhpn,(bzg,xsy)hfoe,mlpo,bvqr)anes;
+END;

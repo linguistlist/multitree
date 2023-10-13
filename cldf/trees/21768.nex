@@ -1,0 +1,18 @@
+#NEXUS
+[MultiTree: Caddoan: Ethnologue 2013]
+BEGIN TREES;
+TRANSLATE ari Arikara,
+cad Caddo,
+cadd Caddoan,
+kii Kitsai,
+ncad 'Northern Caddoan',
+paw Pawnee,
+paw_sba 'South Band',
+paw_ski Skiri,
+pawk 'Kitsai-Proto-Pawnee',
+pawn 'Proto-Pawnee',
+wic Wichita,
+wic_taw Tawakoni,
+wic_wac Waco;
+TREE 21768 = [&R] (((((paw_ski,paw_sba)paw,ari)pawn,kii)pawk,(wic_wac,wic_taw)wic)ncad,cad)cadd;
+END;

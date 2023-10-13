@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: Keresan: Powell 1891]
+BEGIN TREES;
+TRANSLATE kee_coc Cochití,
+kee_sta 'Santa Ana',
+kee_std 'Santo Domingo',
+kee_stf 'San Felipe',
+kee_zia Sia,
+kere Keresan,
+kjq_aco Acoma,
+kjq_lag Laguna;
+TREE 14086 = [&R] (kjq_lag,kee_coc,kee_std,kee_stf,kee_zia,kjq_aco,kee_sta)kere;
+END;

@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Sino-Dene (according to Sapir): Bengtson 1994]
+BEGIN TREES;
+TRANSLATE atha Athabaskan,
+eyak Eyak,
+haid Haida,
+inch 'Indo-Chinese',
+kare Karen,
+miya 'Miao-Yao',
+nadn 'Na-Dene',
+side 'Sino-Dene',
+sntc Sinitic,
+taix Daic,
+tbur 'Tibeto-Burman',
+tlin Tlingit;
+TREE 13235 = [&R] ((kare,tbur,miya,taix,sntc)inch,(atha,tlin,haid,eyak)nadn)side;
+END;

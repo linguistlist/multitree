@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Malayic, subtree of Austronesian: Ross 2004]
+BEGIN TREES;
+TRANSLATE 12z 'Old Malay',
+knx_ahe Ahe,
+knx_bel Belangin,
+knx_ken Kendayan,
+knx_skl Salako,
+mlpo 'Proto Malayo-Polynesian',
+mlyc 'Proto Malayic',
+numl 'Nuclear Malayic',
+ppml 'Pre-Proto Malayic',
+wmdy 'Western Malayic Dayak';
+TREE 24198 = [&R] ((((knx_ken,knx_skl,knx_ahe,knx_bel)wmdy,numl)mlyc)ppml,12z)mlpo;
+END;

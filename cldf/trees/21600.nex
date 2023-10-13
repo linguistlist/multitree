@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Yiwaidjan: Composite]
+BEGIN TREES;
+TRANSLATE amac Amaragic,
+amg Amurdak,
+amg_gid Gidjurra,
+amg_urr Urrirrk,
+ibd Iwaidja,
+ibd_iwa Iwaydja,
+ilg 'Garig-Ilgar',
+ilg_gar Garig,
+ilg_ilg Ilgar,
+marg Margic,
+mhg Margu,
+mph Maung,
+wur Wurrugu,
+yiwc Yiwaidjic,
+yiwn Yiwaidjan,
+znk Manangkari;
+TREE 21600 = [&R] (((ibd_iwa)ibd,znk,wur,mph,(ilg_ilg,ilg_gar)ilg)yiwc,(mhg)marg,((amg_gid,amg_urr)amg)amac)yiwn;
+END;

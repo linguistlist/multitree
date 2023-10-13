@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Kartvelian: Dryer 2005]
+BEGIN TREES;
+TRANSLATE kart Kartvelian,
+kat Georgian,
+lzz Laz,
+sva Svan,
+xmf Mingrelian;
+TREE 10752 = [&R] (kat,lzz,xmf,sva)kart;
+END;

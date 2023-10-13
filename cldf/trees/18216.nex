@@ -1,0 +1,30 @@
+#NEXUS
+[MultiTree: Kiowa-Tanoan: Composite]
+BEGIN TREES;
+TRANSLATE 09g_tow_pec Pecos,
+kio Kiowa,
+kiow Kiowa,
+kita 'Kiowa-Tanoan',
+ntiw 'Northern Tiwa',
+pie Piro,
+piro Piro,
+tew Tewa,
+tew_ide 'San Idelfonso',
+tew_nam Nambe,
+tew_poj Pojoaque,
+tew_rio 'Rio Grande Tewa',
+tew_scl 'Santa Clara',
+tew_sju 'San Juan',
+tew_tes Tesuque,
+tew_tew_han 'Arizona Tewa',
+tewa Tewa,
+tiwa Tiwa,
+tix 'Southern Tiwa',
+tix_isl_tix_san 'Isleta-Sandia',
+tix_ysl 'Ysleta del Sur',
+tow Jemez,
+towa Jemez,
+twf_twf_pic Picuris,
+twf_twf_tao Taos;
+TREE 18216 = [&R] ((pie)piro,((twf_twf_tao,twf_twf_pic)ntiw,(tix_ysl,tix_isl_tix_san)tix)tiwa,(((tew_nam,tew_ide,tew_tes,tew_poj,tew_sju,tew_scl)tew_rio)tew,tew_tew_han)tewa,(09g_tow_pec,tow)towa,(kio)kiow)kita;
+END;

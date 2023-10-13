@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Wakashan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE dtd Nitinaht,
+has Haisla,
+hei Heiltsuk,
+kwk 'Kwakw''ala',
+myh Makah,
+noo_kyu Kyuquot,
+nuk Nuuchahnulth,
+nwak 'Northern Wakashan',
+swak 'Southern Wakashan',
+waka Wakashan;
+TREE 10576 = [&R] ((has,hei,kwk)nwak,(noo_kyu,myh,dtd,nuk)swak)waka;
+END;

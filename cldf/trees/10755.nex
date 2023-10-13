@@ -1,0 +1,13 @@
+#NEXUS
+[MultiTree: North-West Caucasian: Dryer 2005]
+BEGIN TREES;
+TRANSLATE abk Abkhaz,
+abq Abaza,
+ady_aba 'Adyghe (Abzakh)',
+ady_bez 'Adyghe (Temirgoy)',
+ady_sha 'Adyghe (Shapsugh)',
+kbd Kabardian,
+nwca 'North-West Caucasian',
+uby Ubykh;
+TREE 10755 = [&R] (abq,abk,ady_aba,ady_sha,ady_bez,kbd,uby)nwca;
+END;

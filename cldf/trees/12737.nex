@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Sálivan: Campbell 1997]
+BEGIN TREES;
+TRANSLATE pid_wpc 'Piaroa-Maco',
+slc Sáliva,
+slvn Salivan;
+TREE 12737 = [&R] (pid_wpc,slc)slvn;
+END;

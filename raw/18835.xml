@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>Australia</region>
+    <root>
+      <alt-names></alt-names>
+      <end-date nil="true"></end-date>
+      <created-by>joe_leif</created-by>
+      <updater-id type="integer">10740</updater-id>
+      <pri-name>Limilngan-Wuna</pri-name>
+      <node-status-id nil="true"></node-status-id>
+      <confidence>Y</confidence>
+      <tree-id type="integer">18835</tree-id>
+      <updated-at type="datetime">2011-07-07T14:44:42-04:00</updated-at>
+      <other-codes></other-codes>
+      <node-type-id type="integer">10000</node-type-id>
+      <publications>Harvey, Mark. 2001. A Grammar of Limilngan: A Language of the Mary River Region, Northern Territory. Canberra: Pacific Linguistics. </publications>
+      <id type="integer">763634</id>
+      <created-at type="datetime">2010-11-04T11:44:59-04:00</created-at>
+      <sureness type="integer">-1</sureness>
+      <is-default type="integer">0</is-default>
+      <updated-by>joe_leif</updated-by>
+      <status nil="true"></status>
+      <tree-val>Limilngan-Wuna: Harvey 2001</tree-val>
+      <start-date nil="true"></start-date>
+      <deleted-at nil="true"></deleted-at>
+      <codes>lmln</codes>
+      <pub-comments>Node not named by author. "If the paradigms presented... are sufficient to establish Limilngan as a member of the Australian language family, then Limilngan is related to most of its neighbours. However, this relationship is the same as that which would hold between Limilngan and almost any other non-Pama-Nyungan language. The only language which appears to be more closely related, is its western neighbour, Wuna" (Harvey 2001: 5). "The most plausible evidence for a relationship between Limilngan and Wuna comes, as usual, from verbal paradigms" (Harvey 2001: 5).</pub-comments>
+      <creator-id type="integer">10740</creator-id>
+      <children type="array">
+        <child>
+          <alt-names>Limil, Minitjja</alt-names>
+          <end-date nil="true"></end-date>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <pri-name>Limilngan</pri-name>
+          <node-status-id type="integer">10001</node-status-id>
+          <confidence>Y</confidence>
+          <tree-id type="integer">18835</tree-id>
+          <updated-at type="datetime">2010-11-04T11:44:59-04:00</updated-at>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <publications>Harvey, Mark. 2001. A Grammar of Limilngan: A Language of the Mary River Region, Northern Territory. Canberra: Pacific Linguistics. </publications>
+          <id type="integer">763635</id>
+          <created-at type="datetime">2010-11-04T11:44:59-04:00</created-at>
+          <sureness type="integer">0</sureness>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Nearly Extinct</status>
+          <tree-val>Limilngan-Wuna: Harvey 2001</tree-val>
+          <start-date nil="true"></start-date>
+          <deleted-at nil="true"></deleted-at>
+          <codes>lmc</codes>
+          <pub-comments>"Based on records from the Northern Territory Abordingal Welfare, and interviews with a variety of people from this area since 1980, I estimate that there were approximately 20 fluent speakers of Limilngan living in this territorical range in the mid 1950s. By the late 1960s, there were only about 5 speakers" (Harvey 2001: 1)."The Limilngan language and the people who own this language are known by three names: Limilngan, Limil, and Minitjja (this last name spelt in many ways). The first two names are given by the language-owners as the primary names for the language" (Harvey 2001: 3).</pub-comments>
+          <creator-id type="integer">10740</creator-id>
+          <children type="array"/>
+          <node-type>Language</node-type>
+          <geography>Darwin hinterland</geography>
+        </child>
+        <child>
+          <alt-names></alt-names>
+          <end-date nil="true"></end-date>
+          <created-by>joe_leif</created-by>
+          <updater-id type="integer">10740</updater-id>
+          <pri-name>Wuna</pri-name>
+          <node-status-id type="integer">10000</node-status-id>
+          <confidence>Y</confidence>
+          <tree-id type="integer">18835</tree-id>
+          <updated-at type="datetime">2010-11-04T11:44:59-04:00</updated-at>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <publications>Harvey, Mark. 2001. A Grammar of Limilngan: A Language of the Mary River Region, Northern Territory. Canberra: Pacific Linguistics. </publications>
+          <id type="integer">763636</id>
+          <created-at type="datetime">2010-11-04T11:44:59-04:00</created-at>
+          <sureness type="integer">-1</sureness>
+          <is-default type="integer">0</is-default>
+          <updated-by>joe_leif</updated-by>
+          <status>Extinct</status>
+          <tree-val>Limilngan-Wuna: Harvey 2001</tree-val>
+          <start-date nil="true"></start-date>
+          <deleted-at nil="true"></deleted-at>
+          <codes>wux</codes>
+          <pub-comments>"The Wuna language is associated with the areas around the lower Adelaide River and Murluk (Lake Finniss) areas. Wuna is extinct; the last speaker Jack Wandi having died in the early 1980s. Gavan Breen did some work on Wuna with Jack in 1980. In combination with Wuna materials supplied to Ken Hale in 1959 by Willie Dayal, and earlier sources, there is sufficient information to provide an outline of the basic phonological and morphological structures of Wuna. However, these materials do not permit any detailed phonological or morphological analysis of Wuna, which is an essential pre-requisite to a proper comparison between the two languages... The most plausible evidence for a relationship between Limilngan and Wuna comes, as usual, from verbal paradigms" (Harvey 2001: 5).</pub-comments>
+          <creator-id type="integer">10740</creator-id>
+          <children type="array"/>
+          <node-type>Language</node-type>
+          <geography>Lower Adelaide River and Murluk Lake Finniss Areas</geography>
+        </child>
+      </children>
+      <node-type>Subgroup</node-type>
+      <geography nil="true"></geography>
+    </root>
+    <description>Limilngan-Wuna: Harvey 2001</description>
+  </tree>
+</hash>

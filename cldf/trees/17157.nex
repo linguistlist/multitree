@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Timotean: Composite]
+BEGIN TREES;
+TRANSLATE qcx Mukuchí,
+qcx_mir Mirripú,
+qcx_muk 'Mukuchi Proper',
+qpj 'Timote-Cuica',
+qpj_kui Kuika,
+qpj_tim 'Timote Proper',
+tmte Timótean;
+TREE 17157 = [&R] ((qpj_tim,qpj_kui)qpj,(qcx_mir,qcx_muk)qcx)tmte;
+END;

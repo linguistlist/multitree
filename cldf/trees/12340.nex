@@ -1,0 +1,26 @@
+#NEXUS
+[MultiTree: Kiowa-Tanoan: Mithun 1999]
+BEGIN TREES;
+TRANSLATE kio Kiowa,
+kita 'Kiowa-Tanoan',
+tew Tewa,
+tew_han 'Arizona Tewa',
+tew_ide 'San Idelfonso',
+tew_nam Nambe,
+tew_poj Pojoaque,
+tew_rio 'Rio Grande Tewa',
+tew_scl 'Santa Clara',
+tew_sju 'San Juan',
+tew_tes Tesuque,
+tiwa Tiwa,
+tix 'Southern Tiwa',
+tix_isl Isleta,
+tix_san Sandia,
+tix_ysl 'Ysleta del Sur',
+tow Jemez,
+tow_pec Pecos,
+twf 'Northern Tiwa',
+twf_pic Picuris,
+twf_tao Taos;
+TREE 12340 = [&R] (((tix_san,tix_isl,tix_ysl)tix,(twf_pic,twf_tao)twf)tiwa,((tew_nam,tew_scl,tew_ide,tew_sju,tew_poj,tew_tes)tew_rio,tew_han)tew,(tow_pec)tow,kio)kita;
+END;

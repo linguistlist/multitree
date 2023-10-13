@@ -1,0 +1,30 @@
+#NEXUS
+[MultiTree: Sino-Tibetan-Austronesian: Sagart 2002, 2005]
+BEGIN TREES;
+TRANSLATE aatk 'Austronesian Ancestor of Kadai',
+ais_ami Amis,
+anes 'Proto-Austronesian',
+batr 'Basai-Trobiawan',
+bnn Bunun,
+byq Basai,
+byq_tro Trobiawan,
+chin Chinese,
+ckv Kavalan,
+dru Rukai,
+eacl 'East Coast Linkage',
+fos Siraya,
+ltc 'Middle Chinese',
+mlpo 'Proto-Malayo-Polynesian',
+nfor Northern,
+och 'Old Chinese',
+pwn Paiwan,
+pyu Puyuma,
+sitb 'Proto-Sino-Tibetan',
+stau 'Proto-Sino-Tibetan-Austronesian',
+taik 'Proto-Kadai',
+tbur 'Tibeto-Burman',
+tsou Tsouic,
+tsrk 'Rukai-Tsouic',
+wfor Western;
+TREE 24513 = [&R] ((((taik)aatk,(byq_tro,byq)batr,mlpo,bnn,ckv,ais_ami,fos)eacl,pyu,nfor,wfor,(dru,tsou)tsrk,pwn)anes,((och,ltc)chin,tbur)sitb)stau;
+END;

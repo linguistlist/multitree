@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Chapacuran: Campbell 1997]
+BEGIN TREES;
+TRANSLATE chaw Chapacuran,
+guap Itene,
+ite Itene,
+ite_kum Kumaná,
+ite_wan Wanham,
+nchp 'Northern Chapakúran',
+pav Orowari,
+pav_jar Jaru,
+pav_ura Urapú,
+qdh Chapacura,
+qlv Quitemo,
+qlv_nap Nape,
+qlv_qui Quitemo,
+schp Wari,
+trz Torá,
+xbx Kabixí;
+TREE 13342 = [&R] ((qdh,(pav_jar,pav_ura)pav,pav,(qlv_nap,qlv_qui)qlv)schp,(xbx,ite,ite_kum,ite_wan)guap,(trz)nchp)chaw;
+END;

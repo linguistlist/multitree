@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: North American Unclassified Languages: Composite]
+BEGIN TREES;
+TRANSLATE bue Beothuk,
+naun 'North American Unclassified',
+tjm Timucua,
+xad Adai,
+xcy Cayuse,
+xrt 'Aranama-Tamique',
+xso Solano;
+TREE 14178 = [&R] (xcy,xso,bue,xad,tjm,xrt)naun;
+END;

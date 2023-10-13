@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Yanomam: Dryer 2005]
+BEGIN TREES;
+TRANSLATE shb Shiriana,
+wca Yanomami,
+xsu Sanuma,
+yano Yanomam;
+TREE 12438 = [&R] (shb,xsu,wca)yano;
+END;

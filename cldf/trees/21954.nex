@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Otomacoan: Campbell, Grondona 2012]
+BEGIN TREES;
+TRANSLATE otmc Otomacoan,
+qlf Taparita,
+qpg Otomaco;
+TREE 21954 = [&R] (qpg,qlf)otmc;
+END;

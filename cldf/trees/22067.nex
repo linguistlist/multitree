@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Papuan: Dunn 2007]
+BEGIN TREES;
+TRANSLATE blb Bilua,
+epap Papuan,
+lvk Lakukaleve,
+svla 'Savosavo-Lavukaleve',
+svlt 'Savosavo-Lavukaleve-Tuou',
+svs Savosavo,
+tqu Tuou,
+tqu_ban Baniata,
+tqu_lok Lokuru;
+TREE 22067 = [&R] (((tqu_lok,tqu_ban)tqu,(lvk,svs)svla)svlt,blb)epap;
+END;

@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Kusan: Powell 1891]
+BEGIN TREES;
+TRANSLATE 0us Nacu,
+coos Kusan,
+csz Anasitch,
+csz_mel Melukitz,
+iml Mulluk;
+TREE 15301 = [&R] (0us,iml,csz_mel,csz)coos;
+END;

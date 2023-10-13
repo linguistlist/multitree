@@ -1,0 +1,8 @@
+#NEXUS
+[MultiTree: Yukaghir: Ethnologue 2013]
+BEGIN TREES;
+TRANSLATE ykg 'Yukaghir, Northern',
+yuka Yukaghir,
+yux 'Yukaghir, Southern';
+TREE 24757 = [&R] (yux,ykg)yuka;
+END;

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <tree>
+    <region>North America</region>
+    <root>
+      <updated-by>joe_leif</updated-by>
+      <start-date nil="true"></start-date>
+      <created-at type="datetime">2009-07-15T18:33:30-04:00</created-at>
+      <id type="integer">513377</id>
+      <deleted-at nil="true"></deleted-at>
+      <alt-names></alt-names>
+      <updated-at type="datetime">2009-07-15T18:33:30-04:00</updated-at>
+      <publications>Powell, J. W. 1891. Indian Linguistic Families of America North of Mexico, 1-142. Washington D.C.: Government Printing Office. </publications>
+      <pri-name>Attacapan</pri-name>
+      <other-codes></other-codes>
+      <node-type-id type="integer">10000</node-type-id>
+      <sureness type="integer">0</sureness>
+      <status nil="true"></status>
+      <updater-id type="integer">10740</updater-id>
+      <tree-id type="integer">14031</tree-id>
+      <codes>atak</codes>
+      <tree-val>Attacapa: Powell 1891</tree-val>
+      <pub-comments>From the Choctaw word meaning "man-eater"</pub-comments>
+      <node-type>Subgroup</node-type>
+      <created-by>joe_leif</created-by>
+      <geography nil="true"></geography>
+      <creator-id type="integer">10740</creator-id>
+      <end-date nil="true"></end-date>
+      <confidence>y</confidence>
+      <children type="array">
+        <child>
+          <updated-by>joe_leif</updated-by>
+          <start-date nil="true"></start-date>
+          <created-at type="datetime">2009-07-15T18:33:30-04:00</created-at>
+          <id type="integer">513378</id>
+          <deleted-at nil="true"></deleted-at>
+          <alt-names></alt-names>
+          <updated-at type="datetime">2009-07-15T18:33:30-04:00</updated-at>
+          <publications>Powell, J. W. 1891. Indian Linguistic Families of America North of Mexico, 1-142. Washington D.C.: Government Printing Office. </publications>
+          <pri-name>Attacapa</pri-name>
+          <other-codes></other-codes>
+          <node-type-id type="integer">10001</node-type-id>
+          <sureness type="integer">0</sureness>
+          <status>Nearly Extinct</status>
+          <updater-id type="integer">10740</updater-id>
+          <tree-id type="integer">14031</tree-id>
+          <codes>aqp</codes>
+          <tree-val>Attacapa: Powell 1891</tree-val>
+          <pub-comments>Also spoken by another tribe, the Carankouas</pub-comments>
+          <node-type>Language</node-type>
+          <created-by>joe_leif</created-by>
+          <geography>Spoken in Texas</geography>
+          <creator-id type="integer">10740</creator-id>
+          <end-date nil="true"></end-date>
+          <confidence>y</confidence>
+          <children type="array"/>
+          <node-status-id type="integer">10001</node-status-id>
+          <is-default type="integer">0</is-default>
+        </child>
+      </children>
+      <node-status-id nil="true"></node-status-id>
+      <is-default type="integer">0</is-default>
+    </root>
+    <description>Attacapa: Powell 1891</description>
+  </tree>
+</hash>

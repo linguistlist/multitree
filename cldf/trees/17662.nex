@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Hokan: Composite]
+BEGIN TREES;
+TRANSLATE chd 'Highland Chontal',
+clo 'Lowland Chontal',
+hoka Hokan,
+jic 'Eastern Tol',
+jicq Tol,
+shok 'Southern Hokan',
+tequ Chontál;
+TREE 17662 = [&R] (((jic,jic)jicq,(clo,chd)tequ)shok)hoka;
+END;

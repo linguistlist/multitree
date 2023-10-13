@@ -1,0 +1,33 @@
+#NEXUS
+[MultiTree: West Oceanic: Dunn 2005]
+BEGIN TREES;
+TRANSLATE anes Austronesian,
+baa_baa_sen Sisiqa,
+bbn Bali,
+bcm Banoni,
+jae Jabêm,
+kij Kilivila,
+kkk Kokota,
+kxa Kairiru,
+lavn 'Lavongai-Nalik',
+lcm Tungag,
+mmel 'Meso-Melanesian',
+nal Nalik,
+nire 'New Ireland',
+nngu 'Northeast New Guinea',
+papt 'Papuan Tip',
+pss Kaulong,
+ptng 'Papuan Tip-Northeast New Guinea',
+pwg Gapapaiwa,
+rug Roviana,
+sjr Siar,
+snis 'South New Ireland-Northwest Solomonic',
+sps_tai Taiof,
+tbc Takia,
+tgo Sudest,
+tkkr 'Takia-Kairiru',
+unsg 'Kokota-Roviana',
+unsn 'Banoni-Roviana',
+woce 'Western Oceanic';
+TREE 21847 = [&R] ((((pwg,kij,tgo)papt,((kxa,tbc)tkkr,jae,pss)nngu)ptng,(((((kkk,rug)unsg,bcm,baa_baa_sen,sps_tai)unsn,sjr)snis,(lcm,nal)lavn)nire,bbn)mmel)woce)anes;
+END;

@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: North Bougainville: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE eiv Askopan,
+keri Keriaka,
+kjx Ramopa,
+konu Konua,
+kyx Rapoisi,
+nbou 'North Bougainville',
+roo Rotokas,
+roo_ait Aita,
+roo_ats Atsilima,
+roo_pip Pipipaia,
+roto Rotokas;
+TREE 21234 = [&R] ((kjx)keri,((roo_ats,roo_ait,roo_pip)roo,eiv)roto,(kyx)konu)nbou;
+END;

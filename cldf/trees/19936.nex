@@ -1,0 +1,12 @@
+#NEXUS
+[MultiTree: Tangic: Tryon 2007]
+BEGIN TREES;
+TRANSLATE gcd Yugulda,
+gcd_ngu Nguburindi,
+gyd Gayardilt,
+lbz Lardil,
+mtng Tangic,
+nny Nyangga,
+xxm Mingin;
+TREE 19936 = [&R] (gcd_ngu,nny,lbz,gyd,gcd,xxm)mtng;
+END;

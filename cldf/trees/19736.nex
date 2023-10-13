@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Laragiyan: Tryon 2007]
+BEGIN TREES;
+TRANSLATE lara Laragiyan,
+lark Laragiya,
+lrg Laragiya,
+wunc Wulna,
+wux Wulna;
+TREE 19736 = [&R] ((wux)wunc,(lrg)lark)lara;
+END;

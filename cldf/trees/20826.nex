@@ -1,0 +1,34 @@
+#NEXUS
+[MultiTree: Bahnaric, subtree of Mon-Khmer (Austro-Asiatic): Thomas 1979]
+BEGIN TREES;
+TRANSLATE alk Alak,
+bahn Bahnaric,
+bdq Bahnar,
+brb Brao,
+cbah 'Central Bahnaric',
+cmo_mnn Mnong,
+crw Chrau,
+cua Cua,
+ebah 'Eastern Bahnaric',
+hal Halăng,
+hre Hrê,
+jeg Cheng,
+jeh Jeh,
+kpm Koho,
+kpm_chi 'Koho Chil',
+kpm_lac 'Koho Lach',
+kpm_sre 'Koho Sre',
+lbo Laven,
+mng 'Eastern Mnong',
+nbah 'North Bahnaric',
+nev Nyaheun,
+oyb Oi,
+ren Rengao,
+sbah 'South Bahnaric',
+sed Sedang,
+sti_stt Stieng,
+tkz Takua,
+tpu Tampuan,
+wbah 'West Bahnaric';
+TREE 20826 = [&R] ((alk,tpu,bdq)cbah,((kpm_lac,kpm_sre,kpm_chi)kpm,(mng)cmo_mnn,sti_stt,crw)sbah,(jeg,oyb,lbo,brb,brb,nev)wbah,(jeh,ren,hre,sed,hal)nbah,(tkz,cua)ebah)bahn;
+END;

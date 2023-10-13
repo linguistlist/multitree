@@ -10,10 +10,11 @@ MultiTree represents the most complete collection of language relationship hypot
 
 property | value
  --- | ---
+[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | MultiTree: A digital library of language relationships. Institute for Language Information and Technology: Ypsilanti, MI. 2013.
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Generic](http://cldf.clld.org/v1.0/terms.rdf#Generic)
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by-sa/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/linguistlist/multitree
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/linguistlist/multitree/tree/583d4c8">linguistlist/multitree 583d4c8</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/linguistlist/multitree/tree/4c46362">linguistlist/multitree 4c46362</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.10.12</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | multitree
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -24,7 +25,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 34113
+[dc:extent](http://purl.org/dc/terms/extent) | 34110
 
 
 ### Columns
@@ -38,6 +39,7 @@ Name/Property | Datatype | Description
 [Longitude](http://cldf.clld.org/v1.0/terms.rdf#longitude) | `decimal` | 
 [Glottocode](http://cldf.clld.org/v1.0/terms.rdf#glottocode) | `string` | 
 [ISO639P3code](http://cldf.clld.org/v1.0/terms.rdf#iso639P3code) | `string` | 
+`MultiTree_Names` | list of `string` (separated by ` | `) | 
 
 ## <a name="table-treescsv"></a>Table [trees.csv](./trees.csv)
 
@@ -59,15 +61,16 @@ Name/Property | Datatype | Description
 [Tree_Branch_Length_Unit](http://cldf.clld.org/v1.0/terms.rdf#treeBranchLengthUnit) | `string` | The unit used to measure evolutionary time in phylogenetic trees.
 [Media_ID](http://cldf.clld.org/v1.0/terms.rdf#mediaReference) | `string` | References a file containing a Newick representation of the tree, labeled with identifiers as described in the LanguageTable (the [Media_Type](https://cldf.clld.org/v1.0/terms.html#mediaType) column of this table should provide enough information to chose the appropriate tool to read the newick)<br>References [media.csv::ID](#table-mediacsv)
 [Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
-[Region](http://purl.org/dc/terms/spatial) | list of `string` (separated by `;`) | 
-`Node_Metadata` | list of `string` (separated by `;`) | 
+[Regions](http://purl.org/dc/terms/spatial) | list of `string` (separated by `;`) | Geographic regions where the languages in a tree are spoken. Roughly the seven continents with 'Pacific' and 'Central America' added as separate regions.
+`Node_Metadata` | list of `string` (separated by `;`) | List of column names in nodes.csv for which the tree providesvalues for some (or all) of its nodes.
+`Source_Comment` | `string` | Description of the sources as given in the MultiTree tree files.
 
 ## <a name="table-mediacsv"></a>Table [media.csv](./media.csv)
 
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF MediaTable](http://cldf.clld.org/v1.0/terms.rdf#MediaTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 1
+[dc:extent](http://purl.org/dc/terms/extent) | 1485
 
 
 ### Columns
@@ -97,7 +100,7 @@ Name/Property | Datatype | Description
 [ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
 [Language_ID](http://cldf.clld.org/v1.0/terms.rdf#languageReference) | `string` | References [languages.csv::ID](#table-languagescsv)
 [Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
-`Tree_ID` | `string` | References [trees.csv::ID](#table-treescsv)
+`Tree_ID` | `string` | References the tree in which the node appears.<br>References [trees.csv::ID](#table-treescsv)
 [Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
 `Node_Type` | `string` | 
 `Geography` | `string` | 

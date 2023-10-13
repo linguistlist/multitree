@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Solomons East Papuan: Dryer 2005]
+BEGIN TREES;
+TRANSLATE blb Bilua,
+csol 'Solomons East Papuan',
+lvk Lavukaleve,
+svs Savosavo;
+TREE 12165 = [&R] (lvk,blb,svs)csol;
+END;

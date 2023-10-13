@@ -1,0 +1,33 @@
+#NEXUS
+[MultiTree: Na-Dene: Dryer 2005]
+BEGIN TREES;
+TRANSLATE aht Ahtna,
+apj 'Apache (Jicarilla)',
+apm 'Apache (Chiricahua)',
+apw 'Apache (Western)',
+atha Athapaskan,
+chp Chipewyan,
+crx Carrier,
+eya Eyak,
+eyak Eyak,
+gwi Kutchin,
+hup Hupa,
+ing 'Degexit''an',
+koy Koyukon,
+ktw Kato,
+kuu 'Upper Kuskokwim',
+mvb Mattole,
+nadn 'Na-Dene',
+nav Navajo,
+ql9_cha 'Chasta Costa',
+scs_xsl Slave,
+srs Sarcee,
+taa 'Tanana (Lower)',
+tcb Tanacross,
+tfn Tanaina,
+tli Tlingit,
+tlin Tlingit,
+ttm 'Tutchone (Northern)',
+xsl Slavey;
+TREE 11798 = [&R] ((kuu,chp,ttm,ing,aht,scs_xsl,nav,mvb,gwi,ktw,hup,ql9_cha,apj,tfn,tcb,apw,apm,taa,xsl,srs,crx,koy)atha,(eya)eyak,(tli)tlin)nadn;
+END;

@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Chocoan: Composite]
+BEGIN TREES;
+TRANSLATE 0zo Zenú,
+aoh Arma,
+bdc_cmi_sja_tdc 'Southern Emberá',
+cca Cauca,
+choc Chocoan,
+crf Caramanta,
+cto_emp 'Northern Emberá',
+embr Emberá,
+noa Waunana,
+rna Runa;
+TREE 17161 = [&R] (noa,cca,crf,(cto_emp,bdc_cmi_sja_tdc)embr,aoh,rna,0zo)choc;
+END;

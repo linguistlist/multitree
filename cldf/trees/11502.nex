@@ -1,0 +1,14 @@
+#NEXUS
+[MultiTree: Kalapuyan: Mithun 1999]
+BEGIN TREES;
+TRANSLATE kalp Kalapuyan,
+kly_lmr 'Lower McKenzie River',
+kyl Tualatin,
+kyl_aha Ahantchuyuk,
+kyl_luc Luckiamute,
+kyl_mar 'Mary''s River',
+nrt 'Northern Kalapuyan',
+nrt_yam Yamhill,
+sxk 'Southern Kalapuyan';
+TREE 11502 = [&R] ((kyl_luc,kyl_aha,kyl_mar,kyl,kly_lmr)kyl,sxk,(nrt_yam,kyl)nrt)kalp;
+END;

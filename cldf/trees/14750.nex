@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Yuman: Powell 1891]
+BEGIN TREES;
+TRANSLATE coc Cocopa,
+coj Cochimi,
+dih Diegueño,
+mov Mohave,
+mrc Maricopa,
+qea Waicuru,
+sei Seri,
+yuf_hav Havasupai,
+yuf_wal Walapai,
+yum Cuchan,
+yuma Yuman;
+TREE 14750 = [&R] (sei,coc,yuf_wal,dih,yum,qea,mrc,yuf_hav,coj,mov)yuma;
+END;

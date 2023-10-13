@@ -1,0 +1,28 @@
+#NEXUS
+[MultiTree: Arai-Kwomtari: Ethnologue 2009]
+BEGIN TREES;
+TRANSLATE akwo 'Arai-Kwomtari',
+amm Ama,
+bbf Baibai,
+bio Nai,
+faas Fas,
+fqs Fas,
+fqs_eas 'Eastern Fas',
+fqs_wes 'Western Fas',
+grx Guriaso,
+guri Guriaso,
+itr Iteri,
+kwmt Kwomtari,
+kwo Kwomtari,
+kwo_eko 'Ekos-Yenabi-Maragin',
+kwo_wes 'West Central Kwomtari',
+kwta Kwomtari,
+lema Arai,
+niw Nimo,
+nuck 'Nuclear Kwomtari',
+nukw 'Nuclear Kwomtari',
+owi Owiniga,
+pby Pyu,
+pyuu Pyu;
+TREE 21745 = [&R] ((amm,owi,niw,itr)lema,(((fqs_wes,fqs_eas)fqs,bbf)faas,((grx)guri,((kwo_wes,kwo_eko)kwo)nukw)kwmt,(pby)pyuu,(bio)nuck)kwta)akwo;
+END;

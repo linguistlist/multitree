@@ -1,0 +1,21 @@
+#NEXUS
+[MultiTree: Proto Ok-Oksapmin: Loughnane and Fedden 2011]
+BEGIN TREES;
+TRANSLATE bhl Bimin,
+fai Faiwol,
+iwo Iwoer,
+kti_kts Kati,
+look 'Proto Lowland Ok',
+mook 'Proto Mountain Ok',
+mpt Mian,
+okkk 'Proto Ok',
+okok 'Proto Ok-Oksapmin',
+oksa Oksapmin,
+opm Oksapmin,
+szb Ngalum,
+tif Tifal,
+tlf Telefol,
+weok 'Proto Western Ok',
+yon Yomggom;
+TREE 22805 = [&R] ((opm)oksa,((kti_kts,iwo,yon,szb)look,weok,(tlf,fai,tif,mpt,bhl)mook)okkk)okok;
+END;

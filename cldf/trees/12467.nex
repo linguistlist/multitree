@@ -1,0 +1,7 @@
+#NEXUS
+[MultiTree: Itonama: Dryer 2005]
+BEGIN TREES;
+TRANSLATE itnm Itonama,
+ito Itonama;
+TREE 12467 = [&R] (ito)itnm;
+END;

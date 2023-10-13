@@ -1,0 +1,17 @@
+#NEXUS
+[MultiTree: Dravidian: Andronov 1978]
+BEGIN TREES;
+TRANSLATE bmpc 'Gondi-Kui',
+brh Brahui,
+cafk 'Kolami-Tamil',
+drav Dravidian,
+fksv 'Central-South Dravidian',
+fuhm 'Telugu-Tamil',
+psda 'Tulu-Tamil',
+qffe 'Dravidian Proper',
+qtlo 'Kannada-Tamil',
+tcy Tulu,
+tel Telugu,
+xeui 'Kurux-Malto';
+TREE 11413 = [&R] ((xeui,((((qtlo,tcy)psda,tel)fuhm)cafk,bmpc)fksv)qffe,brh)drav;
+END;

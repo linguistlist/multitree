@@ -1,0 +1,15 @@
+#NEXUS
+[MultiTree: Takelman: Campbell 1997]
+BEGIN TREES;
+TRANSLATE kalp Kalapuyan,
+kyl 'Central Kalapuya',
+kyl_kyl_san Santiam,
+kyl_mar 'Mary''s River',
+nrt 'Northern Kalapuya',
+nrt_tua Tualatin,
+nrt_yam Yamhill,
+sxk 'Southern Kalapuya',
+takm Takelman,
+tkm Takelma;
+TREE 11952 = [&R] (((kyl_mar,kyl_kyl_san)kyl,(nrt_yam,nrt_tua)nrt,sxk)kalp,tkm)takm;
+END;

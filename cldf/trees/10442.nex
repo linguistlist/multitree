@@ -1,0 +1,19 @@
+#NEXUS
+[MultiTree: Kwomtari-Baibai: Composite 2008]
+BEGIN TREES;
+TRANSLATE baib Baibai,
+bbf Baibai,
+bio Nai,
+fqs Fas,
+fqs_eas 'Eastern Fas',
+fqs_wes 'Western Fas',
+grx Guriaso,
+kwba 'Kwomtari-Baibai',
+kwo Kwomtari,
+kwo_eko 'Ekos-Yenabi-Maragin',
+kwo_wes 'West Central Kwomtari',
+kwom Kwomtari,
+pby Pyu,
+pyuu Pyu;
+TREE 10442 = [&R] ((bbf,bio)baib,((fqs_eas,fqs_wes)fqs,grx,(kwo_eko,kwo_wes)kwo)kwom,(pby)pyuu)kwba;
+END;

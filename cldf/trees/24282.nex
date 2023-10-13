@@ -1,0 +1,10 @@
+#NEXUS
+[MultiTree: Proto-South-Sulawesi: Adelaar 1994]
+BEGIN TREES;
+TRANSLATE hwyf Tamanic,
+maks 'South Sulawesi',
+ssul 'Proto-South-Sulawesi',
+susu 'South Sulawesi',
+tasu 'Tamanic-South Sulawesi';
+TREE 24282 = [&R] ((hwyf,susu)tasu,maks)ssul;
+END;

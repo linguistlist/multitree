@@ -1,0 +1,9 @@
+#NEXUS
+[MultiTree: Chinookan: Golla, Goddard, Campbell, Mithun, Mixco 2007]
+BEGIN TREES;
+TRANSLATE chh 'Lower Chinook',
+chik Chinookan,
+qp8_wac_cat Cathlamet,
+wac Kiksht;
+TREE 16699 = [&R] (wac,chh,qp8_wac_cat)chik;
+END;

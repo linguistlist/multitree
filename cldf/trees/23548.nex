@@ -1,0 +1,25 @@
+#NEXUS
+[MultiTree: Caribe: Gilij (in Campbell, Grondona 2012)]
+BEGIN TREES;
+TRANSLATE 10f Kikirípa,
+10g Oye,
+10h Akerecoto,
+10i Avaricoto,
+10j Pariacoto,
+10l Cumanacoto,
+10m Guanero,
+10n Guaikíri,
+10o Palenco,
+10p Areveriana,
+1zc Pareca,
+1zd 'Uaracá-Pachilí',
+1ze 'Uara-Múcuru',
+1zf Payuro,
+car Caribe,
+cari Caribe,
+mcg_yar Mapoye,
+mch Maquiritare,
+tmz Tamanaco,
+yar_wok Uokeári;
+TREE 23548 = [&R] (10h,tmz,1ze,1zf,10p,10n,10f,10o,10g,yar_wok,mcg_yar,1zc,mch,1zd,10l,car,10m,10i,10j)cari;
+END;

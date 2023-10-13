@@ -1,0 +1,16 @@
+#NEXUS
+[MultiTree: Wakashan: Goddard 1996]
+BEGIN TREES;
+TRANSLATE dtd Nitinaht,
+has Haisla,
+hei 'Heiltsuk-Oowekyala',
+hei_bel 'Haihais-Bella Bella',
+hei_oow Oowekeeno,
+kwk Kwakiutl,
+myh Makah,
+nuk Nootka,
+nwak Kwakiutlan,
+swak Nootkan,
+waka Wakashan;
+TREE 10932 = [&R] ((has,(hei_bel,hei_oow)hei,kwk)nwak,(nuk,dtd,myh)swak)waka;
+END;
