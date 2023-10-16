@@ -6,7 +6,7 @@ bs4==0.0.1
 certifi==2023.7.22
 cldfbench==1.14.0
 -e git+https://github.com/linguistlist/LL-map@daa33de980ee69944195b0cca7fdb7c856944c0b#egg=cldfbench_llmap
--e git+https://github.com/linguistlist/multitree@4c46362e7fc543ed821c94f5db63d5a3855212b6#egg=cldfbench_multitree
+-e git+https://github.com/linguistlist/multitree@8c2695f4c7c8a59da7ded90c2af6049cd4bb36bf#egg=cldfbench_multitree
 cldfcatalog==1.5.1
 cldfviz==1.0.0
 cldfzenodo==1.1.0

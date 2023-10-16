@@ -141,3 +141,7 @@ Sino-Caucasian Macrophylum: Bengtson 1991
 
 Should the trees get too big for inspection in the terminal, [cldfviz.tree](https://github.com/cldf/cldfviz/blob/main/docs/tree.md)
 may help.
+
+Note that the actual Newick representations of the trees are stored in the Nexus format in [`cldf/trees`](cldf/trees).
+Thus, if you know the ID of a tree you want to visualize, you can find the corresponding Nexus file and use a service
+such as https://icytree.org/ to render the tree in the browser (and export to various image formats).
